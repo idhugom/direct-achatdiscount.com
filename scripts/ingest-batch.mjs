@@ -18,9 +18,19 @@ async function downloadFile(id) {
   return await r.text();
 }
 
+async function loadState() {
+  // priorité au fichier durable committé, sinon état local du batch
+  for (const p of [resolve(ROOT, 'data/batch-state.json'), resolve(BATCH_DIR, 'state.json')]) {
+    try { return JSON.parse(await readFile(p, 'utf8')); } catch { /* suivant */ }
+  }
+  throw new Error('Aucun état de batch (data/batch-state.json manquant).');
+}
+
 async function main() {
-  const state = JSON.parse(await readFile(resolve(BATCH_DIR, 'state.json'), 'utf8'));
-  const map = JSON.parse(await readFile(resolve(BATCH_DIR, 'map.json'), 'utf8'));
+  const state = await loadState();
+  // map custom_id (= id du post) → post, reconstruit depuis wp-posts.json (auto-suffisant)
+  const posts = JSON.parse(await readFile(resolve(ROOT, 'data/wp-posts.json'), 'utf8'));
+  const map = Object.fromEntries(posts.map((p) => [String(p.id), p]));
 
   const meta = await (await fetch(`https://api.openai.com/v1/batches/${state.batchId}`, {
     headers: { Authorization: `Bearer ${KEY}` },

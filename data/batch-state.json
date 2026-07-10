@@ -1,0 +1,8 @@
+{
+  "batchId": "batch_6a5144f803048190aaea227036500431",
+  "inputFileId": "file-L6oFGLfsVN81mzXE8KaF4v",
+  "endpoint": "/v1/responses",
+  "count": 881,
+  "submittedAt": "2026-07-10",
+  "note": "Batch de génération des articles restants. Ingestion : npm run ai:batch:ingest puis npm run wp:images && npm run build."
+}
