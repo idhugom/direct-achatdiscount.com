@@ -1,0 +1,418 @@
+{
+  "title": "Comment créer un aquaterrarium idéal pour votre tortue d’eau",
+  "slug": "comment-creer-un-aquaterrarium-ideal-pour-votre-tortue-deau",
+  "path": "/divers/comment-creer-un-aquaterrarium-ideal-pour-votre-tortue-deau.html",
+  "category": "loisirs",
+  "tags": [
+    "aquaterrarium",
+    "tortue d'eau",
+    "terrariophilie",
+    "filtration aquarium",
+    "lampe uvb",
+    "bien-être animal"
+  ],
+  "excerpt": "Le bon aquaterrarium dépend de l’espèce, de sa taille adulte et de ses besoins en eau, chaleur, UVB et repos à sec. Voici comment le concevoir.",
+  "metaDescription": "Dimensions, eau, filtration, chauffage, UVB et plage sèche : créez un aquaterrarium sûr et durable pour votre tortue d’eau.",
+  "seoTitle": "Créer un aquaterrarium idéal pour tortue d’eau",
+  "heroKicker": "Habitat bien pensé",
+  "readingTime": 12,
+  "date": "2024-11-02T20:36:18",
+  "image": {
+    "id": "2546",
+    "alt": "Comment créer un aquaterrarium idéal pour votre tortue d’eau",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un aquaterrarium ne se résume pas à un aquarium rempli d’eau avec un rocher au milieu. Pour qu’une tortue d’eau puisse nager, sécher complètement, se thermoréguler et grandir sans vivre dans une eau dégradée, l’installation doit être dimensionnée selon son espèce et pensée pour durer plusieurs années."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel avant d’acheter",
+      "items": [
+        "<strong>Choisissez d’abord pour la taille adulte</strong> : une petite tortue vendue juvénile peut devenir très encombrante.",
+        "L’habitat doit offrir trois zones distinctes : <strong>eau de nage, plage sèche accessible et zone éclairée/chauffée</strong>.",
+        "Une filtration puissante et un aquarium correctement cyclé sont plus importants qu’un décor sophistiqué.",
+        "La lampe UVB et la source de chaleur doivent être adaptées, placées à bonne distance et renouvelées suivant les préconisations du fabricant.",
+        "N’achetez jamais une tortue sans connaître son espèce, son origine légale et ses besoins particuliers ; <strong>aucune tortue captive ne doit être relâchée dans la nature</strong>."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L’aquaterrarium idéal commence par l’espèce, pas par le bac",
+      "id": "l-aquaterrarium-ideal-commence-par-l-espece-pas-par-le-bac"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme « tortue d’eau » couvre des animaux aux exigences très différentes. Certaines espèces sont de bonnes nageuses et utilisent volontiers une eau profonde ; d’autres, plus lourdes ou moins aquatiques, ont besoin d’une pente douce, de nombreux appuis et d’une profondeur plus prudente. Leur taille adulte peut également aller d’un petit gabarit à une carapace dépassant largement ce qu’un aquarium de salon standard peut accueillir. C’est pourquoi la première décision ne doit pas être esthétique : elle doit être biologique et logistique."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne vous fiez pas à la taille en animalerie",
+      "html": "Une tortue de quelques centimètres n’est souvent qu’un juvénile. Renseignez-vous sur son <strong>nom scientifique</strong>, sa taille adulte, son tempérament, ses capacités de nage et ses obligations de détention avant toute acquisition. En France, certaines espèces ou sous-espèces sont soumises à une réglementation particulière, tandis que des tortues exotiques invasives ne doivent ni être commercialisées ni relâchées. Conservez systématiquement les documents d’origine et vérifiez les règles applicables auprès des autorités compétentes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Prévoir la vie adulte plutôt que multiplier les petits bacs",
+      "id": "prevoir-la-vie-adulte-plutot-que-multiplier-les-petits-bacs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un habitat trop petit se salit vite, limite les déplacements et rend les écarts de température plus brutaux. Il conduit aussi à des déménagements successifs, coûteux et stressants. Si vous adoptez une espèce à croissance importante, prévoyez dès le départ un très grand bac, une cuve sur mesure ou, selon le cas, un bassin intérieur sécurisé. Un aquarium long et large est généralement plus utile qu’un aquarium très haut : la surface de nage, l’espace de demi-tour et la surface d’échange avec l’air comptent énormément."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dimensionner le bac : surface, profondeur et sécurité",
+      "id": "dimensionner-le-bac-surface-profondeur-et-securite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas un volume universel valable pour toutes les tortues. Comme repère de conception, partez de la longueur de carapace adulte et de la manière dont l’animal nage. Pour une espèce aquatique de taille moyenne, le bac doit permettre de nager réellement, de se retourner sans toucher les parois et de rejoindre la plage sèche sans effort. Une hauteur d’eau d’au moins une fois et demie à deux fois la longueur de carapace est souvent confortable pour une tortue en bonne santé qui nage bien, mais ce n’est pas une règle à appliquer aux espèces médiocres nageuses, aux très jeunes individus ou à un animal convalescent."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de conception à adapter à l’espèce et à la taille adulte",
+      "headers": [
+        "Élément",
+        "Ce qu’il faut viser",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Longueur et largeur du bac",
+          "Une grande empreinte au sol, avec une zone de nage dégagée et une plage qui ne réduit pas excessivement le volume utile.",
+          "Un bac « haut mais étroit » est rarement un bon compromis."
+        ],
+        [
+          "Profondeur d’eau",
+          "Profondeur adaptée aux capacités de nage, avec des paliers, racines ou supports si nécessaire.",
+          "Évitez d’imposer une eau profonde à une espèce ou un individu qui ne peut pas remonter facilement."
+        ],
+        [
+          "Plage sèche",
+          "Une surface assez grande pour accueillir la tortue entière, carapace comprise, totalement hors de l’eau.",
+          "Une pierre partiellement émergée ne constitue pas une vraie zone de repos."
+        ],
+        [
+          "Hauteur des parois",
+          "Une marge suffisante au-dessus du niveau d’eau, complétée si besoin par un couvercle solide et ventilé.",
+          "Les tortues grimpent étonnamment bien : câbles, filtre et décor peuvent servir d’échelle."
+        ],
+        [
+          "Support du meuble",
+          "Un meuble parfaitement plan, prévu pour supporter durablement le poids de l’eau, du verre et du matériel.",
+          "Un grand aquaterrarium pèse rapidement plusieurs centaines de kilos une fois installé."
+        ]
+      ],
+      "note": "Les dimensions exactes doivent toujours être validées à partir de la fiche d’élevage de l’espèce concernée, et non à partir de la taille de l’animal le jour de l’achat."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réunir le matériel indispensable : eau propre, chaleur et UVB",
+      "id": "reunir-le-materiel-indispensable-eau-propre-chaleur-et-uvb"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une installation fiable repose sur du matériel simple, mais correctement dimensionné. Il vous faut au minimum une cuve robuste, un système de filtration adapté à une forte production de déchets, un chauffage d’eau si l’espèce et la température de la pièce le demandent, deux thermomètres, une plateforme sèche, une lampe chauffante et une source d’UVB. Ajoutez un conditionneur d’eau si votre réseau est chloré ou chloraminé, des tests d’eau et des protections pour les câbles et le chauffage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Température : créer un gradient, pas une chaleur uniforme",
+      "id": "temperature-creer-un-gradient-pas-une-chaleur-uniforme"
+    },
+    {
+      "type": "paragraph",
+      "html": "La tortue doit pouvoir choisir sa température. L’eau est généralement maintenue dans une plage modérée correspondant à l’espèce et à l’âge ; pour nombre de tortues aquatiques courantes, on rencontre souvent des repères autour de <strong>22 à 26 °C chez l’adulte</strong>, parfois davantage pour un jeune animal ou une espèce tropicale. La plage de basking doit être nettement plus chaude, fréquemment autour de <strong>30 à 35 °C</strong>. Mesurez la température à hauteur de carapace sur la plage, pas seulement près de l’ampoule. Une pièce déjà chaude ne dispense pas forcément d’une zone chaude localisée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "UVB et lumière : indispensables à la santé de la carapace",
+      "id": "uvb-et-lumiere-indispensables-a-la-sante-de-la-carapace"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les UVB participent notamment au métabolisme du calcium et à la bonne santé osseuse. Installez une source UVB conçue pour les reptiles au-dessus de la plage sèche, sans vitre ni plastique entre la lampe et l’animal : ces matériaux filtrent une grande partie des UV utiles. Respectez la distance préconisée pour le modèle choisi, utilisez un réflecteur lorsque cela est recommandé et remplacez l’ampoule ou le tube au rythme indiqué par son fabricant, même si la lampe éclaire encore. Un cycle jour-nuit régulier est préférable ; une lumière visible allumée en permanence perturbe le repos."
+    },
+    {
+      "type": "paragraph",
+      "html": "La filtration doit être choisie pour un aquarium très chargé. Les tortues produisent beaucoup plus de déchets qu’un bac planté de poissons de même volume. Un filtre externe à grand volume de masses filtrantes est souvent le choix le plus confortable sur un grand aquaterrarium ; un filtre interne puissant peut convenir sur un petit bac temporaire, mais il occupe de la place et demande souvent plus d’entretien. Comme point de départ prudent, choisissez un filtre annoncé pour un volume nettement supérieur au volume réel du bac, puis ajustez selon les tests d’eau, les odeurs et l’encrassement."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "22–26 °C",
+          "label": "repère courant pour l’eau de nombreuses espèces adultes, à ajuster impérativement"
+        },
+        {
+          "value": "30–35 °C",
+          "label": "repère fréquent sur la zone sèche chauffée"
+        },
+        {
+          "value": "20–30 %",
+          "label": "renouvellement d’eau partiel souvent pratiqué lors de l’entretien"
+        },
+        {
+          "value": "0",
+          "label": "objectif pour les nitrites et l’ammoniac dans une eau stabilisée"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Aménager une vraie plage sèche, accessible et stable",
+      "id": "amenager-une-vraie-plage-seche-accessible-et-stable"
+    },
+    {
+      "type": "paragraph",
+      "html": "La zone émergée est un élément de santé, pas un accessoire décoratif. La tortue doit pouvoir y sortir sans glisser, y tenir entièrement au sec et s’y exposer à la chaleur comme aux UVB. Une rampe à pente douce, rugueuse mais non abrasive, est préférable à une paroi raide. Vérifiez aussi la stabilité : une plateforme qui bascule ou se décroche peut blesser l’animal et le dissuader de sortir de l’eau."
+    },
+    {
+      "type": "comparison",
+      "title": "Plateforme flottante ou plage fixe : quel choix ?",
+      "left": {
+        "title": "Plateforme flottante ou suspendue",
+        "points": [
+          "Libère davantage de volume d’eau sous la plage.",
+          "Suit le niveau d’eau lorsque celui-ci varie légèrement.",
+          "Pratique dans certains bacs standards si elle est solidement fixée.",
+          "Peut devenir trop petite, instable ou difficile d’accès pour une tortue lourde."
+        ]
+      },
+      "right": {
+        "title": "Plage fixe intégrée ou aménagée au-dessus du bac",
+        "points": [
+          "Très stable et facile à dimensionner pour un grand individu.",
+          "Permet de conserver un niveau d’eau élevé tout en offrant une large zone sèche.",
+          "Facilite le placement précis des lampes et limite l’encombrement dans l’eau.",
+          "Demande davantage de fabrication, de place et une protection anti-évasion sérieuse."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Décor : les bons réflexes",
+      "items": [
+        "Gardez une large zone de nage libre : le décor ne doit pas transformer le bac en parcours d’obstacles.",
+        "Choisissez des pierres lourdes et parfaitement stables, posées de manière à ne jamais pouvoir s’effondrer sur la tortue.",
+        "Évitez les petits graviers et galets avalables ; une tortue peut les ingérer. Un fond nu est le plus facile à nettoyer.",
+        "Si vous ajoutez du sable, renseignez-vous selon l’espèce et siphonnez-le régulièrement pour éviter l’accumulation de déchets.",
+        "Écartez les objets coupants, les plantes toxiques, les résines qui se dégradent et tout élément dont la peinture peut s’écailler.",
+        "Cachez ou protégez soigneusement les résistances chauffantes et les câbles, que certaines tortues peuvent cogner ou déplacer."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer l’eau avant l’arrivée de la tortue",
+      "id": "preparer-l-eau-avant-l-arrivee-de-la-tortue"
+    },
+    {
+      "type": "paragraph",
+      "html": "Remplir un bac et y installer l’animal le jour même est une erreur fréquente. Un aquarium doit passer par un cycle biologique : les bactéries utiles colonisent les masses filtrantes et transforment les déchets toxiques en composés moins dangereux. Cette maturation demande du temps. Durant cette période, surveillez l’ammoniac, les nitrites et les nitrates avec des tests adaptés. L’eau transparente n’est pas forcément saine ; à l’inverse, une eau légèrement teintée par une racine naturelle n’est pas nécessairement problématique."
+    },
+    {
+      "type": "steps",
+      "title": "Mettre l’aquaterrarium en route sans précipitation",
+      "items": [
+        {
+          "title": "Installez et testez à vide",
+          "text": "Placez le bac sur son meuble définitif, contrôlez l’horizontalité, installez la plage, le filtre, le chauffage et les protections. Faites un essai d’étanchéité avant de décorer."
+        },
+        {
+          "title": "Remplissez et conditionnez l’eau",
+          "text": "Utilisez de l’eau à température proche de la cible et un conditionneur si cela est nécessaire dans votre commune. Faites fonctionner filtre et chauffage en continu."
+        },
+        {
+          "title": "Réglez la zone sèche",
+          "text": "Positionnez lampe chauffante et UVB selon les distances recommandées. Mesurez séparément l’eau et le point où la tortue se posera."
+        },
+        {
+          "title": "Laissez le filtre se coloniser",
+          "text": "Suivez le cycle à l’aide de tests, sans ajouter la tortue dans un bac instable. Le délai varie avec le matériel et les conditions ; la patience évite des intoxications."
+        },
+        {
+          "title": "Introduisez et observez",
+          "text": "À l’arrivée, limitez les manipulations. Vérifiez chaque jour que la tortue nage, respire normalement, accède à la plage et peut s’y sécher entièrement."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le filtre ne remplace pas les changements d’eau",
+      "html": "Même avec une filtration très performante, retirez les restes de nourriture et les déjections visibles, siphonnez les zones sales et renouvelez une partie de l’eau régulièrement. Ne remplacez pas toutes les masses filtrantes ni toute l’eau en même temps : vous risqueriez de déstabiliser la filtration biologique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prévoir un budget réaliste et acheter dans le bon ordre",
+      "id": "prevoir-un-budget-realiste-et-acheter-dans-le-bon-ordre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût réel d’un aquaterrarium est surtout lié à la taille adulte de la tortue, à la cuve et à la filtration. Un ensemble conçu pour un petit individu de manière transitoire peut sembler abordable, mais il devient vite une fausse économie s’il doit être remplacé. Pour une installation neuve correctement équipée destinée à une espèce de taille moyenne, comptez généralement <strong>plusieurs centaines d’euros</strong>. Pour une grande espèce, une cuve très volumineuse, une plage sur mesure et du matériel robuste, le budget peut atteindre ou dépasser <strong>le millier d’euros</strong>, sans compter l’électricité, les consommables et les soins vétérinaires."
+    },
+    {
+      "type": "table",
+      "caption": "Où concentrer votre budget",
+      "headers": [
+        "Poste",
+        "Niveau de priorité",
+        "Conseil d’achat"
+      ],
+      "rows": [
+        [
+          "Cuve et meuble",
+          "Très élevé",
+          "Privilégiez la surface au sol, la solidité et la capacité finale plutôt qu’un petit bac décoratif."
+        ],
+        [
+          "Filtration",
+          "Très élevé",
+          "Choisissez un appareil surdimensionné, facile à entretenir et capable d’accueillir beaucoup de masses biologiques."
+        ],
+        [
+          "UVB, chauffage et minuteries",
+          "Très élevé",
+          "N’économisez pas sur les équipements liés à la thermorégulation et aux UVB ; prévoyez le remplacement des sources lumineuses."
+        ],
+        [
+          "Plage sèche et sécurisation",
+          "Élevé",
+          "La plateforme doit supporter l’animal adulte et le couvercle ne doit pas compromettre la ventilation."
+        ],
+        [
+          "Décor et plantes",
+          "Modéré",
+          "Achetez après les éléments vitaux. Le décor doit rester simple à nettoyer et sûr."
+        ],
+        [
+          "Tests, épuisette, siphon et consommables",
+          "Élevé",
+          "Ce sont de petits achats qui évitent les problèmes d’eau et facilitent l’entretien au long cours."
+        ]
+      ],
+      "note": "L’occasion peut être intéressante pour la cuve ou le meuble si l’état, l’étanchéité et la compatibilité avec le matériel sont vérifiés. N’achetez pas un équipement électrique usé sans pouvoir le contrôler."
+    },
+    {
+      "type": "proscons",
+      "title": "Kit tout-en-un ou installation composée ?",
+      "pros": [
+        "Un kit peut simplifier le démarrage et réunir cuve, éclairage et filtration dans un ensemble cohérent.",
+        "Une installation composée permet de choisir un filtre, une plage et un éclairage réellement adaptés à l’espèce.",
+        "Le matériel séparé est souvent plus simple à faire évoluer lorsque la tortue grandit.",
+        "Un grand bac d’occasion bien vérifié peut réduire fortement le coût de départ."
+      ],
+      "cons": [
+        "Les kits destinés aux juvéniles sont parfois trop petits pour la taille adulte et leur filtration peut être insuffisante.",
+        "Un assemblage sur mesure demande davantage de recherche, de mesures et de tests avant l’arrivée de l’animal.",
+        "L’occasion peut cacher des rayures, des joints fragiles ou un meuble non adapté à la charge.",
+        "Le prix d’achat ne reflète pas les dépenses récurrentes : alimentation, électricité, ampoules et suivi vétérinaire."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretenir l’habitat et nourrir sans dégrader l’eau",
+      "id": "entretenir-l-habitat-et-nourrir-sans-degrader-l-eau"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entretien s’organise autour de petites actions régulières plutôt que de grands nettoyages agressifs. Chaque jour, vérifiez les températures, le fonctionnement du filtre, l’accès à la plage et l’état général de la tortue. Retirez sans attendre les restes d’aliments. Selon la charge du bac et les résultats des tests, réalisez des changements d’eau partiels, puis rincez les mousses de préfiltration dans l’eau retirée de l’aquarium, jamais sous l’eau chlorée du robinet. Les masses biologiques ne se changent que lorsqu’elles se délitent réellement."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’alimentation dépend également de l’espèce et de l’âge. Une alimentation industrielle complète adaptée aux tortues aquatiques peut former une base pratique, complétée selon les besoins par des végétaux, des proies ou des aliments spécifiques. Les jeunes sont souvent plus carnivores que les adultes, mais il ne faut pas généraliser. Évitez les repas excessifs, les aliments humains salés ou assaisonnés et le recours systématique aux crevettes séchées, peu équilibrées utilisées seules. Nourrir dans un bac séparé est parfois envisagé pour limiter les déchets, mais les manipulations répétées peuvent stresser l’animal : dans la plupart des cas, nourrir dans l’aquaterrarium et nettoyer rapidement est plus simple."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Routine d’entretien utile",
+      "items": [
+        "Contrôlez chaque jour la température de l’eau, la température de la plage et le bon fonctionnement des lampes.",
+        "Retirez les aliments non consommés après le repas pour éviter qu’ils ne polluent l’eau.",
+        "Testez l’eau plus souvent au démarrage, après un incident de filtre ou si une odeur inhabituelle apparaît.",
+        "Effectuez des renouvellements partiels réguliers, adaptés aux résultats des tests et à la charge organique.",
+        "Nettoyez le préfiltre dès que le débit diminue, sans stériliser toutes les masses filtrantes.",
+        "Lavez-vous soigneusement les mains après toute manipulation de l’eau, de la tortue ou de son matériel ; ne nettoyez pas ces éléments dans l’évier de la cuisine."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Éviter les erreurs qui compromettent la santé de la tortue",
+      "id": "eviter-les-erreurs-qui-compromettent-la-sante-de-la-tortue"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les problèmes les plus fréquents ne viennent pas d’un manque de décor, mais d’un habitat trop exigu, d’une eau mal filtrée, de l’absence d’UVB efficaces ou d’une plage sèche inaccessible. Une tortue qui reste constamment dans l’eau peut ne pas avoir envie de sortir, mais elle peut aussi subir une mauvaise température de basking, une rampe glissante, une lampe inefficace ou un emplacement trop exposé. Une carapace molle, des yeux gonflés, une perte d’appétit, une nage déséquilibrée, une respiration bouche ouverte ou des bruits respiratoires justifient une consultation rapide auprès d’un vétérinaire habitué aux reptiles."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À ne pas faire",
+      "items": [
+        "Acheter une tortue « facile » sans vérifier sa taille adulte et son statut légal.",
+        "Utiliser un simple bocal, un bac sans filtration ou une très faible hauteur d’eau pour une espèce nageuse.",
+        "Installer l’UVB derrière une vitre ou laisser une ampoule ancienne parce qu’elle produit encore de la lumière.",
+        "Faire un nettoyage total fréquent qui élimine les bactéries utiles du filtre.",
+        "Laisser la tortue cohabiter avec une autre sans espace, surveillance ni solution de séparation : morsures et stress sont courants.",
+        "Relâcher une tortue devenue trop grande dans un étang, une rivière ou un parc. C’est dangereux pour elle, illégal dans de nombreux cas et nocif pour les écosystèmes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adapter l’installation au fil du temps plutôt que subir les contraintes",
+      "id": "adapter-l-installation-au-fil-du-temps-plutot-que-subir-les-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon aquaterrarium est évolutif. Au fur et à mesure que la tortue grandit, augmentez le volume d’eau, élargissez la plage, vérifiez la portée du filtre et contrôlez que la rampe reste praticable. Si votre logement ne permet pas d’offrir les dimensions requises à l’âge adulte, mieux vaut choisir dès le départ une espèce compatible avec votre espace, ou renoncer à l’adoption. Un aquarium d’eau douce très bien planté, un vivarium pour une espèce plus petite ou l’observation de la faune locale sans capture sont de vraies alternatives si l’engagement matériel et sanitaire d’une tortue d’eau est trop lourd."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’aquaterrarium pour tortue d’eau",
+      "items": [
+        {
+          "q": "Quelle taille d’aquaterrarium faut-il pour une tortue d’eau ?",
+          "a": "La réponse dépend entièrement de l’espèce et de sa taille adulte. Recherchez le nom scientifique de votre tortue, puis privilégiez un bac long et large, avec une zone de nage libre et une plage sèche complète. Pour beaucoup d’espèces de taille moyenne, un habitat durable représente déjà plusieurs centaines de litres ; les grandes espèces demandent bien davantage."
+        },
+        {
+          "q": "Une tortue d’eau a-t-elle vraiment besoin d’une lampe UVB ?",
+          "a": "Oui, pour les espèces qui s’exposent au soleil dans leur milieu naturel, une source UVB appropriée est un élément essentiel de l’installation intérieure. Elle doit être placée au-dessus de la plage sèche, à la distance prévue par le fabricant et sans vitre entre la lampe et la tortue. La lumière du jour à travers une fenêtre ne remplace pas cet équipement."
+        },
+        {
+          "q": "À quelle fréquence faut-il changer l’eau d’un aquaterrarium ?",
+          "a": "Faites des changements partiels réguliers, souvent autour de 20 à 30 % selon l’encrassement, le volume, le filtre et les résultats des tests. Retirez les déchets visibles plus souvent. Évitez les changements d’eau complets systématiques, qui perturbent l’équilibre du bac, sauf situation exceptionnelle guidée par un professionnel."
+        },
+        {
+          "q": "Peut-on mettre des poissons avec une tortue d’eau ?",
+          "a": "Ce n’est généralement pas une cohabitation fiable. Les poissons peuvent être chassés, blessés ou consommés, et ils ajoutent des déchets à une eau déjà fortement sollicitée. Certaines tortues s’attaquent aussi aux plantes et au décor vivant. Considérez les poissons comme des animaux à maintenir dans leur propre aquarium, pas comme des compagnons pour tortue."
+        },
+        {
+          "q": "Pourquoi ma tortue ne monte-t-elle pas sur sa plage sèche ?",
+          "a": "Vérifiez d’abord qu’elle peut y accéder sans glisser, que la plateforme est stable et assez grande, et que la température au point de basking est correcte. Contrôlez aussi la qualité et la position de l’UVB. Une tortue nouvellement arrivée peut mettre du temps à se sentir en sécurité ; observez-la discrètement. Si elle présente des signes de maladie ou ne sort jamais malgré une installation corrigée, consultez un vétérinaire reptiles."
+        },
+        {
+          "q": "Peut-on garder deux tortues dans le même aquaterrarium ?",
+          "a": "Seulement si l’espèce, le sexe, le volume disponible et le tempérament des individus le permettent, ce qui est plus rare qu’on ne le croit. Les tortues peuvent se poursuivre, mordre ou empêcher l’autre d’accéder à la nourriture et à la plage. Prévoir deux installations séparées est souvent la solution la plus sûre, particulièrement lorsque les individus grandissent."
+        }
+      ]
+    }
+  ]
+}

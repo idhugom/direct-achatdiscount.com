@@ -1,0 +1,422 @@
+{
+  "title": "Comment bloquer un compte sur TikTok : guide étape par étape",
+  "slug": "comment-bloquer-un-compte-sur-tiktok-guide-etape-par-etape",
+  "path": "/divers/comment-bloquer-un-compte-sur-tiktok-guide-etape-par-etape.html",
+  "category": "tech",
+  "tags": [
+    "tiktok",
+    "bloquer un compte",
+    "confidentialité",
+    "réseaux sociaux",
+    "cyberharcèlement",
+    "paramètres tiktok"
+  ],
+  "excerpt": "Bloquer un utilisateur TikTok prend quelques secondes. Voici la procédure, ses effets réels, les alternatives et les réglages utiles pour vous protéger.",
+  "metaDescription": "Apprenez à bloquer un compte sur TikTok, à signaler un comportement abusif et à gérer vos paramètres de confidentialité en toute sécurité.",
+  "seoTitle": "Bloquer un compte TikTok : le guide simple et complet",
+  "heroKicker": "Maîtrisez vos interactions",
+  "readingTime": 10,
+  "date": "2025-01-06T18:17:19",
+  "image": {
+    "id": "2834",
+    "alt": "Comment bloquer un compte sur TikTok : guide étape par étape",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un commentaire insistant, des messages non désirés, un faux compte ou un comportement agressif : sur TikTok, le blocage est l’outil le plus direct pour couper le contact avec un utilisateur. La manipulation est rapide, mais il est utile de connaître ses effets, ses limites et les cas où un signalement ou un réglage de confidentialité sera plus adapté."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Pour bloquer un compte, ouvrez son profil, accédez au menu d’options puis choisissez <strong>Bloquer</strong> et confirmez.",
+        "TikTok n’avertit normalement pas la personne bloquée, mais elle peut comprendre ce qui s’est passé si elle ne retrouve plus votre profil ou vos contenus.",
+        "Le blocage coupe l’accès futur à votre compte ; il ne remplace pas un <strong>signalement</strong> si le compte publie une arnaque, usurpe une identité ou enfreint les règles.",
+        "Vous pouvez débloquer un utilisateur ultérieurement depuis son profil ou, selon la version de l’application, depuis la liste des comptes bloqués dans les paramètres.",
+        "Pour limiter les sollicitations avant qu’elles n’arrivent, réglez la confidentialité de votre compte, des commentaires, des messages directs et des mentions."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi bloquer un compte sur TikTok ?",
+      "id": "pourquoi-bloquer-un-compte-sur-tiktok"
+    },
+    {
+      "type": "paragraph",
+      "html": "Bloquer un utilisateur est une décision de confort et de sécurité : vous n’avez pas à justifier votre choix. Cette fonction est particulièrement utile lorsqu’une personne vous contacte de façon répétée, publie des commentaires désagréables, tente de vous vendre quelque chose, imite votre identité ou vous met mal à l’aise. Elle convient aussi aux comptes inconnus qui semblent automatisés, aux anciens contacts que vous ne souhaitez plus voir interagir avec vous, ou aux utilisateurs qui reviennent malgré vos refus."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le blocage n’est pas réservé aux situations graves. Il peut simplement servir à reprendre le contrôle de votre expérience : votre fil, vos vidéos et vos messages ne doivent pas devenir un espace de tension. En revanche, face à une menace, à du chantage, à une diffusion d’informations personnelles, à de l’usurpation d’identité ou à du harcèlement coordonné, ne vous contentez pas de bloquer : conservez les éléments utiles et signalez le compte ou le contenu concerné."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "Quelques secondes",
+          "label": "pour bloquer un compte depuis son profil"
+        },
+        {
+          "value": "2 actions distinctes",
+          "label": "bloquer protège votre espace ; signaler alerte la plateforme"
+        },
+        {
+          "value": "0 notification directe",
+          "label": "envoyée en principe au compte bloqué"
+        },
+        {
+          "value": "1 réglage à vérifier",
+          "label": "la confidentialité du compte avant de publier"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que se passe-t-il réellement après le blocage ?",
+      "id": "que-se-passe-t-il-reellement-apres-le-blocage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois le blocage confirmé, l’utilisateur ne devrait plus pouvoir accéder normalement à votre profil, voir vos publications ni vous contacter via les fonctions de TikTok. Vous ne verrez plus non plus son compte dans votre expérience habituelle. Le blocage met donc fin aux interactions à venir entre vos deux comptes, ce qui est son objectif principal."
+    },
+    {
+      "type": "paragraph",
+      "html": "Quelques nuances comptent toutefois. Le blocage ne supprime pas rétroactivement tout ce qui a déjà existé : une ancienne conversation, des captures d’écran déjà réalisées, une vidéo copiée ou des commentaires anciens peuvent demander une action supplémentaire. Les interfaces et fonctions de TikTok évoluent aussi selon les versions de l’application, le pays et les paramètres de chaque compte. Après un blocage, vérifiez vos vidéos, vos commentaires et votre liste de messages si vous voulez faire le ménage dans les traces visibles."
+    },
+    {
+      "type": "comparison",
+      "title": "Bloquer, retirer ou signaler : quel choix faire ?",
+      "left": {
+        "title": "Bloquer un compte",
+        "points": [
+          "Coupe les possibilités de contact et d’accès direct à votre profil.",
+          "À privilégier pour les messages, commentaires ou interactions que vous ne voulez plus recevoir.",
+          "Action réversible : vous pourrez débloquer la personne plus tard.",
+          "Ne déclenche pas à lui seul un examen du comportement par TikTok."
+        ]
+      },
+      "right": {
+        "title": "Signaler un compte ou un contenu",
+        "points": [
+          "Alerte TikTok sur une possible violation de ses règles.",
+          "À utiliser pour une arnaque, une usurpation, des propos haineux, du harcèlement ou un contenu dangereux.",
+          "Peut concerner un profil, une vidéo, un commentaire ou un message selon le contexte.",
+          "N’empêche pas nécessairement l’utilisateur de vous contacter : bloquez-le en complément si besoin."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "Si un contenu est manifestement frauduleux, violent, haineux ou usurpateur, effectuez d’abord un <strong>signalement précis</strong>, puis bloquez le compte. Le signalement aide la plateforme à examiner le problème ; le blocage vous protège immédiatement des nouvelles interactions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment bloquer un compte TikTok, étape par étape",
+      "id": "comment-bloquer-un-compte-tiktok-etape-par-etape"
+    },
+    {
+      "type": "paragraph",
+      "html": "La procédure est sensiblement la même sur Android et sur iPhone. Les noms exacts des boutons peuvent varier légèrement après une mise à jour, mais vous devez chercher le menu d’options du profil : il est souvent représenté par une flèche de partage, un bouton de menu ou une icône située en haut à droite."
+    },
+    {
+      "type": "steps",
+      "title": "La méthode depuis la page de profil",
+      "items": [
+        {
+          "title": "Ouvrez le profil de l’utilisateur",
+          "text": "Touchez son pseudo depuis une vidéo, un commentaire, votre boîte de réception ou utilisez la recherche TikTok. Vérifiez bien le nom du compte avant d’agir, surtout en présence de profils très semblables."
+        },
+        {
+          "title": "Accédez aux options du profil",
+          "text": "Sur la page du compte, touchez l’icône de partage ou le menu placé généralement dans l’angle supérieur droit de l’écran."
+        },
+        {
+          "title": "Choisissez l’option Bloquer",
+          "text": "Dans les actions proposées, sélectionnez <strong>Bloquer</strong>. Selon l’interface, l’option peut se trouver parmi les fonctions de confidentialité ou de sécurité."
+        },
+        {
+          "title": "Confirmez votre décision",
+          "text": "TikTok vous demande normalement une confirmation. Validez pour empêcher les interactions ultérieures entre ce compte et le vôtre."
+        },
+        {
+          "title": "Revenez à votre contenu si nécessaire",
+          "text": "Si l’utilisateur avait laissé un commentaire gênant, modérez ou supprimez également ce commentaire. Le blocage et la modération d’un contenu déjà publié sont deux opérations différentes."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin de prévenir la personne ni d’engager une discussion avant de bloquer. Au contraire, répondre à un compte provocateur peut parfois encourager de nouvelles interactions. Si le compte semble être un faux profil, vérifiez son identifiant, ses vidéos et ses liens avant de le signaler : cela vous évite de confondre un homonyme avec une tentative d’imitation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bloquer depuis un commentaire, un message ou une vidéo",
+      "id": "bloquer-depuis-un-commentaire-un-message-ou-une-video"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’êtes pas obligé de passer par la recherche. Dans la plupart des cas, un appui sur la photo de profil ou le nom d’un utilisateur ouvre directement sa page. C’est la méthode la plus fiable depuis un commentaire ou une vidéo. Depuis une conversation, ouvrez le profil du correspondant à partir de l’en-tête de la discussion, puis utilisez le même menu d’options."
+    },
+    {
+      "type": "table",
+      "caption": "Accéder rapidement au blocage selon la situation",
+      "headers": [
+        "Situation",
+        "Chemin pratique",
+        "Action complémentaire utile"
+      ],
+      "rows": [
+        [
+          "Commentaire indésirable",
+          "Touchez le pseudo ou l’avatar pour ouvrir le profil, puis le menu d’options.",
+          "Supprimez le commentaire ; signalez-le s’il enfreint les règles."
+        ],
+        [
+          "Message non désiré",
+          "Ouvrez la conversation, accédez au profil du correspondant, puis choisissez Bloquer.",
+          "Signalez le message en cas d’arnaque, de menace ou de contenu abusif."
+        ],
+        [
+          "Vidéo d’un compte problématique",
+          "Touchez le nom du créateur depuis la vidéo pour afficher son profil.",
+          "Signalez la vidéo si elle est trompeuse, dangereuse ou illégale."
+        ],
+        [
+          "Faux compte ou usurpation",
+          "Recherchez le profil et vérifiez soigneusement l’identifiant.",
+          "Signalez le profil pour usurpation avant ou après le blocage."
+        ],
+        [
+          "Interaction pendant un direct",
+          "Ouvrez le profil de l’utilisateur depuis son message ou son avatar lorsque l’interface le permet.",
+          "Utilisez aussi les outils de modération du direct si vous en êtes l’hôte."
+        ]
+      ],
+      "note": "Les intitulés et icônes peuvent changer d’une version de TikTok à l’autre. Si vous ne voyez pas immédiatement l’option, ouvrez d’abord la page complète du profil."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bloquer ou simplement limiter l’interaction : choisissez la bonne réponse",
+      "id": "bloquer-ou-simplement-limiter-l-interaction-choisissez-la-bo"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le blocage est une solution nette, mais il n’est pas toujours nécessaire. Si un abonné est seulement trop présent, s’il commente de manière maladroite sans enfreindre les règles, ou si vous souhaitez éviter un conflit familial ou professionnel, les réglages de confidentialité peuvent être plus proportionnés. Vous pouvez notamment restreindre qui commente, qui vous envoie des messages, qui vous mentionne ou qui peut réutiliser vos vidéos."
+    },
+    {
+      "type": "proscons",
+      "title": "Le blocage : atouts et limites",
+      "pros": [
+        "Met fin rapidement aux interactions directes avec un compte précis.",
+        "Ne nécessite pas d’échange ni d’explication avec l’utilisateur concerné.",
+        "Est réversible si vous changez d’avis.",
+        "Complète efficacement la modération des commentaires et des messages.",
+        "Aide à préserver votre confort sur une application très exposée aux interactions publiques."
+      ],
+      "cons": [
+        "N’efface pas automatiquement les contenus, messages ou captures déjà existants.",
+        "Ne traite pas le problème à la source si le compte enfreint les règles : un signalement peut rester nécessaire.",
+        "N’empêche pas une personne déterminée de créer ou d’utiliser un autre compte.",
+        "Peut être excessif pour une simple interaction isolée si un réglage de commentaires suffit.",
+        "Ne remplace pas les démarches adaptées en cas de menace grave ou de danger immédiat."
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant de bloquer, posez-vous ces trois questions",
+      "items": [
+        "Le comportement est-il répétitif, intrusif, trompeur ou agressif ? Si oui, bloquez sans hésiter.",
+        "Le contenu enfreint-il les règles de TikTok ou la loi ? Si oui, signalez-le également avec le motif le plus exact.",
+        "Souhaitez-vous seulement réduire la visibilité ou les messages ? Vérifiez d’abord vos paramètres de confidentialité et de commentaires."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Signaler un harcèlement, une arnaque ou une usurpation : les gestes utiles",
+      "id": "signaler-un-harcelement-une-arnaque-ou-une-usurpation-les-ge"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsqu’un comportement dépasse la simple gêne, prenez le temps de documenter ce qui se passe. Conservez des captures d’écran montrant le pseudo, l’identifiant du compte, la date approximative, les messages ou les commentaires concernés. Ne republiez pas de contenu sensible pour « dénoncer » l’utilisateur : cela peut accroître sa visibilité, exposer des informations personnelles ou compliquer la modération."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans TikTok, le signalement se fait généralement depuis le menu d’un profil, d’une vidéo, d’un commentaire ou d’un message. Choisissez le motif le plus proche de la situation réelle, puis ajoutez les précisions demandées. Un signalement clair vaut mieux qu’une description vague. Si vous êtes victime de menaces, de chantage, de diffusion non consentie d’images intimes ou d’un risque immédiat, sollicitez sans attendre les services d’urgence ou les autorités compétentes de votre pays, et parlez-en à un proche de confiance."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne donnez jamais suite à une demande suspecte",
+      "html": "Un compte qui prétend représenter TikTok, une marque ou un créateur ne doit jamais vous pousser à communiquer un code de connexion, un mot de passe, des coordonnées bancaires ou des documents d’identité par message. Bloquez et signalez les tentatives de phishing ; changez votre mot de passe si vous avez déjà partagé une information sensible."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment débloquer un compte TikTok ?",
+      "id": "comment-debloquer-un-compte-tiktok"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez revenir sur votre décision à tout moment. Le plus simple consiste à retrouver le profil de l’utilisateur, puis à ouvrir le même menu d’options et à choisir <strong>Débloquer</strong>. Si vous ne parvenez plus à retrouver le compte par la recherche, consultez les réglages de confidentialité de TikTok : l’application peut proposer une rubrique dédiée aux comptes bloqués. Son emplacement exact varie selon les versions."
+    },
+    {
+      "type": "steps",
+      "title": "Vérifier avant de débloquer",
+      "items": [
+        {
+          "title": "Assurez-vous d’avoir identifié le bon profil",
+          "text": "Des comptes aux noms proches peuvent exister. Contrôlez le pseudo et l’identifiant, pas uniquement la photo de profil."
+        },
+        {
+          "title": "Évaluez ce qui a changé",
+          "text": "Débloquez seulement si le problème est résolu ou si le blocage était une erreur. Vous n’avez aucune obligation de rétablir le contact."
+        },
+        {
+          "title": "Réglez vos limites en amont",
+          "text": "Avant de débloquer, ajustez si besoin les commentaires, les messages directs ou la visibilité de vos publications."
+        },
+        {
+          "title": "Ne confondez pas déblocage et réconciliation",
+          "text": "Débloquer redonne potentiellement accès à certaines interactions ; cela ne vous oblige ni à suivre le compte, ni à répondre à ses messages, ni à accepter une demande d’abonnement. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Après un déblocage, les anciennes relations entre les deux comptes ne sont pas forcément restaurées comme avant. Par exemple, il peut être nécessaire de suivre à nouveau un profil privé ou de rétablir manuellement certains réglages. Considérez donc le déblocage comme une nouvelle ouverture de contact, et non comme l’annulation complète de tout l’historique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prévenir les interactions indésirables avec les réglages de confidentialité",
+      "id": "prevenir-les-interactions-indesirables-avec-les-reglages-de-"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure stratégie ne consiste pas à bloquer tout le monde après coup : elle consiste à définir ce que les autres peuvent faire avant de publier. Dans le menu <strong>Paramètres et confidentialité</strong>, recherchez les sections relatives à la confidentialité, aux commentaires, aux messages directs, aux mentions et aux réutilisations de contenu. Les options disponibles peuvent dépendre de votre âge, de la configuration du compte et de votre région."
+    },
+    {
+      "type": "table",
+      "caption": "Les paramètres à contrôler pour réduire les sollicitations",
+      "headers": [
+        "Réglage",
+        "Ce qu’il permet de contrôler",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Compte privé",
+          "L’accès à vos publications et la validation des abonnés.",
+          "À privilégier si vous partagez des contenus personnels ou si vous débutez sur l’application."
+        ],
+        [
+          "Commentaires",
+          "Les personnes autorisées à commenter et, selon les options, le filtrage de certains messages.",
+          "Limitez-les à vos abonnés ou activez les filtres si vos vidéos attirent des réactions hostiles."
+        ],
+        [
+          "Messages directs",
+          "Les comptes qui peuvent vous écrire.",
+          "Réservez-les aux personnes que vous connaissez si vous recevez des sollicitations commerciales ou ambiguës."
+        ],
+        [
+          "Mentions et identifications",
+          "Les utilisateurs qui peuvent vous citer ou vous identifier.",
+          "Réduisez cette possibilité pour éviter d’être associé à des vidéos que vous n’avez pas validées."
+        ],
+        [
+          "Téléchargements et réutilisation",
+          "La possibilité de télécharger, de reprendre ou de réagir à vos vidéos.",
+          "Désactivez ces fonctions pour vos contenus personnels, en gardant à l’esprit qu’aucun réglage ne supprime le risque de capture d’écran."
+        ]
+      ],
+      "note": "Prenez quelques minutes pour relire ces réglages après une mise à jour de l’application ou un changement dans votre manière de publier."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Une routine de sécurité simple sur TikTok",
+      "items": [
+        "Utilisez un mot de passe unique et robuste, et activez les options de sécurité proposées par TikTok.",
+        "Méfiez-vous des liens reçus en message privé, même s’ils semblent venir d’un compte connu.",
+        "Évitez d’afficher votre adresse, vos horaires, votre école, votre lieu de travail ou votre localisation en temps réel.",
+        "Modérez régulièrement les commentaires sous les vidéos qui gagnent en visibilité.",
+        "Expliquez aux adolescents que bloquer et signaler sont des gestes normaux, pas une provocation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs fréquentes à éviter",
+      "id": "les-erreurs-frequentes-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de croire que bloquer suffit toujours. Si un escroc a déjà récupéré un code ou si une personne a diffusé des informations privées, il faut agir au-delà de TikTok : sécuriser vos accès, prévenir les personnes concernées et utiliser les voies de signalement appropriées. La deuxième erreur est de répondre longuement à un harceleur avant de le bloquer. Gardez les preuves nécessaires, puis coupez l’échange plutôt que d’alimenter la situation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également de bloquer par erreur un compte légitime en vous fiant seulement à son nom affiché. Sur TikTok, l’identifiant peut différer du nom visible et plusieurs profils peuvent se ressembler. Enfin, ne publiez pas les captures d’écran d’un conflit sans masquer les données personnelles : vous pourriez exposer des tiers ou transformer un problème privé en épisode public difficile à contrôler."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Si vous gérez le compte d’un enfant ou d’un adolescent",
+      "html": "Faites avec lui un essai de blocage et de signalement sur un compte fictif ou un profil inoffensif. Savoir où se trouvent les boutons avant une situation stressante est plus utile que de donner uniquement une consigne générale de prudence."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "En résumé : bloquez vite, signalez quand c’est nécessaire",
+      "id": "en-resume-bloquez-vite-signalez-quand-c-est-necessaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Bloquer un compte TikTok est une mesure simple, discrète et réversible pour mettre fin à une interaction que vous ne souhaitez plus subir. Ouvrez le profil, accédez au menu d’options, choisissez <strong>Bloquer</strong> et confirmez. Pour les comportements abusifs, frauduleux ou dangereux, ajoutez un signalement et gardez les éléments utiles. Enfin, ajustez vos paramètres de confidentialité : c’est le meilleur moyen de réduire les interactions indésirables sans devoir intervenir au cas par cas."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le blocage sur TikTok",
+      "items": [
+        {
+          "q": "La personne reçoit-elle une notification quand je la bloque sur TikTok ?",
+          "a": "TikTok n’envoie normalement pas de notification explicite indiquant qu’un blocage a eu lieu. La personne peut néanmoins le déduire si elle ne parvient plus à trouver votre profil, à voir vos vidéos ou à interagir avec vous."
+        },
+        {
+          "q": "Est-ce que bloquer un compte supprime ses anciens commentaires ?",
+          "a": "Pas nécessairement. Le blocage sert avant tout à empêcher les interactions futures. Si un ancien commentaire reste visible et vous gêne, supprimez-le ou modérez-le séparément. S’il enfreint les règles, signalez-le également."
+        },
+        {
+          "q": "Peut-on bloquer quelqu’un qui ne nous suit pas ?",
+          "a": "Oui. Vous pouvez bloquer un compte qu’il vous suive ou non, dès lors que vous pouvez ouvrir son profil. C’est utile contre les comptes qui commentent vos vidéos, vous écrivent ou apparaissent dans vos suggestions."
+        },
+        {
+          "q": "Quelle différence entre bloquer et retirer un abonné TikTok ?",
+          "a": "Retirer un abonné limite son accès à votre contenu si votre compte est privé, mais ne coupe pas forcément toutes les interactions de manière aussi complète. Bloquer est l’option la plus ferme lorsque vous ne voulez plus aucun contact avec un compte donné."
+        },
+        {
+          "q": "Comment faire si la personne crée un nouveau compte après avoir été bloquée ?",
+          "a": "Bloquez et signalez chaque nouveau compte qui vous contacte de manière abusive, puis renforcez vos réglages de confidentialité. Conservez les preuves si les créations de comptes se répètent. En cas de harcèlement ou de menace, cherchez de l’aide auprès des dispositifs et autorités compétents."
+        },
+        {
+          "q": "Puis-je débloquer un utilisateur plus tard ?",
+          "a": "Oui. Retrouvez son profil et choisissez <strong>Débloquer</strong> dans le menu d’options, ou consultez la liste des comptes bloqués dans vos réglages si elle est disponible. Débloquer ne vous oblige pas à reprendre contact ni à accepter une nouvelle interaction."
+        }
+      ]
+    }
+  ]
+}

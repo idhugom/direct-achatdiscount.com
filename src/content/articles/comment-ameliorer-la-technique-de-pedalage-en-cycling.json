@@ -1,0 +1,425 @@
+{
+  "title": "Comment améliorer la technique de pédalage en cycling ?",
+  "slug": "comment-ameliorer-la-technique-de-pedalage-en-cycling",
+  "path": "/divers/comment-ameliorer-la-technique-de-pedalage-en-cycling.html",
+  "category": "bien-etre",
+  "tags": [
+    "cycling",
+    "pédalage",
+    "vélo d'intérieur",
+    "cadence",
+    "cardio",
+    "posture"
+  ],
+  "excerpt": "Réglages, posture, cadence et exercices ciblés : apprenez à pédaler plus rond, plus efficacement et avec moins de fatigue en cours de cycling.",
+  "metaDescription": "Améliorez votre pédalage en cycling : réglages du vélo, cadence, résistance, gainage, erreurs à éviter et exercices concrets pour progresser.",
+  "seoTitle": "Technique de pédalage en cycling : le guide complet",
+  "heroKicker": "Pédalez plus juste",
+  "readingTime": 12,
+  "date": "2024-12-09T07:16:20",
+  "image": {
+    "id": "2714",
+    "alt": "Comment améliorer la technique de pédalage en cycling ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "En cycling, appuyer fort sur les pédales ne suffit pas à être efficace. Une bonne technique de pédalage vous aide à mieux transmettre votre énergie, à tenir les séquences longues ou intenses sans vous crisper et à limiter les douleurs aux genoux, aux hanches ou au bas du dos. Tout commence par un vélo correctement réglé, puis par un geste stable, fluide et adapté à la résistance demandée."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Réglez d’abord la selle et le guidon : aucun travail technique ne compense une position inadaptée.",
+        "Cherchez un pédalage <strong>rond et silencieux</strong>, avec une pression continue sur toute la rotation, plutôt qu’un simple écrasement vers le bas.",
+        "Adaptez toujours la résistance à la cadence : trop légère, vous rebondissez ; trop lourde, vous forcez avec les genoux et le dos.",
+        "Gardez le bassin stable, les épaules basses et les mains légères sur le guidon pour que les jambes fassent réellement le travail.",
+        "Progressez avec de courtes séquences techniques, idéalement une à deux fois par semaine, avant de chercher davantage d’intensité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce qu’est un bon pédalage en cycling",
+      "id": "comprendre-ce-qu-est-un-bon-pedalage-en-cycling"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le cycling, ou vélo en salle, se pratique sur un vélo à roue d’inertie dont la résistance est réglable. Le mouvement est guidé, mais il n’est pas automatique : selon votre posture, votre coordination et le niveau de résistance, vous pouvez tourner les jambes avec fluidité… ou au contraire vous battre contre les pédales. L’objectif n’est pas de dessiner un cercle parfait avec le pied à chaque tour. Il s’agit plutôt de maintenir une <strong>force régulière</strong> autour du cycle de pédalage, sans point mort marqué ni à-coup."
+    },
+    {
+      "type": "paragraph",
+      "html": "La plus grande partie de la puissance est produite lorsque vous poussez la pédale vers l’avant puis vers le bas. Mais une technique propre améliore aussi la transition en bas de course, le retour de la jambe et le passage au sommet. Vous évitez ainsi de « piétiner », de laisser une jambe passive ou de vous soulever de la selle à chaque accélération."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "80 à 110 tr/min",
+          "label": "plage de cadence souvent travaillée assis, selon la séance et la résistance"
+        },
+        {
+          "value": "1 à 2 cm",
+          "label": "marge d’extension du genou à conserver en bas de pédale, sans verrouiller l’articulation"
+        },
+        {
+          "value": "10 à 20 min",
+          "label": "durée suffisante pour une séance technique ciblée hors échauffement et retour au calme"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon indicateur : la stabilité",
+      "html": "Un pédalage efficace est d’abord <strong>silencieux et stable</strong>. Si vos hanches rebondissent, si vos pieds claquent dans les cales ou si votre buste oscille de droite à gauche, le problème vient généralement d’une résistance insuffisante, d’une cadence trop haute ou d’un réglage de vélo à corriger."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réglez le vélo avant de corriger votre geste",
+      "id": "reglez-le-velo-avant-de-corriger-votre-geste"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un vélo mal ajusté transforme rapidement un défaut de réglage en défaut de technique. Une selle trop basse vous fait pédaler avec les genoux très pliés, fatigue les cuisses et peut créer une gêne à l’avant du genou. Trop haute, elle entraîne un déhanchement latéral et tire sur l’arrière des cuisses. La bonne hauteur vous permet d’atteindre le bas de la rotation avec le genou encore légèrement fléchi, sans pointer exagérément les orteils."
+    },
+    {
+      "type": "paragraph",
+      "html": "Réglez aussi le recul de selle. En position assise, pédales à l’horizontale, votre genou avant doit rester approximativement au-dessus de la zone de l’axe de pédale, sans chercher une précision médicale au millimètre. Si vous êtes très en avant, vous chargez davantage les genoux ; très en arrière, vous risquez de trop solliciter la chaîne postérieure ou d’étirer les bras."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pratiques pour ajuster votre vélo de cycling",
+      "headers": [
+        "Élément",
+        "Repère de départ",
+        "Signe d’un mauvais réglage",
+        "Correction à essayer"
+      ],
+      "rows": [
+        [
+          "Hauteur de selle",
+          "Jambe presque tendue en bas, genou souple",
+          "Bassin qui se balance ou genoux trop comprimés",
+          "Montez ou baissez par petites étapes"
+        ],
+        [
+          "Recul de selle",
+          "Genou avant aligné de façon naturelle avec l’axe de pédale",
+          "Pression forte sur les genoux ou impression d’être trop loin du guidon",
+          "Avancez ou reculez légèrement la selle"
+        ],
+        [
+          "Hauteur du guidon",
+          "Dos long, épaules relâchées, coudes légèrement fléchis",
+          "Nuque tendue, dos arrondi ou bras verrouillés",
+          "Relevez le guidon, surtout si vous débutez"
+        ],
+        [
+          "Sangles ou cales",
+          "Pied maintenu sans compression",
+          "Pied qui bouge, engourdissement ou pression sur les orteils",
+          "Resserrez modérément ou repositionnez le pied"
+        ]
+      ],
+      "note": "Les réglages restent individuels. En cas de douleur persistante, demandez l’avis d’un coach qualifié ou d’un professionnel de santé plutôt que de multiplier les séances."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre contrôle express avant chaque séance",
+      "items": [
+        "Placez l’avant-pied sur la pédale : la zone large sous les orteils, et non le milieu du pied, doit se situer près de l’axe.",
+        "Vérifiez que les sangles maintiennent le pied sans couper la circulation ; avec des chaussures à cales, verrouillez-les franchement.",
+        "Asseyez-vous au fond de la selle sans vous suspendre au guidon.",
+        "Gardez les poignets dans l’axe des avant-bras et les coudes souples.",
+        "Testez quelques tours à faible résistance : le bassin doit rester posé et les épaules calmes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Décomposez le coup de pédale sans le surjouer",
+      "id": "decomposez-le-coup-de-pedale-sans-le-surjouer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour apprendre à pédaler plus rond, visualisez quatre zones, sans chercher à tirer fort durant toute la remontée. En haut, accompagnez la pédale vers l’avant plutôt que de la repousser brusquement. Dans la phase descendante, poussez avec tout le pied, en gardant le talon neutre ou très légèrement abaissé. En bas, « raclez » doucement vers l’arrière pour éviter le point mort. Pendant la remontée, allégez la jambe qui revient afin qu’elle ne freine pas la jambe opposée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le point important est la coordination entre les deux jambes. Lorsque la jambe droite pousse, la gauche ne doit pas peser passivement sur la pédale qui remonte. Cette sensation d’allègement demande du temps, surtout avec des pédales à sangles. Avec des chaussures automatiques, il devient plus facile d’accompagner la remontée, mais il ne faut pas transformer le geste en tirage agressif : cela crispe les fléchisseurs de hanche et ne remplace jamais une poussée bien placée."
+    },
+    {
+      "type": "proscons",
+      "title": "Chercher un pédalage « rond » : ce que cela apporte et ce que cela ne doit pas devenir",
+      "pros": [
+        "Répartition plus homogène de l’effort entre les phases du tour de pédale.",
+        "Moins d’à-coups, donc une meilleure stabilité du bassin et du haut du corps.",
+        "Meilleure capacité à conserver une cadence régulière lors des intervalles.",
+        "Sensation de contrôle accrue dans les passages assis, en côte ou en accélération."
+      ],
+      "cons": [
+        "Une recherche trop consciente du « cercle parfait » peut rendre le mouvement artificiel et tendu.",
+        "Tirer excessivement sur la remontée peut surcharger les hanches et les mollets.",
+        "La technique ne compense ni une résistance mal réglée ni un manque de récupération.",
+        "Elle ne doit jamais provoquer de douleur au genou, à l’aine ou au tendon d’Achille."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trouvez le bon couple cadence-résistance",
+      "id": "trouvez-le-bon-couple-cadence-resistance"
+    },
+    {
+      "type": "paragraph",
+      "html": "La cadence indique le nombre de tours de pédale par minute ; la résistance correspond à la force nécessaire pour faire tourner la roue. Ces deux paramètres sont indissociables. Une cadence élevée avec une résistance trop faible donne une impression de vitesse, mais favorise les rebonds sur la selle et les gestes désordonnés. À l’inverse, une résistance trop lourde ralentit la rotation, pousse à écraser les pédales et sollicite excessivement les genoux, surtout quand la fatigue s’installe."
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez toujours par une résistance qui vous permet de rester fixé à la selle. Augmentez-la progressivement jusqu’à sentir une traction régulière sous les pieds, sans avoir besoin de vous agripper au guidon. Pour un travail de vélocité, choisissez une charge modérée et une cadence vive mais maîtrisée. Pour une simulation de montée, ajoutez de la charge et laissez la cadence baisser, tout en conservant un mouvement continu. Si la roue semble entraîner vos jambes plutôt que l’inverse, vous êtes trop léger ; si chaque tour devient laborieux et saccadé, vous êtes trop lourd."
+    },
+    {
+      "type": "comparison",
+      "title": "Pédales à sangles ou chaussures automatiques : quelle incidence sur la technique ?",
+      "left": {
+        "title": "Pédales plates avec sangles",
+        "points": [
+          "Accessibles, rapides à utiliser et adaptées aux débutants.",
+          "Permettent une bonne poussée si le pied est bien placé et maintenu.",
+          "Demandent plus d’attention pour éviter que le pied avance ou bouge dans la sangle.",
+          "Suffisantes pour apprendre la posture, la cadence et la stabilité."
+        ]
+      },
+      "right": {
+        "title": "Pédales automatiques à cales",
+        "points": [
+          "Pied solidement fixé : geste plus constant et meilleur contrôle à haute cadence.",
+          "Facilitent l’accompagnement de la remontée, sans imposer de tirer fort.",
+          "Nécessitent des chaussures compatibles et un réglage de cale soigneux.",
+          "Une cale mal positionnée peut accentuer une gêne au genou : commencez avec un réglage neutre."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne copiez pas aveuglément le niveau de résistance du voisin",
+      "html": "Les molettes de résistance ne sont pas calibrées de manière identique d’un vélo à l’autre. Suivez la sensation demandée par le coach, mais choisissez votre propre charge : vous devez pouvoir garder le contrôle du bassin, de la cadence et de votre respiration."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Stabilisez votre corps pour libérer vos jambes",
+      "id": "stabilisez-votre-corps-pour-liberer-vos-jambes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le pédalage commence au niveau du bassin. Installez-vous sur la partie arrière de la selle, trouvez une position neutre du bassin et engagez légèrement la sangle abdominale, comme si vous vouliez rapprocher doucement les côtes des hanches. Il ne s’agit pas de rentrer le ventre à l’extrême, mais d’éviter que le bas du dos se creuse ou s’arrondisse à chaque tour."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vos mains servent à vous orienter, pas à vous porter. Une prise trop ferme reporte le poids sur les poignets, verrouille les épaules et fait perdre de l’énergie. Les omoplates restent larges, la nuque longue, le regard porté devant vous. Assis ou en danseuse, cherchez à ce que le haut du corps accompagne le vélo sans balancer excessivement. En position debout, la résistance doit être assez présente pour que vous puissiez vous soulever sans tomber dans les pédales."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus fréquentes et leurs corrections",
+      "id": "les-erreurs-les-plus-frequentes-et-leurs-corrections"
+    },
+    {
+      "type": "table",
+      "caption": "Diagnostic rapide d’un pédalage inefficace",
+      "headers": [
+        "Ce que vous observez",
+        "Cause probable",
+        "Action immédiate"
+      ],
+      "rows": [
+        [
+          "Vous rebondissez sur la selle",
+          "Cadence trop haute, résistance trop faible ou selle trop haute",
+          "Ajoutez un peu de résistance, ralentissez légèrement, puis contrôlez la hauteur de selle"
+        ],
+        [
+          "Vos genoux partent vers l’intérieur ou l’extérieur",
+          "Pieds mal positionnés, fatigue, mobilité ou réglage des cales",
+          "Replacez les pieds ; baissez l’intensité ; contrôlez les cales si le phénomène persiste"
+        ],
+        [
+          "Vous avez mal aux poignets ou aux épaules",
+          "Vous vous appuyez trop sur le guidon ou celui-ci est trop bas",
+          "Allégez la prise, fléchissez les coudes et relevez le guidon si nécessaire"
+        ],
+        [
+          "Vous poussez uniquement avec les pointes de pied",
+          "Cheville trop tendue ou résistance mal dosée",
+          "Posez davantage le pied, gardez la cheville mobile et réduisez la charge si besoin"
+        ],
+        [
+          "Vous perdez la cadence à chaque changement de position",
+          "Transition précipitée ou résistance inadaptée",
+          "Stabilisez la résistance avant de vous lever et passez debout sur plusieurs tours contrôlés"
+        ]
+      ],
+      "note": "Une douleur vive, localisée ou qui augmente séance après séance n’est pas une simple fatigue technique. Stoppez l’exercice concerné et faites évaluer votre position."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Exercices simples pour améliorer votre coordination",
+      "id": "exercices-simples-pour-ameliorer-votre-coordination"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les progrès viennent davantage de la répétition consciente que des très grosses séances. Intégrez des blocs courts après l’échauffement, lorsque vous êtes encore disponible techniquement. Gardez une intensité modérée : si vous êtes à bout de souffle, votre cerveau se concentrera sur l’effort et non sur la qualité du geste."
+    },
+    {
+      "type": "steps",
+      "title": "Une routine technique de 15 minutes à intégrer une à deux fois par semaine",
+      "items": [
+        {
+          "title": "Échauffez-vous progressivement",
+          "text": "Pédalez tranquillement quelques minutes, avec une résistance légère à modérée. Vérifiez vos réglages, relâchez les épaules et installez un bassin stable."
+        },
+        {
+          "title": "Travaillez la stabilité",
+          "text": "Pendant quelques minutes, roulez assis à une cadence confortable. Gardez les mains très légères et observez si le bassin reste immobile. Ajoutez juste assez de résistance pour éliminer les rebonds."
+        },
+        {
+          "title": "Ajoutez des accélérations contrôlées",
+          "text": "Réalisez plusieurs accélérations brèves, sans modifier brutalement la résistance. Augmentez la cadence seulement tant que le buste demeure calme et que les pieds restent silencieux."
+        },
+        {
+          "title": "Renforcez la poussée régulière",
+          "text": "Sur une charge un peu plus soutenue, restez assis et concentrez-vous sur la pression vers l’avant et le bas, puis sur un passage fluide en bas de rotation. Évitez de tirer fort sur les pédales."
+        },
+        {
+          "title": "Terminez par une récupération active",
+          "text": "Réduisez progressivement la résistance et la cadence. Profitez-en pour repérer une éventuelle gêne d’un seul côté : elle peut signaler un réglage ou une compensation à surveiller."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir les équipements qui facilitent un pédalage propre",
+      "id": "choisir-les-equipements-qui-facilitent-un-pedalage-propre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le vélo utilisé en salle fait une grande différence : un modèle stable, avec une plage de réglages assez large et une résistance progressive, est plus facile à contrôler qu’un appareil léger ou mal entretenu. À domicile, privilégiez des réglages clairement gradués, un guidon réglable au moins en hauteur, une selle réglable en hauteur et en profondeur, ainsi qu’une transmission silencieuse. Une roue d’inertie ou un système de résistance plus régulier améliore généralement la sensation de continuité, sans remplacer la technique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté budget, les accessoires utiles restent simples. Des chaussures de cycling compatibles peuvent améliorer la tenue du pied et le confort lors des séances régulières ; elles ne sont pas indispensables au début. Un cuissard ou un short avec rembourrage est souvent plus rentable qu’un accessoire gadget si vous avez mal à l’assise. Pour un vélo d’appartement destiné à un usage intensif, la qualité du châssis, des réglages et de la transmission doit passer avant l’écran ou les programmes intégrés."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget et priorités d’achat pour le cycling",
+      "headers": [
+        "Besoin",
+        "Solution pertinente",
+        "Ordre de grandeur",
+        "Priorité réelle"
+      ],
+      "rows": [
+        [
+          "Débuter en cours collectif",
+          "Chaussures de sport stables et pédales à sangles",
+          "Pas d’achat spécifique obligatoire",
+          "Réglage du vélo avant tout"
+        ],
+        [
+          "Pratiquer régulièrement",
+          "Chaussures de cycling compatibles avec les pédales de la salle",
+          "Quelques dizaines d’euros à un peu plus selon la finition",
+          "Confort et maintien du pied"
+        ],
+        [
+          "Améliorer le confort",
+          "Cuissard rembourré ou couvre-selle adapté",
+          "Budget modéré",
+          "Utile si l’inconfort gêne la régularité"
+        ],
+        [
+          "S’équiper à domicile",
+          "Vélo robuste avec résistance progressive et réglages complets",
+          "De plusieurs centaines d’euros à davantage pour un modèle soutenu",
+          "Stabilité, ergonomie et entretien"
+        ]
+      ],
+      "note": "Les montants varient fortement selon le matériel, la robustesse et les fonctions connectées. Essayez toujours la position et la compatibilité des pédales avant d’investir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretenez le matériel et adaptez votre pratique",
+      "id": "entretenez-le-materiel-et-adaptez-votre-pratique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un pédalage qui devient brusquement irrégulier n’est pas toujours un problème de forme. Sur un vélo personnel, vérifiez régulièrement le serrage de la selle, du guidon et des pédales, l’état des sangles, ainsi que la propreté de la transmission. Essuyez la sueur après chaque séance : elle peut accélérer la corrosion des vis, du guidon et des pièces métalliques. Si le vélo émet des claquements, si la résistance accroche ou si une pédale présente du jeu, ne forcez pas : faites contrôler l’appareil."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, ne limitez pas votre progression au vélo. Une mobilité suffisante des chevilles et des hanches, un gainage simple et un renforcement des fessiers favorisent une position plus stable. La marche active, le vélo en extérieur à intensité tranquille, le renforcement au poids du corps ou le Pilates sont de bonnes alternatives pour compléter le cycling sans reproduire sans cesse le même stress musculaire. Si vous reprenez après une pause, privilégiez la fréquence et la qualité du geste à la difficulté des séances."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test de la vidéo courte",
+      "html": "Filmez-vous quelques secondes de profil et de face, si la salle l’autorise ou chez vous. Cherchez trois choses : un bassin qui ne bascule pas, des genoux qui suivent l’axe des pieds et des épaules qui ne montent pas vers les oreilles. C’est souvent plus révélateur que la sensation pendant l’effort."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand faut-il lever le pied ou demander conseil ?",
+      "id": "quand-faut-il-lever-le-pied-ou-demander-conseil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fatigue musculaire diffuse dans les cuisses, les fessiers ou les mollets est normale après une séance exigeante. En revanche, une douleur nette à l’avant ou sur le côté du genou, au tendon d’Achille, à la hanche ou dans le bas du dos mérite une adaptation immédiate. Réduisez la résistance, revenez en position assise, contrôlez vos réglages et évitez les sprints ou les séquences debout tant que l’inconfort persiste."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un coach peut vous aider à corriger la position générale, tandis qu’un professionnel de santé ou un spécialiste du positionnement est préférable si la douleur est récurrente, asymétrique ou apparaît malgré des réglages raisonnables. La meilleure technique est celle qui reste efficace, confortable et reproductible séance après séance."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le pédalage en cycling",
+      "items": [
+        {
+          "q": "Faut-il tirer sur les pédales pour mieux pédaler en cycling ?",
+          "a": "Non. Avec des cales, vous pouvez accompagner et alléger la remontée, ce qui fluidifie le mouvement. Mais tirer fort vers le haut n’est ni nécessaire ni souhaitable : la poussée vers l’avant et le bas reste la principale source de puissance. Cherchez une pression régulière, sans crispation."
+        },
+        {
+          "q": "Pourquoi est-ce que je rebondis sur la selle quand j’accélère ?",
+          "a": "Le plus souvent, la résistance est trop faible pour votre cadence. Ajoutez légèrement de charge, ralentissez juste assez pour stabiliser le bassin, puis remontez progressivement en cadence. Vérifiez aussi que la selle n’est pas trop haute et que vous ne poussez pas uniquement sur les pointes de pied."
+        },
+        {
+          "q": "Quelle cadence choisir quand on débute en cycling ?",
+          "a": "Commencez par une cadence confortable qui vous permet de respirer, de parler par phrases courtes et de garder le bassin immobile. Les repères souvent affichés en cours sont utiles, mais votre priorité est d’éviter le rebond et les mouvements parasites. La cadence augmente avec l’aisance technique, pas l’inverse."
+        },
+        {
+          "q": "Les chaussures à cales sont-elles indispensables pour progresser ?",
+          "a": "Elles ne sont pas indispensables. Des baskets stables bien maintenues dans des sangles correctement réglées suffisent pour apprendre la posture et le contrôle de la cadence. Les chaussures à cales deviennent intéressantes si vous pratiquez régulièrement et souhaitez un pied mieux fixé, à condition que les cales soient correctement réglées."
+        },
+        {
+          "q": "Est-ce normal d’avoir mal aux genoux après une séance de cycling ?",
+          "a": "Une sensation de fatigue autour des cuisses est courante ; une douleur articulaire au genou ne doit pas être banalisée. Elle peut venir d’une selle trop basse ou trop avancée, d’une résistance excessive, de cales mal réglées ou d’un volume d’entraînement trop élevé. Diminuez la charge, vérifiez votre position et consultez si la douleur persiste."
+        },
+        {
+          "q": "Combien de temps faut-il pour améliorer sa technique de pédalage ?",
+          "a": "Vous pouvez sentir une différence dès quelques séances si vous corrigez les réglages et travaillez la stabilité. Pour que le geste reste naturel lors des accélérations et de la fatigue, comptez plutôt plusieurs semaines de pratique régulière. Des blocs techniques courts et fréquents sont plus efficaces qu’une longue séance occasionnelle."
+        }
+      ]
+    }
+  ]
+}

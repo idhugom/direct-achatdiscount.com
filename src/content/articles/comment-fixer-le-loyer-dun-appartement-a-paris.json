@@ -1,0 +1,410 @@
+{
+  "title": "Comment fixer le loyer d’un appartement à Paris?",
+  "slug": "comment-fixer-le-loyer-dun-appartement-a-paris",
+  "path": "/divers/comment-fixer-le-loyer-dun-appartement-a-paris.html",
+  "category": "argent",
+  "tags": [
+    "loyer paris",
+    "encadrement des loyers",
+    "investissement locatif",
+    "location meublée",
+    "bail habitation",
+    "charges locatives"
+  ],
+  "excerpt": "À Paris, fixer un loyer ne consiste pas à suivre les annonces voisines. Encadrement, caractéristiques du bail et charges déterminent le montant légal.",
+  "metaDescription": "Calculez un loyer légal à Paris : encadrement, loyer de référence, complément, charges, DPE et méthode pour publier sans risque.",
+  "seoTitle": "Fixer le loyer d’un appartement à Paris : le guide",
+  "heroKicker": "Louer au juste prix",
+  "readingTime": 12,
+  "date": "2025-01-19T12:53:19",
+  "image": {
+    "id": "2869",
+    "alt": "Comment fixer le loyer d’un appartement à Paris?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "À Paris, le loyer d’un appartement ne se fixe pas librement en observant les montants affichés dans le quartier. Le propriétaire doit concilier la valeur réelle de son bien, l’encadrement des loyers, les règles propres au bail choisi et la capacité du logement à être loué durablement. Une méthode rigoureuse évite un logement vacant, un loyer contesté ou une rentabilité surestimée."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le <strong>loyer hors charges</strong> ne doit en principe pas dépasser le <strong>loyer de référence majoré</strong> indiqué par le simulateur officiel pour votre logement.",
+        "Le calcul dépend notamment de l’adresse, de l’époque de construction, du nombre de pièces, du caractère meublé ou vide et du type de location : deux appartements voisins peuvent donc avoir des plafonds différents.",
+        "Un complément de loyer n’est envisageable que pour des caractéristiques réellement exceptionnelles, non déjà prises en compte dans le loyer de référence et difficilement contestables.",
+        "Les charges récupérables, le dépôt de garantie, la révision annuelle et les contraintes liées au DPE sont distincts du loyer de base : ne les mélangez pas.",
+        "Avant de publier, comparez votre montant légal aux offres effectivement concurrentes : le plafond légal est un maximum, pas un tarif obligatoire."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "+20 %",
+          "label": "plafond correspondant au loyer de référence majoré par rapport au loyer médian de référence"
+        },
+        {
+          "value": "−30 %",
+          "label": "niveau du loyer de référence minoré, utile dans certains mécanismes de réévaluation"
+        },
+        {
+          "value": "1 €/m²",
+          "label": "d’écart de loyer sur 30 m² représente déjà environ 30 € par mois hors charges"
+        },
+        {
+          "value": "0 €",
+          "label": "de marge légale au-dessus du plafond hors complément de loyer valable"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce que l’on appelle « le loyer » à Paris",
+      "id": "comprendre-ce-que-l-on-appelle-le-loyer-a-paris"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le montant annoncé au locataire rassemble souvent plusieurs lignes, qu’il faut séparer dès le départ. Le <strong>loyer de base</strong>, aussi appelé loyer hors charges, rémunère la mise à disposition du logement. C’est lui qui est concerné par le plafonnement parisien. Les <strong>charges récupérables</strong> correspondent, selon le mode de provision choisi, à certaines dépenses supportées par le propriétaire mais récupérables auprès de l’occupant : eau collective, entretien des parties communes, ascenseur, taxe d’enlèvement des ordures ménagères, chauffage collectif lorsqu’il existe, par exemple."
+    },
+    {
+      "type": "paragraph",
+      "html": "Peuvent s’ajouter un éventuel <strong>complément de loyer</strong>, très encadré, et des éléments qui ne sont pas du loyer : dépôt de garantie, frais d’agence éventuellement dus par le locataire, assurance habitation ou abonnement à l’électricité. Pour fixer un montant solide, commencez donc toujours par un calcul <em>hors charges</em>, puis déterminez séparément le régime des charges et les sommes exigibles à l’entrée."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le plafond n’est pas une estimation de marché",
+      "html": "Le loyer de référence majoré est une <strong>limite juridique</strong>. Vous pouvez louer en dessous pour tenir compte d’un défaut de luminosité, d’un rez-de-chaussée bruyant, d’un mauvais agencement ou d’une concurrence abondante. En revanche, louer au-dessus sans complément de loyer défendable expose à une contestation et à une régularisation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le cadre légal : l’encadrement des loyers à Paris",
+      "id": "le-cadre-legal-l-encadrement-des-loyers-a-paris"
+    },
+    {
+      "type": "paragraph",
+      "html": "Paris est soumis à l’encadrement des loyers pour une grande partie des locations constituant la résidence principale du locataire, qu’elles soient nues ou meublées. Le dispositif repose sur des loyers de référence publiés par les autorités compétentes et mis à jour périodiquement. Le montant applicable n’est donc pas celui d’une annonce comparable, ni une moyenne que vous auriez trouvée sur un portail immobilier."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour chaque catégorie de logement, l’administration fournit un <strong>loyer de référence</strong>, un <strong>loyer de référence majoré</strong> et un <strong>loyer de référence minoré</strong>. En pratique, le loyer hors charges demandé à la signature ne doit pas excéder le loyer de référence majoré, sauf si un complément de loyer est justifié. Le loyer de référence majoré équivaut à un niveau supérieur au loyer médian de référence ; il constitue le chiffre à retenir pour votre plafond."
+    },
+    {
+      "type": "table",
+      "caption": "Les repères à ne pas confondre dans l’encadrement parisien",
+      "headers": [
+        "Repère",
+        "À quoi sert-il",
+        "Conséquence pour le propriétaire"
+      ],
+      "rows": [
+        [
+          "Loyer de référence",
+          "Valeur médiane observée pour une catégorie de logements",
+          "Repère de calcul ; il n’est pas automatiquement le loyer à appliquer"
+        ],
+        [
+          "Loyer de référence majoré",
+          "Plafond réglementaire de la catégorie concernée",
+          "Le loyer de base ne doit pas le dépasser, hors complément valable"
+        ],
+        [
+          "Loyer de référence minoré",
+          "Niveau inférieur au loyer de référence",
+          "Peut intervenir dans des procédures particulières de réévaluation, pas dans un calcul libre immédiat"
+        ],
+        [
+          "Loyer de base",
+          "Somme mensuelle hors charges inscrite au bail",
+          "Montant à comparer au plafond réglementaire"
+        ],
+        [
+          "Charges",
+          "Dépenses récupérables ou forfait prévues au bail",
+          "À annoncer et traiter distinctement du loyer de base"
+        ]
+      ],
+      "note": "Les montants applicables évoluent. Utilisez le simulateur officiel en vigueur au moment de signer ou de renouveler le bail, et conservez le résultat avec votre dossier locatif."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réunir les bonnes informations avant tout calcul",
+      "id": "reunir-les-bonnes-informations-avant-tout-calcul"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le calcul officiel est précis parce qu’il ne traite pas tous les logements de la même façon. Préparez vos données avant de consulter le simulateur : adresse complète, type de location, nombre de pièces principales, époque de construction retenue par l’outil et surface habitable. Un deux-pièces meublé dans un immeuble ancien ne relève pas du même plafond qu’un deux-pièces vide dans une résidence plus récente, même s’ils sont situés dans la même rue."
+    },
+    {
+      "type": "paragraph",
+      "html": "La surface à employer dans le raisonnement locatif est la <strong>surface habitable</strong> mentionnée ou calculée selon les règles applicables, et non la surface « ressentie » ni la seule surface au sol. Une mezzanine basse, une cave, un balcon ou une terrasse peuvent avoir une valeur commerciale, mais ils ne se substituent pas automatiquement aux mètres carrés habitables du logement. En cas de doute sur une petite surface ou un bien atypique, faites vérifier le métrage : une erreur de surface peut fragiliser le bail et fausser le calcul au mètre carré."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Dossier à préparer avant de fixer le montant",
+      "items": [
+        "L’adresse exacte et l’arrondissement, sans vous contenter d’une estimation par quartier.",
+        "La date ou la période de construction de l’immeuble, idéalement étayée par vos documents de copropriété ou votre acte.",
+        "Le nombre de pièces principales : une chambre, un séjour et les espaces qui répondent aux critères légaux ; cuisine, salle d’eau et couloir ne se comptent pas comme des pièces principales.",
+        "La surface habitable fiable, ainsi que les annexes valorisables dans l’annonce.",
+        "Le statut de location : vide, meublée, bail étudiant, mobilité, colocation avec bail unique ou contrats individuels.",
+        "Le DPE, l’état des équipements, les charges réelles des derniers exercices et les éventuels travaux à venir."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculer le loyer légal : une méthode en six étapes",
+      "id": "calculer-le-loyer-legal-une-methode-en-six-etapes"
+    },
+    {
+      "type": "steps",
+      "title": "La méthode qui limite les erreurs",
+      "items": [
+        {
+          "title": "Vérifiez que le logement peut être loué",
+          "text": "Contrôlez la décence, le DPE, l’aération, les installations électriques et de gaz, ainsi que les contraintes éventuelles de copropriété. Les logements les plus énergivores font l’objet de restrictions progressives à la location et de contraintes spécifiques sur les hausses de loyer. Un plafond réglementaire ne rend pas louable un bien non conforme."
+        },
+        {
+          "title": "Déterminez le bail adapté",
+          "text": "Choisissez une location vide ou meublée selon le bien et votre stratégie, sans basculer artificiellement en meublé. Un logement meublé doit comporter l’équipement réglementaire permettant une occupation normale ; son plafond de référence est distinct."
+        },
+        {
+          "title": "Interrogez le simulateur officiel",
+          "text": "Saisissez les caractéristiques demandées et relevez le loyer de référence majoré applicable, généralement exprimé au mètre carré et par mois. Archivez une capture ou un PDF daté dans votre dossier."
+        },
+        {
+          "title": "Calculez le loyer de base maximal",
+          "text": "Multipliez le plafond au mètre carré par la surface habitable. Arrondissez avec prudence et restez sous le montant obtenu en cas d’incertitude. C’est votre maximum hors charges, avant toute réflexion sur un complément."
+        },
+        {
+          "title": "Ajustez au marché réel",
+          "text": "Comparez avec des logements réellement concurrents : même micro-localisation, étage, ascenseur, état, exposition, DPE, qualité du mobilier et disponibilité immédiate. Retirez une décote si votre appartement souffre d’un défaut objectif."
+        },
+        {
+          "title": "Fixez les charges et rédigez l’annonce",
+          "text": "Ajoutez des provisions sur charges justifiables ou un forfait lorsque le bail le permet. Indiquez les mentions exigées, dont le loyer de référence majoré, le loyer de base, les charges et, s’il existe, le complément de loyer et sa justification."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Location vide ou meublée : le bon choix ne se réduit pas au loyer",
+      "id": "location-vide-ou-meublee-le-bon-choix-ne-se-reduit-pas-au-lo"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une location meublée peut répondre à une demande forte à Paris, notamment dans les secteurs proches des pôles d’emploi, des écoles et des transports. Elle suppose toutefois un inventaire détaillé, un mobilier réellement fonctionnel, davantage d’usure et un renouvellement plus fréquent des équipements. Le fait que le marché accepte parfois un montant plus élevé en meublé ne vous autorise pas à dépasser le plafond correspondant à la catégorie meublée."
+    },
+    {
+      "type": "comparison",
+      "title": "Arbitrer entre location vide et location meublée",
+      "left": {
+        "title": "Location vide",
+        "points": [
+          "Bail généralement plus long et rotation souvent plus faible.",
+          "Mobilier à acheter et entretenir en moins.",
+          "Plafond de loyer calculé dans la catégorie des logements non meublés.",
+          "Pertinente pour viser un occupant durable et simplifier la gestion quotidienne."
+        ]
+      },
+      "right": {
+        "title": "Location meublée",
+        "points": [
+          "Répond bien aux mobilités étudiantes et professionnelles, selon le secteur.",
+          "Mobilier réglementaire, inventaire et remplacement des équipements indispensables.",
+          "Plafond de loyer propre aux logements meublés : comparez-le dans le simulateur.",
+          "Gestion plus active, avec une attention accrue à l’état des meubles et au risque de vacance entre deux locations."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix doit être cohérent avec la configuration du logement. Un petit appartement proche de plusieurs transports peut se prêter au meublé si vous pouvez l’équiper correctement. Un grand logement familial, un bien doté d’une cuisine à aménager ou un appartement nécessitant une stabilité d’occupation peut être plus pertinent en location vide. Calculez la rentabilité sur une année complète en intégrant mobilier, renouvellement, assurance, petites réparations et éventuelles périodes sans loyer, pas seulement le loyer mensuel affiché."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le complément de loyer : une exception à manier avec prudence",
+      "id": "le-complement-de-loyer-une-exception-a-manier-avec-prudence"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le complément de loyer est la partie qui peut s’ajouter au loyer de base plafonné. Il ne doit pas servir à compenser un achat cher, une forte mensualité de crédit, une rénovation ordinaire ou le simple fait que l’appartement se situe dans un arrondissement demandé. Ces éléments sont déjà, au moins en partie, reflétés dans le secteur et la catégorie utilisés pour établir le loyer de référence."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour être défendable, le complément doit reposer sur une caractéristique <strong>exceptionnelle</strong>, liée au logement, absente ou insuffisamment prise en compte dans le loyer de référence, et dont la valeur est objectivable. Une vaste terrasse utilisable, une vue rare et dégagée, des prestations très singulières ou des équipements haut de gamme réellement distinctifs peuvent parfois être examinés. À l’inverse, un balcon étroit, une cuisine rénovée, un parquet, un étage élevé avec ascenseur ou la proximité d’un métro sont rarement des justifications suffisamment solides à eux seuls."
+    },
+    {
+      "type": "proscons",
+      "title": "Faut-il prévoir un complément de loyer ?",
+      "pros": [
+        "Il peut reconnaître une qualité rare qui distingue objectivement le bien de sa catégorie statistique.",
+        "Lorsqu’il est précis, proportionné et documenté, il clarifie la composition du montant demandé.",
+        "Il peut être pertinent pour certains appartements véritablement atypiques, sans transformer le loyer de base en montant illégal."
+      ],
+      "cons": [
+        "Le locataire peut le contester selon une procédure encadrée ; une justification vague est un risque inutile.",
+        "Il ne peut pas corriger les défauts du bien, les limites du DPE ou un plafond jugé trop bas par le propriétaire.",
+        "Un montant excessif allonge les discussions, réduit le vivier de candidats et peut entraîner une restitution ou une baisse du loyer."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne facturez pas deux fois une qualité déjà intégrée",
+      "html": "Avant de retenir un complément, demandez-vous si l’avantage invoqué est déjà courant dans les logements comparables de la même zone et de la même catégorie. Si oui, il est probablement déjà absorbé dans le loyer de référence. Décrivez toujours la caractéristique et son montant séparément dans le bail ; une ligne globale sans motif est particulièrement fragile."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fixer les charges, le dépôt et la clause de révision sans gonfler le loyer",
+      "id": "fixer-les-charges-le-depot-et-la-clause-de-revision-sans-gon"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les charges ne sont pas un levier pour contourner le plafond. Avec une <strong>provision sur charges</strong>, vous appelez un montant mensuel puis vous régularisez selon les dépenses récupérables réelles ; ce système est fréquent en location vide. Le <strong>forfait de charges</strong>, surtout utilisé dans certains baux meublés, doit être fixé de manière réaliste et ne peut pas être manifestement disproportionné. Examinez les derniers relevés de copropriété en isolant les dépenses récupérables des frais restant à votre charge."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le dépôt de garantie est également distinct : dans le cadre courant d’un bail d’habitation, son plafond dépend notamment du caractère vide ou meublé du logement. Ne l’intégrez jamais dans le « premier loyer » affiché, et soyez transparent sur chaque somme demandée au candidat. Si vous insérez une clause de révision annuelle, elle doit se fonder sur l’indice légal de référence prévu au bail et respecter les restrictions applicables, notamment lorsque la performance énergétique du logement entraîne des limitations."
+    },
+    {
+      "type": "table",
+      "caption": "Les postes financiers à présenter clairement au candidat",
+      "headers": [
+        "Poste",
+        "Comment le fixer",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Loyer de base hors charges",
+          "Au maximum du loyer de référence majoré, sauf complément justifié",
+          "C’est le montant réglementé à Paris"
+        ],
+        [
+          "Complément de loyer",
+          "Uniquement si une qualité exceptionnelle le justifie",
+          "Motif précis, distinct et contestable par le locataire"
+        ],
+        [
+          "Provisions sur charges",
+          "À partir des dépenses récupérables prévisionnelles",
+          "Régularisation nécessaire ; ne pas y cacher des frais de propriétaire"
+        ],
+        [
+          "Forfait de charges",
+          "Montant réaliste prévu par le bail lorsque ce régime est possible",
+          "Pas de régularisation, mais forfait non manifestement excessif"
+        ],
+        [
+          "Dépôt de garantie",
+          "Dans la limite légale liée au type de bail",
+          "Ce n’est ni un loyer ni une avance sur charges"
+        ]
+      ],
+      "note": "Les règles varient selon la nature exacte du bail. Relisez les modèles réglementaires et faites vérifier les cas atypiques par un professionnel du droit ou de la gestion locative."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Se positionner face au marché sans se fier aux annonces trompeuses",
+      "id": "se-positionner-face-au-marche-sans-se-fier-aux-annonces-trom"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après avoir déterminé votre maximum légal, réalisez une comparaison utile sur une courte période. Sélectionnez des annonces récentes, dans un rayon pertinent et pour des biens ayant la même destination : un studio étudiant ne se compare pas à un pied-à-terre luxueux, et un rez-de-chaussée sombre ne se compare pas à un dernier étage traversant. Écartez les annonces manifestement surévaluées, celles qui sont publiées depuis longtemps et celles dont le loyer semble inclure des charges ou des services sans détail."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évaluez ensuite les éléments qui influencent réellement la vitesse de location : calme, luminosité, plan, rangement, état de la salle d’eau, équipement de cuisine, qualité de la connexion internet, ascenseur, local vélo, distance à pied des transports et niveau des charges. Un loyer légèrement inférieur au plafond peut faire gagner plusieurs semaines de vacance et améliorer la sélection des dossiers. Cette décision est souvent plus rentable qu’un montant maximal qui ralentit la mise en location."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant de mettre l’annonce en ligne",
+      "items": [
+        "Vérifiez que le montant hors charges ne dépasse pas le plafond actuel correspondant exactement à votre catégorie.",
+        "Relisez le DPE et corrigez les anomalies de confort ou de sécurité avant les visites.",
+        "Calculez des charges cohérentes à partir de documents récents, pas à partir d’une estimation approximative.",
+        "Affichez séparément loyer de base, charges, dépôt de garantie, complément éventuel et honoraires éventuels.",
+        "Ajoutez les informations énergétiques et les mentions locatives requises dans l’annonce.",
+        "Préparez un bail conforme, un état des lieux détaillé et, en meublé, un inventaire exhaustif avec l’état du mobilier."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particuliers : relocation, colocation, travaux et logement énergivore",
+      "id": "cas-particuliers-relocation-colocation-travaux-et-logement-e"
+    },
+    {
+      "type": "paragraph",
+      "html": "À la relocation, ne supposez pas que le départ d’un locataire vous autorise à repartir du plafond le plus élevé. Des règles de limitation de l’évolution du loyer peuvent s’ajouter à l’encadrement parisien, notamment selon le loyer antérieur, la durée de vacance et la nature des travaux engagés. Les travaux d’entretien courant, le remplacement normal d’un appareil ou une simple remise en peinture ne constituent pas automatiquement un motif de hausse. Conservez les factures, dates et descriptifs si vous pensez pouvoir invoquer des améliorations substantielles."
+    },
+    {
+      "type": "paragraph",
+      "html": "En colocation, le montant global demandé et sa répartition doivent rester cohérents avec le plafond applicable et le montage retenu. Le bail unique avec solidarité, les baux individuels par chambre et la sous-location ne produisent pas les mêmes effets. Ne divisez pas artificiellement un appartement pour additionner des loyers qui dépasseraient ce qu’autorise la réglementation. La sous-location, elle, nécessite en principe l’accord écrit du propriétaire et répond à des règles propres."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, le DPE est devenu central. Les logements les plus mal classés sont soumis à des interdictions de mise en location ou à des limitations de hausse qui s’appliquent progressivement. Avant de fixer le loyer, vérifiez la classe actuelle, la date de validité du diagnostic et les travaux prioritaires : isolation des parois, ventilation, chauffage, eau chaude ou menuiseries, selon le cas. Améliorer l’efficacité énergétique peut réduire la vacance, protéger votre capacité à louer et rendre le bien plus attractif, mais ne dispense pas de respecter l’encadrement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus coûteuses pour un bailleur parisien",
+      "id": "les-erreurs-les-plus-couteuses-pour-un-bailleur-parisien"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à utiliser le loyer demandé par les voisins comme seule référence. Certaines annonces ne sont pas conformes, d’autres correspondent à une location de courte durée, à un bail particulier ou incluent des services. La deuxième est de confondre une rénovation avec une caractéristique exceptionnelle : une salle d’eau propre et une cuisine fonctionnelle sont attendues, elles ne justifient pas automatiquement un supplément."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également de sous-estimer les charges afin d’afficher un total attractif, ou, à l’inverse, de les surévaluer pour augmenter indirectement l’encaissement mensuel. Enfin, ne vous contentez pas d’un calcul effectué plusieurs mois avant la signature : les valeurs de référence et les obligations de l’annonce évoluent. Refaites la vérification au moment de conclure le bail, gardez tous les justificatifs et privilégiez une présentation transparente. C’est la meilleure défense en cas de question du candidat ou de contrôle."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le loyer d’un appartement à Paris",
+      "items": [
+        {
+          "q": "Puis-je fixer le loyer au montant que je souhaite si mon appartement est très bien situé ?",
+          "a": "Non. La localisation est déjà intégrée dans les secteurs de référence servant à l’encadrement. Vous devez respecter le loyer de référence majoré correspondant à votre logement. Un complément n’est envisageable que pour une caractéristique exceptionnelle propre au bien, distincte de la simple attractivité du quartier."
+        },
+        {
+          "q": "Comment connaître le loyer de référence majoré de mon appartement ?",
+          "a": "Utilisez le simulateur officiel de l’encadrement des loyers applicable à Paris. Préparez l’adresse, la période de construction, le nombre de pièces, la surface habitable et le statut meublé ou vide. Conservez le résultat daté : c’est un élément utile pour justifier votre calcul."
+        },
+        {
+          "q": "Les charges sont-elles comprises dans le plafond de loyer ?",
+          "a": "Non. Le plafond concerne le loyer de base hors charges. Les provisions ou le forfait de charges doivent apparaître séparément et correspondre à un régime de charges valable. Ils ne doivent pas servir à contourner le plafond du loyer hors charges."
+        },
+        {
+          "q": "Puis-je ajouter un complément de loyer pour un balcon ou une cuisine rénovée ?",
+          "a": "Pas automatiquement. Un petit balcon, des équipements en bon état ou une rénovation classique sont généralement des caractéristiques attendues ou fréquentes. Le complément doit être justifié par un avantage exceptionnel, non pris en compte dans la référence, et son montant doit rester proportionné et documenté."
+        },
+        {
+          "q": "Un logement meublé peut-il être loué plus cher qu’un logement vide ?",
+          "a": "La catégorie meublée dispose de ses propres loyers de référence, qui peuvent différer de ceux d’une location vide. Mais vous devez respecter le plafond applicable au meublé et fournir l’ensemble du mobilier réglementaire. Le surcoût d’équipement et de gestion doit aussi être intégré à votre calcul de rentabilité."
+        },
+        {
+          "q": "Que risque le propriétaire qui dépasse le loyer encadré ?",
+          "a": "Le locataire peut engager les démarches prévues pour demander une diminution du loyer ou contester un complément de loyer. Selon la situation, le bailleur peut devoir régulariser les sommes perçues et s’exposer à des sanctions administratives. Un calcul documenté et un bail transparent réduisent fortement ce risque."
+        }
+      ]
+    }
+  ]
+}

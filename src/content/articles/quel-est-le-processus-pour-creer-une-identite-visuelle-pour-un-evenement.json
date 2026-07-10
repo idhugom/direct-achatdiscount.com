@@ -1,0 +1,455 @@
+{
+  "title": "Quel est le processus pour créer une identité visuelle pour un événement?",
+  "slug": "quel-est-le-processus-pour-creer-une-identite-visuelle-pour-un-evenement",
+  "path": "/divers/quel-est-le-processus-pour-creer-une-identite-visuelle-pour-un-evenement.html",
+  "category": "loisirs",
+  "tags": [
+    "identité visuelle",
+    "événement",
+    "charte graphique",
+    "communication événementielle",
+    "design graphique",
+    "branding"
+  ],
+  "excerpt": "Du brief à la charte graphique, suivez une méthode concrète pour concevoir une identité visuelle d’événement claire, mémorable et déclinable.",
+  "metaDescription": "Découvrez le processus complet pour créer une identité visuelle d’événement cohérente : brief, concept, déclinaisons, budget et erreurs à éviter.",
+  "seoTitle": "Créer l’identité visuelle d’un événement : méthode",
+  "heroKicker": "Marquer les esprits",
+  "readingTime": 12,
+  "date": "2024-11-04T18:42:13",
+  "image": {
+    "id": "2558",
+    "alt": "Quel est le processus pour créer une identité visuelle pour un événement?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "L’identité visuelle donne un visage à votre événement avant même que le public n’en découvre le programme. Bien construite, elle rend votre rendez-vous reconnaissable, crédible et cohérent sur chaque point de contact, de l’invitation au panneau sur place. Le processus ne consiste donc pas seulement à « faire un logo » : il s’agit de bâtir un système visuel utilisable sans déformer le message."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Commencez par un brief précis : objectifs, publics, promesse, contraintes, calendrier et supports doivent être connus avant toute création.",
+        "Une identité efficace repose sur un concept clair, puis sur des règles de déclinaison : logo, couleurs, typographies, images, pictogrammes et gabarits.",
+        "Concevez d’abord les supports les plus contraignants, notamment le mobile, l’affichage et la signalétique, afin de vérifier la lisibilité réelle du système.",
+        "Prévoyez des fichiers exploitables et une mini-charte : sans cela, l’identité se dilue rapidement entre les réseaux sociaux, les partenaires et les prestataires.",
+        "Le bon budget dépend surtout du niveau de stratégie, du nombre de déclinaisons, de l’urgence et des droits d’utilisation attendus."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce qu’est une identité visuelle événementielle",
+      "id": "comprendre-ce-qu-est-une-identite-visuelle-evenementielle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une identité visuelle événementielle est l’ensemble des signes graphiques qui permettent d’identifier un événement et d’en exprimer l’univers : nom traité graphiquement, logo ou signature, palette de couleurs, typographies, style photographique ou illustratif, motifs, icônes, mise en page et règles d’usage. Elle peut être conçue pour une édition unique, une série annuelle ou une marque d’événements pérenne."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son rôle est double. D’une part, elle doit susciter l’envie et transmettre le bon positionnement : institutionnel, festif, haut de gamme, familial, engagé, professionnel ou expérimental. D’autre part, elle doit fonctionner dans des situations très différentes : une story verticale, une billetterie, une affiche vue de loin, un badge, un écran, un programme dense et une signalétique parfois consultée dans l’urgence."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Logo et identité visuelle ne sont pas synonymes",
+      "html": "Un logo seul ne suffit presque jamais à communiquer un événement. La valeur d’une identité réside dans sa <strong>capacité à être déclinée</strong> sans perdre en reconnaissance : un principe graphique simple, des règles claires et des fichiers adaptés aux usages réels."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 1 : cadrer le projet avec un brief vraiment exploitable",
+      "id": "etape-1-cadrer-le-projet-avec-un-brief-vraiment-exploitable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le brief est le document qui évite les choix esthétiques arbitraires et les allers-retours coûteux. Avant de chercher une couleur ou une police, formulez ce que l’événement doit faire comprendre et ressentir. Un festival de quartier, un congrès professionnel, une collecte caritative et un lancement de produit n’ont ni les mêmes publics ni les mêmes codes de confiance."
+    },
+    {
+      "type": "paragraph",
+      "html": "Réunissez les décideurs au départ : organisateur, responsable communication, éventuel sponsor principal, personne en charge du digital et référent de la production imprimée. Désignez aussi une personne habilitée à consolider les retours. Des commentaires contradictoires envoyés séparément sont l’une des principales causes de dérive du planning."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les informations à donner au designer ou à l’agence",
+      "items": [
+        "Le nom exact de l’événement, sa date, son lieu, sa fréquence et son format.",
+        "L’objectif prioritaire : vendre des billets, générer des inscriptions, recruter des exposants, informer, fidéliser ou lever des fonds.",
+        "Les publics visés, leurs attentes, leur niveau de familiarité avec le sujet et les éventuels publics secondaires.",
+        "La promesse de l’événement en une phrase : ce que les participants y gagnent concrètement.",
+        "Le ton recherché et les adjectifs à privilégier ou à bannir : accessible, premium, militant, sobre, audacieux, local, etc.",
+        "Les éléments obligatoires : logos partenaires, mentions légales, contraintes de marque mère, couleurs imposées, langues ou exigences d’accessibilité.",
+        "La liste priorisée des supports, les dimensions connues, les échéances de validation et la date de mise en vente ou d’ouverture des inscriptions.",
+        "Les références visuelles appréciées ou rejetées, en précisant toujours pourquoi elles vous inspirent ou vous gênent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Transformer le brief en critères de réussite",
+      "id": "transformer-le-brief-en-criteres-de-reussite"
+    },
+    {
+      "type": "paragraph",
+      "html": "À la fin du cadrage, vous devez pouvoir énoncer des critères vérifiables. Par exemple : être identifiable dans un fil de réseaux sociaux, rester lisible en petit format, permettre l’ajout de partenaires, différencier les parcours visiteurs et professionnels, ou encore être imprimable en peu de couleurs. Ces critères servent à évaluer une proposition autrement que par un simple « j’aime » ou « je n’aime pas »."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1",
+          "label": "promesse centrale à faire ressortir avant tout"
+        },
+        {
+          "value": "3 à 5",
+          "label": "éléments graphiques maîtres suffisent généralement à structurer un système"
+        },
+        {
+          "value": "2",
+          "label": "contextes à tester au minimum : petit écran et format grand public"
+        },
+        {
+          "value": "1",
+          "label": "document de règles d’usage à remettre avec les fichiers finaux"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 2 : explorer le territoire créatif et choisir un concept",
+      "id": "etape-2-explorer-le-territoire-creatif-et-choisir-un-concept"
+    },
+    {
+      "type": "paragraph",
+      "html": "La phase de recherche traduit la stratégie en pistes visuelles. Elle commence utilement par un audit rapide : identité des éditions précédentes, communications des événements concurrents, codes du secteur, contraintes du lieu et univers des partenaires. Le but n’est pas de reproduire ce qui existe, mais de repérer ce qui est banal, ce qui inspire confiance et l’espace disponible pour se distinguer."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon concept visuel s’explique en quelques mots et peut vivre au-delà de l’affiche principale. Il peut naître d’un lieu, d’un mouvement, d’un rythme, d’une idée de rencontre, d’une matière, d’un geste ou d’un contraste. Il ne doit pas être dépendant d’un effet à la mode difficile à reproduire, ni d’une image décorative qui ne supporte pas l’ajout d’informations pratiques."
+    },
+    {
+      "type": "table",
+      "caption": "Ce qu’il faut évaluer avant de valider une direction créative",
+      "headers": [
+        "Critère",
+        "Question à poser",
+        "Signe d’une réponse solide"
+      ],
+      "rows": [
+        [
+          "Pertinence",
+          "Le visuel traduit-il la promesse et le ton de l’événement ?",
+          "Le lien entre concept et positionnement peut être expliqué sans jargon."
+        ],
+        [
+          "Différenciation",
+          "Se distingue-t-il des rendez-vous comparables ?",
+          "Il n’évoque pas immédiatement un concurrent ou un cliché du secteur."
+        ],
+        [
+          "Lisibilité",
+          "Les informations essentielles restent-elles visibles rapidement ?",
+          "Le titre, la date et l’appel à l’action se lisent sur petit écran et à distance."
+        ],
+        [
+          "Déclinabilité",
+          "Le principe fonctionne-t-il sur tous les supports prévus ?",
+          "Il accepte des formats horizontaux, verticaux, denses et minimalistes."
+        ],
+        [
+          "Faisabilité",
+          "La production est-elle compatible avec vos moyens ?",
+          "Les choix de couleurs, finitions et images peuvent être réalisés sans surcoût disproportionné."
+        ],
+        [
+          "Durabilité",
+          "Pourra-t-il être actualisé ou réemployé ?",
+          "Les éléments variables peuvent changer d’édition sans reconstruire toute l’identité."
+        ]
+      ],
+      "note": "Demandez à voir chaque piste dans un contexte d’usage, pas seulement sous la forme d’un logo isolé sur fond blanc."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne validez pas uniquement une belle maquette",
+      "html": "Une proposition peut être séduisante en présentation et échouer en situation réelle. Faites tester le concept sur une vignette de billetterie, une story, une affiche avec partenaires et un panneau de signalétique. Si l’identité ne tient que sur une composition très contrôlée, elle sera fragile au quotidien."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 3 : construire les composants du système graphique",
+      "id": "etape-3-construire-les-composants-du-systeme-graphique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois la direction retenue, le travail consiste à bâtir les éléments qui permettront à l’identité de durer. Le logo ou bloc-marque doit exister dans des versions adaptées : couleur, monochrome, fond clair ou foncé, version compacte si nécessaire. Il doit garder une zone de protection et une taille minimale afin de rester lisible sur un badge ou dans une grille de partenaires."
+    },
+    {
+      "type": "paragraph",
+      "html": "La palette ne doit pas seulement être expressive : elle doit aussi offrir des contrastes exploitables. Une couleur très vive peut être excellente en accent, mais insuffisante pour porter du texte. Les typographies doivent être choisies pour leur caractère, leur lisibilité, leurs licences et leur disponibilité pour les personnes qui produiront les documents. Une police introuvable ou utilisée sans droit peut bloquer une campagne ou créer un risque juridique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Définissez également le langage des images. Allez-vous privilégier des photographies spontanées, des portraits, des vues du lieu, des illustrations, des formes abstraites ou un mélange encadré ? Si des visuels générés ou achetés sont utilisés, vérifiez les conditions de licence, les autorisations de représentation et la cohérence avec l’image de votre public. Les pictogrammes, textures et motifs peuvent ensuite relier les supports sans les surcharger."
+    },
+    {
+      "type": "proscons",
+      "title": "Une identité modulaire : atouts et limites",
+      "pros": [
+        "Elle se décline rapidement sur de nombreux formats et permet une production plus autonome.",
+        "Elle facilite la différenciation des jours, scènes, thématiques ou parcours grâce à des règles variables.",
+        "Elle reste cohérente même lorsque plusieurs prestataires créent des supports.",
+        "Elle peut être actualisée d’une édition à l’autre sans perdre la reconnaissance acquise."
+      ],
+      "cons": [
+        "Elle demande un travail de conception initial plus structuré qu’une affiche unique.",
+        "Trop de variables mal encadrées peuvent produire un résultat visuellement confus.",
+        "Elle suppose une charte suffisamment claire et des gabarits bien préparés.",
+        "Les équipes doivent respecter les règles au lieu de réinventer chaque visuel."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 4 : décliner l’identité sur les supports prioritaires",
+      "id": "etape-4-decliner-l-identite-sur-les-supports-prioritaires"
+    },
+    {
+      "type": "paragraph",
+      "html": "La déclinaison ne doit pas être une simple mise à l’échelle. Chaque support a sa fonction, sa distance de lecture et sa quantité d’information. Sur les réseaux sociaux, l’accroche doit être comprise instantanément ; sur un e-mail, l’objet et l’appel à l’action guident l’inscription ; sur un programme, la hiérarchie aide à choisir ; sur le site, l’identité soutient la navigation ; sur place, elle oriente et rassure."
+    },
+    {
+      "type": "comparison",
+      "title": "Gabarit prêt à l’emploi ou identité sur mesure ?",
+      "left": {
+        "title": "Gabarit ou modèle personnalisé",
+        "points": [
+          "Convient à un événement simple, ponctuel et doté d’un budget limité.",
+          "Permet de démarrer vite si les formats sont standards et le contenu peu complexe.",
+          "Exige un soin particulier pour éviter un rendu générique ou incohérent avec vos partenaires.",
+          "Reste limité dès qu’il faut créer de la signalétique, des sous-programmes ou un univers très distinctif."
+        ]
+      },
+      "right": {
+        "title": "Identité conçue sur mesure",
+        "points": [
+          "Pertinente pour un événement récurrent, stratégique ou très concurrentiel.",
+          "Inclut plus facilement une réflexion sur le positionnement, les règles et les déclinaisons.",
+          "Facilite l’appropriation par les équipes grâce aux gabarits et à la charte.",
+          "Demande un budget, un délai de conception et des validations plus structurés."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les supports à prévoir dès le départ",
+      "id": "les-supports-a-prevoir-des-le-depart"
+    },
+    {
+      "type": "paragraph",
+      "html": "La liste exacte varie selon le format, mais prévoyez au moins les usages de lancement, de conversion et d’expérience sur place. Cela comprend souvent les visuels de réseaux sociaux, les bannières ou formats publicitaires, le site ou la page d’inscription, l’e-mailing, l’affiche, le programme, les badges, les présentations des intervenants, les écrans, la signalétique et les remerciements après l’événement. Mieux vaut hiérarchiser ces livrables plutôt que promettre tous les formats imaginables sans budget ni calendrier."
+    },
+    {
+      "type": "steps",
+      "title": "Une séquence de déclinaison efficace",
+      "items": [
+        {
+          "title": "1. Maquette maître",
+          "text": "Composez un visuel principal réunissant titre, date, lieu, promesse et appel à l’action. Il fixe la hiérarchie d’information."
+        },
+        {
+          "title": "2. Tests de formats critiques",
+          "text": "Adaptez immédiatement cette maquette à un petit format mobile, un visuel vertical et un grand format imprimé ou d’affichage."
+        },
+        {
+          "title": "3. Gabarits réutilisables",
+          "text": "Créez ensuite des modèles pour les annonces d’intervenants, la programmation, les rappels pratiques et les partenaires."
+        },
+        {
+          "title": "4. Supports terrain",
+          "text": "Traitez la signalétique selon les flux : accueil, orientation, files d’attente, salles, restauration, sanitaires et sorties."
+        },
+        {
+          "title": "5. Contrôle final",
+          "text": "Vérifiez les textes, logos, dimensions, marges, liens, contrastes, fonds perdus et profils de couleurs avant diffusion. "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 5 : formaliser une charte et organiser les fichiers",
+      "id": "etape-5-formaliser-une-charte-et-organiser-les-fichiers"
+    },
+    {
+      "type": "paragraph",
+      "html": "La charte graphique événementielle n’a pas besoin d’être un document interminable. Elle doit être suffisamment précise pour que les équipes, partenaires, imprimeurs et intervenants puissent produire les bons éléments sans altérer la marque. Une mini-charte de quelques pages peut déjà faire une grande différence si elle répond aux questions pratiques."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Le contenu utile d’une mini-charte",
+      "items": [
+        "Les versions autorisées du logo, sa zone de protection, ses tailles minimales et les usages interdits.",
+        "Les couleurs avec leurs références destinées au web et à l’impression, ainsi que les associations recommandées.",
+        "Les typographies, leurs graisses, leurs tailles indicatives et les solutions de remplacement autorisées.",
+        "Les principes de composition : marges, alignements, hiérarchie entre titre, date, lieu et appel à l’action.",
+        "Le traitement des photos, illustrations, motifs et pictogrammes.",
+        "Des exemples prêts à reproduire pour les formats les plus fréquents.",
+        "Les coordonnées ou règles de validation pour les partenaires utilisant l’identité."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté livraison, demandez des fichiers de production et pas seulement des exports image. Selon les outils utilisés, cela peut inclure les sources éditables, des PDF prêts à imprimer, des fichiers vectoriels pour les logos, des images web optimisées et des gabarits modifiables. Organisez-les dans une arborescence simple, avec des noms explicites et un dossier « à ne pas modifier » pour les éléments de référence."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Anticipez la cohabitation avec les sponsors",
+      "html": "Réservez dès les premières maquettes une zone de partenaires et définissez des règles de taille, d’alignement et de contraste. Ajouter de nombreux logos à la dernière minute peut détruire la hiérarchie visuelle d’une affiche ou d’un écran. Une grille prévue à l’avance protège l’identité comme les engagements commerciaux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, délais et ressources : choisir le niveau d’accompagnement",
+      "id": "budget-delais-et-ressources-choisir-le-niveau-d-accompagneme"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût d’une identité visuelle varie fortement parce que le périmètre varie lui aussi. Un visuel adapté à quelques publications n’exige pas le même travail qu’une plateforme de marque événementielle avec signalétique, templates, animations et suivi de production. Pour établir un budget réaliste, distinguez la stratégie et la conception, les déclinaisons, les achats éventuels de polices ou d’images, l’impression, les adaptations de dernière minute et la coordination."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur selon l’ampleur du projet",
+      "headers": [
+        "Niveau de besoin",
+        "Contenu habituel",
+        "Repère de budget et de délai"
+      ],
+      "rows": [
+        [
+          "Essentiel",
+          "Direction graphique simple, visuel principal et quelques formats numériques.",
+          "Budget limité à modéré ; réalisable en quelques jours à quelques semaines si le brief est clair."
+        ],
+        [
+          "Intermédiaire",
+          "Identité structurée, règles d’usage, déclinaisons print et web, plusieurs gabarits.",
+          "Budget modéré à conséquent ; prévoyez généralement plusieurs semaines, validations comprises."
+        ],
+        [
+          "Complet",
+          "Stratégie, identité complète, campagne, signalétique, animation éventuelle et accompagnement de production.",
+          "Budget conséquent ; un travail préparé sur plusieurs semaines ou mois sécurise la qualité et les contraintes terrain."
+        ]
+      ],
+      "note": "Ces repères sont volontairement larges. Le nombre de livrables, les délais très courts, les langues, les droits d’image et les demandes de modifications influencent fortement le devis."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un freelance expérimenté convient souvent à un périmètre bien défini et à une relation directe. Une agence peut apporter une équipe pluridisciplinaire, une capacité de production plus large et un cadre solide pour les projets complexes. Dans les deux cas, comparez les propositions sur le périmètre exact, le nombre de pistes, les cycles de retours, les livrables, les droits de cession ou de licence et les conditions de suivi, pas uniquement sur le montant global."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 6 : tester, produire et faire vivre l’identité",
+      "id": "etape-6-tester-produire-et-faire-vivre-l-identite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de tout lancer, organisez une revue de préproduction. Imprimez un échantillon à taille réaliste, regardez les visuels sur plusieurs téléphones, contrôlez les contrastes et faites lire les informations essentielles par une personne qui ne connaît pas le projet. Ce test révèle vite les dates trop petites, les couleurs insuffisamment contrastées, les QR codes inutilisables ou les parcours mal signalés."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’accessibilité fait partie de la qualité. Ne communiquez pas une information uniquement par la couleur, évitez les textes très fins sur fonds complexes, préservez des contrastes suffisants et privilégiez une taille de caractère adaptée à la distance de lecture. Pour le numérique, des textes alternatifs pertinents, des titres explicites et des visuels non surchargés améliorent aussi l’expérience."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Contrôle qualité avant publication ou impression",
+      "items": [
+        "Le nom, la date, l’horaire, le lieu et le lien ou QR code ont été vérifiés par au moins une autre personne.",
+        "Les logos partenaires correspondent aux versions validées et respectent leur zone de protection.",
+        "Les droits d’utilisation des polices, photos, illustrations et musiques d’animation sont clarifiés.",
+        "Les fichiers imprimés comportent les dimensions, marges, fonds perdus et couleurs demandés par le prestataire.",
+        "Les supports numériques sont lisibles sur mobile et leurs liens mènent au bon parcours d’inscription.",
+        "La signalétique a été pensée selon les déplacements réels des visiteurs, pas seulement selon un plan théorique."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs fréquentes et comment les éviter",
+      "id": "les-erreurs-frequentes-et-comment-les-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de démarrer la création avant de savoir ce que l’événement veut accomplir. On obtient alors une esthétique parfois attractive, mais incapable de convaincre la bonne cible. La deuxième consiste à concentrer tout le budget sur une affiche spectaculaire en oubliant les gabarits, le site, la billetterie et l’orientation sur place. Une identité est un outil opérationnel, pas un poster isolé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également les validations par comité sans règles. Centralisez les retours, demandez des commentaires liés aux critères du brief et limitez les modifications de goût personnel. Enfin, ne remettez pas la production au dernier moment : les corrections de texte, la récupération de logos partenaires, les contraintes d’impression et les changements de programme exigent presque toujours une marge de sécurité."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Là où votre investissement est le plus utile",
+      "html": "Si vous devez arbitrer, financez d’abord un <strong>brief solide</strong>, une direction créative distinctive, les formats qui génèrent les inscriptions et les gabarits qui seront réutilisés. Les finitions coûteuses ou les animations complexes sont pertinentes seulement lorsqu’elles servent réellement votre public et votre dispositif de communication."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Après l’événement : évaluer et préparer la prochaine édition",
+      "id": "apres-l-evenement-evaluer-et-preparer-la-prochaine-edition"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’identité ne s’arrête pas le jour J. Conservez les versions finales, les fichiers sources et les éléments qui ont été réellement utilisés. Faites un bilan rapide avec l’équipe : quels supports ont été les plus efficaces, où les visiteurs se sont-ils perdus, quelles informations ont nécessité des corrections répétées, quels formats ont été les plus faciles à produire ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si l’événement est récurrent, séparez les éléments stables — signature, structure typographique, grille, ton iconographique — des éléments variables, comme le thème, la couleur dominante, la date ou le visuel de campagne. Vous créerez ainsi une reconnaissance d’une année sur l’autre tout en laissant de l’espace au renouvellement."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’identité visuelle d’un événement",
+      "items": [
+        {
+          "q": "Combien de temps faut-il pour créer une identité visuelle événementielle ?",
+          "a": "Pour un périmètre simple, quelques jours de travail peuvent suffire après un brief bien préparé. Une identité complète avec recherche, validations, gabarits, signalétique et production demande plus souvent plusieurs semaines. Prévoyez une marge pour les retours, les partenaires et les contraintes d’impression."
+        },
+        {
+          "q": "Faut-il créer un nouveau logo pour chaque édition ?",
+          "a": "Pas nécessairement. Pour un événement récurrent, il est souvent préférable de conserver une signature ou un système reconnaissable, puis de renouveler le thème, la couleur, le visuel ou certains motifs. Un nouveau logo à chaque édition peut affaiblir la mémorisation de l’événement."
+        },
+        {
+          "q": "Peut-on utiliser un outil de création en ligne pour l’identité de son événement ?",
+          "a": "Oui, si votre besoin est limité, votre délai court et vos supports standards. Utilisez alors un modèle comme point de départ, simplifiez la palette et créez quelques gabarits cohérents. Dès que l’événement comporte de nombreux partenaires, de la signalétique, plusieurs publics ou un enjeu de marque, un accompagnement professionnel devient généralement plus rentable."
+        },
+        {
+          "q": "Quels fichiers faut-il demander au prestataire ?",
+          "a": "Demandez au minimum les logos en version vectorielle et en version web, des exports adaptés aux principaux usages, les documents prêts à imprimer, les références de couleurs et de typographies, ainsi qu’une mini-charte. Si cela est prévu au contrat, demandez aussi les fichiers sources éditables et des gabarits pour les publications récurrentes."
+        },
+        {
+          "q": "Comment garder une identité lisible avec beaucoup d’informations ?",
+          "a": "Établissez une hiérarchie stricte : le nom ou la promesse, puis la date et le lieu, puis l’appel à l’action ; le reste vient ensuite. Ne cherchez pas à tout dire sur chaque support. Utilisez plutôt un programme ou une page web pour les détails, et déclinez des visuels dédiés par information."
+        },
+        {
+          "q": "Comment intégrer les logos des partenaires sans dégrader le visuel ?",
+          "a": "Prévoyez une zone partenaire dès la conception, avec une grille, une taille maximale et des versions monochromes si elles sont autorisées. Distinguez si besoin les niveaux de partenariat. Évitez d’ajouter les logos dans la zone principale de lecture : ils doivent être présents et conformes, sans concurrencer l’information utile au public."
+        }
+      ]
+    }
+  ]
+}

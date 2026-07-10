@@ -1,0 +1,404 @@
+{
+  "title": "Conservation des briques cuites : techniques et conseils",
+  "slug": "conservation-des-briques-cuites-techniques-et-conseils",
+  "path": "/divers/conservation-des-briques-cuites-techniques-et-conseils.html",
+  "category": "maison",
+  "tags": [
+    "briques cuites",
+    "stockage matériaux",
+    "maçonnerie",
+    "rénovation façade",
+    "joints de brique",
+    "humidité"
+  ],
+  "excerpt": "Du stockage sur palette à la réparation des joints, apprenez à conserver des briques cuites saines, sèches et durables, neuves ou anciennes.",
+  "metaDescription": "Stocker, protéger et restaurer des briques cuites sans piéger l’humidité : méthodes, erreurs à éviter et budget pour une maçonnerie durable.",
+  "seoTitle": "Conservation des briques cuites : conseils durables",
+  "heroKicker": "Maçonnerie durable",
+  "readingTime": 12,
+  "date": "2024-11-08T20:46:14",
+  "image": {
+    "id": "2587",
+    "alt": "Conservation des briques cuites : techniques et conseils",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "La brique cuite est un matériau très durable, mais elle n’est pas insensible à l’eau stagnante, au gel, aux sels et aux réparations inadaptées. Que vous conserviez un stock pour un chantier ou une façade ancienne, l’objectif est le même : garder la brique sèche quand elle le doit, tout en laissant les murs respirer."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Stockez les briques sur un support surélevé, stable et drainant : le contact prolongé avec le sol est le premier facteur de dégradation évitable.",
+        "Protégez un stock de la pluie par le dessus, mais ne l’emballez pas hermétiquement : l’air doit circuler entre les palettes.",
+        "Sur un mur, réparez d’abord les causes d’humidité — gouttière, solin, fissure, remontées capillaires — avant de traiter les effets visibles.",
+        "Pour des briques anciennes, un mortier trop dur ou un revêtement étanche peut faire éclater les briques au lieu de les protéger.",
+        "Triez les éléments fissurés, friables ou tachés de sels avant la pose : ils peuvent servir aux coupes, mais pas aux zones exposées ou porteuses."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi les briques cuites se dégradent-elles ?",
+      "id": "pourquoi-les-briques-cuites-se-degradent-elles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une brique cuite de bonne qualité résiste longtemps aux intempéries. Sa durabilité dépend toutefois de sa porosité, de sa cuisson, de son exposition et de la façon dont l’eau circule dans l’ouvrage. Le risque principal n’est pas une pluie ponctuelle : c’est <strong>l’humidité qui reste piégée</strong> dans la brique, les joints ou derrière un revêtement. Lors d’un épisode de gel, cette eau augmente de volume et peut provoquer écaillage, fissuration de la face visible ou désagrégation progressive."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les sels dissous constituent l’autre ennemi courant. Ils peuvent provenir du sol, d’anciens mortiers, d’eaux de ruissellement ou de produits de déneigement. En séchant, ils forment des dépôts blanchâtres appelés efflorescences. Ils ne sont pas toujours graves à court terme, mais signalent un transfert d’humidité qu’il faut comprendre. Enfin, un joint ciment très dense appliqué sur une maçonnerie ancienne peut empêcher l’évaporation naturelle par le joint ; l’humidité se reporte alors sur la brique, souvent plus fragile que ce mortier."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "5 à 20 %",
+          "label": "ordre de grandeur courant de l’absorption d’eau selon le type de brique cuite"
+        },
+        {
+          "value": "10 cm minimum",
+          "label": "surélévation pratique d’un stock au-dessus d’un sol humide ou non drainant"
+        },
+        {
+          "value": "2 à 3 cm",
+          "label": "largeur fréquemment rencontrée pour un joint de brique à inspecter ou refaire selon l’ouvrage"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une brique n’est pas forcément « étanche »",
+      "html": "La cuisson rend l’argile résistante, mais beaucoup de briques restent poreuses. Ne cherchez pas à les imperméabiliser systématiquement : une protection étanche mal choisie peut retenir l’eau dans le mur et accélérer les dégâts de gel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifier le type de brique avant de la stocker ou de la restaurer",
+      "id": "identifier-le-type-de-brique-avant-de-la-stocker-ou-de-la-re"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant toute décision, distinguez une brique de parement récente, une brique pleine ancienne, une brique perforée destinée à être enduite, une brique réfractaire ou une brique de récupération. Leur usage, leur résistance mécanique et leur comportement à l’eau ne sont pas identiques. Une brique creuse de cloison, par exemple, ne doit pas être réemployée en extérieur ni dans une zone fortement sollicitée. Une brique ancienne très irrégulière peut au contraire convenir parfaitement à une restauration, à condition que son état réel soit vérifié."
+    },
+    {
+      "type": "paragraph",
+      "html": "Examinez chaque lot à la lumière du jour. Écartez les briques qui s’effritent au frottement, dont les angles se détachent profondément, qui présentent des feuillets ou qui sonnent franchement creux après un léger choc. Une légère variation de teinte, quelques traces de mortier ou des éclats superficiels ne condamnent pas une brique de récupération. Le bon tri consiste à réserver les meilleures pièces aux parties visibles et exposées, les pièces moyennes aux coupes ou aux zones protégées, et à éliminer les briques réellement désagrégées."
+    },
+    {
+      "type": "table",
+      "caption": "Reconnaître les besoins de conservation selon la brique",
+      "headers": [
+        "Type de brique",
+        "Sensibilité principale",
+        "Conservation conseillée",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Brique de parement récente",
+          "Taches, chocs, humidité prolongée",
+          "Palette surélevée et couverture respirante",
+          "Conserver les références de teinte et de format par lot"
+        ],
+        [
+          "Brique pleine ancienne",
+          "Sels, gel, incompatibilité du mortier",
+          "Stockage sec, aéré et tri minutieux",
+          "Éviter le ciment dense lors d’une restauration"
+        ],
+        [
+          "Brique perforée ou alvéolaire",
+          "Casse des arêtes, eau dans les alvéoles",
+          "Abri ventilé et manutention soignée",
+          "Vérifier sa destination : structure, cloison ou parement"
+        ],
+        [
+          "Brique réfractaire",
+          "Contamination, fissure thermique",
+          "Lieu sec, propre, sans mélanger les qualités",
+          "Ne pas la remplacer par une brique de construction ordinaire"
+        ],
+        [
+          "Brique de récupération avec mortier",
+          "Fragments de mortier et sels résiduels",
+          "Nettoyage manuel puis séchage avant stockage",
+          "Ne pas forcer au burin au risque de fendre la brique"
+        ]
+      ],
+      "note": "Les préconisations du fabricant ou les prescriptions d’un professionnel priment toujours pour une brique structurelle ou spécifique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Stocker des briques cuites pour un chantier : la méthode fiable",
+      "id": "stocker-des-briques-cuites-pour-un-chantier-la-methode-fiabl"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon stockage préserve autant le matériau que votre temps de chantier. Choisissez une zone accessible aux engins ou à la brouette, hors des passages de véhicules et à l’écart des évacuations d’eau. Le terrain doit être ferme et aussi plat que possible. Si le sol est meuble, posez les palettes sur des bastaings, des dalles de calage ou une plateforme stabilisée afin de répartir la charge. L’objectif est d’éviter qu’une palette penche, s’enfonce et baigne dans la boue après une forte pluie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Laissez les briques sur leur palette d’origine tant que cela est possible. Couvrez le dessus avec une bâche solidement arrimée, une toiture temporaire ou des plaques rigides inclinées pour évacuer l’eau. En revanche, ne descendez pas la bâche jusqu’au sol et ne serrez pas le film plastique autour de toute la palette : la condensation peut s’accumuler et maintenir les briques humides pendant des semaines. Des côtés ouverts ou un espace en partie basse assurent une ventilation suffisante."
+    },
+    {
+      "type": "steps",
+      "title": "Installer un stock de briques en cinq étapes",
+      "items": [
+        {
+          "title": "Préparer le sol",
+          "text": "Nivelez la zone et créez une assise stable. Prévoyez une légère pente ou un drainage pour que l’eau ne stagne jamais sous les palettes."
+        },
+        {
+          "title": "Surélever les lots",
+          "text": "Placez les palettes au moins à une dizaine de centimètres du terrain lorsque celui-ci est humide, terreux ou non stabilisé."
+        },
+        {
+          "title": "Séparer les références",
+          "text": "Identifiez chaque lot par format, teinte, fabricant éventuel et destination. Gardez une marge de briques du même lot pour les réparations futures."
+        },
+        {
+          "title": "Couvrir sans enfermer",
+          "text": "Protégez d’abord le dessus de la pluie et du soleil très intense, tout en conservant une circulation d’air sur les côtés."
+        },
+        {
+          "title": "Contrôler après les intempéries",
+          "text": "Après un épisode pluvieux ou venteux, vérifiez l’arrimage de la couverture, la stabilité des palettes et l’absence de flaques sous le stock."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les bons réflexes pendant le stockage",
+      "items": [
+        "Manipulez les paquets avec des fourches adaptées et évitez de les déplacer inutilement.",
+        "Ne posez ni sacs de ciment ouverts, ni produits chimiques, ni terre végétale contre les briques.",
+        "Conservez les briques de parement à l’abri des projections de boue, de rouille et de peinture.",
+        "Ne mélangez pas sans repère les nuances de plusieurs palettes : l’homogénéité visuelle d’une façade se prépare dès le stockage.",
+        "Avant la pose, laissez sécher à l’air libre les briques mouillées par un incident de stockage, sans les chauffer brutalement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conserver une façade ou un mur en briques déjà posé",
+      "id": "conserver-une-facade-ou-un-mur-en-briques-deja-pose"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur une maçonnerie existante, la conservation commence par un diagnostic simple : observez le haut du mur, les joints, les appuis de fenêtre, les pieds de façade et les zones proches du sol. Les désordres localisés racontent souvent la cause. Une dégradation sous une gouttière peut révéler une fuite ou un débordement ; une auréole au bas du mur évoque des remontées d’humidité ; des briques éclatées près d’un seuil peuvent être liées à des projections d’eau, à des sels ou à un sol extérieur trop haut."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vérifiez que l’eau s’éloigne du bâtiment. Les gouttières doivent être étanches et propres, les descentes correctement raccordées, les couvertines et solins continus. Au pied du mur, évitez d’accumuler terre, gravier très fin ou paillage contre les briques : cela maintient l’humidité et peut masquer le niveau d’un dispositif d’étanchéité. Une façade ne doit pas recevoir en permanence les eaux d’une terrasse, d’un robinet fuyard ou d’une évacuation mal orientée."
+    },
+    {
+      "type": "comparison",
+      "title": "Mur en briques anciennes et mur en briques récentes : des réflexes différents",
+      "left": {
+        "title": "Maçonnerie ancienne, souvent à la chaux",
+        "points": [
+          "Privilégier un diagnostic de l’humidité avant toute intervention esthétique.",
+          "Employer un mortier compatible, généralement plus souple et plus respirant que le ciment courant.",
+          "Conserver la patine lorsque les briques sont saines : un nettoyage agressif fait perdre une couche protectrice.",
+          "Faire vérifier les murs porteurs, les mouvements et les fissures évolutives par un professionnel."
+        ]
+      },
+      "right": {
+        "title": "Maçonnerie récente ou parement moderne",
+        "points": [
+          "Suivre en priorité les prescriptions du système constructif et du fabricant.",
+          "Contrôler les joints, les bavettes, les évacuations et les points singuliers de façade.",
+          "Utiliser un produit de nettoyage explicitement compatible avec la brique concernée, après essai discret.",
+          "Remplacer les éléments fissurés en respectant le format, la teinte et le type de pose d’origine."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Traitez la cause avant la surface",
+      "html": "Un hydrofuge, une peinture ou un rejointoiement ne corrigent pas une gouttière fuyante, une fissure active ou une remontée capillaire. Réparer le chemin de l’eau est presque toujours plus durable que masquer sa trace."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nettoyer, rejointoyer et remplacer sans abîmer",
+      "id": "nettoyer-rejointoyer-et-remplacer-sans-abimer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le nettoyage doit rester le plus doux possible. Commencez par un brossage à sec avec une brosse non métallique, puis un lavage modéré à l’eau claire si nécessaire. Travaillez sur une petite zone d’essai, car certaines briques anciennes sont tendres et certaines teintes réagissent mal aux produits acides. Évitez les nettoyeurs haute pression trop puissants : ils peuvent creuser les joints, arracher la peau de cuisson de la brique et pousser l’eau profondément dans le mur. Les brosses métalliques, le sablage agressif et les acides non maîtrisés sont également à proscrire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour refaire un joint, retirez seulement le mortier devenu friable ou décollé, sans élargir inutilement le joint ni entamer les arêtes. Dépoussiérez, humidifiez légèrement le support si le mortier choisi le demande, puis remplissez en compactant correctement. Sur une maçonnerie ancienne, le choix du liant doit être compatible avec la dureté et la perméabilité des briques : un mortier à la chaux est souvent approprié, mais sa formulation mérite d’être adaptée au support. Ne refaites pas tout un mur au hasard si quelques zones sont saines."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le remplacement d’une brique doit être réservé aux pièces réellement dégradées, fêlées en profondeur ou structurellement insuffisantes. Dégarnissez d’abord les joints périphériques avec prudence, extrayez la brique sans forcer sur les voisines, puis posez une brique de dimensions et d’absorption comparables. Une brique trop dense, trop lisse ou de couleur très différente peut créer un patch visuel et modifier localement le comportement du mur. Si le mur est porteur, si plusieurs briques se déplacent ou si une fissure traverse les joints, demandez un avis qualifié avant dépose."
+    },
+    {
+      "type": "proscons",
+      "title": "Hydrofuge de façade : protection utile ou fausse bonne idée ?",
+      "pros": [
+        "Peut limiter la pénétration de pluie battante sur une brique saine et correctement jointoyée.",
+        "Peut réduire l’encrassement de certaines façades très exposées.",
+        "Peut constituer une finition de protection lorsqu’il est compatible, respirant et appliqué sur un support parfaitement sec."
+      ],
+      "cons": [
+        "Ne règle ni les infiltrations par le toit, ni les remontées capillaires, ni les fissures actives.",
+        "Un produit filmogène ou mal appliqué peut bloquer l’évaporation de l’humidité.",
+        "L’effet n’est pas définitif : la façade devra être surveillée et éventuellement retraitée.",
+        "Sur une maçonnerie patrimoniale, il peut altérer l’aspect et compliquer les interventions futures."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particulier : briques de récupération et murs anciens",
+      "id": "cas-particulier-briques-de-recuperation-et-murs-anciens"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les briques de récupération offrent une teinte et une patine difficiles à reproduire, mais elles exigent davantage de préparation. Retirez les restes de mortier avec un petit burin plat, un marteau léger ou un outil adapté, en travaillant depuis les bords plutôt qu’en frappant la face. Portez des lunettes et des gants : les éclats sont fréquents. Évitez de tremper longtemps les briques dans des solutions chimiques, surtout si vous ignorez leur composition ou si les briques sont déjà fragiles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après nettoyage, laissez les briques sécher à l’abri de la pluie directe, sur un support ventilé. Triez-les par épaisseur et longueur réelle : les anciens formats varient souvent d’une pièce à l’autre. Pour une reprise visible, faites un montage à sec de quelques rangs afin de répartir nuances et dimensions avant de sceller. Gardez toujours une réserve des plus belles briques ; les employer toutes dès le premier chantier vous priverait de la possibilité d’une réparation discrète plus tard."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Attention aux sels et à la poussière ancienne",
+      "html": "Des dépôts blancs réapparaissant après séchage signalent souvent de l’humidité et des sels en migration. Brossez-les délicatement, améliorez la gestion de l’eau et évitez de refermer le mur avec une peinture étanche. En présence de poussières suspectes dans un bâtiment ancien, prenez des précautions adaptées avant ponçage ou démolition."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour bien conserver ses briques ?",
+      "id": "quel-budget-prevoir-pour-bien-conserver-ses-briques"
+    },
+    {
+      "type": "paragraph",
+      "html": "La prévention coûte généralement peu : cales, bâche résistante, support de stockage et amélioration locale de l’écoulement des eaux représentent un budget limité face au prix d’une reprise de façade. En revanche, la restauration devient vite plus coûteuse lorsque les briques doivent être déposées, remplacées ou rejointoyées sur de grandes surfaces. Le prix dépend surtout de l’accessibilité, de la hauteur, du type de mortier, de la disponibilité de briques compatibles et de l’ampleur de la cause à corriger."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour planifier l’entretien",
+      "headers": [
+        "Intervention",
+        "Budget généralement observé",
+        "Ce qui fait varier le coût"
+      ],
+      "rows": [
+        [
+          "Stockage protégé d’un petit à moyen lot",
+          "Quelques dizaines à quelques centaines d’euros",
+          "Qualité de la bâche, création d’une assise, besoin de palettes ou de calage"
+        ],
+        [
+          "Nettoyage doux et localisé réalisé par vous-même",
+          "Budget modéré",
+          "Outillage, accès à l’eau, produits compatibles et équipements de protection"
+        ],
+        [
+          "Rejointoiement ponctuel",
+          "De modéré à conséquent selon la surface",
+          "Profondeur des joints, hauteur du mur, type de mortier et état des briques"
+        ],
+        [
+          "Remplacement de briques sur une façade",
+          "Variable, souvent plus élevé que prévu",
+          "Accès, recherche de briques assorties, stabilité du mur et finitions"
+        ],
+        [
+          "Traitement d’une humidité à la source",
+          "Très variable",
+          "Origine réelle : évacuation d’eau, fissure, toiture, drainage ou remontées capillaires"
+        ]
+      ],
+      "note": "Demandez un diagnostic et plusieurs devis lorsque la maçonnerie est porteuse, ancienne, très humide ou située en hauteur. Un devis doit distinguer la réparation de la cause et la remise en état visible."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui écourtent la vie d’une maçonnerie",
+      "id": "les-erreurs-qui-ecourtent-la-vie-d-une-maconnerie"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à poser les briques directement sur la terre « pour quelques jours ». Une averse suffit à contaminer le bas du lot de boue et à créer une humidité persistante. La deuxième est d’emballer les palettes sous un plastique étanche sans ventilation. La troisième, plus coûteuse, est de reprendre un mur ancien avec un mortier très dur parce qu’il paraît plus solide : le joint doit être adapté à la brique et au fonctionnement global du mur, pas seulement résistant en surface."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez aussi de nettoyer une façade au hasard dès l’apparition d’une trace. Une tache verte peut être liée à l’ombre et à un ruissellement ; une auréole blanche peut révéler des sels ; une zone sombre sous la toiture peut annoncer une fuite. Enfin, ne masquez pas les briques abîmées derrière un enduit, une peinture ou un parement sans avoir traité l’humidité. Ces solutions peuvent être pertinentes dans un projet cohérent, mais elles ne doivent pas servir à enfermer un désordre actif."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Inspection annuelle d’un mur en briques",
+      "items": [
+        "Contrôlez les gouttières, descentes d’eau et protections en tête de mur après les périodes pluvieuses.",
+        "Repérez les joints devenus poudreux, creux ou décollés, particulièrement près des ouvertures.",
+        "Surveillez les fissures : marquez discrètement leur extrémité et notez si elles évoluent.",
+        "Brossez les végétaux qui s’installent dans les joints sans arracher brutalement les racines profondes.",
+        "Vérifiez que les sols, terrasses et plantations ne maintiennent pas le pied du mur dans l’humidité.",
+        "Photographiez les zones douteuses à intervalles réguliers : cela aide à distinguer une simple trace d’un désordre évolutif."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand faire appel à un professionnel ?",
+      "id": "quand-faire-appel-a-un-professionnel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez gérer vous-même le stockage, le tri, le nettoyage léger et de petites reprises non structurelles si vous connaissez le matériau. En revanche, un maçon expérimenté dans la brique, voire un spécialiste du bâti ancien, est recommandé lorsque le mur est porteur, qu’une fissure s’élargit, que les briques bombent, que des joints se creusent sur une grande surface ou que l’humidité revient malgré des évacuations d’eau corrigées. Une expertise est aussi utile avant d’appliquer un traitement sur une façade ancienne ou remarquable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un professionnel sérieux ne commencera pas forcément par vendre un produit. Il cherchera l’origine de l’eau, évaluera la compatibilité des mortiers et proposera une intervention proportionnée : parfois un simple ajustement de gouttière et quelques joints suffisent. Conservez les références des briques, les photos avant travaux et un échantillon de mortier si vous engagez une restauration importante. Ces éléments faciliteront les réparations futures."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la conservation des briques cuites",
+      "items": [
+        {
+          "q": "Peut-on laisser des briques cuites dehors tout l’hiver ?",
+          "a": "Oui, à condition de les stocker sur palettes ou sur un support surélevé, stable et drainant. Couvrez-les contre la pluie par le dessus tout en laissant les côtés ventilés. Le danger vient surtout du contact avec un sol détrempé, de l’eau qui stagne et du gel sur des briques durablement saturées."
+        },
+        {
+          "q": "Faut-il bâcher complètement une palette de briques ?",
+          "a": "Non. Une couverture supérieure bien fixée est utile, mais un emballage fermé jusqu’au sol favorise la condensation. Laissez une ouverture en partie basse ou sur les côtés afin que l’air circule. Vérifiez aussi que la bâche ne forme pas de cuvette retenant l’eau."
+        },
+        {
+          "q": "Comment enlever les traces blanches sur une façade en brique ?",
+          "a": "Commencez par un brossage doux à sec lorsque le mur est sec. Si les traces reviennent, ne multipliez pas les produits : recherchez la source d’humidité, comme une fuite, des projections d’eau, des remontées ou un mortier inadapté. Évitez les acides et le nettoyage agressif sans essai préalable sur une zone discrète."
+        },
+        {
+          "q": "Quel mortier choisir pour rejoindre un vieux mur en briques ?",
+          "a": "Le mortier doit être compatible avec la dureté et la porosité des briques existantes. Sur beaucoup de maçonneries anciennes, un mortier à la chaux, correctement dosé, est préférable à un ciment très dur et peu perméable. Faites analyser le support ou demandez conseil à un professionnel si le mur est ancien, humide ou porteur."
+        },
+        {
+          "q": "Peut-on réutiliser des briques anciennes couvertes de mortier ?",
+          "a": "Oui, si les briques restent solides après dépose et nettoyage. Retirez le mortier avec précaution, triez les briques fissurées ou friables et laissez sécher les pièces avant stockage. Réservez les meilleures briques aux zones visibles et exposées, et utilisez les pièces moins parfaites pour les coupes ou les parties protégées."
+        },
+        {
+          "q": "Un hydrofuge est-il indispensable sur une façade en briques ?",
+          "a": "Non. Une façade saine, bien jointoyée et correctement protégée des ruissellements n’en a pas toujours besoin. Un hydrofuge respirant peut être envisagé dans certains cas très exposés, mais seulement après avoir supprimé toute source d’humidité et vérifié sa compatibilité avec la brique et les joints."
+        }
+      ]
+    }
+  ]
+}

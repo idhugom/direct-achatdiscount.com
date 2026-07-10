@@ -1,0 +1,423 @@
+{
+  "title": "Génératrices résidentielles automatiques : gaz ou diesel, lequel choisir ?",
+  "slug": "generatrices-residentielles-automatiques-gaz-ou-diesel-lequel-choisir",
+  "path": "/divers/generatrices-residentielles-automatiques-gaz-ou-diesel-lequel-choisir.html",
+  "category": "maison",
+  "tags": [
+    "génératrice automatique",
+    "groupe électrogène",
+    "gaz naturel",
+    "propane",
+    "diesel",
+    "panne électrique"
+  ],
+  "excerpt": "Pour sécuriser une maison en cas de panne, le carburant conditionne l’autonomie, l’entretien, le budget et la simplicité d’installation.",
+  "metaDescription": "Gaz naturel, propane ou diesel : comparez autonomie, coût, bruit, entretien et contraintes pour choisir votre génératrice résidentielle automatique.",
+  "seoTitle": "Génératrice automatique : gaz ou diesel ?",
+  "heroKicker": "Secours sans coupure",
+  "readingTime": 12,
+  "date": "2024-10-16T19:57:16",
+  "image": {
+    "id": "2486",
+    "alt": "Génératrices résidentielles automatiques : gaz ou diesel, lequel choisir ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une génératrice résidentielle automatique ne se choisit pas seulement sur sa puissance : son carburant détermine ce qu’elle pourra réellement faire lors d’une coupure longue. Le gaz offre un confort d’usage remarquable lorsqu’un réseau ou une citerne est disponible ; le diesel reste une solution robuste et autonome, mais plus exigeante à installer et à entretenir. Voici comment arbitrer sans surdimensionner votre équipement ni sous-estimer les contraintes de terrain."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>Choisissez le gaz naturel</strong> si votre logement est raccordé au réseau et que vous privilégiez une alimentation continue, propre à manipuler et peu contraignante au quotidien.",
+        "<strong>Le propane</strong> est l’alternative gaz la plus pertinente hors réseau : il demande une citerne correctement dimensionnée, mais évite de stocker du carburant liquide dans la génératrice.",
+        "<strong>Le diesel</strong> convient surtout aux fortes puissances, aux sites isolés et aux besoins d’autonomie maîtrisée par stockage ; son carburant, sa maintenance et ses nuisances imposent davantage de rigueur.",
+        "Avant de comparer les moteurs, calculez les <strong>charges à secourir</strong>, vérifiez la pression et le débit de gaz disponibles, puis prévoyez un inverseur de source automatique installé par un professionnel.",
+        "Pour une maison standard, secourir les usages prioritaires est souvent plus rationnel et plus économique que vouloir alimenter simultanément toute l’habitation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce qu’est une génératrice résidentielle automatique",
+      "id": "comprendre-ce-qu-est-une-generatrice-residentielle-automatiq"
+    },
+    {
+      "type": "paragraph",
+      "html": "Également appelée <strong>groupe électrogène de secours à démarrage automatique</strong>, une génératrice résidentielle est une machine fixe installée à l’extérieur, dans un emplacement ventilé et protégé. Lorsqu’elle détecte une coupure du réseau, elle démarre seule, se stabilise, puis un <strong>inverseur de source automatique</strong> bascule l’alimentation de la maison vers le groupe. Au retour du courant, le système effectue l’opération inverse et arrête le moteur après une phase de refroidissement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette architecture est très différente d’un groupe portable branché ponctuellement. Elle suppose une installation électrique dédiée, une protection adaptée, des essais réguliers et une alimentation en carburant fiable. Le choix entre gaz et diesel ne concerne donc pas uniquement le prix du moteur : il touche au raccordement combustible, à la place disponible, à la maintenance, au bruit, aux contraintes locales et au niveau de secours attendu."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne raccordez jamais un groupe sur une prise de la maison",
+      "html": "Un branchement improvisé peut renvoyer du courant vers le réseau, mettre des intervenants en danger et endommager l’installation. Une génératrice automatique doit être reliée via un <strong>inverseur de source verrouillé</strong>, avec des protections et une mise à la terre définies selon votre installation par un électricien qualifié."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gaz naturel, propane et diesel : les différences qui comptent vraiment",
+      "id": "gaz-naturel-propane-et-diesel-les-differences-qui-comptent-v"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sous le terme « gaz », il faut distinguer deux réalités. Le <strong>gaz naturel</strong> arrive par canalisation : tant que le réseau reste opérationnel et que la pression disponible est suffisante, vous n’avez ni plein à faire ni stock à surveiller. Le <strong>propane</strong>, souvent livré en citerne, procure une indépendance vis-à-vis du réseau de gaz mais repose sur un volume stocké à domicile. Un même générateur peut parfois fonctionner au gaz naturel ou au propane, après réglage ou avec un kit prévu par le constructeur ; il faut impérativement vérifier cette compatibilité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>diesel</strong> est conservé dans une cuve intégrée ou séparée. Il offre une forte densité énergétique et des moteurs réputés endurants lorsqu’ils tournent longtemps et sous charge significative. En contrepartie, le carburant liquide vieillit, peut se contaminer par l’eau ou des micro-organismes, et son stockage réclame des précautions supplémentaires. Pour une installation domestique, ces sujets pèsent parfois davantage que le rendement théorique."
+    },
+    {
+      "type": "table",
+      "caption": "Comparatif pratique des carburants pour une génératrice fixe",
+      "headers": [
+        "Critère",
+        "Gaz naturel",
+        "Propane en citerne",
+        "Diesel"
+      ],
+      "rows": [
+        [
+          "Disponibilité en coupure",
+          "Très bonne si le réseau gaz reste alimenté",
+          "Dépend du niveau de citerne",
+          "Dépend du niveau et de la qualité du stock"
+        ],
+        [
+          "Autonomie potentielle",
+          "Non limitée par un réservoir local",
+          "Élevée si la citerne est bien dimensionnée",
+          "Élevée avec une cuve adaptée, mais finie"
+        ],
+        [
+          "Installation combustible",
+          "Raccordement gaz et validation du débit",
+          "Citerne, conduite et règles d’implantation",
+          "Cuve, conduites et gestion sécurisée du carburant"
+        ],
+        [
+          "Entretien lié au carburant",
+          "Faible",
+          "Faible à modéré",
+          "Élevé : carburant à surveiller, filtration et rotation du stock"
+        ],
+        [
+          "Adaptation aux fortes puissances",
+          "Possible, selon débit disponible",
+          "Possible, selon vaporisation et réserve",
+          "Très bonne, notamment pour longue charge"
+        ],
+        [
+          "Bruit et odeurs à l’usage",
+          "Généralement plus discrets et sans odeur de carburant stocké",
+          "Proches du gaz naturel",
+          "Souvent plus sonores, vibrations et odeur d’échappement plus marquées"
+        ],
+        [
+          "Cas d’usage typique",
+          "Maison raccordée au gaz",
+          "Maison sans gaz de ville, besoin de secours durable",
+          "Grande propriété, site isolé, équipements exigeants"
+        ]
+      ],
+      "note": "Les performances varient selon le moteur, le caisson acoustique, la température, l’altitude et la charge réelle. Demandez toujours les données du modèle dans le carburant que vous utiliserez."
+    },
+    {
+      "type": "comparison",
+      "title": "Le bon réflexe : confort d’approvisionnement ou autonomie stockée ?",
+      "left": {
+        "title": "Opter pour le gaz",
+        "points": [
+          "Vous privilégiez une utilisation quasi transparente au quotidien.",
+          "Vous disposez d’un raccordement au gaz naturel ou acceptez l’installation d’une citerne propane.",
+          "Votre besoin principal est le maintien des services domestiques pendant une panne.",
+          "Vous voulez éviter la dégradation d’un carburant liquide stocké plusieurs mois."
+        ]
+      },
+      "right": {
+        "title": "Opter pour le diesel",
+        "points": [
+          "Vous avez besoin d’une puissance élevée ou d’un moteur conçu pour de longues sollicitations.",
+          "Votre site est isolé et vous voulez maîtriser physiquement votre réserve d’énergie.",
+          "Vous êtes prêt à organiser la rotation du carburant, les contrôles de cuve et une maintenance plus attentive.",
+          "Les contraintes de voisinage, d’odeur et de bruit sont compatibles avec l’implantation envisagée."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencez par dimensionner les besoins, pas par choisir le carburant",
+      "id": "commencez-par-dimensionner-les-besoins-pas-par-choisir-le-ca"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première question n’est pas « gaz ou diesel ? », mais <strong>quels appareils doivent continuer de fonctionner ?</strong> Une génératrice de secours peut alimenter un tableau prioritaire, avec par exemple l’éclairage, le réfrigérateur, la box internet, quelques prises, la pompe de relevage, l’alarme, le portail et le chauffage. À l’inverse, secourir toute la maison peut inclure des charges très gourmandes : plaques électriques, chauffe-eau, climatisation, borne de recharge, atelier, piscine ou pompe à chaleur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut additionner les puissances des équipements susceptibles de fonctionner ensemble, puis tenir compte de leurs <strong>courants de démarrage</strong>. Les moteurs de pompe, compresseurs de réfrigération et certaines pompes à chaleur demandent temporairement davantage de puissance au lancement. Une génératrice mal dimensionnée peut caler, déclencher ses protections ou provoquer des chutes de tension ; une machine démesurée coûte plus cher, consomme davantage à faible charge et peut s’user dans de mauvaises conditions."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 à 8 kVA",
+          "label": "ordre de grandeur souvent envisagé pour un tableau de secours limité aux usages essentiels"
+        },
+        {
+          "value": "10 à 20 kVA",
+          "label": "plage fréquemment étudiée pour une maison très équipée ou un secours plus étendu"
+        },
+        {
+          "value": "1 inverseur automatique",
+          "label": "élément indispensable pour basculer proprement entre réseau et génératrice"
+        },
+        {
+          "value": "2 sources à vérifier",
+          "label": "l’électricité et le carburant doivent être disponibles et correctement dimensionnés"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Réduisez la puissance nécessaire par le délestage",
+      "html": "Faites installer des <strong>priorités de charges</strong> : pendant la coupure, le système peut empêcher le démarrage simultané des appareils non essentiels. Délester le chauffe-eau, la borne de voiture ou certains appareils de chauffage permet souvent de choisir une génératrice plus compacte, moins chère et plus silencieuse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand le gaz est-il le meilleur choix ?",
+      "id": "quand-le-gaz-est-il-le-meilleur-choix"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>gaz naturel</strong> est généralement le choix du confort pour une résidence déjà desservie. Il supprime la corvée de remplissage et la crainte d’un réservoir vide après plusieurs mois sans contrôle. Il n’y a pas non plus de carburant liquide qui se dégrade dans une cuve. Pour une maison dont les pannes sont occasionnelles mais potentiellement longues, cette simplicité est particulièrement rassurante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Attention toutefois : une canalisation de gaz domestique dimensionnée pour une chaudière et une plaque de cuisson n’est pas automatiquement capable d’alimenter une génératrice. Celle-ci peut réclamer un débit important à pleine charge. L’installateur doit vérifier le diamètre de la conduite, la longueur du parcours, la pression disponible, les appareils qui peuvent fonctionner simultanément et les prescriptions du distributeur ou du fournisseur de gaz. Un raccordement sous-dimensionné est une cause classique de démarrages difficiles ou de perte de puissance."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>propane</strong> donne accès aux avantages d’un moteur gaz lorsque le gaz naturel n’est pas disponible. Il est intéressant en zone rurale et pour les résidences isolées, à condition de coordonner la capacité de citerne avec vos autres consommations : chauffage, eau chaude ou cuisine peuvent déjà puiser dans la même réserve. Une panne hivernale est précisément le moment où ces besoins sont les plus élevés. Gardez donc une marge de carburant réellement utilisable, plutôt que de compter sur une livraison immédiate."
+    },
+    {
+      "type": "proscons",
+      "title": "Génératrice au gaz : bilan honnête",
+      "pros": [
+        "Alimentation très simple avec le gaz naturel : pas de ravitaillement local.",
+        "Pas de vieillissement d’un stock de gaz naturel ; peu de manipulations de carburant.",
+        "Fonctionnement généralement plus propre et plus discret qu’un diesel comparable.",
+        "Propane adapté aux maisons hors réseau de gaz, avec une autonomie importante si la citerne est bien gérée.",
+        "Solution pertinente pour des essais automatiques réguliers et des pannes intermittentes."
+      ],
+      "cons": [
+        "Dépendance au réseau de gaz dans le cas du gaz naturel, même si celui-ci reste souvent disponible lors des pannes électriques.",
+        "Débit, pression et diamètre de canalisation à valider impérativement.",
+        "Le propane impose une citerne, des règles d’implantation et un suivi de jauge.",
+        "Puissance disponible et consommation à pleine charge à vérifier plus attentivement sur les très gros besoins.",
+        "Une réserve propane partagée avec le chauffage peut être insuffisante sans marge de sécurité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dans quels cas le diesel garde-t-il un avantage ?",
+      "id": "dans-quels-cas-le-diesel-garde-t-il-un-avantage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le diesel est particulièrement cohérent lorsque la génératrice doit soutenir des <strong>charges importantes</strong>, fonctionner longtemps, ou protéger un site sans accès fiable au gaz. Les moteurs diesel sont courants sur les groupes de puissance élevée et répondent bien aux usages soutenus lorsqu’ils sont correctement chargés et entretenus. Vous détenez physiquement votre énergie : une cuve pleine vous garantit une autonomie connue, indépendamment d’une conduite de gaz extérieure."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette indépendance a un revers : le stock doit rester exploitable. Un diesel laissé longtemps sans rotation peut accumuler eau de condensation et impuretés, tandis que certains carburants modernes exigent une vigilance accrue sur leur stabilité. Prévoyez un réservoir adapté, une filtration sérieuse, une procédure de contrôle, et, selon la durée de stockage, un traitement ou un renouvellement du carburant suivant les recommandations du fournisseur et du motoriste. Ne considérez jamais la cuve comme un élément à remplir puis oublier."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le diesel peut aussi être moins agréable en environnement résidentiel dense. Même sous capot insonorisé, le moteur est souvent plus perceptible par les voisins, et les fumées d’échappement exigent un emplacement particulièrement bien étudié. La machine doit être éloignée des ouvrants, prises d’air, limites sensibles et zones de passage, conformément aux notices, aux règles locales d’urbanisme et de sécurité. Un groupe puissant, mal placé, devient vite une source de conflit ou d’inconfort."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : raisonnez en coût d’installation et de possession",
+      "id": "budget-raisonnez-en-cout-d-installation-et-de-possession"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une génératrice automatique fixe représente un projet complet. À l’achat, les petits ensembles de secours résidentiels se situent généralement dans une enveloppe de <strong>quelques milliers d’euros</strong>. Pour une puissance plus élevée, un caisson acoustique performant, un inverseur évolué, une cuve, des travaux de terrassement ou une intégration électrique complexe, le budget peut atteindre <strong>plusieurs dizaines de milliers d’euros</strong>. Ces repères sont volontairement larges : l’implantation compte autant que la machine."
+    },
+    {
+      "type": "table",
+      "caption": "Les postes à intégrer dans votre budget global",
+      "headers": [
+        "Poste",
+        "Gaz naturel ou propane",
+        "Diesel"
+      ],
+      "rows": [
+        [
+          "Génératrice et caisson",
+          "Dépend de la puissance, de la régulation et du niveau sonore",
+          "Dépend de la puissance, du moteur et de l’insonorisation"
+        ],
+        [
+          "Inverseur et tableau prioritaire",
+          "Indispensables ; coût lié au nombre de circuits et au délestage",
+          "Indispensables ; même logique de dimensionnement"
+        ],
+        [
+          "Raccordement carburant",
+          "Conduite gaz, vanne, détendeur éventuel ou citerne propane",
+          "Cuve, raccordement, filtration et dispositifs de sécurité"
+        ],
+        [
+          "Préparation du site",
+          "Dalle, dégagements, protections, cheminement des câbles",
+          "Dalle, dégagements, accès de ravitaillement et gestion de la cuve"
+        ],
+        [
+          "Entretien courant",
+          "Essais, huile, batterie, bougies ou contrôles selon moteur",
+          "Essais, huile, batterie, filtres et suivi renforcé du carburant"
+        ],
+        [
+          "Coût de possession",
+          "Souvent simple avec gaz naturel ; surveiller l’abonnement et la consommation",
+          "À intégrer avec le carburant immobilisé, son renouvellement et le ravitaillement"
+        ]
+      ],
+      "note": "Demandez des devis comparables comprenant explicitement l’appareil, l’inverseur, les protections, le combustible, le génie civil, la mise en service et le contrat d’entretien."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le devis le moins cher n’est pas toujours le moins coûteux",
+      "html": "Une machine abordable mais mal intégrée peut imposer ensuite des corrections coûteuses : câble trop faible, tableau non priorisé, conduite de gaz insuffisante, cuve difficile d’accès ou nuisances sonores. Comparez le <strong>coût complet installé</strong>, l’entretien sur plusieurs années et la facilité d’approvisionnement pendant une crise."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installation : les vérifications à ne pas négliger",
+      "id": "installation-les-verifications-a-ne-pas-negliger"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’installation doit être conçue comme un système de sécurité. La génératrice a besoin d’une dalle stable, d’une évacuation des eaux, de dégagements pour la ventilation et la maintenance, ainsi que d’un cheminement de câbles protégé. L’échappement ne doit jamais être dirigé vers une fenêtre, une ventilation, un garage ou une terrasse. Le monoxyde de carbone est un danger majeur : une implantation extérieure ne dispense pas de respecter scrupuleusement les distances de la notice."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur le plan électrique, demandez une étude de sélectivité et de mise à la terre adaptée à votre réseau. Certains équipements sensibles — électronique, domotique, chaudière, portail, onduleur photovoltaïque — peuvent demander une qualité de tension et de fréquence stable, voire des réglages spécifiques. Les installations solaires avec batteries ou onduleurs méritent une attention particulière : tous les systèmes ne fonctionnent pas spontanément avec une source de secours externe."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist avant de signer",
+      "items": [
+        "Faites établir la liste des circuits réellement secourus et des appareils interdits ou délestés.",
+        "Demandez le calcul de puissance de démarrage des pompes, compresseurs et systèmes de chauffage.",
+        "Vérifiez les niveaux sonores annoncés à une distance comparable à celle de vos voisins, pas uniquement la mention « silencieux ».",
+        "Pour le gaz, faites valider débit, pression, diamètre de conduite et consommation simultanée avec les autres appareils.",
+        "Pour le propane ou le diesel, vérifiez l’accès du camion de livraison, le niveau minimal de réserve et les règles de stockage applicables localement.",
+        "Exigez une mise en service avec test de coupure réelle, plutôt qu’un simple démarrage moteur.",
+        "Confirmez les obligations locales : urbanisme, copropriété, voisinage, assurances, distances et règles incendie."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utilisation et entretien : la fiabilité se prépare hors panne",
+      "id": "utilisation-et-entretien-la-fiabilite-se-prepare-hors-panne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une génératrice de secours peut sembler inutile pendant des mois, mais c’est précisément cette inactivité qui fragilise sa batterie, ses fluides et parfois son alimentation. La plupart des installations disposent d’un cycle d’exercice automatique. Il faut néanmoins le contrôler : vérifiez qu’il démarre effectivement, que les alertes ne sont pas présentes, et programmez périodiquement un essai avec basculement de charge. Un démarrage à vide ne révèle pas toujours un défaut de puissance, de carburant ou d’inverseur."
+    },
+    {
+      "type": "steps",
+      "title": "Routine de fiabilité recommandée",
+      "items": [
+        {
+          "title": "Contrôlez visuellement chaque mois",
+          "text": "Surveillez les alertes, l’état du boîtier, la présence de fuites, les grilles de ventilation, la batterie et le niveau de carburant ou la jauge de citerne."
+        },
+        {
+          "title": "Testez sous charge à intervalle régulier",
+          "text": "Faites réaliser ou encadrez un basculement sur les circuits prioritaires. Vérifiez le comportement des pompes, de la chaudière, du réseau internet et des appareils sensibles."
+        },
+        {
+          "title": "Respectez le plan d’entretien du fabricant",
+          "text": "Huile, filtres, bougies selon les moteurs gaz, filtres à carburant et à air pour les diesels : les échéances se suivent en heures de fonctionnement et en durée calendaire."
+        },
+        {
+          "title": "Gérez le carburant avant la saison à risque",
+          "text": "Pour le propane et le diesel, anticipez les périodes de grand froid ou d’intempéries. Pour le diesel, contrôlez aussi la qualité et l’âge du carburant conformément aux préconisations professionnelles."
+        },
+        {
+          "title": "Tenez un carnet de suivi",
+          "text": "Notez les essais, alarmes, heures moteur, interventions et livraisons. Ce suivi simplifie le diagnostic et évite de découvrir un problème lors d’une panne réelle."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verdict : quel carburant choisir pour votre maison ?",
+      "id": "verdict-quel-carburant-choisir-pour-votre-maison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la majorité des maisons raccordées au gaz naturel, une <strong>génératrice automatique au gaz</strong> est le choix le plus simple, à condition que l’étude de débit soit concluante. Elle répond très bien à un besoin de continuité domestique, avec peu de manutention et une maintenance liée au combustible limitée. Hors réseau de gaz, le <strong>propane</strong> est souvent le compromis le plus confortable si vous acceptez la gestion d’une citerne et conservez une réserve suffisante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>diesel</strong> devient préférable si vous recherchez une très forte puissance, une autonomie reposant sur un stock dont vous gardez le contrôle, ou une solution pour un bâtiment très isolé et fortement équipé. Mais il n’est intéressant que si vous acceptez ses contraintes : cuve, carburant à surveiller, nuisances potentiellement supérieures et entretien plus méthodique. Pour un pavillon urbain avec quelques charges prioritaires, son surcroît de complexité n’est pas toujours justifié."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La décision en une phrase",
+      "html": "<strong>Gaz naturel pour la simplicité, propane pour l’autonomie gaz hors réseau, diesel pour la puissance et l’autonomie stockée</strong> : dans tous les cas, un bon dimensionnement des circuits secourus vaut davantage qu’un groupe surpuissant."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les génératrices automatiques gaz et diesel",
+      "items": [
+        {
+          "q": "Une génératrice au gaz naturel fonctionne-t-elle si l’électricité du quartier est coupée ?",
+          "a": "En général, le réseau de gaz naturel peut continuer à alimenter les clients pendant une coupure électrique. Ce n’est toutefois pas une garantie absolue : un incident touchant aussi le réseau gaz, une fermeture de sécurité ou une pression insuffisante peuvent empêcher le fonctionnement. Si cette dépendance vous préoccupe, une citerne propane correctement gérée ou un stockage diesel offrent une réserve locale."
+        },
+        {
+          "q": "Faut-il alimenter toute la maison avec une génératrice automatique ?",
+          "a": "Non, et ce n’est souvent pas le meilleur choix. Un tableau de secours ciblant l’éclairage, le froid alimentaire, les communications, les pompes indispensables, l’alarme et le chauffage permet de réduire fortement la puissance requise. Les gros consommateurs peuvent être délestés temporairement sans dégrader le confort essentiel."
+        },
+        {
+          "q": "Le propane est-il plus adapté que le diesel pour une maison isolée ?",
+          "a": "Souvent oui si votre priorité est la simplicité d’entretien et si une citerne peut être installée et livrée facilement. Le propane se stocke bien et évite les problématiques de vieillissement du diesel. Le diesel peut cependant être plus pertinent pour une grosse puissance, des usages prolongés ou lorsque vous souhaitez maîtriser vous-même une réserve de carburant liquide."
+        },
+        {
+          "q": "Quelle autonomie prévoir pour une génératrice diesel ?",
+          "a": "Elle dépend de la capacité de cuve, de la puissance appelée et du taux de charge réel. Ne vous contentez pas de l’autonomie annoncée à mi-charge : demandez la consommation du modèle à plusieurs niveaux de charge et calculez une réserve pour vos priorités. Intégrez aussi une marge pour les retards de livraison et le volume non exploitable de la cuve."
+        },
+        {
+          "q": "Une génératrice automatique est-elle compatible avec des panneaux solaires ?",
+          "a": "C’est possible, mais ce n’est pas automatique. Les onduleurs photovoltaïques arrêtent souvent leur production lorsque le réseau disparaît, sauf architecture prévue pour fonctionner en mode secours. L’interaction entre génératrice, batteries, inverseur et onduleur doit être étudiée par un installateur maîtrisant ces équipements, afin d’éviter les conflits de sources et les défauts de synchronisation."
+        },
+        {
+          "q": "À quelle fréquence faut-il faire entretenir le groupe ?",
+          "a": "Suivez d’abord la notice du fabricant, qui combine généralement un nombre d’heures moteur et une échéance annuelle ou périodique. En pratique, des contrôles réguliers, des essais sous charge et une révision professionnelle planifiée sont essentiels. Un diesel réclame en plus un suivi attentif du carburant, des filtres et de l’état de la cuve."
+        }
+      ]
+    }
+  ]
+}

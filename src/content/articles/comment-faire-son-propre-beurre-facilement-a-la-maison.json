@@ -1,0 +1,422 @@
+{
+  "title": "Comment faire son propre beurre facilement à la maison",
+  "slug": "comment-faire-son-propre-beurre-facilement-a-la-maison",
+  "path": "/divers/comment-faire-son-propre-beurre-facilement-a-la-maison.html",
+  "category": "cuisine",
+  "tags": [
+    "beurre maison",
+    "crème entière",
+    "recette facile",
+    "barattage",
+    "conservation alimentaire",
+    "cuisine maison"
+  ],
+  "excerpt": "Avec une bonne crème entière et quelques minutes de barattage, réalisez un beurre maison frais, personnalisable et facile à conserver.",
+  "metaDescription": "Apprenez à faire du beurre maison avec de la crème entière : matériel, étapes, rendement, conservation, erreurs à éviter et idées de beurres parfumés.",
+  "seoTitle": "Faire son beurre maison facilement : méthode et conseils",
+  "heroKicker": "Le fait maison",
+  "readingTime": 11,
+  "date": "2025-01-05T17:26:21",
+  "image": {
+    "id": "2831",
+    "alt": "Comment faire son propre beurre facilement à la maison",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Faire son propre beurre à la maison est bien plus simple qu’il n’y paraît : il suffit de transformer une crème entière en séparant sa matière grasse du babeurre. Avec le bon choix de crème, un saladier ou un robot et un rinçage soigné, vous obtenez un beurre frais, savoureux et personnalisable en moins d’une demi-heure."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Choisissez une <strong>crème entière liquide très riche en matière grasse</strong> : c’est elle qui déterminera le rendement et la facilité de barattage.",
+        "Arrêtez de fouetter lorsque des grains jaunes se séparent nettement d’un liquide blanchâtre : vous avez atteint le stade du beurre.",
+        "Le rinçage à l’eau très froide et le malaxage sont indispensables pour retirer le babeurre et améliorer la conservation.",
+        "Salez seulement après le rinçage, puis gardez le beurre bien emballé au réfrigérateur ; pour une longue durée, la congélation fonctionne très bien."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce qui se passe lorsque vous fabriquez du beurre",
+      "id": "comprendre-ce-qui-se-passe-lorsque-vous-fabriquez-du-beurre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La crème est une émulsion : de minuscules globules de matière grasse sont dispersés dans une phase aqueuse. En la fouettant longtemps, vous cassez progressivement cette organisation. Les globules gras s’agglomèrent, forment des grains, puis une masse jaune : le beurre. Le liquide qui se sépare est le <strong>babeurre</strong>, aussi appelé lait de baratte. Il ne faut pas le confondre avec certaines boissons fermentées vendues sous le nom de lait ribot ou buttermilk, même si leurs usages culinaires peuvent se rapprocher."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette préparation ne demande donc ni baratte traditionnelle ni compétence technique particulière. En revanche, elle ne fonctionne pas correctement avec une crème légère : il faut assez de matière grasse pour qu’elle puisse s’assembler. Le goût final dépendra directement de la crème choisie, de son éventuelle fermentation et de la qualité du rinçage."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "20 à 30 min",
+          "label": "ordre de grandeur pour baratter une petite quantité à la main ou au batteur"
+        },
+        {
+          "value": "35 % ou plus",
+          "label": "teneur en matière grasse à rechercher pour une crème adaptée"
+        },
+        {
+          "value": "environ 400 à 500 g",
+          "label": "ordre de grandeur de beurre obtenu avec 1 litre de crème entière riche"
+        },
+        {
+          "value": "quelques jours à 2 semaines",
+          "label": "conservation habituelle au froid selon le soin apporté au rinçage et à l’emballage"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La crème à choisir : le critère qui change tout",
+      "id": "la-creme-a-choisir-le-critere-qui-change-tout"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour réussir sans gaspillage, prenez une <strong>crème entière liquide</strong>, idéalement avec une teneur en matière grasse élevée, autour de 35 % ou davantage. Une crème liquide pasteurisée donne généralement de bons résultats. Une crème crue peut offrir un goût plus complexe, mais elle impose une chaîne du froid irréprochable et une attention renforcée à l’hygiène. Si vous découvrez la méthode, une crème entière liquide classique, très froide mais non gelée, reste le choix le plus simple."
+    },
+    {
+      "type": "table",
+      "caption": "Quelle crème utiliser pour faire du beurre maison ?",
+      "headers": [
+        "Type de crème",
+        "Résultat attendu",
+        "À privilégier si…",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Crème entière liquide riche",
+          "Barattage facile, rendement satisfaisant, goût doux",
+          "Vous voulez une première réussite simple",
+          "Vérifiez la teneur en matière grasse : une crème légère ne convient pas"
+        ],
+        [
+          "Crème entière épaisse",
+          "Possible, mais souvent moins pratique à fouetter",
+          "Vous n’avez que cette option et pouvez la détendre légèrement",
+          "Le barattage peut être plus irrégulier ; travaillez par petites quantités"
+        ],
+        [
+          "Crème crue",
+          "Arômes plus typés, beurre plus expressif",
+          "Vous recherchez un produit fermier et maîtrisez bien la conservation",
+          "Produit fragile : respect strict du froid et consommation plus rapide"
+        ],
+        [
+          "Crème fermentée ou maturée",
+          "Notes plus acidulées, proche d’un beurre de culture",
+          "Vous aimez les beurres au goût plus prononcé",
+          "Peut demander un peu plus de temps ; l’acidité doit rester agréable"
+        ],
+        [
+          "Crème légère",
+          "Échec ou rendement très faible",
+          "À éviter",
+          "Pas assez de matière grasse pour former une masse de beurre"
+        ]
+      ],
+      "note": "Lisez l’étiquette : « entière » ne suffit pas toujours si la teneur en matière grasse est insuffisante."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne partez pas d’une crème allégée",
+      "html": "Une crème à faible teneur en matière grasse peut monter un peu, mais elle ne donnera pas une motte de beurre correcte. Si, après un long fouettage, vous n’observez aucune séparation entre grains jaunes et liquide, le problème vient le plus souvent de la crème, pas de votre technique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Matériel : trois méthodes faciles selon ce que vous avez",
+      "id": "materiel-trois-methodes-faciles-selon-ce-que-vous-avez"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez fabriquer du beurre avec des ustensiles courants. Le batteur électrique est le plus rapide pour une quantité familiale. Le robot pâtissier offre du confort, à condition de surveiller les projections au moment où le babeurre se sépare. Un bocal hermétique est la méthode la plus ludique : il suffit de secouer, mais l’effort devient important dès que la quantité augmente. Dans tous les cas, utilisez du matériel très propre et prévoyez un récipient assez grand."
+    },
+    {
+      "type": "comparison",
+      "title": "Batteur électrique ou bocal : quelle méthode choisir ?",
+      "left": {
+        "title": "Au batteur ou au robot",
+        "points": [
+          "Rapide et régulier, particulièrement à partir de quelques centaines de millilitres de crème.",
+          "Demande peu d’effort physique.",
+          "Le passage de crème fouettée à beurre est brusque : protégez le plan de travail avec un torchon ou un couvercle anti-éclaboussures.",
+          "Idéal si vous souhaitez refaire l’opération régulièrement."
+        ]
+      },
+      "right": {
+        "title": "Dans un bocal hermétique",
+        "points": [
+          "Aucun appareil électrique : une solution accessible et amusante à faire avec des enfants sous supervision.",
+          "Permet de bien visualiser les étapes de transformation.",
+          "Plus long et fatigant ; mieux adapté à une petite quantité de crème.",
+          "Le bocal doit être parfaitement fermé, propre et assez grand pour laisser la crème bouger."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Le matériel utile",
+      "items": [
+        "De la crème entière liquide très riche en matière grasse.",
+        "Un batteur électrique, un robot muni du fouet, ou un grand bocal à fermeture fiable.",
+        "Un grand saladier, de préférence à bords hauts.",
+        "Une passoire fine ou un chinois pour récupérer le babeurre.",
+        "De l’eau très froide, idéalement avec quelques glaçons à proximité.",
+        "Une spatule, une cuillère en bois ou des mains parfaitement lavées pour malaxer.",
+        "Du papier cuisson, un beurrier ou une boîte hermétique pour le stockage."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode pas à pas pour réussir votre beurre maison",
+      "id": "la-methode-pas-a-pas-pour-reussir-votre-beurre-maison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sortez la crème du réfrigérateur au dernier moment. Elle doit rester froide, car une crème trop chaude peut devenir molle, se séparer moins nettement et compliquer le travail. Versez-la dans le saladier sans le remplir à plus de la moitié. Commencez à vitesse modérée : fouetter trop fort dès le départ augmente les éclaboussures sans forcément accélérer la transformation."
+    },
+    {
+      "type": "steps",
+      "title": "Faire du beurre au batteur : les étapes",
+      "items": [
+        {
+          "title": "Fouettez jusqu’à la crème montée",
+          "text": "La crème épaissit, prend du volume et forme des pointes : à ce stade, vous avez de la crème fouettée. Ne vous arrêtez pas, même si son aspect semble déjà ferme."
+        },
+        {
+          "title": "Poursuivez jusqu’à la séparation",
+          "text": "La préparation devient d’abord granuleuse, puis des petits grains jaunes apparaissent. Très vite, un liquide blanc jaunâtre se sépare : c’est le babeurre. Réduisez alors la vitesse pour limiter les projections."
+        },
+        {
+          "title": "Égouttez le babeurre",
+          "text": "Versez le contenu dans une passoire fine posée sur un récipient. Gardez le liquide si vous comptez l’utiliser en cuisine ; ne le laissez pas à température ambiante inutilement."
+        },
+        {
+          "title": "Rincez à l’eau glacée",
+          "text": "Remettez les grains de beurre dans le saladier. Versez un peu d’eau très froide, pressez et rassemblez la masse avec une spatule. Jetez l’eau trouble et recommencez jusqu’à ce qu’elle devienne presque claire."
+        },
+        {
+          "title": "Malaxez et assaisonnez",
+          "text": "Pressez le beurre pour chasser les dernières gouttes de liquide. Ajoutez du sel fin à votre goût si vous voulez un beurre demi-sel ou salé, puis homogénéisez sans trop le réchauffer."
+        },
+        {
+          "title": "Formez et refroidissez",
+          "text": "Façonnez une motte, un rouleau ou tassez le beurre dans un petit moule. Emballez-le soigneusement et placez-le aussitôt au réfrigérateur."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Au bocal, remplissez seulement un tiers à la moitié du volume avec la crème afin qu’elle puisse circuler. Secouez énergiquement en faisant des pauses lorsque vos mains fatiguent. Vous passerez par les mêmes phases : crème épaissie, crème fouettée, texture granuleuse, puis séparation du liquide. Dès que vous entendez un mouvement plus liquide dans le bocal et voyez une masse jaune, ouvrez, égouttez et procédez au rinçage."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le rinçage n’est pas une étape décorative",
+      "html": "Le babeurre résiduel favorise une altération plus rapide et peut donner un goût moins net. Rincez le beurre plusieurs fois à l’eau très froide, puis pressez-le jusqu’à ce qu’il ne rende presque plus de liquide. C’est le geste qui fait la différence entre une motte à consommer immédiatement et un beurre maison qui se conserve correctement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Beurre doux, demi-sel ou aromatisé : comment le personnaliser",
+      "id": "beurre-doux-demi-sel-ou-aromatise-comment-le-personnaliser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le beurre doux est la base la plus polyvalente, notamment pour la pâtisserie. Pour un beurre demi-sel, incorporez progressivement du sel fin après le rinçage. Goûtez une petite noisette au fur et à mesure : il est facile d’en ajouter, impossible d’en retirer. Le sel améliore aussi légèrement la conservation, mais il ne dispense jamais d’un bon emballage ni du réfrigérateur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les beurres composés sont intéressants si vous les préparez en petites portions. Ajoutez les ingrédients quand le beurre est souple mais encore froid, puis formez un rouleau dans du papier cuisson. Pour les préparations salées, préférez des herbes parfaitement séchées ou très soigneusement essorées : l’eau apportée par des ingrédients humides réduit la durée de garde."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Quelques associations qui fonctionnent bien",
+      "items": [
+        "<strong>Herbes et ail</strong> : persil, ciboulette, ail très finement haché, zeste de citron ; parfait sur légumes, viande grillée ou pain chaud.",
+        "<strong>Épices</strong> : paprika fumé, curry doux, piment, poivre concassé ou graines torréfiées ; dosez avec retenue pour ne pas masquer le beurre.",
+        "<strong>Version sucrée</strong> : vanille, cannelle, zeste d’agrume ou une petite quantité de miel ; à réserver à une consommation rapide et à garder bien froide.",
+        "<strong>Beurre maturé</strong> : laissez fermenter une crème adaptée selon une recette fiable et des conditions d’hygiène maîtrisées pour obtenir une note plus acidulée ; cette variante est moins indiquée pour débuter."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rendement, budget et intérêt réel du fait maison",
+      "id": "rendement-budget-et-interet-reel-du-fait-maison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Faire son beurre ne constitue pas automatiquement une solution économique. La crème entière de qualité est souvent onéreuse au litre, et son prix au kilo de matière grasse peut rendre le beurre maison comparable, voire plus cher, qu’un bon beurre acheté prêt à consommer. Son intérêt est ailleurs : vous contrôlez l’origine de la crème, le niveau de sel, les arômes ajoutés et la fraîcheur. C’est aussi une excellente manière de comprendre un procédé culinaire très simple."
+    },
+    {
+      "type": "table",
+      "caption": "Budget et rendement : les bons repères avant de vous lancer",
+      "headers": [
+        "Élément",
+        "Ordre de grandeur",
+        "Ce que cela implique"
+      ],
+      "rows": [
+        [
+          "Crème nécessaire",
+          "Environ 1 litre pour une belle quantité familiale de beurre",
+          "Commencez plutôt avec une petite brique ou un petit volume pour tester votre matériel"
+        ],
+        [
+          "Rendement",
+          "Souvent autour de deux cinquièmes à la moitié du poids ou volume initial selon la crème",
+          "Le résultat varie avec la richesse de la crème, l’égouttage et le rinçage"
+        ],
+        [
+          "Temps actif",
+          "Quelques minutes au robot, davantage à la main ou au bocal",
+          "Prévoyez aussi le temps de rinçage, de façonnage et de nettoyage"
+        ],
+        [
+          "Coût",
+          "De comparable à nettement supérieur à un beurre courant selon la crème choisie",
+          "Le fait maison se justifie surtout par le goût, la personnalisation et l’expérience"
+        ],
+        [
+          "Sous-produit",
+          "Du babeurre frais à utiliser rapidement",
+          "Il peut valoriser une partie de l’achat dans des recettes de pancakes, pains ou gâteaux"
+        ]
+      ],
+      "note": "Ces repères sont volontairement indicatifs : les formats, la richesse de la crème et les tarifs varient fortement selon le circuit d’achat."
+    },
+    {
+      "type": "proscons",
+      "title": "Le beurre maison : bonne idée ou non ?",
+      "pros": [
+        "Goût frais et texture personnalisable, surtout avec une excellente crème.",
+        "Contrôle total sur le sel, les herbes, les épices et les ingrédients ajoutés.",
+        "Procédé simple, pédagogique et réalisable sans équipement spécialisé.",
+        "Babeurre récupérable pour d’autres préparations culinaires."
+      ],
+      "cons": [
+        "Coût souvent peu compétitif face à un beurre standard, selon le prix de la crème.",
+        "Conservation plus courte qu’un produit industriel si le rinçage ou l’hygiène sont approximatifs.",
+        "Éclaboussures possibles avec un batteur et effort notable avec la méthode au bocal.",
+        "Le résultat dépend fortement de la crème : toutes les références ne barattent pas correctement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utiliser le babeurre sans le gaspiller",
+      "id": "utiliser-le-babeurre-sans-le-gaspiller"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le liquide récupéré après barattage a une saveur douce et légèrement lactée. Filtrez-le si nécessaire, transvasez-le dans un récipient propre et gardez-le immédiatement au réfrigérateur. Utilisez-le rapidement, car il est frais et fragile. Il apporte du moelleux aux pancakes, scones, cakes, pains rapides et pâtes à crêpes. Vous pouvez aussi l’intégrer à une marinade pour volaille ou à une vinaigrette crémeuse, à condition de l’employer sans attendre trop longtemps."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une bonne organisation limite le gaspillage",
+      "html": "Préparez le jour même une recette qui accepte le babeurre : pancakes au petit-déjeuner, pain express ou marinade du dîner. Vous valorisez ainsi les deux produits issus du barattage, sans conserver un liquide fragile dont vous ne saurez plus quoi faire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conservation et hygiène : les règles à ne pas négliger",
+      "id": "conservation-et-hygiene-les-regles-a-ne-pas-negliger"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le beurre maison est un produit frais. Lavez soigneusement vos mains et les ustensiles, travaillez avec une crème conservée au froid et évitez de laisser le beurre sur le plan de travail pendant toute la préparation. Après rinçage et malaxage, emballez-le dans du papier cuisson puis placez-le dans une boîte ou un beurrier fermé. Cette double protection limite l’oxydation et l’absorption des odeurs du réfrigérateur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Consommez-le de préférence assez vite, particulièrement s’il est doux, s’il contient des herbes fraîches ou s’il a été peu rincé. Pour en avoir toujours sous la main, divisez-le en petites portions et congelez-les. Le beurre supporte bien la congélation ; décongelez une portion au réfrigérateur plutôt qu’à température ambiante. Si l’odeur devient franchement aigre, rance ou anormale, ou si vous observez un aspect suspect, ne le consommez pas."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes de conservation à adopter",
+      "items": [
+        "Rincez et pressez le beurre jusqu’à éliminer au maximum le babeurre résiduel.",
+        "Ne remettez jamais dans le pot un couteau ayant touché d’autres aliments.",
+        "Gardez les beurres aux herbes, à l’ail ou au miel en petites quantités et consommez-les prioritairement.",
+        "Étiquetez les portions congelées avec leur parfum et leur date de préparation.",
+        "Privilégiez le beurre doux en pâtisserie et préparez le beurre parfumé au plus près du repas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dépannage : les erreurs fréquentes et leurs solutions",
+      "id": "depannage-les-erreurs-frequentes-et-leurs-solutions"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’erreur la plus courante consiste à s’arrêter à l’étape de la crème fouettée. Une crème ferme et blanche n’est pas encore du beurre : continuez jusqu’à l’apparition des grains jaunes et du liquide. À l’inverse, quand la séparation se produit, ne fouettez pas longtemps à grande vitesse ; vous risquez surtout de projeter le babeurre partout. Passez à vitesse lente ou coupez l’appareil dès que les grains sont bien formés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le beurre reste mou et difficile à rassembler, refroidissez brièvement le saladier, vos ustensiles et la masse de beurre, puis reprenez le malaxage avec de l’eau glacée. Si votre beurre a un goût fade, la cause est souvent une crème peu aromatique ou un rinçage excessivement prolongé ; la prochaine fois, choisissez une meilleure crème et goûtez avant de saler. Enfin, si la masse sent trop acide dès le départ, n’essayez pas de masquer le problème avec des aromates : la qualité initiale de la crème est déterminante."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand préférer un beurre du commerce ou une autre solution ?",
+      "id": "quand-preferer-un-beurre-du-commerce-ou-une-autre-solution"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un beurre du commerce reste plus judicieux lorsque vous recherchez un produit régulier, une durée de conservation confortable ou un coût maîtrisé. Pour les viennoiseries et certaines pâtisseries techniques, un beurre professionnel ou un beurre de qualité avec des caractéristiques constantes peut également être préférable. Le beurre maison est particulièrement intéressant pour une dégustation immédiate, une recette conviviale, un beurre aromatisé minute ou lorsque vous avez accès à une crème dont vous appréciez vraiment le goût."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre objectif est uniquement d’obtenir une matière grasse à tartiner, vous pouvez aussi préparer des alternatives végétales maison à base d’huiles, de purées d’oléagineux ou de tofu, mais elles ne reproduisent ni la structure ni le comportement à la cuisson du beurre laitier. Ne les substituez pas à poids égal dans une recette de pâtisserie sans adapter les proportions : l’eau et la matière grasse ne se comportent pas de la même façon."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le beurre maison",
+      "items": [
+        {
+          "q": "Peut-on faire du beurre avec de la crème UHT ?",
+          "a": "Oui, si elle est <strong>entière, liquide et suffisamment riche en matière grasse</strong>. Son goût peut être plus discret que celui d’une crème fraîche ou crue, mais elle est pratique et donne généralement un beurre tout à fait correct."
+        },
+        {
+          "q": "Combien de temps faut-il pour faire du beurre maison ?",
+          "a": "Avec un batteur, comptez souvent une dizaine à une vingtaine de minutes de fouettage selon la quantité, la température et la crème, puis quelques minutes de rinçage et de malaxage. Au bocal, cela peut être sensiblement plus long."
+        },
+        {
+          "q": "Pourquoi ma crème ne se transforme-t-elle pas en beurre ?",
+          "a": "Vérifiez d’abord sa teneur en matière grasse : une crème légère ne peut pas former une vraie motte. Il est aussi possible que vous vous soyez arrêté à la crème fouettée. Continuez jusqu’à la séparation visible entre grains jaunes et babeurre."
+        },
+        {
+          "q": "Faut-il obligatoirement saler le beurre maison ?",
+          "a": "Non. Le beurre doux est même préférable pour la pâtisserie et les usages polyvalents. Ajoutez du sel seulement après le rinçage, petit à petit, si vous souhaitez une version demi-sel ou salée."
+        },
+        {
+          "q": "Peut-on utiliser le babeurre récupéré après le barattage ?",
+          "a": "Oui. Conservez-le immédiatement au réfrigérateur et utilisez-le rapidement dans des pancakes, des cakes, des pains rapides, des sauces ou une marinade. C’est un produit frais : ne le gardez pas longtemps sans projet d’utilisation."
+        },
+        {
+          "q": "Le beurre maison peut-il être congelé ?",
+          "a": "Oui, très facilement. Divisez-le en portions bien emballées, de préférence nature ou avec des aromates secs. Faites décongeler la portion nécessaire au réfrigérateur pour préserver sa texture et sa qualité."
+        }
+      ]
+    }
+  ]
+}

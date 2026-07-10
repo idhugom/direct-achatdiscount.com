@@ -1,0 +1,405 @@
+{
+  "title": "Comment fixer les prix de location de ses voitures ?",
+  "slug": "comment-fixer-les-prix-de-location-de-ses-voitures",
+  "path": "/divers/comment-fixer-les-prix-de-location-de-ses-voitures.html",
+  "category": "auto-moto",
+  "tags": [
+    "location voiture",
+    "tarif location",
+    "rentabilité auto",
+    "gestion de flotte",
+    "voiture entre particuliers",
+    "prix dynamique"
+  ],
+  "excerpt": "Une méthode concrète pour fixer des tarifs de location auto rentables, cohérents avec le marché et transparents pour vos locataires.",
+  "metaDescription": "Calculez un tarif de location auto rentable : coûts, saison, kilométrage, assurance, concurrence et ajustements pour louer sans perdre d’argent.",
+  "seoTitle": "Fixer le prix de location de ses voitures : méthode",
+  "heroKicker": "Louer rentable",
+  "readingTime": 13,
+  "date": "2024-10-25T16:50:16",
+  "image": {
+    "id": "2507",
+    "alt": "Comment fixer les prix de location de ses voitures ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Fixer le prix de location de ses voitures ne consiste pas à recopier le tarif affiché par le voisin ou par une grande enseigne. Un bon prix doit couvrir vos coûts réels, rémunérer le risque et rester crédible face aux alternatives disponibles au même endroit, aux mêmes dates. Voici une méthode opérationnelle pour construire, tester et ajuster vos tarifs sans louer à perte ni décourager les réservations."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Partez toujours d’un <strong>prix plancher</strong> calculé à partir de vos coûts annuels, de vos frais par location et d’un volume de jours loués réaliste.",
+        "Comparez uniquement des véhicules, des garanties, des kilométrages et des conditions réellement comparables : un prix journalier seul ne veut pas dire grand-chose.",
+        "Distinguez le tarif de base, les réductions de durée, le kilométrage, les options et les frais éventuels afin de préserver votre marge.",
+        "Ajustez vos prix selon la demande, mais encadrez chaque baisse par un minimum rentable et chaque hausse par un plafond acceptable.",
+        "Affichez un coût total lisible : les surprises sur l’assurance, la franchise, le carburant ou le kilométrage détruisent la confiance et les avis."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Définir ce que votre prix doit réellement couvrir",
+      "id": "1-definir-ce-que-votre-prix-doit-reellement-couvrir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de choisir un montant journalier, clarifiez votre modèle. Louez-vous une voiture personnelle de temps en temps, plusieurs véhicules via une plateforme, ou une petite flotte exploitée de manière professionnelle ? Les coûts, le niveau de service attendu, la fiscalité et la marge visée ne sont pas les mêmes. Dans tous les cas, votre tarif doit financer l’usage du véhicule, pas seulement son carburant ou son nettoyage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le piège classique consiste à raisonner ainsi : « la voiture ne roule pas, toute recette est bonne à prendre ». C’est faux. Chaque location accélère l’usure, augmente l’exposition aux sinistres et mobilise du temps pour les états des lieux, les messages, le nettoyage et la remise des clés. Une recette qui semble positive peut être déficitaire une fois la décote et les frais indirects intégrés."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon indicateur n’est pas le prix affiché",
+      "html": "Votre objectif est d’obtenir une <strong>marge par jour loué</strong> et, à l’échelle de l’année, une recette suffisante par jour où le véhicule est disponible. Une voiture louée très souvent à bas prix peut rapporter moins qu’une voiture louée moins fréquemment, mais au bon tarif et avec moins d’incidents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Calculer votre prix plancher avant de regarder la concurrence",
+      "id": "2-calculer-votre-prix-plancher-avant-de-regarder-la-concurre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix plancher est le tarif en dessous duquel vous ne devriez pas descendre, sauf si vous acceptez consciemment une opération promotionnelle limitée. Il repose sur deux familles de dépenses : les coûts fixes annuels, qui existent même quand la voiture reste au parking, et les coûts variables déclenchés ou accélérés par la location."
+    },
+    {
+      "type": "table",
+      "caption": "Les coûts à intégrer dans un prix de location automobile",
+      "headers": [
+        "Poste de coût",
+        "À intégrer dans le calcul",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Valeur du véhicule et décote",
+          "Achat ou financement, perte de valeur liée au temps et au kilométrage",
+          "Ne vous limitez pas à la mensualité d’un crédit : la décote est un coût réel même pour une voiture payée comptant."
+        ],
+        [
+          "Assurance adaptée à la location",
+          "Prime, extensions, franchises non couvertes, assistance",
+          "Vérifiez que votre contrat autorise précisément l’usage locatif ; une assurance auto classique peut ne pas suffire."
+        ],
+        [
+          "Entretien et usure",
+          "Révisions, pneus, freins, lavage, fluides, contrôles et réparations",
+          "Prévoyez un coût par kilomètre ou par journée louée, pas seulement les factures déjà reçues."
+        ],
+        [
+          "Frais fixes d’exploitation",
+          "Stationnement, contrôle technique, taxes éventuelles, abonnement de télématique, administration",
+          "Répartissez-les sur les jours réellement facturables, non sur les 365 jours de l’année."
+        ],
+        [
+          "Frais de distribution",
+          "Commission de plateforme, paiement, publicité, conciergerie ou remise de clés",
+          "Identifiez si le pourcentage est pris sur votre recette, sur le prix payé par le client ou facturé séparément."
+        ],
+        [
+          "Risque et imprévus",
+          "Immobilisation, petits dégâts, contraventions à traiter, annulations, véhicule de remplacement",
+          "Constituez une réserve ; la caution ne doit pas être considérée comme du revenu."
+        ]
+      ],
+      "note": "Adaptez également le calcul à votre statut : les règles de TVA, de déduction des charges et de déclaration diffèrent selon que vous louez occasionnellement ou dans un cadre professionnel."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Une formule simple pour bâtir un tarif viable",
+      "id": "une-formule-simple-pour-batir-un-tarif-viable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par estimer un nombre <strong>prudent</strong> de jours facturés sur l’année. N’utilisez pas une hypothèse idéale : votre véhicule sera indisponible lors de l’entretien, entre deux réservations, pendant les annulations et aux périodes creuses. Additionnez ensuite vos coûts fixes annuels, divisez-les par ce nombre de jours, puis ajoutez vos coûts variables moyens par jour et une provision de risque."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si une commission s’applique en pourcentage du prix, le calcul doit l’intégrer avant d’annoncer votre tarif. Une version pratique est : <strong>prix plancher hors taxes = (part des coûts fixes par jour + coûts variables par jour + réserve de risque) ÷ (1 − taux de commission − taux de marge visé)</strong>. Ajoutez ensuite le traitement fiscal adapté à votre situation. L’important n’est pas d’atteindre une précision artificielle, mais de ne laisser aucun gros poste hors du calcul."
+    },
+    {
+      "type": "paragraph",
+      "html": "Exemple purement illustratif : si votre coût complet avant commission et marge ressort à 60 par jour, et que vous anticipez ensemble 30 % de commission et de marge cible, un prix affiché autour de 86 permet de conserver l’équilibre prévu. Si le marché n’accepte pas ce niveau, ce n’est pas un signal pour brader aveuglément : cela peut indiquer que le véhicule est trop coûteux pour ce créneau, que le taux d’occupation visé est irréaliste ou qu’il faut proposer une formule différente."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Ne divisez jamais vos coûts par 365",
+      "html": "Une voiture disponible à la location n’est pas louée tous les jours. Plus votre prévision de jours loués est prudente, plus votre prix plancher est robuste. Travaillez idéalement avec trois scénarios — prudent, central et favorable — pour vérifier que votre activité reste saine même si la demande ralentit."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Situer votre voiture sur le marché sans copier les mauvais tarifs",
+      "id": "3-situer-votre-voiture-sur-le-marche-sans-copier-les-mauvais"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois votre plancher défini, observez le marché local aux dates qui vous intéressent. Recherchez des véhicules comparables par catégorie, âge, transmission, énergie, kilométrage, équipement, état, lieu de retrait et conditions de location. Une citadine ancienne disponible en périphérie ne se compare pas directement à une citadine récente livrée à la gare, et un SUV hybride bien équipé n’est pas interchangeable avec un modèle thermique d’entrée de gamme."
+    },
+    {
+      "type": "paragraph",
+      "html": "Relevez plusieurs tarifs sur des jours de semaine, des week-ends, des périodes de vacances et des créneaux plus calmes. Ne vous focalisez pas sur le prix le plus bas : il peut correspondre à une annonce peu rentable, à un véhicule rarement disponible, à un kilométrage très limité ou à des frais ajoutés à la fin du parcours. Cherchez plutôt la <strong>fourchette médiane des offres sérieuses</strong>, puis positionnez-vous selon votre niveau de prestation."
+    },
+    {
+      "type": "table",
+      "caption": "Repères très larges pour construire un tarif journalier public en France",
+      "headers": [
+        "Catégorie de véhicule",
+        "Ordre de grandeur courant par jour",
+        "Ce qui peut justifier le haut de fourchette"
+      ],
+      "rows": [
+        [
+          "Petite citadine ou voiture économique",
+          "Quelques dizaines d’euros, souvent autour de 25 à 60 selon le contexte",
+          "Boîte automatique, véhicule récent, retrait pratique, faible consommation, forte demande locale."
+        ],
+        [
+          "Compacte ou berline polyvalente",
+          "Environ 40 à 90 dans de nombreux contextes",
+          "Confort, puissance, coffre, équipements, livraison ou emplacement de transport."
+        ],
+        [
+          "Familiale, SUV ou véhicule à sept places",
+          "Souvent de l’ordre de 65 à 140",
+          "Capacité, transmission intégrale, motorisation recherchée, période touristique ou montagne."
+        ],
+        [
+          "Utilitaire ou minibus",
+          "Généralement plusieurs dizaines d’euros à plus d’une centaine par jour",
+          "Volume utile, hayon, accessoires, disponibilité de dernière minute, déménagements et événements."
+        ],
+        [
+          "Véhicule premium ou atypique",
+          "À partir de la centaine d’euros et parfois nettement davantage",
+          "Rareté, image, performances, services associés et niveau de risque plus élevé."
+        ]
+      ],
+      "note": "Ces fourchettes sont des repères de positionnement, pas des tarifs garantis. La ville, la saison, les garanties incluses, le kilométrage et la durée peuvent modifier fortement le prix final."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Choisir une stratégie de positionnement claire",
+      "id": "choisir-une-strategie-de-positionnement-claire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un tarif inférieur au marché peut être pertinent au lancement d’une annonce, pour recueillir les premiers avis ou remplir des dates proches. Il ne doit toutefois pas devenir votre prix normal si votre marge est insuffisante. À l’inverse, un prix supérieur est défendable lorsque votre offre apporte une valeur concrète : voiture irréprochable, réservation simple, disponibilité fiable, accessoires utiles, kilomètres inclus cohérents, livraison ou assistance de qualité."
+    },
+    {
+      "type": "proscons",
+      "title": "Se positionner moins cher que les offres comparables",
+      "pros": [
+        "Accélère souvent les premières réservations et la constitution d’avis.",
+        "Peut remplir des périodes courtes ou traditionnellement creuses.",
+        "Réduit le risque que la voiture reste inutilisée lorsqu’elle est déjà coûteuse à immobiliser."
+      ],
+      "cons": [
+        "Peut attirer des demandes plus nombreuses sans couvrir le temps de gestion.",
+        "Réduit la réserve disponible pour les dommages, l’usure et les imprévus.",
+        "Rend les hausses ultérieures plus difficiles à faire accepter.",
+        "Risque de dévaloriser une offre pourtant plus qualitative que les annonces les moins chères."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Tarifer séparément la durée, le kilométrage et les services",
+      "id": "4-tarifer-separement-la-duree-le-kilometrage-et-les-services"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix journalier est seulement la première brique. Une tarification solide tient compte de la durée de réservation, de la distance autorisée, du lieu de remise et des services demandés. Le principe est simple : les coûts qui augmentent avec l’usage doivent être couverts par la formule choisie, tandis que les coûts de préparation doivent être répartis de façon équitable sur la durée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une courte location implique presque autant de messages, d’état des lieux et de nettoyage qu’une location de plusieurs jours. Il est donc souvent pertinent d’appliquer un minimum de facturation, un supplément de courte durée ou un tarif journalier plus élevé sur une seule journée. À l’inverse, une semaine ou un mois peuvent justifier une remise progressive, car votre coût de préparation est dilué et votre taux d’occupation devient plus prévisible."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les paramètres à fixer avant de publier vos prix",
+      "items": [
+        "Définissez un <strong>tarif de base</strong> par jour, puis une réduction par palier de durée qui ne passe jamais sous votre prix plancher.",
+        "Choisissez un forfait kilométrique adapté à la catégorie et à la durée ; calculez le supplément kilométrique à partir de l’usure réelle du véhicule.",
+        "Indiquez sans ambiguïté le traitement du carburant ou de la recharge : niveau de départ, niveau de retour et frais de remise à niveau éventuels.",
+        "Chiffrez les options qui génèrent un coût ou un risque : siège enfant, chaînes, galerie, livraison, second conducteur, nettoyage exceptionnel.",
+        "Prévoyez des règles claires pour le retard, le retour dans un état anormal, les péages et les contraventions, conformément au contrat et au cadre applicable."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le kilométrage illimité n’est pas automatiquement un avantage",
+      "html": "Il peut simplifier la vente et séduire certains clients, mais il convient surtout aux véhicules dont vous maîtrisez le coût kilométrique et aux locations longues. Pour une voiture récente, premium, électrique ou fortement décotée au kilomètre, un forfait généreux mais borné protège souvent mieux votre rentabilité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Prix fixe ou prix dynamique : choisir le bon niveau de pilotage",
+      "id": "5-prix-fixe-ou-prix-dynamique-choisir-le-bon-niveau-de-pilot"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un prix fixe, identique toute l’année, est simple à gérer mais ignore la réalité de la demande. Or une voiture peut être très recherchée un pont de week-end, pendant des vacances, près d’un aéroport ou lors d’un événement local, puis difficile à louer quelques jours plus tard. La tarification dynamique consiste à faire varier votre tarif dans un cadre décidé à l’avance, et non à le changer au hasard."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux façons de gérer vos tarifs",
+      "left": {
+        "title": "Tarification fixe",
+        "points": [
+          "Un seul tarif ou quelques tarifs simples par catégorie de durée.",
+          "Convient à une activité occasionnelle, à une demande très stable ou à une petite flotte peu chronophage.",
+          "Facile à expliquer et à administrer.",
+          "Peut faire perdre du revenu lors des pics ou laisser des dates creuses sans réservation."
+        ]
+      },
+      "right": {
+        "title": "Tarification dynamique encadrée",
+        "points": [
+          "Prix ajustés selon le calendrier, le délai de réservation, la demande et l’occupation.",
+          "Particulièrement utile dans les zones touristiques, les grandes villes et pour les véhicules rares.",
+          "Améliore potentiellement le revenu par jour disponible si les limites sont bien réglées.",
+          "Demande un suivi régulier et des règles pour éviter des prix incohérents."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Créer une grille dynamique sans y passer vos journées",
+      "id": "creer-une-grille-dynamique-sans-y-passer-vos-journees"
+    },
+    {
+      "type": "steps",
+      "title": "Une méthode en quatre étapes",
+      "items": [
+        {
+          "title": "Fixez un tarif de référence",
+          "text": "Utilisez votre prix courant pour une date de demande normale, calculé au-dessus de votre plancher."
+        },
+        {
+          "title": "Encadrez les écarts",
+          "text": "Définissez un minimum rentable pour les périodes creuses et un plafond cohérent avec les alternatives comparables dans votre zone."
+        },
+        {
+          "title": "Créez quelques périodes lisibles",
+          "text": "Distinguez par exemple jours calmes, week-ends, vacances ou événements locaux, plutôt que de modifier le prix chaque matin."
+        },
+        {
+          "title": "Ajustez au rythme des réservations",
+          "text": "Si les dates proches se remplissent vite, augmentez progressivement. Si elles restent vides malgré une offre visible, baissez de façon mesurée ou améliorez l’annonce avant de réduire davantage."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez les variations extrêmes et fréquentes, surtout si vous avez déjà des clients récurrents. Une hausse est plus facile à accepter quand elle correspond à un contexte perceptible — forte saison, week-end, disponibilité limitée — et quand votre annonce explique clairement ce qui est inclus."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Afficher un prix total transparent et sécuriser le contrat",
+      "id": "6-afficher-un-prix-total-transparent-et-securiser-le-contrat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix le plus efficace commercialement est celui que le locataire comprend avant de réserver. Présentez ce qui est inclus dans le tarif, ce qui est optionnel et les situations pouvant entraîner une facturation complémentaire. Pour des clients particuliers, le prix communiqué doit être lisible et cohérent avec les règles applicables à votre mode de distribution ; ne masquez pas des frais obligatoires derrière un tarif d’appel artificiellement bas."
+    },
+    {
+      "type": "paragraph",
+      "html": "Séparez bien trois notions souvent confondues : le prix de location, le montant de la franchise et le dépôt de garantie ou l’empreinte bancaire. Le dépôt de garantie sert à couvrir certains risques prévus au contrat ; ce n’est ni une source de revenu ni un substitut à une assurance adaptée. Le niveau de franchise, les exclusions et les procédures en cas de sinistre doivent être compris avant la remise des clés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous passez par une plateforme, lisez les règles de couverture, les commissions, les délais de versement et les mécanismes de résolution des litiges. Si vous louez en direct, faites valider vos documents, votre assurance et vos obligations par un professionnel compétent. La location automobile expose à des risques significatifs : vouloir économiser sur le contrat ou l’assurance peut coûter bien davantage qu’un mauvais choix tarifaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. Mesurer la performance et corriger vos prix avec des données",
+      "id": "7-mesurer-la-performance-et-corriger-vos-prix-avec-des-donne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne jugez pas un tarif sur une seule réservation. Tenez un tableau simple par véhicule : jours disponibles, jours loués, prix moyen réellement encaissé, revenus annexes, commissions, kilomètres parcourus, coûts de préparation, dépenses d’entretien et incidents. Après quelques cycles de demande, vous verrez si votre problème vient réellement du prix, de la visibilité de l’annonce, de la qualité des photos, du lieu de retrait ou de conditions trop restrictives."
+    },
+    {
+      "type": "paragraph",
+      "html": "Suivez surtout le <strong>revenu net par jour disponible</strong>, pas uniquement le nombre de jours loués. Une baisse de prix peut accroître l’occupation tout en diminuant votre revenu global si l’augmentation de volume ne compense pas la perte de marge et l’usure supplémentaire. Inversement, un tarif un peu plus élevé peut maintenir une bonne rentabilité avec moins de remises de clés et une clientèle mieux ciblée."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Signaux qui justifient un ajustement",
+      "items": [
+        "Votre calendrier se remplit très tôt à toutes les périodes : testez une hausse graduelle sur les dates les plus demandées.",
+        "Vous êtes visible mais les demandes restent rares : vérifiez d’abord les photos, les avis, le kilométrage, le lieu et les conditions, puis ajustez le prix.",
+        "Vous obtenez des réservations, mais votre marge disparaît : revalorisez le minimum de durée, les options ou le kilométrage plutôt que le seul prix facial.",
+        "Les locations longues sont nombreuses mais peu rentables : recalculez votre remise hebdomadaire ou mensuelle et le coût de l’usure accumulée.",
+        "Les clients posent toujours les mêmes questions avant de réserver : l’offre manque probablement de transparence ou de lisibilité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8. Éviter les erreurs fréquentes et envisager les bonnes alternatives",
+      "id": "8-eviter-les-erreurs-frequentes-et-envisager-les-bonnes-alte"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de confondre prix compétitif et prix bas. Un tarif rentable est compétitif s’il correspond à une offre claire et fiable ; il n’a pas besoin d’être le moins cher. La deuxième est d’oublier que le véhicule vieillit aussi lorsqu’il est loué : le coût d’un kilomètre supplémentaire, d’un pneu prématurément remplacé ou d’une immobilisation doit être anticipé, pas découvert après coup."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez aussi les suppléments imprécis, les règles appliquées au cas par cas et les réductions permanentes. Chaque exception rend votre offre difficile à comprendre et peut créer un litige. Préférez une grille simple, documentée et stable, avec quelques leviers seulement : durée, saison, kilométrage, livraison et options."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre prix plancher est durablement supérieur à ce que le marché local accepte, n’essayez pas de compenser uniquement par des promotions. Vous pouvez changer de canal de distribution, proposer la voiture sur des créneaux plus porteurs, cibler une clientèle spécifique, réduire certains coûts fixes, choisir à terme un véhicule plus adapté à la demande ou confier la gestion à un professionnel. Pour certains propriétaires, ne louer qu’aux périodes rentables — ou ne pas louer du tout — reste une meilleure décision économique que de multiplier les réservations déficitaires."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les prix de location de voiture",
+      "items": [
+        {
+          "q": "Comment connaître le prix minimum auquel je peux louer ma voiture ?",
+          "a": "Calculez vos coûts fixes annuels par jour loué réaliste, ajoutez les coûts variables, les commissions, une réserve de risque et votre marge cible. Ce résultat est votre plancher. Il doit être revu quand l’assurance, l’entretien, la valeur du véhicule ou votre volume de locations évoluent."
+        },
+        {
+          "q": "Faut-il être moins cher que toutes les annonces comparables ?",
+          "a": "Non. Il vaut mieux être cohérent avec les offres comparables et justifier votre positionnement par l’état du véhicule, les équipements, le kilométrage inclus, le lieu de retrait, la simplicité de la réservation ou la qualité du service. Le tarif le plus bas est souvent difficile à rentabiliser."
+        },
+        {
+          "q": "Quelle réduction accorder pour une location à la semaine ou au mois ?",
+          "a": "Il n’existe pas de pourcentage universel. Calculez d’abord le tarif qui couvre les coûts sur toute la durée, puis accordez seulement une remise liée aux économies réelles de gestion et à la garantie d’occupation. La remise ne doit jamais faire passer votre recette journalière sous votre prix plancher."
+        },
+        {
+          "q": "Dois-je inclure le kilométrage illimité dans mon prix ?",
+          "a": "Seulement si votre coût kilométrique et le profil des locataires le permettent. Sinon, un forfait kilométrique clair, suffisamment confortable et complété par un prix de dépassement cohérent protège mieux la valeur de votre voiture, vos pneus et votre budget entretien."
+        },
+        {
+          "q": "À quelle fréquence faut-il modifier ses tarifs ?",
+          "a": "Faites un contrôle régulier, par exemple à chaque changement de saison ou lorsque vos réservations donnent un signal net. Évitez toutefois de changer les prix sans règle. Une grille par périodes et des ajustements progressifs sont plus lisibles qu’une succession de baisses et de hausses improvisées."
+        },
+        {
+          "q": "Le dépôt de garantie doit-il être intégré au prix de location ?",
+          "a": "Non. Le dépôt de garantie ou l’empreinte bancaire n’est pas un revenu et ne remplace pas une assurance adaptée. Il doit être présenté séparément, avec les conditions de restitution et les cas prévus au contrat."
+        }
+      ]
+    }
+  ]
+}

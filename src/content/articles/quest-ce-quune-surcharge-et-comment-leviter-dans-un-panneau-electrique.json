@@ -1,0 +1,435 @@
+{
+  "title": "Qu’est-ce qu’une surcharge et comment l’éviter dans un panneau électrique?",
+  "slug": "quest-ce-quune-surcharge-et-comment-leviter-dans-un-panneau-electrique",
+  "path": "/divers/quest-ce-quune-surcharge-et-comment-leviter-dans-un-panneau-electrique.html",
+  "category": "maison",
+  "tags": [
+    "surcharge électrique",
+    "tableau électrique",
+    "disjoncteur",
+    "circuit électrique",
+    "sécurité maison",
+    "puissance électrique"
+  ],
+  "excerpt": "Une surcharge électrique fait disjoncter, chauffe les câbles et peut devenir dangereuse. Voici comment l’identifier, la prévenir et agir sans risque.",
+  "metaDescription": "Comprenez la surcharge électrique, repérez les signes d’alerte et protégez votre tableau grâce aux bons gestes et aux choix de circuits adaptés.",
+  "seoTitle": "Surcharge électrique : éviter les risques au tableau",
+  "heroKicker": "Sécurité électrique",
+  "readingTime": 11,
+  "date": "2025-01-16T02:11:19",
+  "image": {
+    "id": "2857",
+    "alt": "Qu’est-ce qu’une surcharge et comment l’éviter dans un panneau électrique?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une surcharge électrique survient lorsqu’un circuit, ou l’installation dans son ensemble, doit alimenter plus d’appareils qu’il ne peut en supporter durablement. Un disjoncteur qui coupe n’est pas forcément une panne : c’est souvent une protection utile contre l’échauffement des conducteurs, la dégradation des prises et, dans les cas les plus graves, le départ de feu."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Une surcharge correspond à une demande de courant trop élevée sur un circuit ; le disjoncteur doit alors couper l’alimentation.",
+        "Ne remplacez jamais un disjoncteur par un modèle de calibre supérieur sans faire vérifier la section des câbles et le circuit concerné.",
+        "Répartissez les appareils puissants sur des circuits adaptés et évitez l’enchaînement de multiprises.",
+        "Si un tableau, une prise ou une fiche chauffe, dégage une odeur anormale ou présente des traces sombres, coupez le circuit et faites intervenir un électricien.",
+        "Une coupure générale peut aussi venir d’une puissance souscrite insuffisante : ce n’est pas le même problème qu’un circuit surchargé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’est-ce qu’une surcharge dans un panneau électrique ?",
+      "id": "qu-est-ce-qu-une-surcharge-dans-un-panneau-electrique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le langage courant, le <strong>panneau électrique</strong> désigne le tableau électrique : le coffret qui reçoit les dispositifs de protection et répartit l’électricité entre les différents circuits du logement. Une surcharge se produit lorsqu’un circuit appelle davantage de courant que ce que ses câbles, ses connexions et son disjoncteur sont conçus pour accepter en fonctionnement normal."
+    },
+    {
+      "type": "paragraph",
+      "html": "Chaque circuit possède un calibre de protection déterminé lors de sa conception. Si vous branchez simultanément plusieurs appareils énergivores sur des prises relevant du même circuit — par exemple un radiateur d’appoint, une bouilloire, un grille-pain et un micro-ondes — l’intensité totale peut dépasser cette limite. Le disjoncteur divisionnaire se déclenche alors, parfois après quelques secondes ou minutes selon le niveau de dépassement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le but du disjoncteur n’est pas de vous empêcher d’utiliser vos appareils : il protège les fils cachés dans les murs. Sans cette coupure, un conducteur pourrait chauffer anormalement, son isolant pourrait se détériorer et le risque d’arc électrique ou d’incendie augmenterait. Une surcharge ponctuelle qui fait couper une fois doit être comprise ; une surcharge répétée ne doit jamais être contournée."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "230 V",
+          "label": "tension nominale habituelle d’une installation domestique en France"
+        },
+        {
+          "value": "16 à 20 A",
+          "label": "calibres courants pour de nombreux circuits de prises, selon leur conception"
+        },
+        {
+          "value": "32 A",
+          "label": "calibre souvent associé à un circuit spécialisé de plaque de cuisson"
+        },
+        {
+          "value": "3 000 W env.",
+          "label": "puissance appelée par un appareil de 13 A environ sous 230 V"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Un disjoncteur qui saute est un signal, pas un défaut à supprimer",
+      "html": "Ne bloquez jamais un disjoncteur en position marche, ne shuntez aucun appareil de protection et ne posez pas un calibre plus élevé « pour que cela tienne ». Une protection surdimensionnée par rapport au câblage peut laisser les conducteurs surchauffer sans coupure suffisamment rapide."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Surcharge, court-circuit et défaut d’isolement : ne pas confondre",
+      "id": "surcharge-court-circuit-et-defaut-d-isolement-ne-pas-confond"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les trois incidents peuvent faire disjoncter, mais leurs causes et leur degré d’urgence diffèrent. Faire cette distinction vous aide à savoir si vous pouvez simplement réduire le nombre d’appareils utilisés ou s’il faut cesser tout essai et demander un diagnostic."
+    },
+    {
+      "type": "comparison",
+      "title": "Les coupures les plus fréquentes, en pratique",
+      "left": {
+        "title": "Surcharge de circuit",
+        "points": [
+          "Plusieurs appareils consomment trop sur le même circuit.",
+          "La coupure peut apparaître pendant l’usage, surtout quand un appareil chauffant démarre.",
+          "Réenclenchement possible après avoir débranché ou arrêté des appareils.",
+          "La solution est de réduire, répartir ou créer les usages sur des circuits adaptés."
+        ]
+      },
+      "right": {
+        "title": "Court-circuit ou défaut d’isolement",
+        "points": [
+          "Un contact anormal entre conducteurs, ou une fuite de courant vers la terre, est en cause.",
+          "La coupure est souvent immédiate dès le branchement ou la mise en marche.",
+          "Un appareil défectueux, un câble abîmé ou de l’humidité peuvent être responsables.",
+          "N’insistez pas : isolez l’équipement suspect et faites contrôler l’installation si le défaut persiste."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Un <strong>court-circuit</strong> est généralement brutal : deux conducteurs à des potentiels différents entrent accidentellement en contact, ce qui provoque un courant très élevé. Un <strong>défaut d’isolement</strong>, souvent détecté par l’interrupteur différentiel, correspond à une fuite de courant vers la terre ou une masse métallique. Une surcharge, elle, n’implique pas nécessairement de matériel défectueux : elle peut résulter d’un usage parfaitement normal, mais mal réparti."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reconnaître les signes d’une installation surchargée",
+      "id": "reconnaitre-les-signes-d-une-installation-surchargee"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le déclenchement d’un disjoncteur est le signe le plus évident, mais il n’est pas le seul. Un circuit peut être sollicité à la limite de sa capacité sans déclencher immédiatement. C’est précisément ce fonctionnement prolongé proche de la limite qui peut fatiguer les connexions, surtout dans une installation ancienne ou mal entretenue."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Signes qui doivent vous alerter",
+      "items": [
+        "Le même disjoncteur divisionnaire se déclenche lorsque plusieurs appareils fonctionnent ensemble.",
+        "Les lumières baissent légèrement ou scintillent au démarrage d’un appareil puissant sur le même secteur.",
+        "Une prise, une fiche, une multiprise ou le cache du tableau est anormalement chaud au toucher.",
+        "Vous percevez une odeur de plastique chaud, des grésillements, des crépitements ou observez un jaunissement, des traces brunes ou une déformation.",
+        "Vous devez régulièrement débrancher un appareil pour pouvoir en utiliser un autre dans la même pièce.",
+        "Le disjoncteur principal coupe lorsque des équipements énergivores sont utilisés à l’échelle du logement, même si les disjoncteurs de circuits restent enclenchés."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Chaleur, odeur ou marques noires : arrêt immédiat",
+      "html": "Une prise ou un tableau qui chauffe n’est pas normal. Coupez le circuit concerné au tableau si vous pouvez le faire sans danger, débranchez l’appareil seulement si la fiche est accessible et froide, puis faites vérifier l’ensemble. N’arrosez jamais une installation électrique et n’ouvrez pas un tableau sous tension."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre puissance, intensité et limites des circuits",
+      "id": "comprendre-puissance-intensite-et-limites-des-circuits"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour estimer une charge, retenez une règle simple : à tension domestique constante, plus un appareil affiche une forte puissance en watts, plus il demande d’intensité en ampères. L’approximation utile est <strong>intensité = puissance ÷ tension</strong>. Sous 230 V, un appareil de 2 300 W appelle environ 10 A ; deux appareils de ce type sur le même circuit mobilisent donc environ 20 A."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce calcul donne un repère, pas une autorisation de charger un circuit jusqu’à son maximum. La puissance indiquée sur l’étiquette est parfois une puissance maximale, certains appareils fonctionnent par cycles, et surtout vous ne connaissez pas toujours la répartition réelle des prises dans le logement. Dans une cuisine, deux prises voisines peuvent dépendre du même disjoncteur ; dans un logement rénové, l’organisation peut être moins intuitive qu’elle n’en a l’air."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour anticiper les associations à risque",
+      "headers": [
+        "Équipement courant",
+        "Puissance typique approximative",
+        "Vigilance sur un circuit partagé"
+      ],
+      "rows": [
+        [
+          "Éclairage LED et box internet",
+          "Faible, de quelques watts à quelques dizaines de watts",
+          "Généralement peu problématique, sauf défaut ou circuit déjà très chargé."
+        ],
+        [
+          "Ordinateur, écran, télévision",
+          "De modérée à variable",
+          "L’accumulation de plusieurs postes reste à surveiller avec les multiprises."
+        ],
+        [
+          "Bouilloire, cafetière, grille-pain",
+          "Souvent autour de 1 000 à plus de 2 000 W",
+          "Évitez de les faire chauffer simultanément sur un même circuit de prises."
+        ],
+        [
+          "Radiateur d’appoint, sèche-cheveux, fer à repasser",
+          "Souvent autour de 1 000 à plus de 2 000 W",
+          "Un seul appareil peut représenter une part importante de la capacité disponible."
+        ],
+        [
+          "Lave-linge, lave-vaisselle, four",
+          "Puissance variable avec des pointes lors de la chauffe",
+          "Ils doivent idéalement relever de circuits dédiés prévus à cet effet."
+        ],
+        [
+          "Plaque de cuisson électrique",
+          "Très forte puissance potentielle",
+          "Nécessite un circuit spécialisé conçu pour cet usage."
+        ]
+      ],
+      "note": "Ces repères sont indicatifs. Le calibre du disjoncteur, la section des conducteurs, le type d’appareil et la configuration exacte du tableau restent déterminants."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifier le circuit responsable sans prendre de risque",
+      "id": "identifier-le-circuit-responsable-sans-prendre-de-risque"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez réaliser un premier diagnostic d’usage sans démonter de prise ni retirer le capot du tableau. L’objectif est de repérer le circuit qui coupe et les appareils qui y sont raccordés. Une étiquette lisible sous chaque disjoncteur facilite énormément cette opération ; si le repérage est absent ou incohérent, prévoyez de le faire remettre au propre par un professionnel."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode de repérage simple et sûre",
+      "items": [
+        {
+          "title": "Notez ce qui était en marche",
+          "text": "Au moment de la coupure, listez les appareils utilisés : chauffage d’appoint, cuisson, aspirateur, lave-linge, chargeurs et multiprises comprises."
+        },
+        {
+          "title": "Localisez la protection déclenchée",
+          "text": "Sans ouvrir le tableau, observez quel disjoncteur a basculé. S’il s’agit de la coupure générale ou d’un différentiel, ne supposez pas automatiquement qu’il s’agit d’une surcharge."
+        },
+        {
+          "title": "Arrêtez et débranchez les charges du circuit",
+          "text": "Mettez les appareils en position arrêt, puis débranchez ceux qui étaient susceptibles de consommer fortement. Vérifiez visuellement qu’aucun cordon n’est endommagé."
+        },
+        {
+          "title": "Réenclenchez une seule fois",
+          "text": "Réarmez le disjoncteur. S’il tient sans appareil, remettez les équipements en service un par un, en commençant par les moins puissants."
+        },
+        {
+          "title": "Interprétez le résultat",
+          "text": "Une coupure qui revient seulement lorsque plusieurs appareils chauffants fonctionnent ensemble évoque une surcharge. Une coupure immédiate avec un appareil précis évoque plutôt un défaut de cet appareil ou de son cordon."
+        },
+        {
+          "title": "Arrêtez les essais au moindre doute",
+          "text": "Si le dispositif ne se réenclenche pas, s’il redéclenche sans charge, ou si vous constatez chaleur, odeur ou bruit, laissez le circuit coupé et contactez un électricien qualifié."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Cartographiez vos prises une fois pour toutes",
+      "html": "Quand vous avez accès au tableau, coupez <em>un seul disjoncteur à la fois</em> et notez les prises, éclairages et appareils qui ne fonctionnent plus. Faites-le à deux si possible et hors d’usage sensible. Une étiquette précise — « prises plan de travail », « prises séjour côté fenêtre » — évite les mauvaises hypothèses lors d’une prochaine coupure."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment éviter les surcharges au quotidien ?",
+      "id": "comment-eviter-les-surcharges-au-quotidien"
+    },
+    {
+      "type": "paragraph",
+      "html": "La prévention consiste moins à « consommer moins » qu’à éviter de cumuler les fortes puissances au mauvais endroit et au même moment. Les appareils à résistance qui chauffent — cuisson, eau chaude, repassage, sèche-cheveux, chauffage d’appoint — sont les principaux candidats à surveiller. Un chargeur de téléphone pèse très peu face à eux dans le bilan du circuit."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les gestes qui réduisent réellement le risque",
+      "items": [
+        "Faites fonctionner les appareils de chauffe les plus puissants en alternance lorsqu’ils partagent vraisemblablement le même circuit.",
+        "Branchez les équipements fixes ou énergivores sur leurs prises murales et circuits spécialisés prévus, plutôt que sur une rallonge.",
+        "Limitez les adaptateurs multiples et n’emboîtez jamais une multiprise sur une autre multiprise.",
+        "Choisissez une multiprise de qualité, avec terre quand l’appareil l’exige, interrupteur adapté et câble en bon état ; elle n’augmente jamais la puissance disponible.",
+        "Déroulez complètement un enrouleur utilisé avec un appareil puissant : un câble enroulé peut accumuler de la chaleur.",
+        "Remplacez sans attendre les prises desserrées, fiches déformées, rallonges pincées ou cordons dont l’isolant est coupé.",
+        "Prévoyez un circuit dédié lors de l’ajout durable d’un climatiseur mobile puissant, d’un sèche-linge, d’un atelier ou d’une cuisine rénovée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faut-il augmenter le disjoncteur, ajouter un circuit ou revoir l’abonnement ?",
+      "id": "faut-il-augmenter-le-disjoncteur-ajouter-un-circuit-ou-revoi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces trois réponses ne résolvent pas le même problème. Augmenter le calibre d’un disjoncteur est une modification technique qui ne peut être envisagée que si la section des conducteurs, le mode de pose, la protection différentielle et l’ensemble du circuit ont été vérifiés. Dans de nombreux cas, ce n’est ni possible ni souhaitable : le bon choix est d’ajouter un circuit correctement dimensionné depuis le tableau."
+    },
+    {
+      "type": "proscons",
+      "title": "Les principales solutions, avec leurs limites",
+      "pros": [
+        "Répartir les usages ne demande souvent aucun travaux et règle les surcharges occasionnelles.",
+        "Ajouter un circuit dédié apporte une solution durable pour un appareil puissant ou un nouvel espace de vie.",
+        "Faire évoluer la puissance souscrite peut éviter les coupures générales liées à l’usage simultané de plusieurs équipements du logement.",
+        "Un diagnostic professionnel peut révéler des connexions fatiguées, des repérages erronés ou une installation vieillissante avant qu’un incident ne survienne."
+      ],
+      "cons": [
+        "Modifier seulement le disjoncteur sans étude du câblage peut créer un danger important.",
+        "Une nouvelle ligne implique des travaux et doit être adaptée aux règles applicables à l’installation.",
+        "Augmenter l’abonnement ne corrige pas un circuit de prises localement surchargé.",
+        "Multiplier les multiprises masque le besoin réel de prises ou de circuits supplémentaires."
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Choisir la réponse adaptée au type de coupure",
+      "headers": [
+        "Situation observée",
+        "Cause probable",
+        "Action pertinente"
+      ],
+      "rows": [
+        [
+          "Un disjoncteur de prises coupe quand bouilloire et radiateur fonctionnent",
+          "Surcharge locale du circuit",
+          "Échelonner les usages ; envisager un circuit supplémentaire si le besoin est durable."
+        ],
+        [
+          "La coupure générale intervient lors de plusieurs usages puissants dans différentes pièces",
+          "Puissance disponible pour l’ensemble du logement insuffisante ou gestion à revoir",
+          "Contrôler les consommations simultanées ; demander conseil sur la puissance souscrite et l’équilibrage de l’installation."
+        ],
+        [
+          "Un appareil fait couper immédiatement, même seul",
+          "Défaut de l’appareil, de son cordon ou de la prise",
+          "Ne plus l’utiliser ; essayer sur une autre prise uniquement si aucun signe de dommage, puis faire réparer ou contrôler."
+        ],
+        [
+          "Une prise chauffe sans coupure nette",
+          "Connexion dégradée ou surcharge prolongée possible",
+          "Cesser l’utilisation et demander une vérification rapide par un électricien."
+        ],
+        [
+          "Un nouveau gros appareil doit rester branché en permanence",
+          "Circuit existant inadapté ou insuffisant",
+          "Faire créer un circuit spécialisé avec protection et câblage adaptés."
+        ]
+      ],
+      "note": "Seul un professionnel peut valider le dimensionnement d’un circuit après examen de l’installation. Les travaux électriques doivent respecter les règles en vigueur."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Budget : privilégiez le bon diagnostic",
+      "html": "Pour une gêne ponctuelle, mieux répartir vos usages ne coûte rien. Une intervention ciblée de diagnostic ou l’ajout d’un circuit représentent un budget plus élevé, variable selon l’accessibilité du tableau, les passages de câbles et les finitions. C’est toutefois bien plus pertinent et sûr que de multiplier les rallonges ou de modifier soi-même les protections."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particuliers : cuisine, chauffage d’appoint, atelier et logement ancien",
+      "id": "cas-particuliers-cuisine-chauffage-d-appoint-atelier-et-loge"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>cuisine</strong> concentre plusieurs appareils à forte puissance. Même avec de nombreuses prises, l’organisation des circuits compte davantage que leur proximité. Le four, le lave-vaisselle, le réfrigérateur et la plaque peuvent relever de lignes distinctes, tandis que les appareils de plan de travail partagent des circuits de prises. Évitez donc de considérer chaque prise comme une capacité indépendante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les <strong>chauffages d’appoint</strong> sont une cause classique de surcharge : leur consommation est continue et élevée pendant qu’ils chauffent. Ils ne doivent pas être utilisés sur une rallonge légère, une multiprise encombrée ou un enrouleur laissé bobiné. Si vous avez besoin d’un tel appareil quotidiennement, la priorité est d’évaluer le chauffage principal et l’adaptation du circuit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un <strong>atelier</strong>, l’appel de courant au démarrage de certains moteurs peut s’ajouter à la puissance d’un aspirateur, d’un chauffage ou d’un compresseur. Vérifiez la puissance des machines, évitez les démarrages simultanés et faites étudier un circuit dédié si l’activité devient régulière. En logement ancien, l’absence de repérage, le faible nombre de prises et l’usure des connexions justifient une vigilance renforcée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand appeler impérativement un électricien ?",
+      "id": "quand-appeler-imperativement-un-electricien"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez gérer l’ordre d’utilisation de vos appareils, mais l’intérieur d’un tableau et le dimensionnement d’une ligne ne sont pas des travaux d’essai. Même tableau ouvert, certains éléments peuvent rester sous tension ; l’absence de courant sur une prise ne garantit pas qu’une manipulation est sans danger."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Faites intervenir sans attendre si :",
+      "items": [
+        "un disjoncteur ou un différentiel déclenche de façon répétée sans cause d’usage claire ;",
+        "vous constatez une odeur de brûlé, des étincelles, du bruit, de la fumée ou une chaleur anormale ;",
+        "une prise, une rallonge ou le tableau présente des traces de fusion, de noircissement ou de corrosion ;",
+        "vous devez modifier un calibre, ajouter une ligne, déplacer le tableau ou raccorder un appareil puissant ;",
+        "le tableau est ancien, non étiqueté, endommagé ou ne semble pas comporter les protections adaptées ;",
+        "la coupure touche une zone humide, un appareil de chauffage ou une installation extérieure."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant le rendez-vous, préparez une description utile : quel appareil était branché, quel dispositif a coupé, à quel moment, si le défaut se produit avec un appareil seul, et si une prise chauffe. Ces informations permettent à l’électricien de distinguer plus rapidement une surcharge d’un défaut d’isolement, d’un problème de connexion ou d’une puissance globale inadaptée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "À retenir pour un tableau électrique plus sûr",
+      "id": "a-retenir-pour-un-tableau-electrique-plus-sur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une installation bien utilisée ne devrait pas imposer de choisir constamment entre deux appareils ni provoquer de coupures répétées. Si cela arrive, commencez par identifier les charges simultanées, répartissez les usages et vérifiez l’état visible des prises et cordons. Lorsque le besoin est permanent, la solution durable est presque toujours une adaptation correcte des circuits, pas le contournement d’une protection."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les surcharges électriques",
+      "items": [
+        {
+          "q": "Pourquoi le disjoncteur saute-t-il alors que peu d’appareils sont branchés ?",
+          "a": "Le nombre d’appareils compte moins que leur puissance. Une bouilloire, un radiateur d’appoint et un sèche-cheveux peuvent suffire à surcharger un même circuit. Si la coupure se produit avec un seul petit appareil, recherchez plutôt un défaut de l’appareil, de son cordon ou de la prise."
+        },
+        {
+          "q": "Puis-je remettre le disjoncteur après une surcharge ?",
+          "a": "Oui, après avoir arrêté ou débranché les appareils susceptibles de surcharger le circuit et après avoir vérifié l’absence d’odeur, de chaleur ou de dommage visible. Réenclenchez-le une seule fois. S’il recoupe immédiatement ou de manière répétée, laissez-le arrêté et faites contrôler l’installation."
+        },
+        {
+          "q": "Une multiprise protège-t-elle contre la surcharge ?",
+          "a": "Non. Une multiprise ajoute des points de branchement, mais elle ne crée aucune capacité électrique supplémentaire. Certaines disposent d’un interrupteur ou d’une protection intégrée, mais cela ne remplace pas la protection correcte du circuit mural et ne permet pas de cumuler des appareils puissants sans limite."
+        },
+        {
+          "q": "Est-il dangereux d’utiliser une rallonge avec un radiateur d’appoint ?",
+          "a": "Cela peut l’être, surtout avec une rallonge fine, abîmée, enroulée ou associée à une multiprise. Un radiateur d’appoint demande une puissance élevée et prolongée. Branchez-le de préférence directement sur une prise murale en bon état et évitez tout cumul important sur le même circuit."
+        },
+        {
+          "q": "Augmenter la puissance de mon abonnement empêchera-t-il une prise de disjoncter ?",
+          "a": "Pas nécessairement. Une puissance souscrite plus élevée peut aider si la coupure concerne l’alimentation générale du logement lors d’usages simultanés dans plusieurs circuits. Elle ne résout pas la surcharge d’un circuit local protégé par son propre disjoncteur : celui-ci doit rester adapté aux câbles qu’il protège."
+        },
+        {
+          "q": "Comment savoir quelles prises dépendent du même disjoncteur ?",
+          "a": "Consultez d’abord les étiquettes du tableau. Si elles sont absentes ou imprécises, vous pouvez effectuer un repérage en coupant un disjoncteur à la fois, sans ouvrir le tableau, et en notant les prises et éclairages concernés. Pour une installation complexe, ancienne ou douteuse, demandez un repérage à un électricien."
+        }
+      ]
+    }
+  ]
+}
