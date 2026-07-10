@@ -20,7 +20,7 @@ const d = article.data;
 const cat = getCategory(d.category);
 const img = mediaSrc(d.image.id);
 const img800 = mediaSrc(d.image.id, 800);
-const canonical = new URL(d.path, SITE.url).href;
+const canonical = new URL(articleUrl(article), SITE.url).href;
 const ogImg = img ? new URL(img, SITE.url).href : undefined;
 
 const toc = d.blocks

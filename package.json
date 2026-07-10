@@ -16,7 +16,8 @@
     "ai:batch:submit": "node scripts/submit-batch.mjs",
     "ai:batch:poll": "node scripts/poll-batch.mjs",
     "ai:batch:ingest": "node scripts/ingest-batch.mjs",
-    "ai:image": "node scripts/gen-image.mjs"
+    "ai:image": "node scripts/gen-image.mjs",
+    "cf:dns": "node scripts/setup-dns.mjs"
   },
   "dependencies": {
     "astro": "^5.6.1",

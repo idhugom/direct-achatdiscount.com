@@ -2,8 +2,17 @@ import type { CollectionEntry } from 'astro:content';
 
 export type Article = CollectionEntry<'articles'>;
 
-/** URL d'un article — conserve le chemin WordPress /divers/<slug>.html */
+/** URL d'un article. Cloudflare Pages sert les fichiers .html en URL propre
+ *  (/divers/<slug>) et redirige l'ancienne URL WordPress .html (308 permanent)
+ *  vers celle-ci. Le slug reste 100 % identique ; on utilise l'URL propre comme
+ *  canonique pour éviter tout conflit avec cette redirection. */
 export function articleUrl(a: Article): string {
+  const p = a.data.path || `/divers/${a.data.slug}.html`;
+  return p.replace(/\.html$/, '');
+}
+
+/** URL WordPress d'origine (avec .html), conservée pour référence. */
+export function legacyUrl(a: Article): string {
   return a.data.path || `/divers/${a.data.slug}.html`;
 }
 

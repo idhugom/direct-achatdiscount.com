@@ -21,6 +21,11 @@ export default defineConfig({
     sitemap({
       changefreq: 'weekly',
       priority: 0.7,
+      // Cloudflare Pages sert les .html en URL propre : on liste les URLs propres.
+      serialize(item) {
+        item.url = item.url.replace(/\.html(\/)?$/, '$1');
+        return item;
+      },
     }),
   ],
   image: {
