@@ -1,0 +1,465 @@
+{
+  "title": "Vélo électrique : bien choisir son vélo électrique",
+  "slug": "velo-electrique-bien-choisir-son-velo-electrique",
+  "path": "/divers/velo-electrique-bien-choisir-son-velo-electrique.html",
+  "category": "auto-moto",
+  "tags": [
+    "vélo électrique",
+    "vae",
+    "batterie vélo",
+    "moteur vélo",
+    "mobilité urbaine",
+    "vélo cargo"
+  ],
+  "excerpt": "Le bon vélo électrique dépend d’abord de vos trajets, de votre position et de la qualité de sa batterie. Voici les critères pour acheter sans vous tromper.",
+  "metaDescription": "Autonomie, moteur, batterie, confort, budget et entretien : tous les critères utiles pour choisir un vélo électrique vraiment adapté à vos trajets.",
+  "seoTitle": "Vélo électrique : bien choisir votre VAE",
+  "heroKicker": "Le bon VAE",
+  "readingTime": 13,
+  "date": "2017-03-20T17:48:54",
+  "image": {
+    "id": "409",
+    "alt": "Vélo électrique : bien choisir son vélo électrique",
+    "width": 458,
+    "height": 458
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un vélo électrique peut remplacer une grande partie des trajets quotidiens, à condition de ne pas le choisir uniquement sur son autonomie annoncée ou son prix. Usage réel, position de conduite, emplacement du moteur, capacité de batterie, poids et qualité des composants déterminent autant votre confort que la durée de vie de votre achat."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel avant d’acheter",
+      "items": [
+        "Choisissez d’abord selon vos <strong>trajets les plus fréquents</strong> : ville plate, côtes, longues distances, transport d’un enfant ou sorties sur chemins ne demandent pas le même VAE.",
+        "Pour un usage quotidien, privilégiez une batterie amovible, des freins fiables, des garde-boue, un éclairage fixe et une position confortable plutôt qu’une fiche technique spectaculaire.",
+        "L’autonomie réelle dépend du relief, du vent, du poids embarqué, de votre effort et du niveau d’assistance : ne raisonnez jamais sur un seul chiffre annoncé.",
+        "Essayez le vélo avant de signer : la taille du cadre, la selle, la maniabilité à l’arrêt et la sensation de l’assistance ne se jugent pas sur internet.",
+        "Gardez une part du budget pour l’antivol, le casque, l’équipement de pluie, l’entretien et, si besoin, une assurance contre le vol."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencez par définir votre usage, pas par comparer les fiches techniques",
+      "id": "commencez-par-definir-votre-usage-pas-par-comparer-les-fiche"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme <strong>vélo électrique</strong>, ou VAE pour vélo à assistance électrique, recouvre des machines très différentes. L’assistance ne remplace pas le pédalage : elle l’accompagne et rend l’effort plus facile. En France et dans la plupart des usages courants, un VAE homologué délivre une assistance lorsque vous pédalez, avec une puissance nominale limitée à <strong>250 W</strong>, et coupe cette assistance à <strong>25 km/h</strong>. Au-delà, un vélo plus rapide peut relever d’une autre réglementation, avec des obligations proches de celles d’un cyclomoteur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant toute comparaison, notez la distance aller-retour, le dénivelé, la qualité des routes, les possibilités de stationnement et de recharge, ainsi que ce que vous transportez. Un trajet de 8 km en ville avec ascenseur n’a rien à voir avec 25 km vallonnés, un vélo porté dans un escalier ou des courses à ramener chaque semaine. Cette étape évite deux erreurs coûteuses : acheter un VAE surdimensionné, lourd et peu maniable, ou au contraire une batterie et une motorisation insuffisantes pour vos contraintes."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "250 W",
+          "label": "puissance nominale maximale d’un VAE classique homologué"
+        },
+        {
+          "value": "25 km/h",
+          "label": "vitesse à laquelle l’assistance réglementaire se coupe"
+        },
+        {
+          "value": "400 à 750 Wh",
+          "label": "capacité courante d’une batterie pour un usage régulier"
+        },
+        {
+          "value": "20 à 30 kg",
+          "label": "ordre de grandeur fréquent pour un VAE équipé"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quel type de vélo électrique pour quel trajet ?",
+      "id": "quel-type-de-velo-electrique-pour-quel-trajet"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>vélo de ville électrique</strong> privilégie la position droite, les équipements pratiques et la simplicité ; il convient aux déplacements urbains et aux trajets domicile-travail modérés. Le <strong>VTC électrique</strong> est le choix le plus polyvalent : pneus plus confortables, posture intermédiaire et aisance sur route, voies vertes et chemins roulants. Le <strong>VTT électrique</strong> est conçu pour les terrains accidentés ; ses suspensions, ses pneus et sa géométrie sont rarement nécessaires en ville et ajoutent souvent poids, entretien et coût. Le vélo pliant facilite les trajets combinés avec train ou petit logement, tandis que le vélo cargo répond au transport régulier d’enfants, de matériel ou de courses."
+    },
+    {
+      "type": "table",
+      "caption": "Associer le type de VAE à son besoin principal",
+      "headers": [
+        "Usage principal",
+        "Type de VAE pertinent",
+        "À privilégier",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Ville, trajets quotidiens courts à moyens",
+          "Vélo de ville ou VTC",
+          "Garde-boue, porte-bagages, éclairage, position droite",
+          "Poids si vous devez monter des escaliers"
+        ],
+        [
+          "Domicile-travail vallonné ou longue distance",
+          "VTC avec moteur central",
+          "Batterie adaptée, freins à disque, transmission fiable",
+          "Autonomie réduite par les côtes et l’assistance élevée"
+        ],
+        [
+          "Chemins, sentiers, relief marqué",
+          "VTT électrique",
+          "Couple moteur, pneus adaptés, suspension cohérente",
+          "Entretien plus important et équipement moins urbain"
+        ],
+        [
+          "Train, camping-car, logement exigu",
+          "Vélo pliant électrique",
+          "Pliage simple, volume fermé, portage réel",
+          "Petites roues et confort limité sur mauvais revêtement"
+        ],
+        [
+          "Enfants, charges volumineuses, activité professionnelle",
+          "Vélo cargo électrique",
+          "Freinage puissant, stabilité, charge homologuée",
+          "Encombrement, stockage et prise en main"
+        ]
+      ],
+      "note": "Un vélo polyvalent est souvent le meilleur choix, mais seulement s’il répond correctement à votre usage majoritaire."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La règle des 80 %",
+      "html": "Choisissez le VAE pour les trajets que vous ferez <strong>le plus souvent</strong>, pas pour la sortie exceptionnelle. Un VTC bien équipé sera généralement plus agréable au quotidien qu’un VTT lourd acheté pour un chemin emprunté deux fois par an."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Taille, cadre et position : les critères qui décident du plaisir d’usage",
+      "id": "taille-cadre-et-position-les-criteres-qui-decident-du-plaisi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un excellent moteur ne compensera jamais une mauvaise position. Le cadre doit correspondre à votre taille, mais aussi à votre souplesse et à votre façon de rouler. Un cadre ouvert, souvent appelé col de cygne ou trapèze, facilite les montées et descentes fréquentes, avec une jupe, un enfant à l’arrière ou des bagages. Un cadre fermé est habituellement plus rigide et peut convenir à une pratique dynamique. Vérifiez aussi la hauteur d’enjambement : sur un vélo chargé ou à l’arrêt dans la circulation, pouvoir poser facilement un pied au sol est rassurant."
+    },
+    {
+      "type": "paragraph",
+      "html": "La position droite offre une excellente visibilité et soulage souvent poignets, nuque et dos lors des trajets urbains. Une position plus inclinée est plus efficace face au vent et sur longue distance, mais elle demande davantage d’adaptation. Regardez la possibilité de régler la potence, le guidon et la selle. La selle elle-même est importante, mais une selle très large n’est pas automatiquement plus confortable : elle doit surtout convenir à votre position et à la durée de vos trajets."
+    },
+    {
+      "type": "comparison",
+      "title": "Vélo de ville électrique ou VTC électrique ?",
+      "left": {
+        "title": "Vélo de ville électrique",
+        "points": [
+          "Position très droite et rassurante dans la circulation.",
+          "Souvent livré avec porte-bagages, carter, garde-boue et éclairage.",
+          "Très pertinent pour les courses, les petits trajets et les rues aménagées.",
+          "Moins à l’aise si vos parcours comportent de longues portions rapides, de fortes côtes ou des chemins dégradés."
+        ]
+      },
+      "right": {
+        "title": "VTC électrique",
+        "points": [
+          "Position intermédiaire, confortable sans être passive.",
+          "Plus polyvalent sur route, voies vertes et chemins stabilisés.",
+          "Pneus et transmission généralement mieux adaptés aux trajets variés.",
+          "Équipement urbain parfois à ajouter ou à vérifier selon la version."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Moteur : position, capteurs et couple comptent davantage que la puissance affichée",
+      "id": "moteur-position-capteurs-et-couple-comptent-davantage-que-la"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un VAE réglementaire, la puissance nominale ne permet pas à elle seule de distinguer les performances. Ce qui influence votre sensation de poussée dans les côtes, c’est notamment le <strong>couple</strong>, exprimé en newton-mètres, la qualité du logiciel d’assistance, le poids du vélo et les rapports de transmission. Pour une ville plate, une assistance douce et progressive peut suffire. Si vous habitez dans une zone vallonnée, roulez chargé ou tractez une remorque, recherchez une assistance suffisamment réactive et testez-la impérativement en montée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Moteur central ou moteur dans la roue ?",
+      "id": "moteur-central-ou-moteur-dans-la-roue"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le moteur central est placé au pédalier. Il exploite les vitesses du vélo, répartit mieux les masses et donne généralement une assistance naturelle, particulièrement utile dans les côtes. Le moteur placé dans le moyeu d’une roue, souvent arrière, peut être plus simple et plus accessible sur certains modèles urbains. Son comportement peut être très satisfaisant sur terrain peu vallonné, mais la motricité, l’équilibre et la facilité de maintenance dépendent alors fortement de la conception globale du vélo."
+    },
+    {
+      "type": "proscons",
+      "title": "Moteur central : les principaux arbitrages",
+      "pros": [
+        "Répartition du poids plus centrale et vélo souvent plus équilibré.",
+        "Très bon comportement dans les côtes grâce à l’utilisation de la transmission.",
+        "Assistance généralement fine et naturelle avec un capteur de couple.",
+        "Solution fréquente sur les VAE destinés à un usage intensif ou polyvalent."
+      ],
+      "cons": [
+        "Prix d’achat souvent plus élevé à équipement comparable.",
+        "Usure de chaîne, cassette ou courroie à surveiller, car la transmission travaille davantage.",
+        "Réparation pouvant exiger un atelier qualifié et des pièces spécifiques.",
+        "Le meilleur choix reste dépendant de la qualité globale du vélo, pas de la seule position du moteur."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Batterie et autonomie : calculez votre marge réelle",
+      "id": "batterie-et-autonomie-calculez-votre-marge-reelle"
+    },
+    {
+      "type": "paragraph",
+      "html": "La capacité de la batterie s’exprime en wattheures, notés Wh. Plus ce chiffre est élevé, plus la réserve d’énergie est importante, mais l’autonomie ne se déduit pas mécaniquement d’une capacité. Un cycliste léger sur parcours plat, roulant avec une assistance modérée, consommera bien moins qu’un vélo cargo chargé dans des côtes, face au vent et en mode maximal. Le froid diminue aussi temporairement les performances, tandis que des pneus sous-gonflés et une transmission encrassée augmentent la consommation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour choisir, partez de votre distance quotidienne totale et prévoyez une marge confortable. Si vous rechargez chaque nuit au domicile, une capacité moyenne peut être suffisante pour des déplacements urbains. Si vous ne pouvez recharger qu’occasionnellement, si vous avez un long aller-retour ou si vous voulez éviter de solliciter sans cesse la batterie, une capacité supérieure apporte de la sérénité. Une batterie amovible est un avantage majeur si votre local vélo n’a pas de prise électrique ou si vous devez la protéger du froid et de la chaleur."
+    },
+    {
+      "type": "table",
+      "caption": "Lire une fiche batterie sans se tromper",
+      "headers": [
+        "Élément à vérifier",
+        "Pourquoi c’est important",
+        "Bon réflexe"
+      ],
+      "rows": [
+        [
+          "Capacité en Wh",
+          "Elle donne la quantité d’énergie disponible, pas une autonomie garantie.",
+          "Comparez les Wh à usage et poids de vélo équivalents."
+        ],
+        [
+          "Batterie amovible",
+          "Elle facilite recharge, stockage et remplacement éventuel.",
+          "Testez le verrouillage et le poids de la batterie."
+        ],
+        [
+          "Autonomie annoncée",
+          "Elle est mesurée dans des conditions favorables et variables.",
+          "Retenez une plage réaliste, avec une marge pour l’hiver et les côtes."
+        ],
+        [
+          "Temps de recharge",
+          "Il conditionne l’organisation quotidienne, surtout avec une seule batterie.",
+          "Vérifiez si le chargeur est transportable et compatible avec votre lieu de travail."
+        ],
+        [
+          "Disponibilité de remplacement",
+          "Une batterie est une pièce d’usure qui doit pouvoir être remplacée.",
+          "Demandez la durée de disponibilité des pièces et les conditions de diagnostic."
+        ]
+      ],
+      "note": "N’utilisez que le chargeur prévu pour votre batterie et évitez les accessoires électriques de provenance incertaine."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les bonnes pratiques pour préserver une batterie",
+      "items": [
+        "Rechargez-la dans un endroit sec, tempéré et ventilé, loin d’une source de chaleur ou de matières inflammables.",
+        "Évitez de la laisser durablement complètement vide ; pour un stockage prolongé, conservez plutôt une charge intermédiaire selon les recommandations du fabricant.",
+        "Retirez-la du vélo lors de fortes chaleurs, de gel prolongé ou si le vélo dort dehors.",
+        "Ne nettoyez jamais la batterie ou les connecteurs au jet haute pression.",
+        "Protégez les bornes de la saleté et signalez immédiatement un choc, une déformation, une odeur inhabituelle ou un échauffement anormal."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour un vélo électrique fiable ?",
+      "id": "quel-budget-prevoir-pour-un-velo-electrique-fiable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix d’un VAE reflète en partie la batterie et le moteur, mais aussi la qualité du cadre, des freins, des roues, de la transmission, de l’éclairage et du réseau de service. Les modèles d’entrée de gamme, souvent autour de <strong>quelques centaines d’euros à environ 1 500 €</strong>, peuvent convenir à un usage occasionnel et peu exigeant si le suivi est réel. Pour un vélo de ville ou un VTC utilisé régulièrement, un budget se situant fréquemment entre <strong>environ 1 500 et 3 000 €</strong> ouvre l’accès à des composants plus cohérents et à une meilleure réparabilité. Les modèles premium, les cargos et les vélos très spécialisés dépassent largement ce niveau."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget pour raisonner globalement",
+      "headers": [
+        "Niveau de budget",
+        "Ce que l’on peut attendre",
+        "Pour quel usage",
+        "Vigilance prioritaire"
+      ],
+      "rows": [
+        [
+          "Entrée de gamme",
+          "Équipement simple, autonomie et service variables",
+          "Usage occasionnel, petits parcours plats",
+          "Origine de la batterie, freinage, disponibilité des pièces"
+        ],
+        [
+          "Milieu de gamme",
+          "Ensemble plus équilibré, composants souvent durables",
+          "Domicile-travail régulier, ville vallonnée, VTC polyvalent",
+          "Essai, taille, garanties et qualité du montage"
+        ],
+        [
+          "Haut de gamme et spécialisé",
+          "Finition poussée, motorisation ou équipement spécifique",
+          "Usage intensif, cargo, longues distances, pratique sportive",
+          "Ne payez pas des fonctions inutiles pour votre usage"
+        ],
+        [
+          "Occasion reconditionnée",
+          "Prix plus accessible avec contrôle possible",
+          "Budget contraint et achat auprès d’un professionnel",
+          "État et diagnostic de batterie, facture, garantie, pièces"
+        ]
+      ],
+      "note": "Ces fourchettes sont des ordres de grandeur : les équipements, le réseau de réparation et le type de vélo font fortement varier le prix."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "N’oubliez pas le coût d’équipement",
+      "html": "Réservez un budget pour un <strong>antivol sérieux</strong>, idéalement complété par un second point d’attache, ainsi que pour un casque, des sacoches, des vêtements de pluie et l’entretien. Pour un VAE, ces dépenses sont rarement accessoires : elles conditionnent la sécurité, la praticité et le risque de vol."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Freins, transmission et équipements : ne sacrifiez pas la sécurité",
+      "id": "freins-transmission-et-equipements-ne-sacrifiez-pas-la-secur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un VAE roule plus vite et pèse davantage qu’un vélo classique : son freinage mérite une attention particulière. Des freins à disque bien dimensionnés sont souvent rassurants, notamment sous la pluie, en descente, avec un enfant ou une charge. Leur qualité, le diamètre des disques et le réglage comptent autant que leur technologie. Faites un essai en freinant progressivement puis plus fermement, sans oublier de vérifier la stabilité du vélo chargé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté transmission, les dérailleurs proposent un large choix de vitesses et sont faciles à connaître pour beaucoup de cyclistes, mais demandent nettoyage et réglages. Les vitesses intégrées au moyeu réduisent l’entretien courant et permettent parfois de changer de rapport à l’arrêt, un atout en ville. Une transmission par courroie peut être très propre et durable, mais implique une conception compatible et des composants spécifiques. Aucun système n’est universel : la disponibilité des pièces et l’atelier capable de l’entretenir ont une vraie valeur."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Équipements à vérifier sur un VAE de tous les jours",
+      "items": [
+        "Éclairage avant et arrière fixe, idéalement alimenté par la batterie et visible de côté.",
+        "Garde-boue couvrants : indispensables dès que vous roulez par temps humide.",
+        "Porte-bagages compatible avec vos sacoches, votre siège enfant ou votre charge prévue.",
+        "Béquille stable, surtout sur un vélo lourd ou chargé.",
+        "Pneus renforcés ou adaptés à votre terrain, avec pression de gonflage accessible.",
+        "Écran lisible, commandes atteignables sans lâcher longtemps le guidon et assistance progressive.",
+        "Antivol de cadre éventuel, mais jamais comme seule protection contre le vol."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réussir l’essai en magasin et acheter au bon endroit",
+      "id": "reussir-l-essai-en-magasin-et-acheter-au-bon-endroit"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un essai de quelques minutes révèle déjà beaucoup. Demandez à rouler avec le niveau d’assistance que vous utiliserez le plus, à effectuer plusieurs démarrages, à négocier un virage serré et, si possible, une côte. Portez vos chaussures habituelles. Si vous prévoyez des sacoches, un siège enfant ou une remorque, faites-vous préciser les compatibilités et les limites de charge homologuées. Un vélo impeccable à vide peut devenir instable ou peu pratique une fois équipé."
+    },
+    {
+      "type": "steps",
+      "title": "Les 5 vérifications avant de commander",
+      "items": [
+        {
+          "title": "Contrôlez la taille et l’enjambement",
+          "text": "Montez, descendez et arrêtez-vous plusieurs fois. Vous devez vous sentir stable et ne pas vous étirer pour atteindre le guidon."
+        },
+        {
+          "title": "Testez l’assistance à basse vitesse",
+          "text": "Elle doit démarrer sans à-coup, rester prévisible dans un virage et vous aider au redémarrage après un feu rouge."
+        },
+        {
+          "title": "Essayez le freinage",
+          "text": "Vérifiez la puissance, la progressivité et l’absence de bruit ou de vibration inhabituelle sur le vélo d’essai."
+        },
+        {
+          "title": "Demandez les conditions de service",
+          "text": "Renseignez-vous sur la garantie du cadre, du moteur et de la batterie, la disponibilité des pièces et le délai d’intervention de l’atelier."
+        },
+        {
+          "title": "Vérifiez le quotidien",
+          "text": "Soulevez légèrement le vélo, manipulez la batterie, déployez la béquille et imaginez concrètement son stationnement et sa recharge."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretien, stockage et protection contre le vol",
+      "id": "entretien-stockage-et-protection-contre-le-vol"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entretien d’un VAE reste proche de celui d’un vélo classique : contrôlez régulièrement la pression des pneus, le serrage des éléments visibles, l’usure des plaquettes et l’état de la chaîne ou de la courroie. Un VAE use souvent plus vite pneus, plaquettes et transmission en raison de sa masse, de sa vitesse moyenne et de l’effort transmis. Nettoyez-le avec une éponge, une brosse douce et un chiffon ; évitez le nettoyeur haute pression qui peut faire pénétrer l’eau dans les roulements, connecteurs et composants sensibles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour le stationnement, attachez le cadre à un point fixe solide avec un antivol homologué et adapté à la valeur du vélo. Si possible, ajoutez un second antivol pour sécuriser une roue. Retirez l’écran et la batterie lorsqu’ils sont amovibles, sans les laisser visibles dans une voiture. Notez le numéro de série, conservez facture et photos, et faites marquer le vélo conformément aux dispositifs d’identification applicables. Vérifiez également les conditions de votre assurance habitation ou d’une assurance dédiée : elles peuvent imposer un type d’antivol et des preuves d’achat."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux achats trop opaques",
+      "html": "Un VAE très bon marché sans atelier identifié, sans référence claire de batterie ni pièces disponibles peut coûter cher à réparer. Avant un achat en ligne, assurez-vous qu’un professionnel peut intervenir sur le moteur, la batterie, le logiciel et les pièces d’usure du modèle visé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Neuf, occasion, conversion : quelles alternatives au VAE neuf ?",
+      "id": "neuf-occasion-conversion-quelles-alternatives-au-vae-neuf"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un vélo électrique reconditionné par un professionnel peut être une excellente option si la batterie a été contrôlée, si l’état de la transmission et des freins est documenté et si une garantie est proposée. Entre particuliers, demandez la facture, le chargeur d’origine, le nombre de clés, le numéro de série et les conditions de stockage. Une batterie ancienne ou mal traitée peut transformer une bonne affaire en dépense imprévue. Méfiez-vous d’un vélo sans provenance claire, d’un prix anormalement bas ou d’un vendeur incapable d’expliquer l’historique de l’entretien."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le kit de conversion peut aussi sembler séduisant pour électrifier un vélo existant. Il est pertinent uniquement si le cadre, les roues, les freins et la transmission sont en bon état et adaptés à la masse supplémentaire. Il faut vérifier la compatibilité électrique, la sécurité du montage, la réglementation et la possibilité de faire entretenir l’ensemble. Pour beaucoup d’usages quotidiens, un VAE conçu d’origine reste plus cohérent, mieux équilibré et plus facile à assurer ou à réparer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le verdict : le meilleur vélo électrique est celui que vous utiliserez vraiment",
+      "id": "le-verdict-le-meilleur-velo-electrique-est-celui-que-vous-ut"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la majorité des acheteurs, un <strong>VTC électrique bien équipé</strong>, à la bonne taille, avec batterie amovible, freins efficaces et réseau d’entretien accessible constitue le compromis le plus sûr. Orientez-vous vers un vélo de ville si vos parcours sont purement urbains et si le confort prime ; vers un cargo si le transport de charges est régulier ; vers un VTT électrique seulement si vous roulez réellement hors des routes. Enfin, privilégiez toujours la cohérence d’ensemble : un VAE légèrement moins spectaculaire sur le papier, mais confortable, réparable et bien adapté à vos trajets, sera le meilleur investissement."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le choix d’un vélo électrique",
+      "items": [
+        {
+          "q": "Quelle autonomie faut-il choisir pour un vélo électrique ?",
+          "a": "Calculez votre plus long trajet habituel aller-retour, puis prévoyez une marge pour le froid, les côtes, le vent et la baisse progressive de capacité de la batterie. Pour des déplacements urbains rechargés chaque nuit, une capacité intermédiaire peut suffire. Pour des trajets longs, vallonnés ou sans recharge quotidienne, une batterie plus généreuse est plus confortable."
+        },
+        {
+          "q": "Un moteur central est-il indispensable sur un VAE ?",
+          "a": "Non. Un moteur dans le moyeu peut très bien convenir à la ville et aux parcours plats. Le moteur central devient particulièrement intéressant si vous roulez souvent en côte, avec des charges, sur longue distance ou si vous recherchez une assistance très naturelle. La qualité du système complet, du vélo et du service après-vente reste plus importante que ce seul critère."
+        },
+        {
+          "q": "Quel poids de vélo électrique peut-on manipuler facilement ?",
+          "a": "Cela dépend surtout de votre situation : un VAE d’environ 20 à 30 kg peut être facile à rouler, mais difficile à porter dans un escalier. Si vous devez le soulever régulièrement, essayez-le dans des conditions proches de votre quotidien et considérez le poids de la batterie séparément. Ne sous-estimez pas ce point."
+        },
+        {
+          "q": "Peut-on rouler sous la pluie avec un vélo électrique ?",
+          "a": "Oui, un VAE prévu pour l’usage courant peut rouler sous la pluie. Évitez toutefois l’immersion, le nettoyage au jet haute pression et le stockage prolongé dehors sans protection. Séchez les connecteurs si nécessaire, entretenez la transmission et contrôlez plus souvent les freins, car l’eau et la saleté accélèrent l’usure."
+        },
+        {
+          "q": "Vaut-il mieux acheter un vélo électrique en magasin ou en ligne ?",
+          "a": "Un magasin facilite l’essai, le choix de taille, les réglages et le suivi d’entretien. L’achat en ligne peut être intéressant si vous connaissez précisément le modèle, mais vérifiez avant de commander les conditions de retour, le montage, la disponibilité des pièces et l’existence d’un réparateur compétent près de chez vous. Pour un premier VAE, l’accompagnement d’un atelier est souvent précieux."
+        },
+        {
+          "q": "Quelle est la différence entre un VAE et un speed bike ?",
+          "a": "Un VAE classique assiste le pédalage jusqu’à 25 km/h dans le cadre réglementaire habituel. Un modèle qui assiste au-delà relève généralement d’une catégorie différente, avec des règles spécifiques pouvant concerner l’immatriculation, l’assurance, le casque et les voies autorisées. Vérifiez toujours le statut exact du véhicule avant l’achat."
+        }
+      ]
+    }
+  ]
+}

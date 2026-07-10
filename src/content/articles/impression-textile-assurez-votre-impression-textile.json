@@ -1,0 +1,432 @@
+{
+  "title": "Impression textile : assurez votre impression textile",
+  "slug": "impression-textile-assurez-votre-impression-textile",
+  "path": "/divers/impression-textile-assurez-votre-impression-textile.html",
+  "category": "mode",
+  "tags": [
+    "impression textile",
+    "personnalisation textile",
+    "dtf",
+    "sérigraphie",
+    "sublimation",
+    "flocage"
+  ],
+  "excerpt": "Techniques, fichiers, textiles, budget et entretien : les repères concrets pour obtenir une impression textile fidèle, nette et résistante.",
+  "metaDescription": "Impression textile : choisissez la bonne technique, préparez vos fichiers et vérifiez la tenue au lavage pour un résultat durable et net.",
+  "seoTitle": "Impression textile : réussir un marquage durable",
+  "heroKicker": "Marquage sans erreur",
+  "readingTime": 12,
+  "date": "2017-06-27T12:27:38",
+  "image": {
+    "id": "358",
+    "alt": "Impression textile : assurez votre impression textile",
+    "width": 1504,
+    "height": 1004
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un beau visuel ne suffit pas à garantir une bonne impression textile. Entre la nature du tissu, la couleur du vêtement, le volume de la commande et l’usage prévu, le mauvais procédé peut produire un rendu terne, rigide ou fragile. Voici comment choisir et sécuriser votre projet, qu’il s’agisse d’un t-shirt unique, de vêtements d’équipe ou d’une série destinée à la vente."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le <strong>tissu</strong>, sa couleur et le nombre d’exemplaires comptent autant que votre visuel dans le choix de la technique.",
+        "La sérigraphie devient particulièrement pertinente pour les séries homogènes ; le DTF est très souple pour les petites quantités et les motifs complexes.",
+        "Un fichier vectoriel ou une image haute définition, préparé à la bonne taille, limite les contours flous et les mauvaises surprises.",
+        "Demandez toujours une validation du visuel, des indications d’entretien et, pour un projet important, un échantillon ou un test sur le textile réel.",
+        "La durabilité dépend du procédé, mais aussi du respect des consignes de lavage, du pressage et de la qualité du vêtement support."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce qu’implique réellement une impression textile",
+      "id": "ce-qu-implique-reellement-une-impression-textile"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’impression textile consiste à fixer un motif, un logo, un texte ou une photographie sur un vêtement ou un accessoire : t-shirt, sweat, tote bag, casquette, tenue professionnelle, maillot ou linge de maison. L’objectif n’est pas seulement d’obtenir des couleurs correctes à la réception. Le marquage doit aussi rester lisible après les lavages, conserver sa souplesse et convenir à l’usage du produit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de comparer les techniques, définissez précisément votre besoin. Un logo monochrome sur 200 t-shirts en coton n’appelle pas la même réponse qu’une illustration multicolore sur cinq sweats foncés. De même, un motif destiné à une tenue de travail exposée aux frottements exige une résistance différente d’un visuel porté occasionnellement lors d’un événement."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 à 10 pièces",
+          "label": "Le DTF, le transfert et l’impression directe répondent généralement bien aux petites séries."
+        },
+        {
+          "value": "20 à 100 pièces",
+          "label": "Le choix dépend surtout du nombre de couleurs, du textile et du niveau de finition attendu."
+        },
+        {
+          "value": "100+ pièces",
+          "label": "La sérigraphie mérite souvent d’être chiffrée grâce à son coût de préparation amorti."
+        },
+        {
+          "value": "30 °C",
+          "label": "C’est un repère de lavage prudent pour préserver la majorité des marquages, sauf consigne contraire."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon ordre de décision",
+      "html": "Ne choisissez pas une technique parce qu’elle est à la mode ou parce qu’elle semble la moins chère à l’unité. Décidez d’abord du <strong>textile</strong>, de la <strong>quantité</strong>, du <strong>visuel</strong> et de l’<strong>usage</strong> ; le procédé en découlera beaucoup plus naturellement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir la technique adaptée à votre projet",
+      "id": "choisir-la-technique-adaptee-a-votre-projet"
+    },
+    {
+      "type": "paragraph",
+      "html": "Aucune solution n’est universellement supérieure. Chaque procédé arbitre entre finesse des détails, toucher, vitesse de production, compatibilité avec les fibres, résistance et coût de lancement. L’imprimeur sérieux doit pouvoir expliquer pourquoi une méthode est préférable dans votre cas, plutôt que de vous orienter systématiquement vers le seul équipement qu’il possède."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales techniques d’impression textile en un coup d’œil",
+      "headers": [
+        "Technique",
+        "Textiles et visuels adaptés",
+        "Points forts",
+        "Points de vigilance",
+        "Volume le plus cohérent"
+      ],
+      "rows": [
+        [
+          "Sérigraphie",
+          "Coton, mélanges, nombreux textiles ; logos et aplats",
+          "Couleurs franches, excellente tenue, toucher souvent discret",
+          "Préparation d’écrans ; peu rentable pour un modèle très variable",
+          "Séries moyennes à grandes"
+        ],
+        [
+          "DTF",
+          "Coton, polyester et mélanges ; logos détaillés, dégradés, photos",
+          "Très polyvalent, blanc possible sur textile foncé, adapté aux petites séries",
+          "Film perceptible au toucher ; qualité très variable selon les consommables et le pressage",
+          "De l’unité aux petites et moyennes séries"
+        ],
+        [
+          "Impression directe sur textile (DTG)",
+          "Surtout coton et mélanges riches en coton ; illustrations complexes",
+          "Rendu fin, impression intégrée au tissu sur supports adaptés",
+          "Prétraitement nécessaire, résultat plus délicat sur certains tissus foncés ou synthétiques",
+          "Petites séries et créations détaillées"
+        ],
+        [
+          "Sublimation",
+          "Polyester clair ou blanc, articles revêtus adaptés",
+          "Aucun relief, excellente intégration, couleurs lumineuses",
+          "Incompatible avec le coton et les textiles foncés ; le blanc ne s’imprime pas",
+          "Petites à moyennes séries"
+        ],
+        [
+          "Flex ou vinyle découpé",
+          "Textes, numéros, formes simples",
+          "Très net, utile pour personnaliser des noms ou des numéros",
+          "Peu adapté aux grands visuels et aux détails fins ; aspect plus couvrant",
+          "Unités et petites séries"
+        ],
+        [
+          "Transfert papier ou laser",
+          "Dépannage, visuels simples selon le support",
+          "Accessible et rapide dans certains cas",
+          "Durabilité et toucher souvent moins convaincants ; à réserver à un besoin bien cadré",
+          "Très petites quantités"
+        ]
+      ],
+      "note": "Les résultats varient avec la composition exacte du vêtement, l’encre, le film, le réglage de presse et le savoir-faire de l’atelier."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sérigraphie : la référence des séries régulières",
+      "id": "serigraphie-la-reference-des-series-regulieres"
+    },
+    {
+      "type": "paragraph",
+      "html": "La sérigraphie dépose l’encre à travers un écran préparé pour chaque couleur. Elle est particulièrement intéressante lorsqu’un même motif doit être répété sur de nombreux articles. Sur un bon support, elle offre des aplats solides et une très bonne résistance. En revanche, les frais de préparation et les changements de couleur pèsent davantage sur une petite commande. Les dégradés et les photographies sont possibles avec des réglages avancés, mais ils demandent une préparation plus technique qu’un simple logo vectoriel."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "DTF et impression directe : deux réponses aux visuels détaillés",
+      "id": "dtf-et-impression-directe-deux-reponses-aux-visuels-detaille"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le DTF consiste à imprimer le motif sur un film, à l’encoller avec une poudre puis à le transférer à chaud. Il est prisé pour sa compatibilité avec de nombreux textiles, y compris les supports foncés et synthétiques. L’impression directe sur textile, souvent appelée DTG, projette au contraire l’encre directement sur le vêtement. Sur un coton de qualité, elle donne volontiers un rendu plus fondu et respirant, surtout pour les illustrations riches en nuances. Le DTG est toutefois plus dépendant de la préparation du tissu et de sa teneur en fibres naturelles."
+    },
+    {
+      "type": "comparison",
+      "title": "DTF ou impression directe sur textile : le bon arbitrage",
+      "left": {
+        "title": "DTF : privilégiez la polyvalence",
+        "points": [
+          "Fonctionne sur de nombreuses compositions, dont le polyester et les mélanges.",
+          "Convient aux petites commandes, aux logos multicolores et aux supports foncés.",
+          "Produit un motif généralement plus couvrant, avec un film parfois sensible au toucher sur de grandes surfaces.",
+          "Exige un transfert parfaitement pressé et pelé pour éviter les bords qui se soulèvent."
+        ]
+      },
+      "right": {
+        "title": "DTG : privilégiez le toucher et le détail sur coton",
+        "points": [
+          "Très adapté aux visuels photographiques ou artistiques sur coton de bonne qualité.",
+          "L’encre peut se faire plus discrète dans la fibre qu’un transfert filmé.",
+          "Demande un prétraitement maîtrisé, surtout sur textile foncé, et un support compatible.",
+          "Moins indiqué si vous devez imprimer indifféremment sur beaucoup de textiles synthétiques."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Le DTF en pratique : avantages et limites",
+      "pros": [
+        "Compatible avec une large variété de textiles et de couleurs.",
+        "Très pratique pour lancer une petite série sans frais de préparation d’écrans importants.",
+        "Restitue correctement les détails, les dégradés et le blanc sous les couleurs.",
+        "Permet de produire des transferts à poser ultérieurement sur des articles personnalisés."
+      ],
+      "cons": [
+        "Peut créer une zone moins respirante sur les motifs larges et pleins.",
+        "Le toucher dépend fortement de la qualité du film et de la poudre utilisés.",
+        "Une pression, une température ou un temps de pose mal réglés réduisent sa tenue.",
+        "Ne dispense pas de contrôler le rendu sur un textile texturé, extensible ou traité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Partir du textile, pas seulement du dessin",
+      "id": "partir-du-textile-pas-seulement-du-dessin"
+    },
+    {
+      "type": "paragraph",
+      "html": "La composition indiquée sur l’étiquette est un renseignement central. Le coton accepte bien plusieurs procédés, notamment la sérigraphie et l’impression directe. Le polyester est idéal pour la sublimation lorsqu’il est clair, mais peut créer des contraintes de migration de teinture lors d’un transfert à chaud sur des couleurs foncées. Les mélanges coton-polyester, les softshells, les tissus imperméabilisés, les mailles techniques et les vêtements très extensibles nécessitent une solution validée spécifiquement."
+    },
+    {
+      "type": "paragraph",
+      "html": "La couleur et la texture du vêtement changent aussi le résultat. Sur fond noir, un visuel pâle requiert souvent une sous-couche blanche ; cette étape peut modifier le toucher et le budget. Un tissu chiné, côtelé, polaire ou très irrégulier rend les petits détails moins nets. Sur un textile très fin, un grand aplat dense peut raidir le panneau ou marquer la face opposée sous l’effet de la chaleur. Si vous commandez vous-même les vêtements, communiquez la référence exacte, la couleur, la composition et, si possible, fournissez un exemplaire test."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les questions à trancher avant de demander un devis",
+      "items": [
+        "Quel est le <strong>nombre total</strong> d’articles, et combien de tailles, couleurs ou prénoms différents faut-il gérer ?",
+        "Le motif est-il placé sur la poitrine, le dos, une manche, une poche ou plusieurs emplacements ?",
+        "S’agit-il de coton, de polyester, d’un mélange, d’un tissu déperlant ou d’un support extensible ?",
+        "Le visuel comprend-il des dégradés, une photographie, des traits très fins, des couleurs fluorescentes ou des encres spéciales ?",
+        "Les articles seront-ils lavés fréquemment, séchés en machine, exposés à l’extérieur ou soumis à des frottements ?",
+        "Avez-vous besoin de réassorts identiques à court terme ? Conservez alors les références du textile, les fichiers validés et les couleurs utilisées."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer un fichier qui s’imprime vraiment bien",
+      "id": "preparer-un-fichier-qui-s-imprime-vraiment-bien"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un fichier vu sur écran n’est pas automatiquement imprimable. Les images trouvées sur internet sont souvent trop petites : elles peuvent sembler correctes sur un téléphone et devenir floues une fois agrandies sur un dos de sweat. Les logos, textes et illustrations à contours nets gagnent à être fournis en format vectoriel, par exemple PDF vectorisé, SVG ou EPS selon les habitudes de l’atelier. Pour une photographie ou une illustration matricielle, fournissez le fichier original à une résolution suffisante à la taille d’impression finale."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez de demander une impression en vous basant uniquement sur une capture d’écran. Vérifiez l’orthographe, les accents, les numéros, les noms de personnes, les couleurs et la position exacte. Si votre charte graphique impose une teinte précise, transmettez ses références plutôt qu’une simple impression visuelle à l’écran : l’affichage dépend de l’appareil et l’encre ne se comporte pas comme de la lumière. Un bon prestataire vous signalera également les traits trop fins, les transparences problématiques ou les couleurs trop proches du fond."
+    },
+    {
+      "type": "steps",
+      "title": "La validation en 5 étapes avant lancement",
+      "items": [
+        {
+          "title": "Fixez le format réel",
+          "text": "Indiquez la largeur et la hauteur souhaitées en centimètres, ainsi que l’emplacement. Un logo de 10 cm n’a pas le même impact selon qu’il est centré poitrine ou placé sur une manche."
+        },
+        {
+          "title": "Envoyez la meilleure source disponible",
+          "text": "Préférez le fichier vectoriel d’origine. À défaut, fournissez une image non compressée à la dimension d’impression visée, jamais une vignette récupérée sur les réseaux sociaux."
+        },
+        {
+          "title": "Demandez une maquette à l’échelle",
+          "text": "La simulation doit montrer le motif sur la couleur exacte du textile, avec ses dimensions et son positionnement. Relisez-la comme un bon à tirer : c’est votre référence de validation."
+        },
+        {
+          "title": "Contrôlez les détails sensibles",
+          "text": "Inspectez les lettres minuscules, les filets, les effets de transparence, les dégradés et les zones blanches sur fond clair ou foncé."
+        },
+        {
+          "title": "Validez un test si l’enjeu est élevé",
+          "text": "Pour une grande série, un lancement commercial ou une tenue professionnelle, un exemplaire imprimé sur le textile définitif est une sécurité beaucoup plus utile qu’une simple image numérique."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : comprendre ce qui fait varier le prix",
+      "id": "budget-comprendre-ce-qui-fait-varier-le-prix"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sans chiffrage sur votre projet précis, méfiez-vous des comparaisons au seul prix par t-shirt. Le coût total comprend le vêtement, la préparation des fichiers, les éventuels écrans ou clichés, l’impression, les manipulations liées aux tailles et aux noms, le contrôle, l’emballage et la livraison. Une technique économique pour 300 exemplaires peut devenir disproportionnée pour trois pièces, tandis qu’un transfert à l’unité perd de son intérêt sur une grosse commande homogène."
+    },
+    {
+      "type": "table",
+      "caption": "Repères budgétaires qualitatifs selon le contexte",
+      "headers": [
+        "Situation",
+        "Approche souvent pertinente",
+        "Niveau de coût de lancement",
+        "Coût unitaire à mesure que le volume augmente",
+        "À anticiper"
+      ],
+      "rows": [
+        [
+          "Un prototype ou un cadeau unique",
+          "DTF, flex ou impression directe selon le tissu",
+          "Faible à modéré",
+          "Reste relativement stable",
+          "Fichier prêt, placement et éventuelle personnalisation"
+        ],
+        [
+          "Petite série avec photo ou nombreux coloris",
+          "DTF ou impression directe sur coton",
+          "Faible à modéré",
+          "Baisse limitée à modérée",
+          "Qualité du support et surface imprimée"
+        ],
+        [
+          "Série de logos simples et identiques",
+          "Sérigraphie",
+          "Plus élevé au départ",
+          "Baisse souvent plus nette",
+          "Nombre de couleurs et écrans de préparation"
+        ],
+        [
+          "Maillots clairs en polyester",
+          "Sublimation",
+          "Modéré",
+          "Baisse avec la série",
+          "Compatibilité stricte du support blanc ou clair"
+        ],
+        [
+          "Noms et numéros variables",
+          "Flex, DTF ou solution hybride",
+          "Modéré selon le volume",
+          "Variable",
+          "Temps de composition et risques d’erreur dans les données"
+        ]
+      ],
+      "note": "Pour comparer deux devis, vérifiez qu’ils incluent la même qualité de vêtement, les mêmes emplacements, le même nombre de couleurs et les mêmes finitions."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le faux bon plan à éviter",
+      "html": "Un vêtement très bon marché peut réduire le coût immédiat tout en dégradant l’impression : tissu trop fin, coupe qui se déforme, couleur qui migre, surface irrégulière ou retrait au lavage. Pour un objet promotionnel éphémère, cela peut être acceptable. Pour vendre, offrir à une équipe ou représenter une entreprise, prévoyez un support cohérent avec la durée de vie attendue."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Éviter les erreurs qui ruinent le rendu ou la durabilité",
+      "id": "eviter-les-erreurs-qui-ruinent-le-rendu-ou-la-durabilite"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à imprimer un grand rectangle opaque sans réfléchir au confort. Sur un t-shirt, une surface très couverte peut donner chaud, rigidifier le tissu et se ressentir au porter. Simplifier le visuel, réduire l’aplat ou choisir une technique plus intégrée peut améliorer l’expérience. La deuxième erreur est de traiter toutes les couleurs de textile de la même manière : un motif qui fonctionne sur blanc peut perdre son contraste sur gris chiné, rouge ou noir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également de commander sans tolérance de production réaliste. Dans l’impression textile, une très légère variation de couleur ou de position peut exister d’une pièce à l’autre, notamment sur une production manuelle ou sur plusieurs tailles. Définissez ce qui est critique : couleur de marque, hauteur du logo, orthographe des prénoms, résistance à des lavages fréquents. C’est sur ces points qu’il faut demander des garanties de contrôle."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les signaux qui doivent vous alerter chez un prestataire",
+      "items": [
+        "Il ne vous demande ni la composition du textile ni sa couleur avant de recommander un procédé.",
+        "Il accepte un logo pixellisé sans vous proposer de correction ou de maquette.",
+        "Il promet une tenue universelle sans évoquer les consignes de lavage ni l’usage prévu.",
+        "Il ne détaille pas les emplacements, dimensions, frais de préparation et options de personnalisation dans le devis.",
+        "Il refuse toute validation écrite du visuel alors que votre commande comporte des textes, numéros ou quantités importantes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire durer votre marquage après la réception",
+      "id": "faire-durer-votre-marquage-apres-la-reception"
+    },
+    {
+      "type": "paragraph",
+      "html": "Même une excellente impression s’use plus vite si elle est lavée trop chaud, frottée contre des fermetures ou exposée au sèche-linge à forte température. Le réflexe le plus sûr consiste à retourner le vêtement avant lavage, à respecter l’étiquette du textile et la recommandation de l’imprimeur, puis à éviter le repassage direct sur le motif. Si le marquage doit être repassé, faites-le sur l’envers ou protégez-le avec une feuille adaptée, sans appuyer longuement."
+    },
+    {
+      "type": "paragraph",
+      "html": "À réception, inspectez immédiatement quelques pièces de plusieurs tailles et couleurs : orthographe, dimensions, centrage, couleur, bords du transfert et éventuelles traces de pressage. Pour une commande conséquente, ne distribuez pas tout avant ce contrôle. Photographiez les défauts éventuels, conservez les emballages et contactez rapidement le prestataire avec les références concernées. Une réclamation documentée est bien plus simple à traiter qu’un retour vague plusieurs semaines après."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Entretien simple, résultat plus durable",
+      "html": "Lavez si possible à l’envers, à température modérée, avec un cycle non agressif. Limitez le sèche-linge et ne repassez jamais directement une impression. Ces gestes protègent autant les transferts que les encres imprimées directement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand envisager une alternative à l’impression",
+      "id": "quand-envisager-une-alternative-a-l-impression"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’impression n’est pas toujours le meilleur choix. La broderie apporte du relief et une image plus premium sur polos, sweats épais, vestes, casquettes ou bagagerie. Elle est très durable, mais moins adaptée aux photographies, aux dégradés et aux petits caractères ; sur un textile fin, son renfort peut aussi être perceptible. Pour une identité discrète et résistante, une petite broderie de logo peut donc être préférable à un grand transfert."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les écussons tissés, brodés ou imprimés constituent une autre option intéressante pour les clubs, associations et vêtements de travail. Ils permettent parfois de standardiser un insigne sur différents supports, à condition de choisir le bon mode de fixation : couture, thermocollant ou velcro. Enfin, si vous cherchez seulement à identifier des vêtements, une étiquette personnalisée ou un marquage intérieur peut être plus discret, plus confortable et plus durable qu’un grand motif extérieur."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’impression textile",
+      "items": [
+        {
+          "q": "Quelle impression textile tient le mieux au lavage ?",
+          "a": "La <strong>sérigraphie</strong>, la broderie et une sublimation réalisée sur un support compatible sont réputées très durables. Un DTF ou un DTG de qualité peut également très bien tenir, mais la résistance dépend de la préparation, du pressage, de la qualité du textile et de l’entretien. Demandez la consigne de lavage précise correspondant au procédé retenu."
+        },
+        {
+          "q": "Peut-on imprimer sur un t-shirt noir ?",
+          "a": "Oui. La sérigraphie, le DTF, le flex et l’impression directe sur textile peuvent être utilisés sur un fond noir. Il faut généralement une sous-couche blanche pour que les couleurs restent lumineuses. La sublimation classique, en revanche, ne convient pas à un t-shirt noir et ne permet pas d’imprimer du blanc."
+        },
+        {
+          "q": "Quel fichier faut-il fournir pour une impression textile ?",
+          "a": "Pour un logo ou un dessin à contours nets, privilégiez un <strong>fichier vectoriel</strong>, tel qu’un PDF vectorisé, SVG ou EPS selon le prestataire. Pour une photo, envoyez le fichier original en haute définition à la taille d’impression souhaitée. Évitez les captures d’écran, les images récupérées sur les réseaux sociaux et les fichiers agrandis artificiellement."
+        },
+        {
+          "q": "DTF, flocage et sérigraphie : quelle différence ?",
+          "a": "Le DTF transfère à chaud un motif imprimé sur film et convient aux visuels détaillés comme aux petites séries. Le flocage, souvent réalisé en vinyle découpé, est plus adapté aux textes, numéros et formes simples. La sérigraphie imprime l’encre à travers des écrans et devient particulièrement intéressante pour répéter un même motif sur une série importante."
+        },
+        {
+          "q": "Pourquoi les couleurs imprimées diffèrent-elles de celles vues à l’écran ?",
+          "a": "Un écran produit des couleurs par lumière, tandis qu’une impression utilise des encres sur une fibre et un fond donnés. La couleur du textile, la sous-couche blanche, le procédé et le réglage des fichiers influencent le résultat. Transmettez les références de votre charte, demandez une maquette et, si la teinte est essentielle, validez un échantillon physique."
+        },
+        {
+          "q": "Faut-il laver un vêtement imprimé avant de le porter ?",
+          "a": "Ce n’est pas une obligation générale si le marquage a été correctement fixé par l’atelier. En revanche, pour le premier entretien, lavez-le à l’envers et à température modérée. Respectez aussi les recommandations du fabricant du vêtement, qui peuvent être plus restrictives que celles de l’impression elle-même."
+        }
+      ]
+    }
+  ]
+}

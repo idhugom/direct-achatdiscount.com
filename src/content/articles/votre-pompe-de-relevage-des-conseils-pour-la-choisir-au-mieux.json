@@ -1,0 +1,415 @@
+{
+  "title": "Votre pompe de relevage : des conseils pour la choisir au mieux",
+  "slug": "votre-pompe-de-relevage-des-conseils-pour-la-choisir-au-mieux",
+  "path": "/divers/votre-pompe-de-relevage-des-conseils-pour-la-choisir-au-mieux.html",
+  "category": "maison",
+  "tags": [
+    "pompe de relevage",
+    "eaux usées",
+    "assainissement",
+    "drainage",
+    "station de relevage",
+    "plomberie"
+  ],
+  "excerpt": "Eaux claires, eaux usées ou chargées : les critères décisifs pour dimensionner une pompe de relevage fiable et adaptée à votre installation.",
+  "metaDescription": "Choisissez votre pompe de relevage selon l’eau à évacuer, la hauteur, le débit et l’installation. Comparatif, budget et erreurs à éviter.",
+  "seoTitle": "Pompe de relevage : comment bien la choisir",
+  "heroKicker": "Évacuer sans risque",
+  "readingTime": 12,
+  "date": "2017-12-21T15:39:55",
+  "image": {
+    "id": "289",
+    "alt": "Votre pompe de relevage : des conseils pour la choisir au mieux",
+    "width": 575,
+    "height": 367
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Quand l’écoulement gravitaire est impossible, une pompe de relevage devient indispensable pour évacuer l’eau d’une cave, d’une douche en sous-sol, d’une buanderie ou d’un logement éloigné du réseau. Le bon choix ne dépend pas seulement de sa puissance : la nature de l’eau, la hauteur à franchir, le diamètre des canalisations et le niveau de fiabilité attendu comptent tout autant."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel avant d’acheter",
+      "items": [
+        "Identifiez d’abord <strong>ce que la pompe doit évacuer</strong> : eau claire, eau légèrement chargée, eaux usées domestiques ou eaux-vannes contenant des matières fécales.",
+        "Dimensionnez la pompe avec la <strong>hauteur manométrique totale</strong>, pas uniquement avec la hauteur verticale entre la cuve et l’évacuation.",
+        "Le débit annoncé sur l’emballage baisse fortement à mesure que la hauteur de relevage augmente : consultez toujours la courbe débit/hauteur.",
+        "Un flotteur adapté, une alarme de niveau haut et un accès facile pour l’entretien sont souvent plus utiles qu’une puissance surdimensionnée.",
+        "Pour des eaux-vannes, une installation permanente ou un logement, une station de relevage correctement dimensionnée est généralement plus sûre qu’une pompe portable improvisée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "À quoi sert exactement une pompe de relevage ?",
+      "id": "a-quoi-sert-exactement-une-pompe-de-relevage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pompe de relevage aspire ou reçoit de l’eau dans une cuve, puis la refoule vers un point situé plus haut ou plus loin : regard d’assainissement, collecteur, égout, réseau d’eaux pluviales ou évacuation existante. Elle pallie donc l’absence de pente naturelle. Elle ne remplace pas une évacuation gravitaire bien conçue lorsqu’une pente suffisante est possible : une pompe ajoute un équipement électrique, des raccordements et un entretien à prévoir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme recouvre deux réalités. La <strong>pompe immergée</strong>, placée dans un puisard, une fosse ou une cuve, sert souvent au drainage ponctuel ou à l’évacuation d’eaux peu chargées. La <strong>station de relevage</strong> est un ensemble fermé intégrant une cuve, une ou plusieurs pompes, des entrées et une sortie : elle est conçue pour recevoir les rejets d’équipements sanitaires de façon régulière. Il existe aussi des broyeurs-releveurs compacts, destinés à un appareil précis, notamment un WC installé loin d’une chute d’eaux usées."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas relevage et drainage",
+      "html": "Une pompe vide-cave peut évacuer une infiltration d’eau claire, mais elle n’est pas automatiquement autorisée ni techniquement adaptée aux rejets d’une douche, d’un lave-linge ou de toilettes. <strong>La nature des effluents est le premier critère de sécurité.</strong> Une pompe inadaptée peut se bloquer, refouler ou perdre sa garantie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencez par identifier le type d’eau à évacuer",
+      "id": "commencez-par-identifier-le-type-d-eau-a-evacuer"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est le tri qui élimine le plus d’erreurs. Une eau de cave après une infiltration, une eau de pluie et les eaux d’une cuisine n’ont ni la même charge en particules ni les mêmes contraintes de température et de graisses. Le fabricant indique normalement le type d’effluent accepté, le passage libre des particules, la température maximale et les substances interdites. Ces informations doivent correspondre à votre usage réel, y compris lors des situations exceptionnelles."
+    },
+    {
+      "type": "table",
+      "caption": "Quel appareil selon les effluents à relever ?",
+      "headers": [
+        "Eau à évacuer",
+        "Solution généralement adaptée",
+        "Points de vigilance"
+      ],
+      "rows": [
+        [
+          "Eaux claires ou légèrement troubles",
+          "Pompe vide-cave ou pompe de drainage immergée",
+          "Vérifiez le niveau résiduel, la taille maximale des particules et la compatibilité avec un fonctionnement intermittent."
+        ],
+        [
+          "Eaux pluviales, puisard, drainage de terrain",
+          "Pompe de relevage pour eaux claires ou chargées selon les sédiments",
+          "Le sable et les boues sont abrasifs ; prévoyez un regard décanté et un nettoyage régulier."
+        ],
+        [
+          "Douche, lavabo, lave-linge, buanderie",
+          "Pompe pour eaux usées sans matières fécales ou petite station de relevage",
+          "Contrôlez la température admissible, notamment avec un lave-linge, et la résistance aux détergents usuels."
+        ],
+        [
+          "Évier de cuisine",
+          "Station pour eaux usées compatible avec les eaux grasses",
+          "Les graisses, marc de café et déchets alimentaires favorisent les dépôts : un entretien plus fréquent est nécessaire."
+        ],
+        [
+          "WC et eaux-vannes",
+          "Station de relevage dédiée aux eaux chargées, éventuellement avec dilacérateur",
+          "Choisissez un matériel prévu pour les matières fécales ; les lingettes et objets solides restent interdits, broyeur ou non."
+        ]
+      ],
+      "note": "Les désignations commerciales varient. Fiez-vous aux effluents explicitement admis dans la notice technique, plutôt qu’au seul nom du produit."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Passage libre ou dilacérateur : deux réponses à des contraintes différentes",
+      "id": "passage-libre-ou-dilacerateur-deux-reponses-a-des-contrainte"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pompe à <strong>passage libre</strong> laisse traverser des solides jusqu’à un diamètre déterminé. Elle convient lorsque la canalisation de refoulement est suffisamment large et que les effluents contiennent des particules. Une pompe avec <strong>dilacérateur</strong> ou broyeur coupe les matières avant leur passage dans une conduite plus étroite. Elle peut résoudre une contrainte de réseau, mais ne rend pas acceptable le rejet de lingettes, protections, textiles, cheveux en paquets ou déchets de cuisine. Plus sophistiqué, ce mécanisme exige aussi une utilisation rigoureuse."
+    },
+    {
+      "type": "comparison",
+      "title": "Pompe immergée ou station de relevage ?",
+      "left": {
+        "title": "Pompe immergée dans un puisard",
+        "points": [
+          "Bien adaptée au drainage, aux eaux de pluie et aux évacuations ponctuelles.",
+          "Solution souvent plus simple et moins encombrante si un regard existe déjà.",
+          "Peut être mobile pour une cave inondée ou une vidange occasionnelle.",
+          "Nécessite une cuve ou un puisard compatible ; l’étanchéité aux odeurs n’est pas son rôle premier."
+        ]
+      },
+      "right": {
+        "title": "Station de relevage fermée",
+        "points": [
+          "Conçue pour recevoir régulièrement les eaux d’équipements sanitaires.",
+          "Cuve fermée limitant les odeurs et raccordements dédiés pour entrées, ventilation et refoulement.",
+          "Plus pertinente pour un sous-sol habité, une dépendance ou des eaux-vannes.",
+          "Coût, place disponible et installation plus importants ; l’accès de maintenance reste indispensable."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculez la hauteur de relevage et le débit utiles",
+      "id": "calculez-la-hauteur-de-relevage-et-le-debit-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "La puissance électrique en watts ne suffit pas à comparer deux pompes. Les deux valeurs essentielles sont le <strong>débit</strong>, exprimé en litres par minute ou en mètres cubes par heure, et la <strong>hauteur manométrique totale</strong> (HMT), exprimée en mètres. Une pompe peut afficher un débit flatteur à hauteur nulle, puis devenir très peu performante dès qu’elle doit remonter l’eau et la pousser dans une longue canalisation."
+    },
+    {
+      "type": "paragraph",
+      "html": "La HMT additionne la hauteur verticale entre le niveau de déclenchement de la pompe et le point de rejet, puis les pertes de charge dues au tuyau : longueur, diamètre intérieur, coudes, clapet anti-retour, vannes et raccords. Sans réaliser un calcul hydraulique exhaustif, vous pouvez faire un premier dimensionnement prudent en mesurant précisément le dénivelé, la longueur horizontale et le nombre de changements de direction. Transmettez ces données au vendeur ou à l’installateur si l’usage est permanent."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "5 à 10 m",
+          "label": "hauteur de relevage courante pour de nombreux usages domestiques, à vérifier sur la courbe de la pompe"
+        },
+        {
+          "value": "20 à 50 mm",
+          "label": "ordre de grandeur du passage libre selon les pompes destinées aux eaux chargées"
+        },
+        {
+          "value": "230 V",
+          "label": "alimentation habituelle en habitat individuel ; un circuit protégé et adapté reste nécessaire"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Comment lire une courbe débit/hauteur ?",
+      "id": "comment-lire-une-courbe-debit-hauteur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur la documentation technique, une courbe associe un débit à chaque hauteur. Repérez votre HMT sur l’axe de la hauteur, rejoignez la courbe du modèle, puis lisez le débit réellement disponible. Ne choisissez pas une pompe dont la hauteur maximale est tout juste égale à votre besoin : à cette limite, le débit est généralement nul ou presque nul. Conservez une marge raisonnable pour les pertes de charge estimées, l’encrassement progressif et une évolution mineure de l’installation."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le piège du débit maximal",
+      "html": "Le chiffre de débit maximal correspond habituellement à une sortie très peu contrainte. Pour comparer deux modèles, regardez leur débit <strong>à votre hauteur manométrique totale</strong>. C’est la seule comparaison utile."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les caractéristiques techniques qui font vraiment la différence",
+      "id": "les-caracteristiques-techniques-qui-font-vraiment-la-differe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois le type d’eau, le débit et la HMT définis, plusieurs éléments déterminent la durée de vie et le confort d’utilisation. Les meilleurs choix sont rarement ceux qui empilent les fonctions : ce sont ceux dont chaque caractéristique répond à une contrainte concrète de votre installation."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La checklist technique à vérifier",
+      "items": [
+        "<strong>Mode de déclenchement :</strong> flotteur externe, flotteur intégré, sonde ou commande électronique. Assurez-vous que le flotteur pourra bouger librement dans la cuve.",
+        "<strong>Niveau de démarrage et d’arrêt :</strong> une pompe qui s’arrête trop haut laisse beaucoup d’eau ; une cuve trop petite déclenche des cycles très fréquents.",
+        "<strong>Diamètre de refoulement :</strong> il doit être cohérent avec la sortie de pompe et le réseau. Réduire excessivement une section augmente les pertes de charge et le risque de bouchage.",
+        "<strong>Clapet anti-retour :</strong> indispensable sur le refoulement pour éviter que l’eau redescende dans la cuve à chaque arrêt. Il doit rester accessible et compatible avec les effluents.",
+        "<strong>Température maximale :</strong> cruciale pour les eaux de lave-linge, lave-vaisselle ou certains usages professionnels. Une eau trop chaude déforme ou fatigue les composants.",
+        "<strong>Matériaux :</strong> inox, fonte, technopolymère et joints n’offrent pas les mêmes résistances aux chocs, à l’abrasion et à la corrosion.",
+        "<strong>Alarme :</strong> une alarme sonore ou visuelle de niveau haut est vivement recommandée si un débordement endommagerait un logement, une cave aménagée ou un local technique.",
+        "<strong>Accès de maintenance :</strong> prévoyez de pouvoir atteindre la pompe, le clapet et le couvercle sans démolir un sol ou déplacer un équipement fixe."
+      ]
+    },
+    {
+      "type": "proscons",
+      "title": "Faut-il choisir une pompe avec flotteur automatique ?",
+      "pros": [
+        "Démarrage et arrêt autonomes selon le niveau d’eau.",
+        "Protection pratique contre le fonctionnement à sec dans les configurations compatibles.",
+        "Très utile pour un puisard, une fosse de drainage ou une installation qui fonctionne en votre absence.",
+        "Installation généralement plus simple qu’une commande manuelle permanente."
+      ],
+      "cons": [
+        "Le flotteur peut se coincer contre une paroi, un câble ou un dépôt dans une cuve trop étroite.",
+        "Un réglage mal choisi peut multiplier les démarrages courts et fatiguer le moteur.",
+        "Certains espaces exigus imposent un capteur intégré ou une commande de niveau séparée.",
+        "Il ne dispense pas d’une alarme ni d’un contrôle périodique pour une installation critique."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir la cuve, les canalisations et les sécurités",
+      "id": "choisir-la-cuve-les-canalisations-et-les-securites"
+    },
+    {
+      "type": "paragraph",
+      "html": "La pompe n’est qu’une partie du système. Une cuve sous-dimensionnée peut provoquer trop de démarrages ; une cuve surdimensionnée peut augmenter les temps de séjour, les odeurs et les dépôts, surtout avec des eaux usées. Son volume doit donc être choisi selon les équipements raccordés, les pointes de débit et le nombre de démarrages admissibles par le moteur. Pour une installation sanitaire, une station complète conçue comme un ensemble cohérent évite de nombreux problèmes de compatibilité."
+    },
+    {
+      "type": "paragraph",
+      "html": "La conduite de refoulement doit être correctement fixée, résistante à la pression et posée de manière à limiter les points bas inutiles où les dépôts stagnent. Placez, lorsque la configuration le nécessite, un clapet anti-retour et une vanne d’isolement accessible après la pompe. La vanne permet de déposer l’appareil sans vider toute la conduite ; elle ne doit jamais être fermée pendant le fonctionnement. Respectez aussi la ventilation requise par le système afin d’éviter surpressions, odeurs et désamorçage."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au refoulement du réseau",
+      "html": "Un clapet sur votre conduite ne protège pas toujours contre une mise en charge du réseau public ou d’un collecteur situé en aval. En zone sensible aux remontées d’eau, faites valider l’implantation par un professionnel de l’assainissement ou de la plomberie. <strong>Ne rejetez jamais les eaux usées vers un exutoire non autorisé.</strong>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour une pompe de relevage ?",
+      "id": "quel-budget-prevoir-pour-une-pompe-de-relevage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix dépend surtout des effluents acceptés, de la robustesse du moteur, de la hauteur et du débit utiles, de la présence d’un broyeur, de la cuve et des sécurités. Méfiez-vous des comparaisons fondées sur le seul prix d’achat : un modèle bon marché mais difficile à nettoyer, sans pièces de rechange ou sous-dimensionné coûte souvent plus cher après un premier incident."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur de budget hors pose",
+      "headers": [
+        "Équipement",
+        "Budget habituel",
+        "Pour quel besoin ?"
+      ],
+      "rows": [
+        [
+          "Pompe vide-cave ou drainage d’appoint",
+          "Environ 70 à 200 €",
+          "Évacuation ponctuelle d’eau claire ou légèrement chargée, cave, puisard ou récupération d’eau selon compatibilité."
+        ],
+        [
+          "Pompe immergée robuste pour eaux chargées",
+          "Environ 150 à 500 € et plus",
+          "Puisard ou fosse avec eaux plus chargées, besoin de passage libre et usage plus régulier."
+        ],
+        [
+          "Petit releveur pour eaux grises ou appareil isolé",
+          "Environ 200 à 700 €",
+          "Douche, lavabo, buanderie ou évier, sous réserve de compatibilité précise avec les effluents."
+        ],
+        [
+          "Station de relevage domestique complète",
+          "Environ 500 à 2 000 € et davantage",
+          "Plusieurs appareils sanitaires, sous-sol, dépendance ou eaux-vannes selon le modèle."
+        ],
+        [
+          "Installation professionnelle",
+          "Très variable, souvent plusieurs centaines d’euros ou plus",
+          "Création de cuve, raccordements électriques et hydrauliques, ventilation, terrassement éventuel et mise en conformité."
+        ]
+      ],
+      "note": "Ces fourchettes sont indicatives. Ajoutez les tuyaux, clapets, vannes, raccords, dispositif électrique, éventuelle alarme et la pose, qui peuvent représenter une part importante du projet."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quand payer davantage est justifié",
+      "id": "quand-payer-davantage-est-justifie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Investir dans une gamme plus robuste est pertinent si la pompe évacue les eaux d’un logement occupé à l’année, si une panne peut endommager des pièces aménagées, si les effluents sont abrasifs ou si l’accès est difficile. Privilégiez alors un fabricant qui fournit une documentation complète, des pièces d’usure disponibles et un service après-vente identifiable. Une seconde pompe ou un système de secours peut aussi se justifier dans les lieux où l’arrêt est inacceptable, mais cette décision relève idéalement d’un dimensionnement professionnel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installation : les erreurs qui provoquent pannes et débordements",
+      "id": "installation-les-erreurs-qui-provoquent-pannes-et-debordemen"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une installation de relevage doit respecter les règles électriques et de plomberie applicables à votre logement. Même si vous installez vous-même une pompe de drainage simple, faites contrôler les points sensibles dès qu’il s’agit d’eaux usées, d’une alimentation électrique en local humide ou d’un raccordement au réseau d’assainissement. Une station installée sous une dalle ou dans un placard sans trappe de visite est un mauvais calcul dès le premier entretien."
+    },
+    {
+      "type": "steps",
+      "title": "Une méthode fiable pour préparer votre projet",
+      "items": [
+        {
+          "title": "Relevez les mesures du parcours",
+          "text": "Notez le dénivelé, la longueur de refoulement, le diamètre envisagé, les coudes, le point de rejet et les équipements raccordés. Prenez des photos avant de commander."
+        },
+        {
+          "title": "Classez précisément les effluents",
+          "text": "Distinguez eaux pluviales, eaux grises et eaux-vannes. Listez les appareils reliés, y compris ceux qui rejettent de l’eau chaude ou des graisses."
+        },
+        {
+          "title": "Choisissez sur la courbe, pas sur l’étiquette",
+          "text": "Confrontez votre HMT au débit disponible sur la courbe du fabricant, avec une marge de fonctionnement réaliste."
+        },
+        {
+          "title": "Préparez les organes de sécurité",
+          "text": "Prévoyez un clapet anti-retour accessible, une vanne d’isolement, une alimentation électrique protégée et, si l’enjeu le justifie, une alarme de niveau haut."
+        },
+        {
+          "title": "Testez avant de refermer",
+          "text": "Faites plusieurs cycles avec de l’eau propre, vérifiez le déclenchement, l’arrêt, l’absence de fuite et l’absence de retour d’eau dans la cuve."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utilisation et entretien : ce qui prolonge réellement la durée de vie",
+      "id": "utilisation-et-entretien-ce-qui-prolonge-reellement-la-duree"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pompe de relevage n’aime ni les déchets fibreux, ni les graisses figées, ni les longues périodes sans contrôle. Dans une station d’eaux usées, ne jetez pas dans les sanitaires lingettes, serviettes, coton-tiges, protections hygiéniques, préservatifs, fil dentaire, litière, huiles ou restes alimentaires. Même les produits indiqués comme biodégradables peuvent former des amas ou se dégrader trop lentement pour le système."
+    },
+    {
+      "type": "paragraph",
+      "html": "Coupez l’alimentation avant toute intervention. Pour une pompe de drainage, retirez régulièrement les boues et les débris du puisard, contrôlez que le flotteur se déplace sans entrave et nettoyez la crépine si elle existe. Pour une station sanitaire, suivez la procédure du fabricant : elle peut prévoir un rinçage, un nettoyage de cuve et une vérification périodique du clapet. Un bruit inhabituel, des déclenchements répétés, des odeurs persistantes ou une évacuation plus lente doivent être traités rapidement, avant le débordement."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Contrôle préventif à effectuer",
+      "items": [
+        "Vérifiez périodiquement que la pompe démarre et s’arrête correctement avec un apport d’eau.",
+        "Examinez le câble, la prise, les raccords et le couvercle pour repérer toute trace d’humidité ou de fuite.",
+        "Nettoyez les dépôts visibles dans le puisard ou la cuve en suivant les consignes de sécurité.",
+        "Contrôlez le clapet anti-retour : il ne doit ni rester bloqué ouvert, ni empêcher le débit de passer.",
+        "Avant une longue absence, assurez-vous que l’alarme éventuelle fonctionne et que l’accès à la station est dégagé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les alternatives à envisager avant d’installer une pompe",
+      "id": "les-alternatives-a-envisager-avant-d-installer-une-pompe"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure pompe est parfois celle dont vous pouvez vous passer. Si le projet est encore au stade des travaux, étudiez la possibilité de repositionner une évacuation, de créer une pente gravitaire ou de relever le niveau d’un équipement sanitaire. Pour une cave humide, traitez d’abord la cause : drainage extérieur, étanchéité, gestion des eaux de pluie, gouttières et pente du terrain. Une pompe vide-cave est une sécurité utile, mais elle ne corrige pas à elle seule une arrivée d’eau permanente et importante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une pièce sanitaire isolée, un broyeur-releveur compact peut être moins encombrant qu’une grande station, à condition d’accepter ses restrictions d’usage et son niveau sonore. À l’inverse, si plusieurs appareils sont raccordés ou si le local est habité, une station de relevage dédiée sera souvent plus silencieuse, plus propre et plus pérenne. Si l’installation est critique ou complexe, le diagnostic d’un professionnel vaut largement son coût : il permet de valider l’exutoire, le diamètre des conduites, la ventilation et les protections électriques."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les pompes de relevage",
+      "items": [
+        {
+          "q": "Quelle puissance choisir pour une pompe de relevage ?",
+          "a": "Ne partez pas des watts seuls. Choisissez d’abord un modèle compatible avec vos effluents, puis vérifiez qu’il fournit le débit voulu à votre hauteur manométrique totale. La puissance est une conséquence du dimensionnement, pas un critère suffisant. Une pompe plus puissante peut aussi être mal adaptée si son passage libre, son flotteur ou sa température admissible ne conviennent pas."
+        },
+        {
+          "q": "Peut-on utiliser une pompe vide-cave pour une douche ?",
+          "a": "Pas systématiquement. Une douche produit des eaux usées contenant cheveux, savon et parfois eau chaude. Il vous faut une pompe explicitement prévue pour les eaux grises, avec une température maximale, un passage de particules et un déclenchement adaptés. Une simple pompe d’eau claire risque de s’encrasser ou de s’user prématurément."
+        },
+        {
+          "q": "Pourquoi ma pompe se met-elle en marche très souvent ?",
+          "a": "Des démarrages fréquents peuvent signaler une cuve trop petite, un réglage de flotteur trop serré, un clapet anti-retour qui fuit ou un retour d’eau dans la conduite. Ils peuvent aussi révéler une arrivée d’eau continue. Coupez l’alimentation avant inspection et faites intervenir un professionnel si la cause n’est pas évidente."
+        },
+        {
+          "q": "Le clapet anti-retour est-il obligatoire ?",
+          "a": "Il est très généralement nécessaire sur une conduite de refoulement : sans lui, l’eau contenue dans le tuyau peut redescendre dans la cuve après l’arrêt de la pompe, entraînant des cycles inutiles et parfois un débordement. Son emplacement, son type et son accessibilité doivent être adaptés au montage et aux effluents."
+        },
+        {
+          "q": "Une pompe de relevage peut-elle fonctionner à sec ?",
+          "a": "La plupart ne doivent pas fonctionner à sec durablement, car l’eau participe au refroidissement et à la lubrification selon les modèles. Un flotteur ou un capteur de niveau limite ce risque, mais il faut contrôler son bon fonctionnement. Vérifiez toujours les conditions d’utilisation dans la notice technique."
+        },
+        {
+          "q": "Faut-il faire installer une station de relevage par un professionnel ?",
+          "a": "C’est fortement conseillé pour des eaux usées ou des eaux-vannes, une installation fixe, un sous-sol habité ou un raccordement au réseau collectif. Le professionnel vérifie le dimensionnement, les pentes possibles, la ventilation, les protections électriques, les clapets et la conformité du rejet. Pour une pompe vide-cave mobile et ponctuelle, l’installation est généralement plus simple, sous réserve de respecter les consignes du fabricant."
+        }
+      ]
+    }
+  ]
+}

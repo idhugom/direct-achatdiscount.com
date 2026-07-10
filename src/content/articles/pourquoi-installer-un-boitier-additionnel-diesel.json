@@ -1,0 +1,391 @@
+{
+  "title": "Pourquoi installer un boîtier additionnel diesel ?",
+  "slug": "pourquoi-installer-un-boitier-additionnel-diesel",
+  "path": "/divers/pourquoi-installer-un-boitier-additionnel-diesel.html",
+  "category": "auto-moto",
+  "tags": [
+    "boîtier additionnel diesel",
+    "préparation moteur",
+    "consommation diesel",
+    "assurance auto",
+    "reprogrammation moteur"
+  ],
+  "excerpt": "Le boîtier additionnel diesel peut améliorer les reprises, mais il implique des compromis techniques, administratifs et mécaniques à connaître avant l’achat.",
+  "metaDescription": "Boîtier additionnel diesel : fonctionnement, gains réalistes, consommation, légalité, assurance et critères pour choisir sans risquer votre moteur.",
+  "seoTitle": "Boîtier additionnel diesel : avantages, risques et choix",
+  "heroKicker": "Diesel sous contrôle",
+  "readingTime": 11,
+  "date": "2017-08-09T14:17:35",
+  "image": {
+    "id": "338",
+    "alt": "Pourquoi installer un boîtier additionnel diesel ?",
+    "width": 738,
+    "height": 300
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Installer un boîtier additionnel diesel attire surtout les conducteurs qui souhaitent davantage de couple pour les dépassements, les trajets chargés ou le remorquage, sans remplacer leur véhicule. Cette solution peut être intéressante si elle est adaptée au moteur et utilisée avec mesure ; elle n’est ni une amélioration magique de la consommation, ni un achat anodin sur les plans mécanique, légal et assurantiel."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un boîtier additionnel modifie les informations envoyées au calculateur afin de changer, selon sa conception, la gestion de l’injection et parfois de la pression de suralimentation.",
+        "Le bénéfice le plus perceptible est généralement le <strong>couple à bas et moyen régime</strong>, utile pour les reprises et la traction ; les gains dépendent entièrement du moteur et du réglage.",
+        "Une baisse de consommation n’est plausible qu’à conduite, charge et vitesse comparables : exploiter la puissance supplémentaire annule souvent ce bénéfice.",
+        "Un produit universel très bon marché, sans adaptation ni support, est le choix le plus risqué pour un diesel moderne équipé de dépollution.",
+        "Toute modification des caractéristiques du véhicule doit être examinée avec sérieux du point de vue de l’homologation, de la carte grise, de l’assurance et de la garantie."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’est-ce qu’un boîtier additionnel diesel, exactement ?",
+      "id": "qu-est-ce-qu-un-boitier-additionnel-diesel-exactement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le boîtier additionnel, aussi appelé <em>boîtier de puissance</em> ou <em>piggyback</em>, est un module électronique intercalé entre certains capteurs du moteur et le calculateur d’origine. Sur un diesel à injection common rail, il se branche fréquemment sur le capteur de pression de rampe, parfois sur plusieurs capteurs selon les systèmes. Son rôle est de modifier les signaux lus par le calculateur afin que celui-ci ajuste notamment la quantité ou le moment d’injection, dans les limites que permet sa logique interne."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Un ajout au calculateur, pas son remplacement",
+      "id": "un-ajout-au-calculateur-pas-son-remplacement"
+    },
+    {
+      "type": "paragraph",
+      "html": "À la différence d’une reprogrammation, le logiciel du calculateur moteur n’est, en principe, pas réécrit : le boîtier agit en amont sur les données reçues. Il est donc souvent démontable physiquement. Cette réversibilité matérielle ne signifie toutefois pas que les effets mécaniques, les données mémorisées par les calculateurs ou les obligations administratives disparaissent. Selon le véhicule, le calculateur peut conserver des valeurs incohérentes, des défauts intermittents ou des historiques de fonctionnement."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Ne pas confondre avec un simple accélérateur électronique",
+      "html": "Un <strong>boîtier de pédale</strong> modifie surtout la sensibilité de l’accélérateur : il donne une impression de réponse plus vive, sans créer de puissance supplémentaire. Un boîtier additionnel moteur cherche, lui, à augmenter réellement le couple et la puissance disponibles. Les risques, le prix et les implications ne sont donc pas comparables."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi en installer un : les bénéfices réellement recherchés",
+      "id": "pourquoi-en-installer-un-les-benefices-reellement-recherches"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première motivation est rarement la vitesse de pointe. Sur un diesel, le gain recherché concerne plutôt des reprises moins laborieuses entre les bas et moyens régimes. Cela peut rendre la conduite plus souple avec une voiture familiale chargée, un utilitaire, un camping-car ou un véhicule qui tracte régulièrement une remorque. Vous devez moins rétrograder pour maintenir l’allure dans une côte ou vous insérer sur voie rapide, à condition que le châssis, les freins, les pneus et la transmission soient également en parfait état."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le second argument est la consommation. En théorie, un moteur plus coupleux peut exiger moins d’accélérateur pour fournir un effort identique. Dans la pratique, l’économie dépend beaucoup plus de votre pied droit, de la vitesse, du profil de route, de la charge et de l’état du véhicule que du boîtier lui-même. Si vous utilisez les reprises supplémentaires plus souvent, la consommation montera. Il faut donc acheter un boîtier pour l’agrément ou l’usage, pas sur la promesse d’un retour sur investissement automatique à la pompe."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "10 à 30 %",
+          "label": "ordre de grandeur souvent envisagé pour un gain de couple ou de puissance sur un moteur sain, très variable selon la version"
+        },
+        {
+          "value": "0 à quelques %",
+          "label": "économie de carburant éventuellement atteignable à conduite strictement comparable, sans garantie"
+        },
+        {
+          "value": "20 min à 2 h",
+          "label": "ordre de grandeur pour une pose selon l’accessibilité du moteur et le nombre de connecteurs"
+        },
+        {
+          "value": "1 point clé",
+          "label": "la fiabilité du résultat dépend d’abord de l’adaptation au moteur précis, pas de la promesse publicitaire"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les situations où le gain a le plus de sens",
+      "id": "les-situations-ou-le-gain-a-le-plus-de-sens"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Un boîtier peut répondre à un besoin cohérent si…",
+      "items": [
+        "vous roulez souvent chargé, en montagne ou avec une remorque, et recherchez davantage de souplesse plutôt qu’une conduite sportive ;",
+        "votre diesel est entretenu, sans voyant moteur, sans fumée anormale ni perte de puissance préalable ;",
+        "vous identifiez précisément le code moteur, l’année-modèle, la puissance d’origine et le type de boîte avant d’acheter ;",
+        "vous acceptez de respecter les démarches administratives et de prévenir votre assureur ;",
+        "vous pouvez modérer l’effort demandé au moteur, en particulier à froid et sous forte charge prolongée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Boîtier additionnel ou reprogrammation : deux approches, des obligations similaires",
+      "id": "boitier-additionnel-ou-reprogrammation-deux-approches-des-ob"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le boîtier additionnel est apprécié pour sa pose généralement plus simple et son retrait possible. Une reprogrammation consiste à modifier les cartographies du calculateur et peut permettre un travail plus global si elle est réalisée sérieusement sur le véhicule concerné. Mais aucune de ces deux solutions n’est, par nature, exemptée de contraintes : elles peuvent modifier les caractéristiques déclarées du véhicule, augmenter les sollicitations mécaniques et compliquer un dossier de garantie ou d’assurance."
+    },
+    {
+      "type": "comparison",
+      "title": "Les arbitrages à connaître avant de choisir",
+      "left": {
+        "title": "Boîtier additionnel",
+        "points": [
+          "Pose souvent sans écriture directe du logiciel moteur et démontage matériel généralement possible.",
+          "Réglage parfois limité à quelques signaux : la qualité dépend fortement de l’électronique et de l’adaptation au véhicule.",
+          "Peut convenir à qui veut une solution amovible, à condition de ne pas confondre démontable et invisible.",
+          "Les modèles universels à un seul branchement sont les plus susceptibles de donner un résultat approximatif."
+        ]
+      },
+      "right": {
+        "title": "Reprogrammation moteur",
+        "points": [
+          "Intervention sur les cartographies du calculateur, avec un potentiel d’ajustement plus large lorsqu’elle est correctement développée.",
+          "Pas de boîtier ni de faisceau ajouté dans le compartiment moteur, mais retour à l’origine nécessitant une nouvelle intervention.",
+          "Une prestation sérieuse suppose un diagnostic, l’identification exacte du logiciel et idéalement des contrôles avant et après intervention.",
+          "Elle reste soumise aux mêmes questions de conformité, de déclaration et de garantie ; elle n’est pas automatiquement plus légale qu’un boîtier."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon raisonnement",
+      "html": "Ne choisissez pas selon le gain maximal annoncé. Demandez-vous plutôt : <strong>de quel couple supplémentaire ai-je réellement besoin, à quel régime, pour quel usage, et avec quelles conséquences sur mon véhicule ?</strong> Un réglage raisonnable et spécifique est préférable à une recherche de chiffre spectaculaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les limites et risques à ne pas minimiser",
+      "id": "les-limites-et-risques-a-ne-pas-minimiser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Tout surcroît de couple augmente la charge sur les organes qui transmettent et dissipent l’énergie : embrayage, volant moteur bi-masse, boîte de vitesses, cardans, turbocompresseur et système de refroidissement. Sur une boîte automatique, le couple admissible est un paramètre particulièrement important. Un véhicule kilométré, mal entretenu ou déjà proche d’une panne ne devient pas fiable grâce à un boîtier : l’ajout de puissance peut au contraire révéler plus vite une faiblesse existante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les diesels récents sont aussi dépendants de leurs systèmes de dépollution : vanne EGR, filtre à particules, catalyseurs et, selon les versions, système de réduction des oxydes d’azote. Une combustion ou une charge moteur moins bien maîtrisée peut favoriser fumées, défauts, régénérations plus fréquentes, hausse des températures d’échappement ou encrassement. Un voyant moteur, une odeur inhabituelle, des à-coups, un bruit de suralimentation anormal ou une fumée persistante doivent conduire à retirer le véhicule de la contrainte et à faire établir un diagnostic, non à augmenter le réglage."
+    },
+    {
+      "type": "proscons",
+      "title": "Boîtier additionnel diesel : bilan honnête",
+      "pros": [
+        "Gain de couple potentiellement perceptible pour les reprises, le chargement et la traction.",
+        "Installation parfois accessible sans modification logicielle permanente du calculateur.",
+        "Produit démontable sur de nombreuses architectures, utile si le véhicule doit être remis dans sa configuration d’origine.",
+        "Coût initial souvent inférieur à une intervention moteur très personnalisée.",
+        "Certains fabricants proposent un faisceau dédié, des réglages encadrés et une assistance technique."
+      ],
+      "cons": [
+        "Résultat très inégal selon le produit, le moteur et la qualité du paramétrage.",
+        "Hausse possible de l’usure de l’embrayage, du turbo, de la transmission et des éléments de dépollution.",
+        "Économie de carburant non garantie et fréquemment annulée par une conduite plus dynamique.",
+        "Risque de litige avec le constructeur, le vendeur du véhicule ou l’assureur en cas de sinistre.",
+        "Conformité routière difficile à sécuriser lorsque les caractéristiques homologuées du véhicule évoluent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment choisir un boîtier adapté sans acheter à l’aveugle",
+      "id": "comment-choisir-un-boitier-adapte-sans-acheter-a-l-aveugle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un boîtier doit être choisi pour une <strong>référence moteur précise</strong>, et non seulement pour une marque, un modèle ou une cylindrée. Deux véhicules visuellement identiques peuvent avoir des injecteurs, un turbo, une boîte, une norme antipollution ou une version logicielle différents. Relevez le type moteur, le numéro de série du véhicule, sa puissance d’origine, son année-modèle et sa transmission. Vérifiez ensuite que le fournisseur confirme expressément la compatibilité de cette configuration."
+    },
+    {
+      "type": "paragraph",
+      "html": "Préférez un dispositif avec connecteurs de qualité automobile, faisceau protégé, montage sans couper ni dénuder le câblage d’origine, notice intelligible et interlocuteur technique identifiable. Un boîtier qui ne propose qu’un potentiomètre vague, une compatibilité prétendument universelle ou des gains identiques pour tous les diesels doit vous rendre prudent. Les affirmations du type « sans aucun risque », « compatible avec tous les moteurs » ou « baisse de consommation garantie » sont des signaux d’alerte, pas des arguments."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour comparer les familles de boîtiers diesel",
+      "headers": [
+        "Type de solution",
+        "Budget indicatif",
+        "Ce que vous obtenez",
+        "Point de vigilance principal"
+      ],
+      "rows": [
+        [
+          "Module universel d’entrée de gamme",
+          "Quelques dizaines d’euros à un peu plus d’une centaine",
+          "Compatibilité large annoncée, réglage sommaire et souvent un seul raccordement",
+          "Adaptation incertaine, connectique et assistance parfois insuffisantes"
+        ],
+        [
+          "Boîtier dédié à une motorisation",
+          "De l’ordre de quelques centaines d’euros",
+          "Faisceau spécifique, calibrage prévu pour une référence moteur, notice plus complète",
+          "Vérifier que la compatibilité couvre aussi la version exacte et la boîte"
+        ],
+        [
+          "Système multicapteur avec accompagnement",
+          "Plusieurs centaines d’euros, parfois davantage avec pose",
+          "Gestion plus élaborée, réglages encadrés et support technique potentiel",
+          "La sophistication ne remplace ni la conformité ni l’entretien du véhicule"
+        ],
+        [
+          "Pose et contrôle par un professionnel",
+          "Main-d’œuvre variable selon l’accès et les vérifications",
+          "Installation propre, contrôle visuel et interlocuteur en cas de problème",
+          "Le professionnel doit préciser ce qu’il contrôle réellement et les limites de sa prestation"
+        ]
+      ],
+      "note": "Ces ordres de grandeur varient fortement selon le véhicule, le canal de vente et le niveau de service. Un prix bas ne compense pas une compatibilité incertaine."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux faux gages de conformité",
+      "html": "Le marquage <strong>CE</strong> concerne notamment la conformité du produit à certaines exigences applicables ; il ne prouve pas, à lui seul, que votre véhicule modifié est autorisé à circuler sur route. De même, un connecteur « plug-and-play » décrit la pose, pas l’homologation du résultat."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Légalité, carte grise, contrôle technique et assurance : ce qu’il faut vérifier",
+      "id": "legalite-carte-grise-controle-technique-et-assurance-ce-qu-i"
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, modifier les caractéristiques techniques déclarées d’un véhicule peut imposer une démarche de mise en conformité et une actualisation administrative, notamment lorsque la puissance ou les émissions sont affectées. Dans les faits, une augmentation de puissance obtenue par boîtier est difficile à régulariser si vous ne disposez pas d’un dossier complet démontrant que le véhicule modifié respecte encore les exigences applicables. Avant l’achat, demandez par écrit au vendeur quels documents précis il fournit pour votre véhicule et quelle procédure permettrait, le cas échéant, une réception ou une régularisation. Une réponse vague ne suffit pas."
+    },
+    {
+      "type": "paragraph",
+      "html": "Contactez votre assureur <strong>avant l’installation</strong> et décrivez la modification sans l’euphémiser. L’assureur peut l’accepter, modifier les conditions ou refuser de couvrir le risque. En cas d’accident grave, l’absence de déclaration peut compliquer l’indemnisation ou ouvrir un litige. Au contrôle technique, l’absence de voyant au moment du contrôle ne vaut pas validation de la modification ; le contrôle porte sur des points définis et ne remplace ni une homologation ni l’obligation d’assurance."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un véhicule encore couvert par une garantie constructeur, une garantie commerciale ou une extension de garantie, l’ajout d’un boîtier peut conduire à une discussion difficile si une panne survient sur le moteur, le turbo, l’injection, la boîte ou la dépollution. L’impact exact dépend du contrat, de la panne et de l’expertise. Conservez les échanges écrits avec le fournisseur et n’acceptez pas une promesse orale de « garantie totale » sans connaître précisément les exclusions, le plafond, la durée et le gestionnaire de cette garantie."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les vérifications à faire avant de commander",
+      "items": [
+        "Demandez à l’assureur sa position écrite sur le boîtier et sur la puissance modifiée.",
+        "Lisez les conditions de garantie du véhicule et celles, distinctes, proposées par le vendeur du boîtier.",
+        "Exigez une confirmation de compatibilité liée à votre moteur, votre année-modèle et votre transmission.",
+        "Vérifiez les documents de conformité réellement fournis, et non de simples formules commerciales.",
+        "Faites corriger tout défaut existant : voyant, ratés, fumée, fuite, surconsommation, souci de FAP ou embrayage fatigué.",
+        "N’envisagez jamais la neutralisation d’un équipement antipollution : elle est illégale et expose à des problèmes mécaniques et réglementaires."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installation et conduite : les bonnes pratiques pour limiter les ennuis",
+      "id": "installation-et-conduite-les-bonnes-pratiques-pour-limiter-l"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous installez vous-même le boîtier, travaillez moteur froid, contact coupé, dans un environnement propre et sec. Ne tirez jamais sur les fils d’un capteur : manipulez les connecteurs par leur verrouillage. Le faisceau doit être maintenu loin des courroies, du ventilateur, des parties chaudes, des arêtes coupantes et des zones où l’eau stagne. Un boîtier mal fixé, soumis aux vibrations ou à la chaleur, est une source classique de panne intermittente."
+    },
+    {
+      "type": "steps",
+      "title": "Une mise en service prudente",
+      "items": [
+        {
+          "title": "Partir d’un véhicule sain",
+          "text": "Faites un entretien à jour et un diagnostic si un voyant ou un comportement anormal est déjà présent. Contrôlez aussi pneus, freins, niveau d’huile, refroidissement et état de l’embrayage ou de la boîte."
+        },
+        {
+          "title": "Respecter la notice à la lettre",
+          "text": "Branchez uniquement les connecteurs indiqués, sans épissure improvisée. Vérifiez deux fois le verrouillage, le cheminement du faisceau et la fixation du module avant de redémarrer."
+        },
+        {
+          "title": "Commencer au réglage le plus modéré",
+          "text": "Si le produit propose plusieurs niveaux, ne recherchez pas d’emblée le réglage maximal. Effectuez plusieurs trajets variés et surveillez la souplesse, les fumées, les voyants et d’éventuels à-coups."
+        },
+        {
+          "title": "Tester progressivement sous charge",
+          "text": "Quand le moteur est à température, sollicitez-le progressivement. Évitez les fortes accélérations à très bas régime sur un rapport élevé : cette habitude charge inutilement turbo, volant moteur et transmission, boîtier ou non."
+        },
+        {
+          "title": "Réagir au premier symptôme",
+          "text": "En cas de défaut, retirez le boîtier selon la procédure, sans chercher à masquer l’alerte. Si le symptôme persiste, faites diagnostiquer le véhicule avant de reprendre la route normalement."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretien et habitudes de conduite après l’installation",
+      "id": "entretien-et-habitudes-de-conduite-apres-l-installation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur moyen de préserver un diesel modifié reste une conduite mécanique : laissez le moteur atteindre sa température de fonctionnement avant de demander du couple, rétrogradez plutôt que d’écraser l’accélérateur à trop bas régime, et ménagez le turbo après une forte sollicitation en évitant d’arrêter immédiatement le moteur. Respectez les intervalles d’entretien les plus exigeants prévus par le constructeur, avec une huile conforme à la spécification moteur. Sur un diesel utilisé surtout en ville, assurez aussi des trajets suffisamment longs pour permettre au filtre à particules de fonctionner dans de bonnes conditions."
+    },
+    {
+      "type": "paragraph",
+      "html": "Surveillez l’évolution réelle plutôt qu’une impression ponctuelle : consommation calculée sur plusieurs pleins, niveau d’huile, fréquence des régénérations si le véhicule l’indique, apparition de fumées et souplesse de l’embrayage. Une hausse anormale de consommation ou un comportement dégradé ne doit pas être rationalisé par le « temps d’adaptation » : un boîtier bien adapté ne doit pas transformer un fonctionnement sain en source de défauts."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelles alternatives si votre objectif est différent ?",
+      "id": "quelles-alternatives-si-votre-objectif-est-different"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous trouvez votre voiture trop lente à réagir mais que vous ne manquez pas réellement de puissance, un boîtier de pédale ou un mode de conduite plus dynamique peut suffire à améliorer le ressenti, sans augmenter le couple moteur. Si votre priorité est la consommation, commencez par les pneus à la bonne pression, l’entretien du filtre à air, la recherche de défauts, le style de conduite et la réduction des charges inutiles. C’est plus prévisible et sans incidence sur l’homologation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour tracter très souvent ou transporter lourd, un véhicule doté d’origine d’un moteur, d’une boîte, de freins et d’un refroidissement dimensionnés pour cet usage demeure la solution la plus robuste. Enfin, si votre diesel manque de performances à cause d’un problème récent, n’investissez pas dans un boîtier avant diagnostic : débitmètre, durite de suralimentation, EGR, filtre à carburant, FAP ou turbo peuvent être en cause."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Évitez le faux calcul d’économie",
+      "html": "Comparez le coût total : achat, pose éventuelle, surcoût d’assurance, risque sur la garantie et entretien accru possible. Même avec une légère baisse de consommation, une seule réparation de turbo, d’embrayage ou de dépollution peut effacer très largement l’économie espérée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faut-il finalement installer un boîtier additionnel diesel ?",
+      "id": "faut-il-finalement-installer-un-boitier-additionnel-diesel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Oui, cela peut se défendre pour un besoin concret de reprises ou de couple, sur un véhicule en excellent état, avec un dispositif précisément compatible, un réglage raisonnable et une situation assurantielle clarifiée. En revanche, l’achat est peu pertinent si vous espérez une forte économie de carburant, si votre diesel présente déjà des défauts, si vous choisissez un module universel uniquement pour son prix ou si vous ne pouvez pas régulariser et assurer la modification. La meilleure décision est celle qui tient compte de l’ensemble du véhicule, et pas seulement de la puissance annoncée."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les boîtiers additionnels diesel",
+      "items": [
+        {
+          "q": "Un boîtier additionnel diesel fait-il vraiment consommer moins ?",
+          "a": "Pas systématiquement. À trajet, charge et conduite identiques, le supplément de couple peut parfois vous permettre d’accélérer avec moins d’ouverture de pédale. Mais si vous profitez des performances supplémentaires, la consommation augmente souvent. Ne considérez jamais l’économie de carburant comme garantie."
+        },
+        {
+          "q": "Puis-je installer un boîtier sur un diesel avec FAP ?",
+          "a": "Techniquement, certains boîtiers sont proposés pour des diesels équipés d’un filtre à particules. Cela exige davantage de prudence : le moteur et la dépollution doivent être irréprochables, le boîtier doit être prévu pour la version exacte, et la conduite doit éviter les contraintes excessives. Un défaut de FAP ou des régénérations perturbées imposent un diagnostic, pas une augmentation de puissance."
+        },
+        {
+          "q": "Le boîtier additionnel est-il légal sur route ouverte ?",
+          "a": "Il ne faut pas présumer qu’il l’est parce qu’il est vendu librement ou marqué CE. S’il modifie les caractéristiques techniques du véhicule, des obligations de conformité, de déclaration et d’assurance peuvent s’appliquer. Demandez les justificatifs propres à votre véhicule, renseignez-vous sur la procédure de régularisation envisageable et obtenez l’accord écrit de votre assureur avant toute pose."
+        },
+        {
+          "q": "Peut-on enlever le boîtier avant une révision ou un contrôle technique ?",
+          "a": "Un boîtier est souvent démontable, mais le retirer pour dissimuler une modification ne règle ni les questions de conformité, ni celles d’assurance. Certains calculateurs peuvent aussi conserver des informations ou des défauts. La bonne approche consiste à assumer la modification, à la déclarer lorsque nécessaire et à conserver un véhicule conforme."
+        },
+        {
+          "q": "Un boîtier peut-il abîmer l’embrayage ou le turbo ?",
+          "a": "Il peut accélérer l’usure d’éléments déjà sollicités, car le couple supplémentaire se transmet à l’embrayage, à la boîte et aux cardans, tandis que le turbo et l’échappement peuvent être davantage chargés. Le risque augmente avec un réglage agressif, un véhicule kilométré, des entretiens espacés, le remorquage et les reprises à bas régime sur un rapport trop long."
+        },
+        {
+          "q": "Vaut-il mieux un boîtier ou une reprogrammation ?",
+          "a": "Le boîtier est généralement plus facile à retirer et peut être moins coûteux ; une reprogrammation bien réalisée peut permettre un ajustement plus global du fonctionnement moteur. Aucun choix n’est automatiquement fiable, légal ou sans effet sur la garantie. Privilégiez la solution compatible avec votre usage, documentée pour votre véhicule, raisonnablement réglée et acceptable pour votre assurance."
+        }
+      ]
+    }
+  ]
+}
