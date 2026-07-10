@@ -1,0 +1,29 @@
+{
+  "name": "direct-achat-discount",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Direct Achat Discount — le magazine des achats malins. Moteur éditorial haute performance.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "wp:fetch": "node scripts/fetch-wp.mjs",
+    "wp:images": "node scripts/fetch-images.mjs",
+    "ai:sample": "node scripts/gen-sample.mjs",
+    "ai:batch:build": "node scripts/build-batch.mjs",
+    "ai:batch:submit": "node scripts/submit-batch.mjs",
+    "ai:batch:poll": "node scripts/poll-batch.mjs",
+    "ai:batch:ingest": "node scripts/ingest-batch.mjs",
+    "ai:image": "node scripts/gen-image.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.6.1",
+    "@astrojs/sitemap": "^3.3.0",
+    "@astrojs/rss": "^4.0.11",
+    "@fontsource-variable/bricolage-grotesque": "^5.1.1",
+    "@fontsource-variable/inter": "^5.1.1",
+    "sharp": "^0.33.5"
+  }
+}

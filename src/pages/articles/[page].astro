@@ -1,0 +1,27 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import ArticlesListing from '../../components/ArticlesListing.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import { byDateDesc } from '../../lib/articles';
+
+export async function getStaticPaths() {
+  const PAGE_SIZE = 24;
+  const all = (await getCollection('articles')).sort(byDateDesc);
+  const last = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
+  const paths = [];
+  for (let p = 2; p <= last; p++) {
+    paths.push({
+      params: { page: String(p) },
+      props: { items: all.slice((p - 1) * PAGE_SIZE, p * PAGE_SIZE), current: p, last, total: all.length },
+    });
+  }
+  return paths;
+}
+
+const { items, current, last, total } = Astro.props;
+---
+<Base title={`Tous les guides — page ${current}`} description="Tous les guides d’achat et conseils de Direct Achat Discount.">
+  <ArticlesListing items={items} current={current} last={last} total={total} />
+  <CtaBand />
+</Base>

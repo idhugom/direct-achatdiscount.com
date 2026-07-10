@@ -1,0 +1,26 @@
+---
+// Bandeau d'appel à l'action — sans backend (mailto). Visuel fort.
+---
+<section class="cta">
+  <div class="cta__bg" aria-hidden="true"><span></span><span></span></div>
+  <div class="cta__inner wrap reveal">
+    <p class="cta__kicker">⚡ Ne ratez plus un bon plan</p>
+    <h2 class="cta__title display">Les meilleurs guides,<br />directement utiles.</h2>
+    <p class="cta__lede">Des conseils d’achat clairs et indépendants, pour choisir mieux et dépenser moins. Parcourez les rubriques et trouvez la réponse à votre question.</p>
+    <div class="cta__row">
+      <a href="/articles/" class="btn btn--lime">Explorer tous les guides →</a>
+      <a href="/recherche/" class="btn btn--ghost" style="--fg:var(--paper);border-color:var(--paper)">Rechercher un sujet</a>
+    </div>
+  </div>
+</section>
+<style>
+  .cta { position: relative; overflow: hidden; background: var(--ink); color: var(--paper); border-block: 3px solid var(--ink); }
+  .cta__bg span { position: absolute; border-radius: 50%; filter: blur(70px); opacity: 0.55; mix-blend-mode: screen; }
+  .cta__bg span:nth-child(1) { width: 32vw; height: 32vw; background: var(--pink); left: -8vw; top: -10vw; animation: drift 20s ease-in-out infinite; }
+  .cta__bg span:nth-child(2) { width: 30vw; height: 30vw; background: var(--cyan); right: -6vw; bottom: -12vw; animation: drift 24s ease-in-out infinite reverse; }
+  .cta__inner { position: relative; z-index: 1; text-align: center; padding-block: clamp(3.5rem, 9vw, 6.5rem); }
+  .cta__kicker { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.82rem; color: var(--lime); margin-bottom: 1rem; }
+  .cta__title { font-size: clamp(2.2rem, 1.4rem + 5vw, 5rem); margin-bottom: 1.2rem; }
+  .cta__lede { max-width: 52ch; margin: 0 auto 2rem; color: color-mix(in srgb, var(--paper) 80%, transparent); font-size: clamp(1rem, 0.95rem + 0.4vw, 1.2rem); }
+  .cta__row { display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; }
+</style>

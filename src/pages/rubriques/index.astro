@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { CATEGORIES } from '../../lib/categories';
+
+const all = await getCollection('articles');
+const counts = new Map<string, number>();
+for (const a of all) counts.set(a.data.category, (counts.get(a.data.category) || 0) + 1);
+---
+
+<Base title="Toutes les rubriques" description="Explorez toutes les rubriques de Direct Achat Discount : maison, cuisine, auto, tech, voyage, argent, mode, loisirs, bien-être, famille.">
+  <header class="rh">
+    <div class="wrap-wide rh__in">
+      <p class="rh__kicker">⚡ Le sommaire du magazine</p>
+      <h1 class="rh__title display">Toutes les rubriques</h1>
+      <p class="rh__lede">Dix univers, un même réflexe&nbsp;: acheter malin. Choisissez votre terrain de jeu.</p>
+    </div>
+  </header>
+
+  <section class="section wrap-wide">
+    <div class="rubs">
+      {CATEGORIES.map((c, i) => (
+        <a href={`/rubrique/${c.slug}/`} class="rub reveal" data-delay={i % 4} style={`--cat:${c.color};--cat-ink:${c.ink}`}>
+          <span class="rub__num u-mono">{String(i + 1).padStart(2, '0')}</span>
+          <span class="rub__emoji" aria-hidden="true">{c.emoji}</span>
+          <span class="rub__name">{c.name}</span>
+          <span class="rub__tag">{c.tagline}</span>
+          <span class="rub__count u-mono">{counts.get(c.slug) || 0} article{(counts.get(c.slug) || 0) > 1 ? 's' : ''} →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</Base>
+
+<style>
+  .rh { background: var(--ink); color: var(--paper); border-bottom: 3px solid var(--ink); }
+  .rh__in { padding-block: clamp(2.8rem, 7vw, 5rem); }
+  .rh__kicker { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.82rem; color: var(--lime); margin-bottom: 0.9rem; }
+  .rh__title { font-size: clamp(2.6rem, 1.5rem + 7vw, 6rem); }
+  .rh__lede { color: color-mix(in srgb, var(--paper) 80%, transparent); font-size: clamp(1.05rem, 1rem + 0.5vw, 1.3rem); margin-top: 0.8rem; max-width: 46ch; }
+
+  .rubs { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.2rem; }
+  .rub { position: relative; display: grid; gap: 0.35rem; padding: 1.6rem 1.5rem; background: var(--cat); color: var(--cat-ink); border: 2.5px solid var(--ink); border-radius: var(--radius); overflow: hidden; min-height: 210px; transition: transform 0.3s var(--ease-out), box-shadow 0.3s var(--ease-out); }
+  .rub:hover { transform: translate(-5px, -5px); box-shadow: var(--shadow-hard-lg); }
+  .rub__num { position: absolute; top: 1rem; right: 1.2rem; font-family: var(--font-display); font-weight: 800; font-size: 2.6rem; opacity: 0.28; }
+  .rub__emoji { font-size: 2.4rem; }
+  .rub__name { font-family: var(--font-display); font-weight: 800; font-size: 1.55rem; letter-spacing: -0.02em; line-height: 1.02; }
+  .rub__tag { font-size: 0.9rem; opacity: 0.82; max-width: 26ch; }
+  .rub__count { margin-top: auto; font-weight: 700; font-size: 0.82rem; }
+</style>

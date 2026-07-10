@@ -1,0 +1,22 @@
+# build
+dist/
+.astro/
+node_modules/
+
+# env & secrets
+.env
+.env.*
+!.env.example
+
+# openai batch working files (peuvent être volumineux)
+data/batch/*.jsonl
+data/batch/*.out.jsonl
+data/batch/state.json
+
+# logs
+*.log
+npm-debug.log*
+
+# os
+.DS_Store
+Thumbs.db

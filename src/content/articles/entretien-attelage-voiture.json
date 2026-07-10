@@ -1,0 +1,454 @@
+{
+  "title": "Entretien régulier d’un attelage voiture : astuces et recommandations",
+  "slug": "entretien-attelage-voiture",
+  "path": "/divers/entretien-attelage-voiture.html",
+  "category": "auto-moto",
+  "tags": [
+    "entretien attelage",
+    "attelage voiture",
+    "remorque",
+    "faisceau électrique",
+    "boule d'attelage",
+    "remorquage"
+  ],
+  "excerpt": "Un attelage bien entretenu reste fiable et sûr. Voici les contrôles, produits et gestes à adopter pour tracter sereinement, toute l’année.",
+  "metaDescription": "Entretenez votre attelage voiture sans erreur : nettoyage, graissage adapté, prise électrique, fixations et contrôles avant remorquage.",
+  "seoTitle": "Entretien attelage voiture : conseils et contrôles",
+  "heroKicker": "Tracter en sécurité",
+  "readingTime": 11,
+  "date": "2025-08-08T06:41:43",
+  "image": {
+    "id": "3372",
+    "alt": "Entretien régulier d’un attelage voiture : astuces et recommandations",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un attelage est un équipement de sécurité : il transmet les efforts de la remorque, de la caravane ou du porte-vélos à la voiture. Un entretien simple mais régulier limite la corrosion, les faux contacts et l’usure du verrouillage, tout en évitant les mauvaises surprises au moment de partir."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Inspectez l’attelage <strong>avant chaque trajet avec une charge tractée</strong> : boule ou rotule, verrouillage, prise, câble et fixations visibles.",
+        "Nettoyez la boule après les trajets humides, boueux ou salés ; ne graissez pas aveuglément un dispositif doté de patins de stabilisation.",
+        "Ne resserrez jamais les fixations structurelles « au jugé » : respectez les consignes du constructeur du véhicule ou de l’attelage.",
+        "Protégez la prise électrique avec son capuchon et traitez les faux contacts dès leur apparition.",
+        "Après un choc, un frottement important ou une anomalie de verrouillage, cessez de tracter jusqu’à contrôle."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 zones",
+          "label": "à examiner systématiquement : liaison mécanique, fixations et faisceau électrique"
+        },
+        {
+          "value": "Avant chaque départ",
+          "label": "le bon moment pour tester feux, verrouillage et sécurité de la remorque"
+        },
+        {
+          "value": "Après sel ou boue",
+          "label": "nettoyage conseillé pour limiter l’oxydation et le grippage"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi l’entretien d’un attelage ne doit pas être négligé",
+      "id": "pourquoi-l-entretien-d-un-attelage-ne-doit-pas-etre-neglige"
+    },
+    {
+      "type": "paragraph",
+      "html": "La boule d’attelage, le col de cygne ou le crochet sont exposés à l’eau, aux gravillons, au sel de déneigement et aux écarts de température. Ces agressions favorisent la rouille et peuvent rendre un mécanisme amovible difficile à manœuvrer. Côté électrique, la prise située bas sur le véhicule accumule facilement humidité et poussière : un simple défaut de contact peut priver la remorque de clignotants, de feux stop ou de feux de position."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’enjeu ne concerne pas seulement le confort. Une rotule encrassée peut accélérer l’usure de la tête d’attelage ; une fixation desserrée ou un verrouillage incomplet constitue un risque majeur. Enfin, un attelage mal entretenu peut donner une fausse impression de fiabilité : il semble solide à l’arrêt, mais révèle ses défauts sous les à-coups du freinage, dans les virages ou sur route dégradée."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas entretien et réparation",
+      "html": "Un nettoyage, un contrôle visuel et une lubrification adaptée relèvent de l’entretien courant. En revanche, une fissure, une déformation, une corrosion profonde, un jeu anormal ou un verrouillage aléatoire imposent un <strong>contrôle par un professionnel compétent</strong>. Ne tentez pas de redresser une pièce d’attelage ni de masquer un défaut par de la graisse ou de la peinture."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les zones à contrôler avant, pendant et après l’usage",
+      "id": "les-zones-a-controler-avant-pendant-et-apres-l-usage"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure routine est courte, répétée et méthodique. Avant de tracter, observez l’ensemble avec la remorque dételée, puis refaites un contrôle une fois l’ensemble attelé. Après le trajet, notamment s’il a plu ou si vous avez roulé sur des routes traitées, un coup d’œil permet de repérer une salissure ou une anomalie pendant qu’elle est encore facile à traiter."
+    },
+    {
+      "type": "table",
+      "caption": "Routine de contrôle d’un attelage automobile",
+      "headers": [
+        "Élément",
+        "À vérifier",
+        "Fréquence pratique",
+        "Action à mener"
+      ],
+      "rows": [
+        [
+          "Boule, rotule ou crochet",
+          "Propreté, corrosion, rayures profondes, déformation, jeu",
+          "Avant chaque remorquage ; après conditions salissantes",
+          "Nettoyer, sécher, lubrifier seulement si le système l’autorise"
+        ],
+        [
+          "Tête d’attelage de la remorque",
+          "Verrouillage complet, indicateur éventuel, absence de jeu anormal",
+          "À chaque attelage",
+          "Repositionner correctement ou faire contrôler si le verrouillage est incertain"
+        ],
+        [
+          "Câble ou chaîne de sécurité",
+          "État de la gaine, accroche correcte, longueur sans traîner",
+          "À chaque attelage",
+          "Remplacer si effiloché, pincé, trop usé ou déformé"
+        ],
+        [
+          "Prise et faisceau",
+          "Capuchon, broches propres, câble non coupé, feux fonctionnels",
+          "À chaque départ",
+          "Nettoyer les contacts et diagnostiquer tout faux contact"
+        ],
+        [
+          "Fixations et support",
+          "Traces de choc, rouille évoluée, pièce desserrée ou anormale",
+          "Régulièrement et après choc",
+          "Faire contrôler ; ne pas serrer au hasard"
+        ],
+        [
+          "Mécanisme amovible",
+          "Insertion, verrouillage, clé, témoin ou voyant selon modèle",
+          "À chaque montage et avant stockage",
+          "Nettoyer suivant la notice et protéger le logement"
+        ]
+      ],
+      "note": "Les fréquences exactes et les produits autorisés dépendent du modèle. La notice de l’attelage et celle du véhicule priment toujours."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ce que l’œil doit repérer immédiatement",
+      "id": "ce-que-l-il-doit-reperer-immediatement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une légère coloration de surface peut être traitée tôt ; une rouille qui s’écaille, une boursouflure de peinture sur le support ou une piqûre marquée mérite davantage d’attention. Recherchez aussi les traces brillantes inhabituelles : elles peuvent révéler un frottement ou un déplacement de pièce. Sur une rotule, un aplatissement visible, des sillons profonds ou une forme irrégulière ne sont pas de simples marques esthétiques."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre contrôle express avant le départ",
+      "items": [
+        "La remorque est complètement engagée sur la boule et son indicateur de couplage, s’il existe, confirme le verrouillage.",
+        "La roue jockey est relevée et correctement sécurisée ; rien ne peut toucher la chaussée.",
+        "Le câble de rupture ou la chaîne est fixé conformément à la notice, sans frotter au sol ni s’enrouler autour de la boule de façon inadaptée.",
+        "La prise est enfoncée, son câble conserve du débattement dans les virages et aucun fil n’est tendu.",
+        "Les feux de position, clignotants, feux stop et, si applicable, feu antibrouillard de la remorque fonctionnent.",
+        "La charge est arrimée, répartie et compatible avec les limites du véhicule, de l’attelage et de la remorque."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nettoyer et lubrifier sans commettre l’erreur classique",
+      "id": "nettoyer-et-lubrifier-sans-commettre-l-erreur-classique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par enlever la poussière, le sable et la boue avec un chiffon non pelucheux ou une brosse souple. Lavez ensuite à l’eau claire si nécessaire, avec un produit de nettoyage doux, puis séchez soigneusement. Évitez le jet à très haute pression dirigé de près vers une prise, un logement de rotule amovible, un barillet ou un mécanisme de verrouillage : l’eau peut chasser le lubrifiant utile ou pénétrer dans une zone peu ventilée."
+    },
+    {
+      "type": "paragraph",
+      "html": "La règle de lubrification dépend du type de tête d’attelage de la remorque. Avec une tête classique, une fine pellicule de lubrifiant adapté sur la boule peut réduire les bruits et l’usure. Elle ne doit jamais former une couche épaisse qui retiendrait abrasifs et saletés. En revanche, les têtes stabilisatrices équipées de patins de friction demandent généralement une boule <strong>propre, sèche et dégraissée</strong> : de la graisse compromettrait leur fonction anti-lacet. Vérifiez impérativement la notice de la remorque ou de la caravane."
+    },
+    {
+      "type": "comparison",
+      "title": "Boule graissée ou boule sèche : le choix dépend de la tête d’attelage",
+      "left": {
+        "title": "Tête classique",
+        "points": [
+          "Une fine lubrification peut être prévue pour limiter frottements et couinements.",
+          "Retirez régulièrement l’ancienne graisse chargée de poussière avant d’en remettre peu.",
+          "Utilisez uniquement un produit compatible avec les pièces mécaniques concernées."
+        ]
+      },
+      "right": {
+        "title": "Tête stabilisatrice à patins",
+        "points": [
+          "La surface de la boule doit en principe rester propre et dégraissée.",
+          "Les patins créent volontairement une friction pour stabiliser l’ensemble.",
+          "Graisse, silicone ou produit lustrant peuvent réduire l’efficacité du système."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon geste de nettoyage",
+      "html": "Après avoir roulé sous la pluie ou sur une route salée, essuyez la boule et remettez le capuchon de protection lorsque vous n’utilisez pas l’attelage. Ce petit geste réduit les projections sur vos vêtements et limite l’apparition de corrosion superficielle."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Faut-il graisser le mécanisme d’une rotule démontable ?",
+      "id": "faut-il-graisser-le-mecanisme-d-une-rotule-demontable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pas systématiquement, et surtout pas partout. Les mécanismes amovibles comportent des zones de guidage, de verrouillage et parfois des éléments dont le fonctionnement dépend d’un état propre plutôt que gras. Retirez les saletés du logement, séchez-le et appliquez seulement le produit ainsi que la quantité indiqués par le fabricant. Une graisse universelle introduite en excès peut capter le sable, figer par temps froid ou gêner un témoin mécanique."
+    },
+    {
+      "type": "proscons",
+      "title": "Graissage : utile lorsqu’il est ciblé",
+      "pros": [
+        "Réduit les frottements sur une liaison conçue pour être lubrifiée.",
+        "Peut prévenir les grincements et le grippage d’une pièce autorisée.",
+        "Crée une protection temporaire contre l’humidité sur certaines surfaces métalliques."
+      ],
+      "cons": [
+        "Retient poussière, sable et particules abrasives lorsqu’il est appliqué en excès.",
+        "Peut contaminer les patins d’une tête stabilisatrice et diminuer son efficacité.",
+        "Peut masquer une usure, une fissure ou un jeu qui devrait être diagnostiqué."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretenir la prise électrique et le faisceau",
+      "id": "entretenir-la-prise-electrique-et-le-faisceau"
+    },
+    {
+      "type": "paragraph",
+      "html": "La prise est l’un des éléments les plus vulnérables. Ouvrez son clapet ou son capuchon et contrôlez les broches : elles doivent être propres, correctement alignées et sans dépôt vert-de-gris important. Un chiffon sec suffit souvent. Si des traces d’oxydation ou d’humidité sont présentes, utilisez un nettoyant pour contacts électriques compatible avec les plastiques, laissez sécher, puis testez les feux. Évitez de remplir la prise de graisse ou de lubrifiant multiusage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Contrôlez également le faisceau sur toute sa partie visible. Il ne doit ni pendouiller, ni être coincé derrière un pare-chocs, ni frotter sur une arête. Sur une remorque, le câble doit garder assez de longueur pour les manœuvres sans pouvoir toucher le sol. Un défaut intermittent apparaît parfois seulement en tournant ou en passant sur une bosse : faites le test à deux, une personne au volant et l’autre derrière le véhicule."
+    },
+    {
+      "type": "steps",
+      "title": "Diagnostiquer un feu de remorque qui fonctionne mal",
+      "items": [
+        {
+          "title": "Isolez le symptôme",
+          "text": "Notez si le défaut concerne un seul feu, un seul côté ou plusieurs fonctions. Un clignotant faible accompagné d’autres anomalies évoque souvent une masse défaillante."
+        },
+        {
+          "title": "Inspectez la prise",
+          "text": "Débranchez, vérifiez les broches et le verrouillage de la fiche. Nettoyez et séchez avant de rebrancher fermement."
+        },
+        {
+          "title": "Contrôlez la remorque",
+          "text": "Examinez ampoules ou modules LED, connecteurs, masse et câble exposé. Une infiltration d’eau dans un feu est une cause fréquente."
+        },
+        {
+          "title": "Testez côté véhicule",
+          "text": "Si le problème persiste avec une autre remorque ou un testeur adapté, faites vérifier le faisceau, le boîtier électronique ou la programmation du véhicule."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Attention aux véhicules récents",
+      "html": "Sur de nombreux véhicules, le faisceau communique avec l’électronique embarquée. Un branchement artisanal, une réparation approximative ou le remplacement d’un élément sans compatibilité garantie peut provoquer des défauts. En cas d’alerte au tableau de bord ou de feux incohérents, privilégiez un diagnostic adapté."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fixations, support et capacité : les contrôles structurels",
+      "id": "fixations-support-et-capacite-les-controles-structurels"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’attelage est fixé à des points déterminés du châssis ou de la structure du véhicule. Ces éléments ne doivent pas être modifiés, percés, tordus ou repeints pour cacher une corrosion. Regardez sous le véhicule avec une lampe : cherchez un support déformé, un choc récent, une trace de frottement sur l’échappement ou une corrosion marquée près des assemblages."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas un contrôle visuel avec un resserrage préventif improvisé. Les vis de fixation ont une qualité, un ordre de serrage et un couple précis. Sans la documentation technique adaptée et l’outillage approprié, vous risquez autant le sous-serrage que le surserrage. Après la pose d’un attelage, une intervention sur le train arrière, un choc contre un obstacle ou un accident, demandez une vérification à un professionnel."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Respecter les limites de traction et d’appui",
+      "id": "respecter-les-limites-de-traction-et-d-appui"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entretien ne compense jamais un mauvais dimensionnement. Vérifiez les valeurs autorisées pour le véhicule, l’attelage et la remorque : masse remorquable, charge verticale admissible sur la rotule et, selon le matériel, limites propres au porte-vélos. La valeur à respecter est toujours la plus restrictive des trois. Une charge trop lourde ou mal répartie sollicite les fixations, dégrade la stabilité et fatigue prématurément la liaison mécanique."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Une boule n’est pas un point d’arrimage universel",
+      "html": "N’attachez pas une chaîne, un câble de traction, un treuil ou une charge latérale à la boule sauf si l’équipement et le véhicule sont explicitement conçus pour cet usage. Un attelage prévu pour remorquer dans son axe ne doit pas être détourné de sa fonction."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Attelage fixe ou démontable : des besoins d’entretien différents",
+      "id": "attelage-fixe-ou-demontable-des-besoins-d-entretien-differen"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les deux solutions demandent les mêmes contrôles de sécurité de base, mais leur exposition et leurs points de vigilance diffèrent. Un modèle fixe reste constamment exposé aux projections ; un modèle démontable protège mieux la rotule lorsqu’elle est rangée, mais ajoute un mécanisme de verrouillage à surveiller. Dans les deux cas, conservez la documentation, les clés éventuelles et les capuchons dans un endroit identifié."
+    },
+    {
+      "type": "comparison",
+      "title": "Entretien selon le type d’attelage",
+      "left": {
+        "title": "Attelage fixe",
+        "points": [
+          "Accessible en permanence : le contrôle visuel est très rapide.",
+          "Davantage exposé aux intempéries, aux chocs de stationnement et aux salissures.",
+          "Un capuchon de boule est particulièrement utile entre deux usages."
+        ]
+      },
+      "right": {
+        "title": "Attelage démontable",
+        "points": [
+          "La rotule peut être stockée à l’abri lorsqu’elle n’est pas utilisée.",
+          "Le logement, la serrure et le mécanisme de verrouillage demandent un soin conforme à la notice.",
+          "Vérifiez systématiquement le témoin de verrouillage et ne forcez jamais une pièce qui résiste."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prévenir la corrosion et bien stocker les accessoires",
+      "id": "prevenir-la-corrosion-et-bien-stocker-les-accessoires"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous tractez rarement, l’absence d’usage ne dispense pas d’entretien. Une rotule laissée sous la pluie peut s’oxyder plus vite qu’une rotule régulièrement manipulée et séchée. Retirez les dépôts, séchez les parties métalliques, protégez la boule lorsque cela est pertinent et vérifiez que le clapet de prise ferme correctement. Pour un attelage démontable, stockez la rotule propre et sèche dans sa housse ou un contenant ventilé, sans l’enfermer mouillée."
+    },
+    {
+      "type": "paragraph",
+      "html": "La saison froide mérite une attention renforcée : le sel accélère l’oxydation, tandis que la boue durcie peut empêcher une insertion correcte. Après un séjour en bord de mer, des routes enneigées ou un chantier, rincez modérément les projections, séchez et examinez les zones cachées. Ne recouvrez pas les éléments de sécurité d’une peinture quelconque : une couche inadaptée peut dissimuler un défaut et modifier les surfaces de friction."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les erreurs qui écourtent la durée de vie d’un attelage",
+      "items": [
+        "Laisser de la graisse contaminée par le sable sur la boule pendant des mois.",
+        "Lubrifier les patins ou la boule d’une tête stabilisatrice sans consulter sa notice.",
+        "Forcer une rotule démontable qui ne s’enclenche pas ; recherchez la cause du blocage.",
+        "Utiliser un nettoyeur très puissant contre la prise, le barillet ou les joints du mécanisme.",
+        "Ignorer un capuchon de prise cassé et attendre le premier faux contact.",
+        "Reporter l’inspection après un choc arrière, un trottoir heurté ou un accrochage de manœuvre."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, produits utiles et moment où confier l’attelage à un professionnel",
+      "id": "budget-produits-utiles-et-moment-ou-confier-l-attelage-a-un-"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entretien courant coûte peu : chiffons, brosse souple, nettoyant pour contacts électriques et, uniquement si nécessaire, lubrifiant recommandé représentent un budget modeste. Un capuchon de boule ou de prise est également un accessoire peu coûteux au regard de la protection apportée. À l’inverse, une réparation de faisceau, le remplacement d’une rotule amovible ou une remise en état après corrosion structurelle peuvent représenter un budget nettement plus élevé, variable selon le véhicule et la disponibilité des pièces."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget et de décision",
+      "headers": [
+        "Situation",
+        "Solution raisonnable",
+        "Niveau de budget"
+      ],
+      "rows": [
+        [
+          "Boule sale ou légèrement oxydée",
+          "Nettoyage, séchage, protection adaptée",
+          "Très modeste"
+        ],
+        [
+          "Prise encrassée ou faux contact simple",
+          "Nettoyage des contacts et contrôle du câble",
+          "Modeste"
+        ],
+        [
+          "Capuchon, clé ou accessoire de protection à remplacer",
+          "Pièce compatible avec le modèle",
+          "Modeste à intermédiaire"
+        ],
+        [
+          "Faisceau endommagé ou défaut électronique persistant",
+          "Diagnostic et réparation professionnelle",
+          "Intermédiaire à élevé"
+        ],
+        [
+          "Jeu, fissure, support tordu, verrouillage incertain",
+          "Immobilisation de l’usage tracté et contrôle spécialisé",
+          "Variable, potentiellement élevé"
+        ]
+      ],
+      "note": "Ces niveaux sont des ordres de grandeur : ils varient fortement selon le véhicule, le type d’attelage et l’ampleur de l’intervention."
+    },
+    {
+      "type": "paragraph",
+      "html": "Consultez sans attendre si la rotule bouge anormalement, si le mécanisme amovible ne verrouille pas de façon répétable, si une fixation paraît déplacée ou si les feux restent défaillants après les vérifications de base. C’est également recommandé avant un long trajet si l’attelage est resté inutilisé longtemps. Un contrôle professionnel est moins coûteux qu’un incident de remorquage et vous permet de repartir avec un matériel dont l’état est réellement connu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La routine simple qui fait la différence",
+      "id": "la-routine-simple-qui-fait-la-difference"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la plupart des automobilistes, la bonne stratégie tient en trois moments : un contrôle fonctionnel avant chaque départ, un nettoyage après les conditions agressives et une inspection approfondie périodique. Gardez à portée de main un chiffon propre, un petit nettoyant contacts, le capuchon de boule et la notice du système. Cette organisation évite le geste le plus risqué : improviser au pied de la remorque, juste avant de partir."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Investissez d’abord dans la prévention",
+      "html": "Un accessoire de protection, des produits adaptés et quelques minutes de contrôle valent bien davantage qu’une réparation due à un mécanisme grippé ou à un faisceau corrodé. L’économie la plus fiable consiste à intervenir <strong>avant</strong> que l’usure ne devienne structurelle."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’entretien d’un attelage voiture",
+      "items": [
+        {
+          "q": "Doit-on graisser systématiquement une boule d’attelage ?",
+          "a": "Non. Une tête d’attelage classique peut bénéficier d’une fine pellicule de lubrifiant approprié si sa notice le prévoit. En revanche, avec une tête stabilisatrice à patins de friction, la boule doit généralement rester propre et dégraissée. Consultez toujours la documentation de la remorque ou de la caravane."
+        },
+        {
+          "q": "À quelle fréquence faut-il nettoyer un attelage ?",
+          "a": "Un essuyage et un contrôle avant un remorquage sont de bonnes habitudes. Nettoyez plus soigneusement après la pluie, la boue, le sel ou un séjour en bord de mer. Si vous utilisez peu l’attelage, inspectez-le tout de même régulièrement : l’humidité agit même à l’arrêt."
+        },
+        {
+          "q": "Puis-je rouler sans la rotule démontable lorsqu’elle n’est pas utilisée ?",
+          "a": "Oui, si votre modèle est conçu pour être retiré et si vous respectez sa procédure de démontage. Rangez la rotule propre, sèche et protégée. Refermez ou protégez son logement suivant les recommandations du fabricant afin d’éviter l’accumulation de saletés."
+        },
+        {
+          "q": "Comment savoir si la prise d’attelage est oxydée ?",
+          "a": "Des broches ternies, verdâtres, noircies, humides ou un fonctionnement intermittent des feux sont des signaux courants. Nettoyez avec un produit pour contacts électriques compatible, séchez puis testez toutes les fonctions. Si le défaut revient, contrôlez le faisceau et la masse ou faites établir un diagnostic."
+        },
+        {
+          "q": "Est-il normal que la boule présente des rayures ?",
+          "a": "De légères traces d’usage peuvent apparaître avec une tête classique. En revanche, des sillons profonds, un aplatissement, une déformation, une corrosion importante ou un jeu ne sont pas normaux. N’utilisez plus l’ensemble pour tracter avant un contrôle qualifié."
+        },
+        {
+          "q": "Puis-je resserrer moi-même les boulons de l’attelage ?",
+          "a": "Seulement si vous disposez des instructions exactes du fabricant, de l’outillage adapté et des compétences nécessaires. Les fixations structurelles exigent un couple et une méthode précis. En l’absence de ces informations, faites vérifier l’attelage par un professionnel plutôt que de serrer au hasard."
+        }
+      ]
+    }
+  ]
+}

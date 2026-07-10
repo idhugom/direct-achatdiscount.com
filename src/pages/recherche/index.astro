@@ -1,0 +1,113 @@
+---
+import Base from '../../layouts/Base.astro';
+import { CATEGORIES } from '../../lib/categories';
+---
+
+<Base title="Rechercher" description="Recherchez parmi tous les guides et comparatifs de Direct Achat Discount.">
+  <section class="srch">
+    <div class="wrap srch__in">
+      <p class="srch__kicker">⚡ Trouvez la bonne réponse</p>
+      <h1 class="srch__title display">Que cherchez-vous&nbsp;?</h1>
+      <div class="srch__box">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="q" type="search" placeholder="Ex : matelas, assurance moto, montre GPS…" autocomplete="off" aria-label="Rechercher" />
+      </div>
+      <div class="srch__cats">
+        <button class="srch__cat is-on" data-cat="">Tout</button>
+        {CATEGORIES.map((c) => (
+          <button class="srch__cat" data-cat={c.slug} style={`--cat:${c.color}`}>{c.short}</button>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section wrap-wide">
+    <p id="count" class="srch__count u-mono" aria-live="polite"></p>
+    <div id="results" class="cards-grid"></div>
+    <p id="empty" class="srch__empty" hidden>Aucun résultat. Essayez d’autres mots-clés.</p>
+  </section>
+</Base>
+
+<style>
+  .srch { background: var(--ink); color: var(--paper); border-bottom: 3px solid var(--ink); }
+  .srch__in { padding-block: clamp(2.6rem, 6vw, 4.5rem); }
+  .srch__kicker { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.82rem; color: var(--lime); margin-bottom: 0.9rem; }
+  .srch__title { font-size: clamp(2.2rem, 1.4rem + 5vw, 4.5rem); margin-bottom: 1.6rem; }
+  .srch__box { display: flex; align-items: center; gap: 0.8rem; background: var(--paper); color: var(--ink); border: 3px solid var(--paper); border-radius: 100px; padding: 0.4rem 1.3rem; max-width: 640px; box-shadow: 8px 8px 0 var(--pink); }
+  .srch__box input { flex: 1; border: none; background: none; font: inherit; font-size: 1.15rem; padding: 0.7rem 0; outline: none; }
+  .srch__cats { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.4rem; }
+  .srch__cat { padding: 0.4em 0.9em; background: transparent; color: var(--paper); border: 2px solid color-mix(in srgb, var(--paper) 40%, transparent); border-radius: 100px; font-family: var(--font-display); font-weight: 700; font-size: 0.85rem; transition: all 0.2s; }
+  .srch__cat:hover { border-color: var(--paper); }
+  .srch__cat.is-on { background: var(--cat, var(--lime)); color: var(--ink); border-color: var(--ink); }
+  .srch__count { font-weight: 700; margin-bottom: 1.2rem; color: color-mix(in srgb, var(--ink) 60%, transparent); }
+  .srch__empty { text-align: center; font-size: 1.2rem; padding: 2rem; }
+  .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.4rem; }
+
+  .rcard { display: flex; flex-direction: column; background: var(--paper); border: 2.5px solid var(--ink); border-radius: var(--radius); overflow: hidden; transition: transform 0.3s var(--ease-out), box-shadow 0.3s var(--ease-out); }
+  .rcard:hover { transform: translate(-4px, -4px); box-shadow: var(--shadow-hard-lg); }
+  .rcard__media { aspect-ratio: 16/10; background: var(--paper-2); border-bottom: 2.5px solid var(--ink); overflow: hidden; }
+  .rcard__media img { width: 100%; height: 100%; object-fit: cover; }
+  .rcard__b { padding: 1rem 1.1rem 1.2rem; display: flex; flex-direction: column; gap: 0.5rem; }
+  .rcard__chip { align-self: flex-start; font-family: var(--font-display); font-weight: 700; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.05em; padding: 0.25em 0.7em; border: 2px solid var(--ink); border-radius: 100px; }
+  .rcard__t { font-family: var(--font-display); font-weight: 700; font-size: 1.15rem; line-height: 1.1; }
+  .rcard__e { font-size: 0.9rem; color: color-mix(in srgb, var(--ink) 70%, transparent); }
+</style>
+
+<script>
+  type Item = { t: string; e: string; u: string; c: string; cs: string; col: string; tg: string[]; img: string | null };
+  const input = document.getElementById('q') as HTMLInputElement;
+  const results = document.getElementById('results')!;
+  const countEl = document.getElementById('count')!;
+  const emptyEl = document.getElementById('empty') as HTMLElement;
+  const catBtns = [...document.querySelectorAll('.srch__cat')] as HTMLButtonElement[];
+  let DATA: Item[] = [];
+  let cat = '';
+
+  const norm = (s: string) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase();
+
+  function render(list: Item[]) {
+    results.innerHTML = list.slice(0, 60).map((x) => `
+      <a class="rcard" href="${x.u}">
+        <div class="rcard__media">${x.img ? `<img src="${x.img}" loading="lazy" alt="" width="800" height="500">` : ''}</div>
+        <div class="rcard__b">
+          <span class="rcard__chip" style="background:${x.col}">${x.c}</span>
+          <span class="rcard__t">${x.t}</span>
+          <span class="rcard__e">${x.e}</span>
+        </div>
+      </a>`).join('');
+    const has = list.length > 0;
+    emptyEl.hidden = has;
+    countEl.textContent = has ? `${list.length} résultat${list.length > 1 ? 's' : ''}` : '';
+  }
+
+  function run() {
+    const q = norm(input.value.trim());
+    let list = DATA;
+    if (cat) list = list.filter((x) => x.cs === cat);
+    if (q) {
+      const terms = q.split(/\s+/);
+      list = list.filter((x) => {
+        const hay = norm(x.t + ' ' + x.e + ' ' + x.tg.join(' '));
+        return terms.every((t) => hay.includes(t));
+      });
+    }
+    render(list);
+  }
+
+  input.addEventListener('input', run);
+  catBtns.forEach((b) => b.addEventListener('click', () => {
+    catBtns.forEach((x) => x.classList.remove('is-on'));
+    b.classList.add('is-on');
+    cat = b.dataset.cat || '';
+    run();
+  }));
+
+  fetch('/search-index.json').then((r) => r.json()).then((d: Item[]) => {
+    DATA = d;
+    const params = new URLSearchParams(location.search);
+    const pre = params.get('q');
+    if (pre) input.value = pre;
+    run();
+    input.focus();
+  });
+</script>

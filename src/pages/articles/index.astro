@@ -1,0 +1,16 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import ArticlesListing from '../../components/ArticlesListing.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import { byDateDesc } from '../../lib/articles';
+
+const PAGE_SIZE = 24;
+const all = (await getCollection('articles')).sort(byDateDesc);
+const last = Math.max(1, Math.ceil(all.length / PAGE_SIZE));
+const items = all.slice(0, PAGE_SIZE);
+---
+<Base title="Tous les guides" description="Tous les guides d’achat et conseils de Direct Achat Discount, du plus récent au plus ancien.">
+  <ArticlesListing items={items} current={1} last={last} total={all.length} />
+  <CtaBand />
+</Base>

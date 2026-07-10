@@ -1,0 +1,81 @@
+---
+import { SITE } from '../lib/site';
+import { CATEGORIES } from '../lib/categories';
+const year = new Date().getFullYear();
+---
+
+<footer class="ft">
+  <div class="ft__marquee marquee" aria-hidden="true">
+    <div class="marquee__track">
+      {Array.from({ length: 2 }).map(() => (
+        <span class="ft__mq">
+          {SITE.name}&nbsp;✦&nbsp;Achats malins&nbsp;✦&nbsp;Guides&nbsp;✦&nbsp;Comparatifs&nbsp;✦&nbsp;Bons plans&nbsp;✦&nbsp;
+        </span>
+      ))}
+    </div>
+  </div>
+
+  <div class="ft__main wrap-wide">
+    <div class="ft__brand">
+      <div class="ft__logo">Direct<span>Achat</span>Discount</div>
+      <p class="ft__pitch">{SITE.tagline}. On teste, on décortique, on tranche — pour vous faire acheter mieux.</p>
+      <a href="/recherche/" class="btn btn--lime btn--sm">Explorer les guides →</a>
+    </div>
+
+    <nav class="ft__cols" aria-label="Rubriques">
+      <div class="ft__col">
+        <h3 class="ft__h">Rubriques</h3>
+        {CATEGORIES.slice(0, 5).map((c) => (
+          <a href={`/rubrique/${c.slug}/`}>{c.short}</a>
+        ))}
+      </div>
+      <div class="ft__col">
+        <h3 class="ft__h">&nbsp;</h3>
+        {CATEGORIES.slice(5).map((c) => (
+          <a href={`/rubrique/${c.slug}/`}>{c.short}</a>
+        ))}
+      </div>
+      <div class="ft__col">
+        <h3 class="ft__h">Le média</h3>
+        <a href="/rubriques/">Toutes les rubriques</a>
+        <a href="/articles/">Tous les articles</a>
+        <a href="/recherche/">Rechercher</a>
+        <a href="/a-propos/">À propos</a>
+        <a href="/rss.xml">Flux RSS</a>
+      </div>
+    </nav>
+  </div>
+
+  <div class="ft__legal wrap-wide">
+    <span>© {year} {SITE.name}</span>
+    <span>Fait avec ⚡ pour les acheteurs malins</span>
+    <span>{SITE.domain}</span>
+  </div>
+</footer>
+
+<style>
+  .ft { background: var(--ink); color: var(--paper); margin-top: 4rem; }
+  .ft__marquee { border-block: 2.5px solid var(--paper); padding-block: 0.5rem; background: var(--pink); color: var(--ink); }
+  .ft__mq { font-family: var(--font-display); font-weight: 800; font-size: clamp(1.1rem, 3vw, 1.7rem); text-transform: uppercase; letter-spacing: -0.02em; }
+
+  .ft__main { display: grid; grid-template-columns: 1.3fr 2fr; gap: 3rem; padding-block: clamp(2.5rem, 6vw, 4.5rem); }
+  .ft__logo { font-family: var(--font-display); font-weight: 800; font-size: 1.6rem; letter-spacing: -0.04em; }
+  .ft__logo span { color: var(--lime); }
+  .ft__pitch { color: color-mix(in srgb, var(--paper) 72%, transparent); max-width: 34ch; margin: 0.8rem 0 1.4rem; }
+
+  .ft__cols { display: grid; grid-template-columns: repeat(3, 1fr); gap: 2rem; }
+  .ft__col { display: flex; flex-direction: column; gap: 0.55rem; }
+  .ft__h { font-family: var(--font-display); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.14em; color: var(--lime); }
+  .ft__col a { color: color-mix(in srgb, var(--paper) 80%, transparent); font-weight: 500; transition: color 0.2s, transform 0.2s; width: fit-content; }
+  .ft__col a:hover { color: var(--paper); transform: translateX(3px); }
+
+  .ft__legal {
+    display: flex; flex-wrap: wrap; gap: 1rem 2rem; justify-content: space-between;
+    padding-block: 1.4rem; border-top: 1px solid var(--ink-3);
+    font-size: 0.82rem; color: color-mix(in srgb, var(--paper) 60%, transparent);
+  }
+  @media (max-width: 780px) {
+    .ft__main { grid-template-columns: 1fr; gap: 2rem; }
+    .ft__cols { grid-template-columns: 1fr 1fr; }
+  }
+</style>

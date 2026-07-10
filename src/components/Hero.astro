@@ -1,0 +1,116 @@
+---
+import { SITE } from '../lib/site';
+import { articleUrl, mediaSrc, formatDate } from '../lib/articles';
+import { getCategory } from '../lib/categories';
+import type { Article } from '../lib/articles';
+
+interface Props { featured?: Article; count: number; }
+const { featured, count } = Astro.props;
+const cat = featured ? getCategory(featured.data.category) : null;
+const fUrl = featured ? articleUrl(featured) : '#';
+const fImg = featured ? mediaSrc(featured.data.image.id) : null;
+---
+
+<section class="hero">
+  <div class="hero__bg" aria-hidden="true">
+    <span class="blob blob--1"></span>
+    <span class="blob blob--2"></span>
+    <span class="blob blob--3"></span>
+    <span class="hero__grid"></span>
+  </div>
+
+  <div class="hero__inner wrap-wide">
+    <div class="hero__copy">
+      <p class="hero__kicker">⚡ {SITE.tagline}</p>
+      <h1 class="hero__title display">
+        Achetez <span class="hero__word hero__word--1">malin</span>,<br />
+        vivez <span class="hero__word hero__word--2">mieux</span>.
+      </h1>
+      <p class="hero__lede">
+        Guides d’achat sans langue de bois, comparatifs indépendants et astuces qui servent
+        vraiment. On teste, on décortique, on tranche — pour vous faire choisir mieux et dépenser moins.
+      </p>
+      <div class="hero__cta">
+        <a href="/articles/" class="btn btn--lime">Explorer les guides →</a>
+        <a href="/rubriques/" class="btn btn--ghost" style="--fg:var(--paper);border-color:var(--paper)">Toutes les rubriques</a>
+      </div>
+      <ul class="hero__stats u-mono">
+        <li><b>{count > 0 ? count : '900'}+</b><span>guides & comparatifs</span></li>
+        <li><b>10</b><span>rubriques</span></li>
+        <li><b>0</b><span>langue de bois</span></li>
+      </ul>
+    </div>
+
+    {featured && (
+      <a class="hero__cover" href={fUrl} style={`--cat:${cat!.color};--cat-ink:${cat!.ink}`} data-tilt>
+        <div class="hero__cover-media">
+          {fImg
+            ? <img src={fImg} width={featured.data.image.width || 1600} height={featured.data.image.height || 1000} alt={featured.data.image.alt} loading="eager" fetchpriority="high" />
+            : <span class="hero__cover-ph">{cat!.emoji}</span>}
+          <span class="hero__cover-badge">À la une</span>
+        </div>
+        <div class="hero__cover-body">
+          <span class="chip">{cat!.short}</span>
+          <h2 class="hero__cover-title">{featured.data.title}</h2>
+          <p class="hero__cover-meta u-mono">{formatDate(featured.data.date)} · {featured.data.readingTime} min de lecture</p>
+        </div>
+      </a>
+    )}
+  </div>
+</section>
+
+<style>
+  .hero { position: relative; overflow: hidden; background: var(--ink); color: var(--paper); border-bottom: 3px solid var(--ink); isolation: isolate; }
+  .hero__bg { position: absolute; inset: 0; z-index: 0; overflow: hidden; }
+  .blob { position: absolute; border-radius: 50%; filter: blur(60px); opacity: 0.65; mix-blend-mode: screen; will-change: transform; }
+  .blob--1 { width: 46vw; height: 46vw; background: var(--pink); top: -12vw; left: -6vw; animation: drift 18s ease-in-out infinite; }
+  .blob--2 { width: 40vw; height: 40vw; background: var(--violet); bottom: -14vw; right: 8vw; animation: drift 22s ease-in-out infinite reverse; }
+  .blob--3 { width: 34vw; height: 34vw; background: var(--cyan); top: 20vw; right: -6vw; animation: drift 26s ease-in-out infinite; }
+  .hero__grid {
+    position: absolute; inset: 0;
+    background-image: linear-gradient(color-mix(in srgb, var(--paper) 8%, transparent) 1px, transparent 1px),
+      linear-gradient(90deg, color-mix(in srgb, var(--paper) 8%, transparent) 1px, transparent 1px);
+    background-size: 64px 64px;
+    mask-image: radial-gradient(circle at 50% 40%, #000 30%, transparent 78%);
+  }
+
+  .hero__inner {
+    position: relative; z-index: 1;
+    display: grid; grid-template-columns: 1.05fr 0.95fr; gap: clamp(1.5rem, 4vw, 4rem); align-items: center;
+    padding-block: clamp(3rem, 9vw, 7rem);
+    min-height: min(88vh, 820px);
+  }
+
+  .hero__kicker { display: inline-flex; align-items: center; gap: 0.4em; font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.82rem; color: var(--lime); margin-bottom: 1.2rem; }
+  .hero__title { font-size: clamp(3rem, 1.5rem + 9vw, 8rem); font-weight: 800; margin-bottom: 1.4rem; }
+  .hero__word { position: relative; display: inline-block; }
+  .hero__word--1 { color: var(--lime); }
+  .hero__word--2 {
+    background: linear-gradient(92deg, var(--pink), var(--orange), var(--cyan), var(--pink));
+    background-size: 300% auto; -webkit-background-clip: text; background-clip: text; color: transparent;
+    animation: shimmer 6s linear infinite;
+  }
+  .hero__lede { font-size: clamp(1.05rem, 1rem + 0.4vw, 1.3rem); max-width: 46ch; color: color-mix(in srgb, var(--paper) 82%, transparent); }
+  .hero__cta { display: flex; flex-wrap: wrap; gap: 0.8rem; margin: 1.8rem 0 2rem; }
+
+  .hero__stats { display: flex; gap: clamp(1.2rem, 4vw, 2.6rem); flex-wrap: wrap; }
+  .hero__stats li { display: flex; flex-direction: column; }
+  .hero__stats b { font-family: var(--font-display); font-weight: 800; font-size: clamp(1.8rem, 1.2rem + 2vw, 2.8rem); line-height: 1; color: var(--paper); }
+  .hero__stats span { font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: color-mix(in srgb, var(--paper) 60%, transparent); margin-top: 0.25rem; }
+
+  /* Cover story */
+  .hero__cover { display: block; background: var(--paper); color: var(--ink); border: 3px solid var(--paper); border-radius: var(--radius-lg); overflow: hidden; box-shadow: 14px 14px 0 color-mix(in srgb, var(--cat) 85%, var(--ink)); transition: transform 0.4s var(--ease-out); animation: float-y 7s ease-in-out infinite; }
+  .hero__cover:hover { animation-play-state: paused; }
+  .hero__cover-media { position: relative; aspect-ratio: 16/10; overflow: hidden; border-bottom: 3px solid var(--ink); background: color-mix(in srgb, var(--cat) 40%, var(--ink)); }
+  .hero__cover-media img { width: 100%; height: 100%; object-fit: cover; }
+  .hero__cover-ph { display: grid; place-items: center; height: 100%; font-size: 5rem; }
+  .hero__cover-badge { position: absolute; top: 12px; right: 12px; background: var(--ink); color: var(--paper); font-family: var(--font-display); font-weight: 700; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.1em; padding: 0.35em 0.8em; border-radius: 100px; }
+  .hero__cover-body { padding: 1.3rem 1.5rem 1.6rem; display: flex; flex-direction: column; gap: 0.7rem; }
+  .hero__cover-title { font-size: clamp(1.4rem, 1.1rem + 1.4vw, 2rem); line-height: 1.06; }
+  .hero__cover-meta { font-size: 0.82rem; color: color-mix(in srgb, var(--ink) 60%, transparent); font-weight: 600; }
+
+  @media (max-width: 900px) {
+    .hero__inner { grid-template-columns: 1fr; gap: 2.5rem; min-height: 0; padding-block: 3.5rem; }
+    .hero__cover { max-width: 520px; }
+  }
+</style>

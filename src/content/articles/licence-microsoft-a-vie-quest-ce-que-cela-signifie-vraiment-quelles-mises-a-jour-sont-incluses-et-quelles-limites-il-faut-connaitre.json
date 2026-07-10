@@ -1,0 +1,441 @@
+{
+  "title": "Licence Microsoft à vie : qu’est-ce que cela signifie vraiment, quelles mises à jour sont incluses et quelles limites il faut connaître",
+  "slug": "licence-microsoft-a-vie-quest-ce-que-cela-signifie-vraiment-quelles-mises-a-jour-sont-incluses-et-quelles-limites-il-faut-connaitre",
+  "path": "/divers/licence-microsoft-a-vie-quest-ce-que-cela-signifie-vraiment-quelles-mises-a-jour-sont-incluses-et-quelles-limites-il-faut-connaitre.html",
+  "category": "tech",
+  "tags": [
+    "licence microsoft",
+    "office perpétuel",
+    "windows",
+    "mises à jour",
+    "microsoft 365",
+    "clé d’activation"
+  ],
+  "excerpt": "Une licence Microsoft perpétuelle ne donne pas accès à tout pour toujours. Comprenez les mises à jour, les limites et les vérifications à faire.",
+  "metaDescription": "Licence Microsoft « à vie » : durée réelle, mises à jour incluses, limites d’Office et Windows, pièges des clés bon marché et conseils d’achat.",
+  "seoTitle": "Licence Microsoft à vie : ce qui est vraiment inclus",
+  "heroKicker": "Acheter sans confusion",
+  "readingTime": 12,
+  "date": "2025-09-01T11:48:28",
+  "image": {
+    "id": "3412",
+    "alt": "Licence Microsoft à vie : qu’est-ce que cela signifie vraiment, quelles mises à jour sont incluses et quelles limites il faut connaître",
+    "width": 2000,
+    "height": 1333
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "L’expression « licence Microsoft à vie » est séduisante, mais elle prête souvent à confusion. Elle désigne en principe le droit d’utiliser durablement <strong>une version précise</strong> d’un logiciel, et non un accès éternel aux nouveautés, aux services en ligne ou à l’assistance. Avant d’acheter une clé Office ou Windows, il faut donc distinguer clairement licence perpétuelle, abonnement et canal de distribution."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Une licence « à vie » est généralement une <strong>licence perpétuelle</strong> : le droit d’utiliser la version achetée ne dépend pas d’un renouvellement annuel.",
+        "Les correctifs de sécurité et de fiabilité ne signifient pas que vous recevrez les <strong>futures grandes versions</strong> du logiciel.",
+        "Microsoft 365 est un abonnement : il reste actif tant qu’il est payé, mais inclut les évolutions fonctionnelles et davantage de services cloud.",
+        "Le mot « à vie » ne garantit ni une activation sur un nombre illimité d’appareils, ni un support sans fin, ni une compatibilité éternelle avec les futurs systèmes.",
+        "Une clé qui s’active n’est pas forcément une licence achetée via un canal fiable : vérifiez l’édition, le type de licence, le vendeur et les conditions de transfert."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "« À vie » : ce que recouvre réellement une licence Microsoft",
+      "id": "a-vie-ce-que-recouvre-reellement-une-licence-microsoft"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le langage commercial, « à vie » est généralement employé pour parler d’une licence <strong>perpétuelle</strong>. Vous achetez le droit d’installer et d’utiliser une édition donnée d’un logiciel sans échéance d’abonnement. Pour Office, cela peut correspondre à une version autonome, installée localement sur un PC ou un Mac. Pour Windows, il s’agit le plus souvent d’une licence liée à l’activation d’un appareil, selon son canal d’achat."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le point décisif est le suivant : vous possédez un droit d’usage durable sur <strong>le produit désigné dans la licence</strong>, pas une promesse d’obtenir gratuitement les produits qui lui succéderont. Une licence Office perpétuelle ne se transforme pas automatiquement en édition ultérieure. De même, une licence Windows ne rend pas votre machine indéfiniment compatible avec toutes les évolutions matérielles et logicielles à venir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme « à vie » est d’autant plus ambigu que la « vie » concernée peut, selon l’offre, renvoyer à la durée de votre droit d’utilisation, à la durée de vie de l’appareil d’origine, ou simplement à l’absence de facturation récurrente. Les conditions de licence exactes de l’édition achetée priment toujours sur le slogan affiché par un revendeur."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La bonne traduction de « à vie »",
+      "html": "Lisez « <strong>sans abonnement pour cette version et dans les limites prévues</strong> ». Ne lisez pas « mises à niveau majeures, support, stockage cloud et services en ligne illimités pour toujours »."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les mises à jour incluses : sécurité, correctifs et nouveautés ne sont pas la même chose",
+      "id": "les-mises-a-jour-incluses-securite-correctifs-et-nouveautes-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour éviter toute déception, il faut séparer trois familles de mises à jour. Leur disponibilité dépend du produit, de son édition et de son cycle de support. Une mention générale comme « mises à jour incluses » ne suffit donc pas : demandez toujours lesquelles."
+    },
+    {
+      "type": "table",
+      "caption": "Ce qu’une licence perpétuelle peut inclure ou non",
+      "headers": [
+        "Type d’évolution",
+        "Licence Office perpétuelle",
+        "Licence Windows",
+        "Abonnement Microsoft 365"
+      ],
+      "rows": [
+        [
+          "Correctifs de sécurité",
+          "Habituellement inclus pendant la période de support du produit",
+          "Habituellement inclus tant que la version de Windows est prise en charge",
+          "Inclus pendant la validité de l’abonnement"
+        ],
+        [
+          "Correctifs de bugs et stabilité",
+          "Généralement inclus selon l’édition et le support",
+          "Généralement inclus pendant le support",
+          "Inclus pendant la validité de l’abonnement"
+        ],
+        [
+          "Nouvelles fonctions importantes",
+          "En principe non : elles arrivent avec une version ultérieure",
+          "Les mises à jour de fonctionnalités dépendent de la version, du matériel et du support",
+          "Oui, au fil de l’abonnement"
+        ],
+        [
+          "Nouvelle génération du logiciel",
+          "Non, achat ou licence distincte à prévoir",
+          "Pas automatique ; dépend des offres, de l’éligibilité et des conditions applicables",
+          "Les applications installées évoluent sans acheter une nouvelle suite"
+        ],
+        [
+          "Stockage cloud et services premium",
+          "Souvent absents ou limités",
+          "Ne sont pas automatiquement inclus par la licence Windows",
+          "Souvent inclus selon la formule choisie"
+        ]
+      ],
+      "note": "Les conditions peuvent varier selon l’édition exacte, le pays, le canal d’achat et les règles applicables au moment de l’acquisition. Vérifiez les conditions du produit précis, pas seulement le nom générique « Office » ou « Windows »."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pour Office : la version reste fixe",
+      "id": "pour-office-la-version-reste-fixe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec une suite Office achetée en licence perpétuelle, vous conservez les logiciels inclus dans cette édition : par exemple les applications de bureautique prévues pour le PC ou le Mac concerné. Vous recevez normalement les correctifs nécessaires pendant la période de maintenance et de sécurité annoncée pour cette version. En revanche, les fonctions introduites dans les générations suivantes, les améliorations continues liées au cloud et certains outils collaboratifs ne sont pas automatiquement ajoutés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les éditions professionnelles à cycle long, souvent destinées aux organisations qui privilégient la stabilité, suivent une logique encore plus stricte : elles évitent volontairement les nouveautés fréquentes. C’est utile pour un environnement maîtrisé, mais ce n’est pas le bon choix si vous voulez profiter en continu des dernières fonctions de création, de collaboration ou d’assistance intégrée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pour Windows : une licence n’annule pas la fin de support",
+      "id": "pour-windows-une-licence-n-annule-pas-la-fin-de-support"
+    },
+    {
+      "type": "paragraph",
+      "html": "Windows reçoit des mises à jour de sécurité et de qualité tant que <strong>la version installée</strong> est prise en charge. Les mises à jour de fonctionnalités peuvent elles aussi être proposées, mais elles exigent un appareil compatible et peuvent modifier la version de Windows. Lorsque le support d’une version prend fin, conserver une activation valide ne signifie pas que les correctifs continueront indéfiniment."
+    },
+    {
+      "type": "paragraph",
+      "html": "La compatibilité matérielle est un autre filtre important. Processeur, module de sécurité, firmware, pilotes et âge du PC peuvent empêcher l’installation d’une version plus récente ou rendre son fonctionnement moins satisfaisant. La licence et l’éligibilité technique sont deux sujets distincts."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 version",
+          "label": "est normalement couverte par une licence Office perpétuelle, pas toutes les générations futures"
+        },
+        {
+          "value": "1 appareil",
+          "label": "est souvent la règle d’usage d’une licence individuelle, selon son édition"
+        },
+        {
+          "value": "0 renouvellement",
+          "label": "annuel pour une licence perpétuelle, contrairement à un abonnement"
+        },
+        {
+          "value": "2 contrôles",
+          "label": "indispensables avant achat : édition exacte et canal de licence"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les limites souvent oubliées : appareils, transfert, support et services cloud",
+      "id": "les-limites-souvent-oubliees-appareils-transfert-support-et-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier malentendu concerne le nombre d’installations. Une offre « achat unique » signifie souvent une utilisation sur un seul ordinateur à la fois. Elle ne vous autorise pas nécessairement à installer le logiciel sur votre PC fixe, votre portable familial et un ordinateur professionnel. Les droits accordés peuvent différer selon la version, la plateforme et le contrat associé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le deuxième concerne le changement d’ordinateur. Une licence vendue séparément au détail peut, sous réserve des conditions applicables, offrir davantage de souplesse lors d’un remplacement de machine. À l’inverse, une licence préinstallée par le fabricant est fréquemment rattachée au premier PC sur lequel elle est activée. Dans ce cas, changer de carte mère ou remplacer l’ordinateur peut poser problème, même si le logiciel fonctionnait parfaitement avant la panne."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, la licence d’un logiciel ne comprend pas automatiquement les services en ligne. Messagerie professionnelle hébergée, espace de stockage conséquent, outils de réunion, fonctionnalités avancées de collaboration et services d’IA peuvent exiger un abonnement séparé ou être soumis à des limites évolutives. Une application installée sur votre ordinateur peut continuer à fonctionner, tandis qu’une fonction connectée devient limitée, change ou disparaît."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant de croire à une offre « à vie », vérifiez ces limites",
+      "items": [
+        "Le <strong>nom complet</strong> de l’édition : famille, entreprise, éducation, édition à cycle long ou autre.",
+        "Le nombre d’appareils autorisés et la compatibilité annoncée : PC, Mac, tablette ou mobile.",
+        "La règle de transfert en cas de changement de PC, de panne ou de remplacement de carte mère.",
+        "Les applications réellement incluses : certaines offres n’intègrent pas tous les logiciels que les acheteurs supposent trouver.",
+        "La durée de support de sécurité et les versions minimales de système d’exploitation requises.",
+        "Les services cloud inclus, leurs plafonds éventuels et ce qui se passera à l’arrêt d’un éventuel abonnement associé."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Activation réussie ne veut pas dire droits sans risque",
+      "html": "Une clé peut techniquement être acceptée lors de l’activation tout en provenant d’un canal non adapté à la revente au grand public, d’un contrat destiné à une organisation ou d’une source frauduleuse. Vous pouvez alors perdre l’activation, ne pas obtenir d’assistance ou rencontrer un blocage lors d’une réinstallation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Licence perpétuelle ou Microsoft 365 : quel modèle choisir ?",
+      "id": "licence-perpetuelle-ou-microsoft-365-quel-modele-choisir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon choix dépend moins du mot « à vie » que de votre manière de travailler. Une licence perpétuelle convient particulièrement si vous avez besoin d’un ensemble stable d’outils de bureautique sur un poste principal, sans collaboration intensive et sans exigence de nouveautés permanentes. L’abonnement convient davantage si vous utilisez plusieurs appareils, partagez des documents avec d’autres personnes, avez besoin de stockage en ligne ou souhaitez recevoir les fonctions les plus récentes au fur et à mesure."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux logiques d’achat, deux niveaux de souplesse",
+      "left": {
+        "title": "Licence perpétuelle",
+        "points": [
+          "Paiement unique pour une édition donnée.",
+          "Utilisation possible sans renouvellement annuel, dans les limites de la licence.",
+          "Budget plus prévisible si vous gardez longtemps la même version.",
+          "Nouveautés majeures et future édition généralement exclues.",
+          "Souvent pensée pour un nombre limité d’appareils."
+        ]
+      },
+      "right": {
+        "title": "Microsoft 365 par abonnement",
+        "points": [
+          "Paiement récurrent tant que vous souhaitez conserver l’accès complet.",
+          "Applications et fonctions mises à jour en continu pendant l’abonnement.",
+          "Services cloud, collaboration et installation multi-appareils souvent plus généreux selon la formule.",
+          "Coût cumulé plus élevé si vous conservez l’offre longtemps sans exploiter ses services.",
+          "Les droits d’usage complets cessent lorsque l’abonnement prend fin."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Un calcul simple pour décider",
+      "id": "un-calcul-simple-pour-decider"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne comparez pas seulement le prix affiché le jour de l’achat. Estimez votre horizon d’usage : deux à trois ans, cinq ans ou davantage. Ajoutez ensuite ce dont vous avez réellement besoin : stockage cloud, accès sur plusieurs machines, partage familial, mises à jour fonctionnelles, assistance et compatibilité avec les fichiers reçus de collègues. Une licence perpétuelle peut être plus rationnelle si vos besoins sont sobres et stables ; un abonnement peut offrir un meilleur rapport d’usage si plusieurs personnes ou appareils en profitent réellement."
+    },
+    {
+      "type": "proscons",
+      "title": "La licence perpétuelle en pratique",
+      "pros": [
+        "Pas de prélèvement annuel pour continuer à utiliser l’édition achetée.",
+        "Simplicité pour un poste fixe et des besoins de bureautique classiques.",
+        "Moins de changements d’interface ou de fonctions imposés par des évolutions continues.",
+        "Peut être plus économique sur la durée si vous n’avez besoin ni du cloud ni des nouveautés."
+      ],
+      "cons": [
+        "Ne donne normalement pas droit aux prochaines grandes versions du logiciel.",
+        "Fonctions collaboratives et services en ligne souvent absents, limités ou séparés.",
+        "Support de sécurité limité dans le temps selon le cycle de vie du produit.",
+        "Règles parfois restrictives sur le nombre de postes et le transfert vers un nouveau matériel."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les types de licences et pourquoi l’origine de la clé compte",
+      "id": "les-types-de-licences-et-pourquoi-l-origine-de-la-cle-compte"
+    },
+    {
+      "type": "paragraph",
+      "html": "Deux offres peuvent afficher le même nom de logiciel et pourtant ne pas accorder les mêmes droits. Le canal de licence est donc aussi important que le prix. Une licence vendue au détail est généralement conçue pour l’utilisateur final. Une licence préinstallée avec un ordinateur est, elle, associée à l’équipement livré. Les programmes de licences en volume répondent aux besoins des entreprises, établissements ou administrations et ne sont pas automatiquement destinés à être découpés puis revendus comme des clés isolées."
+    },
+    {
+      "type": "table",
+      "caption": "Repérer les principaux canaux de licence",
+      "headers": [
+        "Canal",
+        "Usage habituel",
+        "Point de vigilance à l’achat"
+      ],
+      "rows": [
+        [
+          "Vente au détail / numérique officielle",
+          "Particulier ou petite structure achetant une licence distincte",
+          "Conserver la preuve d’achat, le compte associé et les conditions de transfert."
+        ],
+        [
+          "Préinstallation constructeur",
+          "Logiciel livré avec un ordinateur neuf",
+          "La licence est souvent liée à l’appareil initial ; le prix très bas isolé peut être trompeur."
+        ],
+        [
+          "Licence en volume",
+          "Organisation disposant d’un contrat adapté",
+          "Une clé revendue seule à un particulier peut ne pas être conforme au contrat d’origine."
+        ],
+        [
+          "Clé de marché parallèle",
+          "Origine parfois opaque, prix très inférieur au marché",
+          "Risque d’inéligibilité, de révocation, d’absence de facture et de support inexistant."
+        ]
+      ],
+      "note": "Le vocabulaire employé par le vendeur — OEM, retail, volume, MAK, KMS ou activation en ligne — mérite une explication claire avant tout achat."
+    },
+    {
+      "type": "paragraph",
+      "html": "Méfiez-vous particulièrement des intitulés confus : « compte à vie », « activation garantie », « clé professionnelle universelle » ou « Office complet toutes versions » ne remplacent pas une description contractuelle. Un vendeur sérieux indique l’édition, la plateforme, le nombre d’appareils, le type de licence, le mode de livraison, les conditions de réinstallation et son identité légale. Il fournit aussi une facture exploitable et une procédure de recours."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Un prix anormalement bas doit déclencher des questions",
+      "html": "Une différence de prix est normale entre une ancienne version, une offre promotionnelle et un abonnement. En revanche, lorsqu’une clé prétend donner tous les droits, sur tous les appareils et sans limite, pour une fraction du tarif habituel, considérez cela comme un <strong>signal de risque</strong>, pas comme une bonne affaire automatique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir sans acheter plus que nécessaire ?",
+      "id": "quel-budget-prevoir-sans-acheter-plus-que-necessaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les montants varient fortement selon l’édition, les promotions, le pays et le fait qu’il s’agisse d’une offre grand public ou professionnelle. Retenez des ordres de grandeur plutôt qu’un prix isolé : une licence Office perpétuelle grand public légitime représente habituellement un achat de l’ordre de <strong>plusieurs dizaines à quelques centaines d’euros</strong>. Les éditions professionnelles, les droits multi-postes et les logiciels serveur se situent généralement au-dessus. Un abonnement de bureautique représente, lui, une dépense périodique souvent de l’ordre de quelques euros à plusieurs dizaines d’euros par mois selon la formule et le nombre d’utilisateurs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour Windows, le coût dépend surtout de l’édition et du fait que le système soit inclus avec un PC neuf. Une licence autonome sérieuse se situe habituellement dans un ordre de grandeur à deux ou trois chiffres, selon la version et les offres. Évitez d’évaluer une clé uniquement à son coût initial : une licence difficile à réinstaller après une panne ou sans justificatif vaut moins qu’une offre un peu plus chère, mais traçable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Méthode d’achat : vérifier l’offre avant de payer",
+      "id": "methode-d-achat-verifier-l-offre-avant-de-payer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quelques minutes de vérification évitent la plupart des mauvaises surprises. Commencez par définir votre besoin réel : une suite bureautique installée sur un seul ordinateur, un accès familial, des outils professionnels, Windows pour une machine assemblée ou un remplacement de PC. Cherchez ensuite la page officielle qui décrit précisément l’édition envisagée afin de savoir ce qu’elle contient et ce qu’elle ne contient pas."
+    },
+    {
+      "type": "steps",
+      "title": "Les 5 étapes avant l’achat",
+      "items": [
+        {
+          "title": "Identifiez le produit exact",
+          "text": "Ne vous contentez pas de « Microsoft Office » ou « licence Windows ». Notez l’édition, l’année ou génération, la langue, la plateforme et les applications nécessaires."
+        },
+        {
+          "title": "Contrôlez votre matériel",
+          "text": "Vérifiez la version de votre système, l’espace disque, les prérequis matériels et la compatibilité de vos périphériques ou anciens fichiers."
+        },
+        {
+          "title": "Lisez les droits d’installation",
+          "text": "Recherchez le nombre de postes, les règles de réinstallation et la possibilité ou non de transférer la licence vers un autre appareil."
+        },
+        {
+          "title": "Évaluez le vendeur",
+          "text": "Privilégiez un canal officiel ou un distributeur identifiable qui fournit une facture, des coordonnées et une politique de remboursement claire."
+        },
+        {
+          "title": "Archivez les preuves",
+          "text": "Conservez facture, e-mail de livraison, référence de commande, clé si elle existe et compte Microsoft éventuellement associé à l’achat."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installation, réinstallation et entretien : préserver votre droit d’usage",
+      "id": "installation-reinstallation-et-entretien-preserver-votre-dro"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après l’achat, associez le produit à votre compte Microsoft lorsque le parcours officiel le prévoit. Cela facilite souvent la récupération de l’installation et la consultation de vos achats. Téléchargez l’installeur depuis une source officielle plutôt que depuis un lien fourni par un vendeur inconnu, surtout s’il vous demande de désactiver l’antivirus ou d’exécuter un outil d’activation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Installez régulièrement les mises à jour de sécurité proposées pendant la période de support. Cela est particulièrement important pour une suite de bureautique ouvrant des fichiers reçus par e-mail ou téléchargés. Sauvegardez aussi vos documents indépendamment du logiciel : une licence perpétuelle protège votre droit d’utiliser l’application, pas vos fichiers contre une panne de disque, un ransomware ou une erreur de manipulation."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les bons réflexes après activation",
+      "items": [
+        "Vérifiez dans les paramètres du logiciel que l’édition activée correspond bien à celle facturée.",
+        "Ne partagez jamais votre clé ou les identifiants de votre compte d’achat avec un tiers.",
+        "Évitez les logiciels de contournement d’activation : ils exposent à des malwares et peuvent casser les mises à jour.",
+        "Avant de remplacer un PC, consultez les règles de transfert de votre type de licence et désactivez l’ancien appareil si cela est prévu.",
+        "Gardez une sauvegarde de vos données et testez périodiquement leur restauration.",
+        "Surveillez les avis de fin de support afin d’anticiper une migration plutôt que de la subir."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Alternatives si la licence à vie ne correspond pas à votre besoin",
+      "id": "alternatives-si-la-licence-a-vie-ne-correspond-pas-a-votre-b"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous avez besoin de fonctions récentes, de plusieurs installations et d’un espace de stockage partagé, un abonnement peut être plus cohérent qu’une licence perpétuelle, même si son coût se répète. À l’inverse, si vos usages se limitent à rédiger, calculer et présenter des documents standards, une suite bureautique libre ou une solution en ligne gratuite peut suffire. Testez surtout la compatibilité avec les fichiers complexes que vous recevez : macros, mise en page avancée, polices, tableaux élaborés et modèles métier sont les zones où les différences apparaissent le plus."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour Windows, le meilleur choix est souvent d’acheter un ordinateur livré avec une licence régulière si vous renouvelez aussi le matériel. Si vous assemblez une machine ou remplacez un système existant, une licence autonome provenant d’un canal fiable est plus lisible qu’une clé dont l’origine est impossible à vérifier. Dans tous les cas, une licence pérenne est celle dont vous comprenez les droits et dont vous pouvez prouver l’achat."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les licences Microsoft « à vie »",
+      "items": [
+        {
+          "q": "Une licence Microsoft à vie donne-t-elle toutes les futures versions d’Office ?",
+          "a": "Non, dans la grande majorité des cas. Une licence perpétuelle vous donne le droit d’utiliser la version indiquée lors de l’achat. Les futures générations d’Office constituent généralement des produits distincts. Vous pouvez recevoir des correctifs pendant la période de support, sans obtenir pour autant les grandes nouveautés des versions ultérieures."
+        },
+        {
+          "q": "Les mises à jour de sécurité restent-elles disponibles pour toujours ?",
+          "a": "Non. Elles sont fournies pendant la période de support définie pour le produit et l’édition concernés. Une fois cette période terminée, le logiciel peut continuer à fonctionner, mais il ne reçoit plus nécessairement de correctifs contre les failles découvertes par la suite. Il faut alors évaluer une mise à niveau, un abonnement ou une alternative."
+        },
+        {
+          "q": "Puis-je transférer une licence Office ou Windows sur un nouveau PC ?",
+          "a": "Cela dépend du type de licence et de ses conditions. Une licence achetée séparément au détail est souvent plus souple qu’une licence préinstallée avec un ordinateur, qui est fréquemment liée à la machine d’origine. Vérifiez la règle avant la migration, conservez votre facture et suivez la procédure officielle de désactivation ou de réactivation lorsqu’elle existe."
+        },
+        {
+          "q": "Pourquoi une clé Microsoft très bon marché peut-elle poser problème si elle s’active ?",
+          "a": "L’activation vérifie techniquement la clé à un instant donné, mais ne prouve pas toujours que sa revente est autorisée. Certaines clés peuvent provenir de contrats destinés à des entreprises, d’abonnements, de matériels ou de sources frauduleuses. Vous risquez une désactivation ultérieure, l’absence de support, une réinstallation impossible ou un litige avec le vendeur."
+        },
+        {
+          "q": "Microsoft 365 est-il moins intéressant qu’une licence perpétuelle ?",
+          "a": "Pas forcément. Une licence perpétuelle est souvent plus logique pour un poste unique et des besoins stables. Microsoft 365 peut être plus intéressant si vous utilisez plusieurs appareils, voulez les fonctions les plus récentes, avez besoin de stockage cloud ou partagez l’offre avec plusieurs personnes. Comparez les services que vous utiliserez réellement sur plusieurs années."
+        },
+        {
+          "q": "Une licence Windows « à vie » rend-elle mon PC compatible avec les futures versions ?",
+          "a": "Non. La licence ne remplace pas les exigences techniques d’une nouvelle version de Windows. Votre ordinateur doit satisfaire aux prérequis matériels, disposer de pilotes adaptés et rester suffisamment performant. Une machine peut conserver une activation Windows valide tout en n’étant pas éligible à une version plus récente ou à ses mises à jour de fonctionnalités."
+        }
+      ]
+    }
+  ]
+}

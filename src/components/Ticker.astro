@@ -1,0 +1,19 @@
+---
+import { SITE } from '../lib/site';
+const items = SITE.ticker;
+---
+<div class="ticker marquee" role="presentation">
+  <div class="marquee__track">
+    {Array.from({ length: 2 }).map(() => (
+      <span class="ticker__run">
+        {items.map((t) => (<span class="ticker__item">{t}<span class="ticker__dot">✦</span></span>))}
+      </span>
+    ))}
+  </div>
+</div>
+<style>
+  .ticker { background: var(--lime); color: var(--ink); border-block: 3px solid var(--ink); padding-block: 0.65rem; }
+  .ticker__run { display: inline-flex; }
+  .ticker__item { display: inline-flex; align-items: center; font-family: var(--font-display); font-weight: 800; text-transform: uppercase; letter-spacing: -0.01em; font-size: clamp(0.95rem, 2.4vw, 1.35rem); }
+  .ticker__dot { margin-inline: 1.2rem; color: var(--pink); }
+</style>

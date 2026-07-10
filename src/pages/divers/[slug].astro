@@ -1,0 +1,212 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import BlockRenderer from '../../components/BlockRenderer.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+import { getCategory } from '../../lib/categories';
+import { mediaSrc, formatDate, isoDate, related, byDateDesc, articleUrl } from '../../lib/articles';
+import { SITE } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const all = await getCollection('articles');
+  return all.map((article) => ({
+    params: { slug: article.data.slug },
+    props: { article, all },
+  }));
+}
+
+const { article, all } = Astro.props;
+const d = article.data;
+const cat = getCategory(d.category);
+const img = mediaSrc(d.image.id);
+const img800 = mediaSrc(d.image.id, 800);
+const canonical = new URL(d.path, SITE.url).href;
+const ogImg = img ? new URL(img, SITE.url).href : undefined;
+
+const toc = d.blocks
+  .filter((b: any) => b.type === 'heading' && b.level === 2)
+  .map((b: any) => ({ id: b.id, text: b.text }));
+
+const rel = related(all.sort(byDateDesc), article, 3);
+const faqBlock = d.blocks.find((b: any) => b.type === 'faq');
+
+const jsonLd: any[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: d.title,
+    description: d.metaDescription,
+    image: ogImg ? [ogImg] : undefined,
+    datePublished: isoDate(d.date),
+    dateModified: isoDate(d.updated || d.date),
+    author: { '@type': 'Organization', name: SITE.author },
+    publisher: { '@type': 'Organization', name: SITE.name },
+    mainEntityOfPage: canonical,
+    articleSection: cat.name,
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Accueil', item: SITE.url },
+      { '@type': 'ListItem', position: 2, name: cat.name, item: `${SITE.url}/rubrique/${cat.slug}/` },
+      { '@type': 'ListItem', position: 3, name: d.title, item: canonical },
+    ],
+  },
+];
+if (faqBlock) {
+  jsonLd.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: (faqBlock as any).items.map((it: any) => ({
+      '@type': 'Question',
+      name: it.q.replace(/<[^>]+>/g, ''),
+      acceptedAnswer: { '@type': 'Answer', text: it.a.replace(/<[^>]+>/g, '') },
+    })),
+  });
+}
+---
+
+<Base
+  title={d.seoTitle || d.title}
+  description={d.metaDescription}
+  canonical={canonical}
+  ogImage={ogImg}
+  ogType="article"
+  accent={cat.color}
+  accentInk={cat.ink}
+  readingBar={true}
+  jsonLd={jsonLd}
+>
+  <article class="art">
+    <header class="art__head" style={`--cat:${cat.color};--cat-ink:${cat.ink}`}>
+      <div class="wrap art__head-in">
+        <nav class="art__crumb" aria-label="Fil d'Ariane">
+          <a href="/">Accueil</a> <span aria-hidden="true">/</span>
+          <a href={`/rubrique/${cat.slug}/`}>{cat.short}</a>
+        </nav>
+        {d.heroKicker && <p class="art__kicker">{d.heroKicker}</p>}
+        <h1 class="art__title">{d.title}</h1>
+        <p class="art__excerpt">{d.excerpt}</p>
+        <div class="art__meta u-mono">
+          <a href={`/rubrique/${cat.slug}/`} class="chip">{cat.short}</a>
+          <time datetime={isoDate(d.date)}>{formatDate(d.date)}</time>
+          <span aria-hidden="true">·</span>
+          <span>{d.readingTime} min de lecture</span>
+          <span aria-hidden="true">·</span>
+          <span>{SITE.author}</span>
+        </div>
+      </div>
+    </header>
+
+    {img && (
+      <div class="wrap-wide art__hero">
+        <img
+          src={img}
+          srcset={img800 ? `${img800} 800w, ${img} 1600w` : undefined}
+          sizes="(max-width: 1100px) 100vw, 1100px"
+          width={d.image.width || 1600}
+          height={d.image.height || 1000}
+          alt={d.image.alt}
+          loading="eager"
+          fetchpriority="high"
+        />
+      </div>
+    )}
+
+    <div class="wrap art__body">
+      {toc.length > 2 && (
+        <aside class="art__toc" aria-label="Sommaire">
+          <p class="art__toc-h">Sommaire</p>
+          <ol>
+            {toc.map((t, i) => (
+              <li><a href={`#${t.id}`}><span class="u-mono">{String(i + 1).padStart(2, '0')}</span>{t.text}</a></li>
+            ))}
+          </ol>
+        </aside>
+      )}
+      <div class="art__content">
+        <BlockRenderer blocks={d.blocks} />
+
+        <div class="art__tags">
+          {d.tags.map((t) => <span class="chip chip--outline">#{t}</span>)}
+        </div>
+
+        <aside class="art__note">
+          <strong>Note de la rédaction —</strong> Cet article vous aide à décider en toute
+          autonomie. Les conseils sont donnés à titre indicatif&nbsp;: vérifiez toujours les
+          caractéristiques et conditions au moment de l’achat.
+        </aside>
+      </div>
+    </div>
+
+    {rel.length > 0 && (
+      <section class="section wrap-wide art__rel">
+        <h2 class="art__rel-h">À lire aussi</h2>
+        <div class="art__rel-grid">
+          {rel.map((a) => <ArticleCard article={a} size="sm" />)}
+        </div>
+      </section>
+    )}
+  </article>
+</Base>
+
+<style>
+  .art__head { background: var(--ink); color: var(--paper); position: relative; overflow: hidden; padding-block: clamp(2.5rem, 6vw, 4.5rem) clamp(2rem, 5vw, 3.5rem); border-bottom: 3px solid var(--ink); }
+  .art__head::before { content: ''; position: absolute; inset: 0; background: radial-gradient(60% 90% at 85% 10%, color-mix(in srgb, var(--cat) 55%, transparent), transparent 70%); opacity: 0.55; }
+  .art__head-in { position: relative; z-index: 1; max-width: 900px; }
+  .art__crumb { font-family: var(--font-display); font-weight: 600; font-size: 0.85rem; color: color-mix(in srgb, var(--paper) 70%, transparent); margin-bottom: 1.2rem; display: flex; gap: 0.5rem; }
+  .art__crumb a:hover { color: var(--lime); }
+  .art__kicker { display: inline-block; font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.12em; font-size: 0.78rem; color: var(--cat-ink); background: var(--cat); padding: 0.3em 0.75em; border-radius: 100px; margin-bottom: 1rem; }
+  .art__title { font-size: clamp(2rem, 1.3rem + 4vw, 3.7rem); line-height: 1.02; margin-bottom: 1rem; }
+  .art__excerpt { font-size: clamp(1.1rem, 1rem + 0.6vw, 1.4rem); color: color-mix(in srgb, var(--paper) 84%, transparent); max-width: 60ch; font-family: var(--font-display); font-weight: 400; }
+  .art__meta { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem; margin-top: 1.6rem; font-size: 0.85rem; color: color-mix(in srgb, var(--paper) 66%, transparent); font-weight: 600; }
+
+  .art__hero { margin-top: clamp(-3rem, -5vw, -2rem); position: relative; z-index: 2; }
+  .art__hero img { width: 100%; border: 3px solid var(--ink); border-radius: var(--radius-lg); box-shadow: 12px 12px 0 var(--cat); aspect-ratio: 16/9; object-fit: cover; background: var(--paper-2); }
+
+  .art__body { display: grid; grid-template-columns: 1fr; gap: 2.5rem; padding-block: clamp(2.5rem, 6vw, 4rem); }
+  .art__content { max-width: 760px; margin-inline: auto; width: 100%; }
+
+  .art__toc { display: none; }
+  @media (min-width: 1080px) {
+    .art__body { grid-template-columns: 240px minmax(0, 760px); justify-content: center; gap: 3.5rem; }
+    .art__content { margin-inline: 0; }
+    .art__toc { display: block; position: sticky; top: 96px; align-self: start; }
+  }
+  .art__toc-h { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; font-size: 0.78rem; color: color-mix(in srgb, var(--ink) 55%, transparent); margin-bottom: 0.9rem; padding-left: 0.2rem; }
+  .art__toc ol { display: grid; gap: 0.3rem; border-left: 2.5px solid var(--paper-3); }
+  .art__toc a { display: flex; gap: 0.6rem; padding: 0.35rem 0.8rem; margin-left: -2.5px; border-left: 2.5px solid transparent; font-size: 0.9rem; font-weight: 500; color: color-mix(in srgb, var(--ink) 72%, transparent); transition: color 0.2s, border-color 0.2s, background 0.2s; }
+  .art__toc a:hover { color: var(--ink); border-color: var(--accent); background: color-mix(in srgb, var(--accent) 10%, transparent); }
+  .art__toc a span { color: var(--accent); font-weight: 700; }
+
+  .art__tags { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 3rem; }
+  .art__note { margin-top: 1.6rem; padding: 1.1rem 1.3rem; background: var(--paper-2); border: 2px dashed var(--ink); border-radius: var(--radius); font-size: 0.92rem; }
+
+  .art__rel { border-top: 3px solid var(--ink); }
+  .art__rel-h { font-size: clamp(1.6rem, 1.2rem + 2vw, 2.4rem); margin-bottom: 1.6rem; }
+  .art__rel-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.4rem; }
+</style>
+
+<script>
+  // Surlignage de l'entrée du sommaire active.
+  const links = [...document.querySelectorAll('.art__toc a')] as HTMLAnchorElement[];
+  if (links.length) {
+    const map = new Map(links.map((l) => [l.getAttribute('href')!.slice(1), l]));
+    const io = new IntersectionObserver(
+      (entries) => {
+        for (const e of entries) {
+          if (e.isIntersecting) {
+            links.forEach((l) => l.removeAttribute('data-active'));
+            map.get(e.target.id)?.setAttribute('data-active', '');
+          }
+        }
+      },
+      { rootMargin: '-20% 0px -70% 0px' }
+    );
+    document.querySelectorAll('.prose__h2[id]').forEach((h) => io.observe(h));
+  }
+</script>
+<style is:global>
+  .art__toc a[data-active] { color: var(--ink); border-color: var(--accent); background: color-mix(in srgb, var(--accent) 14%, transparent); font-weight: 700; }
+</style>

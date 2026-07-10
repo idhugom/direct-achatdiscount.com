@@ -1,0 +1,66 @@
+---
+import Base from '../../layouts/Base.astro';
+import CtaBand from '../../components/CtaBand.astro';
+import { SITE } from '../../lib/site';
+const values = [
+  { emoji: '🎯', t: 'Utile avant tout', d: 'Chaque guide répond à une vraie question d’acheteur. Pas de remplissage, pas de blabla : des conseils qui font gagner du temps et de l’argent.' },
+  { emoji: '⚖️', t: 'Indépendant', d: 'Nos comparatifs pèsent le pour et le contre sans complaisance. On vous dit ce qui compte vraiment avant de sortir la carte bleue.' },
+  { emoji: '🔍', t: 'Clair et complet', d: 'Critères de choix, budgets, erreurs à éviter, alternatives : on couvre le sujet en entier, dans un langage simple.' },
+  { emoji: '⚡', t: 'Rapide', d: 'Un média pensé pour la performance : pages ultra-légères, lecture fluide, sur tous les écrans.' },
+];
+---
+<Base title="À propos" description={`À propos de ${SITE.name} — ${SITE.tagline}.`}>
+  <header class="ap">
+    <div class="ap__bg" aria-hidden="true"><span></span><span></span></div>
+    <div class="wrap ap__in">
+      <p class="ap__kicker">⚡ Qui sommes-nous</p>
+      <h1 class="ap__title display">Le magazine des<br /><span class="ap__hl">achats malins</span>.</h1>
+      <p class="ap__lede">{SITE.name} décrypte tout ce que vous achetez — de la plus petite astuce du quotidien au gros investissement — pour vous aider à choisir mieux et dépenser moins.</p>
+    </div>
+  </header>
+
+  <section class="section wrap">
+    <div class="vals">
+      {values.map((v, i) => (
+        <div class="val reveal" data-delay={i % 4}>
+          <span class="val__e" aria-hidden="true">{v.emoji}</span>
+          <h2 class="val__t">{v.t}</h2>
+          <p class="val__d">{v.d}</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <section class="section wrap">
+    <div class="mission reveal">
+      <h2 class="mission__h">Notre mission</h2>
+      <p>Acheter est devenu un casse-tête&nbsp;: trop d’offres, trop de promesses, trop de jargon. Nous existons pour remettre de la clarté. Nos guides partent toujours de vos usages réels, comparent honnêtement les options et pointent les vrais critères de décision.</p>
+      <p>Le tout dans un média rapide et agréable à lire, parce qu’un bon conseil ne devrait jamais se mériter à coups de pop-ups et de pages qui rament.</p>
+    </div>
+  </section>
+
+  <CtaBand />
+</Base>
+
+<style>
+  .ap { position: relative; overflow: hidden; background: var(--ink); color: var(--paper); border-bottom: 3px solid var(--ink); }
+  .ap__bg span { position: absolute; border-radius: 50%; filter: blur(70px); opacity: 0.5; mix-blend-mode: screen; }
+  .ap__bg span:nth-child(1) { width: 34vw; height: 34vw; background: var(--violet); left: -8vw; top: -12vw; animation: drift 20s ease-in-out infinite; }
+  .ap__bg span:nth-child(2) { width: 30vw; height: 30vw; background: var(--pink); right: -6vw; bottom: -14vw; animation: drift 24s ease-in-out infinite reverse; }
+  .ap__in { position: relative; z-index: 1; padding-block: clamp(3rem, 8vw, 6rem); }
+  .ap__kicker { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.82rem; color: var(--lime); margin-bottom: 1rem; }
+  .ap__title { font-size: clamp(2.6rem, 1.5rem + 7vw, 6rem); }
+  .ap__hl { color: var(--lime); }
+  .ap__lede { max-width: 54ch; margin-top: 1.2rem; color: color-mix(in srgb, var(--paper) 82%, transparent); font-size: clamp(1.05rem, 1rem + 0.5vw, 1.35rem); }
+
+  .vals { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.2rem; }
+  .val { padding: 1.6rem 1.5rem; border: 2.5px solid var(--ink); border-radius: var(--radius); background: var(--paper); transition: transform 0.3s var(--ease-out), box-shadow 0.3s; }
+  .val:hover { transform: translate(-4px, -4px); box-shadow: var(--shadow-hard); }
+  .val__e { font-size: 2.4rem; }
+  .val__t { font-size: 1.4rem; margin: 0.6rem 0 0.4rem; }
+  .val__d { color: color-mix(in srgb, var(--ink) 75%, transparent); }
+
+  .mission { max-width: 760px; margin-inline: auto; padding: 2rem 2.2rem; background: var(--ink); color: var(--paper); border-radius: var(--radius-lg); }
+  .mission__h { color: var(--lime); font-size: 1.8rem; margin-bottom: 1rem; }
+  .mission p { color: color-mix(in srgb, var(--paper) 85%, transparent); margin-bottom: 1rem; font-size: 1.1rem; }
+</style>

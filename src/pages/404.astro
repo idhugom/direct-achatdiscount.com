@@ -1,0 +1,36 @@
+---
+import Base from '../layouts/Base.astro';
+import { CATEGORIES } from '../lib/categories';
+---
+<Base title="Page introuvable">
+  <section class="nf">
+    <div class="nf__bg" aria-hidden="true"><span></span><span></span></div>
+    <div class="wrap nf__in">
+      <p class="nf__code display">404</p>
+      <h1 class="nf__title">Cette page a filé… comme un bon plan.</h1>
+      <p class="nf__lede">La page que vous cherchez n’existe pas (ou plus). Mais il reste des centaines de guides à découvrir.</p>
+      <div class="nf__cta">
+        <a href="/" class="btn btn--lime">Retour à l’accueil</a>
+        <a href="/recherche/" class="btn btn--ghost" style="--fg:var(--paper);border-color:var(--paper)">Rechercher</a>
+      </div>
+      <div class="nf__cats">
+        {CATEGORIES.map((c) => (
+          <a href={`/rubrique/${c.slug}/`} class="nf__pill" style={`--cat:${c.color};--cat-ink:${c.ink}`}>{c.emoji} {c.short}</a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Base>
+<style>
+  .nf { position: relative; overflow: hidden; background: var(--ink); color: var(--paper); min-height: 78vh; display: grid; align-items: center; }
+  .nf__bg span { position: absolute; border-radius: 50%; filter: blur(70px); opacity: 0.5; mix-blend-mode: screen; }
+  .nf__bg span:nth-child(1) { width: 34vw; height: 34vw; background: var(--pink); left: -8vw; top: -10vw; animation: drift 18s ease-in-out infinite; }
+  .nf__bg span:nth-child(2) { width: 30vw; height: 30vw; background: var(--cyan); right: -6vw; bottom: -12vw; animation: drift 22s ease-in-out infinite reverse; }
+  .nf__in { position: relative; z-index: 1; text-align: center; padding-block: 4rem; }
+  .nf__code { font-size: clamp(6rem, 4rem + 18vw, 16rem); line-height: 0.8; background: linear-gradient(92deg, var(--pink), var(--orange), var(--lime)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .nf__title { font-size: clamp(1.6rem, 1.2rem + 2.5vw, 3rem); margin: 1rem 0; }
+  .nf__lede { color: color-mix(in srgb, var(--paper) 80%, transparent); max-width: 46ch; margin: 0 auto 1.6rem; font-size: 1.15rem; }
+  .nf__cta { display: flex; gap: 0.8rem; justify-content: center; flex-wrap: wrap; margin-bottom: 2rem; }
+  .nf__cats { display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center; }
+  .nf__pill { padding: 0.4em 0.9em; background: var(--cat); color: var(--cat-ink); border: 2.5px solid var(--paper); border-radius: 100px; font-family: var(--font-display); font-weight: 700; font-size: 0.85rem; }
+</style>

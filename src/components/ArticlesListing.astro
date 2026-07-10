@@ -1,0 +1,38 @@
+---
+import ArticleCard from './ArticleCard.astro';
+interface Props { items: any[]; current: number; last: number; total: number; }
+const { items, current, last, total } = Astro.props;
+const prevUrl = current === 2 ? '/articles/' : current > 2 ? `/articles/${current - 1}.html` : null;
+const nextUrl = current < last ? `/articles/${current + 1}.html` : null;
+---
+<header class="ah">
+  <div class="wrap-wide ah__in">
+    <p class="ah__kicker">⚡ La collection complète</p>
+    <h1 class="ah__title display">Tous les guides</h1>
+    <p class="ah__lede">Comparatifs, guides d’achat et astuces — {total} article{total > 1 ? 's' : ''} à explorer.</p>
+  </div>
+</header>
+
+<section class="section wrap-wide">
+  <div class="cards-grid">
+    {items.map((a: any, i: number) => (<div class="reveal" data-delay={i % 4}><ArticleCard article={a} /></div>))}
+  </div>
+  {last > 1 && (
+    <nav class="pager" aria-label="Pagination">
+      {prevUrl ? <a href={prevUrl} class="btn btn--ghost">← Précédent</a> : <span></span>}
+      <span class="pager__pos u-mono">Page {current} / {last}</span>
+      {nextUrl ? <a href={nextUrl} class="btn btn--accent">Suivant →</a> : <span></span>}
+    </nav>
+  )}
+</section>
+
+<style>
+  .ah { background: var(--ink); color: var(--paper); border-bottom: 3px solid var(--ink); }
+  .ah__in { padding-block: clamp(2.6rem, 6vw, 4.5rem); }
+  .ah__kicker { font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.14em; font-size: 0.82rem; color: var(--lime); margin-bottom: 0.9rem; }
+  .ah__title { font-size: clamp(2.6rem, 1.5rem + 7vw, 6rem); }
+  .ah__lede { color: color-mix(in srgb, var(--paper) 80%, transparent); font-size: clamp(1.05rem, 1rem + 0.5vw, 1.3rem); margin-top: 0.7rem; }
+  .cards-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1.4rem; }
+  .pager { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 3rem; }
+  .pager__pos { font-weight: 700; }
+</style>

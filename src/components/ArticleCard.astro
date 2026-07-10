@@ -1,0 +1,103 @@
+---
+import type { Article } from '../lib/articles';
+import { articleUrl, mediaSrc, formatDate } from '../lib/articles';
+import { getCategory } from '../lib/categories';
+
+interface Props {
+  article: Article;
+  size?: 'sm' | 'md' | 'lg';
+  index?: number;
+}
+const { article, size = 'md', index } = Astro.props;
+const d = article.data;
+const cat = getCategory(d.category);
+const url = articleUrl(article);
+const img = mediaSrc(d.image.id);
+const img800 = mediaSrc(d.image.id, 800);
+const aspect = d.image.width && d.image.height ? `${d.image.width}/${d.image.height}` : '16/10';
+---
+
+<article
+  class:list={['acard', `acard--${size}`]}
+  style={`--cat:${cat.color};--cat-ink:${cat.ink}`}
+  data-tilt={size === 'lg' ? '' : undefined}
+>
+  <a href={url} class="acard__media" aria-hidden="true" tabindex="-1">
+    {img ? (
+      <img
+        src={img800 || img}
+        srcset={img800 ? `${img800} 800w, ${img} 1600w` : undefined}
+        sizes={size === 'lg' ? '(max-width: 900px) 100vw, 60vw' : '(max-width: 700px) 100vw, 33vw'}
+        width={d.image.width || 1600}
+        height={d.image.height || 1000}
+        alt=""
+        loading="lazy"
+        decoding="async"
+        style={`aspect-ratio:${aspect}`}
+      />
+    ) : (
+      <span class="acard__ph" aria-hidden="true"><b>{cat.emoji}</b></span>
+    )}
+    {index != null && <span class="acard__num u-mono">{String(index + 1).padStart(2, '0')}</span>}
+  </a>
+  <div class="acard__body">
+    <a href={`/rubrique/${cat.slug}/`} class="chip acard__chip">{cat.short}</a>
+    <h3 class="acard__title">
+      <a href={url}>{d.title}</a>
+    </h3>
+    {size !== 'sm' && <p class="acard__ex">{d.excerpt}</p>}
+    <div class="acard__meta u-mono">
+      <time datetime={d.date.toISOString()}>{formatDate(d.date)}</time>
+      <span aria-hidden="true">·</span>
+      <span>{d.readingTime} min</span>
+    </div>
+  </div>
+</article>
+
+<style>
+  .acard {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background: var(--paper);
+    border: 2.5px solid var(--ink);
+    border-radius: var(--radius);
+    overflow: hidden;
+    transition: transform 0.35s var(--ease-out), box-shadow 0.35s var(--ease-out);
+    height: 100%;
+    will-change: transform;
+  }
+  .acard:not([data-tilt]):hover { transform: translate(-4px, -4px); box-shadow: var(--shadow-hard-lg); }
+
+  .acard__media { position: relative; display: block; background: var(--paper-2); overflow: hidden; border-bottom: 2.5px solid var(--ink); }
+  .acard__media img { width: 100%; object-fit: cover; transition: transform 0.6s var(--ease-out); }
+  .acard:hover .acard__media img { transform: scale(1.05); }
+  .acard__ph {
+    display: grid; place-items: center; aspect-ratio: 16/10;
+    background: linear-gradient(130deg, var(--cat), color-mix(in srgb, var(--cat) 55%, var(--ink)));
+  }
+  .acard__ph b { font-size: 3rem; }
+  .acard__num {
+    position: absolute; top: 10px; left: 12px;
+    font-family: var(--font-display); font-weight: 800; font-size: 1.5rem; line-height: 1;
+    color: var(--paper); -webkit-text-stroke: 1.5px var(--ink); text-stroke: 1.5px var(--ink);
+    mix-blend-mode: screen;
+  }
+
+  .acard__body { display: flex; flex-direction: column; gap: 0.6rem; padding: 1.1rem 1.2rem 1.3rem; flex: 1; }
+  .acard__chip { align-self: flex-start; }
+  .acard__title { font-size: clamp(1.15rem, 1rem + 0.7vw, 1.5rem); line-height: 1.08; }
+  .acard__title a { background-image: linear-gradient(var(--cat), var(--cat)); background-size: 0 3px; background-repeat: no-repeat; background-position: 0 100%; transition: background-size 0.35s var(--ease-out); }
+  .acard__title a:hover { background-size: 100% 3px; }
+  .acard__ex { color: color-mix(in srgb, var(--ink) 72%, transparent); font-size: 0.96rem; margin-top: -0.1rem; }
+  .acard__meta { margin-top: auto; display: flex; gap: 0.5rem; align-items: center; font-size: 0.8rem; color: color-mix(in srgb, var(--ink) 58%, transparent); font-weight: 600; padding-top: 0.3rem; }
+
+  /* Grande carte : média à gauche */
+  .acard--lg { flex-direction: row; }
+  .acard--lg .acard__media { flex: 1.1; border-bottom: none; border-right: 2.5px solid var(--ink); }
+  .acard--lg .acard__media img { height: 100%; }
+  .acard--lg .acard__body { flex: 1; justify-content: center; padding: clamp(1.2rem, 3vw, 2.2rem); gap: 0.9rem; }
+  .acard--lg .acard__title { font-size: clamp(1.5rem, 1.2rem + 1.5vw, 2.4rem); }
+  .acard--lg .acard__ex { font-size: 1.05rem; }
+  @media (max-width: 720px) { .acard--lg { flex-direction: column; } .acard--lg .acard__media { border-right: none; border-bottom: 2.5px solid var(--ink); } }
+</style>

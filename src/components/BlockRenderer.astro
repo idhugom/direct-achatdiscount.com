@@ -1,0 +1,288 @@
+---
+// Rendu de tous les types de blocs éditoriaux.
+// Le HTML des paragraphes/callouts provient de notre pipeline (contenu de confiance).
+interface Props { blocks: any[]; }
+const { blocks } = Astro.props;
+
+const calloutMeta: Record<string, { label: string; icon: string }> = {
+  info:   { label: 'À savoir',   icon: 'ℹ️' },
+  tip:    { label: 'Astuce',     icon: '💡' },
+  warning:{ label: 'Attention',  icon: '⚠️' },
+  key:    { label: 'Le point clé', icon: '🎯' },
+  money:  { label: 'Bon plan',   icon: '💶' },
+};
+---
+
+<div class="prose">
+  {blocks.map((b) => {
+    switch (b.type) {
+      case 'lead':
+        return <p class="prose__lead">{b.text}</p>;
+
+      case 'heading':
+        return b.level === 3
+          ? <h3 id={b.id} class="prose__h3">{b.text}</h3>
+          : <h2 id={b.id} class="prose__h2"><span class="prose__h2mark" aria-hidden="true"></span>{b.text}</h2>;
+
+      case 'paragraph':
+        return <p set:html={b.html} />;
+
+      case 'quote':
+        return (
+          <figure class="prose__quote">
+            <blockquote>{b.text}</blockquote>
+            {b.author && <figcaption>— {b.author}</figcaption>}
+          </figure>
+        );
+
+      case 'callout': {
+        const m = calloutMeta[b.variant] || calloutMeta.info;
+        return (
+          <aside class:list={['callout', `callout--${b.variant}`]}>
+            <div class="callout__tag"><span aria-hidden="true">{m.icon}</span>{b.title || m.label}</div>
+            <div class="callout__body" set:html={b.html} />
+          </aside>
+        );
+      }
+
+      case 'key_takeaways':
+        return (
+          <aside class="takeaways">
+            <h3 class="takeaways__h">{b.title || 'L’essentiel en un clin d’œil'}</h3>
+            <ul>{b.items.map((it: string) => <li set:html={it} />)}</ul>
+          </aside>
+        );
+
+      case 'list':
+        return (
+          <div class="prose__listwrap">
+            {b.title && <p class="prose__listtitle">{b.title}</p>}
+            {b.style === 'ol'
+              ? <ol class="prose__ol">{b.items.map((it: string) => <li set:html={it} />)}</ol>
+              : <ul class:list={['prose__ul', b.style === 'check' && 'prose__ul--check']}>{b.items.map((it: string) => <li set:html={it} />)}</ul>}
+          </div>
+        );
+
+      case 'steps':
+        return (
+          <ol class="steps">
+            {b.title && <p class="steps__title">{b.title}</p>}
+            {b.items.map((it: any, i: number) => (
+              <li class="steps__item">
+                <span class="steps__n u-mono">{i + 1}</span>
+                <div><b>{it.title}</b><span set:html={it.text} /></div>
+              </li>
+            ))}
+          </ol>
+        );
+
+      case 'stat':
+        return (
+          <div class="statband">
+            {b.items.map((it: any) => (
+              <div class="statband__item">
+                <div class="statband__v">{it.value}</div>
+                <div class="statband__l">{it.label}</div>
+              </div>
+            ))}
+          </div>
+        );
+
+      case 'table':
+        return (
+          <figure class="tablewrap">
+            {b.caption && <figcaption class="tablewrap__cap">{b.caption}</figcaption>}
+            <div class="tablewrap__scroll">
+              <table>
+                <thead><tr>{b.headers.map((h: string) => <th set:html={h} />)}</tr></thead>
+                <tbody>
+                  {b.rows.map((row: string[]) => (
+                    <tr>{row.map((cell, ci) => (ci === 0 ? <th scope="row" set:html={cell} /> : <td set:html={cell} />))}</tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+            {b.note && <p class="tablewrap__note">{b.note}</p>}
+          </figure>
+        );
+
+      case 'comparison':
+        return (
+          <div class="compare">
+            {b.title && <p class="compare__title">{b.title}</p>}
+            <div class="compare__grid">
+              <div class="compare__col compare__col--a">
+                <h4>{b.left.title}</h4>
+                <ul>{b.left.points.map((p: string) => <li set:html={p} />)}</ul>
+              </div>
+              <div class="compare__vs" aria-hidden="true">VS</div>
+              <div class="compare__col compare__col--b">
+                <h4>{b.right.title}</h4>
+                <ul>{b.right.points.map((p: string) => <li set:html={p} />)}</ul>
+              </div>
+            </div>
+          </div>
+        );
+
+      case 'proscons':
+        return (
+          <div class="proscons">
+            {b.title && <p class="proscons__title">{b.title}</p>}
+            <div class="proscons__grid">
+              <div class="proscons__col proscons__col--pro">
+                <h4><span aria-hidden="true">✓</span> Les plus</h4>
+                <ul>{b.pros.map((p: string) => <li set:html={p} />)}</ul>
+              </div>
+              <div class="proscons__col proscons__col--con">
+                <h4><span aria-hidden="true">✕</span> Les moins</h4>
+                <ul>{b.cons.map((p: string) => <li set:html={p} />)}</ul>
+              </div>
+            </div>
+          </div>
+        );
+
+      case 'faq':
+        return (
+          <section class="faq">
+            <h2 class="prose__h2" id="faq"><span class="prose__h2mark" aria-hidden="true"></span>{b.title || 'Questions fréquentes'}</h2>
+            <div class="faq__list">
+              {b.items.map((it: any) => (
+                <div class="faq__item" data-faq-item>
+                  <button class="faq__q" data-faq-q aria-expanded="false">
+                    <span set:html={it.q} />
+                    <span class="faq__ico" aria-hidden="true"></span>
+                  </button>
+                  <div class="faq__a"><div set:html={it.a} /></div>
+                </div>
+              ))}
+            </div>
+          </section>
+        );
+
+      default:
+        return null;
+    }
+  })}
+</div>
+
+<style>
+  .prose { font-size: clamp(1.05rem, 1rem + 0.35vw, 1.18rem); line-height: 1.75; }
+  .prose > * + * { margin-top: 1.25em; }
+  .prose :global(p) { color: color-mix(in srgb, var(--ink) 88%, transparent); }
+  .prose :global(a) { color: var(--violet); font-weight: 600; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 2px; }
+  .prose :global(strong), .prose :global(b) { font-weight: 700; }
+
+  .prose__lead {
+    font-family: var(--font-display); font-weight: 500;
+    font-size: clamp(1.3rem, 1.1rem + 1vw, 1.7rem); line-height: 1.3;
+    letter-spacing: -0.015em; color: var(--ink) !important;
+    padding-left: 1.1rem; border-left: 5px solid var(--accent);
+  }
+
+  .prose__h2 { position: relative; font-size: clamp(1.7rem, 1.3rem + 1.8vw, 2.5rem); margin-top: 2.4em; scroll-margin-top: 90px; }
+  .prose__h2mark { display: inline-block; width: 0.55em; height: 0.55em; margin-right: 0.35em; background: var(--accent); border: 2px solid var(--ink); border-radius: 5px; vertical-align: 0.02em; }
+  .prose__h3 { font-size: clamp(1.3rem, 1.1rem + 0.9vw, 1.7rem); margin-top: 1.8em; scroll-margin-top: 90px; }
+
+  .prose__quote { margin: 2em 0; padding: 1.4rem 1.6rem; background: var(--ink); color: var(--paper); border-radius: var(--radius); border: 2.5px solid var(--ink); }
+  .prose__quote blockquote { font-family: var(--font-display); font-weight: 500; font-size: clamp(1.3rem, 1.1rem + 1vw, 1.9rem); line-height: 1.25; letter-spacing: -0.02em; }
+  .prose__quote figcaption { margin-top: 0.8rem; color: var(--lime); font-weight: 600; }
+
+  /* Callouts */
+  .callout { --c: var(--cyan); margin: 1.8em 0; padding: 1.2rem 1.3rem 1.3rem; border: 2.5px solid var(--ink); border-radius: var(--radius); background: color-mix(in srgb, var(--c) 16%, var(--paper)); box-shadow: 5px 5px 0 var(--ink); }
+  .callout--info { --c: var(--cyan); }
+  .callout--tip { --c: var(--lime); }
+  .callout--warning { --c: var(--orange); }
+  .callout--key { --c: var(--pink); }
+  .callout--money { --c: var(--amber); }
+  .callout__tag { display: inline-flex; align-items: center; gap: 0.45em; font-family: var(--font-display); font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.82rem; padding: 0.3em 0.7em; background: var(--c); border: 2px solid var(--ink); border-radius: 100px; margin-bottom: 0.7rem; }
+  .callout__body :global(p) { margin: 0; }
+  .callout__body :global(p + p) { margin-top: 0.7em; }
+
+  /* Takeaways */
+  .takeaways { margin: 2em 0; padding: 1.4rem 1.5rem; background: var(--ink); color: var(--paper); border-radius: var(--radius-lg); }
+  .takeaways__h { font-size: 1.25rem; color: var(--lime); margin-bottom: 0.9rem; }
+  .takeaways ul { display: grid; gap: 0.7rem; }
+  .takeaways li { position: relative; padding-left: 1.9rem; color: color-mix(in srgb, var(--paper) 90%, transparent); }
+  .takeaways li::before { content: '✦'; position: absolute; left: 0; top: 0.05em; color: var(--lime); font-size: 1.1rem; }
+
+  /* Listes */
+  .prose__listtitle, .steps__title, .compare__title, .proscons__title { font-family: var(--font-display); font-weight: 700; font-size: 1.15rem; margin-bottom: 0.6rem; }
+  .prose__ul li, .prose__ol li { position: relative; padding-left: 1.7rem; margin-bottom: 0.55rem; }
+  .prose__ul li::before { content: ''; position: absolute; left: 0; top: 0.55em; width: 0.7rem; height: 0.7rem; background: var(--accent); border: 2px solid var(--ink); border-radius: 3px; }
+  .prose__ul--check li::before { content: '✓'; width: auto; height: auto; background: none; border: none; color: var(--accent); font-weight: 900; top: 0; font-size: 1.1rem; }
+  .prose__ol { counter-reset: li; }
+  .prose__ol li::before { counter-increment: li; content: counter(li); position: absolute; left: 0; top: 0.05em; display: grid; place-items: center; width: 1.4rem; height: 1.4rem; background: var(--accent); color: var(--accent-ink); border: 2px solid var(--ink); border-radius: 50%; font-family: var(--font-display); font-weight: 700; font-size: 0.8rem; }
+  .prose__ol li { padding-left: 2.1rem; }
+
+  /* Steps */
+  .steps { margin: 2em 0; display: grid; gap: 1rem; counter-reset: step; }
+  .steps__item { display: grid; grid-template-columns: auto 1fr; gap: 1rem; align-items: start; padding: 1rem 1.2rem; border: 2.5px solid var(--ink); border-radius: var(--radius); background: var(--paper); }
+  .steps__n { display: grid; place-items: center; width: 2.4rem; height: 2.4rem; background: var(--accent); color: var(--accent-ink); border: 2.5px solid var(--ink); border-radius: 50%; font-family: var(--font-display); font-weight: 800; font-size: 1.15rem; }
+  .steps__item b { display: block; font-family: var(--font-display); font-size: 1.1rem; margin-bottom: 0.15rem; }
+
+  /* Stat band */
+  .statband { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 0; margin: 2em 0; border: 2.5px solid var(--ink); border-radius: var(--radius); overflow: hidden; background: var(--ink); }
+  .statband__item { padding: 1.4rem 1rem; text-align: center; background: var(--paper); border-right: 2.5px solid var(--ink); }
+  .statband__item:last-child { border-right: none; }
+  .statband__v { font-family: var(--font-display); font-weight: 800; font-size: clamp(1.8rem, 1.2rem + 3vw, 3rem); line-height: 1; letter-spacing: -0.03em; color: var(--accent); -webkit-text-stroke: 1px var(--ink); }
+  .statband__l { font-size: 0.85rem; font-weight: 600; color: color-mix(in srgb, var(--ink) 70%, transparent); margin-top: 0.4rem; }
+  @media (max-width: 620px) { .statband { grid-auto-flow: row; grid-auto-columns: auto; } .statband__item { border-right: none; border-bottom: 2.5px solid var(--ink); } .statband__item:last-child { border-bottom: none; } }
+
+  /* Tableaux */
+  .tablewrap { margin: 2em 0; }
+  .tablewrap__cap { font-family: var(--font-display); font-weight: 700; font-size: 1.1rem; margin-bottom: 0.6rem; }
+  .tablewrap__scroll { overflow-x: auto; border: 2.5px solid var(--ink); border-radius: var(--radius); box-shadow: 5px 5px 0 var(--ink); }
+  .tablewrap table { width: 100%; border-collapse: collapse; min-width: 480px; font-size: 0.97rem; }
+  .tablewrap thead th { background: var(--ink); color: var(--paper); font-family: var(--font-display); text-align: left; padding: 0.85rem 1rem; font-size: 0.9rem; letter-spacing: 0.01em; position: sticky; top: 0; }
+  .tablewrap tbody th, .tablewrap tbody td { padding: 0.8rem 1rem; border-top: 1.5px solid var(--paper-3); vertical-align: top; }
+  .tablewrap tbody th { font-weight: 700; background: color-mix(in srgb, var(--accent) 10%, var(--paper)); text-align: left; }
+  .tablewrap tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--paper-2) 55%, var(--paper)); }
+  .tablewrap__note { font-size: 0.85rem; color: color-mix(in srgb, var(--ink) 60%, transparent); margin-top: 0.6rem; font-style: italic; }
+
+  /* Comparaison 2 colonnes */
+  .compare { margin: 2em 0; }
+  .compare__grid { display: grid; grid-template-columns: 1fr auto 1fr; gap: 0; align-items: stretch; }
+  .compare__col { padding: 1.3rem 1.4rem; border: 2.5px solid var(--ink); }
+  .compare__col--a { border-radius: var(--radius) 0 0 var(--radius); background: color-mix(in srgb, var(--cyan) 14%, var(--paper)); }
+  .compare__col--b { border-radius: 0 var(--radius) var(--radius) 0; border-left: none; background: color-mix(in srgb, var(--pink) 12%, var(--paper)); }
+  .compare__col h4 { font-size: 1.2rem; margin-bottom: 0.7rem; }
+  .compare__col li { position: relative; padding-left: 1.4rem; margin-bottom: 0.5rem; font-size: 0.98rem; }
+  .compare__col li::before { content: '›'; position: absolute; left: 0.2rem; font-weight: 800; color: var(--ink); }
+  .compare__vs { display: grid; place-items: center; z-index: 2; align-self: center; margin: 0 -1.1rem; width: 3rem; height: 3rem; background: var(--lime); border: 2.5px solid var(--ink); border-radius: 50%; font-family: var(--font-display); font-weight: 800; font-size: 0.9rem; }
+  @media (max-width: 640px) {
+    .compare__grid { grid-template-columns: 1fr; }
+    .compare__col--a { border-radius: var(--radius) var(--radius) 0 0; }
+    .compare__col--b { border-radius: 0 0 var(--radius) var(--radius); border-left: 2.5px solid var(--ink); border-top: none; }
+    .compare__vs { margin: -1.5rem auto; }
+  }
+
+  /* Pour / Contre */
+  .proscons { margin: 2em 0; }
+  .proscons__grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+  .proscons__col { padding: 1.2rem 1.3rem; border: 2.5px solid var(--ink); border-radius: var(--radius); }
+  .proscons__col--pro { background: color-mix(in srgb, var(--lime) 22%, var(--paper)); }
+  .proscons__col--con { background: color-mix(in srgb, var(--orange) 15%, var(--paper)); }
+  .proscons__col h4 { display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.7rem; font-size: 1.1rem; }
+  .proscons__col--pro h4 span { color: #0a8a3f; } .proscons__col--con h4 span { color: #c23a00; }
+  .proscons__col li { padding-left: 1.2rem; position: relative; margin-bottom: 0.45rem; font-size: 0.96rem; }
+  .proscons__col li::before { content: '•'; position: absolute; left: 0.2rem; }
+  @media (max-width: 560px) { .proscons__grid { grid-template-columns: 1fr; } }
+
+  /* FAQ */
+  .faq { margin: 2.5em 0 0; }
+  .faq__list { display: grid; gap: 0.7rem; margin-top: 1rem; }
+  .faq__item { border: 2.5px solid var(--ink); border-radius: var(--radius); overflow: hidden; background: var(--paper); }
+  .faq__q { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 1rem 1.2rem; text-align: left; background: none; border: none; font-family: var(--font-display); font-weight: 700; font-size: 1.08rem; }
+  .faq__ico { position: relative; flex: none; width: 1.4rem; height: 1.4rem; }
+  .faq__ico::before, .faq__ico::after { content: ''; position: absolute; background: var(--ink); border-radius: 2px; transition: transform 0.3s var(--ease-out); }
+  .faq__ico::before { left: 0; top: 50%; width: 100%; height: 3px; transform: translateY(-50%); }
+  .faq__ico::after { top: 0; left: 50%; width: 3px; height: 100%; transform: translateX(-50%); }
+  .faq__item.is-open .faq__ico::after { transform: translateX(-50%) scaleY(0); }
+  .faq__item.is-open .faq__q { background: var(--accent); color: var(--accent-ink); }
+  .faq__item.is-open .faq__ico::before, .faq__item.is-open .faq__ico::after { background: var(--accent-ink); }
+  .faq__a { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.35s var(--ease-out); }
+  .faq__item.is-open .faq__a { grid-template-rows: 1fr; }
+  .faq__a > div { overflow: hidden; }
+  .faq__a > div > * { padding: 0 1.2rem; }
+  .faq__item.is-open .faq__a > div > * { padding: 0.3rem 1.2rem 1.2rem; }
+</style>
