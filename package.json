@@ -12,6 +12,7 @@
     "wp:fetch": "node scripts/fetch-wp.mjs",
     "wp:images": "node scripts/fetch-images.mjs",
     "ai:sample": "node scripts/gen-sample.mjs",
+    "ai:all": "node scripts/gen-all.mjs",
     "ai:batch:build": "node scripts/build-batch.mjs",
     "ai:batch:submit": "node scripts/submit-batch.mjs",
     "ai:batch:poll": "node scripts/poll-batch.mjs",

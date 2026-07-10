@@ -36,12 +36,23 @@ npm run wp:fetch          # récupère les 899 articles WP (métadonnées + slug
 npm run ai:sample -- 18   # génère un échantillon d'articles (Responses API) → src/content/articles/
 npm run wp:images         # télécharge + optimise les images à la une des articles présents → public/media/
 
-# Traitement des 1 000 articles via Batch API
-npm run ai:batch:build    # construit le fichier .jsonl (un article par ligne) avec les params imposés
-npm run ai:batch:submit   # envoie le batch à OpenAI, mémorise l'id
+# Génération de TOUS les articles restants (reprenable, saute ceux déjà faits)
+npm run ai:all            # génère les ~881 restants via Responses API → src/content/articles/
+npm run wp:images         # télécharge leurs images à la une
+npm run build
+
+# (Batch API — indisponible dans cet environnement, voir note ci-dessous)
+npm run ai:batch:build    # construit le .jsonl
+npm run ai:batch:submit   # envoie le batch
 npm run ai:batch:poll     # suit l'avancement
-npm run ai:batch:ingest   # récupère les résultats → src/content/articles/, puis npm run wp:images && npm run build
+npm run ai:batch:ingest   # ingère les résultats
 ```
+
+> **Note Batch API** — Dans l'environnement de génération utilisé, l'infrastructure
+> Batch route les requêtes vers un modèle suffixé `-batch` (ex. `gpt-5.6-terra-batch`)
+> qui n'est pas provisionné → toutes les requêtes échouent en `model_not_found`.
+> On utilise donc `npm run ai:all` (génération synchrone résiliente) qui produit un
+> contenu strictement identique (mêmes modèle et paramètres), article par article.
 
 Paramètres de génération imposés (voir `scripts/article-schema.mjs`) :
 `gpt-5.6-terra`, reasoning effort **high** (standard), text verbosity **high**,

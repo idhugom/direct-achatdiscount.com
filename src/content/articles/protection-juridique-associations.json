@@ -1,0 +1,453 @@
+{
+  "title": "Assurance protection juridique pour associations : quelles offres pour gérer les conflits dans la vie associative ?",
+  "slug": "protection-juridique-associations",
+  "path": "/divers/protection-juridique-associations.html",
+  "category": "argent",
+  "tags": [
+    "protection juridique",
+    "association",
+    "assurance associative",
+    "litige",
+    "responsabilité dirigeant",
+    "garanties"
+  ],
+  "excerpt": "Conflit avec un fournisseur, un bailleur, un salarié ou l’administration : les critères pour choisir une protection juridique associative utile.",
+  "metaDescription": "Protection juridique pour associations : comparez garanties, plafonds, exclusions et budget pour gérer un conflit sans fragiliser votre structure.",
+  "seoTitle": "Protection juridique association : bien choisir son contrat",
+  "heroKicker": "Conflits maîtrisés",
+  "readingTime": 12,
+  "date": "2025-08-06T13:11:10",
+  "image": {
+    "id": "3324",
+    "alt": "Assurance protection juridique pour associations : quelles offres pour gérer les conflits dans la vie associative ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une association peut devoir faire face à un impayé, un désaccord avec son bailleur, une contestation administrative ou un litige avec un prestataire. La protection juridique ne fait pas disparaître le conflit, mais elle donne accès à des juristes et peut prendre en charge une partie des frais nécessaires pour le résoudre. Encore faut-il que le contrat couvre réellement les risques de votre vie associative."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La protection juridique finance et organise la défense des intérêts de l’association ; elle ne remplace ni la responsabilité civile, ni l’assurance des dirigeants.",
+        "Vérifiez avant tout les <strong>domaines de litige couverts</strong>, les plafonds par dossier, les seuils d’intervention, les délais de carence et les exclusions.",
+        "Les conflits liés à l’emploi, aux statuts, à la fiscalité, aux subventions ou aux membres sont souvent les plus sensibles et ne sont pas systématiquement garantis.",
+        "Une garantie intégrée à une multirisque peut suffire à une petite structure, mais une association employeuse ou exposée contractuellement a intérêt à comparer une couverture renforcée.",
+        "Déclarez le différend dès les premiers courriers ou la première mise en demeure : attendre une assignation peut compliquer la prise en charge."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi une association a besoin d’une protection juridique",
+      "id": "pourquoi-une-association-a-besoin-d-une-protection-juridique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Même sans but lucratif, une association signe des contrats, loue parfois des locaux, emploie des personnes, achète du matériel, sollicite des subventions et organise des activités ouvertes au public. Chacune de ces relations peut produire un désaccord. Le vrai problème n’est pas uniquement de savoir qui a raison : il faut comprendre les règles applicables, réunir les preuves, répondre dans les délais et évaluer s’il est raisonnable d’engager une procédure."
+    },
+    {
+      "type": "paragraph",
+      "html": "La protection juridique, souvent appelée <em>PJ</em>, met généralement à disposition un service d’information juridique, une aide à la recherche d’une solution amiable et, si le litige le justifie et entre dans le périmètre assuré, une participation aux frais de défense. Elle peut être souscrite seule, ajoutée à une multirisque associative ou proposée dans le cadre d’une fédération. Son intérêt est particulièrement concret lorsqu’un bureau bénévole ne dispose ni de juriste, ni de budget imprévu pour consulter un avocat."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 voies",
+          "label": "à privilégier : règlement amiable d’abord, procédure judiciaire si nécessaire"
+        },
+        {
+          "value": "3 niveaux",
+          "label": "de service fréquents : information, négociation amiable et prise en charge des frais"
+        },
+        {
+          "value": "1 contrat distinct",
+          "label": "peut être utile lorsque la PJ incluse dans la multirisque est trop limitée"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "Ne choisissez pas une protection juridique parce qu’elle comporte le mot <em>association</em>. Partez de vos relations à risque : bail, personnel, fournisseurs, collectivités, adhérents, bénéficiaires, propriétaires de locaux et prestataires numériques. Une garantie pertinente est celle qui couvre vos litiges les plus coûteux ou les plus difficiles à gérer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Protection juridique, responsabilité civile et assurance des dirigeants : ne pas confondre",
+      "id": "protection-juridique-responsabilite-civile-et-assurance-des-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces garanties répondent à des besoins différents. La responsabilité civile de l’association indemnise les dommages causés à un tiers lorsque la responsabilité de l’association est engagée : par exemple, un participant se blesse lors d’une activité et l’association est responsable. La protection juridique intervient lorsqu’il faut défendre ou faire valoir un droit dans un litige couvert, y compris lorsque l’association est victime d’un manquement d’un cocontractant."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’assurance responsabilité civile des dirigeants, lorsqu’elle existe, vise plus spécifiquement certaines conséquences d’une faute de gestion alléguée contre les administrateurs ou dirigeants. Elle n’est donc pas interchangeable avec la PJ. Une association peut avoir besoin des trois protections, surtout si elle gère des salariés, des locaux, un budget conséquent ou des activités présentant des risques particuliers."
+    },
+    {
+      "type": "comparison",
+      "title": "PJ intégrée à une multirisque ou contrat dédié ?",
+      "left": {
+        "title": "Protection juridique incluse",
+        "points": [
+          "Souvent plus simple à administrer avec les autres assurances de l’association.",
+          "Peut convenir à une petite structure bénévole ayant des risques limités.",
+          "Le plafond, les matières couvertes ou le choix de l’avocat peuvent être plus restreints.",
+          "La garantie peut être secondaire dans le contrat : il faut lire les conditions particulières."
+        ]
+      },
+      "right": {
+        "title": "Protection juridique dédiée ou renforcée",
+        "points": [
+          "Permet d’ajuster plus finement les domaines couverts et les montants de prise en charge.",
+          "Plus pertinente si l’association emploie, loue plusieurs sites ou conclut de nombreux contrats.",
+          "Peut offrir des services juridiques plus développés selon l’assureur.",
+          "Représente un poste d’assurance supplémentaire et impose une comparaison attentive des exclusions."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Ce que la protection juridique apporte — et ce qu’elle ne règle pas",
+      "pros": [
+        "Un premier avis juridique avant de répondre à un courrier engageant.",
+        "Un accompagnement dans la tentative de conciliation ou de négociation.",
+        "Une participation possible aux honoraires d’avocat, d’expert, de commissaire de justice et à certains frais de procédure, dans les limites prévues.",
+        "Une aide précieuse pour objectiver un conflit et éviter qu’il ne soit géré uniquement à l’émotion."
+      ],
+      "cons": [
+        "Elle ne couvre pas automatiquement tous les domaines du droit ni tous les litiges internes.",
+        "Les frais sont plafonnés : le budget réel d’un avocat peut dépasser le barème du contrat.",
+        "Un différend connu avant l’adhésion, volontairement provoqué ou né pendant un délai de carence peut être exclu.",
+        "Elle ne paie pas les amendes, pénalités ou condamnations qui restent légalement à la charge de l’association ou des personnes concernées."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les litiges à cartographier avant de demander un devis",
+      "id": "les-litiges-a-cartographier-avant-de-demander-un-devis"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur moyen de comparer les offres consiste à établir une cartographie simple des situations auxquelles votre association est réellement exposée. Une chorale qui occupe gratuitement une salle municipale, un club sportif employeur et une association médico-sociale ne présentent pas le même profil. Demandez à l’assureur une réponse écrite lorsque la garantie d’un risque important est ambiguë."
+    },
+    {
+      "type": "table",
+      "caption": "Exemples de litiges associatifs et points à vérifier dans le contrat",
+      "headers": [
+        "Domaine",
+        "Exemple de conflit",
+        "Ce qu’il faut contrôler"
+      ],
+      "rows": [
+        [
+          "Locaux et immobilier",
+          "Dépôt de garantie non restitué, travaux contestés, conflit avec un bailleur",
+          "Couverture des baux, copropriété, voisinage, recours administratifs éventuels"
+        ],
+        [
+          "Fournisseurs et prestataires",
+          "Matériel non livré, site internet défaillant, facture contestée",
+          "Droit des contrats, achats professionnels, plafond de frais et procédure amiable"
+        ],
+        [
+          "Emploi et bénévolat",
+          "Rupture de contrat de travail contestée, question disciplinaire",
+          "Inclusion explicite du droit du travail ; exclusions liées aux conflits sociaux ou au risque employeur"
+        ],
+        [
+          "Administration et financement",
+          "Refus de subvention, contrôle, décision administrative défavorable",
+          "Étendue du droit administratif et fiscal ; recours couverts et délais de déclaration"
+        ],
+        [
+          "Adhérents et bénéficiaires",
+          "Contestations sur l’inscription, une prestation ou le règlement intérieur",
+          "Litiges avec membres, bénéficiaires et usagers ; exclusions des conflits internes"
+        ],
+        [
+          "Gouvernance",
+          "Désaccord entre administrateurs, contestation d’une assemblée générale",
+          "Prise en charge souvent limitée ou exclue : lire les clauses relatives à la vie statutaire"
+        ],
+        [
+          "Données et numérique",
+          "Conflit avec un hébergeur, un outil de gestion ou un prestataire",
+          "Contrats numériques, propriété intellectuelle, données personnelles selon l’offre"
+        ]
+      ],
+      "note": "Un même intitulé de garantie peut recouvrir des périmètres très différents. Les conditions générales et les conditions particulières priment sur une présentation commerciale."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Vigilance sur les conflits internes",
+      "html": "Les litiges entre l’association, ses membres, ses dirigeants ou ses fondateurs sont fréquemment exclus, encadrés ou soumis à des conditions strictes. Or ce sont souvent les dossiers les plus sensibles dans la vie statutaire. Si ce risque vous préoccupe, ne l’interprétez jamais comme couvert sans une confirmation contractuelle précise."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les garanties décisives à lire ligne par ligne",
+      "id": "les-garanties-decisives-a-lire-ligne-par-ligne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au-delà du nom de la formule, quelques clauses déterminent l’utilité réelle du contrat. Commencez par la liste des domaines juridiques garantis. Une formule généraliste peut couvrir les contrats courants et les locaux, tout en excluant le droit du travail, les questions fiscales, la propriété intellectuelle, les marchés publics ou les recours contre une administration. Ces exclusions ne rendent pas le produit mauvais : elles doivent simplement être compatibles avec votre activité."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Plafonds, sous-plafonds et barème d’avocat",
+      "id": "plafonds-sous-plafonds-et-bareme-d-avocat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le plafond global par litige indique le montant maximal mobilisable pour un dossier. Mais recherchez aussi les <strong>sous-plafonds</strong> : montant maximal pour un avocat, une expertise, un appel ou une transaction. Un contrat peut afficher une enveloppe globale correcte tout en limitant fortement les honoraires d’avocat. Comparez le barème de prise en charge avec les honoraires habituellement pratiqués dans votre zone et votre type de contentieux ; l’association peut devoir financer la différence."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Seuil d’intervention, carence et antériorité",
+      "id": "seuil-d-intervention-carence-et-anteriorite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un seuil d’intervention peut imposer que le litige représente un enjeu financier minimal avant que l’assureur n’intervienne. Il faut également vérifier le délai de carence, c’est-à-dire la période suivant la souscription pendant laquelle certains litiges ne sont pas garantis. Enfin, un conflit déjà connu, un simple désaccord déjà exprimé ou une mise en demeure reçue avant l’adhésion ne sera généralement pas pris en charge. Souscrire au moment où le conflit éclate est donc rarement une solution."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Liberté de choix de l’avocat et conduite du dossier",
+      "id": "liberte-de-choix-de-l-avocat-et-conduite-du-dossier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous conservez en principe la liberté de choisir votre avocat lorsque son intervention est nécessaire, notamment dans le cadre d’une procédure. L’assureur peut proposer un professionnel ou un réseau, mais il ne doit pas imposer son propre conseil. En pratique, demandez comment le contrat organise cette liberté, à quel moment vous pouvez mandater un avocat et comment obtenir l’accord de prise en charge. Ne signez pas des honoraires importants sans avoir déclaré le dossier et demandé les modalités applicables."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir selon le profil de l’association ?",
+      "id": "quel-budget-prevoir-selon-le-profil-de-l-association"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix dépend moins de la seule taille de l’association que de ses activités, de son budget, de ses salariés, de ses locaux, de son chiffre d’affaires éventuel et du niveau de couverture choisi. Il n’existe donc pas de tarif universel sérieux. À titre de repère, une PJ basique intégrée à une assurance associative peut représenter quelques dizaines d’euros par an pour une très petite structure, tandis qu’un contrat plus large se situe couramment dans les basses centaines d’euros. Pour une organisation employeuse, multi-sites, exposée à des contrats nombreux ou recherchant une couverture étendue, le budget peut monter nettement au-delà."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget et de niveau de couverture",
+      "headers": [
+        "Profil associatif",
+        "Niveau de couverture souvent cohérent",
+        "Ordre de grandeur à anticiper"
+      ],
+      "rows": [
+        [
+          "Petite association bénévole, activité locale simple",
+          "Information juridique et litiges usuels, souvent en extension d’une multirisque",
+          "De quelques dizaines à quelques centaines d’euros par an selon les garanties"
+        ],
+        [
+          "Association avec local loué, équipements ou contrats réguliers",
+          "PJ couvrant explicitement contrats, locaux et recours contre les tiers",
+          "Plutôt dans les basses centaines d’euros, à comparer aux plafonds proposés"
+        ],
+        [
+          "Association employeuse ou à activité structurée",
+          "Extension claire au droit du travail, aux contrats complexes et aux besoins de conseil",
+          "Budget supérieur, très variable selon effectif, activité et niveau de risque"
+        ],
+        [
+          "Structure fédérée",
+          "Vérification des garanties collectives déjà incluses et des éventuels compléments",
+          "Coût parfois mutualisé ; attention au périmètre exact réservé aux adhérents"
+        ]
+      ],
+      "note": "Ces repères sont indicatifs. Demandez des devis comparables sur un même niveau de plafond, de franchise et de domaines couverts plutôt que de retenir le prix le plus bas."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Comparez le reste à charge, pas seulement la cotisation",
+      "html": "Une cotisation faible peut s’accompagner d’un plafond réduit, d’un seuil élevé ou d’un barème d’avocat peu protecteur. Pour un dossier complexe, le critère utile est le <strong>reste à charge prévisible</strong> après intervention de l’assureur, et non le seul coût annuel du contrat."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Méthode en six étapes pour choisir une offre adaptée",
+      "id": "methode-en-six-etapes-pour-choisir-une-offre-adaptee"
+    },
+    {
+      "type": "steps",
+      "title": "Une comparaison efficace",
+      "items": [
+        {
+          "title": "Inventoriez vos activités",
+          "text": "Listez les locaux occupés, les salariés, les prestataires, les événements, les financements publics, les adhérents et les contrats importants."
+        },
+        {
+          "title": "Repérez vos trois risques prioritaires",
+          "text": "Choisissez les situations qui auraient le plus fort impact financier, opérationnel ou réputationnel pour votre structure."
+        },
+        {
+          "title": "Examinez vos contrats existants",
+          "text": "Relisez la multirisque, la responsabilité civile, les garanties de fédération et les éventuels contrats professionnels pour éviter les doublons ou les angles morts."
+        },
+        {
+          "title": "Demandez le détail des garanties",
+          "text": "Exigez les conditions générales, les plafonds, le barème d’honoraires, les exclusions et les délais de carence avant de signer."
+        },
+        {
+          "title": "Posez des questions par scénarios",
+          "text": "Demandez ce qui se passe concrètement en cas de litige avec un bailleur, un salarié, une mairie, un fournisseur ou un adhérent."
+        },
+        {
+          "title": "Désignez un référent interne",
+          "text": "Prévoyez qui conserve les contrats, déclare les sinistres et transmet les pièces afin de ne pas perdre de temps quand un différend survient."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment utiliser la garantie quand un conflit apparaît",
+      "id": "comment-utiliser-la-garantie-quand-un-conflit-apparait"
+    },
+    {
+      "type": "paragraph",
+      "html": "La réactivité est essentielle. Dès qu’un désaccord devient formel — refus écrit, courrier recommandé, facture impayée contestée, mise en demeure ou convocation — conservez l’intégralité des échanges et contactez le service juridique indiqué au contrat. Présentez les faits dans l’ordre, sans minimiser les éléments défavorables. L’assureur évaluera si le dossier relève de la garantie et proposera généralement une orientation amiable avant toute procédure."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Documents à réunir avant la déclaration",
+      "items": [
+        "Les statuts de l’association et, si utile, la délibération autorisant la démarche.",
+        "Le contrat, devis accepté, bail, convention, bon de commande ou règlement concerné.",
+        "Les factures, preuves de paiement, relances et échanges écrits datés.",
+        "Les courriers recommandés, mises en demeure, convocations ou actes déjà reçus.",
+        "Un résumé chronologique factuel indiquant les demandes de chaque partie et les échéances à venir.",
+        "Les coordonnées de la personne habilitée à échanger pour le compte de l’association."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas conciliation et renoncement. Une solution négociée est souvent plus rapide, moins coûteuse et moins déstabilisante pour une petite structure qu’un contentieux. Toutefois, n’acceptez pas un protocole ou un abandon de créance sans mesurer ses conséquences. Lorsque l’enjeu est important, faites relire le document par le juriste de la PJ ou par l’avocat choisi."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les garanties complémentaires et les alternatives utiles",
+      "id": "les-garanties-complementaires-et-les-alternatives-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "La PJ est un outil de gestion des litiges, pas un bouclier universel. Une association qui accueille du public doit d’abord disposer d’une responsabilité civile adaptée à ses activités. Lorsqu’un risque pèse sur les décisions de gestion, une assurance dédiée aux dirigeants peut être pertinente. Pour les locaux et le matériel, la multirisque reste indispensable. Si l’association est employeuse, l’accompagnement en droit social, la qualité des contrats de travail et le respect des procédures de ressources humaines sont des mesures de prévention au moins aussi importantes que l’assurance."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les fédérations, unions et têtes de réseau peuvent aussi proposer une assistance juridique à leurs membres. C’est une ressource intéressante, mais il faut en distinguer la nature : simple hotline, consultation juridique, accompagnement amiable ou véritable assurance prenant part aux frais de procédure. Vérifiez également les conditions d’accès, les secteurs concernés et la possibilité de choisir un avocat."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui rendent une protection juridique décevante",
+      "id": "les-erreurs-qui-rendent-une-protection-juridique-decevante"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À éviter absolument",
+      "items": [
+        "Supposer que la PJ couvre automatiquement les litiges prud’homaux, fiscaux, administratifs ou entre membres.",
+        "Signer sans lire le barème de prise en charge des honoraires et les sous-plafonds par poste de dépenses.",
+        "Déclarer trop tard, après avoir engagé seul des frais ou laissé expirer un délai de réponse.",
+        "Souscrire après l’apparition d’un différend déjà identifiable en espérant une prise en charge rétroactive.",
+        "Confier le dossier à plusieurs bénévoles sans mandat clair ni conservation centralisée des preuves.",
+        "Choisir une formule standard sans informer l’assureur que l’association emploie, possède des locaux ou organise une activité particulière."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Prévenir vaut mieux que plaider",
+      "html": "Un registre des décisions du conseil d’administration, des conventions écrites, des règles de délégation claires et un archivage rigoureux des échanges réduisent fortement le risque de conflit. Ils facilitent aussi la défense de l’association si un litige devient inévitable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trois situations concrètes pour évaluer l’utilité d’un contrat",
+      "id": "trois-situations-concretes-pour-evaluer-l-utilite-d-un-contr"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le prestataire ne livre pas le matériel commandé",
+      "id": "le-prestataire-ne-livre-pas-le-materiel-commande"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’association a réglé un acompte pour des équipements nécessaires à un événement, mais le fournisseur ne livre pas ou livre un matériel non conforme. Une PJ couvrant les litiges contractuels peut aider à rédiger une mise en demeure, négocier un remboursement ou organiser la défense si le prestataire conteste. Vérifiez que les achats liés à l’activité associative ne sont pas exclus au titre d’une activité professionnelle ou commerciale."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le bailleur réclame des sommes contestées",
+      "id": "le-bailleur-reclame-des-sommes-contestees"
+    },
+    {
+      "type": "paragraph",
+      "html": "À la sortie d’un local, le bailleur facture des réparations que l’association estime relever de la vétusté. Les états des lieux, photographies, quittances et échanges deviennent décisifs. Une garantie couvrant les locaux peut financer un accompagnement, mais le contrat doit viser le type d’occupation concerné : bail, convention de mise à disposition, copropriété ou voisinage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Une décision administrative compromet un projet",
+      "id": "une-decision-administrative-compromet-un-projet"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le refus d’une autorisation, une difficulté liée à une subvention ou une décision d’une collectivité peut obliger l’association à agir dans des délais courts. La couverture du droit administratif est loin d’être systématique. Pour une structure très dépendante de financements publics ou d’autorisations, cette question mérite une vérification explicite au devis, y compris pour les recours amiables et contentieux."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la protection juridique des associations",
+      "items": [
+        {
+          "q": "La protection juridique est-elle obligatoire pour une association ?",
+          "a": "Non. Elle n’est pas légalement obligatoire dans la plupart des cas, contrairement à certaines assurances imposées par une activité ou un usage de local. Elle devient néanmoins très utile dès que l’association signe des contrats, loue un lieu, emploie ou gère des relations nombreuses avec des tiers."
+        },
+        {
+          "q": "Une protection juridique couvre-t-elle les conflits avec les adhérents ?",
+          "a": "Pas nécessairement. Certains contrats couvrent les litiges avec des tiers ou des bénéficiaires, mais excluent les différends internes entre l’association, ses membres, ses dirigeants ou ses fondateurs. Il faut demander la clause exacte applicable à vos adhérents et à votre fonctionnement statutaire."
+        },
+        {
+          "q": "Les frais d’avocat sont-ils remboursés intégralement ?",
+          "a": "En général, non. L’assureur applique un plafond global et souvent un barème par intervention ou procédure. Vous êtes libre de négocier les honoraires avec votre avocat, mais l’association peut devoir régler la part qui dépasse la prise en charge prévue par le contrat."
+        },
+        {
+          "q": "La garantie couvre-t-elle un litige avec un salarié ?",
+          "a": "Certaines formules couvrent le droit du travail, d’autres l’excluent ou l’encadrent fortement. Pour une association employeuse, il faut contrôler l’inclusion explicite des conflits individuels du travail, les éventuels délais de carence et les plafonds dédiés."
+        },
+        {
+          "q": "Peut-on souscrire une PJ lorsqu’un conflit a déjà commencé ?",
+          "a": "Vous pouvez souscrire pour l’avenir, mais un litige déjà né, connu ou prévisible au moment de l’adhésion sera habituellement exclu. Une mise en demeure, un désaccord formalisé ou un contentieux en cours doivent être signalés ; ne comptez pas sur une assurance nouvelle pour financer ce dossier."
+        },
+        {
+          "q": "Faut-il choisir l’avocat recommandé par l’assureur ?",
+          "a": "Non, vous conservez en principe le libre choix de votre avocat lorsque son intervention est requise. Le réseau proposé par l’assureur peut être pratique, mais comparez son accompagnement avec les compétences nécessaires au dossier et demandez toujours le niveau de remboursement applicable à votre choix."
+        }
+      ]
+    }
+  ]
+}

@@ -20,3 +20,6 @@ npm-debug.log*
 # os
 .DS_Store
 Thumbs.db
+
+# fichiers temporaires de génération
+*.tmp

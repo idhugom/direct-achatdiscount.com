@@ -1,0 +1,422 @@
+{
+  "title": "Assurance pro poursuite d’activité : quelles solutions pour limiter l’impact d’un arrêt temporaire ?",
+  "slug": "assurance-poursuite-activite",
+  "path": "/divers/assurance-poursuite-activite.html",
+  "category": "argent",
+  "tags": [
+    "assurance professionnelle",
+    "perte d'exploitation",
+    "trésorerie entreprise",
+    "continuité d'activité",
+    "arrêt temporaire",
+    "risques professionnels"
+  ],
+  "excerpt": "Arrêt après sinistre, maladie ou travaux : identifiez les assurances et solutions qui aident votre entreprise à préserver sa trésorerie et redémarrer.",
+  "metaDescription": "Assurance poursuite d’activité : garanties, délais, plafonds et solutions pour protéger votre trésorerie lors d’un arrêt temporaire. Guide pratique.",
+  "seoTitle": "Assurance pro poursuite d’activité : le guide complet",
+  "heroKicker": "Protéger la continuité",
+  "readingTime": 12,
+  "date": "2025-08-08T06:29:42",
+  "image": {
+    "id": "3390",
+    "alt": "Assurance pro poursuite d’activité : quelles solutions pour limiter l’impact d’un arrêt temporaire ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un arrêt temporaire peut fragiliser une entreprise bien plus vite qu’un mauvais mois commercial : les charges continuent de tomber alors que les recettes diminuent, voire disparaissent. L’assurance de poursuite d’activité regroupe plusieurs garanties et dispositifs qui peuvent préserver votre trésorerie, à condition de distinguer précisément les risques couverts, les exclusions et le délai réel d’indemnisation."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La <strong>perte d’exploitation</strong> indemnise surtout les conséquences financières d’un sinistre matériel garanti ; elle ne couvre pas automatiquement tous les motifs d’arrêt.",
+        "Pour une activité dépendante de son dirigeant, une <strong>garantie homme-clé</strong>, la prévoyance du chef d’entreprise et une réserve de trésorerie répondent à des risques différents mais complémentaires.",
+        "Le bon montant ne se limite pas au chiffre d’affaires : il faut protéger la <strong>marge brute</strong>, les charges fixes, les frais supplémentaires et le temps nécessaire au retour à la normale.",
+        "La période d’indemnisation, la franchise temporelle, les sous-limites et les exclusions comptent autant que la cotisation.",
+        "Un plan de continuité simple — télétravail, site de repli, fournisseurs alternatifs, sauvegardes — réduit à la fois le risque opérationnel et le reste à charge."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que recouvre une assurance de poursuite d’activité ?",
+      "id": "que-recouvre-une-assurance-de-poursuite-d-activite"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression <strong>assurance poursuite d’activité</strong> ne désigne pas nécessairement un contrat unique. En pratique, elle renvoie aux protections qui permettent à une entreprise de continuer à fonctionner, ou au moins de survivre financièrement, après un événement perturbateur. La garantie centrale est souvent l’<strong>assurance perte d’exploitation</strong>, généralement ajoutée à une multirisque professionnelle. Elle vise à compenser la perte de marge liée à une baisse ou une interruption d’activité après un sinistre couvert, tel qu’un incendie, un dégât des eaux ou certains événements climatiques selon le contrat."
+    },
+    {
+      "type": "paragraph",
+      "html": "Mais les causes d’arrêt sont variées : local inaccessible, machine essentielle détruite, panne informatique, cyberattaque, absence prolongée du dirigeant, fermeture administrative, rupture d’approvisionnement ou travaux urgents. Une seule police ne couvre pas tout. Votre protection doit donc être construite à partir de votre <strong>scénario de dépendance réel</strong> : à un local, à un équipement, à un salarié décisif, à un système informatique, à un fournisseur ou à la présence du dirigeant."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le point qui piège le plus souvent",
+      "html": "Une garantie perte d’exploitation ne se déclenche habituellement pas parce que le chiffre d’affaires baisse. Elle suppose en général un <strong>dommage matériel couvert</strong> ou un événement expressément prévu au contrat. Une baisse de clientèle, une mauvaise conjoncture, un conflit commercial ou une panne non garantie ne donnent pas automatiquement droit à indemnisation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les principales solutions selon la cause de l’arrêt",
+      "id": "les-principales-solutions-selon-la-cause-de-l-arret"
+    },
+    {
+      "type": "paragraph",
+      "html": "La bonne réponse dépend de l’origine du problème. Un commerce fermé après un incendie n’a pas les mêmes besoins qu’un cabinet dont le dirigeant est immobilisé, ou qu’une agence bloquée par un incident numérique. L’enjeu consiste à associer les garanties d’assurance aux mesures concrètes de continuité d’activité."
+    },
+    {
+      "type": "table",
+      "caption": "Quelle protection pour quel risque d’interruption ?",
+      "headers": [
+        "Risque d’arrêt",
+        "Solution principale",
+        "Ce qu’elle peut financer ou compenser",
+        "Vigilance majeure"
+      ],
+      "rows": [
+        [
+          "Incendie, dégât des eaux, tempête, vandalisme",
+          "Perte d’exploitation adossée à la multirisque pro",
+          "Perte de marge, charges fixes, parfois frais supplémentaires",
+          "Le sinistre initial doit être garanti ; vérifier les franchises et plafonds"
+        ],
+        [
+          "Matériel ou machine indispensable endommagé",
+          "Bris de machine et perte d’exploitation associée",
+          "Remise en état, location de matériel, manque à gagner selon garanties",
+          "Identifier tous les équipements réellement critiques"
+        ],
+        [
+          "Cyberattaque ou indisponibilité informatique",
+          "Assurance cyber avec garantie d’interruption",
+          "Expertise, restauration, gestion de crise, pertes liées à l’arrêt selon contrat",
+          "Les conditions de sécurité informatique peuvent être opposables"
+        ],
+        [
+          "Indisponibilité du dirigeant ou d’une personne décisive",
+          "Prévoyance, garantie homme-clé, assurance frais généraux",
+          "Revenus, frais fixes ou conséquences économiques prévues",
+          "Ne pas confondre protection personnelle et indemnité versée à l’entreprise"
+        ],
+        [
+          "Local inaccessible ou inutilisable",
+          "Perte d’exploitation, frais supplémentaires, solution de repli",
+          "Surcoût de relogement temporaire, communication, continuité partielle",
+          "L’inaccessibilité doit être explicitement couverte dans certains cas"
+        ],
+        [
+          "Rupture de fournisseur ou de réseau",
+          "Extension carence de fournisseur ou plan alternatif",
+          "Indemnisation limitée si l’extension existe",
+          "Rarement automatique ; dépendance à cartographier"
+        ]
+      ],
+      "note": "Les libellés et l’étendue des garanties varient fortement d’un assureur à l’autre : lisez toujours les conditions particulières et les exclusions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Perte d’exploitation : la pièce maîtresse après un sinistre",
+      "id": "perte-d-exploitation-la-piece-maitresse-apres-un-sinistre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La perte d’exploitation a pour objectif de replacer l’entreprise dans une situation financière proche de celle qui aurait été la sienne sans le sinistre, dans les limites prévues. Elle peut couvrir la <strong>perte de marge brute</strong> et le maintien de certaines charges fixes : loyers, salaires lorsque leur maintien est pertinent, emprunts, abonnements essentiels, taxes ou frais de structure. Elle peut également prendre en charge des <strong>frais supplémentaires d’exploitation</strong> engagés pour limiter la baisse d’activité : louer un local provisoire, sous-traiter temporairement, transférer une ligne téléphonique, installer une solution informatique de secours ou communiquer auprès des clients."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette assurance n’est pas une garantie de chiffre d’affaires. L’indemnisation se calcule à partir de données comptables et de l’évolution attendue de l’activité, en tenant compte des économies de charges réalisées pendant l’arrêt. Des comptes clairs, un prévisionnel à jour et des justificatifs de dépenses sont donc déterminants lors de l’expertise."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Garanties cyber, bris de machine et carence de fournisseur",
+      "id": "garanties-cyber-bris-de-machine-et-carence-de-fournisseur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une entreprise peut être arrêtée sans que ses murs soient touchés. Si votre facturation, vos rendez-vous, votre production ou vos données dépendent du numérique, une <strong>assurance cyber</strong> peut inclure une indemnisation de l’interruption d’activité, en plus de l’assistance technique et de la restauration des données. Il faut toutefois examiner la définition de l’incident, les exigences de sauvegarde, d’authentification et de mise à jour, ainsi que les plafonds spécifiques aux pertes d’exploitation numériques."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un artisan, un atelier ou une petite unité de production, le bris d’une machine peut être aussi paralysant qu’un incendie. La garantie <strong>bris de machine</strong> peut financer la réparation ou le remplacement, mais elle n’indemnise pas toujours les conséquences sur le chiffre d’affaires : l’extension perte d’exploitation est à vérifier. De même, l’arrêt causé par un fournisseur, un sous-traitant, un transporteur ou un réseau peut exiger une extension dédiée, souvent très encadrée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Protéger l’entreprise lorsque le dirigeant ne peut plus travailler",
+      "id": "proteger-l-entreprise-lorsque-le-dirigeant-ne-peut-plus-trav"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une TPE, une profession libérale, une agence ou une activité de conseil, la personne la plus critique est parfois le dirigeant lui-même. Son incapacité de travail, son hospitalisation ou son décès peut stopper les ventes, la production, les relations clients et la prise de décision. Il faut séparer les garanties qui protègent <strong>la personne</strong> de celles qui protègent <strong>l’entreprise</strong>."
+    },
+    {
+      "type": "comparison",
+      "title": "Prévoyance du dirigeant ou assurance homme-clé ?",
+      "left": {
+        "title": "Prévoyance du dirigeant",
+        "points": [
+          "Verse des prestations au dirigeant ou à ses bénéficiaires selon le contrat.",
+          "Aide à remplacer tout ou partie du revenu en cas d’arrêt, d’invalidité ou de décès.",
+          "Protège d’abord l’équilibre personnel et familial.",
+          "Doit être calibrée en tenant compte du régime social et des revenus réellement assurés."
+        ]
+      },
+      "right": {
+        "title": "Assurance homme-clé",
+        "points": [
+          "Verse un capital ou des indemnités à <strong>l’entreprise</strong> lorsque la personne désignée subit l’événement garanti.",
+          "Peut financer un remplacement, une réorganisation, une baisse temporaire d’activité ou le remboursement d’un financement.",
+          "Cible une personne dont l’absence affecterait directement la marche de l’entreprise.",
+          "Nécessite d’identifier objectivement la dépendance de l’activité à cette personne."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Une troisième solution mérite une attention particulière : l’assurance de <strong>frais généraux</strong>. Elle est conçue pour aider certaines structures à payer leurs dépenses professionnelles fixes pendant l’arrêt de travail du dirigeant ou du professionnel assuré, dans la limite des conditions contractuelles. Elle peut être plus adaptée qu’une perte d’exploitation classique lorsque le local et le matériel sont intacts, mais que l’activité est suspendue par l’absence de la personne qui la porte."
+    },
+    {
+      "type": "proscons",
+      "title": "Assurer l’homme-clé : dans quels cas est-ce utile ?",
+      "pros": [
+        "Particulièrement pertinent quand une personne concentre le savoir-faire, la relation client, les habilitations ou le pouvoir de signature.",
+        "Donne à l’entreprise des liquidités pour organiser le remplacement ou absorber une phase de transition.",
+        "Peut sécuriser une structure ayant des emprunts, des associés ou un projet de transmission."
+      ],
+      "cons": [
+        "Ne remplace pas un plan de délégation ni une documentation des procédures.",
+        "Le niveau de couverture doit être justifié et cohérent avec le préjudice prévisible.",
+        "Certaines situations médicales ou certains délais de carence peuvent limiter la protection selon le contrat."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bien dimensionner le montant, les délais et la période d’indemnisation",
+      "id": "bien-dimensionner-le-montant-les-delais-et-la-periode-d-inde"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sous-assurer est une fausse économie : l’entreprise reçoit alors une indemnité insuffisante pour franchir la période d’arrêt. À l’inverse, accumuler des garanties mal ciblées augmente la cotisation sans supprimer le risque principal. Le dimensionnement doit partir de la comptabilité, mais aussi de la réalité opérationnelle : saisonnalité, délai de reconstruction, dépendance à un équipement, délai de recrutement, obligations envers les clients et vitesse de retour de la clientèle."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "12 à 36 mois",
+          "label": "repère courant pour la période maximale d’indemnisation, à adapter au délai de reprise réel"
+        },
+        {
+          "value": "Quelques jours à plusieurs semaines",
+          "label": "ordre de grandeur possible pour une franchise temporelle avant indemnisation"
+        },
+        {
+          "value": "1 à 2 mois",
+          "label": "réserve de trésorerie minimale souvent trop courte pour absorber un arrêt sérieux"
+        },
+        {
+          "value": "3 scénarios",
+          "label": "à chiffrer au minimum : arrêt court, arrêt long et reprise progressive"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>période d’indemnisation</strong> est la durée pendant laquelle l’assureur peut compenser les conséquences du sinistre. Elle ne doit pas être choisie uniquement en fonction de la durée des travaux. Après la réouverture, il peut rester nécessaire de reconstituer un stock, refaire une certification, réinstaller une chaîne de production, retrouver des clients ou absorber un retard de commandes. Une activité saisonnière doit pouvoir couvrir la saison qu’elle risque de manquer."
+    },
+    {
+      "type": "table",
+      "caption": "Les paramètres à examiner avant de signer",
+      "headers": [
+        "Paramètre",
+        "Question à poser",
+        "Risque si le réglage est insuffisant"
+      ],
+      "rows": [
+        [
+          "Marge brute assurée",
+          "Le calcul reflète-t-il les derniers comptes et la croissance prévue ?",
+          "Indemnité réduite ou application d’une règle proportionnelle selon les contrats"
+        ],
+        [
+          "Période d’indemnisation",
+          "Combien de temps faudrait-il pour réparer, reprendre puis retrouver le niveau d’activité ?",
+          "Fin de l’indemnisation avant un retour commercial normal"
+        ],
+        [
+          "Franchise temporelle",
+          "Combien de jours d’arrêt restent à ma charge ?",
+          "Tension de trésorerie immédiate, surtout pour une petite structure"
+        ],
+        [
+          "Frais supplémentaires",
+          "Les dépenses de repli, location, sous-traitance et communication sont-elles prévues ?",
+          "Reprise plus lente ou dépenses utiles non remboursées"
+        ],
+        [
+          "Plafonds et sous-limites",
+          "Existe-t-il un plafond par événement ou par type de frais ?",
+          "Protection théorique, mais insuffisante sur le poste le plus coûteux"
+        ],
+        [
+          "Extensions",
+          "Cyber, carence de fournisseur, impossibilité d’accès, défaillance de fluides : lesquelles sont réellement incluses ?",
+          "Angle mort sur une cause probable d’arrêt"
+        ]
+      ],
+      "note": "Demandez une simulation sur vos propres chiffres, avec le détail des hypothèses retenues. Elle est plus utile qu’un simple montant global de garantie."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le bon calcul : partir de la marge, pas seulement des ventes",
+      "html": "Prenez vos comptes récents, isolez les charges variables qui diminueraient si vous cessiez de produire ou de vendre, puis estimez les charges qui resteraient dues. Ajoutez les surcoûts probables de reprise. Faites ensuite tester ce besoin sur un arrêt de quelques semaines, puis sur un arrêt de plusieurs mois avec une reprise progressive."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les exclusions et limites à lire avant le sinistre",
+      "id": "les-exclusions-et-limites-a-lire-avant-le-sinistre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La valeur d’une assurance se révèle surtout dans ses conditions de mise en œuvre. Commencez par vérifier le <strong>lien de causalité</strong> exigé entre l’événement garanti et votre perte. Ensuite, lisez les exclusions : défaut d’entretien, non-respect de normes de sécurité, installations non conformes, panne progressive, actes intentionnels, guerre, certains événements exceptionnels, défaut de sauvegarde informatique ou fraude peuvent être exclus ou traités de manière restrictive."
+    },
+    {
+      "type": "paragraph",
+      "html": "Soyez également attentif aux obligations déclaratives. Si le chiffre d’affaires, les effectifs, les locaux, le matériel ou la nature de votre activité ont évolué, le contrat doit être actualisé. Une déclaration ancienne peut conduire à une garantie mal calibrée. Enfin, ne supposez jamais qu’une fermeture administrative, une épidémie, une coupure de réseau ou l’impossibilité d’accéder à la voie publique sont couverts : ces cas nécessitent très souvent une rédaction explicite."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réagir correctement après un arrêt : les premières décisions comptent",
+      "id": "reagir-correctement-apres-un-arret-les-premieres-decisions-c"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après un événement, l’objectif est double : protéger les personnes et les biens, puis limiter l’aggravation de la perte. Prévenez l’assureur dans le délai indiqué au contrat, conservez les preuves du sinistre et tracez toutes les décisions destinées à maintenir l’activité. Ne jetez pas les éléments endommagés sans accord lorsque cela compromettrait l’expertise, sauf impératif de sécurité."
+    },
+    {
+      "type": "steps",
+      "title": "Les réflexes à adopter dès les premières heures",
+      "items": [
+        {
+          "title": "Sécurisez et documentez",
+          "text": "Mettez les personnes en sécurité, prenez des photos, conservez factures, inventaires, messages d’erreur, constats et tout élément permettant d’établir la cause et l’ampleur de l’arrêt."
+        },
+        {
+          "title": "Déclarez rapidement",
+          "text": "Contactez l’assureur ou votre intermédiaire selon la procédure prévue. Demandez les mesures d’urgence autorisées, les coordonnées de l’expert et les justificatifs attendus."
+        },
+        {
+          "title": "Activez une solution de repli",
+          "text": "Basculez sur le télétravail, un local temporaire, un matériel loué, un sous-traitant ou une prise de commandes manuelle si cela est viable et économiquement raisonnable."
+        },
+        {
+          "title": "Suivez les pertes séparément",
+          "text": "Isolez les ventes annulées ou reportées, les charges économisées et tous les frais supplémentaires. Gardez les devis, contrats et preuves de paiement."
+        },
+        {
+          "title": "Pilotez la reprise",
+          "text": "Actualisez le prévisionnel de trésorerie, informez les clients avec transparence et mesurez le délai nécessaire pour revenir à un niveau d’activité stabilisé."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L’assurance ne suffit pas : construire un plan de continuité réaliste",
+      "id": "l-assurance-ne-suffit-pas-construire-un-plan-de-continuite-r"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’assureur indemnise dans les limites prévues ; il ne recrée pas instantanément vos données, vos compétences ni votre portefeuille clients. Un <strong>plan de continuité d’activité</strong> proportionné à votre taille reste le meilleur complément. Il n’a pas besoin d’être un document lourd : une page claire, testée régulièrement, est préférable à un classeur jamais ouvert."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre check-list de continuité d’activité",
+      "items": [
+        "Lister les trois éléments sans lesquels l’activité s’arrête : personnes, locaux, machines, logiciels, données, fournisseurs ou autorisations.",
+        "Prévoir au moins une solution de remplacement pour chaque élément critique : délégation, fournisseur alternatif, poste de travail de secours, location ou sous-traitance.",
+        "Sauvegarder les données de manière isolée, tester régulièrement la restauration et sécuriser les accès sensibles.",
+        "Tenir à jour les contacts de l’assureur, du comptable, de la banque, des prestataires informatiques et des clients prioritaires.",
+        "Constituer une réserve de trésorerie distincte de la couverture d’assurance pour absorber franchises, délais et dépenses non garanties.",
+        "Documenter les procédures clés afin qu’un collaborateur ou un remplaçant puisse reprendre l’essentiel rapidement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comparer les offres sans se laisser guider par la seule cotisation",
+      "id": "comparer-les-offres-sans-se-laisser-guider-par-la-seule-coti"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour comparer deux contrats, demandez un tableau de garanties homogène et faites préciser les définitions. Une formule moins chère peut prévoir une période d’indemnisation trop courte, une franchise longue ou un plafond faible sur les frais supplémentaires. À l’inverse, une garantie très large mais inadaptée à votre principal point de fragilité ne crée pas de vraie sécurité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Présentez à l’assureur ou au courtier vos trois scénarios d’arrêt et posez des questions concrètes : <em>si mon atelier est inutilisable, la location d’un équipement est-elle prise en charge ? Si mon serveur est chiffré, l’arrêt est-il couvert ? Si mon associé ne peut pas travailler, qui perçoit l’indemnité ? Si mon fournisseur principal est sinistré, suis-je protégé ?</em> Obtenez les réponses par écrit, en vous référant aux conditions particulières. Pour les risques complexes, le regard d’un expert-comptable, d’un courtier spécialisé ou d’un conseil juridique peut aider à mettre les capitaux et les clauses en cohérence."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Arbitrage pratique pour une petite structure",
+      "html": "Si votre budget est limité, sécurisez d’abord le risque qui peut réellement vous arrêter : une multirisque adaptée avec perte d’exploitation pour un commerce ou un atelier, une prévoyance et des frais généraux pour un indépendant, une garantie cyber pour une activité numérique. Ajoutez ensuite les extensions qui correspondent à vos dépendances vérifiées, plutôt que de multiplier les options génériques."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus coûteuses à éviter",
+      "id": "les-erreurs-les-plus-couteuses-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de confondre assurance de biens et assurance des conséquences financières : faire remplacer un ordinateur ou réparer un local ne paie pas automatiquement les échéances et les salaires durant l’arrêt. La deuxième consiste à assurer le chiffre d’affaires sans comprendre la marge brute et les charges qui persistent réellement. La troisième est de sélectionner une période de douze mois par automatisme alors que la reprise complète peut être plus lente."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez aussi de négliger les événements sans dommages matériels, particulièrement le cyberrisque et l’indisponibilité d’une personne clé. Enfin, ne retardez pas la mise à jour du contrat après un déménagement, l’achat d’une machine, l’ouverture d’un second site, l’arrivée d’un associé ou une hausse sensible d’activité. Une assurance de poursuite d’activité est efficace lorsqu’elle évolue avec votre entreprise, pas lorsqu’elle reste figée sur sa situation de départ."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’assurance poursuite d’activité",
+      "items": [
+        {
+          "q": "La perte d’exploitation est-elle obligatoire pour une entreprise ?",
+          "a": "Non, elle n’est généralement pas obligatoire. Elle est toutefois fortement recommandée dès lors qu’un sinistre affectant vos locaux, votre stock ou votre matériel pourrait vous empêcher de payer vos charges fixes. Son intérêt est particulièrement élevé pour les commerces, ateliers, restaurants, cabinets et structures ayant peu de trésorerie disponible."
+        },
+        {
+          "q": "L’assurance perte d’exploitation couvre-t-elle une baisse de chiffre d’affaires sans sinistre ?",
+          "a": "En règle générale, non. Elle intervient habituellement après un événement garanti par le contrat, souvent un dommage matériel. Une baisse d’activité liée au marché, à la perte d’un client ou à une mauvaise saison n’est pas couverte. Des garanties très spécifiques peuvent exister pour certains risques, mais elles doivent être prévues explicitement."
+        },
+        {
+          "q": "Combien de temps faut-il assurer pour la période d’indemnisation ?",
+          "a": "Il faut couvrir le temps nécessaire non seulement pour réparer ou déménager, mais aussi pour retrouver un niveau de fonctionnement et de clientèle normal. Selon l’activité, une période allant d’environ un an à plusieurs années peut être envisagée. Une entreprise saisonnière doit notamment vérifier qu’elle ne perd pas sa période de vente déterminante."
+        },
+        {
+          "q": "Quelle est la différence entre assurance frais généraux et prévoyance du dirigeant ?",
+          "a": "La prévoyance vise principalement à protéger le revenu du dirigeant en cas d’arrêt, d’invalidité ou de décès, selon les garanties souscrites. L’assurance frais généraux vise plutôt les dépenses professionnelles fixes qui continuent pendant son absence. Les deux protections peuvent être complémentaires, car elles ne bénéficient pas au même destinataire et ne couvrent pas le même besoin."
+        },
+        {
+          "q": "Une cyberattaque peut-elle déclencher une indemnisation pour arrêt d’activité ?",
+          "a": "Oui, si votre assurance cyber prévoit une garantie d’interruption d’activité et si les conditions du contrat sont respectées. Vérifiez notamment les plafonds, les franchises, les exigences de cybersécurité, les exclusions liées à certains types d’incidents et la manière dont la perte est calculée."
+        },
+        {
+          "q": "Comment prouver ses pertes auprès de l’assureur ?",
+          "a": "Conservez vos bilans, comptes de résultat, déclarations de chiffre d’affaires, prévisionnels, carnets de commandes, factures, preuves d’annulation et relevés de frais engagés pour poursuivre l’activité. L’expert comparera généralement l’activité réelle à celle qui aurait raisonnablement été attendue sans sinistre, en tenant compte de la saisonnalité et des charges économisées."
+        }
+      ]
+    }
+  ]
+}
