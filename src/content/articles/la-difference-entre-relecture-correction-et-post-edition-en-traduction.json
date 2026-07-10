@@ -1,0 +1,383 @@
+{
+  "title": "La différence entre relecture, correction et post-édition en traduction",
+  "slug": "la-difference-entre-relecture-correction-et-post-edition-en-traduction",
+  "path": "/divers/la-difference-entre-relecture-correction-et-post-edition-en-traduction.html",
+  "category": "tech",
+  "tags": [
+    "traduction",
+    "relecture",
+    "correction",
+    "post-édition",
+    "traduction automatique",
+    "qualité rédactionnelle"
+  ],
+  "excerpt": "Trois prestations souvent confondues : découvrez ce que couvrent réellement relecture, correction et post-édition, et comment choisir sans payer à côté.",
+  "metaDescription": "Relecture, correction ou post-édition en traduction : comprenez les niveaux d’intervention, les coûts, les limites et le service à choisir.",
+  "seoTitle": "Relecture, correction, post-édition : les différences",
+  "heroKicker": "Qualité linguistique",
+  "readingTime": 12,
+  "date": "2023-09-25T13:39:21",
+  "image": {
+    "id": "1126",
+    "alt": "La différence entre relecture, correction et post-édition en traduction",
+    "width": 1500,
+    "height": 1000
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "En traduction, les mots <strong>relecture</strong>, <strong>correction</strong> et <strong>post-édition</strong> sont fréquemment employés comme s’ils désignaient la même prestation. Pourtant, ils ne répondent ni au même point de départ, ni au même niveau d’exigence, ni au même budget : choisir le mauvais service peut laisser des contresens dans un document ou, au contraire, vous faire payer une intervention trop poussée."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La <strong>correction</strong> nettoie principalement la langue d’un texte déjà rédigé : orthographe, grammaire, ponctuation, typographie et parfois style.",
+        "La <strong>relecture de traduction</strong> compare normalement le texte traduit à son original afin d’identifier les erreurs de sens, omissions, incohérences et défauts linguistiques.",
+        "La <strong>post-édition</strong> consiste à corriger une traduction issue d’un moteur de traduction automatique ; son niveau peut être léger ou complet selon l’usage final.",
+        "Le mot « relecture » est ambigu : demandez toujours si le prestataire travaille <strong>avec ou sans texte source</strong> et quel est le niveau de contrôle prévu.",
+        "Un texte destiné à publier, vendre, contractualiser ou informer sur la sécurité exige généralement une vérification humaine approfondie, et non une simple correction de surface."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi ces trois prestations sont-elles si souvent confondues ?",
+      "id": "pourquoi-ces-trois-prestations-sont-elles-si-souvent-confond"
+    },
+    {
+      "type": "paragraph",
+      "html": "Toutes visent un texte plus juste et plus lisible, ce qui explique la confusion. Mais leur différence fondamentale réside dans la <strong>nature du matériau à traiter</strong>. La correction porte sur un texte existant, souvent dans la même langue. La relecture de traduction contrôle une traduction humaine en regard de son original. La post-édition, elle, part d’une sortie de traduction automatique, qui peut être grammaticalement acceptable tout en étant imprécise, artificielle ou inadaptée au contexte."
+    },
+    {
+      "type": "paragraph",
+      "html": "La terminologie varie aussi selon les agences, les plateformes et les secteurs. Certains appellent « relecture » toute vérification finale, y compris sans accès au document source. D’autres réservent ce terme à la révision bilingue. Dans un devis, le libellé ne suffit donc pas : la bonne question n’est pas seulement <em>comment s’appelle la prestation ?</em>, mais <strong>quelles erreurs le professionnel doit-il rechercher et corriger ?</strong>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas fluidité et fidélité",
+      "html": "Un texte peut sembler très naturel dans la langue d’arrivée et contenir malgré tout un contresens, une information supprimée ou une unité mal convertie. Sans comparaison avec l’original, ces problèmes peuvent passer inaperçus. Pour un contenu à enjeu, exigez une vérification bilingue."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La correction : améliorer la langue, pas nécessairement contrôler la traduction",
+      "id": "la-correction-ameliorer-la-langue-pas-necessairement-control"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>correction</strong> intervient sur un texte dont la langue cible est déjà fixée. Le correcteur repère et rectifie les fautes d’orthographe, d’accord, de conjugaison, de syntaxe, de ponctuation et de typographie. Selon la mission convenue, il harmonise aussi les majuscules, les nombres, les espaces insécables, les guillemets, les unités ou les références. Il peut enfin lisser des formulations lourdes, répétitives ou peu idiomatiques."
+    },
+    {
+      "type": "paragraph",
+      "html": "En revanche, si le correcteur ne dispose pas du texte source, il ne peut pas garantir que la traduction restitue exactement le message initial. Il peut soupçonner une phrase incohérente, mais il ne peut pas savoir qu’un terme technique a été mal traduit, qu’une condition a disparu ou qu’un chiffre a été inversé. La correction monolingue est donc pertinente pour une note interne, un article déjà validé sur le fond, une page web dont la fidélité à l’original a été contrôlée auparavant, ou la mise au propre d’un texte rédigé directement en français."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Ce qu’une correction sérieuse doit normalement vérifier",
+      "items": [
+        "Orthographe, grammaire, accords et conjugaisons.",
+        "Ponctuation, espaces, majuscules, abréviations et règles typographiques de la langue cible.",
+        "Cohérence des nombres, dates, devises, unités, titres et légendes dans le document livré.",
+        "Uniformité du vocabulaire, du ton, du tutoiement ou vouvoiement et des conventions de marque.",
+        "Lisibilité des formulations, sans réécriture créative si celle-ci n’est pas prévue au devis."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La relecture de traduction : contrôler le sens à partir de l’original",
+      "id": "la-relecture-de-traduction-controler-le-sens-a-partir-de-l-o"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans son sens professionnel le plus exigeant, la <strong>relecture de traduction</strong>, souvent appelée révision, consiste à examiner le texte cible <strong>avec le texte source sous les yeux</strong>. Le réviseur vérifie que chaque information utile a été transmise, que le message n’a pas changé de portée et que le résultat est idiomatique dans la langue d’arrivée. Il corrige autant les erreurs manifestes de langue que les défauts de fond : faux sens, non-sens, omissions, ajouts injustifiés, termes incohérents, références culturelles mal adaptées ou consignes ambiguës."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette étape est particulièrement recommandée quand la traduction doit être fiable au-delà de sa simple lisibilité : contrat, notice, procédure, dossier d’appel d’offres, support de formation, communication médicale ou technique, contenu e-commerce avec caractéristiques produit, documentation logicielle ou page de campagne. Elle ne remplace pas toujours une expertise métier. Un réviseur très bon linguiste n’est pas automatiquement habilité à valider une donnée juridique, scientifique ou réglementaire : il peut alors signaler les zones à confirmer plutôt que trancher seul."
+    },
+    {
+      "type": "comparison",
+      "title": "Relecture bilingue ou correction monolingue ?",
+      "left": {
+        "title": "Relecture de traduction",
+        "points": [
+          "Le professionnel dispose de l’original et de la traduction.",
+          "Contrôle le sens, l’exhaustivité, les termes et la qualité linguistique.",
+          "À privilégier avant publication d’un contenu sensible, commercial ou officiel.",
+          "Demande davantage de temps, car deux textes doivent être comparés."
+        ]
+      },
+      "right": {
+        "title": "Correction monolingue",
+        "points": [
+          "Le professionnel travaille uniquement sur le texte final.",
+          "Améliore la langue, la cohérence éditoriale et la présentation.",
+          "Convient si le fond est déjà validé ou si aucun original n’existe.",
+          "Ne peut pas détecter de façon fiable les erreurs de traduction par rapport à la source."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La post-édition : corriger une traduction automatique avec un objectif défini",
+      "id": "la-post-edition-corriger-une-traduction-automatique-avec-un-"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>post-édition</strong> est l’intervention humaine réalisée après une traduction produite par un système automatique, qu’il s’agisse d’un moteur en ligne, d’un outil intégré à une plateforme ou d’un système entraîné pour une entreprise. Son rôle n’est pas de « relire vite fait » une machine : le post-éditeur évalue la sortie, rétablit le sens si nécessaire, applique la terminologie attendue et adapte le niveau de naturel demandé. La qualité du résultat initial dépend fortement de la paire de langues, du domaine, de la qualité de la source et des ressources linguistiques disponibles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il existe généralement deux niveaux. La <strong>post-édition légère</strong> vise un texte compréhensible et exploitable rapidement : elle corrige les erreurs qui gênent le sens, les contresens manifestes, les fautes graves et les éléments incompatibles avec l’usage prévu. La <strong>post-édition complète</strong> vise un rendu comparable à une traduction humaine révisée : fidélité, terminologie, grammaire, style, cohérence et adaptation au lectorat sont travaillés avec une exigence plus élevée. Entre les deux, il existe de nombreuses variantes ; un cahier des charges explicite est indispensable."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3",
+          "label": "niveaux à distinguer : correction, révision bilingue et post-édition"
+        },
+        {
+          "value": "2",
+          "label": "formes usuelles de post-édition : légère ou complète"
+        },
+        {
+          "value": "1",
+          "label": "original indispensable pour contrôler réellement la fidélité d’une traduction"
+        }
+      ]
+    },
+    {
+      "type": "proscons",
+      "title": "La post-édition complète : dans quels cas est-elle avantageuse ?",
+      "pros": [
+        "Peut accélérer le traitement de gros volumes répétitifs ou très structurés.",
+        "Permet de capitaliser sur des glossaires, mémoires de traduction et contenus déjà validés.",
+        "Réduit les retouches lorsque la traduction automatique est bien adaptée au domaine et bien encadrée.",
+        "Conserve une intervention humaine sur le sens, le ton et la terminologie finale."
+      ],
+      "cons": [
+        "La sortie brute peut demander autant de travail qu’une traduction humaine, voire davantage, si elle est mauvaise.",
+        "Une phrase fluide produite par la machine peut masquer un contresens difficile à détecter sans vigilance métier.",
+        "Elle est déconseillée pour les contenus confidentiels si l’outil utilisé ne garantit pas la protection des données.",
+        "Une post-édition légère ne doit pas être présentée comme un texte prêt à publier sans précision sur le niveau attendu."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel service choisir selon votre document et son niveau de risque ?",
+      "id": "quel-service-choisir-selon-votre-document-et-son-niveau-de-r"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon choix dépend moins du volume que de l’<strong>impact d’une erreur</strong>. Demandez-vous qui lira le texte, ce qu’il permettra de décider ou de faire, et quelles conséquences aurait une nuance mal rendue. Une fiche de stock temporaire, une base de connaissances interne ou des avis clients peuvent parfois justifier une post-édition légère. À l’inverse, une page de vente, une notice destinée aux consommateurs, un manuel de sécurité ou une clause contractuelle nécessitent un niveau de contrôle nettement supérieur."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir l’intervention adaptée à votre objectif",
+      "headers": [
+        "Situation",
+        "Prestation conseillée",
+        "Niveau de contrôle attendu",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Texte rédigé directement en français, avant diffusion",
+          "Correction monolingue",
+          "Langue, style, typographie, cohérence interne",
+          "La correction ne valide pas les faits ni les références externes."
+        ],
+        [
+          "Traduction humaine destinée à être publiée",
+          "Relecture de traduction bilingue",
+          "Fidélité à la source, terminologie, naturel de la langue cible",
+          "Fournissez la version source finale et les consignes de marque."
+        ],
+        [
+          "Documentation interne volumineuse, usage informatif",
+          "Post-édition légère ou complète selon le risque",
+          "Compréhensibilité ; fidélité renforcée si contenu opérationnel",
+          "Définissez explicitement si le texte est publiable ou seulement exploitable."
+        ],
+        [
+          "Site marchand, campagne, contenu de marque",
+          "Traduction humaine révisée ou post-édition complète suivie d’un contrôle éditorial",
+          "Sens, ton, terminologie, appel à l’action et adaptation culturelle",
+          "La créativité et le référencement peuvent nécessiter une transcréation."
+        ],
+        [
+          "Texte juridique, médical, sécurité ou conformité",
+          "Traduction spécialisée et relecture bilingue, avec validation métier si nécessaire",
+          "Exactitude maximale et traçabilité des modifications",
+          "Évitez une sortie automatique non sécurisée et une post-édition légère."
+        ]
+      ],
+      "note": "Les appellations commerciales varient. Faites toujours préciser les livrables et les critères d’acceptation, plutôt que de vous fier au seul nom du service."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe d’achat",
+      "html": "Pour chaque document, indiquez au prestataire son <strong>usage final</strong> : information interne, publication, vente, conformité, support client ou procédure. C’est ce qui permet de calibrer le niveau de relecture, pas seulement le nombre de mots."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prix et budget : ce qui fait réellement varier le devis",
+      "id": "prix-et-budget-ce-qui-fait-reellement-varier-le-devis"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de tarif universel valable pour toutes les langues et tous les contenus. Les prestataires facturent selon le volume, le temps estimé, le niveau d’expertise, la combinaison linguistique, la qualité du texte de départ, le format des fichiers, l’urgence et les outils à utiliser. Dans beaucoup de cas, la correction monolingue est l’intervention la moins lourde. La relecture bilingue coûte davantage, car elle implique une comparaison systématique avec la source. La post-édition légère peut sembler économique, mais son intérêt disparaît lorsque la sortie automatique exige de nombreuses réécritures."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour établir un budget réaliste, raisonnez en <strong>niveaux relatifs</strong> plutôt qu’en promesses de prix plancher. Une correction simple se situe souvent dans une enveloppe inférieure à une révision bilingue de même volume. Une post-édition complète se rapproche fréquemment du coût d’une traduction humaine révisée lorsque le sujet est spécialisé ou que la machine produit un texte médiocre. Les contenus très techniques, créatifs, réglementés ou mal rédigés dans la langue source demandent logiquement plus de travail."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les informations à fournir pour obtenir un devis comparable",
+      "items": [
+        "Le texte source et, s’il existe, la traduction à contrôler, dans leur version définitive.",
+        "La paire de langues, le nombre de mots et le format des fichiers, y compris les éléments hors texte : tableaux, visuels, balises ou sous-titres.",
+        "L’usage final, le public visé, le canal de diffusion et la date de livraison souhaitée.",
+        "Le niveau attendu : correction seule, relecture bilingue, post-édition légère ou post-édition complète.",
+        "Un glossaire, un guide de style, une mémoire de traduction et les traductions antérieures validées.",
+        "Les contraintes de confidentialité, de sécurité, de mise en page et de suivi des modifications."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mettre en place un flux de travail qui évite les retours coûteux",
+      "id": "mettre-en-place-un-flux-de-travail-qui-evite-les-retours-cou"
+    },
+    {
+      "type": "paragraph",
+      "html": "La qualité se joue autant dans l’organisation que dans l’intervention linguistique. Une source imprécise, des versions qui changent en cours de route et des consignes transmises après livraison créent des écarts, des doublons et des surcoûts. Avant de lancer le travail, stabilisez autant que possible le contenu source. Désignez aussi une personne capable de répondre rapidement aux questions de contexte : un traducteur ou un réviseur ne doit pas deviner la fonction réelle d’un bouton, le statut d’un produit ou la portée d’une clause."
+    },
+    {
+      "type": "steps",
+      "title": "Un processus simple pour sécuriser vos traductions",
+      "items": [
+        {
+          "title": "1. Qualifiez le document",
+          "text": "Classez-le selon son enjeu : brouillon interne, contenu publiable, document commercial, texte réglementé ou contenu de sécurité."
+        },
+        {
+          "title": "2. Fixez le niveau de qualité",
+          "text": "Décrivez ce que signifie « prêt à livrer » : compréhensible, publiable, fidèle à la source, optimisé pour la marque ou validé par un expert métier."
+        },
+        {
+          "title": "3. Préparez les références",
+          "text": "Transmettez glossaire, guide de style, captures d’écran, public cible et traductions approuvées. Ces éléments évitent les choix incohérents."
+        },
+        {
+          "title": "4. Demandez une traçabilité",
+          "text": "Privilégiez un suivi des modifications et un relevé des questions. Vous pourrez valider les choix importants sans relire chaque phrase à l’aveugle."
+        },
+        {
+          "title": "5. Contrôlez l’intégration finale",
+          "text": "Après mise en page ou publication, vérifiez les débordements, liens, variables, chiffres, unités, titres et éléments non traduits. La qualité linguistique ne suffit pas à garantir une bonne expérience lecteur."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Outils de traduction automatique : efficacité, confidentialité et limites",
+      "id": "outils-de-traduction-automatique-efficacite-confidentialite-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les outils modernes peuvent accélérer un flux, notamment sur des contenus répétitifs, des descriptions structurées ou des bases de connaissances. Ils ne remplacent pas le cadrage. Avant d’envoyer un document dans un service de traduction automatique, vérifiez les conditions de traitement des données, l’emplacement de l’hébergement, les droits de réutilisation éventuels et les options de non-conservation. Pour des contrats, dossiers RH, données personnelles, projets non publiés ou informations médicales, cette vérification est essentielle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un glossaire et une mémoire de traduction peuvent considérablement améliorer la cohérence, mais ils ne dispensent pas d’un contrôle humain. La machine peut mal gérer la négation, les références ambiguës, les jeux de mots, les formulations juridiques, les unités, les titres sans contexte ou les chaînes d’interface très courtes. De même, un outil de vérification orthographique détecte rarement un terme correct mais inadapté : il ne sait pas toujours qu’un mot désigne la mauvaise pièce, la mauvaise fonctionnalité ou le mauvais niveau de service."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Correction automatique : utile, mais limitée",
+      "html": "Les correcteurs, contrôles terminologiques et outils d’assurance qualité sont d’excellents filets de sécurité. Ils repèrent des répétitions, nombres incohérents ou balises manquantes. Ils ne remplacent toutefois ni la compréhension du contexte ni la responsabilité d’un réviseur humain."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus fréquentes et comment les éviter",
+      "id": "les-erreurs-les-plus-frequentes-et-comment-les-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’erreur la plus courante consiste à commander une « relecture » sans préciser l’accès à la source. Le résultat peut être impeccable sur la forme, mais insuffisant pour valider une traduction. Une autre erreur est de demander une post-édition légère puis d’attendre un texte publicitaire parfait et entièrement homogène avec la charte de marque. Enfin, comparer uniquement les délais ou les tarifs est risqué : deux devis portant le même intitulé peuvent couvrir des niveaux de vérification radicalement différents."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les pièges à éviter",
+      "items": [
+        "Envoyer une version source non finalisée et multiplier les modifications après le début de la mission.",
+        "Négliger les textes cachés dans les images, tableaux, métadonnées, boutons ou fichiers annexes.",
+        "Imposer un glossaire obsolète sans laisser au linguiste la possibilité de signaler une erreur terminologique.",
+        "Valider un contenu technique uniquement parce qu’il « sonne bien » dans la langue cible.",
+        "Utiliser une traduction automatique grand public pour des données sensibles sans avoir vérifié les garanties de confidentialité.",
+        "Demander au même professionnel de traduire, réviser et valider seul un document à fort enjeu sans prévoir de regard indépendant."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Relecture, correction ou post-édition : une décision à formaliser",
+      "id": "relecture-correction-ou-post-edition-une-decision-a-formalis"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix ne doit pas se résumer à une étiquette. Si vous souhaitez améliorer un texte final sans contrôler son origine, commandez une correction. Si vous devez vérifier qu’une traduction respecte bien le document de départ, choisissez une relecture bilingue ou révision. Si vous partez d’une production automatique, définissez une post-édition légère pour l’utilité ou complète pour la publication, en tenant compte de la sensibilité du contenu et de la qualité de la sortie machine."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les projets importants, écrivez noir sur blanc les critères d’acceptation : comparaison source-cible, correction de la terminologie, ton de marque, traitement des balises, suivi des modifications, questions à valider et contrôle après intégration. Cette précision protège à la fois votre budget, votre calendrier et la qualité du message adressé à vos lecteurs, clients ou partenaires."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la relecture, la correction et la post-édition",
+      "items": [
+        {
+          "q": "Une relecture sans texte source peut-elle vérifier une traduction ?",
+          "a": "Elle peut améliorer fortement la qualité du français ou de toute autre langue cible, mais elle ne peut pas contrôler de manière fiable la fidélité au texte initial. Sans original, le professionnel ne détectera pas forcément un contresens, une omission ou une information ajoutée. Demandez explicitement une <strong>relecture bilingue</strong> si le sens doit être validé."
+        },
+        {
+          "q": "Quelle est la différence entre révision et relecture en traduction ?",
+          "a": "Dans de nombreux contextes professionnels, les deux termes recouvrent une comparaison entre le texte source et sa traduction, avec correction des erreurs de sens et de langue. Toutefois, les usages varient. Pour éviter toute ambiguïté, vérifiez si le service inclut bien le contrôle de l’exhaustivité, de la terminologie et de la fidélité à l’original."
+        },
+        {
+          "q": "La post-édition est-elle toujours moins chère qu’une traduction humaine ?",
+          "a": "Non. Elle peut être avantageuse sur des contenus homogènes, répétitifs et bien préparés, lorsque la traduction automatique fournit une base exploitable. Mais une sortie faible, un domaine spécialisé ou une forte exigence éditoriale peuvent exiger de telles réécritures que le gain devient limité. Comparez le niveau de qualité livré, pas seulement le prix annoncé."
+        },
+        {
+          "q": "Peut-on publier directement une traduction automatique corrigée par un outil ?",
+          "a": "C’est déconseillé pour un contenu destiné au public, commercial, contractuel, technique ou sensible. Les outils automatiques peuvent laisser des erreurs de contexte, de ton, de terminologie ou de sens. Une post-édition complète par un professionnel, et parfois une révision indépendante, est plus adaptée avant publication."
+        },
+        {
+          "q": "Faut-il une relecture supplémentaire après une post-édition complète ?",
+          "a": "Pas systématiquement, mais cela dépend du risque. Pour un contenu courant, une post-édition complète avec contrôle qualité peut suffire. Pour un contrat, une notice de sécurité, un contenu médical ou une campagne de marque à fort enjeu, un second regard indépendant et une vérification après mise en page constituent une précaution pertinente."
+        },
+        {
+          "q": "Comment vérifier que le prestataire a réalisé le niveau demandé ?",
+          "a": "Demandez un périmètre écrit, un fichier avec suivi des modifications lorsque c’est possible, ainsi qu’un relevé des questions ou décisions terminologiques. Vous pouvez aussi convenir d’un court échantillon test représentatif. Le livrable doit indiquer clairement s’il s’agit d’une correction monolingue, d’une révision bilingue ou d’une post-édition légère ou complète."
+        }
+      ]
+    }
+  ]
+}

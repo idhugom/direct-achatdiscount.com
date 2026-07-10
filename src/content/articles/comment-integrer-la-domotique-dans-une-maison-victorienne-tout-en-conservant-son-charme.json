@@ -1,0 +1,434 @@
+{
+  "title": "Comment intégrer la domotique dans une maison victorienne tout en conservant son charme ?",
+  "slug": "comment-integrer-la-domotique-dans-une-maison-victorienne-tout-en-conservant-son-charme",
+  "path": "/divers/comment-integrer-la-domotique-dans-une-maison-victorienne-tout-en-conservant-son-charme.html",
+  "category": "maison",
+  "tags": [
+    "domotique",
+    "maison victorienne",
+    "rénovation ancienne",
+    "maison connectée",
+    "patrimoine",
+    "éclairage connecté"
+  ],
+  "excerpt": "Éclairage, chauffage, sécurité : adoptez une domotique utile et réversible sans dénaturer les boiseries, moulures et volumes d’une maison victorienne.",
+  "metaDescription": "Installez une domotique discrète dans une maison victorienne : solutions sans fil, budget, sécurité électrique et astuces pour préserver le cachet.",
+  "seoTitle": "Domotique en maison victorienne : le guide discret",
+  "heroKicker": "Moderniser sans trahir",
+  "readingTime": 12,
+  "date": "2023-09-18T06:54:31",
+  "image": {
+    "id": "1098",
+    "alt": "Comment intégrer la domotique dans une maison victorienne tout en conservant son charme ?",
+    "width": 1500,
+    "height": 1000
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une maison victorienne n’a pas besoin de devenir un décor futuriste pour gagner en confort, en sécurité et en sobriété énergétique. La bonne approche consiste à ajouter une domotique <strong>discrète, réversible et vraiment utile</strong>, en respectant les boiseries, les moulures, les cheminées et le fonctionnement d’un bâti ancien. Voici comment faire les bons arbitrages, du diagnostic électrique au choix des commandes."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Commencez par fiabiliser l’électricité, le chauffage et le réseau : la technologie ne compense jamais une installation défaillante.",
+        "Dans les pièces remarquables, privilégiez les modules dissimulés, les capteurs sans fil et des commandes au style cohérent plutôt que des écrans visibles.",
+        "Choisissez un système ouvert, pilotable localement et évolutif : une maison ancienne se modernise généralement par étapes.",
+        "Évitez les percements irréversibles dans les boiseries, plâtres décoratifs, vitraux ou éléments présentant un intérêt patrimonial.",
+        "Programmez des scénarios simples liés à des usages réels : arrivée, nuit, absence, gel et entretien."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Partir du bâti, et non des gadgets",
+      "id": "partir-du-bati-et-non-des-gadgets"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une demeure victorienne, l’enjeu n’est pas uniquement esthétique. Les murs épais, les cloisons en lattis-plâtre, les planchers bois, les dépendances et les volumes sur plusieurs niveaux influencent la portée radio, le passage des câbles et la gestion thermique. Avant d’acheter le moindre objet connecté, faites l’inventaire de ce qui mérite d’être préservé : boiseries d’origine, corniches, papiers peints anciens, rosaces, carreaux décoratifs, cheminées, ferronneries, interrupteurs historiques et vitraux."
+    },
+    {
+      "type": "paragraph",
+      "html": "Distinguez ensuite les éléments <strong>intouchables</strong>, ceux qui peuvent recevoir une intervention discrète et les zones de service plus libres : cave, grenier, placards, arrière-cuisine, faux plafonds récents ou tableau électrique. C’est dans ces dernières que l’on peut installer une box, un onduleur, des concentrateurs ou une partie du câblage sans exposer la technique au regard."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Vérifiez l’installation avant de la connecter",
+      "html": "Une domotique fiable exige un réseau électrique sain. Faites contrôler le tableau, la terre, les protections, les circuits surchargés et l’état des conducteurs par un électricien qualifié, surtout si l’installation est ancienne ou hétérogène. Un micromodule ne doit jamais servir à contourner une anomalie électrique, un mauvais serrage ou l’absence de protection adaptée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Penser réversibilité et compatibilité patrimoniale",
+      "id": "penser-reversibilite-et-compatibilite-patrimoniale"
+    },
+    {
+      "type": "paragraph",
+      "html": "La règle la plus protectrice est simple : privilégiez ce qui peut être retiré sans laisser de trace importante. Un capteur collé sur une surface neutre, un module placé derrière un interrupteur récent ou un détecteur installé dans un placard sont souvent préférables à une saignée dans un mur décoré. Si le bien est protégé, situé dans un périmètre réglementé ou soumis à des règles de copropriété, renseignez-vous avant toute modification visible, notamment sur la façade, les menuiseries et les équipements extérieurs."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Diagnostic à faire avant le projet",
+      "items": [
+        "Photographiez les pièces et repérez les surfaces à ne pas percer ni recouvrir.",
+        "Cartographiez le tableau électrique, les circuits d’éclairage, les radiateurs, les volets et les points d’accès internet.",
+        "Testez la couverture Wi-Fi dans les étages, au sous-sol, dans le jardin et près des murs très épais.",
+        "Identifiez les passages techniques existants : gaines, plinthes creuses, placards, combles, caves et conduits inutilisés.",
+        "Listez les priorités de confort et de sécurité de chaque occupant, plutôt que de connecter tous les équipements indistinctement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir une architecture domotique adaptée à une maison ancienne",
+      "id": "choisir-une-architecture-domotique-adaptee-a-une-maison-anci"
+    },
+    {
+      "type": "paragraph",
+      "html": "Trois voies coexistent : le tout sans fil, le câblage structuré et l’approche hybride. Dans une maison victorienne habitée et déjà rénovée, l’hybride est souvent le meilleur compromis. On câble ce qui doit être durable, fixe ou énergivore — réseau, points d’accès, certaines caméras, portail, baie de brassage — et l’on utilise le sans-fil pour les capteurs, commandes additionnelles et automatismes difficiles à intégrer sans travaux."
+    },
+    {
+      "type": "comparison",
+      "title": "Sans fil ou câblage : quel compromis pour votre demeure ?",
+      "left": {
+        "title": "Domotique sans fil",
+        "points": [
+          "Installation rapide, avec peu de saignées et de perturbations dans les finitions anciennes.",
+          "Très adaptée aux capteurs d’ouverture, détecteurs, sondes de température et boutons sans pile lorsqu’ils sont compatibles.",
+          "Évolutive pièce par pièce ; idéale si vous habitez déjà la maison.",
+          "Portée parfois réduite par les murs massifs, les planchers denses ou les éléments métalliques.",
+          "Dépendance à des piles ou batteries pour une partie des appareils et nécessité d’un bon réseau maillé."
+        ]
+      },
+      "right": {
+        "title": "Domotique câblée",
+        "points": [
+          "Très stable pour les commandes centrales, le réseau informatique, les caméras et certains volets.",
+          "Pas de problème d’autonomie pour les équipements alimentés ; solution durable lors d’une rénovation lourde.",
+          "Demande des gaines, des passages et une préparation précise des travaux.",
+          "Risque plus élevé pour les décors si les cheminements sont mal étudiés.",
+          "À réserver aux zones accessibles ou aux travaux de réfection déjà programmés."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas protocole et marque. Une installation durable repose sur un contrôleur capable de faire dialoguer plusieurs familles d’équipements, avec des fonctions locales. Demandez-vous surtout ce qui se passe si internet tombe, si le fabricant cesse de maintenir une application, ou si vous changez de téléphone. Les fonctions de base — allumer, chauffer, fermer, alerter — doivent rester utilisables manuellement et, autant que possible, continuer à fonctionner sur le réseau local."
+    },
+    {
+      "type": "proscons",
+      "title": "Pourquoi l’approche hybride est souvent la plus raisonnable",
+      "pros": [
+        "Préserve mieux les finitions d’époque qu’un recâblage généralisé.",
+        "Permet de réserver les travaux invasifs aux seuls endroits stratégiques.",
+        "Facilite une modernisation progressive selon le budget.",
+        "Améliore la fiabilité des équipements fixes grâce à un réseau câblé ou à des bornes Wi-Fi bien placées."
+      ],
+      "cons": [
+        "Exige une vraie phase de conception pour éviter la juxtaposition d’applications incompatibles.",
+        "Peut nécessiter une passerelle ou un contrôleur central correctement configuré.",
+        "Les appareils sur pile demandent un suivi d’entretien.",
+        "Un mélange non documenté de protocoles peut devenir difficile à dépanner à long terme."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hiérarchiser les usages : confort, protection et économies réelles",
+      "id": "hierarchiser-les-usages-confort-protection-et-economies-reel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une domotique réussie se remarque par sa simplicité, pas par le nombre d’icônes sur un smartphone. Dans une grande maison ancienne, les meilleurs premiers usages sont généralement la régulation du chauffage, l’éclairage de circulation, la détection de fuites, la surveillance d’ouverture et les alertes de sécurité. Ils répondent à des problèmes concrets : pièces peu occupées, absence prolongée, dépendances éloignées, tuyauterie exposée au froid ou retours tardifs."
+    },
+    {
+      "type": "table",
+      "caption": "Priorités domotiques pertinentes dans une maison victorienne",
+      "headers": [
+        "Usage",
+        "Solution discrète",
+        "Bénéfice concret",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Chauffage",
+          "Thermostat compatible avec le système existant, têtes thermostatiques et sondes par zone",
+          "Confort plus homogène et limitation du chauffage des pièces vides",
+          "Vérifier la compatibilité avec chaudière, radiateurs, plancher chauffant ou chauffage ancien"
+        ],
+        [
+          "Éclairage",
+          "Micromodules, variateurs compatibles LED et commandes au design sobre",
+          "Circulation sécurisée et ambiances sans multiplier les interrupteurs visibles",
+          "Tester les ampoules et transformateurs : tous les variateurs ne conviennent pas à toutes les LED"
+        ],
+        [
+          "Sécurité",
+          "Contacts d’ouverture, détecteurs de fumée connectés, sirène discrète et alertes",
+          "Information rapide en cas d’intrusion, d’ouverture ou de danger domestique",
+          "Conserver des détecteurs conformes et ne pas dépendre uniquement d’une notification mobile"
+        ],
+        [
+          "Eau",
+          "Capteurs sous évier, près du chauffe-eau ou en cave ; vanne motorisée si étude adaptée",
+          "Réduction du risque de dégât des eaux, crucial en cas d’absence",
+          "Installer les capteurs là où l’eau peut réellement s’accumuler, pas sur une surface instable"
+        ],
+        [
+          "Volets et rideaux",
+          "Motorisation discrète lors d’une réfection, ou commande d’appoint",
+          "Confort thermique et intimité, surtout dans les grandes pièces vitrées",
+          "Éviter les mécanismes visibles qui dénaturent une menuiserie ancienne"
+        ],
+        [
+          "Air intérieur",
+          "Sondes de température et d’humidité peu visibles",
+          "Aide à la ventilation et à la prévention de la condensation",
+          "Une alerte ne remplace ni une ventilation adaptée ni le traitement d’une infiltration"
+        ]
+      ],
+      "note": "L’intérêt dépend de votre équipement existant et de vos habitudes. Commencez par deux ou trois usages qui résolvent un problème précis."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2,4 GHz",
+          "label": "bande radio courante pour de nombreux objets connectés, plus tolérante aux obstacles que des fréquences plus élevées"
+        },
+        {
+          "value": "2 à 3",
+          "label": "points d’accès Wi-Fi peuvent être nécessaires dans une grande maison à étages, selon les murs et la surface"
+        },
+        {
+          "value": "quelques mm",
+          "label": "d’encombrement seulement pour certains modules encastrables, si la boîte et le câblage le permettent"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Des scénarios courts, compréhensibles et manuels",
+      "id": "des-scenarios-courts-comprehensibles-et-manuels"
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez les automatisations trop ambitieuses dès le départ. Un scénario <em>Départ</em> peut éteindre les éclairages non essentiels, réduire le chauffage, vérifier les ouvrants et activer l’alarme. Un scénario <em>Nuit</em> peut laisser une lumière douce dans le couloir, couper les prises non indispensables et envoyer une alerte si une porte extérieure reste ouverte. Chaque scénario doit être visible, facile à désactiver et ne jamais empêcher une action manuelle normale."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon test avant d’automatiser",
+      "html": "Si un invité ne peut pas comprendre comment allumer une lampe, régler le chauffage ou ouvrir un volet sans votre téléphone, l’installation est trop compliquée. Conservez toujours une commande physique intuitive pour les fonctions quotidiennes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installer sans abîmer boiseries, moulures et plâtres anciens",
+      "id": "installer-sans-abimer-boiseries-moulures-et-platres-anciens"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’intégration visuelle commence par le choix de l’emplacement. Un capteur de présence n’a pas à être centré sur une rosace ; il peut être placé dans un angle, au-dessus d’une porte, sur le chant d’un meuble ou dans une zone de transition. Une enceinte, une caméra intérieure ou une borne réseau doivent rejoindre les espaces secondaires, les étagères hautes, les placards ou les zones déjà techniques. Dans les salons de réception, moins vous voyez d’équipement, plus le résultat paraît cohérent."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour l’éclairage, cherchez à conserver les appareillages remarquables. Il est souvent possible d’ajouter un module dans une boîte d’encastrement suffisamment profonde, dans un faux plafond récent ou au niveau d’un point lumineux, sans remplacer nécessairement une plaque ancienne. Mais ne forcez jamais : les boîtes peu profondes, les fils fragiles ou l’absence de neutre peuvent rendre cette solution inadaptée. Un professionnel déterminera si une adaptation propre est possible."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode d’intégration en cinq étapes",
+      "items": [
+        {
+          "title": "Créer un plan de conservation",
+          "text": "Repérez les éléments d’époque et les zones techniques utilisables. Décidez précisément ce qui doit rester visuellement intact."
+        },
+        {
+          "title": "Sécuriser l’infrastructure",
+          "text": "Faites remettre à niveau les protections électriques nécessaires, stabilisez la connexion internet et prévoyez une alimentation secourue si des alertes de sécurité en dépendent."
+        },
+        {
+          "title": "Déployer un projet pilote",
+          "text": "Testez une pièce ou un usage, par exemple le chauffage du salon et l’éclairage du couloir, pendant plusieurs semaines."
+        },
+        {
+          "title": "Valider la portée et les usages",
+          "text": "Contrôlez la fiabilité depuis chaque étage, l’autonomie des capteurs et la facilité d’emploi pour tous les occupants."
+        },
+        {
+          "title": "Étendre avec une documentation",
+          "text": "Ajoutez les autres zones progressivement et consignez les circuits, identifiants d’équipement, emplacements et procédures de secours."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Détails qui font la différence visuellement",
+      "items": [
+        "Choisissez des boutons, plaques et thermostats aux lignes sobres, dans une finition cohérente avec les quincailleries existantes.",
+        "Dissimulez les câbles dans des cheminements accessibles : plinthes techniques, placards, combles ou cave, plutôt que dans les décors principaux.",
+        "Utilisez des fixations réversibles pour les petits capteurs lorsque le support s’y prête, puis testez-les sur une zone non visible.",
+        "Préférez une seule tablette ou un écran discret dans une zone de service plutôt que plusieurs écrans muraux dans les pièces de caractère.",
+        "Placez les équipements lumineux ou dotés de voyants hors du champ visuel direct, particulièrement dans les chambres et salons."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fiabiliser le réseau dans les murs épais et sur plusieurs niveaux",
+      "id": "fiabiliser-le-reseau-dans-les-murs-epais-et-sur-plusieurs-ni"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le réseau est la fondation invisible de la maison connectée. Dans l’ancien, un routeur fourni par l’opérateur, posé au hasard dans un bureau, suffit rarement à couvrir correctement la cave, les chambres sous combles et le jardin. Mieux vaut placer plusieurs points d’accès Wi-Fi à des emplacements réfléchis, idéalement reliés entre eux par câble quand c’est possible. Les solutions maillées peuvent être utiles, mais elles perdent en efficacité si chaque borne doit traverser plusieurs murs massifs pour communiquer avec la suivante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les protocoles destinés aux capteurs peuvent aussi former leur propre réseau maillé : un appareil alimenté sur secteur relaie alors parfois le signal d’un autre. Ne le supposez pas sans test. Commencez par les équipements fixes proches du contrôleur, puis étendez progressivement vers les zones éloignées. Pour une annexe, un garage ou un jardin, envisagez une liaison dédiée correctement protégée plutôt que de compter sur un signal aléatoire."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Prévoyez un mode dégradé",
+      "html": "Conservez les clés, interrupteurs, robinets et commandes mécaniques pleinement opérationnels. Une panne d’internet, une mise à jour ou le remplacement d’un téléphone ne doit ni bloquer l’accès à la maison ni empêcher d’allumer, chauffer ou sécuriser les lieux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prévoir le budget sans sous-estimer les travaux invisibles",
+      "id": "prevoir-le-budget-sans-sous-estimer-les-travaux-invisibles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix d’un objet connecté est rarement le coût réel du projet. Dans une maison victorienne, l’essentiel peut se jouer dans le diagnostic électrique, l’amélioration du Wi-Fi, la pose discrète, l’adaptation des boîtes d’encastrement, les réglages et le temps de configuration. Un démarrage ciblé avec quelques capteurs, un thermostat et de l’éclairage peut représenter un budget de <strong>quelques centaines à environ un millier d’euros</strong>, hors remise à niveau électrique importante. Une intégration multi-pièces avec réseau revu, chauffage zoné, sécurité et pose professionnelle se compte plus volontiers en <strong>plusieurs milliers d’euros</strong>."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour construire votre budget",
+      "headers": [
+        "Niveau de projet",
+        "Ce qu’il peut inclure",
+        "Budget à anticiper",
+        "Pour qui ?"
+      ],
+      "rows": [
+        [
+          "Démarrage ciblé",
+          "Quelques capteurs, éclairage d’une zone, thermostat ou alertes d’eau",
+          "Quelques centaines d’euros à environ un millier, selon pose et équipement existant",
+          "Vous voulez valider les usages sans modifier la maison"
+        ],
+        [
+          "Confort par zones",
+          "Chauffage de plusieurs pièces, éclairage, ouvrants, réseau amélioré, scénarios",
+          "De l’ordre de quelques milliers d’euros",
+          "Vous habitez la maison à l’année et cherchez un gain de confort durable"
+        ],
+        [
+          "Rénovation intégrée",
+          "Câblage sélectif, tableau revu, réseau structuré, sécurité, motorisations et programmation",
+          "Plusieurs milliers d’euros, voire davantage avec travaux de bâti",
+          "Vous rénovez déjà des murs, plafonds, sols ou installations techniques"
+        ]
+      ],
+      "note": "Ces repères sont volontairement larges. Les contraintes de conservation, l’état de l’électricité et l’accessibilité des passages techniques pèsent davantage que le prix unitaire des objets."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Où investir en premier ?",
+      "id": "ou-investir-en-premier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Mettez d’abord l’argent là où il évite un risque ou améliore durablement le quotidien : réseau fiable, électricité sécurisée, contrôle du chauffage, détection d’eau, détecteurs de sécurité et commandes physiques de qualité. Attendez avant d’acheter des écrans muraux, des assistants vocaux dans chaque pièce ou des accessoires décoratifs connectés. Ces derniers évoluent vite, alors qu’une gaine bien placée, une boîte adaptée ou un bon point d’accès réseau resteront utiles pendant des années."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Protéger les données, la sécurité et la pérennité de l’installation",
+      "id": "proteger-les-donnees-la-securite-et-la-perennite-de-l-instal"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une maison connectée produit des informations sensibles : heures de présence, habitudes de chauffage, images éventuelles et état des accès. Protégez le Wi-Fi par un mot de passe robuste, créez si possible un réseau séparé pour les objets connectés et activez les mises à jour de sécurité. Évitez d’exposer directement une caméra ou une box domotique sur internet sans configuration appropriée. Si vous installez de la vidéosurveillance, informez les personnes concernées et cadrez soigneusement les zones filmées, en particulier près des limites de propriété."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la pérennité, documentez tout dès le début : photo du tableau, plan des équipements, nom des circuits, emplacement des capteurs, type de piles, notice et identifiants conservés de façon sécurisée. Choisissez des appareils ayant une commande locale et une fonction utile même sans abonnement. Lorsqu’un équipement repose exclusivement sur un service distant, demandez-vous si vous accepteriez de le remplacer demain sans compromettre le reste de l’installation."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Erreurs fréquentes à éviter",
+      "items": [
+        "Choisir une solution uniquement parce qu’elle est populaire, sans vérifier sa compatibilité avec vos appareils actuels et votre réseau.",
+        "Remplacer tous les interrupteurs anciens alors qu’un module discret ou une commande secondaire peut suffire.",
+        "Multiplier les applications et les comptes, au lieu de définir un point de contrôle cohérent.",
+        "Automatiser le chauffage sans sonde fiable dans les pièces aux usages très différents.",
+        "Coller un capteur sur un papier peint ancien, une finition fragile ou un élément dont vous ne connaissez pas la composition.",
+        "Installer des caméras avant d’avoir défini leur utilité, leur angle de vue, leur stockage et leur accès sécurisé.",
+        "Négliger les tests de coupure internet, de panne de courant et de commande manuelle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire évoluer la maison avec sobriété",
+      "id": "faire-evoluer-la-maison-avec-sobriete"
+    },
+    {
+      "type": "paragraph",
+      "html": "La réussite d’un projet se mesure aussi à sa capacité à évoluer. Une maison victorienne se prête bien à une modernisation par phases : d’abord les fondations techniques, ensuite les usages de sécurité et de confort, enfin les raffinements. À chaque étape, vérifiez que le nouveau dispositif ne vous enferme pas dans une application isolée ni dans une intervention irréversible sur le bâti."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un entretien léger mais régulier évite les mauvaises surprises : remplacez les piles avant la saison froide, testez les alertes de fumée et d’eau, contrôlez les sauvegardes de configuration, nettoyez les capteurs selon la notice et vérifiez les mises à jour. Une fois par an, relisez vos scénarios : les horaires, les pièces occupées et les habitudes changent. Simplifier une automatisation inutile est souvent plus intelligent qu’en ajouter une nouvelle."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "La meilleure économie est souvent invisible",
+      "html": "Dans une demeure ancienne, investir dans une régulation cohérente et dans la détection précoce des fuites peut avoir plus de valeur qu’un équipement spectaculaire. Réduire le chauffage de zones inoccupées et recevoir une alerte avant un dégât des eaux protège à la fois votre budget et des finitions difficiles à restaurer."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la domotique en maison victorienne",
+      "items": [
+        {
+          "q": "Peut-on installer de la domotique sans refaire toute l’électricité ?",
+          "a": "Oui, pour de nombreux usages : capteurs sans fil, thermostat, éclairage sur certains circuits, détecteurs de fuite ou commandes additionnelles. En revanche, une installation électrique dégradée doit être sécurisée avant toute automatisation. Certains modules nécessitent aussi un neutre, de la place dans la boîte d’encastrement ou un câblage spécifique."
+        },
+        {
+          "q": "Le sans-fil fonctionne-t-il à travers les murs épais d’une maison ancienne ?",
+          "a": "Pas toujours de manière uniforme. Les murs pleins, les planchers denses, les éléments métalliques et les grandes distances peuvent affaiblir le signal. Testez d’abord sur place, positionnez intelligemment le contrôleur et ajoutez, si nécessaire, des équipements relais ou des points d’accès réseau reliés par câble."
+        },
+        {
+          "q": "Comment conserver les anciens interrupteurs ?",
+          "a": "Selon leur état et le montage électrique, un électricien peut parfois intégrer un module hors de vue, au point lumineux ou dans une boîte adaptée, tout en conservant l’appareillage visible. Si cela n’est pas possible en sécurité, conservez l’interrupteur comme élément décoratif et placez une commande moderne discrète dans une zone moins exposée."
+        },
+        {
+          "q": "Quelle domotique choisir pour le chauffage d’une vieille maison ?",
+          "a": "Choisissez d’abord une solution compatible avec votre système de chauffage réel : chaudière, radiateurs à eau, chauffage électrique, plancher chauffant ou autre installation. Ajoutez des sondes dans les pièces aux usages différents et évitez de piloter toute la maison avec une seule température mesurée dans un hall ou un salon ensoleillé."
+        },
+        {
+          "q": "Faut-il une box domotique centralisée ?",
+          "a": "Elle n’est pas indispensable pour un besoin très simple, mais elle devient utile dès que vous combinez plusieurs équipements ou souhaitez créer des scénarios cohérents. Préférez une solution qui maintient les fonctions essentielles localement et qui ne vous impose pas de dépendre exclusivement d’un service en ligne."
+        },
+        {
+          "q": "La domotique risque-t-elle de dévaloriser une maison de caractère ?",
+          "a": "Elle peut la dévaloriser si les équipements sont visibles, incohérents ou s’ils endommagent les matériaux d’origine. À l’inverse, une installation réversible, bien documentée, discrète et utile peut renforcer l’attrait du bien en améliorant confort, sécurité et maîtrise énergétique sans toucher à son identité."
+        }
+      ]
+    }
+  ]
+}

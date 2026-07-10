@@ -1,0 +1,424 @@
+{
+  "title": "Mode sécurisé : comprendre, activer et désactiver cette fonctionnalité sur votre terminal",
+  "slug": "mode-securise-comprendre-activer-et-desactiver-cette-fonctionnalite-sur-votre-terminal",
+  "path": "/divers/mode-securise-comprendre-activer-et-desactiver-cette-fonctionnalite-sur-votre-terminal.html",
+  "category": "tech",
+  "tags": [
+    "mode sécurisé",
+    "android",
+    "dépannage smartphone",
+    "mode sans échec",
+    "applications",
+    "redémarrage"
+  ],
+  "excerpt": "Le mode sécurisé isole les applications téléchargées pour identifier une panne sur Android. Découvrez comment l’activer, en sortir et corriger le problème.",
+  "metaDescription": "Mode sécurisé sur Android : rôle, activation, désactivation et diagnostic pas à pas pour retrouver un smartphone stable, sans perdre vos données personnelles.",
+  "seoTitle": "Mode sécurisé : l’activer et le désactiver",
+  "heroKicker": "Dépanner sans effacer",
+  "readingTime": 11,
+  "date": "2023-10-15T07:34:39",
+  "image": {
+    "id": "1187",
+    "alt": "Mode sécurisé : comprendre, activer et désactiver cette fonctionnalité sur votre terminal",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Votre smartphone redémarre, affiche des publicités intempestives, devient anormalement lent ou plante dès l’ouverture d’une application ? Le mode sécurisé — aussi appelé <strong>mode sans échec</strong> — est un outil de diagnostic simple qui permet de vérifier si une application téléchargée est responsable. Bien utilisé, il aide à résoudre de nombreux problèmes sans réinitialiser votre terminal ni effacer vos données."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le mode sécurisé est surtout associé aux smartphones et tablettes <strong>Android</strong> : il démarre l’appareil avec les composants et applications système nécessaires.",
+        "Vos photos, messages, fichiers et comptes ne sont pas supprimés ; les applications que vous avez installées sont simplement <strong>désactivées temporairement</strong>.",
+        "Si le problème disparaît dans ce mode, une application, un lanceur d’écran ou un service installé récemment est probablement en cause.",
+        "Pour quitter le mode sécurisé, un <strong>redémarrage normal</strong> suffit généralement. S’il persiste, vérifiez les boutons physiques, les accessoires et les réglages de démarrage.",
+        "Ne confondez pas le mode sécurisé avec une réinitialisation d’usine, le mode récupération ou les fonctions de verrouillage renforcé : leurs objectifs sont très différents."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mode sécurisé : de quoi parle-t-on exactement ?",
+      "id": "mode-securise-de-quoi-parle-t-on-exactement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le langage courant, l’expression <strong>mode sécurisé</strong> désigne généralement le mode sans échec d’un téléphone Android. Au démarrage, le système charge les fonctions indispensables et empêche l’exécution des applications ajoutées par l’utilisateur. Les applications préinstallées et les services essentiels restent disponibles afin que vous puissiez utiliser l’appareil, observer son comportement et intervenir dans les réglages."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le principe est le même que sur un ordinateur démarré en mode sans échec : <strong>isoler la cause d’un dysfonctionnement</strong>. Ce n’est ni un antivirus, ni une protection qui sécurise davantage vos données au quotidien. Il ne supprime pas non plus les logiciels suspects de lui-même. Il vous donne en revanche un environnement plus sobre pour repérer ce qui ne va pas."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Une terminologie qui varie selon les appareils",
+      "html": "Selon la marque et la version d’Android, vous verrez l’intitulé <strong>Mode sécurisé</strong> ou <strong>Mode sans échec</strong>. Un petit libellé apparaît le plus souvent dans un coin de l’écran une fois le téléphone démarré. Les étapes de lancement peuvent varier légèrement, mais le rôle reste identique."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "0",
+          "label": "application téléchargée censée se lancer en mode sécurisé"
+        },
+        {
+          "value": "1",
+          "label": "redémarrage normal suffit habituellement à quitter ce mode"
+        },
+        {
+          "value": "2",
+          "label": "méthodes courantes pour y accéder : menu d’alimentation ou boutons physiques"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dans quels cas faut-il l’utiliser ?",
+      "id": "dans-quels-cas-faut-il-l-utiliser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mode sécurisé est particulièrement pertinent lorsque le problème est apparu après l’installation ou la mise à jour d’une application. Il permet de distinguer une panne liée à un logiciel tiers d’un défaut du système, d’un problème matériel ou d’un manque d’espace de stockage. C’est un test rapide : si le téléphone redevient stable alors que les applications téléchargées ne sont plus actives, votre piste principale est trouvée."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les symptômes qui justifient un test",
+      "items": [
+        "Le téléphone se fige, ralentit fortement ou redémarre sans raison apparente depuis peu.",
+        "Des fenêtres publicitaires s’affichent hors de votre navigateur ou sur l’écran d’accueil.",
+        "La batterie se vide anormalement vite et le terminal chauffe sans usage exigeant identifiable.",
+        "Le clavier, l’écran d’accueil ou une application système se ferme de façon répétée.",
+        "Vous ne parvenez plus à désinstaller une application, car elle se relance, masque les réglages ou gêne la navigation.",
+        "Vous suspectez une application de nettoyage, un faux antivirus, un lanceur d’écran, un jeu ou un utilitaire installé hors d’une boutique fiable."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "À l’inverse, ce mode ne réglera pas un écran fissuré, une batterie usée, une carte SIM défaillante, un bouton coincé ou une panne réseau provenant de l’opérateur. Il peut toutefois aider à exclure les applications avant d’envisager une réparation. Si les mêmes ralentissements, arrêts ou erreurs surviennent encore en mode sécurisé, la cause est plus probablement liée au système, au stockage, à une mise à jour ou au matériel."
+    },
+    {
+      "type": "comparison",
+      "title": "Mode sécurisé ou réinitialisation d’usine : quel choix ?",
+      "left": {
+        "title": "Mode sécurisé",
+        "points": [
+          "Désactive temporairement les applications téléchargées, sans les effacer.",
+          "Conserve vos données, comptes, photos et réglages personnels.",
+          "Sert à tester, diagnostiquer puis désinstaller l’application en cause.",
+          "À privilégier comme première étape face à une panne récente."
+        ]
+      },
+      "right": {
+        "title": "Réinitialisation d’usine",
+        "points": [
+          "Efface les données locales et remet le terminal dans sa configuration initiale.",
+          "Exige une sauvegarde sérieuse et la connaissance des identifiants de compte.",
+          "Peut résoudre une corruption logicielle persistante, mais ne prouve pas quelle application était responsable.",
+          "À réserver à un dernier recours après les vérifications essentielles."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avant de l’activer : les vérifications utiles",
+      "id": "avant-de-l-activer-les-verifications-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant toute manipulation, notez ce qui a changé juste avant l’apparition du problème : application installée, mise à jour, nouvel accessoire, manque d’espace libre ou chute du téléphone. Cette chronologie vous fera gagner du temps au moment de supprimer les logiciels suspects. Si l’appareil fonctionne encore, sauvegardez les éléments irremplaçables : photos, documents, conversations compatibles avec une sauvegarde et codes de récupération importants."
+    },
+    {
+      "type": "paragraph",
+      "html": "Assurez-vous aussi que la batterie est suffisamment chargée ou laissez l’appareil branché à un chargeur fiable. Un redémarrage forcé avec une batterie presque vide peut compliquer le diagnostic. Retirez temporairement les accessoires non nécessaires, notamment une manette, un câble USB ou une station d’accueil : un périphérique défectueux peut parfois perturber le comportement du téléphone."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le bon réflexe face aux publicités anormales",
+      "html": "N’installez pas dans l’urgence une succession d’applications prétendant nettoyer ou accélérer votre téléphone. Certaines aggravent le problème. Démarrez d’abord en mode sécurisé, puis désinstallez les applications récentes ou douteuses depuis les réglages Android."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment activer le mode sécurisé sur Android ?",
+      "id": "comment-activer-le-mode-securise-sur-android"
+    },
+    {
+      "type": "paragraph",
+      "html": "La méthode la plus simple s’effectue depuis le menu d’alimentation, lorsque l’écran répond et que vous pouvez naviguer normalement. Les noms des commandes et l’emplacement des boutons varient selon les fabricants. Sur certains modèles récents, le menu d’alimentation s’ouvre en maintenant le bouton latéral et un bouton de volume, plutôt qu’avec le seul bouton marche-arrêt."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode 1 : depuis le menu d’alimentation",
+      "items": [
+        {
+          "title": "Ouvrez les options d’alimentation",
+          "text": "Maintenez le bouton marche-arrêt, ou utilisez la combinaison prévue par votre appareil, jusqu’à afficher les commandes d’arrêt et de redémarrage."
+        },
+        {
+          "title": "Maintenez la commande d’arrêt",
+          "text": "Appuyez longuement sur <strong>Éteindre</strong>. Android peut alors afficher une proposition de redémarrage en mode sécurisé ou en mode sans échec."
+        },
+        {
+          "title": "Confirmez le redémarrage",
+          "text": "Validez la demande. Le téléphone redémarre ; attendez l’affichage complet de l’écran d’accueil et vérifiez la présence du libellé indiquant le mode sécurisé."
+        },
+        {
+          "title": "Testez sans multiplier les actions",
+          "text": "Utilisez pendant quelques minutes les fonctions qui posaient problème : navigation, appels, appareil photo, veille, charge ou consultation des réglages. Notez si l’anomalie réapparaît."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Méthode 2 : avec les boutons physiques si l’interface est inutilisable",
+      "id": "methode-2-avec-les-boutons-physiques-si-l-interface-est-inut"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le terminal ne répond plus suffisamment pour passer par les menus, éteignez-le complètement. Rallumez-le avec le bouton marche-arrêt puis, dès que le logo du fabricant apparaît, maintenez généralement le bouton de <strong>réduction du volume</strong> jusqu’à l’affichage de l’écran d’accueil. Sur certains appareils, le moment précis et la combinaison diffèrent. Si cela ne fonctionne pas, consultez la page d’assistance officielle du fabricant avec le modèle exact de votre téléphone plutôt que d’essayer au hasard des combinaisons pouvant ouvrir le mode récupération."
+    },
+    {
+      "type": "table",
+      "caption": "Accéder au mode sécurisé : les voies les plus courantes",
+      "headers": [
+        "Situation",
+        "Méthode à essayer",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "L’écran et les menus fonctionnent",
+          "Menu d’alimentation, puis appui prolongé sur Éteindre",
+          "La commande peut s’appeler Arrêt ou Mise hors tension selon l’interface."
+        ],
+        [
+          "L’appareil est instable ou une application bloque l’écran",
+          "Éteindre, rallumer, puis maintenir Volume bas au démarrage",
+          "Le bon moment dépend du modèle ; recommencez calmement si besoin."
+        ],
+        [
+          "Le téléphone démarre déjà en mode sécurisé",
+          "Redémarrage normal ; contrôle des boutons et de la coque",
+          "Un bouton Volume bas coincé peut imposer ce démarrage."
+        ],
+        [
+          "Aucune méthode ne marche",
+          "Documentation d’assistance du fabricant pour le modèle précis",
+          "N’accédez pas au mode récupération sans savoir ce que vous validez."
+        ]
+      ],
+      "note": "Les intitulés et combinaisons diffèrent selon les surcouches Android et les générations de terminaux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Diagnostiquer la panne sans vous tromper",
+      "id": "diagnostiquer-la-panne-sans-vous-tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois dans ce mode, l’objectif n’est pas de laisser votre téléphone y fonctionner durablement, mais de comparer son comportement avec celui d’un démarrage habituel. Commencez par le symptôme précis : stabilité générale, apparition de publicités, consommation anormale, chauffe ou arrêt d’une fonction. Si le problème a totalement disparu, les applications téléchargées constituent la cause la plus vraisemblable. Si rien ne change, ne désinstallez pas tout au hasard : passez aux vérifications du système, du stockage et de l’état matériel."
+    },
+    {
+      "type": "proscons",
+      "title": "Ce que le mode sécurisé permet — et ne permet pas — de conclure",
+      "pros": [
+        "Il isole rapidement l’influence des applications ajoutées par l’utilisateur.",
+        "Il préserve les données et évite une réinitialisation précipitée.",
+        "Il facilite l’accès aux réglages quand une application intrusive monopolise l’écran.",
+        "Il fournit un critère simple pour prioriser les actions de dépannage."
+      ],
+      "cons": [
+        "Il ne désigne pas automatiquement l’application exacte responsable.",
+        "Une application préinstallée, une mise à jour système ou un défaut matériel peut encore être en cause.",
+        "Certaines fonctions habituelles deviennent indisponibles puisque les applications tierces ne se lancent pas.",
+        "Il ne remplace ni une analyse de sécurité prudente ni l’intervention d’un réparateur en cas de panne physique."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Retrouver l’application responsable",
+      "id": "retrouver-l-application-responsable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Démarrez à nouveau normalement avant de désinstaller quoi que ce soit. Ouvrez ensuite les réglages, puis la liste des applications installées. Classez-les, si votre interface le propose, par date d’installation ou par dernière mise à jour. Retirez en priorité les logiciels ajoutés juste avant le problème : utilitaires de lampe torche, nettoyeurs, économiseurs de batterie, fonds d’écran, applications de personnalisation, claviers inconnus, lecteurs de codes QR, bloqueurs agressifs ou applications installées via un fichier téléchargé sont des pistes fréquentes."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "title": "Une méthode de désinstallation fiable",
+      "items": [
+        "Désinstallez d’abord l’application la plus récemment installée ou mise à jour avant l’apparition de la panne.",
+        "Redémarrez le téléphone en mode normal et vérifiez le symptôme pendant un usage réaliste.",
+        "Si le problème persiste, retirez l’application suspecte suivante, une par une ou par petits groupes cohérents.",
+        "Contrôlez les autorisations des applications restantes : accessibilité, affichage par-dessus les autres applications, accès aux notifications et administrateur de l’appareil méritent une attention particulière.",
+        "Lorsque le téléphone est redevenu stable, installez les mises à jour Android disponibles et ne réinstallez les applications supprimées qu’une par une, si elles sont réellement nécessaires."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Test concluant, mais pas une preuve absolue",
+      "html": "Si l’anomalie disparaît en mode sécurisé, une application téléchargée est très probablement impliquée. Toutefois, une application peut interagir avec un réglage ou une ressource système : validez toujours la réparation après un redémarrage normal et quelques heures d’usage avant de considérer le dossier clos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment désactiver le mode sécurisé et revenir à la normale ?",
+      "id": "comment-desactiver-le-mode-securise-et-revenir-a-la-normale"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans la grande majorité des cas, il suffit de faire un <strong>redémarrage standard</strong>. Ouvrez le menu d’alimentation, choisissez Redémarrer, puis laissez le téléphone démarrer sans maintenir aucun bouton de volume. Sur certaines interfaces, une notification permanente propose directement de désactiver le mode sécurisé : vous pouvez l’utiliser si elle est présente, mais le redémarrage reste la solution universelle."
+    },
+    {
+      "type": "steps",
+      "title": "Si le mode sécurisé ne disparaît pas",
+      "items": [
+        {
+          "title": "Retirez la coque et les accessoires",
+          "text": "Une coque trop serrée ou un câble peut exercer une pression involontaire. Débranchez les périphériques et retirez la coque avant de recommencer."
+        },
+        {
+          "title": "Inspectez le bouton de volume bas",
+          "text": "Nettoyez délicatement le pourtour du bouton avec un chiffon sec et vérifiez qu’il revient bien en position. Un bouton coincé peut déclencher le démarrage en mode sécurisé à chaque allumage."
+        },
+        {
+          "title": "Forcez un redémarrage propre",
+          "text": "Maintenez le bouton marche-arrêt, seul ou avec la combinaison recommandée par le fabricant, jusqu’au redémarrage. Ne maintenez pas de touche de volume pendant la phase de démarrage."
+        },
+        {
+          "title": "Mettez le système à jour",
+          "text": "Une fois revenu au mode normal, installez les correctifs Android disponibles. Si le terminal reste bloqué, consultez l’assistance du fabricant ou un réparateur compétent."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez de choisir l’option d’effacement proposée dans un écran de récupération uniquement pour sortir du mode sécurisé. Une réinitialisation d’usine effacerait vos données locales et n’est normalement pas nécessaire. Si le bouton de volume est endommagé ou si l’appareil boucle sur ce mode malgré toutes ces vérifications, une intervention matérielle peut être justifiée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : ce que cette fonctionnalité peut vous éviter",
+      "id": "budget-ce-que-cette-fonctionnalite-peut-vous-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mode sécurisé fait partie du système : son utilisation est <strong>gratuite</strong> et ne nécessite aucun abonnement, application de diagnostic ou achat d’outil. Son intérêt économique est d’éviter de remplacer trop vite un téléphone ou de payer une intervention alors qu’une simple désinstallation résout le problème. À l’inverse, un terminal qui reste instable dans ce mode mérite une évaluation plus prudente : il peut nécessiter une réparation ou un remplacement selon l’âge de l’appareil, l’état de la batterie et la nature de la panne."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir la bonne réponse selon le diagnostic",
+      "headers": [
+        "Constat après le test",
+        "Action recommandée",
+        "Coût à anticiper"
+      ],
+      "rows": [
+        [
+          "Le problème disparaît en mode sécurisé",
+          "Désinstaller les applications récentes ou douteuses, puis mettre à jour Android",
+          "Gratuit, hors éventuel remplacement d’une application payante."
+        ],
+        [
+          "Le problème persiste mais le terminal démarre",
+          "Vérifier le stockage, les mises à jour, la sauvegarde et demander un diagnostic si nécessaire",
+          "De gratuit à modéré selon l’accompagnement choisi."
+        ],
+        [
+          "Le bouton de volume semble bloqué",
+          "Retirer la coque, nettoyer sans liquide ; faire examiner le bouton si le défaut persiste",
+          "Une petite réparation peut être moins coûteuse qu’un changement d’appareil, selon le modèle."
+        ],
+        [
+          "Panne matérielle ou redémarrages répétés",
+          "Sauvegarder dès que possible et comparer devis de réparation et remplacement",
+          "Budget très variable : raisonnez en durée de vie restante et valeur du terminal."
+        ]
+      ],
+      "note": "Les montants dépendent fortement du modèle, de la pièce concernée et des conditions de garantie ; demandez un devis avant toute réparation hors garantie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ne pas confondre avec les autres fonctions de sécurité",
+      "id": "ne-pas-confondre-avec-les-autres-fonctions-de-securite"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression prête à confusion, car les systèmes proposent plusieurs fonctions portant des noms proches. Sur Android, le <strong>verrouillage renforcé</strong> ou mode verrouillage impose par exemple le code de déverrouillage et peut désactiver provisoirement certaines méthodes biométriques : il protège l’accès au téléphone, mais ne sert pas à diagnostiquer les applications. Le <strong>mode récupération</strong>, lui, est un environnement technique destiné notamment aux opérations de maintenance ; il faut l’aborder avec précaution, car certaines options peuvent effacer les données."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur iPhone, il n’existe pas de mode sécurisé utilisateur équivalent au mode sans échec Android pour désactiver toutes les applications téléchargées. Un redémarrage, la suppression d’une application, la vérification de l’espace libre, les mises à jour d’iOS ou l’assistance Apple sont les pistes appropriées. Sur un ordinateur Windows ou macOS, il existe aussi des modes de démarrage diagnostiques, mais les procédures et effets sont différents : ne transposez pas automatiquement les manipulations Android."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prévenir le retour des pannes et des applications indésirables",
+      "id": "prevenir-le-retour-des-pannes-et-des-applications-indesirabl"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur usage du mode sécurisé reste ponctuel. Pour avoir moins souvent à y recourir, limitez les installations, privilégiez les boutiques officielles, lisez les autorisations demandées et désinstallez régulièrement les applications inutilisées. Une application qui réclame l’accessibilité, l’affichage au-dessus de toutes les autres applications ou les droits d’administrateur sans raison claire doit vous alerter. Ces autorisations peuvent être légitimes dans des cas précis, mais elles donnent un pouvoir important sur le terminal."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Routine simple pour un téléphone plus stable",
+      "items": [
+        "Installez les mises à jour du système et des applications après avoir vérifié qu’elles proviennent de sources fiables.",
+        "Gardez une marge d’espace libre : un stockage saturé dégrade les mises à jour, les photos et les performances.",
+        "Téléchargez les applications depuis une boutique reconnue et évitez les fichiers d’installation reçus par message ou sur un site douteux.",
+        "Examinez les avis récents, l’éditeur et les autorisations avant une installation, surtout pour les utilitaires système.",
+        "Supprimez les applications que vous n’utilisez plus plutôt que de les laisser conserver des droits en arrière-plan.",
+        "Sauvegardez régulièrement vos données afin que le dépannage ne devienne jamais une course contre la perte de fichiers."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le mode sécurisé",
+      "items": [
+        {
+          "q": "Le mode sécurisé efface-t-il mes photos et mes applications ?",
+          "a": "Non. Vos données, comptes, photos et applications restent enregistrés. Les applications téléchargées ne se lancent simplement pas tant que le téléphone est dans ce mode. Elles redeviennent disponibles après un redémarrage normal, sauf si vous choisissez de les désinstaller."
+        },
+        {
+          "q": "Pourquoi mon téléphone démarre-t-il tout seul en mode sécurisé ?",
+          "a": "Le plus souvent, le bouton de réduction du volume est maintenu ou coincé pendant le démarrage, parfois à cause d’une coque. Retirez la coque, débranchez les accessoires, vérifiez le mouvement du bouton puis redémarrez sans toucher aux touches de volume. Si cela continue, un défaut matériel est possible."
+        },
+        {
+          "q": "Comment savoir avec certitude quelle application pose problème ?",
+          "a": "Le mode sécurisé confirme surtout qu’une application téléchargée est probablement impliquée. Relevez les installations et mises à jour récentes, désinstallez-les méthodiquement, puis redémarrez normalement après chaque étape. La disparition durable du symptôme après le retrait d’une application est le meilleur indicateur."
+        },
+        {
+          "q": "Puis-je téléphoner et utiliser Internet en mode sécurisé ?",
+          "a": "Les fonctions essentielles comme les appels, les messages et, selon la configuration, la connexion Internet restent généralement accessibles. En revanche, une application installée par vos soins, y compris votre navigateur préféré ou votre messagerie habituelle, peut ne pas se lancer. Utilisez les fonctions système pour effectuer votre test."
+        },
+        {
+          "q": "Le problème persiste en mode sécurisé : que faire ?",
+          "a": "Vérifiez d’abord l’espace de stockage, les mises à jour du système et l’état de la batterie. Sauvegardez vos données si vous le pouvez. Si les redémarrages, la chauffe, les blocages ou les anomalies d’écran persistent, envisagez l’assistance du fabricant ou un diagnostic de réparation avant toute réinitialisation d’usine."
+        },
+        {
+          "q": "Est-ce que le mode sécurisé protège mon téléphone contre les virus ?",
+          "a": "Il peut empêcher temporairement une application malveillante téléchargée de se lancer, ce qui facilite sa suppression. Mais ce n’est pas une protection antivirus permanente et il ne remplace pas la prudence lors des téléchargements, les mises à jour et la vérification des autorisations accordées aux applications."
+        }
+      ]
+    }
+  ]
+}

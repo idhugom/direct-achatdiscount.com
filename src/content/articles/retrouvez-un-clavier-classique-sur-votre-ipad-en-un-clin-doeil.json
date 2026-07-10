@@ -1,0 +1,465 @@
+{
+  "title": "Retrouvez un clavier classique sur votre iPad en un clin d’œil",
+  "slug": "retrouvez-un-clavier-classique-sur-votre-ipad-en-un-clin-doeil",
+  "path": "/divers/retrouvez-un-clavier-classique-sur-votre-ipad-en-un-clin-doeil.html",
+  "category": "tech",
+  "tags": [
+    "clavier ipad",
+    "ipad os",
+    "azerty",
+    "clavier bluetooth",
+    "accessoires ipad"
+  ],
+  "excerpt": "Votre clavier iPad est devenu flottant, coupé ou passé dans une mauvaise langue ? Voici comment retrouver une frappe classique et gagner en confort.",
+  "metaDescription": "Clavier iPad réduit, flottant ou mal configuré ? Restaurez un clavier classique, réglez l’AZERTY et choisissez un modèle physique adapté.",
+  "seoTitle": "Retrouver un clavier classique sur iPad : guide",
+  "heroKicker": "Frappe sans détour",
+  "readingTime": 11,
+  "date": "2023-10-11T06:17:57",
+  "image": {
+    "id": "1173",
+    "alt": "Retrouvez un clavier classique sur votre iPad en un clin d’œil",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un clavier d’iPad qui rétrécit, se déplace sur l’écran ou écrit dans la mauvaise disposition peut vite donner l’impression que tout a changé. Dans la plupart des cas, il suffit pourtant d’un geste ou d’un réglage pour retrouver un <strong>clavier virtuel classique, large et en AZERTY</strong>. Et si votre besoin est surtout de rédiger longtemps, un clavier physique bien choisi transforme réellement l’usage de la tablette."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un clavier devenu petit est généralement le <strong>clavier flottant</strong> : écartez deux doigts dessus pour le rétablir en grand format.",
+        "Un clavier coupé en deux peut être <strong>fusionné et ancré</strong> depuis la touche clavier, selon le modèle d’iPad et la version d’iPadOS.",
+        "Si les lettres ne correspondent pas aux touches, vérifiez d’abord la <strong>langue et la disposition</strong> sélectionnées, avant de suspecter une panne.",
+        "Pour écrire régulièrement, un clavier Bluetooth universel coûte moins cher ; un clavier dédié avec trackpad offre une expérience plus proche d’un ordinateur portable.",
+        "Ne confondez pas clavier virtuel, clavier matériel et mode dictée : chacun se règle à un endroit différent dans iPadOS."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que signifie « clavier classique » sur un iPad",
+      "id": "ce-que-signifie-clavier-classique-sur-un-ipad"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression peut désigner plusieurs situations. Le cas le plus fréquent est un clavier tactile qui n’occupe plus toute la largeur de l’écran : il est devenu petit, mobile et ressemble à un clavier de smartphone. Vous souhaitez alors récupérer le <strong>grand clavier virtuel ancré en bas de l’écran</strong>, avec ses touches plus espacées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez aussi vouloir retrouver un clavier en <strong>AZERTY français</strong> après un passage involontaire en QWERTY ou dans une autre langue. Enfin, si vous venez d’un ordinateur, « classique » peut tout simplement vouloir dire un vrai clavier avec des touches physiques. Le bon dépannage dépend donc de ce que vous voyez à l’écran et de votre usage final."
+    },
+    {
+      "type": "table",
+      "caption": "Identifier rapidement la situation rencontrée",
+      "headers": [
+        "Ce que vous constatez",
+        "Cause probable",
+        "Action prioritaire"
+      ],
+      "rows": [
+        [
+          "Petit clavier qui peut être déplacé",
+          "Clavier flottant activé",
+          "Écarter deux doigts sur le clavier ou le faire glisser vers le bas"
+        ],
+        [
+          "Deux moitiés de clavier à gauche et à droite",
+          "Clavier scindé",
+          "Utiliser l’option de fusion/ancrage si elle est disponible"
+        ],
+        [
+          "A produit Q, ponctuation inhabituelle",
+          "Disposition QWERTY ou autre langue",
+          "Changer la disposition dans les réglages de clavier"
+        ],
+        [
+          "Aucun clavier tactile lorsque vous tapez",
+          "Clavier physique connecté ou champ non éditable",
+          "Vérifier la connexion et toucher un champ de saisie"
+        ],
+        [
+          "Touches très petites malgré le grand format",
+          "Écran partagé, zoom ou orientation",
+          "Quitter le mode multitâche, changer l’orientation, vérifier l’affichage"
+        ]
+      ],
+      "note": "Les intitulés exacts peuvent légèrement varier selon votre version d’iPadOS et votre modèle d’iPad."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le geste qui résout le plus souvent le problème",
+      "html": "Si vous voyez un petit clavier flottant, posez <strong>deux doigts</strong> dessus et écartez-les, comme pour zoomer une image. Le clavier revient normalement à sa taille standard. Vous pouvez aussi le faire glisser vers le bas de l’écran pour le rattacher."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Remettre le clavier tactile en grand format",
+      "id": "remettre-le-clavier-tactile-en-grand-format"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par ouvrir une app qui accepte du texte, comme Notes, Mail ou un document, puis touchez une zone de saisie. Cette précaution paraît banale, mais elle évite de chercher un réglage alors que le clavier ne s’affiche pas simplement parce que l’élément touché n’est pas éditable."
+    },
+    {
+      "type": "steps",
+      "title": "Revenir au clavier large en quelques gestes",
+      "items": [
+        {
+          "title": "Repérez le format affiché",
+          "text": "Un clavier flottant est plus étroit que l’écran et peut être déplacé. Un clavier classique s’étend largement sur la partie basse de l’écran."
+        },
+        {
+          "title": "Agrandissez par pincement inversé",
+          "text": "Placez deux doigts sur le petit clavier et écartez-les. Ce geste restaure généralement le clavier complet immédiatement."
+        },
+        {
+          "title": "Ré-ancrez le clavier si nécessaire",
+          "text": "Faites glisser le petit clavier vers le bord inférieur de l’écran. Lorsqu’il se replace en bas, il retrouve son comportement habituel."
+        },
+        {
+          "title": "Fusionnez les deux parties",
+          "text": "Si le clavier est séparé, maintenez la touche représentant un clavier, lorsqu’elle est affichée, puis cherchez une commande de type « Fusionner » ou « Ancrer et fusionner ». Cette fonction dépend du modèle et de la version du système."
+        },
+        {
+          "title": "Fermez et rouvrez le clavier",
+          "text": "Touchez l’icône permettant de masquer le clavier, puis retouchez le champ de texte. Cela suffit parfois à réinitialiser son affichage dans l’app en cours."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le clavier flottant est utile pour répondre d’une main ou dégager une partie du contenu, mais il n’est pas idéal pour un texte long. Une fois rétabli, le clavier large permet une frappe à deux pouces plus régulière et donne accès plus confortablement aux chiffres, à la ponctuation et aux suggestions de mots."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Si le clavier reste coupé ou mal placé",
+      "id": "si-le-clavier-reste-coupe-ou-mal-place"
+    },
+    {
+      "type": "paragraph",
+      "html": "La fonction de clavier scindé n’est pas présente ni proposée de façon identique sur tous les iPad. Si une commande de fusion n’apparaît pas, ne forcez pas : essayez d’abord de redémarrer l’app, puis l’iPad si l’affichage reste anormal dans toutes les applications. Vérifiez aussi l’orientation : certaines interfaces changent notablement entre portrait et paysage."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Vérifications simples avant de redémarrer",
+      "items": [
+        "Quittez le mode d’écran partagé ou réduisez l’app ouverte en multitâche.",
+        "Tournez l’iPad en paysage : le clavier tactile sera plus large et moins encombrant.",
+        "Déconnectez temporairement un clavier Bluetooth ou un étui-clavier : le clavier tactile peut rester masqué lorsqu’un périphérique matériel est actif.",
+        "Testez dans Notes plutôt que dans une seule application, afin de savoir si le problème est général.",
+        "Installez les mises à jour d’iPadOS proposées après avoir effectué une sauvegarde habituelle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Retrouver un AZERTY français et les bons caractères",
+      "id": "retrouver-un-azerty-francais-et-les-bons-caracteres"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un problème de « clavier classique » est parfois en réalité un problème de langue. Si vous tapez A et voyez Q, votre iPad utilise probablement une disposition de type QWERTY. Si les lettres sont correctes mais que l’apostrophe, les accents ou les symboles ne sont pas là où vous les attendez, plusieurs dispositions françaises peuvent coexister."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les réglages de l’iPad, ouvrez la rubrique consacrée à <strong>Général</strong>, puis au <strong>Clavier</strong> et aux claviers configurés. Ajoutez ou sélectionnez le français avec la disposition qui vous convient. Sur le clavier à l’écran, le bouton de changement de langue, souvent représenté par un globe ou une touche équivalente, permet ensuite de basculer entre les claviers installés."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le piège du clavier matériel",
+      "html": "Le réglage du clavier tactile ne pilote pas toujours votre clavier Bluetooth ou votre étui-clavier. Pour un clavier physique, cherchez les <strong>réglages de clavier matériel</strong> dans iPadOS et contrôlez séparément la disposition choisie. C’est la raison classique d’un clavier visuellement en français qui tape pourtant en QWERTY."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez d’installer un grand nombre de claviers tiers uniquement pour corriger une disposition. Chaque clavier supplémentaire peut compliquer le basculement et demande une attention particulière aux autorisations, notamment si l’app réclame un accès étendu. Pour la rédaction quotidienne en français, le clavier Apple intégré, correctement paramétré, est le choix le plus simple et le plus prudent."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Clavier tactile ou clavier physique : lequel est vraiment adapté ?",
+      "id": "clavier-tactile-ou-clavier-physique-lequel-est-vraiment-adap"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le grand clavier tactile convient très bien aux messages, aux recherches, aux légendes de photos et aux retouches ponctuelles d’un document. Il ne demande aucun achat, ne prend aucune place et reste toujours disponible. En revanche, il masque une part importante de l’écran et fatigue davantage sur une longue session de frappe."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux manières de retrouver une frappe classique",
+      "left": {
+        "title": "Grand clavier tactile",
+        "points": [
+          "Aucun accessoire ni batterie à gérer.",
+          "Disponible immédiatement dans toutes les apps de saisie.",
+          "Idéal pour les réponses courtes et l’usage nomade léger.",
+          "Occupe une partie de l’écran et offre peu de raccourcis directs.",
+          "Moins convaincant pour plusieurs pages de texte."
+        ]
+      },
+      "right": {
+        "title": "Clavier physique",
+        "points": [
+          "Touches, raccourcis et souvent trackpad pour travailler plus vite.",
+          "Libère l’écran pendant la rédaction.",
+          "Mieux adapté aux e-mails, études, comptes rendus et tableaux.",
+          "Ajoute poids, encombrement et budget.",
+          "Doit être chargé ou connecté selon le modèle."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Ce qu’apporte un clavier physique à l’iPad",
+      "pros": [
+        "Confort de frappe supérieur pour des textes longs ou fréquents.",
+        "Raccourcis de copie, recherche, navigation et changement d’app plus rapides.",
+        "Meilleure posture : l’écran peut être placé plus haut avec un support.",
+        "Un trackpad intégré limite les allers-retours entre touches et écran tactile.",
+        "Peut donner à l’iPad un usage très proche d’un ordinateur portable."
+      ],
+      "cons": [
+        "Coût supplémentaire, particulièrement pour les modèles dédiés avec trackpad.",
+        "Poids et volume qui réduisent la légèreté de la tablette.",
+        "Compatibilité, disposition et recharge à vérifier avant l’achat.",
+        "Les étuis-claviers sont souvent liés à une taille et une génération précises d’iPad.",
+        "Un modèle bon marché peut avoir des touches bruyantes, instables ou une disposition inadaptée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir un clavier externe sans se tromper",
+      "id": "choisir-un-clavier-externe-sans-se-tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il existe trois grandes familles. Le clavier Bluetooth universel est le plus flexible : vous le posez sur un bureau, l’associez à l’iPad et pouvez souvent le réutiliser avec un téléphone ou un ordinateur. Le clavier-étui est plus intégré : il protège la tablette et se transporte facilement, mais il faut une compatibilité exacte. Enfin, le clavier avec trackpad vise les personnes qui souhaitent remplacer le plus possible les gestes tactiles par une navigation de type ordinateur."
+    },
+    {
+      "type": "table",
+      "caption": "Quel type de clavier pour quel usage ?",
+      "headers": [
+        "Solution",
+        "Budget habituel",
+        "Pour qui ?",
+        "Points de vigilance"
+      ],
+      "rows": [
+        [
+          "Clavier Bluetooth compact",
+          "Environ quelques dizaines d’euros à une centaine d’euros",
+          "Usage occasionnel, domicile, déplacements légers",
+          "Disposition française, autonomie, stabilité du support séparé"
+        ],
+        [
+          "Clavier Bluetooth pleine taille",
+          "De l’ordre de plusieurs dizaines d’euros à un peu plus d’une centaine",
+          "Bureau, longues rédactions, tableur",
+          "Encombrement, pavé numérique rarement utile avec un iPad mobile"
+        ],
+        [
+          "Étui-clavier dédié",
+          "Souvent autour d’une centaine d’euros ou davantage",
+          "Cours, réunions, mobilité quotidienne",
+          "Compatibilité exacte avec taille, génération et emplacement des connecteurs"
+        ],
+        [
+          "Étui-clavier avec trackpad",
+          "Généralement dans une tranche plus élevée",
+          "Usage productif intensif et navigation fréquente",
+          "Poids total, angle d’ouverture, confort sur les genoux"
+        ],
+        [
+          "Clavier filaire via adaptateur",
+          "Budget variable selon l’adaptateur",
+          "Poste fixe ou matériel déjà possédé",
+          "Connectique, alimentation et mobilité limitée"
+        ]
+      ],
+      "note": "Ces montants sont des ordres de grandeur : les matériaux, le trackpad, le rétroéclairage et la marque font beaucoup varier le prix."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "0 €",
+          "label": "pour restaurer et régler le clavier virtuel intégré"
+        },
+        {
+          "value": "1 minute",
+          "label": "suffit généralement pour repasser d’un clavier flottant au format large"
+        },
+        {
+          "value": "10–11 pouces",
+          "label": "format d’iPad courant où un clavier compact reste particulièrement mobile"
+        },
+        {
+          "value": "2 équipements",
+          "label": "à vérifier ensemble : l’iPad et le clavier-étui doivent être compatibles au modèle près"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les critères qui comptent davantage que le design",
+      "id": "les-criteres-qui-comptent-davantage-que-le-design"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant le rétroéclairage ou la couleur, vérifiez la <strong>disposition ISO française</strong> : la présence d’un vrai AZERTY, d’une touche Entrée de forme adaptée et des caractères français vous évitera des frustrations quotidiennes. Contrôlez ensuite la référence exacte de votre iPad dans Réglages, rubrique Général puis Informations. La diagonale ne suffit pas : deux tablettes de même taille peuvent avoir une épaisseur, un module photo ou un connecteur qui rendent un étui incompatible."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist avant achat",
+      "items": [
+        "Notez le modèle et la génération exacte de votre iPad, pas seulement sa taille d’écran.",
+        "Exigez une disposition française si vous écrivez régulièrement des accents, guillemets et symboles.",
+        "Choisissez Bluetooth pour la polyvalence ; choisissez un étui dédié pour le transport intégré.",
+        "Testez ou consultez la course des touches, leur espacement et la rigidité du support.",
+        "Pesez l’ensemble iPad + étui : un clavier protecteur peut modifier fortement le confort de transport.",
+        "Vérifiez le mode de recharge et, pour un modèle Bluetooth, l’autonomie annoncée comme simple repère.",
+        "Pour travailler sur les genoux, privilégiez une charnière stable plutôt qu’un support pliable minimaliste."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "L’achat raisonnable selon votre rythme",
+      "html": "Pour quelques messages et un e-mail de temps en temps, le clavier virtuel large est gratuit et suffisant. Si vous rédigez chaque semaine plusieurs pages, un <strong>clavier Bluetooth AZERTY compact</strong> offre souvent le meilleur rapport utilité-prix. Un étui avec trackpad se justifie surtout si l’iPad remplace régulièrement votre ordinateur portable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gagner du temps avec les réglages et raccourcis utiles",
+      "id": "gagner-du-temps-avec-les-reglages-et-raccourcis-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un clavier physique n’est rentable que si vous exploitez les raccourcis d’iPadOS. Dans la plupart des apps, la touche Commande permet d’afficher les raccourcis disponibles en la maintenant enfoncée. Vous y retrouverez souvent la recherche, le copier-coller, l’annulation, la création d’un nouveau document ou le changement d’onglet. Les raccourcis proposés peuvent varier selon l’application, mais ce réflexe est universel et facile à adopter."
+    },
+    {
+      "type": "paragraph",
+      "html": "Activez aussi les fonctions de correction, de prédiction et de remplacement de texte selon votre manière d’écrire. Les remplacements sont particulièrement pratiques pour une adresse e-mail, des coordonnées, une formule de politesse ou un terme récurrent : vous tapez une courte abréviation et iPadOS insère le texte complet. Gardez toutefois des abréviations qui ne peuvent pas apparaître par accident dans une phrase normale."
+    },
+    {
+      "type": "steps",
+      "title": "Mettre en place une frappe efficace",
+      "items": [
+        {
+          "title": "Réglez une seule disposition principale",
+          "text": "Conservez le français AZERTY en priorité et retirez les dispositions inutilisées si vous basculez trop souvent par erreur."
+        },
+        {
+          "title": "Personnalisez les remplacements de texte",
+          "text": "Créez quelques raccourcis courts pour les formulations répétitives, sans multiplier les codes difficiles à mémoriser."
+        },
+        {
+          "title": "Apprenez les commandes de base",
+          "text": "Avec un clavier physique, commencez par copier, coller, annuler, rechercher et changer d’application avant de retenir des raccourcis plus avancés."
+        },
+        {
+          "title": "Ajustez votre installation",
+          "text": "Sur un bureau, placez l’iPad sur un support à hauteur de regard et le clavier devant vous. Cette disposition est plus confortable que l’écran posé à plat."
+        },
+        {
+          "title": "Gardez la dictée comme complément",
+          "text": "La dictée peut accélérer un premier jet, mais relisez systématiquement les noms propres, chiffres, négations et ponctuation. Elle ne remplace pas toujours un clavier pour une correction précise."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dépanner un clavier qui ne s’affiche pas ou qui se déconnecte",
+      "id": "depanner-un-clavier-qui-ne-s-affiche-pas-ou-qui-se-deconnect"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque vous connectez un clavier externe, l’iPad peut masquer automatiquement son clavier virtuel. Ce comportement est normal : il laisse davantage de place au contenu. Si vous avez besoin ponctuellement du clavier à l’écran, recherchez dans l’interface une icône de clavier, souvent placée dans une barre inférieure ou un menu de saisie. L’emplacement dépend de l’app utilisée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un clavier Bluetooth qui ne répond plus, commencez par vérifier sa charge et son interrupteur, puis ouvrez les réglages Bluetooth de l’iPad. Si le périphérique est indiqué comme non connecté, rapprochez-le, désactivez puis réactivez le Bluetooth, et relancez l’association si besoin. Oublier le périphérique puis le jumeler de nouveau est souvent plus efficace qu’une succession d’essais aléatoires."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les erreurs à éviter",
+      "id": "les-erreurs-a-eviter"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Acheter un étui-clavier en se fondant uniquement sur la taille « 11 pouces » sans contrôler la génération exacte de l’iPad.",
+        "Attribuer un mauvais AZERTY à une panne matérielle alors que seule la disposition du clavier a changé.",
+        "Forcer la charnière d’un étui qui ne semble pas s’aligner : il est peut-être incompatible.",
+        "Laisser un clavier Bluetooth inutilisé allumé dans un sac, ce qui vide sa batterie et peut déclencher des touches involontaires.",
+        "Nettoyer les touches avec un produit trop humide ou agressif : un chiffon doux très légèrement humidifié, iPad et clavier éteints, est préférable.",
+        "Installer des claviers tiers avec accès étendu sans vérifier leurs permissions et leur politique de confidentialité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretenir son clavier et préserver son confort",
+      "id": "entretenir-son-clavier-et-preserver-son-confort"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le clavier virtuel ne demande pas d’entretien matériel, mais son efficacité dépend d’un écran propre : traces grasses et poussières peuvent gêner la précision tactile. Utilisez un chiffon microfibre sec ou à peine humidifié, sans pulvériser directement de liquide sur l’iPad. Pour un clavier physique, retirez régulièrement les poussières entre les touches et rechargez-le avant un déplacement important plutôt que d’attendre la panne."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté ergonomie, le meilleur réglage n’est pas toujours le plus compact. Pour une session de plus de quelques dizaines de minutes, évitez de garder la tête penchée sur l’écran. Un simple support et un clavier Bluetooth séparé offrent souvent une position plus saine qu’un étui-clavier posé sur les genoux. À l’inverse, pour prendre des notes debout ou dans un train, le clavier tactile restauré en grand format reste la solution la plus immédiate et la moins encombrante."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La bonne stratégie",
+      "html": "Réparez d’abord l’affichage : un clavier flottant ou une mauvaise langue ne nécessite aucun achat. N’investissez dans un clavier physique que si votre volume de rédaction, vos raccourcis et votre posture justifient réellement le poids et le budget supplémentaires."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le clavier classique de l’iPad",
+      "items": [
+        {
+          "q": "Comment remettre le grand clavier sur mon iPad ?",
+          "a": "Ouvrez un champ de texte. Si le clavier est petit et mobile, posez deux doigts dessus et écartez-les pour l’agrandir. Vous pouvez aussi le faire glisser vers le bas de l’écran afin de le rattacher. Si le clavier est séparé en deux, cherchez une commande de fusion depuis l’icône de clavier, lorsqu’elle est proposée sur votre iPad."
+        },
+        {
+          "q": "Pourquoi mon iPad écrit-il en QWERTY alors que je veux de l’AZERTY ?",
+          "a": "La disposition sélectionnée a probablement changé. Dans les réglages, ouvrez les options de clavier et vérifiez que le français AZERTY est choisi. Avec un clavier externe, contrôlez aussi les réglages de clavier matériel : ils peuvent être distincts de ceux du clavier tactile."
+        },
+        {
+          "q": "Pourquoi le clavier à l’écran ne s’affiche-t-il plus avec mon clavier Bluetooth ?",
+          "a": "C’est souvent normal : iPadOS masque le clavier virtuel lorsqu’un clavier physique est connecté. Vous pouvez généralement l’afficher ponctuellement depuis une icône de clavier dans l’app. Vérifiez aussi que vous avez bien touché une zone de texte éditable."
+        },
+        {
+          "q": "Un clavier Bluetooth est-il compatible avec tous les iPad ?",
+          "a": "En règle générale, un clavier Bluetooth standard peut être associé à un iPad compatible Bluetooth. En revanche, les fonctions, la disposition et les raccourcis peuvent varier. Les étuis-claviers dédiés exigent une vérification beaucoup plus stricte : modèle, génération, taille, connecteurs et découpe de l’appareil photo doivent correspondre exactement."
+        },
+        {
+          "q": "Faut-il choisir un clavier avec trackpad pour un iPad ?",
+          "a": "Ce n’est pas indispensable. Un clavier sans trackpad suffit pour écrire et utiliser les raccourcis. Le trackpad devient intéressant si vous travaillez souvent dans des documents, jonglez entre plusieurs apps ou souhaitez toucher l’écran le moins possible. Il augmente toutefois généralement le prix et le poids de l’ensemble."
+        },
+        {
+          "q": "Comment nettoyer un clavier d’iPad ou un clavier externe ?",
+          "a": "Éteignez ou déconnectez le périphérique, puis utilisez un chiffon microfibre doux et à peine humidifié si nécessaire. Ne vaporisez jamais de liquide directement sur les touches ou l’écran. Pour un clavier physique, retirez les miettes et poussières avec précaution, sans insérer d’objet sous les touches."
+        }
+      ]
+    }
+  ]
+}

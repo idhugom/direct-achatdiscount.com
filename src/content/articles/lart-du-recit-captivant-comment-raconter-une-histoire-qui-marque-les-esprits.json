@@ -1,0 +1,433 @@
+{
+  "title": "L’art du récit captivant : comment raconter une histoire qui marque les esprits",
+  "slug": "lart-du-recit-captivant-comment-raconter-une-histoire-qui-marque-les-esprits",
+  "path": "/divers/lart-du-recit-captivant-comment-raconter-une-histoire-qui-marque-les-esprits.html",
+  "category": "loisirs",
+  "tags": [
+    "storytelling",
+    "récit",
+    "prise de parole",
+    "écriture",
+    "narration",
+    "communication"
+  ],
+  "excerpt": "Une méthode concrète pour bâtir, raconter et affiner une histoire qui retient l’attention, suscite l’émotion et reste en mémoire.",
+  "metaDescription": "Apprenez à construire un récit captivant : accroche, conflit, personnages, rythme et réécriture pour marquer durablement votre public.",
+  "seoTitle": "Récit captivant : raconter une histoire mémorable",
+  "heroKicker": "Storytelling efficace",
+  "readingTime": 13,
+  "date": "2023-11-05T07:43:36",
+  "image": {
+    "id": "1245",
+    "alt": "L’art du récit captivant : comment raconter une histoire qui marque les esprits",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une histoire ne marque pas les esprits parce qu’elle est longue, spectaculaire ou parfaitement vraie : elle marque parce qu’elle fait vivre un changement à quelqu’un, pour une raison que le public comprend. Que vous écriviez un texte, prépariez une présentation, racontiez un souvenir ou défendiez un projet, un récit captivant se construit avec méthode."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un récit mémorable repose sur une <strong>transformation claire</strong> : quelqu’un veut quelque chose, rencontre un obstacle et n’en ressort pas tout à fait identique.",
+        "Commencez par une scène, une tension ou une question concrète ; évitez les longues introductions explicatives.",
+        "Sélectionnez les détails qui font sentir l’enjeu au lieu de tout raconter dans l’ordre.",
+        "Adaptez le niveau de détail, le rythme et la conclusion à votre public et au contexte de diffusion.",
+        "Réécrire consiste surtout à couper ce qui n’alimente ni l’émotion, ni la compréhension, ni l’avancée du récit."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi certaines histoires restent-elles en mémoire ?",
+      "id": "pourquoi-certaines-histoires-restent-elles-en-memoire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un récit capte l’attention lorsqu’il donne au public une question à suivre : <em>que va-t-il se passer, et pourquoi cela compte-t-il ?</em> Cette question peut naître d’un danger, d’un choix difficile, d’un désir contrarié, d’une surprise ou d’une promesse. Sans attente ni enjeu, vous transmettez peut-être une information utile, mais vous ne créez pas encore une expérience de récit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le cerveau ne retient pas seulement des faits : il organise volontiers les événements autour de causes, de conséquences et d’émotions. Une histoire permet donc de rendre une idée abstraite concrète. Au lieu de dire qu’un service client doit être réactif, vous pouvez montrer une personne bloquée juste avant une échéance, puis le geste précis qui lui permet d’avancer. L’idée devient visible, située et plus facile à mémoriser."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1",
+          "label": "idée directrice : un bon récit peut souvent se résumer en une phrase simple."
+        },
+        {
+          "value": "1 à 2",
+          "label": "personnages vraiment suivis suffisent généralement dans un récit court."
+        },
+        {
+          "value": "3 à 5",
+          "label": "temps forts bien choisis donnent déjà une structure solide à la plupart des anecdotes."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Partir d’une intention plutôt que d’un événement",
+      "id": "partir-d-une-intention-plutot-que-d-un-evenement"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’erreur classique consiste à commencer par ce qui s’est passé, puis à espérer que cela devienne intéressant. Faites l’inverse : définissez d’abord ce que votre public doit comprendre, ressentir ou avoir envie de faire à la fin. Votre histoire devient alors un choix éditorial, pas un compte rendu exhaustif."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Formulez votre promesse narrative",
+      "id": "formulez-votre-promesse-narrative"
+    },
+    {
+      "type": "paragraph",
+      "html": "Écrivez une phrase de travail : « Cette histoire montre que… » ou « À la fin, je veux que le public réalise que… ». Elle n’est pas forcément destinée à être prononcée. Elle sert de filtre : si un détail n’éclaire pas cette promesse, ne crée pas d’atmosphère ou ne fait pas progresser l’action, il mérite d’être raccourci ou supprimé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Par exemple, un récit professionnel ne consiste pas à prouver que votre équipe a beaucoup travaillé. Sa promesse peut être : « Une contrainte apparemment bloquante nous a forcés à écouter autrement les utilisateurs. » Cette formulation annonce un changement et un apprentissage. Elle est bien plus narrative que « Nous avons mené un projet complexe pendant plusieurs mois »."
+    },
+    {
+      "type": "table",
+      "caption": "Les éléments qui transforment un fait en récit",
+      "headers": [
+        "Élément",
+        "Question à vous poser",
+        "Effet sur le public",
+        "Erreur fréquente"
+      ],
+      "rows": [
+        [
+          "Personnage ou point de vue",
+          "Qui vit réellement cette situation ?",
+          "Il permet l’identification et donne une échelle humaine.",
+          "Parler d’un groupe abstrait sans visage ni regard."
+        ],
+        [
+          "Désir ou objectif",
+          "Que cherche-t-il à obtenir, éviter ou comprendre ?",
+          "Il donne une direction à l’histoire.",
+          "Commencer sans expliquer ce qui est en jeu."
+        ],
+        [
+          "Obstacle",
+          "Qu’est-ce qui complique le chemin ?",
+          "Il crée la tension qui retient l’attention.",
+          "Confondre difficulté et accumulation de péripéties."
+        ],
+        [
+          "Choix",
+          "Quelle décision révèle le personnage ?",
+          "Il donne du sens et montre une personnalité.",
+          "Faire subir les événements à un héros passif."
+        ],
+        [
+          "Bascule",
+          "Quel moment modifie la situation ?",
+          "Il produit surprise, soulagement ou prise de conscience.",
+          "Révéler la conclusion avant d’avoir créé l’attente."
+        ],
+        [
+          "Retombée",
+          "Qu’est-ce qui a changé, concrètement ?",
+          "Elle fixe le sens et la mémoire du récit.",
+          "Finir brusquement dès que le problème est résolu."
+        ]
+      ],
+      "note": "Vous n’avez pas besoin de tout développer avec la même intensité : dans un récit court, un objectif très clair et un seul obstacle fort valent mieux que plusieurs sous-intrigues."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Construire une trame qui crée de la tension",
+      "id": "construire-une-trame-qui-cree-de-la-tension"
+    },
+    {
+      "type": "paragraph",
+      "html": "La structure n’est pas une cage. C’est un moyen de hiérarchiser les informations pour éviter que votre public se perde. Dans sa forme la plus utile, elle suit une progression : une situation identifiable, un élément perturbateur, des tentatives, un moment décisif et une conséquence. Cette logique s’applique autant à une histoire personnelle de deux minutes qu’à un article ou une conférence."
+    },
+    {
+      "type": "steps",
+      "title": "Une trame en cinq mouvements, simple à adapter",
+      "items": [
+        {
+          "title": "Installez une situation précise",
+          "text": "Ancrez le récit dans un lieu, un moment ou une action. Donnez juste assez de contexte pour que le public sache où il est et ce qui paraît normal au départ."
+        },
+        {
+          "title": "Faites surgir l’élément perturbateur",
+          "text": "Quelque chose résiste : une erreur, une absence, un imprévu, une contradiction, une peur ou un délai. Arrivez-y vite ; c’est le moteur de l’attention."
+        },
+        {
+          "title": "Montrez les tentatives et leurs conséquences",
+          "text": "Ne résumez pas immédiatement la solution. Sélectionnez une ou deux actions qui révèlent l’incertitude, l’effort ou le dilemme."
+        },
+        {
+          "title": "Placez le choix ou la découverte décisive",
+          "text": "Le point culminant est souvent un geste, une phrase, une décision ou une information qui oblige à voir la situation autrement."
+        },
+        {
+          "title": "Concluez sur le changement",
+          "text": "Dites ou montrez ce qui est différent maintenant. Reliez cette retombée à l’idée directrice, sans transformer la fin en leçon pesante."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La tension ne signifie pas forcément le drame",
+      "html": "Un conflit peut être discret : oser demander de l’aide, renoncer à une solution confortable, comprendre une erreur, tenir une promesse ou prendre une décision sous contrainte. Ce qui compte est l’existence d’un <strong>risque de perte</strong> ou d’un coût : temps, confiance, sécurité, confort, réputation, relation ou occasion manquée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir le bon point de vue et des personnages crédibles",
+      "id": "choisir-le-bon-point-de-vue-et-des-personnages-credibles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un public ne s’attache pas à une fiche descriptive, mais à une personne qui perçoit, espère et agit. Même dans un récit d’entreprise, un tutoriel ou un témoignage, cherchez le point de vue le plus proche de l’enjeu : un client, un collaborateur, un usager, un parent, un élève ou vous-même. Nul besoin que le protagoniste soit héroïque ; il doit être compréhensible."
+    },
+    {
+      "type": "paragraph",
+      "html": "Donnez-lui un désir précis et une contradiction. Il veut réussir son entretien, mais il redoute de paraître prétentieux. Elle veut aider une cliente, mais elle manque d’informations. Cette friction intérieure évite les personnages trop lisses. Ajoutez ensuite deux ou trois détails concrets, significatifs et vérifiables : une habitude, une phrase entendue, un objet, un geste. Le détail juste crée une présence ; le catalogue de détails ralentit le récit."
+    },
+    {
+      "type": "comparison",
+      "title": "Raconter par une idée ou par une personne : quel point de départ choisir ?",
+      "left": {
+        "title": "Récit centré sur une idée",
+        "points": [
+          "Adapté à une conférence, un article pédagogique ou une démonstration.",
+          "L’idée directrice est annoncée tôt et chaque scène vient l’éclairer.",
+          "Exige des exemples concrets pour ne pas devenir un exposé abstrait.",
+          "Efficace si votre public cherche d’abord une méthode ou une décision à prendre."
+        ]
+      },
+      "right": {
+        "title": "Récit centré sur une personne",
+        "points": [
+          "Adapté à un témoignage, une vidéo, une campagne ou une prise de parole émotionnelle.",
+          "Le public suit d’abord un objectif humain, puis en tire le sens.",
+          "Exige de respecter les faits, la dignité et le consentement des personnes concernées.",
+          "Efficace si vous devez faire ressentir les conséquences réelles d’un sujet."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Accrocher dès les premières phrases sans manipuler",
+      "id": "accrocher-des-les-premieres-phrases-sans-manipuler"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre début n’a pas pour mission de tout expliquer. Il doit créer une orientation et une curiosité honnête. Ouvrez de préférence au plus près du moment où la situation devient intéressante : juste avant l’appel décisif, devant l’écran qui affiche une erreur, au moment d’entrer dans une salle, ou lorsque le personnage réalise que quelque chose ne va pas. Vous pourrez compléter le contexte ensuite, au moment où il devient nécessaire."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Des ouvertures qui donnent envie de poursuivre",
+      "items": [
+        "Commencez par une <strong>scène</strong> : « Il restait quelques minutes avant la fermeture quand le dossier a disparu de l’écran. »",
+        "Ouvrez par une <strong>anomalie</strong> : une situation qui contredit ce que l’on attendait normalement.",
+        "Posez une <strong>question implicite</strong> : montrez un problème dont l’issue n’est pas encore connue.",
+        "Utilisez une phrase entendue si elle révèle un enjeu réel ; ne l’inventez pas pour la rendre plus spectaculaire.",
+        "Placez le contexte après l’accroche, en une ou deux informations utiles plutôt qu’en préambule détaillé."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez cependant les promesses disproportionnées. Une accroche qui annonce « le secret qui a tout changé » pour aboutir à une conclusion banale abîme la confiance. L’objectif n’est pas de piéger le lecteur ou l’auditoire, mais de lui faire comprendre rapidement pourquoi les minutes qui suivent méritent son attention."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Donner du relief avec les détails, le rythme et les silences",
+      "id": "donner-du-relief-avec-les-details-le-rythme-et-les-silences"
+    },
+    {
+      "type": "paragraph",
+      "html": "La vivacité d’un récit vient moins des adjectifs que des éléments observables. Préférez « elle a relu trois fois le message sans cliquer sur envoyer » à « elle était très anxieuse ». Le premier exemple laisse le public déduire l’émotion. Alternez également les phrases courtes pour les moments de bascule et les phrases plus amples pour installer une ambiance ou expliquer une conséquence."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Montrer, expliquer, puis respirer",
+      "id": "montrer-expliquer-puis-respirer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le principe « montrer plutôt que dire » est utile, mais ne doit pas devenir une règle rigide. Une scène donne de la chair ; une explication brève aide à comprendre ; une pause permet au sens de se déposer. Dans une présentation orale, un silence après une information importante vaut souvent mieux qu’une phrase supplémentaire. À l’écrit, un paragraphe court peut remplir cette fonction."
+    },
+    {
+      "type": "proscons",
+      "title": "Improviser ou préparer son récit ?",
+      "pros": [
+        "<strong>Improviser</strong> préserve la spontanéité, facilite l’adaptation aux réactions du public et convient aux anecdotes que vous maîtrisez intimement.",
+        "<strong>Préparer une trame</strong> évite les digressions, protège le rythme et aide à placer une conclusion claire.",
+        "Un plan léger laisse de la place à une formulation naturelle tout en conservant les étapes indispensables."
+      ],
+      "cons": [
+        "L’improvisation complète conduit facilement à trop de contexte, à des répétitions et à une chute oubliée.",
+        "Un texte appris mot à mot peut paraître figé et rend plus difficile l’adaptation à une question ou à une interruption.",
+        "Une recherche excessive d’effets de style peut détourner l’attention de l’expérience racontée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adapter la longueur et le format au contexte",
+      "id": "adapter-la-longueur-et-le-format-au-contexte"
+    },
+    {
+      "type": "paragraph",
+      "html": "La même histoire ne se raconte pas de la même façon dans un dîner, une vidéo, une réunion ou une page de vente. Conservez le noyau — objectif, obstacle, bascule, résultat — et modifiez la quantité de contexte, le vocabulaire et le niveau de preuve. Un récit oral supporte la voix, le regard et les silences ; un texte a besoin de repères plus explicites ; une vidéo doit rendre l’action intelligible même si l’attention est fragmentée."
+    },
+    {
+      "type": "table",
+      "caption": "Adapter votre récit sans perdre son noyau",
+      "headers": [
+        "Format",
+        "Priorité",
+        "Préparation recommandée",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Anecdote orale courte",
+          "Une scène et une chute nette.",
+          "Mémorisez les cinq temps, pas chaque phrase.",
+          "Ne transformez pas une réponse simple en biographie complète."
+        ],
+        [
+          "Présentation professionnelle",
+          "Relier l’expérience à une décision ou à un enseignement.",
+          "Préparez l’accroche, les données indispensables et la dernière phrase.",
+          "N’utilisez pas l’émotion pour masquer l’absence de solution concrète."
+        ],
+        [
+          "Article ou newsletter",
+          "Guider la lecture avec une progression visible.",
+          "Préparez un plan, des transitions et des exemples vérifiés.",
+          "Évitez les paragraphes qui répètent la même idée avec d’autres mots."
+        ],
+        [
+          "Vidéo ou audio",
+          "Faire comprendre rapidement le contexte et l’enjeu.",
+          "Écrivez une trame séquencée et testez le temps à voix haute.",
+          "Compensez l’absence de visuel ou de ton par des repères précis."
+        ],
+        [
+          "Récit personnel sensible",
+          "Préserver la justesse et le respect des personnes.",
+          "Délimitez ce que vous pouvez raconter publiquement.",
+          "Ne partagez pas de détails identifiants ou intimes sans consentement."
+        ]
+      ],
+      "note": "La durée utile dépend du public et du canal. Coupez d’abord les explications périphériques, jamais les éléments qui permettent de comprendre l’enjeu ou la bascule."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Testez votre récit en une phrase",
+      "html": "Avant de le finaliser, demandez-vous : « Si je devais raconter cette histoire à quelqu’un dans un ascenseur, quel changement lui ferais-je comprendre ? » Si la réponse reste floue, votre objectif, votre obstacle ou votre conclusion doivent être resserrés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réécrire : l’étape qui fait passer d’une bonne idée à un bon récit",
+      "id": "reecrire-l-etape-qui-fait-passer-d-une-bonne-idee-a-un-bon-r"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier jet sert à retrouver la matière. La réécriture sert à faire de la place au public. Relisez votre histoire en cherchant les moments où l’attention peut tomber : contexte trop long, personnages introduits sans utilité, transitions mécaniques, phrases qui expliquent ce que la scène a déjà montré, ou conclusion qui répète lourdement la morale."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La grille de révision avant de publier ou de prendre la parole",
+      "items": [
+        "Le public comprend-il rapidement <strong>qui</strong> vit la situation et ce qu’il cherche ?",
+        "L’obstacle a-t-il une conséquence suffisamment concrète pour justifier l’attention ?",
+        "Chaque scène modifie-t-elle la situation, apporte-t-elle une information ou révèle-t-elle une émotion utile ?",
+        "Les détails sont-ils précis, mais non envahissants ?",
+        "La conclusion montre-t-elle ce qui a changé au lieu de simplement annoncer « la leçon » ?",
+        "Les faits, citations et situations sensibles ont-ils été vérifiés ou anonymisés si nécessaire ?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Lisez ensuite à voix haute, même pour un texte destiné à être lu. Les répétitions, les longueurs et les formulations artificielles s’entendent immédiatement. Si vous racontez devant un public, entraînez-vous avec une personne qui ne connaît pas l’histoire : demandez-lui non pas si elle l’a aimée, mais ce qu’elle a compris, à quel moment elle a décroché et ce qu’elle retient le lendemain."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui affaiblissent le plus un récit",
+      "id": "les-erreurs-qui-affaiblissent-le-plus-un-recit"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de confondre chronologie et narration. « Puis, ensuite, après » ne suffisent pas à créer une progression : le public doit percevoir les liens entre les événements. La deuxième est de vouloir tout conserver par peur de trahir l’expérience. Raconter n’est pas falsifier ; c’est choisir un angle et des éléments pertinents. Enfin, méfiez-vous de la morale plaquée. Une bonne fin laisse une idée forte émerger des faits et du changement observé."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’émotion exige de la responsabilité",
+      "html": "N’exagérez pas un témoignage, n’inventez pas de dialogue et ne simplifiez pas une personne réelle jusqu’à la caricature. Si votre récit porte sur un échec, une maladie, un deuil, une relation ou un conflit professionnel, obtenez les accords nécessaires et retirez les détails identifiants. La confiance gagnée par une histoire juste vaut davantage qu’un effet dramatique immédiat."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trouver votre matière : anecdotes, expériences et alternatives",
+      "id": "trouver-votre-matiere-anecdotes-experiences-et-alternatives"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pensez peut-être ne pas avoir d’histoires à raconter. En réalité, la matière se cache souvent dans les micro-basculements : un malentendu résolu, une première tentative ratée, une question d’enfant, un objet retrouvé, une décision reportée, une habitude changée. Tenez une note d’observation avec le contexte, l’enjeu, une phrase marquante et ce qui a changé. Après quelques semaines, vous disposerez d’une réserve bien plus utile qu’une liste de sujets abstraits."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous ne pouvez pas raconter une expérience personnelle, utilisez une étude de cas anonymisée, une situation composite clairement présentée comme telle, une démonstration pas à pas ou une analogie. Ces alternatives restent efficaces à condition de ne pas les faire passer pour un témoignage réel. Le récit captivant n’est pas l’art d’enjoliver : c’est l’art de rendre une vérité, une idée ou une expérience suffisamment claire pour qu’elle puisse être ressentie et retenue."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’art du récit captivant",
+      "items": [
+        {
+          "q": "Faut-il avoir vécu une aventure exceptionnelle pour raconter une histoire intéressante ?",
+          "a": "Non. Un récit intéressant repose sur un enjeu identifiable et un changement, pas sur l’ampleur spectaculaire de l’événement. Une difficulté quotidienne, un choix inconfortable ou une prise de conscience peuvent être très forts s’ils sont racontés avec précision."
+        },
+        {
+          "q": "Quelle longueur idéale pour une bonne histoire ?",
+          "a": "Il n’existe pas de durée universelle. Gardez seulement les éléments nécessaires pour comprendre la situation, ressentir l’obstacle et voir la bascule. Une anecdote peut tenir en quelques phrases ; un récit complexe peut demander plusieurs pages. La bonne longueur est celle qui ne laisse aucun passage sans fonction."
+        },
+        {
+          "q": "Comment raconter une histoire quand je suis timide ou peu à l’aise à l’oral ?",
+          "a": "Préparez une trame de mots-clés plutôt qu’un texte intégral : situation, objectif, obstacle, choix, résultat. Répétez à voix haute dans un cadre rassurant et commencez par des récits courts. Votre calme, vos pauses et votre précision comptent davantage qu’une performance théâtrale."
+        },
+        {
+          "q": "Peut-on utiliser une histoire dans une présentation professionnelle sans paraître peu sérieux ?",
+          "a": "Oui, si elle sert une décision, un apprentissage ou un besoin concret. Choisissez une situation vérifiable, allez rapidement à l’enjeu et complétez-la par les informations nécessaires. L’histoire ne remplace pas les preuves ; elle leur donne un contexte humain et mémorable."
+        },
+        {
+          "q": "Comment finir une histoire de façon marquante ?",
+          "a": "Revenez au changement produit par le chemin parcouru : une décision prise, une habitude modifiée, une compréhension nouvelle ou une conséquence tangible. Une dernière image précise ou une phrase simple fonctionne mieux qu’une conclusion qui explique longuement ce que le public doit penser."
+        },
+        {
+          "q": "Est-il acceptable de modifier certains détails pour mieux raconter ?",
+          "a": "Vous pouvez condenser des délais, supprimer des éléments secondaires ou anonymiser des personnes si cela ne change pas le sens des faits. En revanche, n’inventez pas une scène, une citation ou un résultat décisif présenté comme réel. Si vous créez une situation composite, dites-le clairement."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "title": "Float boat : Comment maintenir et prendre soin de votre équipement de pêche",
+  "slug": "float-boat-comment-maintenir-et-prendre-soin-de-votre-equipement-de-peche",
+  "path": "/divers/float-boat-comment-maintenir-et-prendre-soin-de-votre-equipement-de-peche.html",
+  "category": "loisirs",
+  "tags": [
+    "float boat",
+    "float tube",
+    "pêche",
+    "entretien matériel",
+    "réparation pvc",
+    "stockage"
+  ],
+  "excerpt": "Un float boat bien entretenu reste sûr, confortable et durable. Découvrez les gestes de nettoyage, d’inspection, de rangement et de réparation à adopter.",
+  "metaDescription": "Nettoyage, séchage, réparations et stockage : les gestes essentiels pour préserver votre float boat et votre matériel de pêche durablement.",
+  "seoTitle": "Float boat : entretenir votre équipement de pêche",
+  "heroKicker": "Pêcher longtemps",
+  "readingTime": 12,
+  "date": "2023-10-25T05:53:52",
+  "image": {
+    "id": "1217",
+    "alt": "Float boat : Comment maintenir et prendre soin de votre équipement de pêche",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un float boat, souvent appelé <em>float tube</em>, vous donne accès à des postes de pêche autrement difficiles à atteindre. Mais eau, UV, boue, sable, hameçons et humidité mettent rapidement ses flotteurs, ses valves et votre matériel à rude épreuve. Une routine simple après chaque sortie limite les crevaisons, les mauvaises odeurs, la corrosion et les réparations coûteuses."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Rincez à l’eau douce après toute sortie en eau salée, saumâtre ou très chargée, puis séchez complètement avant le rangement.",
+        "Inspectez régulièrement les coutures, valves, zones de frottement et points d’ancrage : une microfuite se traite beaucoup plus facilement qu’une déchirure.",
+        "Évitez les solvants, le nettoyeur haute pression et le stockage prolongé en plein soleil ou dans un coffre de voiture surchauffé.",
+        "Rangez le float boat sec, propre et à l’abri des rongeurs ; ne le comprimez pas toujours au même endroit.",
+        "Protégez aussi les accessoires : moulinets, pinces, batterie, gilet, palmes et sac étanche demandent chacun un entretien adapté."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "10 à 20 min",
+          "label": "pour rincer, essuyer et contrôler l’ensemble après une sortie"
+        },
+        {
+          "value": "24 h environ",
+          "label": "de séchage prudent avant un rangement fermé, selon la météo et les tissus"
+        },
+        {
+          "value": "1 contrôle",
+          "label": "approfondi avant chaque période de pêche soutenue"
+        },
+        {
+          "value": "2 à 3 saisons",
+          "label": "durée de conservation fréquente d’une colle de réparation une fois entamée, à vérifier sur l’étiquette"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce qui s’use sur un float boat",
+      "id": "comprendre-ce-qui-s-use-sur-un-float-boat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot <strong>float boat</strong> recouvre plusieurs embarcations légères : float tubes en U ou en V, modèles à chambre unique ou multiples, et petits pontons gonflables. Leur structure est généralement composée de chambres à air protégées par une enveloppe textile, ou de boudins en PVC renforcé. Les besoins de soin varient légèrement selon la conception, mais les ennemis restent les mêmes : abrasion, chaleur, rayonnement ultraviolet, humidité stagnante, sel et perforations."
+    },
+    {
+      "type": "paragraph",
+      "html": "La partie visible du siège et des poches n’est pas forcément étanche. L’eau peut s’y accumuler, imprégner les mousses et favoriser moisissures ou odeurs. À l’inverse, un flotteur en PVC peut sembler parfaitement sec alors que du sable ou une épine sont restés coincés près d’une couture. Un entretien efficace consiste donc à nettoyer <strong>l’extérieur, les zones cachées et les accessoires</strong>, pas uniquement à passer un chiffon sur les boudins."
+    },
+    {
+      "type": "table",
+      "caption": "Les zones à surveiller selon leur exposition",
+      "headers": [
+        "Élément",
+        "Risques principaux",
+        "Geste d’entretien utile",
+        "Signal d’alerte"
+      ],
+      "rows": [
+        [
+          "Flotteurs et chambres",
+          "UV, frottement, perforation, surpression",
+          "Rinçage doux, séchage, contrôle tactile et visuel",
+          "Perte de pression, pli blanchâtre, abrasion profonde"
+        ],
+        [
+          "Valves et bouchons",
+          "Sable, sel, joint pincé, fuite lente",
+          "Rinçage, nettoyage délicat du filetage, bouchon remis en place",
+          "Sifflement, valve dure, bouchon qui ne ferme plus"
+        ],
+        [
+          "Housse textile et siège",
+          "Boue, moisissure, tissu détendu",
+          "Brossage souple, séchage ouvert, contrôle des sangles",
+          "Odeur persistante, couture qui se défait"
+        ],
+        [
+          "Dessous et bandes de protection",
+          "Raclement sur berge, graviers, mise à l’eau",
+          "Inspection après les mises à l’eau difficiles",
+          "Entaille, zone amincie, revêtement décollé"
+        ],
+        [
+          "Anneaux, boucles et supports",
+          "Corrosion, desserrage, choc",
+          "Rinçage et vérification des fixations",
+          "Jeu anormal, plastique fissuré, métal piqué"
+        ],
+        [
+          "Matériel de pêche embarqué",
+          "Sel, chocs, chute à l’eau",
+          "Rangement sécurisé et rinçage ciblé",
+          "Moulinet rugueux, pince rouillée, connectique oxydée"
+        ]
+      ],
+      "note": "Consultez toujours la notice du fabricant pour connaître les produits compatibles avec votre revêtement et la pression de gonflage recommandée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adopter la routine indispensable après chaque sortie",
+      "id": "adopter-la-routine-indispensable-apres-chaque-sortie"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure maintenance est celle que vous réalisez avant de ranger l’équipement. Même après une pêche courte en eau douce, un rinçage et un séchage évitent que la boue, le limon ou les débris végétaux ne s’incrustent. Après une sortie en mer, en estuaire ou dans une eau saumâtre, le rinçage à l’eau douce est <strong>non négociable</strong> : le sel attaque les pièces métalliques, rigidifie certains tissus et perturbe le fonctionnement des fermetures, valves et moulinets."
+    },
+    {
+      "type": "steps",
+      "title": "La routine de retour de pêche",
+      "items": [
+        {
+          "title": "Déchargez et aérez",
+          "text": "Retirez boîtes, cannes, batterie, sondeur, palmes et gilet. Ouvrez les poches, videz l’eau éventuellement retenue et laissez circuler l’air."
+        },
+        {
+          "title": "Rincez sans agresser",
+          "text": "Utilisez un jet doux ou une éponge abondamment mouillée. Insistez sous le siège, autour des valves, au niveau des bandes de frottement et des fixations d’accessoires."
+        },
+        {
+          "title": "Nettoyez les salissures",
+          "text": "Pour la boue ou les traces organiques, employez de l’eau tiède et un savon doux compatible avec les surfaces techniques. Une brosse souple suffit pour le textile."
+        },
+        {
+          "title": "Séchez réellement",
+          "text": "Essuyez les flotteurs puis laissez le float boat ouvert dans un endroit ventilé, à l’ombre. Ne repliez pas une housse, un siège ou un sac encore humide."
+        },
+        {
+          "title": "Contrôlez avant le rangement",
+          "text": "Cherchez une trace de frottement, un hameçon oublié, une couture abîmée ou une fuite. Remettez les bouchons de valve pour éviter l’entrée de poussière."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux faux bons gestes",
+      "html": "N’utilisez ni acétone, ni essence, ni alcool fort, ni dégraissant ménager agressif sur les flotteurs, les impressions ou les coutures. Évitez également le nettoyeur haute pression : il peut soulever un revêtement, forcer de l’eau dans une couture ou endommager une valve. Pour une tache tenace, testez toujours le produit sur une zone discrète et suivez les préconisations de la notice."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nettoyer sans fragiliser les matériaux",
+      "id": "nettoyer-sans-fragiliser-les-materiaux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le nettoyage doit être adapté à la matière. Sur une enveloppe textile, l’objectif est d’éliminer terre, sable, végétaux et traces de vase sans saturer inutilement les mousses. Sur un boudin en PVC ou une chambre gonflable, il faut préserver la souplesse du matériau et les collages. Un savon neutre dilué et une microfibre propre conviennent dans la grande majorité des cas."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les produits rénovateurs ou protecteurs anti-UV peuvent être utiles si le fabricant les autorise expressément. Ils ne remplacent cependant ni le rinçage ni le stockage à l’ombre. Méfiez-vous des produits qui laissent un film très brillant : sur certaines surfaces, ils rendent l’embarcation glissante, retiennent la poussière et compliquent l’adhérence d’une future réparation."
+    },
+    {
+      "type": "comparison",
+      "title": "Ranger gonflé ou dégonflé : le bon arbitrage",
+      "left": {
+        "title": "Stockage légèrement gonflé",
+        "points": [
+          "Préserve mieux la forme des flotteurs et limite les plis marqués.",
+          "Facilite l’inspection rapide avant la sortie suivante.",
+          "Convient dans une pièce sèche, tempérée et suffisamment vaste.",
+          "Doit rester à l’abri du soleil, des sources de chaleur et des objets pointus."
+        ]
+      },
+      "right": {
+        "title": "Stockage dégonflé et plié",
+        "points": [
+          "Pratique si vous manquez de place ou transportez le float boat en voiture.",
+          "Exige un séchage complet avant pliage pour éviter moisissures et odeurs.",
+          "Demande de varier les plis afin de ne pas marquer toujours le même point.",
+          "Évitez de poser des charges lourdes sur le sac de rangement."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Détecter une fuite et réparer correctement",
+      "id": "detecter-une-fuite-et-reparer-correctement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un float boat qui perd légèrement de la pression n’est pas forcément percé : une variation de température peut modifier le volume d’air et donner cette impression. Gonflez-le à la pression conseillée dans un environnement stable, fermez les valves et observez-le pendant plusieurs heures. Si un boudin devient nettement plus souple que les autres, recherchez méthodiquement l’origine du problème."
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par les valves, les coutures, le dessous des flotteurs et les zones ayant frotté sur une berge. Une solution d’eau savonneuse appliquée localement peut révéler une fuite par la formation de petites bulles. N’immergez pas sans précaution l’ensemble de l’équipement, surtout si l’enveloppe textile ou le siège ne sèchent pas facilement. Marquez la zone avec un ruban de masquage ou un crayon adapté, puis séchez et dégraissez selon la procédure recommandée par le fabricant."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Réparer sans compromettre la sécurité",
+      "items": [
+        "Identifiez précisément le matériau de la chambre ou du boudin avant d’acheter une rustine et une colle : tous les kits ne sont pas interchangeables.",
+        "Travaillez sur une surface propre, sèche, plane et à température modérée ; l’humidité réduit la qualité d’un collage.",
+        "Utilisez une rustine suffisamment large autour de la perforation et arrondissez ses angles si le kit le permet, afin d’éviter un décollement prématuré.",
+        "Respectez scrupuleusement le temps de séchage et de polymérisation indiqué par le fabricant avant de regonfler ou de mettre à l’eau.",
+        "Faites un test de maintien de pression à terre avant toute utilisation sur l’eau.",
+        "Faites traiter par un professionnel une couture ouverte, une grande entaille, une valve arrachée ou une chambre dont le matériau devient poreux."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Une réparation n’est pas toujours une autorisation de naviguer",
+      "html": "Une rustine bien posée peut être durable, mais elle doit être testée à sec. Si votre float boat comporte plusieurs chambres, ne considérez jamais qu’une chambre fonctionnelle dispense de réparer l’autre. Sur l’eau, votre sécurité dépend aussi du gilet de flottabilité, de la météo, de la distance à la berge et de votre capacité à rejoindre un point de sortie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gonflage, transport et stockage : les détails qui prolongent sa durée de vie",
+      "id": "gonflage-transport-et-stockage-les-details-qui-prolongent-sa"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le surgonflage est une cause fréquente de fatigue prématurée, surtout en été. Un float boat gonflé à l’air frais du matin peut se retrouver fortement tendu après quelques heures au soleil ou dans un véhicule chaud. Respectez la pression recommandée lorsque le fabricant en indique une ; sinon, recherchez une fermeté homogène sans rendre les boudins excessivement durs. Laissez toujours une marge raisonnable face aux variations de température."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour le transport, retirez ou protégez les hameçons, verrouillez les boîtes et évitez de laisser une canne montée traverser les boudins. Les triples libres, les pinces laissées ouvertes et les boîtes de leurres mal fermées sont des causes très banales d’accroc. Dans un coffre, intercalez une couverture ou un tapis propre entre le float boat et les équipements rigides."
+    },
+    {
+      "type": "proscons",
+      "title": "Le stockage semi-gonflé à domicile",
+      "pros": [
+        "Réduit les plis répétés sur les chambres et facilite les contrôles visuels.",
+        "Permet de partir plus vite et de détecter une fuite lente avant la mise à l’eau.",
+        "Évite de tasser durablement les mousses du siège lorsqu’il est rangé sans charge. "
+      ],
+      "cons": [
+        "Occupe davantage de place qu’un rangement dans son sac.",
+        "N’est pas adapté à un garage humide, une pièce exposée au soleil ou un local fréquenté par des rongeurs.",
+        "Impose de surveiller la chaleur ambiante et de ne pas maintenir une pression excessive."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prendre soin du matériel de pêche embarqué",
+      "id": "prendre-soin-du-materiel-de-peche-embarque"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le float boat n’est qu’une partie de votre système. Sur l’eau, les moulinets, outils et appareils électroniques sont exposés aux éclaboussures et parfois à une immersion accidentelle. Organisez vos poches pour que le matériel lourd soit bas et stable, les objets coupants protégés, et les éléments sensibles accessibles sans déséquilibrer l’embarcation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Moulinets, cannes et leurres",
+      "id": "moulinets-cannes-et-leurres"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après une sortie en eau salée, rincez délicatement l’extérieur des moulinets à faible pression, sans les immerger et sans les faire tourner sous un jet d’eau. Essuyez-les, laissez-les sécher et lubrifiez uniquement les points prévus dans leur documentation. Un excès d’huile attire poussière et sable. Pour les cannes, essuyez les anneaux, le porte-moulinet et les emmanchements. Vérifiez que le fil n’a pas emprisonné de sable, surtout si vous avez pêché près du sol ou des berges."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Batterie, sondeur et connectiques",
+      "id": "batterie-sondeur-et-connectiques"
+    },
+    {
+      "type": "paragraph",
+      "html": "Débranchez la batterie après la sortie, séchez les connecteurs et protégez-les de l’humidité. Une batterie doit être stockée chargée selon les recommandations de sa technologie, dans un contenant stable, ventilé et hors de portée des projections d’eau. Ne rechargez jamais un équipement dont les connectiques sont encore mouillées. Si vous utilisez un sondeur, rincez le support et le capteur à l’eau douce, puis vérifiez les câbles : un fil pincé ou une gaine abîmée peut provoquer une panne en pleine sortie."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Gilet, palmes et sac étanche",
+      "id": "gilet-palmes-et-sac-etanche"
+    },
+    {
+      "type": "paragraph",
+      "html": "Rincez le gilet de flottabilité, surtout après l’eau salée, puis faites-le sécher à l’ombre sur un cintre large ou à plat selon sa construction. Pour un modèle à cartouche de CO₂, contrôlez périodiquement l’état du déclencheur et de la cartouche conformément à sa notice ; une cartouche rouillée, percutée ou endommagée doit être remplacée. Rincez les palmes, examinez les sangles et ne les laissez pas pliées sous une charge. Quant au sac étanche, séchez l’intérieur retourné et conservez son joint de fermeture propre : un peu de sable suffit à ruiner son étanchéité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mettre en place un calendrier d’entretien réaliste",
+      "id": "mettre-en-place-un-calendrier-d-entretien-realiste"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il est inutile de démonter intégralement votre équipement après chaque pêche. En revanche, quelques contrôles réguliers évitent d’arriver au bord de l’eau avec une valve qui fuit, une batterie vide ou une sangle fragilisée. La bonne fréquence dépend de votre intensité de pratique, de l’eau fréquentée et des conditions de transport, mais un calendrier simple fonctionne pour la plupart des pêcheurs."
+    },
+    {
+      "type": "table",
+      "caption": "Programme d’entretien simple pour un float boat et ses accessoires",
+      "headers": [
+        "Moment",
+        "À faire",
+        "Objectif"
+      ],
+      "rows": [
+        [
+          "Après chaque sortie",
+          "Rincer, essuyer, aérer, retirer les hameçons oubliés et vérifier les zones de frottement",
+          "Éviter sel, moisissure, corrosion et dégâts invisibles"
+        ],
+        [
+          "Toutes les quelques sorties",
+          "Contrôler pression, valves, sangles, boucles, palmes et fond des poches",
+          "Détecter les fuites lentes et l’usure mécanique"
+        ],
+        [
+          "Avant une longue période d’utilisation",
+          "Gonfler à terre, tester le maintien de pression, vérifier le kit de réparation et la sécurité",
+          "Partir avec un équipement fiable"
+        ],
+        [
+          "Avant hivernage ou longue pause",
+          "Nettoyage complet, séchage prolongé, rangement sans tension ni humidité",
+          "Préserver tissus, chambres, mousse et électronique"
+        ],
+        [
+          "Au redémarrage",
+          "Inspection générale, charge de la batterie, contrôle du gilet et des accessoires",
+          "Éviter les mauvaises surprises à la première sortie"
+        ]
+      ],
+      "note": "En eau salée, rapprochez les contrôles et le rinçage : les dépôts de sel accélèrent nettement l’usure des pièces mobiles et métalliques."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, kit utile et erreurs à éviter",
+      "id": "budget-kit-utile-et-erreurs-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entretien préventif coûte peu au regard du prix d’un float boat, d’un moulinet ou d’un sondeur. Prévoyez un petit budget pour une pompe fiable, des microfibres, une brosse souple, un savon doux, un kit de réparation compatible, quelques protections pour hameçons et un sac ou une caisse de rangement. Les consommables restent généralement dans une enveloppe modérée ; en revanche, une réparation structurelle, une nouvelle chambre ou le remplacement d’une électronique endommagée peuvent représenter un coût nettement plus élevé."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Où investir en priorité",
+      "html": "Si vous devez choisir, privilégiez d’abord une <strong>pompe avec contrôle de pression</strong> adaptée à votre modèle, un <strong>kit de réparation exactement compatible</strong>, un bon rangement pour les leurres et un sac étanche fiable. Les produits cosmétiques ou gadgets de nettoyage sont secondaires face à ces quatre protections concrètes."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les erreurs les plus fréquentes",
+      "items": [
+        "Ranger le float boat encore humide dans son sac « juste pour quelques jours ».",
+        "Le laisser gonflé en plein soleil, dans une véranda ou dans un coffre surchauffé.",
+        "Poser directement les hameçons, têtes plombées ou pinces sur le siège et les flotteurs.",
+        "Tenter de réparer une fuite sur une surface humide, sale ou insuffisamment dégraissée.",
+        "Négliger une perte de pression lente jusqu’à la prochaine grande sortie.",
+        "Oublier de rincer les moulinets, boucles, zips et connecteurs après la mer.",
+        "Utiliser une colle universelle sans vérifier sa compatibilité avec le PVC ou le matériau de la chambre."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand réparer, remplacer ou faire appel à un professionnel ?",
+      "id": "quand-reparer-remplacer-ou-faire-appel-a-un-professionnel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une petite perforation sur une partie plane est généralement réparable par un pêcheur soigneux équipé du bon kit. En revanche, une déchirure près d’une couture, un collage qui se décolle sur une grande longueur, une valve déformée ou un tissu de protection très usé méritent un diagnostic professionnel. Le même principe vaut pour l’électronique : une connectique oxydée peut parfois être nettoyée, mais un appareil immergé sous tension ou une batterie gonflée ne doivent pas être bricolés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le remplacement devient plus pertinent lorsqu’un flotteur cumule les réparations, que le matériau est devenu collant, craquelé ou poreux, ou que les éléments de sécurité ne sont plus fiables. Conservez la notice, la référence exacte du modèle et des photos des dommages : cela facilite l’achat d’une pièce compatible, une demande auprès du service après-vente ou une réparation par un atelier spécialisé."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’entretien d’un float boat",
+      "items": [
+        {
+          "q": "Faut-il rincer un float boat après chaque sortie en eau douce ?",
+          "a": "C’est vivement conseillé, même si un rinçage léger suffit souvent. Il élimine boue, sable, végétaux et traces organiques qui peuvent retenir l’humidité. Après une sortie en eau salée ou saumâtre, le rinçage à l’eau douce doit être systématique et plus soigneux, y compris sur les accessoires métalliques."
+        },
+        {
+          "q": "Puis-je laisser mon float tube gonflé tout l’été ?",
+          "a": "Oui, à condition de le stocker dans un lieu sec, ventilé, tempéré et protégé des UV, sans le surgonfler. Évitez les garages très chauds, les balcons et les coffres de voiture. Contrôlez régulièrement la pression, car elle varie avec la température."
+        },
+        {
+          "q": "Comment savoir si la perte de pression vient d’une fuite ?",
+          "a": "Gonflez le float boat conformément à la notice, placez-le à température stable et comparez la fermeté des chambres après plusieurs heures. Vérifiez d’abord les valves, puis appliquez localement de l’eau savonneuse sur les zones suspectes : des bulles révèlent généralement la fuite. Gardez à l’esprit qu’une baisse légère liée au refroidissement de l’air n’est pas nécessairement une perforation."
+        },
+        {
+          "q": "Quel produit utiliser pour nettoyer les flotteurs ?",
+          "a": "De l’eau claire, une éponge ou une microfibre et, si nécessaire, un savon doux compatible avec les surfaces techniques suffisent généralement. Évitez les solvants, dégraissants puissants, abrasifs et produits non recommandés par le fabricant. Avant tout produit spécifique, réalisez un essai sur une zone discrète."
+        },
+        {
+          "q": "Comment entretenir un moulinet utilisé depuis un float boat ?",
+          "a": "Essuyez-le après chaque sortie et rincez délicatement son extérieur à l’eau douce s’il a été exposé au sel. Ne l’immergez pas et ne le faites pas tourner sous un jet. Laissez-le sécher, puis lubrifiez seulement les points prévus par le fabricant, avec parcimonie. Si le fonctionnement devient rugueux ou bruyant, un entretien interne ou un professionnel peut être nécessaire."
+        },
+        {
+          "q": "Quel matériel de sécurité faut-il vérifier avant de partir ?",
+          "a": "Contrôlez le gilet de flottabilité, les sangles, les boucles, l’état des chambres, la pompe, les palmes et les moyens de communication protégés de l’eau. Vérifiez aussi que votre kit de réparation est complet. En cas de doute sur l’intégrité d’un élément de flottabilité ou d’une valve, ne prenez pas l’eau avant réparation ou remplacement."
+        }
+      ]
+    }
+  ]
+}

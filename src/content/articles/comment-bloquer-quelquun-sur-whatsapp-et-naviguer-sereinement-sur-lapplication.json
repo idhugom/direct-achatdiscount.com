@@ -1,0 +1,402 @@
+{
+  "title": "Comment bloquer quelqu’un sur WhatsApp et naviguer sereinement sur l’application",
+  "slug": "comment-bloquer-quelquun-sur-whatsapp-et-naviguer-sereinement-sur-lapplication",
+  "path": "/divers/comment-bloquer-quelquun-sur-whatsapp-et-naviguer-sereinement-sur-lapplication.html",
+  "category": "tech",
+  "tags": [
+    "whatsapp",
+    "bloquer un contact",
+    "confidentialité",
+    "harcèlement en ligne",
+    "messagerie",
+    "sécurité numérique"
+  ],
+  "excerpt": "Les étapes pour bloquer un contact sur WhatsApp, faire la différence avec le silence et protéger durablement votre vie privée.",
+  "metaDescription": "Bloquer un contact sur WhatsApp, signaler un harcèlement, régler votre confidentialité et gérer les groupes : les gestes utiles, sur Android et iPhone.",
+  "seoTitle": "Bloquer quelqu’un sur WhatsApp : guide pratique",
+  "heroKicker": "Vie privée maîtrisée",
+  "readingTime": 11,
+  "date": "2023-12-16T05:57:39",
+  "image": {
+    "id": "1309",
+    "alt": "Comment bloquer quelqu’un sur WhatsApp et naviguer sereinement sur l’application",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un message insistant, une tentative d’arnaque, un ancien contact que vous ne souhaitez plus voir : le blocage WhatsApp vous permet de reprendre immédiatement la main. Encore faut-il savoir ce qu’il coupe réellement, comment l’appliquer sans se tromper et quels réglages compléter pour retrouver une messagerie vraiment sereine."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le blocage empêche un contact de vous appeler et de vous écrire directement sur WhatsApp, sans lui envoyer de notification explicite.",
+        "Bloquer ne suffit pas toujours : un contact présent dans un groupe commun peut encore voir vos messages publiés dans ce groupe.",
+        "Pour une arnaque, du spam ou du harcèlement, privilégiez le <strong>signalement</strong> avant ou pendant le blocage et conservez les éléments utiles.",
+        "La confidentialité de votre photo, de votre présence en ligne, de vos statuts et des ajouts aux groupes se règle séparément dans les paramètres de WhatsApp.",
+        "Débloquer un contact est possible à tout moment, mais les messages envoyés pendant la période de blocage ne réapparaissent pas ensuite."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que bloque réellement WhatsApp — et ce qui reste visible",
+      "id": "ce-que-bloque-reellement-whatsapp-et-ce-qui-reste-visible"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le blocage est une barrière de communication directe. Une fois un compte bloqué, celui-ci ne peut plus vous envoyer de messages privés ni vous appeler via WhatsApp. Vous ne recevez plus ses nouvelles mises à jour de statut. De son côté, il cesse normalement de voir les mises à jour de votre photo de profil, de votre présence en ligne et de votre dernière connexion, sous réserve de vos propres réglages de confidentialité."
+    },
+    {
+      "type": "paragraph",
+      "html": "WhatsApp ne prévient pas formellement la personne qu’elle est bloquée. Elle peut néanmoins le supposer si ses messages restent avec une seule coche, si les appels n’aboutissent pas ou si elle ne voit plus vos informations de profil. Ce ne sont pas des preuves absolues : une absence de connexion, un changement de paramètres de confidentialité ou un problème de réseau peuvent produire des signes similaires."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le point souvent oublié",
+      "html": "<strong>Bloquer n’efface pas l’historique de conversation de votre téléphone.</strong> Si vous voulez supprimer les anciens messages, vous devez aussi effacer la discussion, idéalement après avoir sauvegardé les preuves utiles en cas de litige. Le blocage ne désactive pas non plus le numéro de téléphone : la personne peut tenter de vous joindre par SMS, appel classique ou un autre service."
+    },
+    {
+      "type": "table",
+      "caption": "Les effets concrets des principales actions dans WhatsApp",
+      "headers": [
+        "Action",
+        "Messages et appels",
+        "Visibilité et groupes",
+        "À choisir si…"
+      ],
+      "rows": [
+        [
+          "Bloquer",
+          "Plus aucun message privé ni appel WhatsApp dans les deux sens pratiques de la conversation",
+          "Les échanges dans un groupe commun peuvent rester visibles",
+          "Vous ne voulez plus aucun contact direct"
+        ],
+        [
+          "Mettre en sourdine",
+          "Les messages arrivent toujours, sans alerte sonore ou visuelle selon vos réglages",
+          "Aucun effet sur les groupes ni sur le profil",
+          "Vous voulez du calme sans rompre le contact"
+        ],
+        [
+          "Archiver",
+          "La discussion est rangée hors de la liste principale",
+          "Aucun effet sur la réception des messages",
+          "Vous voulez désencombrer votre écran"
+        ],
+        [
+          "Signaler",
+          "Alerte WhatsApp sur un compte ou un contenu potentiellement abusif",
+          "N’empêche pas seul une nouvelle sollicitation",
+          "Vous faites face à du spam, une usurpation ou un comportement nuisible"
+        ],
+        [
+          "Supprimer la discussion",
+          "Retire l’historique de votre appareil",
+          "Le contact peut toujours écrire ou appeler",
+          "Vous voulez seulement nettoyer vos conversations"
+        ]
+      ],
+      "note": "Les libellés peuvent légèrement varier selon la version de l’application et le système utilisé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bloquer un contact sur WhatsApp : les méthodes les plus simples",
+      "id": "bloquer-un-contact-sur-whatsapp-les-methodes-les-plus-simple"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez bloquer une personne depuis la conversation, depuis sa fiche de contact ou depuis les réglages généraux. La première méthode est la plus rapide lorsqu’un message vient d’arriver ; les réglages sont plus pratiques pour revoir toute votre liste de comptes bloqués. Sur Android comme sur iPhone, commencez par vérifier que WhatsApp est à jour : les intitulés exacts changent parfois, mais le principe reste identique."
+    },
+    {
+      "type": "steps",
+      "title": "Depuis une discussion ouverte",
+      "items": [
+        {
+          "title": "Ouvrez la conversation concernée",
+          "text": "Dans l’onglet des discussions, touchez le fil de conversation du contact. S’il s’agit d’un numéro inconnu, n’interagissez pas avec les liens, documents ou demandes de code reçus."
+        },
+        {
+          "title": "Affichez les informations du contact",
+          "text": "Touchez le nom ou le numéro en haut de l’écran. Sur certains appareils Android, le menu représenté par trois points donne aussi accès aux informations du contact."
+        },
+        {
+          "title": "Choisissez l’option de blocage",
+          "text": "Faites défiler la fiche puis sélectionnez « Bloquer ». WhatsApp peut vous proposer de signaler le contact au même moment : choisissez cette option si le contenu est indésirable, trompeur ou menaçant."
+        },
+        {
+          "title": "Confirmez votre choix",
+          "text": "Validez la confirmation. La conversation reste généralement dans votre liste tant que vous ne l’archivez ou ne la supprimez pas vous-même."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour gérer plusieurs numéros, ouvrez <strong>Paramètres</strong>, puis la rubrique <strong>Confidentialité</strong> et la section consacrée aux contacts bloqués. Vous pourrez y consulter la liste, ajouter un contact et, plus tard, le débloquer. Sur iPhone, ces menus sont habituellement accessibles depuis l’onglet Réglages de WhatsApp ; sur Android, ils se trouvent couramment dans le menu de l’application."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 accès",
+          "label": "conversation, fiche contact ou réglages de confidentialité"
+        },
+        {
+          "value": "0 notification",
+          "label": "WhatsApp n’avertit pas explicitement le contact bloqué"
+        },
+        {
+          "value": "1 groupe commun",
+          "label": "peut maintenir une visibilité des messages publiés dans ce groupe"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Numéro inconnu, spam et arnaque : bloquez sans vous exposer",
+      "id": "numero-inconnu-spam-et-arnaque-bloquez-sans-vous-exposer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un numéro inconnu n’est pas forcément malveillant, mais il mérite de la prudence, surtout s’il vous pousse à agir vite : paiement, code de vérification, lien à ouvrir, promesse de gain, offre d’emploi trop flatteuse ou demande prétendument envoyée par un proche. Les fraudeurs cherchent souvent à déplacer la conversation, à créer un sentiment d’urgence ou à vous faire partager un code reçu par SMS. Aucun interlocuteur légitime n’a besoin de votre code de vérification WhatsApp."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Réflexes à adopter avant de répondre à un inconnu",
+      "items": [
+        "Ne cliquez pas sur un lien raccourci, un fichier inattendu ou un QR code envoyé sans contexte.",
+        "Ne communiquez jamais un code de connexion, un code reçu par SMS, un mot de passe ou des données bancaires dans une conversation.",
+        "Vérifiez une identité par un autre canal connu : appel vers un numéro déjà enregistré, site officiel, adresse professionnelle habituelle.",
+        "Utilisez « Bloquer et signaler » lorsqu’il s’agit clairement de spam, d’une usurpation, d’une escroquerie ou de contenu abusif.",
+        "Prenez des captures d’écran montrant le numéro, la date, le contenu et les éventuelles menaces avant de nettoyer la discussion."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "En cas de menace ou de chantage",
+      "html": "Ne négociez pas, ne payez pas et ne transmettez aucune image ni information supplémentaire. Conservez les preuves, bloquez et signalez le compte. Si vous craignez un danger immédiat en France, contactez les secours au <strong>17</strong> ou au <strong>112</strong> ; le <strong>114</strong> permet notamment d’alerter par écrit lorsque l’appel est difficile ou impossible. Pour une situation durable de harcèlement, un dépôt de plainte ou un signalement auprès des autorités compétentes peut être nécessaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bloquer, mettre en sourdine ou archiver : quelle option choisir ?",
+      "id": "bloquer-mettre-en-sourdine-ou-archiver-quelle-option-choisir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon réglage dépend de votre objectif. Le blocage est une décision nette : il convient aux contacts indésirables, aux relations rompues ou aux personnes qui franchissent vos limites. La sourdine convient mieux à un groupe trop actif, à un collègue qui écrit hors horaires sans comportement abusif, ou à une période où vous avez besoin de souffler. L’archivage, lui, est purement organisationnel : il masque une discussion sans empêcher les notifications, sauf si vous avez configuré l’option qui maintient les discussions archivées hors de la liste principale."
+    },
+    {
+      "type": "comparison",
+      "title": "Blocage ou mise en sourdine ?",
+      "left": {
+        "title": "Bloquer un contact",
+        "points": [
+          "Coupe les messages privés et les appels sur WhatsApp.",
+          "Approprié pour le harcèlement, le spam, l’arnaque ou une limite personnelle claire.",
+          "La personne n’est pas officiellement avertie.",
+          "À compléter par un signalement si le compte est nuisible."
+        ]
+      },
+      "right": {
+        "title": "Mettre en sourdine",
+        "points": [
+          "Les messages continuent d’arriver et restent consultables.",
+          "Supprime les alertes pendant la durée choisie, sans conflit apparent.",
+          "Utile pour les groupes bruyants et les sollicitations non urgentes.",
+          "Ne protège pas d’un contenu dangereux ou d’une personne insistante."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Le blocage WhatsApp : forces et limites",
+      "pros": [
+        "Action rapide, réversible et disponible sans changer de numéro.",
+        "Empêche les sollicitations directes dans l’application.",
+        "Ne déclenche pas de notification explicite au contact concerné.",
+        "Peut être associé à un signalement pour contribuer à la modération de la plateforme."
+      ],
+      "cons": [
+        "N’empêche pas les contacts via d’autres applications, par SMS ou avec un nouveau numéro.",
+        "Ne retire pas automatiquement la personne des groupes que vous avez en commun.",
+        "Ne supprime pas les anciens messages, médias ou sauvegardes déjà présents.",
+        "N’est pas une réponse suffisante à lui seul face à une menace grave ou répétée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particulier des groupes WhatsApp : conserver le contrôle",
+      "id": "cas-particulier-des-groupes-whatsapp-conserver-le-controle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le blocage individuel ne fait pas disparaître un membre des groupes auxquels vous participez tous les deux. Dans un groupe commun, cette personne peut encore lire les messages que vous y publiez et vous pouvez voir les siens. Évitez donc d’y partager des informations personnelles, une localisation, une photo sensible ou tout élément que vous ne souhaitez plus lui montrer."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le groupe est inutile ou inconfortable, vous pouvez le quitter. Si vous êtes administrateur, vous pouvez également retirer un participant selon le contexte et les règles du groupe. Dans un groupe familial, associatif ou professionnel que vous ne pouvez pas quitter, privilégiez une communication factuelle et demandez à un autre administrateur d’intervenir si un membre perturbe les échanges."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Empêcher les ajouts non désirés dans des groupes",
+      "id": "empecher-les-ajouts-non-desires-dans-des-groupes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les paramètres de confidentialité, WhatsApp propose un réglage dédié aux groupes. Il permet de déterminer qui peut vous ajouter : tout le monde, vos contacts, ou vos contacts à l’exception de certaines personnes. Choisissez l’option la plus restrictive compatible avec vos usages. Cette précaution est particulièrement utile contre les groupes promotionnels, les chaînes douteuses et les ajouts réalisés par des personnes que vous connaissez peu."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Réduisez l’exposition avant qu’un problème survienne",
+      "html": "Réglez l’ajout aux groupes sur <strong>« Mes contacts »</strong>, ou excluez les contacts gênants. Une personne qui ne peut pas vous ajouter directement devra passer par une invitation privée que vous restez libre d’ignorer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment savoir si vous êtes bloqué — et pourquoi il ne faut pas conclure trop vite",
+      "id": "comment-savoir-si-vous-etes-bloque-et-pourquoi-il-ne-faut-pa"
+    },
+    {
+      "type": "paragraph",
+      "html": "WhatsApp protège volontairement la confidentialité du blocage : il n’existe pas de notification fiable disant « vous avez été bloqué ». Plusieurs indices peuvent s’accumuler : vos messages affichent durablement une seule coche, vos appels WhatsApp n’aboutissent pas, la photo de profil ou la dernière connexion ne sont plus visibles, et les nouvelles mises à jour de statut ont disparu. Mais aucun de ces éléments, pris isolément, ne prouve un blocage."
+    },
+    {
+      "type": "paragraph",
+      "html": "La personne peut avoir changé sa photo, désactivé sa présence en ligne, modifié ses paramètres, changé de numéro, éteint son téléphone ou simplement ne plus utiliser WhatsApp. Ne multipliez pas les essais depuis d’autres numéros et ne demandez pas à des proches d’intervenir : contourner un blocage peut devenir intrusif. Respecter ce signal, même incertain, est la conduite la plus saine."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Débloquer un contact et gérer les données de la conversation",
+      "id": "debloquer-un-contact-et-gerer-les-donnees-de-la-conversation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous décidez de rouvrir le dialogue, rendez-vous dans la liste des contacts bloqués, sélectionnez le compte puis choisissez « Débloquer ». Vous pouvez aussi passer par sa fiche de contact. Le déblocage ne restaure pas ce qui n’a pas été reçu : les messages et appels envoyés pendant la période de blocage ne vous seront pas livrés après coup. Il n’efface pas non plus les messages antérieurs chez vous ou chez l’autre personne."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’effacer un fil de discussion sensible, distinguez le besoin de tranquillité du besoin de preuve. Pour du simple démarchage, supprimer et bloquer est généralement suffisant. Pour des insultes répétées, une usurpation, du chantage ou une menace, conservez des copies lisibles des messages, le profil, les dates et l’identifiant du compte. Évitez de modifier les captures ou de perdre le contexte de la conversation."
+    },
+    {
+      "type": "table",
+      "caption": "Quel niveau d’action selon la situation ?",
+      "headers": [
+        "Situation",
+        "Action recommandée",
+        "Précaution complémentaire"
+      ],
+      "rows": [
+        [
+          "Groupe familial très actif",
+          "Mettre le groupe en sourdine ou l’archiver",
+          "Régler les notifications au lieu de bloquer un proche par défaut"
+        ],
+        [
+          "Démarchage commercial répété",
+          "Bloquer et signaler",
+          "Ne répondez pas et ne cliquez sur aucun lien"
+        ],
+        [
+          "Ancienne relation qui insiste",
+          "Bloquer le contact",
+          "Vérifiez aussi vos réglages de photo, statut et présence en ligne"
+        ],
+        [
+          "Faux proche demandant de l’argent",
+          "Bloquer et signaler immédiatement",
+          "Vérifiez l’identité par un canal indépendant ; avertissez le vrai contact si possible"
+        ],
+        [
+          "Harcèlement ou menaces",
+          "Conserver les preuves, bloquer et signaler",
+          "Contactez les autorités ou une aide spécialisée selon la gravité"
+        ]
+      ],
+      "note": "Une situation de danger, de diffusion d’images intimes ou de menace physique exige une démarche au-delà des seuls outils de l’application."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Paramètres de confidentialité à régler pour une messagerie plus apaisée",
+      "id": "parametres-de-confidentialite-a-regler-pour-une-messagerie-p"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le blocage est réactif : il intervient quand un problème apparaît. Les réglages de confidentialité sont préventifs. Dans la rubrique Confidentialité de WhatsApp, examinez régulièrement qui peut voir votre photo de profil, votre « À propos », votre dernière présence en ligne, votre statut et vos confirmations de lecture. Une visibilité limitée à vos contacts réduit la quantité d’informations accessibles à un inconnu qui détient votre numéro."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez aussi activer la vérification en deux étapes, qui ajoute un code PIN de protection à votre compte. Associez une adresse e-mail de récupération que vous contrôlez réellement, et ne partagez jamais ce PIN. Pensez enfin à verrouiller l’accès à WhatsApp par empreinte, reconnaissance faciale ou code de l’appareil : cette mesure protège vos discussions si votre téléphone est prêté, perdu ou consulté sans votre accord."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre contrôle de confidentialité en cinq minutes",
+      "items": [
+        "Limitez photo de profil, statut et informations personnelles à vos contacts, ou à une liste plus restreinte si nécessaire.",
+        "Choisissez qui peut voir votre présence en ligne et votre dernière connexion selon votre niveau de confort.",
+        "Paramétrez les groupes pour éviter les ajouts directs par des inconnus ou des contacts envahissants.",
+        "Activez la vérification en deux étapes et conservez le code PIN hors de portée d’autrui.",
+        "Contrôlez les appareils liés à votre compte et déconnectez toute session que vous ne reconnaissez pas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs à éviter pour rester réellement protégé",
+      "id": "les-erreurs-a-eviter-pour-rester-reellement-protege"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à croire qu’effacer une discussion équivaut à bloquer : le numéro peut vous recontacter immédiatement. L’erreur inverse est de bloquer sans signaler une arnaque ou un compte usurpé, alors que le signalement apporte un élément utile à la plateforme. Enfin, ne publiez pas de captures humiliantes ou d’informations personnelles sur un groupe pour « prévenir » les autres : cela peut aggraver un conflit et exposer des données privées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Méfiez-vous aussi des applications ou sites qui promettent de dire avec certitude qui vous a bloqué, qui consulte votre profil ou qui surveille vos statuts. Ils ne disposent pas d’un accès légitime à ces informations et peuvent vous demander vos identifiants, votre code de vérification ou une autorisation excessive. Pour votre sécurité, utilisez uniquement les fonctions officielles de WhatsApp et les paramètres du téléphone."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le blocage WhatsApp",
+      "items": [
+        {
+          "q": "La personne reçoit-elle une notification quand je la bloque sur WhatsApp ?",
+          "a": "Non. WhatsApp n’envoie pas de notification explicite. Le contact peut seulement remarquer certains indices, comme l’absence de réponse, d’appels aboutis ou de mises à jour de profil, sans pouvoir en être certain."
+        },
+        {
+          "q": "Les anciens messages disparaissent-ils lorsque je bloque quelqu’un ?",
+          "a": "Non. Le blocage coupe les communications à venir, mais il ne supprime pas automatiquement l’historique sur votre téléphone. Vous pouvez supprimer ou archiver la conversation séparément. En cas de harcèlement, gardez d’abord des preuves."
+        },
+        {
+          "q": "Puis-je voir les messages d’une personne bloquée dans un groupe commun ?",
+          "a": "Oui, en règle générale, les messages publiés dans un groupe que vous partagez restent visibles pour les deux membres. Pour éviter cette exposition, quittez le groupe, demandez l’aide d’un administrateur ou limitez ce que vous y publiez."
+        },
+        {
+          "q": "Que se passe-t-il si je débloque quelqu’un plus tard ?",
+          "a": "Le contact pourra à nouveau vous écrire et vous appeler sur WhatsApp. En revanche, vous ne recevrez pas rétroactivement les messages ou appels émis pendant qu’il était bloqué."
+        },
+        {
+          "q": "Faut-il bloquer ou signaler un compte suspect ?",
+          "a": "Pour du spam, une arnaque, une usurpation ou un contenu abusif, faites les deux : signalez le compte puis bloquez-le. Le signalement alerte WhatsApp ; le blocage protège immédiatement votre messagerie."
+        },
+        {
+          "q": "Un contact bloqué peut-il encore me joindre avec un autre numéro ?",
+          "a": "Oui. Le blocage s’applique au compte ou au numéro concerné, pas à la personne dans tous les canaux. Bloquez tout nouveau numéro indésirable, renforcez vos réglages de confidentialité et, en cas de harcèlement persistant, conservez les preuves et sollicitez de l’aide."
+        }
+      ]
+    }
+  ]
+}

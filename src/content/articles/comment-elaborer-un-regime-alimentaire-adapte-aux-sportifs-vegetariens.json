@@ -1,0 +1,412 @@
+{
+  "title": "Comment élaborer un régime alimentaire adapté aux sportifs végétariens ?",
+  "slug": "comment-elaborer-un-regime-alimentaire-adapte-aux-sportifs-vegetariens",
+  "path": "/divers/comment-elaborer-un-regime-alimentaire-adapte-aux-sportifs-vegetariens.html",
+  "category": "bien-etre",
+  "tags": [
+    "sport végétarien",
+    "protéines végétales",
+    "nutrition sportive",
+    "récupération",
+    "fer et b12"
+  ],
+  "excerpt": "Les repères concrets pour composer une alimentation végétarienne qui soutient réellement l’entraînement, la récupération et les objectifs sportifs.",
+  "metaDescription": "Construisez un régime végétarien sportif complet : protéines, fer, B12, glucides, menus, budget et erreurs à éviter selon votre activité.",
+  "seoTitle": "Régime végétarien sportif : bâtir un menu équilibré",
+  "heroKicker": "Performance végétale",
+  "readingTime": 12,
+  "date": "2023-09-26T14:34:35",
+  "image": {
+    "id": "1131",
+    "alt": "Comment élaborer un régime alimentaire adapté aux sportifs végétariens ?",
+    "width": 1500,
+    "height": 1000
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une alimentation végétarienne peut parfaitement accompagner la prise de muscle, l’endurance ou la perte de masse grasse. La condition n’est pas de multiplier les produits « riches en protéines », mais de couvrir durablement vos besoins énergétiques, de varier les sources végétales et d’anticiper certains micronutriments sensibles."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La priorité d’un sportif végétarien reste l’<strong>apport énergétique total</strong> : un manque de calories nuit autant à la récupération qu’un manque de protéines.",
+        "Répartissez les protéines sur trois à cinq prises, en associant régulièrement légumineuses, soja, céréales complètes, œufs et produits laitiers selon votre régime.",
+        "Le fer, la vitamine B12, le calcium, la vitamine D, l’iode, le zinc et les oméga-3 demandent une vigilance particulière.",
+        "Autour des séances, privilégiez des glucides digestes et une source de protéines pratique ; les repas très fibreux se placent plutôt à distance de l’effort.",
+        "En cas de fatigue persistante, de blessures répétées, de troubles digestifs ou de restriction marquée, faites le point avec un médecin et un diététicien-nutritionniste connaissant le sport."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencer par définir votre régime et votre objectif sportif",
+      "id": "commencer-par-definir-votre-regime-et-votre-objectif-sportif"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot <strong>végétarien</strong> recouvre plusieurs réalités. Une personne ovo-lacto-végétarienne ne consomme ni viande ni poisson, mais garde les œufs et les produits laitiers. Une alimentation végétalienne exclut aussi ces aliments. Cette distinction change les sources disponibles, notamment pour les protéines, le calcium, l’iode et la vitamine B12. Ne copiez donc pas le menu d’un autre sportif sans l’adapter à votre pratique et à vos tolérances."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de compter quoi que ce soit, posez votre cadre : sport pratiqué, volume hebdomadaire, intensité, horaires d’entraînement, objectif (stabilisation, performance, endurance, prise de muscle, perte de poids), poids stable ou non, habitudes digestives et budget. Un coureur effectuant de longues sorties n’organise pas ses repas comme une personne faisant deux séances de renforcement par semaine. Le bon régime est celui que vous pouvez répéter, digérer et ajuster, pas le plan théoriquement parfait mais impossible à tenir."
+    },
+    {
+      "type": "comparison",
+      "title": "Végétarien avec œufs et laitages ou végétalien : ce qui change vraiment",
+      "left": {
+        "title": "Ovo-lacto-végétarien",
+        "points": [
+          "Œufs, yaourts, fromage blanc et lait facilitent l’atteinte des apports protéiques.",
+          "La vitamine B12 est plus accessible, mais l’apport peut rester insuffisant si les aliments animaux sont rares.",
+          "Une option souvent simple pour les collations et la récupération : laitage ou œufs avec féculent et fruit.",
+          "Attention aux fromages très salés ou gras : ils complètent un repas, mais ne doivent pas être l’unique stratégie protéique."
+        ]
+      },
+      "right": {
+        "title": "Végétalien",
+        "points": [
+          "Le soja, les légumineuses, le seitan, les produits céréaliers et les oléagineux structurent les repas.",
+          "La supplémentation en vitamine B12 est indispensable ; les aliments enrichis ne suffisent pas toujours à sécuriser les apports.",
+          "Il faut planifier plus soigneusement calcium, iode, vitamine D, oméga-3 et protéines autour des entraînements.",
+          "Les boissons végétales doivent être choisies enrichies en calcium et, idéalement, sans être excessivement sucrées."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Assurer d’abord assez d’énergie et de glucides",
+      "id": "assurer-d-abord-assez-d-energie-et-de-glucides"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le piège le plus fréquent n’est pas forcément le manque de protéines : c’est le <strong>déficit énergétique involontaire</strong>. Les repas végétaux sont souvent très rassasiants parce qu’ils apportent beaucoup de fibres et d’eau. C’est excellent au quotidien, mais cela peut vous empêcher de manger suffisamment lorsque le volume d’entraînement augmente. Les conséquences possibles sont une baisse de tonus, une récupération lente, une stagnation des performances, des fringales tardives, une humeur instable ou une perte de poids non souhaitée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les glucides sont le carburant principal des efforts intenses et prolongés. Basez vos repas sur des féculents variés : flocons d’avoine, pain, riz, pâtes, semoule, pommes de terre, quinoa, sarrasin ou polenta. Les légumineuses apportent aussi des glucides, mais leur richesse en fibres les rend parfois moins confortables juste avant une séance. Ajustez les portions à votre charge réelle : davantage les jours de fractionné, de match ou de sortie longue ; un peu moins les jours de repos, sans les supprimer."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 à 5 g/kg/jour",
+          "label": "repère courant de glucides pour une activité légère à modérée"
+        },
+        {
+          "value": "5 à 7 g/kg/jour",
+          "label": "repère souvent utilisé lors d’un entraînement régulier et soutenu"
+        },
+        {
+          "value": "1,2 à 2 g/kg/jour",
+          "label": "fourchette générale de protéines en nutrition sportive"
+        },
+        {
+          "value": "3 à 5 prises",
+          "label": "répartition pratique des protéines sur une journée"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Un chiffre n’est pas un menu",
+      "html": "Les repères au kilo de poids corporel servent de point de départ, pas d’ordonnance. Votre faim, l’évolution de votre poids, votre énergie à l’entraînement, votre digestion et votre récupération indiquent si les portions doivent être revues. Une restriction calorique prolongée chez un sportif mérite un encadrement professionnel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Atteindre vos besoins en protéines sans compliquer chaque repas",
+      "id": "atteindre-vos-besoins-en-proteines-sans-compliquer-chaque-re"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les protéines participent à la réparation musculaire, à l’adaptation à l’entraînement et au maintien de la masse maigre en période de perte de poids. Chez un sportif végétarien, viser le milieu ou le haut de la fourchette adaptée à son objectif est souvent pragmatique, car la digestibilité et la teneur en certains acides aminés diffèrent d’un aliment à l’autre. Il n’est toutefois pas nécessaire de réaliser des combinaisons parfaites à chaque assiette : la diversité sur la journée suffit généralement."
+    },
+    {
+      "type": "table",
+      "caption": "Sources protéiques végétariennes : comment les utiliser",
+      "headers": [
+        "Famille d’aliments",
+        "Atouts principaux",
+        "Usage particulièrement pratique",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Lentilles, pois chiches, haricots, pois cassés",
+          "Protéines, glucides complexes, fer, fibres",
+          "Déjeuner, dîner, salades préparées à l’avance",
+          "Peuvent gêner avant un effort ; augmentez les portions progressivement"
+        ],
+        [
+          "Tofu, tempeh, edamame, protéines de soja texturées",
+          "Bonne densité protéique ; préparation polyvalente",
+          "Wok, sandwich, bol repas, sauce bolognaise végétale",
+          "Choisissez des versions peu salées ; variez les préparations"
+        ],
+        [
+          "Seitan",
+          "Très riche en protéines et facile à incorporer",
+          "Repas rapides, émincés, garniture de wraps",
+          "Contient du gluten ; pauvre en lysine, à associer à d’autres aliments sur la journée"
+        ],
+        [
+          "Œufs et laitages, si consommés",
+          "Protéines complètes, solutions très pratiques",
+          "Petit-déjeuner, collation post-séance, omelette",
+          "Surveillez surtout les produits très sucrés ou les portions de fromage"
+        ],
+        [
+          "Céréales, quinoa, pain complet, sarrasin",
+          "Complètent l’apport protéique et énergétique",
+          "Base de repas, récupération après effort",
+          "Ne suffisent pas seules si l’objectif protéique est élevé"
+        ],
+        [
+          "Oléagineux, graines, purées d’oléagineux",
+          "Énergie, bons lipides, minéraux ; apport protéique d’appoint",
+          "Collation, porridge, tartine",
+          "Très caloriques et parfois lourds à digérer juste avant le sport"
+        ]
+      ],
+      "note": "Les teneurs varient fortement selon les produits et les portions. Lisez l’étiquette des alternatives végétales prêtes à consommer, surtout pour le sel et les sucres ajoutés."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La méthode la plus simple : une source identifiable à chaque prise",
+      "id": "la-methode-la-plus-simple-une-source-identifiable-a-chaque-p"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au lieu de rechercher des calculs constants, construisez vos repas autour d’une source protéique clairement identifiée. Au petit-déjeuner : skyr ou yaourt au soja enrichi, tofu brouillé, œufs, ou porridge complété par une boisson au soja et des graines. Au déjeuner et au dîner : tofu, tempeh, légumineuses, seitan, œufs ou association de plusieurs sources. En collation : laitage, boisson de soja, tartine de houmous, edamame, fruit et poignée d’oléagineux. Cette régularité est plus efficace qu’un seul dîner très riche en protéines."
+    },
+    {
+      "type": "proscons",
+      "title": "Les poudres protéinées sont-elles nécessaires ?",
+      "pros": [
+        "Très pratiques après une séance éloignée d’un repas ou pendant les déplacements.",
+        "Aident à compléter les apports quand l’appétit est faible après un effort intense.",
+        "Les poudres de soja, pois, riz ou mélanges végétaux offrent une solution sans viande ni poisson."
+      ],
+      "cons": [
+        "Elles ne remplacent ni les glucides, ni les micronutriments, ni la variété d’une alimentation complète.",
+        "Certaines références sont très sucrées, chères ou mal tolérées sur le plan digestif.",
+        "Elles sont rarement indispensables si les repas sont bien organisés et suffisamment copieux."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Organiser les repas avant, pendant et après l’entraînement",
+      "id": "organiser-les-repas-avant-pendant-et-apres-l-entrainement"
+    },
+    {
+      "type": "paragraph",
+      "html": "La nutrition sportive se joue autant dans le <strong>timing</strong> que dans les aliments. Avant l’effort, recherchez l’énergie disponible et le confort digestif. Deux à quatre heures avant une séance importante, prenez un repas dominé par les glucides, comportant une source protéique modérée et pas trop de graisses. À l’approche de l’effort, simplifiez : banane, compote, pain avec confiture, galettes de riz, petit gâteau maison ou boisson glucidique selon la durée prévue."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pendant une séance courte, l’eau suffit le plus souvent. Pour les efforts longs ou très soutenus, prévoyez une stratégie de boisson, de glucides et éventuellement de sodium selon la chaleur, la transpiration et la durée. Testez toujours vos produits et vos recettes à l’entraînement, jamais le jour d’une course ou d’une compétition. Après la séance, associez des glucides à une source de protéines dans les heures qui suivent : par exemple un bol de riz, tofu et légumes ; un sandwich œufs-houmous ; ou un smoothie au lait ou au soja accompagné de tartines."
+    },
+    {
+      "type": "steps",
+      "title": "Composer une assiette de récupération efficace",
+      "items": [
+        {
+          "title": "Rechargez le carburant",
+          "text": "Ajoutez une portion généreuse de féculent : riz, pâtes, pommes de terre, pain, semoule ou flocons d’avoine selon le moment de la journée."
+        },
+        {
+          "title": "Ajoutez une vraie source protéique",
+          "text": "Choisissez tofu, tempeh, légumineuses, œufs, yaourt riche en protéines ou boisson de soja. Évitez de compter uniquement sur les légumes."
+        },
+        {
+          "title": "Complétez avec végétaux et matières grasses",
+          "text": "Légumes, fruits, huile de colza, noix ou graines améliorent la qualité globale du repas. Dosez les fibres et les graisses selon votre tolérance après l’effort."
+        },
+        {
+          "title": "Réhydratez-vous",
+          "text": "Buvez progressivement, notamment si vous avez beaucoup transpiré. Une urine durablement très foncée et une soif forte peuvent signaler que vos apports hydriques sont insuffisants."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sécuriser le fer, la B12 et les autres micronutriments clés",
+      "id": "securiser-le-fer-la-b12-et-les-autres-micronutriments-cles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une alimentation végétarienne réussie ne se limite pas au duo protéines-glucides. Le <strong>fer</strong> végétal est moins facilement absorbé que celui issu des produits animaux. Misez sur les lentilles, haricots, tofu, graines de sésame, céréales enrichies et légumes verts, et associez-les à une source de vitamine C : kiwi, agrumes, poivron, fraises ou chou. À l’inverse, thé et café pris juste avec le repas peuvent freiner l’absorption du fer chez certaines personnes ; décalez-les si vos réserves sont fragiles."
+    },
+    {
+      "type": "paragraph",
+      "html": "La vitamine B12 mérite une attention stricte. Chez les personnes végétaliennes, une supplémentation adaptée est indispensable. Chez les ovo-lacto-végétariens, elle peut aussi être nécessaire selon la fréquence et les quantités d’œufs et de laitages. Faites valider la stratégie avec un professionnel de santé plutôt que de vous fier à des aliments prétendument « naturellement riches » en B12 végétale : ils ne constituent pas une source fiable. Une prise de sang et son interprétation médicale sont nécessaires en cas de doute ou de symptômes."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les autres points à contrôler dans votre routine",
+      "items": [
+        "<strong>Calcium :</strong> laitages ou boissons végétales enrichies, tofu préparé avec calcium, eaux riches en calcium, légumes verts et certaines graines.",
+        "<strong>Vitamine D :</strong> exposition solaire raisonnable, alimentation et éventuelle supplémentation selon la saison, la peau, le lieu de vie et un avis médical.",
+        "<strong>Iode :</strong> sel iodé utilisé avec modération ; les algues peuvent être très concentrées et ne se dosent pas au hasard.",
+        "<strong>Oméga-3 :</strong> graines de lin ou de chia moulues, noix, huile de colza ; une source d’algues peut se discuter pour les personnes végétaliennes.",
+        "<strong>Zinc :</strong> légumineuses, graines, céréales complètes, produits laitiers et œufs selon votre régime ; le trempage et la fermentation améliorent parfois la tolérance et la disponibilité de certains minéraux."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Fatigue : ne vous auto-supplémentez pas au hasard",
+      "html": "Une fatigue inhabituelle, un essoufflement, une baisse de performance, des infections fréquentes ou des règles très abondantes justifient une consultation. Le fer en supplément ne se prend pas « par précaution » : un excès peut aussi être nocif. Faites rechercher la cause avec un professionnel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Construire une journée type adaptable à votre emploi du temps",
+      "id": "construire-une-journee-type-adaptable-a-votre-emploi-du-temp"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon plan alimentaire repose sur des modules interchangeables, pas sur un menu rigide. Pour une séance matinale, une petite collation glucidique avant l’effort peut suffire si vous la tolérez, suivie d’un vrai petit-déjeuner de récupération. Pour une séance en fin de journée, un déjeuner complet et une collation deux heures environ avant l’effort évitent de vous retrouver à plat. Les jours de gros volume, augmentez d’abord les féculents et prévoyez une collation supplémentaire plutôt que de surcharger tous les repas en fibres."
+    },
+    {
+      "type": "table",
+      "caption": "Exemple de trame végétarienne pour une journée avec entraînement",
+      "headers": [
+        "Moment",
+        "Option ovo-lacto-végétarienne",
+        "Option végétalienne",
+        "Objectif"
+      ],
+      "rows": [
+        [
+          "Petit-déjeuner",
+          "Porridge, lait ou yaourt, fruit, graines",
+          "Porridge avec boisson de soja enrichie, fruit, graines",
+          "Énergie durable et première prise protéique"
+        ],
+        [
+          "Déjeuner",
+          "Bowl riz, lentilles, légumes, œuf ou yaourt",
+          "Bowl riz, lentilles, tofu, légumes, sauce au tahini",
+          "Glucides, protéines, fer et légumes"
+        ],
+        [
+          "Avant séance",
+          "Banane et tartine ; ou compote et pain",
+          "Banane et tartine ; ou compote et pain",
+          "Carburant digeste"
+        ],
+        [
+          "Après séance / dîner",
+          "Pâtes, sauce tomate, tempeh ou omelette, légumes",
+          "Pâtes, sauce tomate, protéines de soja ou tofu, légumes",
+          "Récupération et recharge glucidique"
+        ],
+        [
+          "Collation si nécessaire",
+          "Fromage blanc et fruit, ou tartine de houmous",
+          "Yaourt au soja enrichi et fruit, ou smoothie au soja",
+          "Compléter énergie et protéines"
+        ]
+      ],
+      "note": "Les quantités dépendent de votre gabarit, de l’intensité de la séance, de votre objectif et de votre faim. Adaptez aussi les textures à votre tolérance digestive."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Manger végétarien sportif sans faire exploser le budget",
+      "id": "manger-vegetarien-sportif-sans-faire-exploser-le-budget"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les aliments les plus utiles ne sont pas forcément les plus transformés. Les lentilles, pois chiches, haricots secs, flocons d’avoine, riz, pâtes, semoule, légumes surgelés nature, tofu simple et œufs sont souvent bien plus économiques par portion qu’une succession de steaks végétaux, barres protéinées et boissons prêtes à boire. Les conserves de légumineuses font gagner du temps ; rincez-les avant emploi pour réduire le sel et améliorer parfois la digestion."
+    },
+    {
+      "type": "paragraph",
+      "html": "Réservez les substituts ultra-transformés aux jours où ils vous rendent vraiment service : retour tardif, déplacement, repas improvisé. Ils peuvent dépanner, mais vérifiez leur teneur en protéines, en sel et en graisses saturées. Batch cooking, congélation de portions de chili végétarien ou de sauce aux lentilles, et achats en vrac des féculents secs constituent une base plus régulière et plus abordable."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le meilleur investissement : des bases prêtes à assembler",
+      "html": "Gardez toujours un féculent cuit, une légumineuse ou du tofu, des légumes surgelés et un fruit à disposition. Cette organisation réduit le recours aux livraisons et aux produits « fitness » coûteux, tout en sécurisant vos repas après l’entraînement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui freinent le plus souvent la progression",
+      "id": "les-erreurs-qui-freinent-le-plus-souvent-la-progression"
+    },
+    {
+      "type": "paragraph",
+      "html": "Manger « sain » ne garantit pas une alimentation suffisante pour le sport. Une salade de crudités, quinoa et quelques graines peut être équilibrée sur le papier mais trop légère après une séance intense. À l’inverse, tout miser sur le fromage, les desserts protéinés ou les faux steaks végétaux limite la variété nutritionnelle. Cherchez l’équilibre entre aliments bruts, aliments pratiques et plaisir de manger."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À éviter pour préserver votre énergie et votre récupération",
+      "items": [
+        "Supprimer les féculents par peur de prendre du poids alors que votre entraînement exige du carburant.",
+        "Concentrer toutes les protéines au dîner au lieu de les répartir dans la journée.",
+        "Prendre une grande quantité de légumineuses crues ou peu habituelles juste avant une compétition.",
+        "Passer brutalement à une alimentation très riche en fibres sans laisser le temps au système digestif de s’adapter.",
+        "Confondre produit végétal et produit nutritionnellement intéressant : vérifiez la liste d’ingrédients et les apports.",
+        "Négliger la B12 dans une alimentation végétalienne, ou prendre du fer sans bilan ni conseil médical."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ajuster votre plan à partir de signaux concrets",
+      "id": "ajuster-votre-plan-a-partir-de-signaux-concrets"
+    },
+    {
+      "type": "paragraph",
+      "html": "Observez votre situation sur plusieurs semaines : qualité des séances, faim, sommeil, confort digestif, évolution du poids, récupération musculaire et plaisir alimentaire. Si vous terminez régulièrement vos entraînements épuisé, commencez par renforcer le repas ou la collation précédente en glucides. Si la récupération semble insuffisante, vérifiez la présence d’une source protéique dans les repas autour de l’effort et votre apport énergétique global. Si les ballonnements dominent, réduisez temporairement les fibres juste avant le sport, privilégiez les légumineuses bien cuites et testez les portions."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un suivi professionnel est particulièrement utile pour les adolescents sportifs, les personnes enceintes, celles ayant des antécédents de troubles du comportement alimentaire, les sportifs d’endurance à fort volume, ou toute personne souhaitant perdre du poids tout en maintenant une charge élevée. Un diététicien-nutritionniste peut transformer ces repères généraux en portions réellement adaptées, sans vous imposer de régime restrictif."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’alimentation du sportif végétarien",
+      "items": [
+        {
+          "q": "Un sportif végétarien doit-il obligatoirement prendre une protéine en poudre ?",
+          "a": "Non. Une poudre est un outil pratique, pas une obligation. Si vos repas contiennent régulièrement légumineuses, soja, œufs ou laitages selon votre régime, et que votre apport énergétique est suffisant, elle peut être superflue. Elle devient utile surtout en déplacement, après une séance quand un repas est éloigné, ou si vous peinez à atteindre vos besoins avec les aliments."
+        },
+        {
+          "q": "Comment éviter les ballonnements causés par les légumineuses ?",
+          "a": "Augmentez les quantités progressivement, rincez les conserves, faites tremper et cuire suffisamment les légumes secs, et choisissez des portions modestes avant l’effort. Les lentilles corail, le tofu, le tempeh ou les protéines de soja texturées sont parfois mieux tolérés. Évitez de tester une recette très riche en fibres avant une compétition."
+        },
+        {
+          "q": "Peut-on prendre du muscle avec une alimentation végétarienne ?",
+          "a": "Oui. La prise de muscle dépend surtout d’un entraînement progressif, d’assez d’énergie, d’un apport protéique réparti dans la journée, du sommeil et de la régularité. Les sources végétales, complétées si besoin par des œufs et laitages, permettent de bâtir des repas adaptés."
+        },
+        {
+          "q": "La vitamine B12 est-elle nécessaire si je mange des œufs et du fromage ?",
+          "a": "Cela dépend des quantités et de la régularité de vos consommations, mais les apports peuvent rester insuffisants chez certains ovo-lacto-végétariens. Pour une alimentation végétalienne, la supplémentation est indispensable. Dans les deux cas, demandez conseil à un professionnel de santé et ne vous fiez pas à des sources végétales non fiables."
+        },
+        {
+          "q": "Que manger juste avant une course ou une séance de musculation ?",
+          "a": "Choisissez surtout des glucides faciles à digérer et testés à l’entraînement : banane, compote, pain avec confiture, galettes de riz ou petit porridge selon le délai disponible. Limitez les aliments très gras, très épicés ou riches en fibres juste avant l’effort. Pour une séance de musculation, une petite source protéique peut compléter si le dernier repas est ancien."
+        },
+        {
+          "q": "Le fer végétal suffit-il pour un sportif ?",
+          "a": "Il peut suffire avec une alimentation variée et bien construite, mais son absorption est moins facile. Associez les sources de fer végétal à de la vitamine C et éloignez thé ou café des repas riches en fer si nécessaire. En cas de fatigue ou de doute, seul un bilan interprété médicalement permet de décider d’une éventuelle supplémentation."
+        }
+      ]
+    }
+  ]
+}

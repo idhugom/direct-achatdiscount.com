@@ -1,0 +1,427 @@
+{
+  "title": "Les ouragans vus de l’espace : images satellites et observations",
+  "slug": "les-ouragans-vus-de-lespace-images-satellites-et-observations",
+  "path": "/divers/les-ouragans-vus-de-lespace-images-satellites-et-observations.html",
+  "category": "tech",
+  "tags": [
+    "ouragan",
+    "satellite météo",
+    "imagerie spatiale",
+    "cyclone tropical",
+    "météorologie",
+    "observation terrestre"
+  ],
+  "excerpt": "Images visibles, infrarouges ou radar : apprenez à comprendre ce que les satellites révèlent vraiment sur la structure, la force et la trajectoire d’un ouragan.",
+  "metaDescription": "Comment les satellites observent les ouragans : visible, infrarouge, micro-ondes, limites des images et conseils pour suivre un cyclone sans erreur.",
+  "seoTitle": "Ouragans vus de l’espace : lire les images satellites",
+  "heroKicker": "Météo orbitale",
+  "readingTime": 12,
+  "date": "2023-10-28T07:54:20",
+  "image": {
+    "id": "1227",
+    "alt": "Les ouragans vus de l’espace : images satellites et observations",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Depuis l’espace, un ouragan apparaît comme une immense spirale blanche, parfois percée d’un œil d’une netteté saisissante. Mais une belle image satellite ne dit pas tout : pour comprendre la puissance, le déplacement et le danger réel d’un cyclone tropical, il faut savoir quel capteur l’a produite et ce que ses couleurs signifient."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Une image <strong>visible</strong> montre la texture et l’organisation des nuages, mais elle devient inutilisable la nuit.",
+        "L’<strong>infrarouge</strong> fonctionne jour et nuit : il renseigne surtout sur la température du sommet des nuages, pas directement sur le vent au sol.",
+        "Les satellites <strong>géostationnaires</strong> suivent l’évolution presque en continu ; les satellites à orbite polaire apportent des mesures plus détaillées, mais beaucoup moins fréquentes sur une zone donnée.",
+        "Un œil bien dessiné est souvent le signe d’un cyclone organisé, mais il ne suffit pas à déterminer seul sa catégorie ou son danger.",
+        "Pour suivre une menace, fiez-vous en priorité aux bulletins des services météorologiques officiels et aux alertes locales, jamais à une seule capture d’écran partagée en ligne."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi les ouragans sont-ils si bien observés depuis l’espace ?",
+      "id": "pourquoi-les-ouragans-sont-ils-si-bien-observes-depuis-l-esp"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un ouragan — appelé <strong>typhon</strong> ou <strong>cyclone tropical</strong> selon le bassin océanique — se forme et vit principalement au-dessus de mers chaudes. Ce sont justement des régions immenses, où les observations directes sont rares. Les satellites comblent cette lacune : ils photographient les nuages, mesurent leur rayonnement thermique, suivent la vapeur d’eau et, pour certains instruments, sondent indirectement la pluie, la glace et le vent."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette vue globale est décisive pour repérer une perturbation naissante, situer précisément son centre, suivre ses bandes spiralées et anticiper son arrivée près des côtes. Les images successives, souvent assemblées en animation, révèlent également le mouvement de rotation et les changements de structure. Elles ne remplacent pas les bouées, les stations terrestres, les radars côtiers, les avions de reconnaissance lorsqu’ils sont disponibles ni les modèles de prévision : elles les complètent."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "24 h/24",
+          "label": "l’infrarouge permet d’observer les systèmes, y compris sans lumière solaire"
+        },
+        {
+          "value": "Quelques minutes",
+          "label": "ordre de grandeur entre deux images d’un satellite géostationnaire sur une zone suivie"
+        },
+        {
+          "value": "Plusieurs centaines de km",
+          "label": "diamètre fréquent de la couverture nuageuse d’un cyclone mature"
+        },
+        {
+          "value": "Quelques dizaines de km",
+          "label": "diamètre possible de l’œil, lorsqu’il est clairement formé"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les grandes familles d’images : ce que chacune permet de voir",
+      "id": "les-grandes-familles-d-images-ce-que-chacune-permet-de-voir"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première règle consiste à identifier le type d’imagerie avant de tirer une conclusion. Les palettes de couleurs spectaculaires utilisées sur les cartes météo sont souvent des <strong>faux codes couleur</strong> destinés à mieux distinguer des températures ou des masses nuageuses. Une zone rouge, violette ou noire ne correspond donc pas automatiquement à une zone « plus dangereuse » : tout dépend de l’échelle affichée par le fournisseur."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Visible : la photographie la plus intuitive",
+      "id": "visible-la-photographie-la-plus-intuitive"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’imagerie visible utilise la lumière réfléchie par la Terre et les nuages. De jour, elle restitue finement la forme des bandes spiralées, les détails de l’œil, les ombres projetées par les sommets convectifs et parfois les vagues ou la couleur de l’océan. Les nuages hauts et épais paraissent généralement très blancs ; les zones dégagées, plus sombres. Son défaut est évident : elle n’apporte presque plus rien la nuit et peut être gênée par un soleil bas ou des angles de vue défavorables."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Infrarouge : suivre le cyclone de nuit",
+      "id": "infrarouge-suivre-le-cyclone-de-nuit"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’infrarouge mesure le rayonnement thermique émis par les surfaces et les nuages. Les sommets nuageux très élevés sont froids ; ils sont souvent représentés dans des teintes renforcées qui facilitent la lecture. Des nuages très froids signalent généralement une convection profonde et des pluies potentiellement intenses, mais <strong>ils ne prouvent pas à eux seuls que les vents les plus violents se trouvent juste dessous</strong>. L’infrarouge est particulièrement utile pour observer la persistance du mur de l’œil ou l’explosion de cellules orageuses au cœur du système."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vapeur d’eau, micro-ondes et radar : voir au-delà des apparences",
+      "id": "vapeur-d-eau-micro-ondes-et-radar-voir-au-dela-des-apparence"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les canaux vapeur d’eau mettent en évidence l’humidité des couches moyennes et hautes de l’atmosphère. Ils aident à repérer l’air sec qui peut fragiliser un cyclone, ou les flux d’altitude susceptibles d’influencer sa trajectoire. Les capteurs micro-ondes, embarqués surtout sur des satellites défilants, peuvent donner un aperçu de la structure interne des précipitations à travers une partie de la couverture nuageuse. Enfin, les radars satellitaires et les altimètres apportent des observations très ponctuelles mais précieuses sur la pluie, l’état de la mer ou les vagues. Ces produits spécialisés demandent davantage de prudence dans leur interprétation."
+    },
+    {
+      "type": "table",
+      "caption": "Bien choisir l’imagerie selon la question que vous vous posez",
+      "headers": [
+        "Type d’image",
+        "Ce qu’elle montre le mieux",
+        "Atout principal",
+        "Limite à connaître"
+      ],
+      "rows": [
+        [
+          "Visible",
+          "Forme des nuages, œil, bandes spiralées",
+          "Lecture intuitive et très détaillée de jour",
+          "Inefficace la nuit ; ne mesure pas le vent"
+        ],
+        [
+          "Infrarouge",
+          "Température des sommets nuageux",
+          "Disponible de jour comme de nuit",
+          "Couleurs à interpréter selon l’échelle fournie"
+        ],
+        [
+          "Vapeur d’eau",
+          "Humidité et circulation en altitude",
+          "Éclaire l’environnement du cyclone",
+          "Ne décrit pas directement les pluies au sol"
+        ],
+        [
+          "Micro-ondes",
+          "Structure de pluie et cœur interne",
+          "Peut compléter la vue masquée par les nuages élevés",
+          "Passages peu fréquents et lecture plus technique"
+        ],
+        [
+          "Radar côtier",
+          "Précipitations et mouvement près des terres",
+          "Très utile à l’approche d’un littoral",
+          "Portée limitée et indisponible au large"
+        ]
+      ],
+      "note": "Aucune de ces sources ne doit être utilisée isolément pour conclure à l’intensité ou au risque local."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas nuages froids et vents maximaux",
+      "html": "Les couleurs les plus vives d’une image infrarouge désignent en général des sommets nuageux très froids et élevés. Elles peuvent signaler de puissants orages, mais la zone de vents les plus forts se situe souvent autour du mur de l’œil et doit être évaluée avec des données météorologiques dédiées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Satellites géostationnaires ou défilants : deux regards complémentaires",
+      "id": "satellites-geostationnaires-ou-defilants-deux-regards-comple"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des animations impressionnantes d’ouragans proviennent de satellites <strong>géostationnaires</strong>. Placés très loin au-dessus de l’équateur, ils restent alignés sur la même région de la Terre et la photographient en continu. À l’inverse, les satellites à orbite polaire ou quasi polaire passent rapidement au-dessus de différentes portions du globe. Ils ne restent pas centrés sur le cyclone, mais leurs instruments observent parfois avec une finesse ou des capacités de sondage complémentaires."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux stratégies d’observation depuis l’orbite",
+      "left": {
+        "title": "Satellite géostationnaire",
+        "points": [
+          "Vue répétée de la même zone, idéale pour l’animation et le suivi de trajectoire.",
+          "Observation fréquente des changements rapides de l’œil et des bandes nuageuses.",
+          "Large couverture océanique depuis une position fixe.",
+          "Détails généralement moins fins vers les extrémités du champ observé."
+        ]
+      },
+      "right": {
+        "title": "Satellite défilant",
+        "points": [
+          "Passages brefs au-dessus du système, à des horaires variables.",
+          "Capteurs souvent très utiles pour sonder les nuages, l’humidité ou la pluie.",
+          "Résolution spatiale potentiellement plus fine sur la zone survolée.",
+          "Absence de film continu : il peut s’écouler de nombreuses heures entre deux passages pertinents."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "En pratique, les prévisionnistes associent ces regards. L’animation géostationnaire renseigne sur l’évolution minute après minute ; les données défilantes peuvent confirmer une réorganisation interne ou affiner la localisation du centre. Lorsque le cyclone approche d’un territoire équipé, les radars au sol deviennent à leur tour fondamentaux pour suivre les bandes pluvieuses et anticiper les cumuls les plus forts."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment lire une image d’ouragan sans se tromper",
+      "id": "comment-lire-une-image-d-ouragan-sans-se-tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’observer la spirale, commencez par lire la légende. Vérifiez l’heure, le fuseau utilisé, le type de canal, la zone couverte et, pour l’infrarouge, l’échelle de température. Une image sans horodatage fiable est presque inutilisable : un ouragan peut évoluer sensiblement en quelques heures, et les publications virales réemploient fréquemment des images anciennes ou issues d’un autre bassin."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode de lecture en cinq étapes",
+      "items": [
+        {
+          "title": "Situez le document",
+          "text": "Identifiez la source, l’heure d’acquisition, le canal employé et la région. Comparez l’heure à celle du dernier bulletin officiel."
+        },
+        {
+          "title": "Repérez le centre de circulation",
+          "text": "Cherchez un œil, une zone centrale plus calme ou le point autour duquel les bandes semblent tourner. Un centre mal défini est fréquent dans les systèmes jeunes ou désorganisés."
+        },
+        {
+          "title": "Observez la symétrie",
+          "text": "Un cyclone compact, arrondi et entouré de bandes régulières paraît souvent mieux organisé. Une structure étirée ou décalée peut indiquer du cisaillement du vent ou de l’air sec, sans permettre un diagnostic définitif."
+        },
+        {
+          "title": "Regardez l’animation, pas une image fixe",
+          "text": "La succession d’images montre le déplacement réel des nuages, les fluctuations de l’œil et l’arrivée de bandes pluvieuses sur les côtes."
+        },
+        {
+          "title": "Croisez avec le bulletin de risque",
+          "text": "Consultez la trajectoire prévue, les vents, les pluies, la houle et les alertes. Le danger pour un lieu dépend de tous ces paramètres, pas de la beauté de la spirale."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les indices visuels qui méritent votre attention",
+      "items": [
+        "Un <strong>œil dégagé</strong> et entouré d’un anneau nuageux dense : le cyclone possède souvent une circulation très organisée, mais son intensité doit être confirmée.",
+        "Des bandes externes qui atteignent déjà une côte : pluies, rafales et mer dangereuse peuvent commencer bien avant l’arrivée du centre.",
+        "Un système qui paraît asymétrique : il peut subir un cisaillement, interagir avec les terres ou absorber de l’air plus sec.",
+        "Une masse nuageuse qui s’étend loin du centre : le risque de fortes pluies peut concerner une zone bien plus large que celle des vents extrêmes.",
+        "Un déplacement vers une côte : vérifiez surtout le cône de prévision, les niveaux d’alerte et les consignes locales."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Œil, mur de l’œil et bandes spirales : ce que révèle la structure",
+      "id": "il-mur-de-l-il-et-bandes-spirales-ce-que-revele-la-structure"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’œil est la zone relativement calme qui peut apparaître au centre des cyclones les plus intenses et les mieux structurés. Depuis l’espace, il peut se distinguer comme un trou plus sombre dans les nuages, notamment en visible. Autour se trouve le <strong>mur de l’œil</strong>, un anneau d’orages très vigoureux qui abrite souvent les phénomènes les plus sévères. Plus loin, les bandes spiralées transportent des averses et des orages pouvant générer rafales, trombes marines, pluies intenses et une mer déjà très agitée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Toutefois, il serait imprudent de classer un cyclone sur son seul aspect. Un œil peut se combler temporairement, se dédoubler ou changer de taille au cours d’un cycle de remplacement du mur de l’œil. Un cyclone sans œil visible peut aussi produire des pluies majeures ou une submersion marine grave. De même, la taille du système ne se confond pas avec sa force : un petit cyclone très intense et un vaste système moins intense ne présentent pas les mêmes dangers, mais aucun n’est anodin."
+    },
+    {
+      "type": "proscons",
+      "title": "Se fier aux images satellites : forces et faiblesses",
+      "pros": [
+        "Permettent de suivre de vastes zones océaniques où les observations sont rares.",
+        "Offrent une vision immédiate de l’organisation générale et du déplacement des nuages.",
+        "Rendent les phénomènes plus compréhensibles grâce aux animations.",
+        "Disponibles gratuitement sur de nombreux portails institutionnels et scientifiques."
+      ],
+      "cons": [
+        "Ne donnent pas seules une mesure fiable des rafales ressenties à votre adresse.",
+        "Les palettes de couleurs et les traitements diffèrent d’un site à l’autre.",
+        "Une image fixe peut être ancienne, recadrée ou sortie de son contexte.",
+        "Les impacts locaux dépendent aussi du relief, de la marée, de l’état des sols et de la vulnérabilité du bâti."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Suivre un cyclone en ligne : les sources et outils à privilégier",
+      "id": "suivre-un-cyclone-en-ligne-les-sources-et-outils-a-privilegi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une observation de loisir ou un suivi pédagogique, les portails d’agences météorologiques, de services spatiaux publics et d’universités sont les meilleurs points de départ. Recherchez des cartes où le canal satellite, l’heure de mise à jour et la légende restent accessibles. Une animation sur plusieurs heures vaut toujours mieux qu’une image isolée. Les plateformes officielles des centres de surveillance cyclonique publient en parallèle des positions analysées, des prévisions de trajectoire et des avertissements."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous êtes directement concerné par un cyclone, le réflexe doit être différent : activez les alertes officielles sur votre téléphone, suivez l’autorité météorologique et la sécurité civile locales, et préparez-vous avant la dégradation. Une carte satellite est un outil de compréhension ; elle n’est ni une alerte, ni un ordre d’évacuation, ni un instrument de navigation."
+    },
+    {
+      "type": "table",
+      "caption": "Observer un ouragan : options, coût et usage pertinent",
+      "headers": [
+        "Solution",
+        "Budget indicatif",
+        "Pour quoi faire ?",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Sites et applications météo institutionnels",
+          "Gratuit",
+          "Suivre les animations, bulletins et alertes",
+          "Privilégier les données datées et la légende"
+        ],
+        [
+          "Cartes satellites spécialisées en ligne",
+          "Gratuit à faible coût selon les fonctions",
+          "Comparer les canaux et consulter les archives",
+          "Ne pas confondre options visuelles et données opérationnelles"
+        ],
+        [
+          "Réception satellite amateur avec matériel dédié",
+          "Budget de quelques dizaines à quelques centaines d’euros, voire davantage",
+          "Recevoir certaines transmissions et apprendre le traitement d’image",
+          "Exige une antenne adaptée, des connaissances radio et le respect de la réglementation"
+        ],
+        [
+          "Station météo domestique",
+          "Budget variable, souvent accessible à intermédiaire",
+          "Mesurer vos conditions locales avant ou après le passage",
+          "Ne remplace pas un réseau professionnel ni une alerte officielle"
+        ]
+      ],
+      "note": "Les services publics d’alerte sont généralement l’option la plus utile et la plus fiable pour la sécurité ; l’équipement amateur relève surtout de la passion et de l’apprentissage."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe : une animation et un bulletin",
+      "html": "Pour interpréter une structure nuageuse, regardez une animation couvrant plusieurs heures. Pour prendre une décision, consultez ensuite le dernier bulletin officiel : trajectoire prévue, vents, pluies, houle, risque de submersion et mesures à appliquer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus fréquentes dans les images partagées",
+      "id": "les-erreurs-les-plus-frequentes-dans-les-images-partagees"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les réseaux sociaux amplifient les vues spectaculaires, parfois au détriment du contexte. L’erreur classique est de prendre une image visible très contrastée pour une photographie prise « en direct » alors qu’il peut s’agir d’un composite, d’une image colorisée ou d’une archive. Une autre consiste à supposer qu’un ouragan est en train de toucher une côte parce que ses nuages la recouvrent : les premiers effets dangereux, notamment la houle et les pluies, précèdent souvent largement l’arrivée du centre."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist avant de partager ou d’interpréter une image",
+      "items": [
+        "Vérifiez l’<strong>horodatage complet</strong>, y compris le fuseau horaire.",
+        "Contrôlez que le nom du cyclone et le bassin géographique correspondent réellement à l’image.",
+        "Identifiez le canal : visible, infrarouge, vapeur d’eau ou composition colorée.",
+        "Cherchez l’échelle et la légende avant d’interpréter les couleurs.",
+        "Comparez avec un bulletin émis par une autorité compétente.",
+        "Évitez de relayer une estimation de force, de trajectoire ou d’impact si elle ne vient pas d’une source officielle récente."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre le danger au sol : ce que l’espace ne montre pas directement",
+      "id": "comprendre-le-danger-au-sol-ce-que-l-espace-ne-montre-pas-di"
+    },
+    {
+      "type": "paragraph",
+      "html": "La vue orbitale explique la mécanique générale, mais elle ne permet pas d’évaluer précisément l’expérience vécue dans chaque quartier. Les rafales varient selon l’exposition, les immeubles, les collines et les vallées. Les pluies dépendent de la vitesse de déplacement du système, de ses bandes externes et du relief ; un cyclone qui ralentit peut provoquer des inondations très loin de son œil. La surcote et les vagues dépendent aussi de l’orientation du littoral, de la marée et de la bathymétrie."
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est pourquoi l’image la plus impressionnante n’est pas nécessairement associée aux pires dommages, et inversement. Un système moins photogénique peut être catastrophique par ses précipitations ou sa submersion marine. Si vous voyagez ou résidez dans une région exposée, préparez vos décisions à partir des consignes territoriales : itinéraire d’évacuation, abri, eau, médicaments, documents, batterie et moyens de communication."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Une image n’est jamais une consigne de sécurité",
+      "html": "Les satellites aident à comprendre l’ouragan à l’échelle de l’océan. Pour votre sécurité, seules les alertes et instructions locales doivent guider vos déplacements, votre éventuelle évacuation et la protection de votre logement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pour aller plus loin : observer avec rigueur, même en amateur",
+      "id": "pour-aller-plus-loin-observer-avec-rigueur-meme-en-amateur"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’observation des ouragans peut être passionnante et instructive, à condition d’adopter une démarche méthodique. Constituez-vous un petit tableau de suivi avec l’heure, la position officielle, le canal observé et une note sur la structure apparente. En quelques jours, vous comprendrez mieux pourquoi les météorologues évitent les conclusions hâtives : les nuages changent vite, l’œil peut fluctuer et les prévisions sont ajustées à mesure que de nouvelles observations arrivent."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un usage quotidien, aucun achat n’est nécessaire : une connexion internet et des sources fiables suffisent. Les amateurs d’imagerie ou de radio peuvent envisager du matériel de réception, mais il faut d’abord vérifier les fréquences accessibles, les logiciels compatibles, les contraintes d’installation et les règles applicables dans leur pays. Investir dans une station météo personnelle peut aussi enrichir l’observation locale, sans prétendre mesurer le cœur d’un cyclone situé au large."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les ouragans vus de l’espace",
+      "items": [
+        {
+          "q": "Peut-on voir un ouragan en direct depuis un satellite ?",
+          "a": "On peut suivre des images actualisées très fréquemment, surtout grâce aux satellites géostationnaires, mais il ne s’agit pas d’une vidéo au sens strict. Les animations assemblent des prises de vue successives. Le délai de publication et la cadence varient selon le système et le portail consulté."
+        },
+        {
+          "q": "Pourquoi les ouragans ont-ils des couleurs rouge, violette ou noire sur certaines cartes ?",
+          "a": "Ces couleurs proviennent généralement d’une palette appliquée à des données infrarouges ou composites. Elles servent souvent à différencier les températures des sommets nuageux. Elles ne représentent ni une couleur réelle vue depuis l’espace, ni une échelle universelle de danger : lisez toujours la légende."
+        },
+        {
+          "q": "Un œil visible signifie-t-il forcément que l’ouragan est très puissant ?",
+          "a": "Un œil net indique souvent une organisation avancée de la circulation, mais il ne permet pas à lui seul d’établir l’intensité exacte. Sa forme peut changer rapidement, notamment pendant un cycle de remplacement du mur de l’œil. Les estimations officielles de vent et de pression restent la référence."
+        },
+        {
+          "q": "Quelle image satellite faut-il regarder la nuit ?",
+          "a": "L’imagerie infrarouge est la plus utile, car elle ne dépend pas de la lumière du Soleil. Elle met en évidence les températures des nuages et permet de suivre la structure générale. Pour une lecture complète, comparez-la avec les animations précédentes, les cartes de pluie et les bulletins officiels."
+        },
+        {
+          "q": "Les satellites peuvent-ils mesurer les vents d’un ouragan ?",
+          "a": "Certains instruments satellitaires fournissent des estimations du vent à la surface de l’océan ou des informations indirectes sur la structure du système. Néanmoins, les vents extrêmes et les rafales sont difficiles à mesurer précisément depuis l’espace seul. Les météorologues combinent satellites, bouées, avions lorsqu’ils sont disponibles, radars et modèles."
+        },
+        {
+          "q": "Faut-il acheter du matériel pour recevoir des images satellites météo ?",
+          "a": "Non, ce n’est pas nécessaire pour suivre un cyclone : les ressources officielles en ligne sont largement suffisantes et plus simples à interpréter. La réception amateur est un loisir technique qui implique du matériel, des logiciels, une installation adaptée et un temps d’apprentissage. Elle ne remplace jamais les canaux d’alerte publics."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,447 @@
+{
+  "title": "Découvrez comment construire une pergola en bois pour son jardin",
+  "slug": "decouvrez-comment-construire-une-pergola-en-bois-pour-son-jardin",
+  "path": "/divers/decouvrez-comment-construire-une-pergola-en-bois-pour-son-jardin.html",
+  "category": "maison",
+  "tags": [
+    "pergola bois",
+    "aménagement jardin",
+    "bricolage extérieur",
+    "terrasse",
+    "fondations",
+    "abri de jardin"
+  ],
+  "excerpt": "Un guide concret pour concevoir, dimensionner et construire une pergola en bois durable, adaptée à votre jardin et à votre budget.",
+  "metaDescription": "Construisez une pergola en bois solide et durable : plans, choix du bois, fondations, budget, démarches, montage et entretien.",
+  "seoTitle": "Construire une pergola en bois : le guide complet",
+  "heroKicker": "Ombre sur mesure",
+  "readingTime": 14,
+  "date": "2023-10-06T05:59:45",
+  "image": {
+    "id": "1156",
+    "alt": "Découvrez comment construire une pergola en bois pour son jardin",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Construire une pergola en bois est un excellent moyen de créer un espace de vie extérieur, de structurer une terrasse et d’apporter une ombre modulable au jardin. Mais sa réussite repose moins sur la décoration que sur trois décisions techniques : un bon emplacement, une structure correctement dimensionnée et des ancrages capables de résister durablement au vent, à l’humidité et au poids d’une éventuelle couverture."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir avant de commencer",
+      "items": [
+        "Choisissez d’abord entre une <strong>pergola autoportée</strong> et une pergola <strong>adossée</strong> : l’implantation détermine les fondations, les fixations et la pente éventuelle.",
+        "Pour une structure durable, privilégiez du bois adapté à l’extérieur, des sections cohérentes avec la portée et de la quincaillerie galvanisée ou inoxydable.",
+        "N’enterrez pas les poteaux en bois directement dans la terre : utilisez des platines ou des pieds de poteaux fixés sur des plots en béton.",
+        "Vérifiez le PLU et les règles d’urbanisme de votre commune avant l’achat des matériaux, surtout si la pergola est couverte, adossée ou visible depuis l’espace public.",
+        "Une pergola simple peut être réalisée par un bricoleur soigneux ; une couverture lourde, une fixation en façade complexe ou un sol instable justifient l’avis d’un professionnel."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Définir le projet : à quoi doit servir votre pergola ?",
+      "id": "definir-le-projet-a-quoi-doit-servir-votre-pergola"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pergola n’est pas forcément un toit étanche. Dans sa version classique, elle forme une ossature ouverte composée de poteaux, de poutres porteuses et de traverses. Elle peut accueillir des plantes grimpantes, une toile d’ombrage, des canisses ou des lames orientables. Si votre priorité est de déjeuner dehors lors d’averses fréquentes, il faut plutôt prévoir une couverture réellement protectrice, une pente, une évacuation de l’eau et une structure calculée pour supporter cette charge supplémentaire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de dessiner le premier plan, notez vos usages : coin repas, salon de jardin, cuisine extérieure, passage entre la maison et le jardin, support pour végétaux ou simple zone d’ombre. Mesurez aussi le mobilier installé, portes ouvertes comprises, et conservez une circulation confortable autour de la table et des assises. Une belle pergola trop basse, trop étroite ou placée sur un axe de vent dominant devient vite contraignante."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "4 poteaux",
+          "label": "le minimum habituel pour une pergola autoportée rectangulaire"
+        },
+        {
+          "value": "≈ 2,20 à 2,50 m",
+          "label": "hauteur utile souvent confortable sous les poutres"
+        },
+        {
+          "value": "10 à 15 cm",
+          "label": "ordre de grandeur d’espacement courant entre traverses d’ombrage"
+        },
+        {
+          "value": "1 à 2 jours",
+          "label": "temps de montage indicatif d’une structure simple, hors séchage des plots"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pergola adossée ou autoportée : le bon choix pour votre terrain",
+      "id": "pergola-adossee-ou-autoportee-le-bon-choix-pour-votre-terrai"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix entre ces deux configurations influence le budget, le nombre de poteaux, les contraintes de fixation et la manière dont la pluie ou le vent solliciteront l’ouvrage. Une pergola adossée prolonge naturellement la maison et peut limiter les éléments porteurs côté façade. Une version autoportée est plus libre : elle peut créer un îlot ombragé au milieu du jardin, au bord d’une piscine ou au-dessus d’une terrasse éloignée de la maison."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux implantations, deux logiques de construction",
+      "left": {
+        "title": "Pergola adossée à la maison",
+        "points": [
+          "Optimise l’espace sur une terrasse attenante et crée une transition directe avec l’intérieur.",
+          "Nécessite une fixation fiable dans un mur porteur, jamais dans un simple parement ou une isolation extérieure sans système adapté.",
+          "Demande une vigilance particulière sur l’étanchéité de la façade, surtout avec une couverture imperméable.",
+          "Peut être plus économique en poteaux, mais pas forcément si la maçonnerie impose des fixations techniques."
+        ]
+      },
+      "right": {
+        "title": "Pergola autoportée",
+        "points": [
+          "S’installe là où l’ombre est réellement utile, sans dépendre de la façade.",
+          "Requiert généralement quatre poteaux et donc quatre fondations ou ancrages solides.",
+          "Évite de percer le mur de la maison et simplifie les risques d’infiltration.",
+          "Doit être particulièrement bien contreventée dans les jardins exposés au vent."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne fixez jamais “à l’aveugle” sur une façade",
+      "html": "Avant de poser une muralière, identifiez la nature du support : béton, brique pleine, parpaing creux, pierre, ossature bois ou mur isolé par l’extérieur. Les chevilles et scellements adaptés ne sont pas les mêmes. En cas de doute, faites valider le support par un artisan : une fixation qui arrache peut endommager la façade et rendre la pergola dangereuse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vérifier les règles d’urbanisme avant d’acheter le bois",
+      "id": "verifier-les-regles-d-urbanisme-avant-d-acheter-le-bois"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pergola modifie l’aspect extérieur de votre propriété et peut être encadrée par des règles locales. Selon sa surface au sol, sa hauteur, son caractère adossé ou indépendant, sa couverture, votre zone d’habitation et les prescriptions du plan local d’urbanisme, une formalité préalable ou une autorisation peut être nécessaire. Les secteurs protégés, lotissements et copropriétés ajoutent parfois des contraintes de matériaux, de teintes ou d’implantation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Consultez le service urbanisme de la mairie avec un croquis coté : dimensions, hauteur, emplacement par rapport aux limites séparatives, nature de la couverture et photos du site. Demandez également les règles de voisinage applicables. Même lorsqu’aucune formalité n’est requise, éviter une implantation trop proche d’une limite ou une structure créant une vue directe chez le voisin prévient bien des conflits."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les informations à réunir pour votre vérification",
+      "items": [
+        "Un plan simple de votre parcelle indiquant maison, terrasse, clôtures et pergola.",
+        "Les dimensions hors tout : longueur, largeur, hauteur au point le plus haut et éventuelle pente.",
+        "Le type de projet : structure ouverte, toile rétractable, canisses, plaques transparentes ou toiture plus lourde.",
+        "La distance aux limites de propriété et aux ouvertures voisines.",
+        "Les règles du PLU, du règlement de lotissement et, le cas échéant, de copropriété."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir le bois, les sections et la quincaillerie",
+      "id": "choisir-le-bois-les-sections-et-la-quincaillerie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le matériau doit être sélectionné en fonction de son exposition et non uniquement de son apparence. Les résineux traités pour un usage extérieur sont accessibles et faciles à travailler, à condition que leur traitement corresponde au niveau d’humidité réel. Le mélèze, le douglas ou certains bois naturellement durables offrent une esthétique chaleureuse et une bonne tenue, mais ils demandent tout de même une conception évitant les stagnations d’eau. Les bois exotiques sont très résistants, mais leur coût, leur poids et leur provenance doivent être examinés avec attention."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les poteaux et les poutres, ne raisonnez pas seulement en dimensions “standard”. La portée entre appuis, la charge de toiture, la neige dans votre région, le vent, la présence de plantes lourdes et la largeur de la pergola influencent les sections nécessaires. Sur une petite pergola ouverte, des poteaux carrés robustes et des poutres épaisses suffisent souvent. Dès que la portée s’allonge ou que vous installez des panneaux rigides, une toile permanente ou des végétaux anciens, il est prudent de surdimensionner ou de demander conseil à un charpentier."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de choix des principaux éléments",
+      "headers": [
+        "Élément",
+        "À privilégier",
+        "Point de vigilance",
+        "Alternative pertinente"
+      ],
+      "rows": [
+        [
+          "Poteaux",
+          "Bois structurel pour extérieur, droit et peu fissuré",
+          "Le poteau ne doit jamais être en contact permanent avec la terre",
+          "Poteaux métalliques thermolaqués pour un style plus fin"
+        ],
+        [
+          "Poutres porteuses",
+          "Pièces massives ou lamellé-collé adapté à l’extérieur",
+          "La section dépend surtout de la portée et de la couverture",
+          "Ajouter un poteau intermédiaire pour réduire la portée"
+        ],
+        [
+          "Traverses",
+          "Bois plus léger mais stable, correctement espacé",
+          "Un espacement trop grand donne peu d’ombre ; trop serré alourdit visuellement",
+          "Lames orientables ou toile tendue"
+        ],
+        [
+          "Fixations",
+          "Boulons, tirefonds, équerres et sabots galvanisés à chaud ou inox",
+          "Éviter les vis intérieures ordinaires qui rouillent rapidement",
+          "Assemblages traditionnels si vous maîtrisez la charpente"
+        ],
+        [
+          "Pieds de poteaux",
+          "Platine réglable ou support en U fixé au béton",
+          "Conserver un vide entre bois et béton pour évacuer l’eau",
+          "Ancrage chimique sur dalle saine et suffisamment épaisse"
+        ]
+      ],
+      "note": "Les sections et fixations définitives doivent être adaptées à votre configuration, à la portée et aux charges locales. Une couverture lourde ne se traite pas comme une simple pergola ajourée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concevoir un plan stable : dimensions, pente et contreventement",
+      "id": "concevoir-un-plan-stable-dimensions-pente-et-contreventement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dessinez la structure vue de dessus et de face avant toute découpe. Placez les poteaux, les poutres principales, les traverses et les renforts diagonaux. Pour une pergola rectangulaire, vérifiez les diagonales : si elles sont identiques, votre implantation est d’équerre. Ce contrôle très simple évite de devoir forcer les pièces au montage et assure un rendu beaucoup plus propre."
+    },
+    {
+      "type": "paragraph",
+      "html": "La stabilité latérale est souvent sous-estimée. Un cadre constitué de quatre poteaux et de poutres peut se déformer sous les rafales si rien ne le triangule. Les jambes de force, installées en diagonale entre poteaux et poutres, sont une solution fiable et esthétique. Elles sont particulièrement importantes sur une structure autoportée, en terrain ouvert ou si la pergola porte une toile fixe susceptible de se comporter comme une voile."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous ajoutez une couverture étanche, prévoyez une pente régulière vers une zone d’évacuation. Ne comptez pas sur de légères déformations du bois pour guider l’eau : une eau stagnante alourdit la toiture, salit les plaques et augmente le risque de fuite. Pensez dès le plan aux gouttières, aux descentes d’eau, au dégagement des ouvrants de la maison et à la hauteur disponible sous les poutres."
+    },
+    {
+      "type": "proscons",
+      "title": "Construire soi-même : les vrais avantages et limites",
+      "pros": [
+        "Vous adaptez exactement les dimensions à votre terrasse, votre mobilier et votre exposition.",
+        "Le budget peut être maîtrisé en choisissant une structure simple et en réalisant vous-même la préparation.",
+        "Vous pouvez faire évoluer l’ombrage au fil des saisons : plantes, toile, canisses ou rideaux latéraux.",
+        "Les réparations et l’entretien sont plus faciles lorsque vous connaissez chaque assemblage. "
+      ],
+      "cons": [
+        "Une erreur d’implantation ou de niveau se répercute sur toute la structure.",
+        "Les fondations, la fixation à une façade et le levage des poutres demandent de la rigueur et idéalement une seconde personne.",
+        "Une couverture rigide augmente fortement les exigences de dimensionnement et d’étanchéité.",
+        "Le bois brut nécessite une protection et un entretien réguliers pour rester esthétique et sain."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réaliser des fondations durables sans emprisonner le bois",
+      "id": "realiser-des-fondations-durables-sans-emprisonner-le-bois"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure structure ne compensera jamais des fondations insuffisantes. Les efforts ne viennent pas seulement du poids vertical : le vent peut soulever une toiture, pousser latéralement les poteaux et faire travailler les assemblages. Sur une terrasse existante, vérifiez que la dalle est suffisamment saine et épaisse avant de fixer des platines. Une dalle décorative mince ou des pavés posés sur lit de sable ne constituent pas automatiquement un ancrage structurel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une pergola autoportée, les plots en béton hors sol ou légèrement affleurants constituent une solution courante. Leur profondeur et leur largeur doivent être adaptées à la nature du terrain, au gel éventuel, à la hauteur de l’ouvrage et à son exposition. Une fois le béton suffisamment durci, fixez des pieds de poteaux métalliques réglables. Ils maintiennent le bois à distance de l’eau au sol et permettent un ajustement fin du niveau."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle qui prolonge la vie du bois",
+      "html": "Le bois extérieur dure lorsqu’il peut <strong>sécher rapidement</strong>. Évitez les pièges à eau : poteau planté en terre, coupe horizontale non protégée, visserie rouillée, contact bois-béton, couverture sans gouttière et végétation collée en permanence aux assemblages."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les étapes de construction, du traçage au montage",
+      "id": "les-etapes-de-construction-du-tracage-au-montage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Préparez toutes les pièces au sol avant l’assemblage : coupes, perçages, ponçage des arêtes et première couche de protection si votre finition le nécessite. Travaillez sur un terrain dégagé, avec des tréteaux solides. Pour les longues poutres, ne prévoyez pas de montage seul : le risque de chute et de torsion est réel."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode de montage pour une pergola en bois simple",
+      "items": [
+        {
+          "title": "Tracer l’implantation",
+          "text": "Repérez les quatre angles avec des cordeaux. Contrôlez les diagonales, l’alignement avec la terrasse et les distances aux murs, clôtures ou portes."
+        },
+        {
+          "title": "Créer ou contrôler les ancrages",
+          "text": "Coulez les plots ou vérifiez la dalle existante. Positionnez les pieds de poteaux selon votre plan et contrôlez leur niveau avant le serrage définitif."
+        },
+        {
+          "title": "Installer les poteaux",
+          "text": "Placez chaque poteau dans son support, mettez-le d’aplomb au niveau et maintenez-le temporairement avec des étais ou des tasseaux diagonaux."
+        },
+        {
+          "title": "Poser les poutres porteuses",
+          "text": "Travaillez à deux au minimum. Utilisez les assemblages prévus, puis contrôlez à nouveau l’équerrage avant de serrer boulons et tirefonds."
+        },
+        {
+          "title": "Ajouter jambes de force et traverses",
+          "text": "Installez d’abord les renforts diagonaux, puis les chevrons ou lames d’ombrage à espacement régulier. Vérifiez que toutes les fixations sont adaptées à l’extérieur."
+        },
+        {
+          "title": "Finaliser la protection et l’ombrage",
+          "text": "Appliquez la finition choisie sur les coupes et zones exposées, posez toile, canisses ou plantes, puis testez l’évacuation de l’eau si une couverture est installée."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour une pergola en bois ?",
+      "id": "quel-budget-prevoir-pour-une-pergola-en-bois"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût dépend surtout de la taille, de l’essence de bois, du type de fondations et de la couverture. Pour une petite structure ouverte réalisée par vos soins, comptez généralement un budget allant de quelques centaines d’euros à un peu plus d’un millier d’euros en matériaux, selon la qualité du bois et des fixations. Une pergola plus large, avec bois haut de gamme, dalle ou plots importants, toile technique, plaques de couverture ou gouttières, peut rapidement atteindre plusieurs milliers d’euros. La pose professionnelle ajoute logiquement le coût de la main-d’œuvre et de la garantie de mise en œuvre."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour établir votre budget",
+      "headers": [
+        "Poste",
+        "Version économique",
+        "Version durable ou technique",
+        "Ce qui fait varier le coût"
+      ],
+      "rows": [
+        [
+          "Structure bois",
+          "Résineux traité, dimensions standard",
+          "Bois plus durable, fortes sections ou lamellé-collé",
+          "Portée, qualité de séchage, finition, quantité de bois"
+        ],
+        [
+          "Ancrages et fondations",
+          "Pieds de poteaux et petits plots adaptés",
+          "Dalle renforcée, gros plots, scellements ou terrasse complexe",
+          "Nature du sol, exposition au vent, accès au chantier"
+        ],
+        [
+          "Ombrage",
+          "Canisses, voiles ou plantes grimpantes",
+          "Toile sur mesure, lames, plaques, gouttières",
+          "Niveau de protection recherché contre soleil et pluie"
+        ],
+        [
+          "Quincaillerie",
+          "Équerres et visserie extérieure standard",
+          "Inox, ferrures renforcées, fixations façade spécifiques",
+          "Milieu marin, charge de toiture, esthétique souhaitée"
+        ],
+        [
+          "Main-d’œuvre",
+          "Autoconstruction avec aide ponctuelle",
+          "Pose complète par un artisan",
+          "Complexité, accès, terrasse existante, couverture"
+        ]
+      ],
+      "note": "Ajoutez une marge pour les consommables, la location éventuelle d’outils, les chutes de bois et les imprévus liés au sol."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "L’économie qui coûte souvent cher",
+      "html": "Réduire le nombre de poteaux ou choisir des poutres trop fines peut sembler avantageux à l’achat, mais c’est rarement un bon calcul. Il est souvent plus rentable d’ajouter un appui intermédiaire ou de simplifier la couverture que de forcer une grande portée avec une structure sous-dimensionnée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir la couverture et l’ombrage adaptés à votre usage",
+      "id": "choisir-la-couverture-et-l-ombrage-adaptes-a-votre-usage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une couverture végétale est très agréable en été, évolutive et naturellement intégrée au jardin. En revanche, elle demande du temps pour se développer, de la taille et peut alourdir progressivement la structure. Les canisses offrent un ombrage immédiat à petit budget, mais leur durée de vie est limitée et elles retiennent parfois l’humidité. Une toile rétractable est polyvalente, à condition d’être retirée ou sécurisée lors de fortes rafales. Les plaques rigides protègent mieux de la pluie, mais elles amplifient les contraintes liées au vent, à la condensation, au bruit de pluie et à l’évacuation des eaux."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Bien choisir votre solution d’ombrage",
+      "items": [
+        "Pour une zone très ensoleillée : privilégiez une toile technique rétractable, des lames serrées ou une végétation dense à terme.",
+        "Pour un jardin venteux : choisissez un système démontable ou spécifiquement conçu pour résister au vent ; évitez les toiles fixes sans tension adaptée.",
+        "Pour manger dehors par temps incertain : prévoyez une couverture avec pente et gouttière, pas seulement une toile décorative.",
+        "Pour préserver la lumière dans la maison : testez l’ombre projetée aux heures où vous utilisez le plus votre intérieur.",
+        "Pour un projet végétal : anticipez les plantes, leurs supports, leur poids adulte et leur entretien sans les laisser envahir les fixations."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Protéger et entretenir votre pergola au fil des saisons",
+      "id": "proteger-et-entretenir-votre-pergola-au-fil-des-saisons"
+    },
+    {
+      "type": "paragraph",
+      "html": "Même un bois prévu pour l’extérieur grise, se fissure légèrement et travaille avec l’humidité : cela ne signifie pas nécessairement qu’il est défaillant. En revanche, les zones molles, noircies, durablement humides ou attaquées par des insectes doivent alerter. Un nettoyage doux annuel permet de retirer les mousses et poussières. Évitez le nettoyeur haute pression trop près du bois : il peut relever les fibres et accélérer l’encrassement."
+    },
+    {
+      "type": "paragraph",
+      "html": "La finition dépend du rendu recherché. Un saturateur nourrit le bois et facilite les rénovations, mais doit être renouvelé selon l’exposition. Une lasure apporte une protection filmogène plus visible, qui peut demander une préparation plus importante lors de la rénovation. Une peinture extérieure opaque protège efficacement, mais exige un support très bien préparé. Quel que soit votre choix, traitez particulièrement les coupes, les abouts de poutres et les zones où l’eau peut s’accumuler."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Contrôle annuel en moins d’une heure",
+      "items": [
+        "Resserrez les boulons et contrôlez les équerres, sabots et pieds de poteaux.",
+        "Inspectez le bas des poteaux, les coupes et les zones sous couverture.",
+        "Retirez feuilles, mousses et débris qui bloquent l’écoulement de l’eau.",
+        "Vérifiez la tension, l’usure et les fixations des toiles avant la saison venteuse.",
+        "Taillez les plantes grimpantes pour dégager les assemblages et limiter leur poids.",
+        "Nettoyez les gouttières et les évacuations si la pergola comporte une toiture."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes à éviter et alternatives possibles",
+      "id": "erreurs-frequentes-a-eviter-et-alternatives-possibles"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à construire avant d’avoir défini la couverture. Une pergola ouverte peut être légère ; la même structure recouverte de plaques ou de végétaux matures ne l’est plus. La deuxième est de négliger le vent : une toile, un rideau latéral ou une toiture peuvent exercer des efforts considérables. Enfin, évitez de couper toutes les pièces à la même longueur sans montage à blanc : une terrasse rarement parfaitement régulière et un sol légèrement en pente imposent souvent des ajustements."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous souhaitez un résultat rapide ou que votre terrain est délicat, un kit de pergola peut être une alternative intéressante. Vérifiez néanmoins les sections de bois, le type d’ancrage inclus, les dimensions réellement couvertes, les limites de vent annoncées et la compatibilité avec votre dalle. Une voile d’ombrage sur mâts, un store banne ou une tonnelle démontable peuvent aussi répondre à un besoin saisonnier avec moins de travaux, mais n’offrent pas la même stabilité ni le même potentiel d’intégration paysagère."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la construction d’une pergola en bois",
+      "items": [
+        {
+          "q": "Faut-il une autorisation pour construire une pergola en bois ?",
+          "a": "Cela dépend notamment de ses dimensions, de sa hauteur, de son implantation, de son caractère adossé ou autoporté, de la couverture et des règles locales. Consultez le PLU et le service urbanisme de votre mairie avant de lancer les travaux. Ne vous fiez pas uniquement aux règles lues pour une autre commune."
+        },
+        {
+          "q": "Quel bois choisir pour une pergola extérieure ?",
+          "a": "Un résineux traité pour l’extérieur convient à de nombreux projets à budget maîtrisé. Le douglas, le mélèze ou d’autres bois naturellement durables constituent de bonnes options selon votre région et le rendu souhaité. Le plus important reste une conception qui évite l’eau stagnante et le contact direct du bois avec le sol."
+        },
+        {
+          "q": "Peut-on fixer une pergola sur une terrasse en dalles ou en pavés ?",
+          "a": "Pas directement sans vérifier ce qui se trouve dessous. Des dalles décoratives, pavés ou plots de terrasse ne sont pas forcément capables de reprendre les efforts d’une pergola. Il peut être nécessaire de créer des fondations indépendantes traversant le revêtement jusqu’à un support stable."
+        },
+        {
+          "q": "Comment empêcher une pergola de bouger avec le vent ?",
+          "a": "Utilisez des ancrages adaptés, des poteaux correctement fixés et des jambes de force qui triangulent la structure. Vérifiez aussi les éléments rapportés : une toile ou des rideaux latéraux doivent pouvoir être retirés, tendus correctement ou être conçus pour l’exposition au vent de votre jardin."
+        },
+        {
+          "q": "Quelle hauteur prévoir sous une pergola ?",
+          "a": "Une hauteur utile située autour de 2,20 à 2,50 mètres est souvent confortable, mais elle doit être ajustée à la terrasse, à la hauteur des ouvertures de la maison, à votre mobilier et à la couverture. Si vous installez des poutres apparentes ou une toile suspendue, raisonnez en hauteur réellement disponible sous ces éléments."
+        },
+        {
+          "q": "Faut-il traiter le bois avant le montage ?",
+          "a": "C’est recommandé, en particulier sur les faces difficiles à atteindre après assemblage et sur toutes les coupes réalisées sur chantier. Utilisez une finition compatible avec l’usage extérieur et renouvelez-la selon l’exposition réelle de la pergola. Le traitement ne remplace toutefois pas une bonne évacuation de l’eau et une ventilation du bois."
+        }
+      ]
+    }
+  ]
+}

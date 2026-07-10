@@ -1,0 +1,435 @@
+{
+  "title": "Les conséquences des cyclones sur la qualité de l’eau",
+  "slug": "les-consequences-des-cyclones-sur-la-qualite-de-leau",
+  "path": "/divers/les-consequences-des-cyclones-sur-la-qualite-de-leau.html",
+  "category": "bien-etre",
+  "tags": [
+    "qualité de l'eau",
+    "cyclone",
+    "eau potable",
+    "inondation",
+    "prévention sanitaire",
+    "traitement de l'eau"
+  ],
+  "excerpt": "Crues, coupures, eaux usées, intrusions salines : un cyclone fragilise toutes les sources d’eau. Voici comment protéger votre foyer avant, pendant et après.",
+  "metaDescription": "Après un cyclone, l’eau peut être contaminée par les crues, les réseaux endommagés ou le sel. Risques, gestes sûrs et solutions à adopter.",
+  "seoTitle": "Cyclones et qualité de l’eau : risques et réflexes",
+  "heroKicker": "Eau sous surveillance",
+  "readingTime": 12,
+  "date": "2023-10-30T10:52:03",
+  "image": {
+    "id": "1230",
+    "alt": "Les conséquences des cyclones sur la qualité de l’eau",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un cyclone ne se limite pas à des rafales et à des dégâts matériels : il peut rendre l’eau impropre à la consommation en quelques heures. Réseau public, citerne, puits, eau de pluie ou réserves domestiques peuvent être touchés par les inondations, les eaux usées, les hydrocarbures et le sel. Après l’événement, la prudence doit primer sur l’apparence de l’eau : une eau limpide n’est pas forcément potable."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Après un cyclone, suivez en priorité les consignes de la mairie, de la préfecture, de l’opérateur d’eau ou des autorités sanitaires : elles priment sur toute méthode domestique.",
+        "Faire bouillir l’eau peut réduire le risque microbiologique, mais ne retire ni le sel, ni les carburants, ni les pesticides, ni la plupart des produits chimiques.",
+        "Un puits, une citerne ou une cuve de récupération des pluies ayant été inondés doivent être considérés comme contaminés jusqu’à nettoyage, désinfection et, si nécessaire, analyse.",
+        "Prévoyez une réserve d’eau potable séparée de l’eau technique : l’eau destinée aux toilettes ou au nettoyage ne doit jamais être confondue avec l’eau à boire.",
+        "N’utilisez pas l’eau douteuse pour boire, cuisiner, vous brosser les dents, préparer un biberon, laver des aliments consommés crus ou fabriquer des glaçons."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi un cyclone dégrade-t-il la qualité de l’eau ?",
+      "id": "pourquoi-un-cyclone-degrade-t-il-la-qualite-de-l-eau"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le cyclone agit sur toute la chaîne de l’eau. Les pluies intenses font déborder les ravines, les réseaux d’assainissement et parfois les stations de traitement. Le vent et les chocs peuvent endommager les canalisations, les réservoirs, les pompes et les installations électriques. Lorsque la pression chute dans un réseau, des eaux extérieures peuvent s’infiltrer par des fissures ou des raccordements fragilisés : c’est un risque majeur de contamination secondaire."
+    },
+    {
+      "type": "paragraph",
+      "html": "En zone littorale, la submersion marine et les embruns peuvent également apporter du sel dans les captages, les nappes peu profondes, les citernes mal protégées ou les réseaux endommagés. Cette salinisation rend l’eau désagréable, corrosive et parfois impropre à certains usages. Surtout, <strong>le sel ne disparaît pas par ébullition</strong> : chauffer une eau salée concentre même les minéraux dissous à mesure que l’eau s’évapore."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les coupures de courant aggravent la situation. Sans électricité, les pompes, systèmes de chloration, filtres UV, surpresseurs et dispositifs de traitement collectif peuvent être arrêtés ou fonctionner de manière dégradée. Même si l’eau redevient disponible au robinet, l’exploitant doit parfois purger, réparer, contrôler et rétablir une désinfection fiable avant de lever toute restriction."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 jours",
+          "label": "d’autonomie en eau potable à viser dans un kit de crise familial, selon la composition du foyer et les consignes locales"
+        },
+        {
+          "value": "1 eau claire",
+          "label": "ne garantit pas l’absence de germes, de contaminants chimiques ou de résidus d’eaux usées"
+        },
+        {
+          "value": "Plusieurs jours",
+          "label": "peuvent être nécessaires pour réparer, purger et contrôler un réseau après un événement majeur"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quels contaminants peuvent se retrouver dans l’eau ?",
+      "id": "quels-contaminants-peuvent-se-retrouver-dans-l-eau"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les pollutions après cyclone sont rarement uniformes. Elles dépendent de la proximité d’égouts, de fosses septiques, de zones agricoles, de garages, de ports, de dépôts ou d’installations industrielles. Le danger le plus courant juste après les pluies et les inondations est microbiologique, mais il ne faut pas négliger les contaminants chimiques et physiques."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales dégradations de l’eau après un cyclone",
+      "headers": [
+        "Type de contamination",
+        "Origine possible",
+        "Risque ou conséquence",
+        "Ce qu’il faut retenir"
+      ],
+      "rows": [
+        [
+          "Microbiologique",
+          "Eaux usées, débordements de fosses septiques, ruissellement, carcasses animales",
+          "Gastro-entérites, infections et risques accrus pour les personnes fragiles",
+          "Invisible à l’œil nu ; l’ébullition peut aider contre les germes si l’eau n’est pas chimiquement polluée"
+        ],
+        [
+          "Particules et boues",
+          "Crues, sols érodés, réservoirs ouverts, canalisations perturbées",
+          "Eau trouble, obstruction des filtres, protection des micro-organismes contre certains traitements",
+          "Laisser décanter ou préfiltrer peut améliorer la clarté, mais ne rend pas l’eau potable"
+        ],
+        [
+          "Chimique",
+          "Carburants, huiles, solvants, pesticides, produits ménagers, métaux",
+          "Irritations, goût ou odeur anormale, risques variables selon le produit et l’exposition",
+          "Ne pas boire ; ni l’ébullition ni une filtration simple ne constituent une réponse universelle"
+        ],
+        [
+          "Saline",
+          "Submersion marine, intrusion d’eau de mer dans une nappe ou une citerne",
+          "Goût salé, corrosion, eau inadaptée à certains usages et à des régimes particuliers",
+          "Seule une source non contaminée ou un traitement adapté à la dessalinisation peut résoudre le problème"
+        ],
+        [
+          "Dégradation du réseau",
+          "Fissures, baisse de pression, panne de traitement, réservoir endommagé",
+          "Contamination possible malgré une eau visuellement normale",
+          "Attendre les consignes officielles de retour à la normale"
+        ]
+      ],
+      "note": "Une odeur de carburant, de solvant ou d’égout, une coloration inhabituelle, une mousse persistante ou un goût salé doivent conduire à écarter l’eau pour tous les usages alimentaires."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Eau potable, eau à faire bouillir, eau non utilisable : comment décider ?",
+      "id": "eau-potable-eau-a-faire-bouillir-eau-non-utilisable-comment-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après un cyclone, la règle la plus sûre est simple : <strong>la communication officielle détermine l’usage de l’eau du réseau</strong>. Une collectivité peut demander de ne pas consommer l’eau, de la faire bouillir avant les usages alimentaires, ou de ne pas l’utiliser du tout. Ces avis peuvent évoluer quartier par quartier, car les dégâts ne sont pas toujours identiques sur l’ensemble du territoire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une consigne de faire bouillir l’eau vise habituellement un risque microbiologique. Elle ne signifie pas que l’eau est débarrassée des hydrocarbures, des nitrates, du sel ou d’autres substances dissoutes. À l’inverse, une eau de citerne ou de puits peut rester risquée même lorsqu’aucun avis ne concerne le réseau public : ces installations relèvent souvent de leur propriétaire et sont davantage exposées au ruissellement."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne vous fiez pas au seul aspect de l’eau",
+      "html": "Une eau transparente, sans odeur et sans goût particulier peut contenir des bactéries, des virus ou des parasites. À l’inverse, une eau trouble peut parfois être clarifiée, mais elle ne doit pas être considérée comme potable sans traitement approprié et sans tenir compte de son origine."
+    },
+    {
+      "type": "comparison",
+      "title": "Faire bouillir ou filtrer : deux gestes aux limites très différentes",
+      "left": {
+        "title": "Faire bouillir l’eau",
+        "points": [
+          "Peut réduire le risque lié à de nombreux micro-organismes lorsque l’eau est seulement suspectée de contamination biologique.",
+          "Reste une solution de dépannage, dépendante d’une source d’énergie et d’un récipient propre.",
+          "N’élimine pas le sel, les carburants, les métaux, les pesticides ni la plupart des polluants dissous.",
+          "Ne doit pas être utilisée si les autorités déconseillent tout usage alimentaire de l’eau."
+        ]
+      },
+      "right": {
+        "title": "Utiliser un filtre domestique",
+        "points": [
+          "Un préfiltre peut retenir boues et particules, selon sa finesse et son état.",
+          "Les performances varient fortement : une carafe, un filtre à charbon, une membrane ou un purificateur de randonnée n’ont pas le même rôle.",
+          "Un filtre saturé, mal entretenu ou inadapté peut laisser passer les contaminants ou devenir lui-même un foyer microbien.",
+          "Aucun filtre courant ne doit être supposé capable de traiter une eau de crue chimiquement polluée ou salée."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les bons réflexes immédiats pendant et juste après le cyclone",
+      "id": "les-bons-reflexes-immediats-pendant-et-juste-apres-le-cyclon"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dès que l’alerte est annoncée, remplissez des contenants alimentaires propres avec de l’eau potable si les autorités ne s’y opposent pas. Fermez-les, étiquetez-les et stockez-les à l’abri de la chaleur, des produits chimiques et du soleil. Évitez de remplir des bouteilles ayant contenu des produits non alimentaires : même soigneusement rincées, elles ne constituent pas une réserve sûre."
+    },
+    {
+      "type": "steps",
+      "title": "Gérer l’eau sans prendre de risque après le passage du cyclone",
+      "items": [
+        {
+          "title": "Séparez immédiatement les usages",
+          "text": "Réservez l’eau embouteillée ou stockée avant l’événement à la boisson, à la cuisine, aux biberons et à l’hygiène bucco-dentaire. Gardez l’eau non potable, si elle est autorisée, pour les toilettes ou le nettoyage."
+        },
+        {
+          "title": "Consultez les canaux fiables",
+          "text": "Suivez les messages de la mairie, de la préfecture, de l’opérateur d’eau et des services sanitaires. Vérifiez l’adresse ou le quartier concerné : les restrictions peuvent être localisées."
+        },
+        {
+          "title": "Écartez toute eau suspecte",
+          "text": "Ne consommez pas une eau trouble, colorée, salée, malodorante ou ayant été en contact avec une zone inondée. Ne l’utilisez pas non plus pour laver les fruits et légumes crus."
+        },
+        {
+          "title": "Conservez l’eau propre sans la recontaminer",
+          "text": "Versez-la sans plonger les mains, une tasse ou une louche non propre dans le récipient. Refermez le contenant après chaque usage et utilisez d’abord les réserves les plus anciennes."
+        },
+        {
+          "title": "Protégez les personnes vulnérables",
+          "text": "Pour les nourrissons, les femmes enceintes, les personnes âgées, immunodéprimées ou souffrant d’une maladie rénale, adoptez la solution la plus sûre disponible et non une solution de compromis."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Usages qui exigent une eau déclarée potable ou rendue sûre selon les consignes",
+      "items": [
+        "Boire, y compris sous forme de thé, café, soupe ou boisson diluée.",
+        "Préparer les biberons, médicaments liquides ou aliments pour jeunes enfants.",
+        "Brosser les dents et rincer une gouttière dentaire.",
+        "Laver les aliments qui seront consommés crus.",
+        "Faire des glaçons, laver la vaisselle destinée à un usage alimentaire ou rincer les ustensiles.",
+        "Nettoyer une plaie ou assurer les soins d’une personne fragile, selon les recommandations d’un professionnel de santé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Puits, citernes et récupérateurs d’eau de pluie : les installations les plus vulnérables",
+      "id": "puits-citernes-et-recuperateurs-d-eau-de-pluie-les-installat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un puits privé, une citerne enterrée ou une cuve de récupération de pluie ne bénéficient pas automatiquement du même suivi qu’un réseau public. Après une inondation, il faut présumer que l’eau est contaminée si le niveau de crue a atteint l’ouvrage, si le couvercle a été déplacé, si le trop-plein a refoulé ou si l’eau présente un changement d’odeur, de couleur ou de goût."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’eau de pluie peut convenir à certains usages techniques lorsqu’elle est collectée et stockée correctement, mais elle n’est pas potable par défaut. Après un cyclone, les toitures reçoivent poussières, végétaux, fientes, sels marins et polluants déposés par le vent. Une cuve ouverte, fissurée ou reliée à un système endommagé peut aussi recueillir directement les eaux de ruissellement."
+    },
+    {
+      "type": "proscons",
+      "title": "Réutiliser l’eau d’une citerne après un cyclone : ce qu’il faut peser",
+      "pros": [
+        "Elle peut être précieuse pour les toilettes, le nettoyage extérieur ou certains usages techniques lorsque les autorités l’autorisent.",
+        "Une installation bien fermée, équipée d’un système de dérivation des premières eaux et correctement entretenue résiste mieux aux pollutions courantes.",
+        "Après remise en état, elle peut réduire la pression sur les réserves d’eau potable du foyer."
+      ],
+      "cons": [
+        "Une contamination liée à une inondation ou à un débordement impose un nettoyage rigoureux et peut nécessiter une vidange complète.",
+        "Une simple filtration de confort ne garantit pas une qualité sanitaire suffisante pour boire.",
+        "La désinfection d’une cuve ne suffit pas à résoudre une pollution chimique, saline ou structurelle.",
+        "Une analyse peut être indispensable avant tout retour à un usage alimentaire."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Un puits inondé n’est pas une source de secours immédiate",
+      "html": "Après contact avec des eaux de crue, n’utilisez pas un puits pour boire ou cuisiner sans remise en état adaptée. Faites vérifier l’intégrité du cuvelage, du couvercle, des raccordements et de la pompe ; nettoyez et désinfectez l’installation selon une procédure fiable, puis envisagez une analyse avant de rétablir les usages sensibles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nettoyer et remettre l’installation en service sans aggraver le problème",
+      "id": "nettoyer-et-remettre-l-installation-en-service-sans-aggraver"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le retour à la normale doit être méthodique. Avant toute intervention, assurez-vous que l’accès à la cuve, au local technique ou au puits est sécurisé : risque électrique, structure fragilisée, eau stagnante, gaz ou pollution chimique peuvent être présents. Si une installation a été submergée, ne remettez pas une pompe en marche avant d’avoir vérifié qu’elle est compatible avec cet état et que le circuit électrique est sûr."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une citerne, commencez par retirer les débris et les boues uniquement si cela peut être fait sans exposition inutile. Contrôlez le couvercle, les joints, les aérations, les gouttières, les grilles, le trop-plein et le dispositif de dérivation. L’objectif n’est pas seulement de rendre l’eau plus claire : il faut empêcher une nouvelle entrée de contaminants. La désinfection doit respecter les consignes du fabricant de la cuve et les recommandations locales ; un dosage improvisé de produit chimique peut être inefficace ou créer un autre problème."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour le réseau intérieur, ouvrez progressivement les robinets après l’autorisation de remise en service et purgez les points d’eau selon les instructions diffusées localement. Nettoyez les mousseurs de robinets et remplacez les cartouches de filtre ayant été en contact avec une eau douteuse. Les appareils dotés de réservoirs, tels que certains réfrigérateurs, fontaines, machines à café ou distributeurs, peuvent nécessiter une purge et un nettoyage spécifiques."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Signaux qui justifient de contacter un professionnel ou les autorités",
+      "items": [
+        "Une odeur de fuel, de solvant, d’égout ou une irisation à la surface de l’eau.",
+        "Un goût franchement salé, métallique, chimique ou inhabituel qui persiste.",
+        "Une citerne, un puits ou une station de pompage ayant été submergés.",
+        "Des fissures, un couvercle cassé, une pompe endommagée ou un refoulement d’eaux usées.",
+        "Des troubles digestifs survenus chez plusieurs personnes utilisant la même eau.",
+        "Un avis officiel de non-consommation ou de non-utilisation de l’eau."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quels équipements prévoir pour mieux résister à une crise de l’eau ?",
+      "id": "quels-equipements-prevoir-pour-mieux-resister-a-une-crise-de"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure préparation ne consiste pas à multiplier les gadgets, mais à organiser des solutions complémentaires. Une réserve d’eau potable conditionnée reste la réponse la plus fiable pour les premiers jours. Elle doit être complétée par des contenants propres, un moyen de suivre les alertes sans dépendre uniquement du réseau électrique, et un plan familial qui identifie les besoins particuliers : nourrisson, traitement médical, animal, personne dépendante ou forte chaleur."
+    },
+    {
+      "type": "table",
+      "caption": "Équipements utiles : niveau de dépense et limites réelles",
+      "headers": [
+        "Solution",
+        "Budget indicatif",
+        "Usage pertinent",
+        "Limite à connaître"
+      ],
+      "rows": [
+        [
+          "Bouteilles et jerricans alimentaires dédiés",
+          "De quelques dizaines d’euros à davantage selon le volume et la qualité",
+          "Constituer une réserve directement consommable et transportable",
+          "À renouveler, protéger de la chaleur et ne pas confondre avec des contenants techniques"
+        ],
+        [
+          "Filtre à sédiments ou préfiltre",
+          "Plutôt accessible",
+          "Retirer les particules avant un traitement adapté, protéger une installation",
+          "Ne désinfecte pas automatiquement et ne traite pas la pollution dissoute"
+        ],
+        [
+          "Filtre à charbon actif",
+          "Accessible à intermédiaire",
+          "Améliorer certaines odeurs ou certains goûts dans un contexte maîtrisé",
+          "Ne doit pas être présenté comme une garantie contre l’eau de crue ou les germes"
+        ],
+        [
+          "Purificateur à membrane ou équipement autonome spécialisé",
+          "Intermédiaire à élevé",
+          "Préparation de crise ou autonomie, selon les certifications et l’eau source",
+          "Performances, entretien et contaminants ciblés doivent être vérifiés précisément"
+        ],
+        [
+          "Traitement de dessalement ou installation complète",
+          "Élevé à très élevé",
+          "Contexte littoral ou besoin permanent étudié",
+          "Nécessite énergie, maintenance, prétraitement et dimensionnement professionnel"
+        ]
+      ],
+      "note": "Les niveaux de budget sont volontairement indicatifs : comparez les performances annoncées, les consommables, l’énergie nécessaire et les certifications plutôt que le seul prix d’achat."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’acheter un dispositif, demandez-vous quelle eau il doit réellement traiter. Un équipement conçu pour une eau de randonnée relativement claire n’a pas nécessairement la capacité de rendre potable une eau d’inondation chargée de boues et de produits chimiques. Vérifiez les contaminants explicitement couverts, les conditions d’utilisation, la durée de vie des cartouches, le débit réel, la disponibilité des pièces et la nécessité éventuelle d’une alimentation électrique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes : ce qu’il ne faut pas faire",
+      "id": "erreurs-frequentes-ce-qu-il-ne-faut-pas-faire"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de supposer qu’une méthode unique règle tous les problèmes. Faire bouillir, filtrer, désinfecter ou décanter sont des actions différentes, adaptées à des risques différents. Les combiner sans connaître la source de pollution ne transforme pas automatiquement une eau suspecte en eau potable."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les mauvais réflexes à éviter",
+      "items": [
+        "Boire l’eau du robinet dès son retour sans vérifier si un avis sanitaire est encore en vigueur.",
+        "Faire bouillir une eau qui sent le carburant, les solvants ou qui a été en contact avec une zone industrielle ou une eau de crue.",
+        "Utiliser un filtre dont la cartouche est périmée, saturée, mouillée de façon prolongée ou inconnue.",
+        "Mélanger eau potable, eau de pluie, eau de citerne et eau de nettoyage dans des contenants non étiquetés.",
+        "Utiliser une piscine comme réserve d’eau alimentaire : son eau est conçue pour la baignade, pas pour être bue, et son traitement ne garantit pas sa potabilité.",
+        "Se fier aux réseaux sociaux plutôt qu’aux avis territorialisés des services compétents.",
+        "Consommer une eau de puits après inondation parce qu’elle a toujours été « bonne avant »."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer un plan d’eau familial avant la prochaine saison cyclonique",
+      "id": "preparer-un-plan-d-eau-familial-avant-la-prochaine-saison-cy"
+    },
+    {
+      "type": "paragraph",
+      "html": "Anticiper permet d’éviter les décisions risquées sous pression. Faites l’inventaire des sources d’eau disponibles chez vous, de leurs usages autorisés et de leurs vulnérabilités. Notez où couper l’arrivée d’eau si une installation intérieure est endommagée, comment fermer la cuve de pluie, et quels voisins ou proches peuvent avoir besoin d’aide pour transporter ou stocker de l’eau."
+    },
+    {
+      "type": "paragraph",
+      "html": "Conservez les notices de vos filtres, pompes, cuves et appareils de traitement dans un format accessible hors ligne. Préparez aussi des étiquettes simples : <em>eau potable</em>, <em>eau à traiter selon consigne</em>, <em>eau technique non potable</em>. Cette organisation limite les erreurs, en particulier lorsque plusieurs personnes partagent le logement ou que l’éclairage est réduit."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Investir au bon endroit",
+      "html": "Pour la plupart des foyers, l’achat le plus utile n’est pas forcément le purificateur le plus sophistiqué. Priorisez d’abord une réserve potable bien gérée, des jerricans alimentaires robustes, des moyens d’information fiables et l’entretien des points faibles de votre installation : couvercles, gouttières, joints, clapets et filtres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand demander une analyse de l’eau ?",
+      "id": "quand-demander-une-analyse-de-l-eau"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une analyse est particulièrement pertinente pour un puits, une citerne ou une ressource privée après submersion, intrusion marine, dégât structurel ou suspicion de pollution. Elle permet de vérifier des paramètres microbiologiques et, selon le contexte, certains indicateurs physico-chimiques. Le choix des analyses doit correspondre au risque : après une fuite de carburant, un contrôle microbiologique seul ne répond pas à la question ; après un débordement d’eaux usées, la recherche de contamination fécale est centrale."
+    },
+    {
+      "type": "paragraph",
+      "html": "Renseignez-vous auprès des services locaux compétents, d’un laboratoire qualifié ou d’un professionnel de l’eau avant le prélèvement. Un échantillon mal prélevé ou transporté peut être inutilisable. En attendant les résultats, ne considérez pas une source impactée comme potable. Si des symptômes digestifs, de la fièvre, des vomissements ou une déshydratation apparaissent après consommation d’une eau douteuse, contactez rapidement un professionnel de santé, surtout pour les jeunes enfants et les personnes fragiles."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’eau après un cyclone",
+      "items": [
+        {
+          "q": "Puis-je boire l’eau du robinet si elle est claire après un cyclone ?",
+          "a": "Pas sans vérifier les consignes locales. La transparence ne permet pas de détecter les micro-organismes ou de nombreux contaminants dissous. Si un avis de faire bouillir ou de ne pas consommer l’eau est en vigueur, respectez-le pour tous les usages alimentaires."
+        },
+        {
+          "q": "Faire bouillir l’eau suffit-il après une inondation ?",
+          "a": "Cela peut réduire un risque microbiologique dans certaines situations, mais cela ne retire pas le sel, les hydrocarbures, les pesticides, les métaux ou d’autres polluants chimiques. Une eau de crue ou une eau qui sent le carburant ne doit pas être rendue potable par simple ébullition."
+        },
+        {
+          "q": "Peut-on utiliser l’eau de pluie stockée dans une cuve après le cyclone ?",
+          "a": "Seulement pour les usages autorisés et après contrôle de l’installation. Si la cuve a été inondée, ouverte, endommagée ou souillée par du ruissellement, considérez son contenu comme contaminé. L’usage alimentaire demande un niveau de traitement et de contrôle bien supérieur à un usage pour les toilettes."
+        },
+        {
+          "q": "Mon eau a un goût salé : est-elle dangereuse ?",
+          "a": "Un goût salé peut signaler une intrusion d’eau de mer ou une forte concentration de minéraux. Elle ne doit pas être considérée comme potable, notamment pour les nourrissons et les personnes suivant certains régimes. L’ébullition ne la dessale pas : il faut utiliser une autre source ou un procédé spécifiquement adapté."
+        },
+        {
+          "q": "Puis-je utiliser une carafe filtrante pour sécuriser l’eau du robinet ?",
+          "a": "Une carafe filtrante améliore parfois le goût ou retient certains composés selon sa cartouche, mais elle ne remplace pas les consignes sanitaires ni un traitement conçu pour une eau contaminée. Elle ne constitue pas une garantie contre les germes, le sel ou une pollution de crue."
+        },
+        {
+          "q": "Combien de temps faut-il attendre avant de réutiliser un puits inondé ?",
+          "a": "Il n’existe pas de délai universel. Il faut d’abord que les eaux de crue se soient retirées, vérifier l’ouvrage, procéder au nettoyage et à la désinfection appropriés, puis, lorsque le risque le justifie, obtenir des résultats d’analyse satisfaisants. Ne reprenez pas les usages alimentaires avant cette remise en état."
+        }
+      ]
+    }
+  ]
+}

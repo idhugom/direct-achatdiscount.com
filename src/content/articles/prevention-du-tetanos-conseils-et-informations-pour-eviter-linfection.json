@@ -1,0 +1,367 @@
+{
+  "title": "Prévention du tétanos : conseils et informations pour éviter l’infection",
+  "slug": "prevention-du-tetanos-conseils-et-informations-pour-eviter-linfection",
+  "path": "/divers/prevention-du-tetanos-conseils-et-informations-pour-eviter-linfection.html",
+  "category": "bien-etre",
+  "tags": [
+    "tétanos",
+    "vaccination",
+    "soins des plaies",
+    "premiers secours",
+    "prévention",
+    "santé"
+  ],
+  "excerpt": "Vaccination à jour, soins rapides des plaies et bonne évaluation du risque : les gestes essentiels pour prévenir efficacement le tétanos.",
+  "metaDescription": "Vaccin, nettoyage d’une plaie, situations à risque et gestes d’urgence : les bons réflexes pour prévenir le tétanos et savoir consulter.",
+  "seoTitle": "Prévention du tétanos : vaccins, plaies et réflexes",
+  "heroKicker": "Réagir sans attendre",
+  "readingTime": 11,
+  "date": "2023-12-03T05:35:09",
+  "image": {
+    "id": "1286",
+    "alt": "Prévention du tétanos : conseils et informations pour éviter l’infection",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le tétanos est devenu rare lorsque la vaccination est bien suivie, mais il reste une infection grave qui peut survenir après une plaie apparemment banale. Une protection vaccinale à jour, un nettoyage soigneux et une consultation rapide dans les situations à risque constituent les trois piliers d’une prévention efficace."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>Le vaccin est la protection de référence :</strong> désinfecter une plaie ne remplace jamais une vaccination antitétanique à jour.",
+        "<strong>Le risque ne vient pas de la rouille elle-même :</strong> il est lié à l’introduction de spores présentes dans la terre, la poussière, les déjections animales ou certains environnements souillés.",
+        "<strong>Une plaie profonde, souillée, par morsure ou par objet piquant mérite un avis médical rapide</strong>, surtout si votre statut vaccinal est incertain.",
+        "<strong>N’attendez pas les symptômes :</strong> une mâchoire raide, des difficultés à avaler ou des spasmes imposent un appel urgent aux secours.",
+        "<strong>Conservez une preuve de vos vaccinations</strong> pour éviter toute hésitation lorsqu’une plaie survient."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre le tétanos : pourquoi une petite plaie peut compter",
+      "id": "comprendre-le-tetanos-pourquoi-une-petite-plaie-peut-compter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tétanos est une maladie infectieuse provoquée par une toxine produite par la bactérie <em>Clostridium tetani</em>. Cette bactérie forme des spores très résistantes, capables de persister longtemps dans l’environnement. Elles peuvent être présentes dans la terre, la poussière, les déjections animales, le fumier ou sur des objets ayant été en contact avec ces milieux. Lorsqu’elles pénètrent dans l’organisme par une effraction cutanée, en particulier dans une zone pauvre en oxygène comme une plaie profonde ou écrasée, elles peuvent se développer et produire une toxine qui atteint le système nerveux."
+    },
+    {
+      "type": "paragraph",
+      "html": "La maladie se manifeste notamment par une raideur musculaire, souvent au niveau de la mâchoire, puis par des contractures et des spasmes parfois généralisés. Elle nécessite une prise en charge hospitalière. Le point crucial est que le tétanos <strong>ne se transmet pas d’une personne à l’autre</strong> : le risque dépend de la plaie, de son exposition à l’environnement et, surtout, de votre niveau de protection vaccinale."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "0",
+          "label": "transmission interhumaine : le tétanos ne se transmet pas entre personnes"
+        },
+        {
+          "value": "3",
+          "label": "leviers de prévention : vaccination, soins de plaie, consultation adaptée"
+        },
+        {
+          "value": "Quelques jours à plusieurs semaines",
+          "label": "délai possible entre la contamination et les premiers symptômes"
+        },
+        {
+          "value": "À vie",
+          "label": "nécessité de garder une protection vaccinale entretenue par des rappels"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Ne confondez pas rouille et risque tétanique",
+      "html": "Se blesser avec un clou rouillé n’entraîne pas automatiquement le tétanos. La rouille n’est pas responsable de l’infection. En revanche, un clou resté dans la terre ou un objet sale peut avoir transporté des spores. Une plaie par objet pointu est aussi difficile à nettoyer en profondeur : c’est cette combinaison qui justifie la vigilance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La vaccination : votre protection la plus importante",
+      "id": "la-vaccination-votre-protection-la-plus-importante"
+    },
+    {
+      "type": "paragraph",
+      "html": "La vaccination antitétanique permet à l’organisme de produire des anticorps contre la toxine. C’est elle qui protège réellement contre la maladie ; les soins locaux, indispensables, ne constituent qu’une protection complémentaire. Le vaccin contre le tétanos est habituellement administré dans des vaccins combinés, avec une protection contre d’autres infections. Il ne s’agit donc pas forcément d’une injection « tétanos seule »."
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, la protection débute dès l’enfance et doit être entretenue à l’âge adulte par les rappels prévus dans le calendrier vaccinal. Les âges, combinaisons vaccinales et éventuels rattrapages peuvent évoluer : vérifiez votre situation auprès de votre médecin, de votre pharmacien, d’un centre de vaccination ou sur votre carnet de santé. Dans les recommandations françaises couramment appliquées, des rappels sont prévus à certains âges de l’adulte, puis à intervalles réguliers après 65 ans. Ne déduisez pas votre protection d’un vague souvenir : sans date ou document fiable, votre statut doit être clarifié."
+    },
+    {
+      "type": "proscons",
+      "title": "Pourquoi maintenir ses rappels antitétaniques ?",
+      "pros": [
+        "Protection solide contre une maladie grave et évitable.",
+        "Vaccination intégrée le plus souvent à un vaccin combiné, ce qui simplifie le suivi.",
+        "Possibilité de rattraper une vaccination incomplète sans recommencer systématiquement tout le parcours.",
+        "Décision plus rapide et plus sûre en cas de plaie à risque lorsque le statut est connu."
+      ],
+      "cons": [
+        "Les rappels peuvent être oubliés, car l’exposition au risque est imprévisible.",
+        "Une vaccination ancienne ou mal documentée ne permet pas toujours de conclure à une protection suffisante.",
+        "Le vaccin ne dispense ni de nettoyer une plaie ni de consulter lorsqu’elle est profonde, souillée ou préoccupante.",
+        "Comme tout vaccin, il peut occasionner des réactions locales ou générales le plus souvent transitoires ; signalez vos antécédents au professionnel de santé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vérifier son statut vaccinal sans se tromper",
+      "id": "verifier-son-statut-vaccinal-sans-se-tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant une blessure, prenez quelques minutes pour retrouver votre carnet de santé, votre dossier médical partagé, votre attestation de vaccination ou les documents remis par votre médecin. Notez la date de la dernière injection contenant la valence tétanique et gardez l’information accessible, par exemple dans vos documents de santé numériques. C’est particulièrement utile pour les personnes qui bricolent, jardinent, travaillent au contact de la terre ou voyagent loin d’un accès facile aux soins."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous ne savez plus si vous avez été vacciné ? Ne tentez pas d’interpréter seul un ancien nom commercial de vaccin, ni de vous fier à l’absence de blessure depuis des années. Un professionnel évaluera votre historique et proposera, si besoin, un rattrapage selon les recommandations en vigueur. Selon le contexte, une prise de sang peut parfois être discutée, mais elle ne doit pas retarder la conduite à tenir face à une plaie récente."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Personnes chez qui le point vaccinal est particulièrement utile",
+      "items": [
+        "Les adultes qui n’ont plus leur carnet de vaccination ou ignorent la date de leur dernier rappel.",
+        "Les personnes âgées, chez qui les rappels ont parfois été espacés ou oubliés.",
+        "Les jardiniers, agriculteurs, professionnels du bâtiment, agents d’entretien, éleveurs et bricoleurs réguliers.",
+        "Les voyageurs, notamment en cas de séjour long, isolé ou avec accès limité à des soins.",
+        "Les personnes ayant une maladie chronique, un traitement qui modifie l’immunité ou un antécédent de réaction vaccinale : le suivi doit être personnalisé.",
+        "Les femmes enceintes et les futurs parents, qui peuvent faire le point avec l’équipe de suivi de grossesse ou le médecin traitant."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Plaie propre ou plaie à risque : comment évaluer la situation",
+      "id": "plaie-propre-ou-plaie-a-risque-comment-evaluer-la-situation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Toutes les plaies ne présentent pas le même niveau de risque. Une coupure superficielle, récente, propre, bien nettoyée et chez une personne dont la vaccination est à jour appelle généralement des gestes locaux simples. À l’inverse, une plaie profonde, perforante, souillée ou mal irriguée par le sang peut favoriser le développement de la bactérie. L’aspect extérieur peut être trompeur : un petit trou causé par une épine, un clou ou une écharde peut être plus préoccupant qu’une éraflure visible et facile à laver."
+    },
+    {
+      "type": "comparison",
+      "title": "Repères pratiques : sans jamais remplacer un avis médical",
+      "left": {
+        "title": "Plaie a priori peu préoccupante",
+        "points": [
+          "Éraflure ou coupure <strong>superficielle</strong> et récente.",
+          "Objet propre ou contexte domestique sans souillure visible.",
+          "Plaie facile à rincer, sans corps étranger et sans zone profonde.",
+          "Vaccination documentée et considérée à jour.",
+          "Surveillance locale après nettoyage, avec consultation si l’évolution devient anormale."
+        ]
+      },
+      "right": {
+        "title": "Plaie qui justifie un avis médical rapide",
+        "points": [
+          "Piqûre, perforation, plaie profonde, écrasement ou déchirure importante.",
+          "Contact avec terre, poussière, fumier, déjections, eau sale ou objet très souillé.",
+          "Morsure humaine ou animale, brûlure étendue, gelure ou plaie chronique.",
+          "Écharde, morceau de verre, dent, épine ou autre corps étranger possiblement retenu.",
+          "Vaccination inconnue, incomplète, ancienne ou difficile à vérifier."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Consultez le jour même dans les situations à risque",
+      "html": "Une plaie perforante, très sale, profonde, une morsure ou une vaccination incertaine ne se gèrent pas uniquement avec une désinfection à domicile. Un médecin, un service de soins non programmés ou les urgences selon la gravité évaluera le nettoyage, la fermeture éventuelle, les autres risques infectieux et la prévention antitétanique. Une dose de vaccin et, dans certaines situations, des immunoglobulines antitétaniques peuvent être indiquées : cette décision est médicale."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les premiers gestes après une blessure",
+      "id": "les-premiers-gestes-apres-une-blessure"
+    },
+    {
+      "type": "paragraph",
+      "html": "Agissez tôt, même si vous prévoyez de consulter. Commencez par vous laver les mains. Si la plaie saigne, exercez une pression directe et continue avec une compresse ou un linge propre ; en cas de saignement abondant ou qui ne s’arrête pas, appelez les secours. Rincez ensuite abondamment la plaie à l’eau potable afin d’évacuer les saletés. Du savon peut être utilisé autour de la plaie. Retirez uniquement les débris très superficiels, visibles et faciles à enlever, sans creuser ni forcer."
+    },
+    {
+      "type": "steps",
+      "title": "Les bons réflexes, dans l’ordre",
+      "items": [
+        {
+          "title": "Stopper le saignement",
+          "text": "Appliquez une pression directe avec un support propre. Ne retirez pas un objet planté profondément : stabilisez-le si possible et demandez une aide médicale urgente."
+        },
+        {
+          "title": "Rincer généreusement",
+          "text": "Faites couler de l’eau potable sur la plaie pour éliminer terre et particules. L’irrigation mécanique est souvent plus utile qu’une multiplication de produits irritants."
+        },
+        {
+          "title": "Protéger sans enfermer",
+          "text": "Séchez délicatement les abords et recouvrez avec une compresse stérile ou un pansement propre. Changez-le s’il devient humide ou sale."
+        },
+        {
+          "title": "Évaluer le risque vaccinal",
+          "text": "Vérifiez immédiatement votre dernière vaccination antitétanique, sans attendre que la douleur ou l’aspect de la plaie évoluent."
+        },
+        {
+          "title": "Demander un avis si nécessaire",
+          "text": "Consultez rapidement si la plaie est à risque, si elle doit peut-être être suturée, si elle contient un corps étranger ou si vous avez le moindre doute sur votre vaccination."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce qu’il ne faut pas faire : erreurs fréquentes et faux sentiments de sécurité",
+      "id": "ce-qu-il-ne-faut-pas-faire-erreurs-frequentes-et-faux-sentim"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est d’attendre des symptômes pour agir. La prévention antitétanique se décide après la blessure, avant toute manifestation de la maladie. Une autre erreur consiste à croire qu’un antiseptique puissant suffit. L’alcool, l’eau oxygénée ou d’autres produits agressifs ne remplacent ni un rinçage soigneux, ni l’exploration médicale d’une plaie profonde, ni la vaccination. Ils peuvent même irriter les tissus s’ils sont utilisés de façon inadaptée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également de fermer vous-même une plaie profonde avec des bandelettes, de la colle ou un pansement occlusif si elle est sale ou perforante. Ne cherchez pas à extraire en profondeur une écharde, un verre ou une épine : vous risquez de fragmenter le corps étranger ou d’aggraver les lésions. Enfin, n’empruntez pas un antibiotique restant à un proche. Les antibiotiques n’assurent pas à eux seuls une prévention fiable du tétanos et ne sont prescrits que selon l’évaluation globale de la plaie."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À éviter absolument",
+      "items": [
+        "Minimiser une piqûre par clou, épine, arête, écharde ou objet pointu sous prétexte que le trou est petit.",
+        "Recouvrir une plaie sale sans l’avoir rincée correctement.",
+        "Utiliser des remèdes maison, poudres ou pommades non adaptées dans une plaie ouverte.",
+        "Retirer seul un objet profondément enfoncé ou arracher une zone de peau déchirée.",
+        "Attendre plusieurs jours pour vérifier son statut vaccinal.",
+        "Se fier uniquement à l’absence de douleur ou de rougeur pour exclure le risque."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prévenir les blessures au quotidien, au jardin et au travail",
+      "id": "prevenir-les-blessures-au-quotidien-au-jardin-et-au-travail"
+    },
+    {
+      "type": "paragraph",
+      "html": "La vaccination reste prioritaire, mais réduire le nombre de plaies et leur contamination apporte une protection supplémentaire. Au jardin, portez des gants résistants lorsque vous manipulez la terre, le compost, les plantes épineuses ou de vieux matériaux. Des chaussures fermées et épaisses limitent les blessures par clous, outils et épines. Rangez les outils, éliminez les pointes saillantes et nettoyez les surfaces de bricolage : un atelier ordonné réduit aussi les accidents."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au travail, utilisez les équipements de protection adaptés au poste : gants, chaussures de sécurité, vêtements couvrants et matériel entretenu. Signalez une plaie professionnelle, même modeste, selon la procédure de votre employeur ; cela facilite l’accès aux soins et la vérification du statut vaccinal. Pour les enfants, surveillez les jeux en extérieur, apprenez le lavage immédiat d’une éraflure et veillez au respect du calendrier vaccinal. Le but n’est pas de les priver d’activités, mais d’installer des automatismes simples."
+    },
+    {
+      "type": "table",
+      "caption": "Prévention pratique selon les situations d’exposition",
+      "headers": [
+        "Situation",
+        "Risque principal",
+        "Prévention concrète",
+        "Réaction en cas de plaie"
+      ],
+      "rows": [
+        [
+          "Jardinage, compost, potager",
+          "Terre, épines, outils souillés",
+          "Gants solides, chaussures fermées, vaccination vérifiée",
+          "Rincer immédiatement ; avis rapide si piqûre profonde ou plaie sale"
+        ],
+        [
+          "Bricolage, chantier, débarras",
+          "Clous, métal, échardes, écrasement",
+          "Gants adaptés, lunettes si nécessaire, rangement des matériaux",
+          "Ne pas retirer un objet planté ; faire évaluer les plaies perforantes"
+        ],
+        [
+          "Contact avec animaux",
+          "Morsures, griffures, souillures",
+          "Manipulation prudente, lavage des mains, matériel propre",
+          "Consulter rapidement pour une morsure ou une plaie contaminée"
+        ],
+        [
+          "Randonnée ou voyage isolé",
+          "Accès retardé à l’eau et aux soins",
+          "Trousse de secours, chaussures, vaccins à jour",
+          "Nettoyer dès que possible et ne pas différer l’avis médical si la plaie est à risque"
+        ],
+        [
+          "Plaie chronique ou diabète",
+          "Cicatrisation plus difficile, infection locale",
+          "Suivi médical, inspection régulière des pieds, chaussures adaptées",
+          "Consulter tôt plutôt que d’autotraiter une plaie persistante"
+        ]
+      ],
+      "note": "Ces repères orientent les premiers gestes. Le professionnel de santé tient compte à la fois de la plaie, de vos antécédents et de la preuve de vaccination."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand faut-il consulter en urgence ?",
+      "id": "quand-faut-il-consulter-en-urgence"
+    },
+    {
+      "type": "paragraph",
+      "html": "Appelez immédiatement le 15 ou le 112 si une blessure entraîne un saignement abondant, une perte de sensibilité, une difficulté à bouger un membre, une plaie très étendue, un objet encore planté, un traumatisme important ou un malaise. Une consultation urgente est aussi nécessaire si vous observez des signes évocateurs d’une infection grave ou de tétanos : raideur de la mâchoire ou du cou, difficultés à avaler, contractions musculaires douloureuses, spasmes, gêne respiratoire ou agitation inhabituelle après une plaie. Ces symptômes ne doivent jamais être surveillés à domicile."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sans signe de gravité immédiate, faites-vous examiner rapidement pour une plaie de morsure, une perforation, une plaie souillée, une plaie qui contient ou pourrait contenir un corps étranger, une blessure du pied chez une personne diabétique, ou lorsque vous ne pouvez pas confirmer vos vaccinations. Consultez également si la zone devient de plus en plus rouge, chaude, gonflée, douloureuse, si du pus apparaît, si vous avez de la fièvre ou si la cicatrisation stagne. Ces signes n’indiquent pas forcément le tétanos, mais ils nécessitent une évaluation."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Préparez une réponse simple pour le soignant",
+      "html": "En cas de plaie, indiquez <strong>quand</strong> et <strong>comment</strong> elle est survenue, le type d’objet ou de souillure en cause, les premiers soins déjà réalisés, vos allergies, vos traitements et la date documentée de votre dernier vaccin antitétanique. Cette information permet une prise en charge plus rapide et plus précise."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particuliers : enfants, personnes fragiles et voyageurs",
+      "id": "cas-particuliers-enfants-personnes-fragiles-et-voyageurs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Chez l’enfant, la meilleure prévention est le respect du calendrier vaccinal et l’apprentissage des gestes de base après une éraflure. N’appliquez pas de produit caustique et ne laissez pas un enfant manipuler une plaie souillée. Les personnes âgées peuvent avoir une protection moins bien documentée, notamment lorsqu’elles ont changé de médecin ou perdu leurs carnets : un bilan préventif est préférable à une recherche dans l’urgence."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les personnes diabétiques, immunodéprimées, atteintes de troubles de la circulation, sous certains traitements ou ayant des plaies chroniques doivent consulter plus tôt en cas de blessure. Leur risque de complication locale est plus élevé, même lorsque le risque de tétanos lui-même dépend avant tout de la vaccination et de la nature de la plaie. Avant un voyage, vérifiez vos vaccins suffisamment en amont avec un professionnel, surtout si vous prévoyez des activités de plein air, du bénévolat agricole, de la randonnée ou un séjour loin des structures de soins."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la prévention du tétanos",
+      "items": [
+        {
+          "q": "Peut-on attraper le tétanos avec une simple coupure ?",
+          "a": "Oui, c’est possible en théorie si des spores pénètrent dans la plaie, mais le niveau de risque dépend de sa profondeur, de sa souillure, de son nettoyage et de votre vaccination. Une coupure superficielle et propre chez une personne correctement vaccinée est bien moins préoccupante qu’une plaie perforante ou contaminée. En cas de doute, vérifiez rapidement votre statut vaccinal."
+        },
+        {
+          "q": "Faut-il faire un rappel contre le tétanos après chaque plaie ?",
+          "a": "Non. La conduite à tenir dépend de votre historique vaccinal et des caractéristiques de la plaie. Si vos rappels sont à jour et que la plaie est propre et superficielle, une injection supplémentaire n’est pas automatiquement nécessaire. Pour une plaie à risque ou un statut inconnu, le professionnel de santé décidera si un vaccin et, dans certains cas, des immunoglobulines sont nécessaires."
+        },
+        {
+          "q": "Est-ce que le tétanos s’attrape uniquement avec un clou rouillé ?",
+          "a": "Non. Le tétanos n’est pas causé par la rouille. Les spores sont surtout associées à la terre, à la poussière et aux déjections animales, mais elles peuvent contaminer divers objets. Un clou, une épine, une écharde, une morsure ou une plaie écrasée peuvent constituer une porte d’entrée, surtout si la plaie est profonde ou mal nettoyée."
+        },
+        {
+          "q": "Un antiseptique suffit-il à prévenir le tétanos ?",
+          "a": "Non. Rincer et désinfecter participent aux soins de la plaie, mais ne remplacent pas la vaccination. Le vaccin protège contre la toxine tétanique ; un antiseptique ne peut pas garantir l’élimination des spores dans une plaie profonde. La bonne stratégie associe nettoyage, protection de la plaie, vérification vaccinale et avis médical si le contexte le justifie."
+        },
+        {
+          "q": "Quels symptômes doivent faire appeler les urgences ?",
+          "a": "Appelez immédiatement les secours en cas de raideur de la mâchoire ou du cou, de difficultés à avaler ou à respirer, de spasmes musculaires, de contractions douloureuses ou d’altération de l’état général après une blessure. Appelez aussi pour un saignement important, une plaie très grave ou un objet encore enfoncé. N’attendez jamais de voir si ces symptômes disparaissent."
+        },
+        {
+          "q": "Je ne retrouve plus mon carnet de vaccination : que faire ?",
+          "a": "Contactez votre médecin traitant, votre pharmacien, votre centre de vaccination ou consultez votre espace de santé si vos données y figurent. Si les informations restent indisponibles, un professionnel établira une stratégie de rattrapage adaptée. En cas de plaie récente, signalez immédiatement cette absence de preuve : elle compte dans la décision de prévention urgente."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "title": "Les étapes clés pour la création de votre potager urbain",
+  "slug": "les-etapes-cles-pour-la-creation-de-votre-potager-urbain",
+  "path": "/divers/les-etapes-cles-pour-la-creation-de-votre-potager-urbain.html",
+  "category": "maison",
+  "tags": [
+    "potager urbain",
+    "potager balcon",
+    "jardinage en ville",
+    "culture en pots",
+    "légumes faciles"
+  ],
+  "excerpt": "Du diagnostic de l’ensoleillement aux premières récoltes, suivez une méthode concrète pour réussir un potager urbain, même avec peu d’espace.",
+  "metaDescription": "Créez un potager urbain productif sur balcon, terrasse ou rebord de fenêtre : emplacement, contenants, plants, arrosage et budget.",
+  "seoTitle": "Créer un potager urbain : les étapes clés",
+  "heroKicker": "Cultiver en ville",
+  "readingTime": 13,
+  "date": "2023-10-18T06:25:45",
+  "image": {
+    "id": "1193",
+    "alt": "Les étapes clés pour la création de votre potager urbain",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un potager urbain ne se résume pas à poser quelques jardinières sur un balcon. Pour obtenir des récoltes régulières sans transformer l’entretien en contrainte, il faut adapter les cultures à la lumière, choisir des contenants vraiment suffisants et organiser l’arrosage dès le départ. Voici une méthode complète pour démarrer à votre échelle, du simple rebord de fenêtre à la terrasse familiale."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>La lumière dicte vos cultures :</strong> les légumes-fruits demandent généralement beaucoup de soleil ; les feuillages et aromatiques tolèrent mieux la mi-ombre.",
+        "<strong>Le volume de terre compte plus que le nombre de pots :</strong> un contenant profond et drainé réduit les besoins d’arrosage et soutient mieux les plantes productives.",
+        "<strong>Commencez petit :</strong> quelques plantes adaptées et bien suivies produisent davantage qu’une installation trop dense.",
+        "<strong>L’eau est le point critique en ville :</strong> prévoyez une réserve, des soucoupes maîtrisées et un rythme d’arrosage ajusté à la météo.",
+        "<strong>Privilégiez les plants faciles au début :</strong> salades, radis, herbes, tomates compactes et haricots nains offrent un bon rapport effort-récolte."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Diagnostiquez votre espace avant d’acheter quoi que ce soit",
+      "id": "1-diagnostiquez-votre-espace-avant-d-acheter-quoi-que-ce-soi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur emplacement n’est pas forcément le plus grand : c’est celui qui reçoit une lumière utile, reste accessible pour l’arrosage et supporte le poids des bacs humides. Observez votre balcon, terrasse, cour, fenêtre ou toit-terrasse pendant plusieurs jours. Notez les heures où le soleil arrive et disparaît, la force du vent, les zones abritées et la proximité d’un point d’eau. Une exposition au sud ou à l’ouest est souvent favorable, mais une orientation est, lumineuse le matin, peut aussi donner de très bons résultats avec des cultures adaptées."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "6 h ou plus",
+          "label": "de soleil direct : repère utile pour tomates, poivrons, aubergines et la plupart des légumes-fruits"
+        },
+        {
+          "value": "3 à 4 h",
+          "label": "de lumière directe : peut convenir aux salades, épinards, radis et plusieurs herbes aromatiques"
+        },
+        {
+          "value": "15 à 20 cm",
+          "label": "de profondeur minimale pratique pour de nombreuses salades, radis et aromatiques"
+        },
+        {
+          "value": "20 à 40 L",
+          "label": "de volume généralement plus confortable pour un plant de tomate compact ou une culture gourmande en eau"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vérifiez les contraintes souvent oubliées",
+      "id": "verifiez-les-contraintes-souvent-oubliees"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bac rempli de terre et d’eau est lourd. Avant de multiplier les grandes jardinières, vérifiez le règlement de copropriété ou de location, la résistance apparente du support et l’absence de risque pour les voisins en dessous. Les écoulements doivent être maîtrisés : un contenant percé est indispensable, mais son eau ne doit pas ruisseler sur la façade ni tomber sur le balcon inférieur. Pensez aussi à la sécurité : fixez solidement les jardinières de garde-corps, évitez toute charge en porte-à-faux et ne bloquez pas les évacuations."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test le plus utile",
+      "html": "Avant de dessiner votre potager, posez un arrosoir plein ou un sac de terreau à l’endroit prévu. Si l’accès est pénible ou si vous devez contourner des meubles à chaque passage, simplifiez l’implantation. Un potager que vous pouvez arroser en deux minutes a beaucoup plus de chances de durer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Choisissez le format de potager adapté à votre surface",
+      "id": "2-choisissez-le-format-de-potager-adapte-a-votre-surface"
+    },
+    {
+      "type": "paragraph",
+      "html": "En ville, le bon système est celui qui correspond à votre espace et à votre disponibilité. Les pots individuels sont souples et mobiles ; les jardinières longues optimisent les balcons étroits ; les bacs surélevés permettent une vraie petite production sur terrasse ; les sacs de culture sont intéressants si vous avez besoin d’une solution légère et saisonnière. Ne cherchez pas à reproduire un potager de pleine terre : votre objectif est une installation stable, accessible et proportionnée."
+    },
+    {
+      "type": "comparison",
+      "title": "Pots et jardinières ou bac potager : quel choix ?",
+      "left": {
+        "title": "Pots, jardinières et sacs de culture",
+        "points": [
+          "Adaptés aux rebords de fenêtre, petits balcons et espaces loués.",
+          "Faciles à déplacer selon le soleil, le vent ou les saisons.",
+          "Permettent de séparer les besoins de chaque plante.",
+          "Sèchent plus vite et imposent de surveiller davantage l’arrosage.",
+          "Le volume limité convient surtout aux aromatiques, salades, radis et variétés compactes."
+        ]
+      },
+      "right": {
+        "title": "Grand bac ou carré potager surélevé",
+        "points": [
+          "Plus de terre disponible : humidité plus stable et plantes plus vigoureuses.",
+          "Confortable pour associer plusieurs cultures dans un même espace.",
+          "Mieux adapté aux tomates, haricots, courgettes compactes et productions suivies.",
+          "Plus coûteux, plus lourd et difficile à déplacer une fois rempli.",
+          "Demande de vérifier soigneusement la charge supportée par la terrasse ou le balcon."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "caption": "Choisir le contenant selon le type de culture",
+      "headers": [
+        "Culture",
+        "Volume ou profondeur à viser",
+        "Contenant conseillé",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Aromatiques méditerranéennes",
+          "Environ 15 à 20 cm de profondeur",
+          "Pot individuel percé",
+          "Substrat très drainant ; éviter l’excès d’eau"
+        ],
+        [
+          "Salades et jeunes pousses",
+          "Environ 15 à 20 cm de profondeur",
+          "Jardinière large",
+          "Semer ou planter en plusieurs fois pour étaler les récoltes"
+        ],
+        [
+          "Radis et carottes courtes",
+          "Environ 20 à 30 cm de profondeur",
+          "Bac profond et meuble",
+          "Éclaircir les semis pour éviter des racines chétives"
+        ],
+        [
+          "Tomates compactes",
+          "Environ 20 à 40 L par plant selon la variété",
+          "Grand pot ou sac de culture",
+          "Tuteurage et arrosage régulier indispensables"
+        ],
+        [
+          "Haricots nains",
+          "Environ 20 à 25 cm de profondeur",
+          "Jardinière ou bac",
+          "Ne pas semer trop serré ; récolter très régulièrement"
+        ],
+        [
+          "Fraises",
+          "Environ 15 à 20 cm de profondeur",
+          "Jardinière, pot ou suspension",
+          "Surveiller le dessèchement et protéger les fruits du contact avec la terre"
+        ]
+      ],
+      "note": "Les dimensions sont des repères pratiques : plus un contenant est généreux, plus la culture est tolérante aux oublis d’arrosage."
+    },
+    {
+      "type": "proscons",
+      "title": "Les systèmes à réserve d’eau : utiles, mais pas automatiques",
+      "pros": [
+        "Réduisent la fréquence des arrosages pour des plantes bien installées.",
+        "Limitent les variations brutales d’humidité dans les petits contenants.",
+        "Pratiques lors des périodes chaudes ou des absences courtes.",
+        "Peuvent éviter une partie des coulures si le trop-plein est bien conçu."
+      ],
+      "cons": [
+        "Plus chers et parfois plus lourds qu’un pot classique.",
+        "Une réserve constamment pleine peut asphyxier certaines racines si le système est mal géré.",
+        "Ils ne remplacent pas la vérification du substrat en période de canicule.",
+        "Le nettoyage des conduits et du trop-plein est nécessaire entre deux saisons."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Concevez un plan réaliste, plutôt qu’un balcon surchargé",
+      "id": "3-concevez-un-plan-realiste-plutot-qu-un-balcon-surcharge"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première année, limitez volontairement le nombre de cultures. Quatre à six contenants bien choisis suffisent pour apprendre à observer l’exposition, la vitesse de séchage et les éventuels ravageurs. Placez les plantes les plus hautes au fond ou contre un mur afin de ne pas ombrager les petites. Gardez une allée de circulation et un accès direct à chaque pot : une plante oubliée derrière une table ou une rambarde finit souvent par manquer d’eau ou de récolte."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Un plan de départ équilibré pour un balcon lumineux",
+      "items": [
+        "Deux grands pots avec une tomate cerise compacte ou un autre légume-fruit adapté à la culture en pot.",
+        "Une jardinière de salades à semer ou planter en décalé, plutôt qu’en une seule fois.",
+        "Une jardinière de radis, de roquette ou d’épinards selon la saison.",
+        "Deux ou trois aromatiques que vous cuisinez réellement : basilic, persil, ciboulette, thym ou menthe isolée.",
+        "Un support vertical solide pour un haricot grimpant ou un petit concombre, uniquement si l’ensoleillement et la place le permettent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Raisonnez en récoltes utiles, pas en variété à tout prix",
+      "id": "raisonnez-en-recoltes-utiles-pas-en-variete-a-tout-prix"
+    },
+    {
+      "type": "paragraph",
+      "html": "Cultivez ce que vous consommez souvent et ce qui garde un intérêt économique ou gustatif une fois cueilli. Les herbes fraîches, les salades à couper, les tomates cerises, les fraises et les jeunes pousses sont souvent très satisfaisantes dans peu d’espace. À l’inverse, les légumes très volumineux ou occupant longtemps un bac peuvent être décevants sur un petit balcon : maïs, gros choux, pommes de terre en quantité ou courges coureuses demandent généralement trop de place au regard de leur production."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Préparez un substrat vivant et un drainage irréprochable",
+      "id": "4-preparez-un-substrat-vivant-et-un-drainage-irreprochable"
+    },
+    {
+      "type": "paragraph",
+      "html": "La terre de jardin compacte n’est pas adaptée à la majorité des cultures en pots : elle se tasse, retient mal l’air et peut transporter des graines indésirables ou des organismes pathogènes. Utilisez un terreau de qualité prévu pour cultures potagères ou plantes en bacs, complété si besoin par du compost mûr. Le substrat doit retenir assez d’eau tout en laissant les racines respirer. Les trous de drainage au fond du contenant sont non négociables."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux fausses bonnes idées",
+      "html": "Ne remplissez pas le fond de vos bacs avec une épaisse couche de graviers dans l’idée de mieux drainer : cela réduit surtout le volume utile aux racines. Préférez des trous d’évacuation dégagés, un contenant adapté et un substrat aéré. Évitez aussi les contenants sans trou, sauf s’ils servent de cache-pot à un pot intérieur percé."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Nourrir sans brûler les plantes",
+      "id": "nourrir-sans-bruler-les-plantes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un terreau neuf contient souvent de quoi lancer la culture, mais il s’épuise rapidement dans un volume réduit. Les plantes gourmandes, notamment les tomates, poivrons ou concombres, bénéficient d’apports réguliers et modérés pendant leur croissance. Utilisez un engrais organique ou un fertilisant adapté aux légumes, en respectant la dose indiquée. Un excès d’engrais ne rend pas une plante plus productive : il peut fragiliser les racines, favoriser un feuillage abondant au détriment des fruits et polluer les eaux de ruissellement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Sélectionnez des cultures adaptées à la lumière et à votre niveau",
+      "id": "5-selectionnez-des-cultures-adaptees-a-la-lumiere-et-a-votre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix des végétaux est la décision qui conditionne le plus vos résultats. Les semis sont économiques et offrent beaucoup de choix, mais exigent davantage de régularité, notamment pour la température, l’humidité et l’éclaircissage. Les jeunes plants coûtent plus cher à l’unité, mais font gagner plusieurs semaines et limitent les échecs pour un premier potager. Une approche efficace consiste à semer les radis, la roquette et certaines salades, puis à acheter les plants de tomates, fraisiers ou aromatiques plus exigeants."
+    },
+    {
+      "type": "table",
+      "caption": "Cultures urbaines faciles selon l’exposition",
+      "headers": [
+        "Niveau de lumière",
+        "Cultures à privilégier",
+        "Pourquoi elles sont adaptées",
+        "À éviter au départ"
+      ],
+      "rows": [
+        [
+          "Soleil généreux",
+          "Tomates cerises compactes, basilic, haricots nains, poivrons, fraises",
+          "Elles valorisent bien la chaleur dans des bacs assez grands",
+          "Variétés très vigoureuses ou à fruits très lourds dans de petits pots"
+        ],
+        [
+          "Mi-ombre lumineuse",
+          "Salades, roquette, épinards, radis, persil, ciboulette",
+          "Cycle assez court et meilleure tolérance à une lumière moins intense",
+          "Tomates et aubergines espérées très productives sans soleil direct"
+        ],
+        [
+          "Lumière faible ou fenêtre peu ensoleillée",
+          "Menthe, persil, jeunes pousses, quelques salades selon la saison",
+          "Production modeste mais possible avec des attentes réalistes",
+          "Légumes-fruits et cultures ayant besoin de chaleur prolongée"
+        ]
+      ],
+      "note": "Les variétés naines, compactes, « balcon » ou explicitement destinées à la culture en pot sont souvent plus simples à gérer que les variétés classiques."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Associez les plantes par besoins, non par esthétique",
+      "id": "associez-les-plantes-par-besoins-non-par-esthetique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Regroupez les plantes qui demandent une humidité et une exposition comparables. Une tomate bien nourrie et très arrosée ne partage pas idéalement un petit pot avec du thym, qui apprécie un substrat plus sec. La menthe est vigoureuse : donnez-lui un pot à elle seule pour qu’elle n’étouffe pas ses voisines. Les fleurs comestibles et mellifères, comme certaines capucines ou soucis, peuvent apporter de la couleur et attirer des pollinisateurs, mais elles doivent elles aussi disposer d’un espace suffisant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Installez votre potager dans le bon ordre",
+      "id": "6-installez-votre-potager-dans-le-bon-ordre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une installation méthodique évite les déplacements de bacs lourds et les erreurs de densité. Préparez tous les contenants avant de planter, installez les tuteurs avant que les racines ne se développent, puis arrosez abondamment après la plantation. Pour les semis, respectez la profondeur indiquée sur le sachet : semer trop profond est une cause fréquente de levée irrégulière. Enfin, étiquetez vos pots ; après quelques semaines, il devient difficile de distinguer certains jeunes plants."
+    },
+    {
+      "type": "steps",
+      "title": "Les 6 étapes d’une installation propre et durable",
+      "items": [
+        {
+          "title": "Nettoyez et positionnez les contenants",
+          "text": "Lavez les pots réemployés, vérifiez les trous et placez les bacs lourds à leur emplacement définitif avant remplissage."
+        },
+        {
+          "title": "Prévoyez la récupération de l’eau",
+          "text": "Installez soucoupes, plateaux ou système de récupération compatible avec votre balcon, sans laisser les racines tremper durablement."
+        },
+        {
+          "title": "Remplissez avec le bon substrat",
+          "text": "Laissez quelques centimètres sous le rebord afin de pouvoir arroser sans débordement. Humidifiez légèrement le terreau avant de planter."
+        },
+        {
+          "title": "Plantez ou semez sans trop serrer",
+          "text": "Respectez les espacements conseillés. Un pot visuellement moins plein au départ donnera souvent une meilleure récolte à maturité."
+        },
+        {
+          "title": "Installez les supports",
+          "text": "Tuteur, treillis ou ficelles doivent être fixés solidement dès le début pour ne pas blesser les racines plus tard."
+        },
+        {
+          "title": "Arrosez, étiquetez et observez",
+          "text": "Arrosez au pied, notez les variétés et surveillez la reprise pendant la première semaine, particulièrement par temps venteux ou chaud."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. Maîtrisez l’arrosage, l’entretien et les petits problèmes",
+      "id": "7-maitrisez-l-arrosage-l-entretien-et-les-petits-problemes"
+    },
+    {
+      "type": "paragraph",
+      "html": "En pot, l’arrosage est rarement une question de calendrier fixe. Il dépend du vent, de la chaleur, du volume de terre, de la taille des plantes et du matériau du contenant. Touchez le substrat à quelques centimètres de profondeur : s’il est sec, arrosez lentement jusqu’à ce qu’un peu d’eau s’écoule par les trous. Arrosez de préférence le matin ou en soirée, directement au pied, plutôt que de mouiller systématiquement le feuillage. En période très chaude, un contrôle quotidien peut devenir nécessaire pour les petits pots."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La routine qui maintient un potager productif",
+      "items": [
+        "Vérifiez l’humidité avant d’arroser, au lieu d’ajouter un peu d’eau par réflexe tous les jours.",
+        "Récoltez salades, haricots, courgettes compactes et tomates mûres régulièrement : cela encourage souvent la poursuite de la production.",
+        "Supprimez les feuilles jaunes, malades ou touchant durablement le substrat.",
+        "Tournez les petits pots de temps en temps si la lumière vient d’un seul côté.",
+        "Paillez la surface avec un matériau propre et léger, ou couvrez le terreau, afin de limiter l’évaporation.",
+        "Inspectez le dessous des feuilles une à deux fois par semaine pour repérer pucerons, aleurodes ou acariens avant une forte infestation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Réagir aux ravageurs sans traiter à l’aveugle",
+      "id": "reagir-aux-ravageurs-sans-traiter-a-l-aveugle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quelques insectes ne justifient pas un traitement immédiat. Commencez par identifier le problème et isolez si nécessaire le pot atteint. Un jet d’eau doux peut déloger des pucerons sur des tiges robustes ; un retrait manuel suffit parfois pour les feuilles très atteintes. Favorisez un environnement sain : plantes moins serrées, feuillage bien aéré, arrosage au pied et nettoyage régulier. Si vous utilisez une solution de traitement autorisée pour le potager, suivez strictement son mode d’emploi et son délai avant récolte."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le signe à ne pas ignorer",
+      "html": "Une plante qui fane alors que le terreau est encore très humide ne manque pas forcément d’eau. Elle peut souffrir de racines asphyxiées, d’un pot mal drainé ou d’un problème sanitaire. Ajouter de l’eau dans ce cas aggrave généralement la situation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8. Définissez un budget utile et évitez les erreurs de débutant",
+      "id": "8-definissez-un-budget-utile-et-evitez-les-erreurs-de-debuta"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût d’un potager urbain varie surtout avec la taille des contenants et le choix d’un système d’arrosage. Pour débuter modestement avec quelques pots, du terreau, des graines ou quelques plants et un arrosoir, comptez un budget de l’ordre de quelques dizaines d’euros. Une installation plus durable avec plusieurs grands bacs, des supports, un bon volume de substrat et éventuellement l’arrosage goutte-à-goutte peut représenter plusieurs centaines d’euros. Il est souvent plus judicieux d’investir d’abord dans de grands pots percés et un terreau correct que dans des accessoires décoratifs."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget pour démarrer sans suréquiper",
+      "headers": [
+        "Projet",
+        "Équipement typique",
+        "Ordre de grandeur",
+        "Priorité d’investissement"
+      ],
+      "rows": [
+        [
+          "Rebord de fenêtre",
+          "Petites jardinières, terreau, aromatiques et salades",
+          "Quelques dizaines d’euros",
+          "Contenants percés et exposition"
+        ],
+        [
+          "Petit balcon",
+          "Plusieurs pots ou jardinières, plants faciles, tuteurs, arrosoir",
+          "De quelques dizaines à un peu plus d’une centaine d’euros",
+          "Volume de terre et gestion de l’eau"
+        ],
+        [
+          "Terrasse productive",
+          "Grands bacs, substrat en quantité, supports et irrigation simple",
+          "De plusieurs centaines d’euros selon l’ampleur",
+          "Solidité, poids, arrosage et accès"
+        ],
+        [
+          "Installation évolutive",
+          "Matériel de base complété saison après saison",
+          "Budget étalé",
+          "Acheter après avoir validé les usages réels"
+        ]
+      ],
+      "note": "Ces repères restent très variables selon les matériaux, le nombre de contenants et la récupération éventuelle de pots, de tuteurs ou de compost."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Dépenser au bon endroit",
+      "html": "Un grand contenant sobre, percé et durable est souvent un meilleur achat qu’une collection de petits pots décoratifs. Le volume de substrat apporte une marge de sécurité face à la chaleur et aux oublis d’arrosage ; c’est un investissement directement utile aux récoltes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les erreurs qui font échouer le plus de potagers urbains",
+      "id": "les-erreurs-qui-font-echouer-le-plus-de-potagers-urbains"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à surestimer le soleil disponible et à installer des tomates à un emplacement trop sombre. La deuxième est de choisir des pots trop petits, qui dessèchent brutalement et limitent les racines. Viennent ensuite les plantations trop serrées, l’arrosage automatique sans contrôle, l’absence de drainage et le démarrage avec trop de variétés. Enfin, ne négligez pas la saison : un plant acheté trop tôt peut souffrir du froid, tandis qu’un semis lancé trop tard n’aura pas toujours le temps de produire avant le retour de conditions défavorables."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Si votre espace est très contraint, pensez aussi à ces alternatives",
+      "items": [
+        "Les <strong>micro-pousses</strong>, prêtes rapidement et cultivables près d’une fenêtre lumineuse.",
+        "Un <strong>jardin partagé</strong>, intéressant pour disposer de pleine terre et échanger avec d’autres jardiniers.",
+        "Des <strong>bacs collectifs</strong> dans une cour, une résidence ou une école, si leur entretien peut être organisé.",
+        "Des <strong>aromatiques en intérieur</strong> sous lumière suffisante, en gardant des attentes modérées sur les récoltes hivernales.",
+        "Un <strong>potager vertical</strong> pour les feuillages et herbes, à condition qu’il reste facile à arroser sur toute sa hauteur."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le potager urbain",
+      "items": [
+        {
+          "q": "Quelle surface faut-il pour créer un potager urbain ?",
+          "a": "Vous pouvez commencer sur un rebord de fenêtre avec une ou deux jardinières d’aromatiques et de salades. Un petit balcon permet déjà d’ajouter quelques pots plus profonds. La surface compte moins que l’ensoleillement, le volume de terre disponible et votre capacité à arroser régulièrement."
+        },
+        {
+          "q": "Peut-on faire pousser des tomates sur un balcon peu ensoleillé ?",
+          "a": "Une tomate a besoin de beaucoup de lumière directe et de chaleur pour produire correctement. Sur un balcon peu ensoleillé, elle risque de pousser sans donner beaucoup de fruits. Préférez alors salades, roquette, épinards, persil, ciboulette ou radis, qui sont plus tolérants."
+        },
+        {
+          "q": "Faut-il arroser son potager urbain tous les jours ?",
+          "a": "Pas systématiquement. Vérifiez d’abord le substrat à quelques centimètres de profondeur. Les petits pots en plein soleil peuvent réclamer une surveillance quotidienne en été, tandis qu’un grand bac ombragé conservera l’humidité plus longtemps. Arrosez abondamment quand c’est nécessaire, plutôt que très peu et trop souvent."
+        },
+        {
+          "q": "Quel terreau choisir pour des légumes en pots ?",
+          "a": "Choisissez un terreau destiné au potager, aux légumes ou aux cultures en bacs, suffisamment aéré et enrichi. Vous pouvez l’améliorer avec du compost mûr en quantité raisonnable. Évitez la terre de jardin seule, souvent trop compacte en contenant, et assurez-vous que le pot est bien percé."
+        },
+        {
+          "q": "Quelles sont les cultures les plus faciles pour débuter ?",
+          "a": "Les radis, salades à couper, roquette, basilic, persil, ciboulette, fraises et haricots nains sont de bons candidats selon l’exposition. Avec un balcon très ensoleillé et un grand pot, une tomate cerise compacte est aussi un excellent premier essai."
+        },
+        {
+          "q": "Comment entretenir le terreau d’un potager urbain d’une année sur l’autre ?",
+          "a": "Retirez les anciennes racines et les plantes malades, puis complétez le substrat avec du compost mûr et du terreau neuf. Tous les quelques cycles, renouvelez une partie plus importante du mélange, car il se tasse et s’appauvrit. Nettoyez également les pots, les soucoupes et les tuteurs avant de replanter."
+        }
+      ]
+    }
+  ]
+}
