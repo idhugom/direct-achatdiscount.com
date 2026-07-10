@@ -1,0 +1,442 @@
+{
+  "title": "Assurance flotte automobile flotte sous-traitance : quelles couvertures pour les véhicules confiés à des partenaires ?",
+  "slug": "assurance-flotte-vehicules",
+  "path": "/divers/assurance-flotte-vehicules.html",
+  "category": "auto-moto",
+  "tags": [
+    "assurance flotte",
+    "sous-traitance",
+    "véhicules confiés",
+    "risque automobile",
+    "gestion de flotte"
+  ],
+  "excerpt": "Confier des véhicules à des partenaires impose de coordonner assurance flotte, contrat de sous-traitance et contrôles opérationnels.",
+  "metaDescription": "Véhicules confiés à des sous-traitants : garanties, clauses, franchises et contrôles pour sécuriser votre assurance flotte automobile.",
+  "seoTitle": "Assurance flotte : véhicules confiés aux sous-traitants",
+  "heroKicker": "Flotte sous contrôle",
+  "readingTime": 12,
+  "date": "2025-06-30T13:14:10",
+  "image": {
+    "id": "3240",
+    "alt": "Assurance flotte automobile flotte sous-traitance : quelles couvertures pour les véhicules confiés à des partenaires ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Prêter ou confier un véhicule de flotte à un sous-traitant ne se résume pas à lui remettre les clés. Entre le titulaire de la carte grise, le conducteur réel, le donneur d’ordre et parfois le loueur, les responsabilités se superposent. Une assurance flotte bien paramétrée, complétée par des clauses contractuelles précises, évite qu’un sinistre banal ne devienne un litige coûteux."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La responsabilité civile automobile est indispensable pour le véhicule, mais elle ne couvre pas les dégâts subis par votre propre véhicule confié à un partenaire.",
+        "Un sous-traitant qui conduit un véhicule de votre flotte doit être expressément admis par le contrat : catégorie de conducteurs, usages autorisés, zone géographique et éventuelles restrictions d’âge ou d’ancienneté de permis.",
+        "Lorsqu’un partenaire utilise son propre véhicule, exigez une attestation adaptée à son activité ; une simple assurance personnelle n’est pas forcément compatible avec une mission professionnelle, des livraisons ou du transport rémunéré.",
+        "Le contrat de sous-traitance doit répartir clairement franchises, entretien, amendes, carburant, immobilisation, déclaration de sinistre et restitution.",
+        "La preuve est aussi importante que la garantie : vérification du permis, état contradictoire du véhicule, photos datées et registre de remise sont vos meilleurs alliés en cas de contestation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi les véhicules confiés créent un risque d’assurance spécifique",
+      "id": "pourquoi-les-vehicules-confies-creent-un-risque-d-assurance-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une flotte classique, l’entreprise maîtrise généralement le véhicule, le conducteur et son usage. La sous-traitance rompt cette unité : vous restez souvent propriétaire ou locataire du véhicule, tandis qu’un tiers indépendant l’utilise dans le cadre d’une prestation. Or, l’assureur tarifie et accepte le risque selon des déclarations précises : activité, kilométrage, secteurs géographiques, profil des conducteurs, transport éventuel de marchandises et type de véhicule."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier point à ne pas confondre est la <strong>responsabilité civile automobile</strong> et la protection de votre patrimoine. En France, tout véhicule terrestre à moteur doit être assuré au moins en responsabilité civile. Cette garantie indemnise les dommages causés aux tiers par le véhicule. Elle ne rembourse pas automatiquement les dommages causés au véhicule de la flotte, ni son vol, ni son immobilisation, ni les pertes liées à l’interruption de votre activité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « confié » mérite lui aussi d’être précisé. Il peut désigner un véhicule de votre parc remis à un sous-traitant, mais aussi le véhicule personnel ou professionnel d’un partenaire mobilisé pour votre compte. Les réponses d’assurance ne sont pas les mêmes. Dans le premier cas, il faut sécuriser le contrat automobile de votre flotte. Dans le second, il faut vérifier l’assurance auto et, selon l’activité, la responsabilité civile professionnelle du partenaire."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une clause ne remplace pas une garantie",
+      "html": "Prévoir dans le contrat que le sous-traitant « supporte tous les dommages » ne garantit pas que son assureur les prendra en charge. Les dommages à un bien confié ou sous garde sont fréquemment encadrés, plafonnés ou exclus en responsabilité civile professionnelle. Pour un véhicule de flotte, la première protection contre les dégâts matériels reste une garantie dommages automobile réellement applicable au conducteur externe."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cartographier les situations avant de choisir les garanties",
+      "id": "cartographier-les-situations-avant-de-choisir-les-garanties"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de comparer les contrats, listez les schémas réellement utilisés. Une entreprise peut avoir plusieurs régimes simultanément : chauffeurs salariés pour la majorité des tournées, renforts indépendants lors des pics, véhicules de courtoisie prêtés à des partenaires ou véhicules loués longue durée affectés à une prestation. Une police homogène sur le papier peut laisser une faille dans l’un de ces cas."
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux cas de sous-traitance et la couverture à rechercher",
+      "headers": [
+        "Situation",
+        "Qui utilise le véhicule ?",
+        "Risque principal",
+        "Point de contrôle prioritaire"
+      ],
+      "rows": [
+        [
+          "Véhicule de flotte remis au partenaire",
+          "Sous-traitant, intérimaire ou prestataire mandaté",
+          "Accident responsable, dommages au véhicule, vol, conducteur non admis",
+          "Extension ou définition suffisamment large des conducteurs autorisés dans la flotte"
+        ],
+        [
+          "Partenaire utilisant son propre utilitaire",
+          "Sous-traitant indépendant",
+          "Usage professionnel non déclaré, garantie insuffisante, défaut d’assurance",
+          "Attestation d’assurance auto professionnelle et adéquation avec l’activité"
+        ],
+        [
+          "Véhicule loué ou en leasing confié au partenaire",
+          "Sous-traitant au volant d’un véhicule financé ou loué par vous",
+          "Interdiction contractuelle de sous-prêt, restitution endommagée",
+          "Accord du loueur et règles de conduite prévues au contrat de location"
+        ],
+        [
+          "Véhicule avec matériel ou marchandises transportées",
+          "Partenaire au volant",
+          "Marchandises endommagées, outils volés, responsabilité liée à la prestation",
+          "Assurances distinctes pour le véhicule, les biens transportés et l’activité"
+        ],
+        [
+          "Véhicule confié ponctuellement en urgence",
+          "Remplaçant ou renfort occasionnel",
+          "Permis non vérifié, franchise majorée, assistance indisponible",
+          "Processus express de validation et état des lieux de remise"
+        ]
+      ],
+      "note": "Les intitulés exacts varient selon les assureurs. Faites confirmer par écrit l’application de la garantie à votre scénario concret, plutôt que de vous fier au seul nom d’une option."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux modèles à distinguer absolument",
+      "left": {
+        "title": "Vous confiez votre véhicule au sous-traitant",
+        "points": [
+          "Votre contrat flotte doit accepter les conducteurs non salariés, occasionnels ou désignés selon votre organisation.",
+          "La garantie dommages du véhicule, le vol, l’assistance et la franchise relèvent d’abord de votre police automobile.",
+          "Le contrat commercial organise ensuite le remboursement éventuel de la franchise ou des frais par le partenaire.",
+          "Vous devez contrôler le permis, l’identité du conducteur, le respect des usages et l’état du véhicule au départ comme au retour."
+        ]
+      },
+      "right": {
+        "title": "Le sous-traitant utilise son propre véhicule",
+        "points": [
+          "Son assurance doit couvrir l’usage réel : activité professionnelle, tournées, transport ou intervention sur site selon le cas.",
+          "Votre entreprise n’a pas à assurer automatiquement son véhicule, mais elle doit vérifier ses justificatifs avant le début de la mission.",
+          "Une assurance complémentaire de mission ou de non-propriété ne doit être envisagée que si elle vise explicitement des prestataires externes.",
+          "Votre contrat de sous-traitance doit prévoir les exigences minimales, le renouvellement des attestations et les conséquences d’un défaut de couverture."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les garanties à exiger dans une assurance flotte adaptée",
+      "id": "les-garanties-a-exiger-dans-une-assurance-flotte-adaptee"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le socle obligatoire est la responsabilité civile automobile. Dans une relation de sous-traitance, ce socle ne suffit presque jamais. Un accident responsable peut endommager votre véhicule, immobiliser une tournée, blesser le conducteur ou détruire des équipements. La bonne formule dépend de la valeur de la flotte, de votre capacité à absorber une franchise élevée et de la criticité du véhicule dans votre activité."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Dommages au véhicule : tiers étendu ou tous accidents ?",
+      "id": "dommages-au-vehicule-tiers-etendu-ou-tous-accidents"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une formule au tiers étendu peut couvrir certains événements nommés, généralement l’incendie, le vol, le bris de glace et les catastrophes selon les conditions. Elle reste moins protectrice si le sous-traitant heurte un obstacle, recule contre un quai, accroche un portail ou sort de route sans tiers identifié. Pour des véhicules récents, spécialisés, difficiles à remplacer ou fortement exposés, une garantie <strong>dommages tous accidents</strong> est souvent le choix le plus cohérent."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vérifiez également les exclusions concrètes : conduite sous l’emprise d’alcool ou de stupéfiants, absence de permis valide, usage différent de l’activité déclarée, transport de personnes ou de marchandises non prévu, conduite sur piste ou hors voirie, sous-location ou prêt interdit. Certaines exclusions s’imposent par la loi ou le contrat ; d’autres peuvent être aménagées selon la police. L’important est de ne pas les découvrir après le sinistre."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Protection du conducteur, assistance et véhicule relais",
+      "id": "protection-du-conducteur-assistance-et-vehicule-relais"
+    },
+    {
+      "type": "paragraph",
+      "html": "La garantie du conducteur est souvent sous-estimée. La responsabilité civile indemnise les tiers ; elle ne protège pas toujours suffisamment le conducteur responsable pour ses propres préjudices corporels. Si vos partenaires effectuent de longs trajets, des livraisons ou des interventions isolées, contrôlez le niveau de protection prévu et les éventuelles conditions d’indemnisation."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’assistance doit être lue comme un outil de continuité d’activité : assistance dès le domicile ou à partir d’une certaine distance, dépannage pour panne, remorquage d’un véhicule chargé, rapatriement, mise à disposition d’un véhicule de remplacement et durée de ce prêt. Un véhicule relais sans volume utile, sans équipement professionnel ou disponible seulement plusieurs jours après la panne peut être peu utile à un artisan, un technicien ou un transporteur."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Garanties qui ne doivent pas être confondues",
+      "id": "garanties-qui-ne-doivent-pas-etre-confondues"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un véhicule assuré n’implique pas que son contenu le soit. Les outils embarqués, le matériel professionnel fixé ou non fixé, les marchandises transportées, les effets personnels et les pertes d’exploitation peuvent relever de garanties séparées. De même, les erreurs de prestation du sous-traitant, les dommages chez un client, les retards de livraison ou les défauts de conseil relèvent plutôt de la responsabilité civile professionnelle. Demandez une vision d’ensemble : <strong>véhicule, conducteur, contenu, activité et interruption</strong>."
+    },
+    {
+      "type": "proscons",
+      "title": "Étendre votre flotte aux sous-traitants : le bon arbitrage",
+      "pros": [
+        "Un pilotage plus simple lorsque vous maîtrisez les véhicules, les usages et le niveau de garantie.",
+        "Une indemnisation des dommages matériels plus lisible qu’un recours incertain contre le partenaire.",
+        "Des règles d’assistance et de gestion de sinistre uniformes pour l’ensemble du parc.",
+        "Une meilleure continuité opérationnelle si les véhicules sont indispensables à votre prestation."
+      ],
+      "cons": [
+        "Une surprime possible si les conducteurs externes ou l’activité accroissent la sinistralité attendue.",
+        "Un contrôle interne plus exigeant : permis, identité, états des lieux et respect des restrictions.",
+        "Des franchises à récupérer éventuellement auprès du sous-traitant après le sinistre.",
+        "Une extension inutile ou inadaptée si le partenaire travaille exclusivement avec ses propres véhicules assurés pour son activité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Définir les conducteurs et les usages sans zone grise",
+      "id": "definir-les-conducteurs-et-les-usages-sans-zone-grise"
+    },
+    {
+      "type": "paragraph",
+      "html": "La formule « tout conducteur » peut sembler rassurante, mais elle doit être lue en détail. Elle peut être assortie d’une franchise majorée pour les jeunes conducteurs, les conducteurs novices ou les personnes non désignées. À l’inverse, une flotte limitée aux salariés nommément déclarés peut exclure un sous-traitant, même si celui-ci intervient régulièrement pour vous. Ne présumez jamais que la qualité de prestataire équivaut à celle de salarié."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les éléments à faire valider par l’assureur ou le courtier",
+      "items": [
+        "Les sous-traitants, travailleurs indépendants, intérimaires et remplaçants peuvent-ils conduire les véhicules ?",
+        "L’autorisation est-elle permanente, réservée à une liste nominative ou admise pour des missions ponctuelles ?",
+        "Quels critères s’appliquent au permis : catégorie, ancienneté, suspension, permis étranger ou conduite accompagnée exclue ?",
+        "Les usages déclarés couvrent-ils les livraisons, dépannages, chantiers, tournées, déplacements transfrontaliers ou transport de personnes ?",
+        "Une remorque, un hayon, un véhicule frigorifique, un utilitaire aménagé ou un engin tracté nécessitent-ils une déclaration spécifique ?",
+        "Quelle franchise s’applique à un conducteur externe, et à qui l’assureur versera-t-il l’indemnité ?",
+        "Le prêt du véhicule est-il compatible avec un contrat de location longue durée, un crédit-bail ou une location courte durée ?"
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le document qui fait foi",
+      "html": "Obtenez une confirmation écrite, idéalement sous forme d’avenant, de condition particulière ou de réponse formelle de l’assureur. Une réponse orale ou une interprétation d’une brochure commerciale ne suffit pas pour sécuriser la conduite par des sous-traitants."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sécuriser le contrat de sous-traitance et la remise des clés",
+      "id": "securiser-le-contrat-de-sous-traitance-et-la-remise-des-cles"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’assurance traite le financement du sinistre ; le contrat de sous-traitance organise la relation entre les parties. Il doit donc compléter, et non contredire, les garanties. Évitez les clauses génériques qui font peser « toute responsabilité » sur le partenaire sans préciser les cas couverts. Une clause efficace décrit qui fait quoi avant, pendant et après l’utilisation du véhicule."
+    },
+    {
+      "type": "paragraph",
+      "html": "Prévoyez notamment l’obligation de détenir un permis en cours de validité, d’informer immédiatement toute suspension ou restriction, de ne pas prêter le véhicule à un tiers, de respecter les limitations d’usage et de ne réaliser aucune modification sans accord. Si le véhicule est équipé de géolocalisation, de télématique ou d’un système de suivi, informez les conducteurs dans le respect du cadre applicable à la protection des données et à l’information des personnes."
+    },
+    {
+      "type": "table",
+      "caption": "Clauses opérationnelles à prévoir avec le partenaire",
+      "headers": [
+        "Sujet",
+        "Ce que la clause doit préciser",
+        "Intérêt pratique"
+      ],
+      "rows": [
+        [
+          "Conducteur autorisé",
+          "Identité ou catégorie admise, permis requis, interdiction de prêter le véhicule",
+          "Évite une conduite par une personne non déclarée ou non qualifiée"
+        ],
+        [
+          "Franchise",
+          "Montant ou méthode de calcul, cas de prise en charge, procédure de contestation",
+          "Réduit les conflits après un accident responsable"
+        ],
+        [
+          "Entretien et usage",
+          "Contrôles quotidiens, carburant ou recharge, pneumatiques, alertes tableau de bord, interdiction de surcharge",
+          "Préserve le véhicule et réduit les pannes évitables"
+        ],
+        [
+          "Sinistre",
+          "Mise en sécurité, constat, photos, délai d’information, interlocuteur joignable",
+          "Permet une déclaration complète dans le délai prévu au contrat"
+        ],
+        [
+          "Amendes et péages",
+          "Transmission de l’identité du conducteur, frais administratifs éventuels, règles de paiement",
+          "Clarifie les obligations liées aux infractions et aux frais d’usage"
+        ],
+        [
+          "Restitution",
+          "État contradictoire, kilométrage, accessoires, badges, clés, nettoyage et dommages préexistants",
+          "Distingue l’usure normale des dégradations imputables"
+        ]
+      ],
+      "note": "Faites relire les clauses de responsabilité, de franchise et de pénalités par votre conseil juridique lorsque les véhicules sont coûteux, spécialisés ou confiés pour une longue durée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, franchises et plafonds : raisonner en coût total de risque",
+      "id": "budget-franchises-et-plafonds-raisonner-en-cout-total-de-ris"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de tarif universel pour une flotte avec sous-traitance. Le montant dépend notamment du nombre et du type de véhicules, de leur valeur, de la zone de circulation, du kilométrage, du passé de sinistralité, de l’activité, de la part de conducteurs externes et du niveau de franchise. À titre de repère très général, une assurance d’utilitaire peut représenter de quelques centaines d’euros par véhicule et par an à bien davantage pour une formule tous risques, un véhicule haut de gamme, une activité exposée ou une sinistralité dégradée. Seul un devis fondé sur vos usages permet une comparaison utile."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne choisissez pas la franchise uniquement pour diminuer la prime. Une franchise élevée peut être rationnelle pour une grande flotte disposant d’une trésorerie solide et d’une fréquence de petits sinistres maîtrisée. Elle est plus risquée si chaque incident doit être refacturé à un sous-traitant : le recouvrement peut être conflictuel, long ou impossible en cas de désaccord sur les circonstances. Fixez une franchise que votre entreprise peut avancer sans désorganiser son exploitation."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 niveaux",
+          "label": "à dissocier : responsabilité envers les tiers, dommages au véhicule et responsabilité contractuelle du partenaire"
+        },
+        {
+          "value": "2 preuves",
+          "label": "à conserver à chaque remise : permis contrôlé et état contradictoire du véhicule"
+        },
+        {
+          "value": "24 h/24",
+          "label": "assistance à rechercher pour les véhicules exploités hors horaires de bureau"
+        },
+        {
+          "value": "1 sinistre",
+          "label": "peut mobiliser plusieurs contrats : auto, marchandises, responsabilité professionnelle et éventuellement perte d’exploitation"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Comparez au-delà de la prime",
+      "html": "Mettez en regard la cotisation, la franchise applicable au sous-traitant, les exclusions, le plafond de la garantie conducteur, la disponibilité d’un véhicule relais et les modalités d’indemnisation. Une offre légèrement moins chère peut devenir plus coûteuse dès le premier sinistre si le véhicule est immobilisé ou si les conducteurs externes supportent une franchise aggravée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mettre en place un processus de contrôle simple et reproductible",
+      "id": "mettre-en-place-un-processus-de-controle-simple-et-reproduct"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une bonne couverture perd de sa valeur si l’entreprise ne sait pas qui conduisait, quel était l’état du véhicule ou si le permis était valide. La solution n’est pas forcément un dispositif lourd : un protocole court, appliqué de façon identique à chaque partenaire, suffit souvent à réduire fortement les litiges. Centralisez les justificatifs et définissez un interlocuteur flotte capable de répondre immédiatement en cas d’accident."
+    },
+    {
+      "type": "steps",
+      "title": "Processus recommandé avant toute mise à disposition",
+      "items": [
+        {
+          "title": "Qualifier la mission",
+          "text": "Identifiez le véhicule, l’usage réel, la durée du prêt, le territoire, les équipements embarqués et le statut du partenaire. Vérifiez que ce scénario entre dans le périmètre de la police flotte et du contrat de location éventuel."
+        },
+        {
+          "title": "Valider le conducteur",
+          "text": "Contrôlez l’identité et la catégorie du permis nécessaire. Conservez une trace de cette vérification et prévoyez une déclaration immédiate en cas de suspension, de perte ou de restriction du permis."
+        },
+        {
+          "title": "Formaliser la remise",
+          "text": "Faites signer un bon de remise indiquant kilométrage, niveau de carburant ou de charge, clés, badges, documents, équipements et défauts apparents. Ajoutez des photos datées des faces du véhicule et de l’habitacle si nécessaire."
+        },
+        {
+          "title": "Rappeler les règles de circulation",
+          "text": "Remettez une fiche claire : numéro d’assistance, conduite à tenir après accident, interdiction de sous-prêt, conditions de stationnement, chargement, entretien courant et limites d’usage."
+        },
+        {
+          "title": "Contrôler le retour",
+          "text": "Réalisez un état contradictoire, signalez immédiatement les chocs et anomalies, relevez le kilométrage et récupérez tous les accessoires. Une déclaration tardive fragilise la gestion du dossier."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réagir correctement en cas d’accident, de vol ou de dégradation",
+      "id": "reagir-correctement-en-cas-d-accident-de-vol-ou-de-degradati"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après un accident, la priorité est la sécurité des personnes : sécurisation des lieux, appel des secours si nécessaire et respect des obligations de circulation. Le conducteur doit ensuite recueillir les informations utiles, remplir un constat lorsque les circonstances le permettent, prendre des photographies et prévenir sans délai le référent désigné. En cas de vol ou de vandalisme, les formalités auprès des autorités et la conservation des clés restantes sont souvent déterminantes ; reportez-vous aux conditions de votre contrat."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’entreprise doit déclarer le sinistre dans le délai prévu par la police, sans attendre d’avoir résolu la question de la responsabilité du sous-traitant. Transmettez les pièces disponibles : bon de remise, permis contrôlé, photos avant et après, constat, témoignages, dépôt de plainte s’il y a lieu, factures d’équipements et échanges utiles. Ne faites pas réparer un dommage important sans respecter les modalités d’expertise ou d’accord prévues par l’assureur, sauf mesure conservatoire indispensable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, séparez deux conversations : l’une avec l’assureur sur la prise en charge, l’autre avec le sous-traitant sur l’application des clauses contractuelles, notamment la franchise, la négligence éventuelle ou la restitution. Mélanger les deux entretient les malentendus. L’assureur indemnise selon le contrat ; la refacturation au partenaire dépend de votre accord et des circonstances établies."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particuliers et alternatives à la mise à disposition",
+      "id": "cas-particuliers-et-alternatives-a-la-mise-a-disposition"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour des missions ponctuelles, il peut être plus simple de demander au sous-traitant de travailler avec son propre véhicule, à condition que son assurance couvre réellement cet usage. Vous évitez alors la gestion quotidienne des clés, de l’entretien et des petits dommages, mais vous devez renforcer le contrôle documentaire : attestation d’assurance en cours de validité, activité déclarée cohérente et, si nécessaire, assurance des marchandises ou des équipements."
+    },
+    {
+      "type": "paragraph",
+      "html": "La location courte durée peut être une autre solution pour absorber un pic d’activité. Attention : le contrat de location peut restreindre les conducteurs, imposer une déclaration préalable ou interdire le prêt à un tiers. Vérifiez ces règles avant d’affecter le véhicule à un partenaire. Pour une relation durable, une flotte dédiée avec conducteurs explicitement admis est souvent plus lisible que des prêts répétés et informels."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les véhicules électriques demandent une vigilance supplémentaire : responsabilité de la recharge, usage des badges, restitution des câbles, dommages aux bornes, autonomie réelle sur tournée et assistance en cas de batterie déchargée. De même, les véhicules aménagés, frigorifiques, utilitaires avec outils ou véhicules tractant une remorque doivent faire l’objet d’une analyse spécifique. Leur valeur ne réside pas seulement dans le véhicule, mais aussi dans l’équipement et dans la capacité à assurer la mission."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le bon niveau de conseil",
+      "html": "Dès que votre activité implique des tournées intensives, du transport de biens, des véhicules spécialisés, des partenaires nombreux ou des missions transfrontalières, faites analyser le montage par un courtier ou un assureur connaissant votre secteur. L’objectif n’est pas d’empiler les options, mais de supprimer les écarts entre l’usage réel, le contrat flotte et le contrat de sous-traitance."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’assurance flotte et la sous-traitance",
+      "items": [
+        {
+          "q": "Mon sous-traitant peut-il conduire un véhicule de ma flotte s’il possède un permis valide ?",
+          "a": "Pas automatiquement. Son permis est nécessaire, mais votre contrat flotte doit aussi autoriser ce type de conducteur et l’usage prévu. Vérifiez la définition des conducteurs garantis, les éventuelles conditions d’âge ou d’ancienneté de permis, ainsi que les restrictions liées à l’activité ou au territoire."
+        },
+        {
+          "q": "L’assurance responsabilité civile du véhicule couvre-t-elle les dégâts causés au véhicule confié ?",
+          "a": "Non, la responsabilité civile automobile sert d’abord à indemniser les tiers victimes. Pour les dommages subis par votre propre véhicule, il faut une garantie dommages adaptée, idéalement tous accidents lorsque le risque est important. Le contrat de sous-traitance peut prévoir qui supporte la franchise, mais il ne remplace pas cette garantie."
+        },
+        {
+          "q": "Dois-je demander une attestation d’assurance à un partenaire qui utilise son propre véhicule ?",
+          "a": "Oui. Demandez une attestation à jour et vérifiez que l’usage déclaré est compatible avec la mission confiée. Un véhicule assuré pour un usage privé ou de simple trajet peut ne pas être adapté à des livraisons régulières, au transport de marchandises ou à une activité professionnelle intensive."
+        },
+        {
+          "q": "Puis-je refacturer la franchise au sous-traitant responsable d’un accident ?",
+          "a": "Vous pouvez le prévoir contractuellement, mais la clause doit être claire et adaptée aux circonstances. Précisez le montant ou le mode de calcul, les cas concernés, la procédure contradictoire et les modalités de paiement. Une franchise appliquée par votre assureur ne vaut pas, à elle seule, reconnaissance automatique d’une faute par le partenaire."
+        },
+        {
+          "q": "Les marchandises et les outils présents dans le véhicule sont-ils couverts par l’assurance flotte ?",
+          "a": "Pas nécessairement. L’assurance automobile couvre avant tout le véhicule et sa responsabilité de circulation. Les marchandises transportées, les outils professionnels et les équipements embarqués peuvent relever de garanties distinctes, avec des plafonds, des conditions de stationnement et des exclusions propres."
+        },
+        {
+          "q": "Que faut-il faire si le véhicule est loué ou pris en leasing ?",
+          "a": "Relisez le contrat de location ou de financement avant toute remise à un sous-traitant. Certains contrats limitent les conducteurs autorisés, encadrent le prêt ou imposent des garanties particulières. Obtenez l’accord écrit du loueur si nécessaire et alignez les règles du loueur, de votre assureur flotte et de votre contrat de sous-traitance."
+        }
+      ]
+    }
+  ]
+}

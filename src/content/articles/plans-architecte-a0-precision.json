@@ -1,0 +1,454 @@
+{
+  "title": "Impression plans architecte A0 : précision et lisibilité pour vos documents techniques",
+  "slug": "plans-architecte-a0-precision",
+  "path": "/divers/plans-architecte-a0-precision.html",
+  "category": "maison",
+  "tags": [
+    "impression a0",
+    "plans architecte",
+    "plan technique",
+    "tirage grand format",
+    "papier traceur",
+    "échelle plan"
+  ],
+  "excerpt": "Du fichier PDF au pliage, les critères concrets pour imprimer des plans architecte A0 nets, à l’échelle et adaptés au chantier comme au permis.",
+  "metaDescription": "Choisissez l’impression de vos plans architecte A0 : format, papier, échelle, PDF, couleur, budget et contrôles pour un rendu technique lisible.",
+  "seoTitle": "Impression plans architecte A0 : guide précision et lisibilité",
+  "heroKicker": "Plans grand format",
+  "readingTime": 12,
+  "date": "2025-06-30T14:53:13",
+  "image": {
+    "id": "3237",
+    "alt": "Impression plans architecte A0 : précision et lisibilité pour vos documents techniques",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un plan A0 mal imprimé ne pose pas seulement un problème esthétique : une cote illisible, une légende écrasée ou une échelle involontairement modifiée peut entraîner des erreurs sur un dossier administratif ou sur un chantier. Pour obtenir un tirage fiable, il faut traiter l’impression comme une étape technique à part entière, du contrôle du PDF au choix du support et des finitions."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel avant de lancer un tirage A0",
+      "items": [
+        "Le format A0 mesure <strong>841 × 1 189 mm</strong> : vérifiez le format final du PDF, pas uniquement les dimensions affichées par votre logiciel.",
+        "Pour un plan coté, privilégiez un fichier <strong>PDF vectoriel</strong> et imprimez à <strong>100 % / taille réelle</strong>, sans ajustement automatique.",
+        "Un papier non couché mat de grammage intermédiaire convient à la plupart des plans de chantier ; le papier plus épais se justifie surtout pour une présentation ou des manipulations répétées.",
+        "Demandez un exemplaire de contrôle ou vérifiez au minimum une cote de référence et l’échelle graphique avant toute impression en série.",
+        "La couleur sert à hiérarchiser l’information, mais le noir et blanc reste souvent plus économique, plus robuste à la photocopie et plus lisible en extérieur."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi le format A0 reste la référence des plans techniques",
+      "id": "pourquoi-le-format-a0-reste-la-reference-des-plans-technique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le format A0 est le plus grand format courant de la série ISO A. Sa surface est d’environ un mètre carré et chaque passage au format inférieur divise cette surface par deux : un A1 correspond donc à la moitié d’un A0, puis viennent les A2, A3 et A4. Cette logique facilite l’archivage, le pliage et la reproduction d’un même document à plusieurs tailles."
+    },
+    {
+      "type": "paragraph",
+      "html": "En architecture, en maîtrise d’œuvre, en bureau d’études et dans le BTP, l’A0 permet d’afficher simultanément le dessin, les cotations, les annotations, les coupes et les légendes sans réduire exagérément les caractères. Il est particulièrement utile pour les plans de masse détaillés, les plans de niveaux complexes, les coupes générales, les réseaux techniques et les documents destinés à être consultés à plusieurs autour d’une table ou accrochés sur site."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "841 × 1 189 mm",
+          "label": "dimensions normalisées d’une feuille A0"
+        },
+        {
+          "value": "≈ 1 m²",
+          "label": "surface d’un A0 selon la série ISO A"
+        },
+        {
+          "value": "1:50 à 1:200",
+          "label": "plages d’échelles fréquentes selon le type de plan"
+        },
+        {
+          "value": "A1 = 1/2 A0",
+          "label": "réduction de surface à chaque format ISO"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Un format A0 ne garantit pas une impression à l’échelle",
+      "html": "Un PDF peut avoir une page A0 tout en contenant un dessin réduit, agrandi ou décalé. À l’inverse, un plan dessiné correctement peut être faussé par l’option <em>Ajuster à la page</em>. La présence d’une <strong>échelle graphique</strong> et le contrôle d’une cote connue sont les deux sécurités les plus simples."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "D’abord, distinguez format, échelle et résolution",
+      "id": "d-abord-distinguez-format-echelle-et-resolution"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces trois notions sont souvent confondues alors qu’elles répondent à des questions différentes. Le format indique la taille physique de la feuille. L’échelle exprime le rapport entre le dessin et la réalité : à l’échelle 1:100, un centimètre sur le papier représente un mètre construit. La résolution concerne surtout les éléments rasterisés, comme une photo aérienne, un scan, une texture ou un plan exporté sous forme d’image."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour des traits, des hachures, des textes et des cotations, le meilleur choix est un <strong>PDF vectoriel</strong>. Il conserve la netteté des objets quel que soit le format de sortie. Un PDF issu d’une capture d’écran, d’un JPEG ou d’un scan peut paraître acceptable sur écran et devenir flou une fois agrandi sur A0. Le problème est encore plus visible sur les polices fines, les pointillés et les symboles techniques."
+    },
+    {
+      "type": "table",
+      "caption": "Les trois contrôles qui déterminent la fiabilité d’un plan A0",
+      "headers": [
+        "Élément",
+        "Ce qu’il vérifie",
+        "Méthode de contrôle",
+        "Risque si vous l’ignorez"
+      ],
+      "rows": [
+        [
+          "Format de page",
+          "Que le document sortira bien sur une feuille A0",
+          "Lire les propriétés du PDF : 841 × 1 189 mm ou équivalent",
+          "Marges blanches, découpe, réduction involontaire"
+        ],
+        [
+          "Échelle",
+          "Que les distances imprimées correspondent au dessin prévu",
+          "Mesurer une barre d’échelle ou une cote de référence après tirage",
+          "Erreurs de métrés, de lecture ou d’exécution"
+        ],
+        [
+          "Nature du fichier",
+          "Que traits et textes restent nets",
+          "Préférer un PDF vectoriel ; zoomer fortement à l’écran",
+          "Traits pixellisés, textes flous, détails perdus"
+        ],
+        [
+          "Épaisseur des traits",
+          "Que la hiérarchie graphique survive au tirage",
+          "Contrôler un aperçu à 100 % et, si possible, une zone test",
+          "Murs, axes et cotes indifférenciés"
+        ],
+        [
+          "Polices et transparences",
+          "Que le RIP d’impression interprète correctement le PDF",
+          "Incorporer les polices et aplatir les effets complexes si nécessaire",
+          "Textes remplacés, symboles manquants, aplats erronés"
+        ]
+      ],
+      "note": "Le contrôle doit être réalisé sur le PDF final envoyé à l’imprimeur, et non sur la seule mise en page visible dans le logiciel de conception."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer un PDF A0 propre avant l’envoi",
+      "id": "preparer-un-pdf-a0-propre-avant-l-envoi"
+    },
+    {
+      "type": "paragraph",
+      "html": "La qualité de l’impression se joue largement avant l’ouverture du fichier par l’opérateur. Exportez depuis votre logiciel de CAO, BIM, DAO ou de mise en page vers un PDF destiné à l’impression, plutôt que d’imprimer depuis un visualiseur ou de transmettre une image. Lorsque le document doit servir à un dépôt, à une consultation ou à une exécution, conservez aussi une version source et une version PDF datée afin d’éviter de tirer par erreur une ancienne révision."
+    },
+    {
+      "type": "steps",
+      "title": "La méthode de préparation en cinq étapes",
+      "items": [
+        {
+          "title": "Nettoyez la mise en page",
+          "text": "Supprimez les calques de travail, cadres parasites, commentaires non destinés au lecteur et objets hors zone. Vérifiez l’orientation : un A0 peut être imprimé en portrait ou en paysage."
+        },
+        {
+          "title": "Définissez le cadre et l’échelle",
+          "text": "Placez le dessin dans un cartouche cohérent, avec le nom du projet, l’indice de révision, la date, le numéro de plan et l’échelle annoncée. Ajoutez une échelle graphique, indispensable si le plan est reproduit à une autre taille."
+        },
+        {
+          "title": "Réglez la hiérarchie des traits",
+          "text": "Les éléments structurels ou les murs coupés doivent rester dominants ; les réseaux, trames, mobiliers et lignes secondaires doivent se distinguer sans disparaître. Évitez de tout dessiner avec la même épaisseur."
+        },
+        {
+          "title": "Exportez sans dégrader",
+          "text": "Choisissez un PDF haute qualité ou destiné à l’impression. Incorporez les polices lorsque l’option existe. Gardez les textes en vectoriel et évitez de convertir l’ensemble de la planche en image."
+        },
+        {
+          "title": "Contrôlez le PDF final",
+          "text": "Vérifiez le format de page, les marges, les calques visibles, les textes, les symboles, les noirs et la présence de l’échelle graphique. Zoomez sur les zones les plus denses avant de transmettre le fichier."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist à transmettre avec votre commande",
+      "items": [
+        "Indiquez clairement : <strong>A0, portrait ou paysage, impression à 100 %</strong>.",
+        "Précisez le nombre d’exemplaires et les jeux de plans à constituer.",
+        "Nommez les fichiers dans l’ordre de lecture : numéro de plan, indice de révision et intitulé court.",
+        "Distinguez les plans à imprimer en couleur de ceux destinés au noir et blanc.",
+        "Signalez tout besoin de pliage, de reliure, de perforation ou de livraison sur chantier.",
+        "Pour un délai sensible, demandez une confirmation de faisabilité avant d’envoyer un volume important."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir papier, grammage et rendu selon l’usage réel",
+      "id": "choisir-papier-grammage-et-rendu-selon-l-usage-reel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le papier n’est pas un simple détail de finition. Il conditionne le confort de lecture, la résistance à la manipulation, le coût et la facilité de pliage. Pour des plans techniques ordinaires, un papier blanc mat non couché destiné au traceur offre un excellent compromis : les traits sont nets, les annotations manuscrites accrochent bien et les reflets sont limités."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un papier léger convient aux plans de travail temporaire, aux jeux nombreux et aux documents qui seront pliés puis archivés. Un grammage intermédiaire apporte davantage de tenue pour les consultations, les affichages et les plans fréquemment manipulés. Au-delà, le papier devient intéressant pour une planche de concours, une présentation client ou un panneau à conserver à plat, mais il est moins pratique à plier et augmente le budget comme l’encombrement."
+    },
+    {
+      "type": "table",
+      "caption": "Quel support choisir pour vos tirages A0 ?",
+      "headers": [
+        "Usage",
+        "Support conseillé",
+        "Pourquoi",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Jeu de plans de chantier",
+          "Papier mat standard, plutôt léger à intermédiaire",
+          "Économique, pliable, facilement annotable",
+          "Protéger de la pluie et des salissures"
+        ],
+        [
+          "Dossier de permis ou administratif",
+          "Papier mat de bonne tenue",
+          "Lecture confortable, rendu sérieux des textes et aplats",
+          "Vérifier les exigences éventuelles du destinataire"
+        ],
+        [
+          "Réunion et présentation",
+          "Papier plus épais, mat ou légèrement satiné",
+          "Meilleure rigidité, couleurs plus valorisées",
+          "Plus coûteux et moins facile à plier"
+        ],
+        [
+          "Plan à afficher longtemps",
+          "Papier renforcé ou support synthétique si nécessaire",
+          "Résiste mieux aux manipulations et à l’humidité",
+          "Le support synthétique n’est pas toujours requis ni recyclable de la même façon"
+        ],
+        [
+          "Fond de plan avec photo ou orthophoto",
+          "Papier adapté à la couleur, souvent plus blanc et plus opaque",
+          "Améliore les nuances et limite la transparence",
+          "Contrôler que les annotations restent contrastées"
+        ]
+      ],
+      "note": "Pour un document d’exécution, la lisibilité des informations doit primer sur l’effet visuel du support."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le choix le plus sûr pour la plupart des plans",
+      "html": "Pour un plan architectural courant, choisissez un <strong>papier blanc mat</strong>, une impression à taille réelle et un PDF vectoriel. Réservez les papiers plus lourds ou plus valorisants aux documents de présentation, pas aux jeux volumineux qui devront être pliés, transportés et annotés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Noir et blanc ou couleur : faites un choix fonctionnel",
+      "id": "noir-et-blanc-ou-couleur-faites-un-choix-fonctionnel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le noir et blanc est parfaitement adapté lorsque la hiérarchie repose sur les épaisseurs de trait, les hachures, les styles de ligne et les annotations. Il est particulièrement pertinent pour les plans d’exécution, les coupes, les détails et les jeux nombreux. Il limite le coût unitaire et évite qu’une information essentielle ne dépende d’une nuance de couleur difficile à distinguer après photocopie."
+    },
+    {
+      "type": "paragraph",
+      "html": "La couleur devient utile si elle encode une information : phase de travaux, démolition et construction, lots techniques, zones réglementaires, circulation, repérage des réseaux ou superposition sur fond cadastral. Elle ne doit pas remplacer une différenciation par les formes, les libellés ou les trames. Un lecteur doit pouvoir comprendre l’essentiel d’un plan même avec une reproduction en niveaux de gris."
+    },
+    {
+      "type": "comparison",
+      "title": "Impression noir et blanc ou couleur pour un A0 ?",
+      "left": {
+        "title": "Noir et blanc",
+        "points": [
+          "Coût généralement plus maîtrisé pour les jeux de plans nombreux.",
+          "Très lisible si les épaisseurs, hachures et styles de lignes sont bien paramétrés.",
+          "Se photocopie et se numérise plus facilement sans perte de sens.",
+          "Idéal pour les détails, coupes et documents d’exécution sobres."
+        ]
+      },
+      "right": {
+        "title": "Couleur",
+        "points": [
+          "Facilite la lecture de calques, zones, phasages et réseaux complexes.",
+          "Valorise les plans de présentation, perspectives et fonds cartographiques.",
+          "Demande des contrastes soignés : les jaunes pâles et gris clairs disparaissent vite.",
+          "Augmente généralement le budget et doit être réservée aux feuilles où elle apporte une information réelle."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "L’impression A0 en couleur : quand est-elle pertinente ?",
+      "pros": [
+        "Hiérarchisation immédiate de familles d’informations complexes.",
+        "Meilleure compréhension lors d’une réunion avec des interlocuteurs non techniques.",
+        "Rendu plus convaincant pour des documents de présentation ou de concertation.",
+        "Repérage plus rapide des modifications, zones et réseaux."
+      ],
+      "cons": [
+        "Budget généralement supérieur à un tirage monochrome.",
+        "Risque de confusion si la couleur est utilisée sans légende ni contraste suffisant.",
+        "Certains tons clairs deviennent peu lisibles sous un éclairage de chantier ou après copie.",
+        "Des réglages colorimétriques différents peuvent légèrement modifier le rendu d’un prestataire à l’autre."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Imprimer chez soi, en agence ou chez un reprographe ?",
+      "id": "imprimer-chez-soi-en-agence-ou-chez-un-reprographe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un traceur interne est intéressant lorsque vous imprimez régulièrement, avez besoin d’itérations immédiates et pouvez assurer la maintenance, le stockage des rouleaux et le contrôle des réglages. Il ne dispense pas de vérifier l’échelle, les niveaux d’encre, le profil de papier et le bon déroulement du média. Une imprimante grand format mal entretenue peut produire des traits interrompus ou des dérives de teinte peu adaptées à un document technique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un besoin ponctuel, des séries complètes, des délais courts ou des finitions spécifiques, un service de reprographie est souvent plus rationnel. Il peut gérer les grands volumes, les plis normalisés, les lots, la reliure et la livraison. L’essentiel est de fournir un cahier des charges simple et sans ambiguïté, puis de demander une vérification si le fichier comporte des contraintes inhabituelles."
+    },
+    {
+      "type": "comparison",
+      "title": "Traceur en interne ou reprographie professionnelle",
+      "left": {
+        "title": "Impression en interne",
+        "points": [
+          "Réactivité maximale pour une correction ou un essai immédiat.",
+          "Pertinente pour des besoins fréquents et prévisibles.",
+          "Vous gardez le contrôle direct sur la confidentialité des documents.",
+          "Vous assumez consommables, pannes, calibrage, temps opérateur et stockage."
+        ]
+      },
+      "right": {
+        "title": "Service de reprographie",
+        "points": [
+          "Adapté aux volumes, aux jeux de plans et aux finitions demandées au dernier moment.",
+          "Évite l’investissement et la maintenance d’un matériel grand format.",
+          "Peut proposer pliage, reliure, livraison et contrôle de fichiers.",
+          "Implique d’anticiper les délais de traitement et de transmettre une consigne précise."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : raisonner par usage, volume et finition",
+      "id": "budget-raisonner-par-usage-volume-et-finition"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût d’une impression A0 varie surtout selon le mode d’impression, le noir et blanc ou la couleur, le type de papier, le nombre d’exemplaires et les finitions. En ordre de grandeur, un tirage noir et blanc standard se situe souvent dans la catégorie des <strong>quelques euros par feuille</strong> chez un prestataire, tandis qu’une impression couleur, un papier de présentation ou une finition particulière font rapidement progresser le coût. Les tarifs sont habituellement plus favorables par feuille lorsque vous confiez une série homogène plutôt que quelques unités isolées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne comparez pas uniquement le prix annoncé au format A0. Ajoutez les éventuels frais de préparation de fichier, de traitement urgent, de pliage, d’assemblage, de transport et de nouvelle impression en cas d’erreur de révision. Pour un dossier de chantier, le bon arbitrage consiste souvent à imprimer en noir et blanc la majorité des feuilles et à réserver la couleur aux plans de synthèse, de repérage ou de phasage."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Évitez le faux bon marché",
+      "html": "Un tirage A0 économique devient coûteux si l’échelle est fausse, si les plans sont livrés non pliés alors qu’ils doivent circuler, ou si vous découvrez après impression qu’il s’agissait d’un ancien indice. Avant une série, contrôlez le <strong>numéro de révision</strong>, le nombre de feuilles et le mode de sortie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les défauts les plus fréquents et comment les éviter",
+      "id": "les-defauts-les-plus-frequents-et-comment-les-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de laisser un logiciel adapter automatiquement le document au format disponible. Même une réduction minime suffit à invalider une échelle numérique. Désactivez l’ajustement, sélectionnez la taille réelle et prévoyez un fond perdu uniquement si le prestataire l’exige. Gardez toutefois à l’esprit que les imprimantes ne tirent pas toujours jusqu’au bord de la feuille : ne placez ni cote importante ni texte de cartouche trop près du bord."
+    },
+    {
+      "type": "paragraph",
+      "html": "La deuxième erreur est de dessiner trop fin ou trop petit. Une police minuscule, des gris très clairs et des traits presque imperceptibles peuvent survivre sur un écran haute définition mais échouer sur papier, surtout avec une consultation à distance. Les informations essentielles doivent être contrastées et les traits hiérarchisés. Évitez aussi les aplats noirs trop étendus : ils alourdissent le rendu, peuvent marquer le papier et compliquent les annotations."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Erreurs à éliminer avant validation",
+      "items": [
+        "Envoyer une image compressée au lieu d’un PDF vectoriel.",
+        "Imprimer un plan à l’échelle 1:100 avec l’option de réduction active.",
+        "Utiliser la couleur seule pour distinguer deux réseaux ou deux phases.",
+        "Oublier de mettre à jour l’indice de plan dans le cartouche.",
+        "Commander des feuilles séparées quand un jeu de plans trié et plié est nécessaire.",
+        "Choisir un papier brillant pour un plan qui sera lu sous un éclairage fort ou annoté au crayon."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contrôler, plier et conserver vos plans A0",
+      "id": "controler-plier-et-conserver-vos-plans-a0"
+    },
+    {
+      "type": "paragraph",
+      "html": "À la réception, effectuez un contrôle visuel avant de diffuser l’ensemble du lot. Vérifiez d’abord l’identité de la feuille : projet, numéro, indice, date et orientation. Contrôlez ensuite une échelle graphique ou une cote de référence avec une règle adaptée. Examinez enfin les zones sensibles : détails constructifs, tableaux de menuiseries, légendes, textes blancs sur fond coloré, réseaux superposés et marges du cartouche."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour l’archivage et la circulation, le pliage doit laisser le cartouche visible sur la face extérieure. Un pliage en accordéon dans le sens de la longueur, suivi de plis transversaux, permet généralement d’atteindre un format de consultation proche de l’A4. Si les plans sont fréquemment utilisés, des pochettes, tubes rigides ou classeurs adaptés limiteront les déchirures et les plis marqués. Gardez toujours le PDF final associé à l’indice effectivement imprimé : le papier est un support de consultation, pas votre seule archive."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adapter le tirage A0 au bon contexte : permis, chantier ou présentation",
+      "id": "adapter-le-tirage-a0-au-bon-contexte-permis-chantier-ou-pres"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un même dessin ne requiert pas le même tirage selon sa destination. Pour un dossier administratif, privilégiez la conformité des intitulés, la lisibilité des pièces, des échelles et des références demandées par l’organisme concerné. Les exigences de dépôt peuvent varier : renseignez-vous avant de choisir librement un format, une couleur ou un mode de pliage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur chantier, la priorité devient la résistance pratique et la rapidité de lecture. Un papier mat, des traits contrastés, des numéros de feuille visibles et un jeu de plans correctement trié font gagner du temps. Pour une présentation client, vous pouvez monter en qualité de papier et utiliser davantage la couleur, mais sans sacrifier les textes techniques. Enfin, pour les échanges numériques, fournissez un PDF léger de consultation en complément du PDF haute définition destiné à l’impression : cela évite les envois interminables sans altérer le fichier maître."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle de décision la plus utile",
+      "html": "Définissez d’abord <strong>qui lira le plan, où et pour quelle décision</strong>. Un plan A0 de chantier doit être robuste et immédiatement lisible ; une planche de présentation doit être valorisante ; un document réglementaire doit surtout être conforme. Le bon support et le bon budget découlent de cet usage, pas seulement du format."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’impression de plans architecte A0",
+      "items": [
+        {
+          "q": "Quelle est la taille exacte d’un plan A0 ?",
+          "a": "Un A0 mesure 841 × 1 189 mm. Il peut être utilisé en portrait ou en paysage. Avant la commande, vérifiez les propriétés du PDF : un fichier présenté comme « A0 » peut comporter une page d’une autre taille ou un dessin réduit dans la page."
+        },
+        {
+          "q": "Comment savoir si mon plan A0 est imprimé à la bonne échelle ?",
+          "a": "Choisissez l’impression à 100 % ou à taille réelle, sans adaptation à la page. Ajoutez une échelle graphique à votre plan et mesurez-la sur le tirage. Vous pouvez aussi contrôler une cote non ambiguë avec une règle ; l’échelle graphique reste toutefois la sécurité la plus pratique si le plan est ensuite copié ou réduit."
+        },
+        {
+          "q": "Quel papier choisir pour des plans de chantier ?",
+          "a": "Un papier blanc mat destiné au traceur, de grammage léger à intermédiaire, convient dans la majorité des cas. Il est économique, pliable, peu réfléchissant et facile à annoter. Si le plan est exposé à l’humidité ou très manipulé, envisagez une protection, une pochette ou un support renforcé selon le contexte."
+        },
+        {
+          "q": "Un plan A0 doit-il être imprimé en couleur ?",
+          "a": "Non. Le noir et blanc suffit pour la plupart des plans techniques si les traits, hachures et libellés sont bien hiérarchisés. La couleur est utile lorsqu’elle apporte une information concrète, par exemple pour différencier des réseaux, des phases ou des zones. Ne faites jamais dépendre une information essentielle de la couleur seule."
+        },
+        {
+          "q": "Pourquoi mes textes ou mes traits sont-ils flous sur le tirage grand format ?",
+          "a": "La cause la plus courante est un plan envoyé sous forme d’image, de scan ou de capture d’écran compressée. Exportez un PDF vectoriel depuis le logiciel de conception. Vérifiez également que les traits ne sont pas trop fins et que les éléments raster, tels qu’une photo aérienne, disposent d’une définition suffisante pour leur taille finale sur l’A0."
+        },
+        {
+          "q": "Faut-il faire plier les plans A0 par l’imprimeur ?",
+          "a": "C’est conseillé si les plans doivent être distribués, classés ou transportés rapidement. Un pliage adapté laisse normalement le cartouche visible et facilite l’identification de chaque feuille. Pour une présentation murale ou une consultation sur table, une livraison à plat ou en rouleau peut en revanche être plus adaptée."
+        }
+      ]
+    }
+  ]
+}

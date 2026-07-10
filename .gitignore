@@ -23,3 +23,7 @@ Thumbs.db
 
 # fichiers temporaires de génération
 *.tmp
+
+# helpers de session
+scripts/_*
+data/failed-ids.json
