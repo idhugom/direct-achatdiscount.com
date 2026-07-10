@@ -1,0 +1,503 @@
+{
+  "title": "10 techniques de cuisine végétalienne innovantes avec des fruits pour des recettes savoureuses",
+  "slug": "10-techniques-de-cuisine-vegetalienne-innovantes-avec-des-fruits-pour-des-recettes-savoureuses",
+  "path": "/divers/10-techniques-de-cuisine-vegetalienne-innovantes-avec-des-fruits-pour-des-recettes-savoureuses.html",
+  "category": "cuisine",
+  "tags": [
+    "cuisine végétalienne",
+    "fruits",
+    "recettes vegan",
+    "cuisine créative",
+    "astuces cuisine",
+    "alimentation végétale"
+  ],
+  "excerpt": "Les fruits ne servent pas qu’aux desserts : maîtrisez dix techniques végétaliennes pour créer du moelleux, de l’umami, de l’acidité et des sauces.",
+  "metaDescription": "Découvrez 10 techniques végétaliennes pour cuisiner les fruits en salé et en sucré : textures, assaisonnements, budget et erreurs à éviter.",
+  "seoTitle": "10 techniques de cuisine végétalienne avec des fruits",
+  "heroKicker": "Fruits en cuisine",
+  "readingTime": 12,
+  "date": "2024-03-10T18:55:19",
+  "image": {
+    "id": "1654",
+    "alt": "10 techniques de cuisine végétalienne innovantes avec des fruits pour des recettes savoureuses",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "En cuisine végétalienne, les fruits sont bien davantage qu’une touche sucrée de fin de repas. Leur eau, leur acidité, leurs fibres, leur pectine et leurs sucres permettent de créer des sauces profondes, des plats salés contrastés, des textures fondantes et des desserts sans œufs ni produits laitiers. Voici dix techniques concrètes pour les utiliser avec justesse, sans transformer chaque recette en salade de fruits."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Pour intégrer un fruit dans un plat salé, associez-le toujours à un élément salé, gras, épicé ou fermenté : miso, huile d’olive, tahini, piment, herbes, vinaigre ou sauce soja.",
+        "La cuisson concentre le sucre et réduit l’eau : rôtir, griller ou réduire un fruit donne une base beaucoup plus intense qu’une simple découpe crue.",
+        "Les fruits très aqueux doivent être égouttés, salés ou cuits avant d’entrer dans une farce, une sauce ou une pâte, afin d’éviter un résultat détrempé.",
+        "L’acidité des agrumes, de l’ananas ou du kiwi relève un plat, mais ne remplace pas une cuisson : elle ne rend pas un aliment cru sûr à consommer.",
+        "Pour un usage économique, privilégiez les fruits de saison, les fruits mûrs à cuisiner et les fruits surgelés nature pour les coulis, compotes, sauces et smoothies."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi les fruits sont de vrais ingrédients de cuisine végétalienne",
+      "id": "pourquoi-les-fruits-sont-de-vrais-ingredients-de-cuisine-veg"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un fruit peut remplir plusieurs fonctions habituellement apportées par des ingrédients animaux ou très transformés. Une compote de pomme apporte du <strong>moelleux</strong> à un gâteau en limitant la matière grasse ; la banane lie une pâte et donne de l’onctuosité ; les agrumes structurent une vinaigrette grâce à leur acidité ; la mangue ou l’abricot peuvent arrondir une sauce pimentée ; la pectine de certains fruits aide à obtenir une texture nappante. En salé, le fruit n’est donc pas une décoration : il devient un levier de texture et d’équilibre gustatif."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon réflexe consiste à raisonner en cinq axes : <strong>sucré, acide, salé, gras et amer</strong>. Une pêche rôtie gagne en caractère avec du poivre, du thym et une touche de balsamique. Un ananas grillé supporte très bien le piment et la sauce soja. Des agrumes frais réveillent des légumineuses riches et denses. À l’inverse, ajouter un fruit très sucré à une recette déjà douce, pauvre en sel et sans acidité donne vite une préparation plate ou écœurante."
+    },
+    {
+      "type": "table",
+      "caption": "Quel fruit choisir selon l’effet recherché ?",
+      "headers": [
+        "Effet recherché",
+        "Fruits particulièrement adaptés",
+        "Technique utile",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Moelleux et liaison",
+          "Banane, pomme, poire, prune",
+          "Purée, compote, écrasé",
+          "Réduire le sucre ajouté dans la recette"
+        ],
+        [
+          "Acidité et fraîcheur",
+          "Citron, citron vert, orange, pamplemousse, groseille",
+          "Zeste, jus, segments, marinade courte",
+          "Ajouter progressivement pour ne pas dominer le plat"
+        ],
+        [
+          "Saveur concentrée",
+          "Tomate, raisin, prune, abricot, pomme",
+          "Rôtissage, réduction, séchage",
+          "Surveiller : les sucres brunissent rapidement"
+        ],
+        [
+          "Texture fibreuse",
+          "Jacquier jeune en saumure, agrumes, mangue peu mûre",
+          "Effilochage, cuisson braisée, salade",
+          "Ne pas confondre jacquier jeune et jacquier mûr sucré"
+        ],
+        [
+          "Sauce et nappage",
+          "Fruits rouges, mangue, pomme, coing, agrumes",
+          "Mixage, réduction, gel à la pectine",
+          "Passer au tamis si les pépins ou fibres gênent"
+        ]
+      ],
+      "note": "Le terme « fruit » est pris au sens culinaire : tomate, poivron ou avocat peuvent aussi participer à ces équilibres, mais les techniques ci-dessous mettent surtout en valeur les fruits à dominante sucrée ou acidulée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bien acheter et préparer : la base d’un résultat équilibré",
+      "id": "bien-acheter-et-preparer-la-base-d-un-resultat-equilibre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Choisissez la maturité selon la technique. Un fruit très mûr est parfait pour une compote, un coulis, une sauce ou un gâteau, car son sucre est développé et sa chair se mixe sans effort. Pour le gril, une poêle ou une salade, préférez un fruit encore ferme : il doit garder sa forme et supporter la chaleur. Un fruit abîmé en surface peut souvent être paré puis cuit ; en revanche, écartez tout produit qui sent la fermentation non désirée, présente de la moisissure ou une chair visqueuse."
+    },
+    {
+      "type": "comparison",
+      "title": "Fruits frais ou surgelés : lequel choisir ?",
+      "left": {
+        "title": "Fruits frais",
+        "points": [
+          "Meilleurs pour les tranches, les quartiers, les salades et les cuissons où la tenue compte.",
+          "Permettent d’ajuster la maturité et d’utiliser zestes ou écorces non traitées après lavage.",
+          "Souvent plus intéressants en pleine saison ou lorsqu’ils sont vendus très mûrs à prix réduit.",
+          "Demandent une consommation assez rapide et génèrent parfois plus d’épluchures."
+        ]
+      },
+      "right": {
+        "title": "Fruits surgelés nature",
+        "points": [
+          "Très pratiques pour coulis, compotes, boissons, sauces et pâtisserie végétale.",
+          "Disponibles toute l’année et déjà portionnés, avec peu de perte.",
+          "Rendent davantage d’eau à la décongélation : faites-les réduire ou égouttez-les selon la recette.",
+          "Vérifiez l’étiquette : choisissez des fruits sans sirop, sucre ajouté ni préparation aromatisée."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les gestes de préparation qui changent tout",
+      "items": [
+        "Lavez les fruits, puis séchez-les soigneusement avant de les rôtir ou de les griller : l’humidité empêche une bonne coloration.",
+        "Prélevez le zeste des agrumes avant de les presser et utilisez uniquement la partie colorée : le blanc apporte de l’amertume.",
+        "Goûtez le fruit avant d’assaisonner. Une mangue très mûre, une orange douce et un citron vert n’appellent pas du tout la même quantité de sel ou de sucre.",
+        "Pour les pommes, poires, bananes et avocats, utilisez un peu de jus de citron si vous devez attendre avant de servir : cela limite le brunissement.",
+        "Égouttez les fruits en conserve et rincez-les brièvement s’ils baignent dans un sirop ; leur goût et leur teneur en sucre sont alors plus faciles à maîtriser."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La formule d’un plat salé fruité réussi",
+      "html": "Comptez un fruit comme une <strong>note d’accent</strong>, pas forcément comme l’élément principal. Ajoutez-lui une source de profondeur — miso, tamari, olives, câpres, bouillon corsé, champignons, ail rôti ou légumineuses — puis une matière grasse et des herbes. Cette construction évite l’effet « sucré-salé » caricatural."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Techniques 1 à 3 : concentrer le fruit pour créer de la profondeur",
+      "id": "techniques-1-a-3-concentrer-le-fruit-pour-creer-de-la-profon"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. Rôtir pour caraméliser sans noyer le plat",
+      "id": "1-rotir-pour-carameliser-sans-noyer-le-plat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le rôtissage est l’une des façons les plus simples de faire basculer un fruit vers le salé. Coupez des quartiers de pomme, de poire, de prune, de raisin, d’abricot ou de figue, enrobez-les très légèrement d’huile, salez, puis enfournez à chaleur assez vive jusqu’à ce que les bords colorent. Les sucres se concentrent, l’eau s’évapore et la texture devient presque confite. Servez avec des lentilles, du tofu fumé, du chou rôti, une polenta crémeuse ou une tartine de haricots blancs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne sucrez pas automatiquement. Pour une version salée, commencez avec du sel, du poivre, du thym, du romarin, du cumin, du piment ou des graines de fenouil. Une petite cuillerée de vinaigre en fin de cuisson suffit souvent à équilibrer le fruit. Évitez de trop serrer les morceaux sur la plaque : ils rendraient leur eau et cuiraient à la vapeur au lieu de dorer."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Réduire en compote ou en sauce salée",
+      "id": "2-reduire-en-compote-ou-en-sauce-salee"
+    },
+    {
+      "type": "paragraph",
+      "html": "La réduction consiste à cuire un fruit avec peu de liquide afin d’évaporer une partie de son eau et d’obtenir une saveur dense. Une compote de pomme non sucrée, relevée de moutarde douce et de vinaigre de cidre, accompagne très bien un seitan ou des galettes de pois chiches. Des fruits rouges réduits avec échalote, poivre noir et un trait de vinaigre deviennent une sauce vive pour betterave rôtie, tempeh ou fromage végétal maison. La mangue ou l’abricot, associés au gingembre et au piment, donnent un chutney express utile dans un sandwich ou un curry."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour éviter une sauce trop sucrée, incorporez le sel et l’acidité assez tôt, puis rectifiez à la fin. Si vous souhaitez une texture lisse, mixez et passez au tamis. Si la sauce paraît trop fluide, poursuivez doucement la cuisson plutôt que d’ajouter immédiatement un épaississant : la réduction concentre aussi les arômes. Réservez les fruits très parfumés, comme la banane, aux préparations où leur goût est souhaité ; ils ne sont pas neutres."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Déshydrater et pulvériser pour assaisonner",
+      "id": "3-deshydrater-et-pulveriser-pour-assaisonner"
+    },
+    {
+      "type": "paragraph",
+      "html": "La déshydratation est une technique peu exploitée mais redoutablement efficace. Des rondelles de pomme, de poire, de tomate, de kiwi ou d’agrumes séchées à basse température peuvent ensuite être broyées finement. Vous obtenez une poudre fruitée à saupoudrer sur un yaourt végétal, une salade, un porridge, un plat de carottes rôties ou un dessert. Avec la tomate ou des agrumes, elle apporte une profondeur plus intéressante qu’un sucre parfumé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut que les tranches soient totalement sèches avant stockage, sinon elles moisiront. Utilisez un déshydrateur ou un four très doux, porte entrouverte si votre appareil le permet, puis laissez refroidir complètement avant de mixer. Conservez la poudre dans un bocal hermétique, à l’abri de la vapeur. Pour une version salée, mélangez-la avec du sel, du piment doux, du poivre ou des algues en paillettes : vous obtenez un condiment maison très expressif."
+    },
+    {
+      "type": "proscons",
+      "title": "La déshydratation des fruits en pratique",
+      "pros": [
+        "Concentre fortement les arômes et limite le gaspillage des fruits très mûrs.",
+        "Permet de créer des poudres, chips et condiments faciles à doser.",
+        "Se conserve plus longtemps qu’un fruit frais si le séchage est complet.",
+        "Apporte du croquant ou une finition visuelle soignée à faible quantité."
+      ],
+      "cons": [
+        "Demande du temps et une température douce pour ne pas brûler les sucres.",
+        "Un séchage incomplet compromet la conservation.",
+        "Les fruits séchés sont plus denses en sucre par portion : dosez-les comme un condiment.",
+        "Le four mobilisé plusieurs heures peut être moins économique qu’un usage ponctuel de fruits frais."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Techniques 4 à 6 : donner du relief aux plats salés",
+      "id": "techniques-4-a-6-donner-du-relief-aux-plats-sales"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Griller ou marquer à la poêle pour une note fumée",
+      "id": "4-griller-ou-marquer-a-la-poele-pour-une-note-fumee"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’ananas, la pêche, la nectarine, la pastèque ferme, le raisin et les agrumes coupés en deux gagnent beaucoup à être saisis sur un gril ou dans une poêle striée. Une surface chaude crée des marques grillées, assèche légèrement la chair et donne une impression fumée qui s’accorde naturellement avec le tofu, les brochettes de légumes, les haricots noirs ou les tacos végétaliens. Pour l’ananas, ajoutez ensuite citron vert, piment et coriandre ; pour la pêche, essayez basilic, poivre et balsamique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Huilez très légèrement le fruit plutôt que la grille, puis ne le déplacez pas trop vite : il faut laisser la coloration se former. Les fruits fragiles se cuisent côté chair seulement quelques instants. Si vous utilisez une plancha, servez immédiatement ; une attente prolongée fait rendre du jus et diminue le contraste entre croûte chaude et chair fondante."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Macérer avec sel, acidité et aromates",
+      "id": "5-macerer-avec-sel-acidite-et-aromates"
+    },
+    {
+      "type": "paragraph",
+      "html": "La macération courte transforme des fruits crus en condiment. Coupez finement fraises, pêches, mangue, orange, raisin ou melon, ajoutez une pincée de sel, du jus de citron ou de vinaigre de riz, un peu d’huile et des aromates. Après un court repos, le fruit rend une partie de son jus et absorbe les assaisonnements. Utilisez ce mélange sur une salade de concombre, un bol de riz, des pois chiches grillés, un tartare de betterave ou des tartines."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette technique est particulièrement utile quand un fruit manque un peu de parfum : le sel le révèle et l’acidité le réveille. Restez mesuré sur le temps de repos. Une macération trop longue rend les morceaux mous et produit beaucoup de liquide. Pour un résultat plus net, égouttez le fruit et servez son jus à part comme base de vinaigrette."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "6. Faire une marinade enzymatique, avec prudence",
+      "id": "6-faire-une-marinade-enzymatique-avec-prudence"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’ananas frais, la papaye et le kiwi contiennent des enzymes capables d’attendrir certaines textures riches en protéines. En cuisine végétalienne, cette propriété peut être intéressante pour parfumer rapidement du tofu ferme, du tempeh ou de gros morceaux de seitan. Mixez une petite quantité de fruit avec sauce soja, ail, gingembre, huile et piment, puis enduisez l’aliment avant une cuisson au four, à la poêle ou au barbecue."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot clé est <strong>rapidement</strong>. Trop de fruit frais enzymatique ou une marinade prolongée peuvent donner une texture farineuse, voire pâteuse, surtout sur le tofu. Ne vous fiez pas aux versions en conserve : la chaleur utilisée lors de leur traitement inactive largement ces enzymes. Cette méthode n’a pas vocation à « cuire » quoi que ce soit ; elle sert uniquement à aromatiser et à modifier légèrement la surface avant une cuisson complète."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au faux « ceviche »",
+      "html": "Le jus de citron ou de citron vert change l’aspect et la texture de certains aliments, mais il ne les stérilise pas et ne remplace pas la cuisson. Pour une recette végétalienne façon ceviche, utilisez des ingrédients déjà sûrs à manger — cœur de palmier, champignons adaptés à la consommation crue, concombre, mangue, avocat — et conservez la préparation au frais jusqu’au service."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Techniques 7 à 10 : fermenter, gélifier et jouer sur les textures",
+      "id": "techniques-7-a-10-fermenter-gelifier-et-jouer-sur-les-textur"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "7. Lactofermenter un fruit pour un condiment complexe",
+      "id": "7-lactofermenter-un-fruit-pour-un-condiment-complexe"
+    },
+    {
+      "type": "paragraph",
+      "html": "La lactofermentation apporte une acidité plus ronde et plus complexe que le vinaigre. Elle convient particulièrement aux prunes, raisins, pommes, poires, agrumes en petits morceaux ou fruits peu juteux associés à des légumes. Le principe est de peser les fruits préparés, d’ajouter une quantité de sel calculée en proportion de leur poids — souvent autour de quelques pourcents — puis de les maintenir immergés dans leur jus ou une saumure adaptée, dans un bocal propre. Après fermentation, vous obtenez un condiment acidulé à utiliser en petite quantité dans une sauce, une salsa ou une vinaigrette."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette technique exige de la rigueur : bocal très propre, fruits toujours sous le liquide, odeur agréablement acidulée et absence de moisissures. En cas de duvet, de couleur anormale ou d’odeur franchement putride, jetez la préparation. Pour débuter, suivez une recette fiable de fermentation plutôt que d’improviser les proportions. Une fois le goût souhaité obtenu, placez le bocal au réfrigérateur pour ralentir l’évolution."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "8. Utiliser la pectine naturelle pour des glaçages et gels",
+      "id": "8-utiliser-la-pectine-naturelle-pour-des-glacages-et-gels"
+    },
+    {
+      "type": "paragraph",
+      "html": "La pomme, le coing, les agrumes et les groseilles sont naturellement riches en pectine, une fibre qui aide les préparations fruitées à épaissir ou à gélifier. En cuisine végétalienne, cette propriété permet de réaliser des nappages brillants pour tarte, des gels à déposer dans une assiette, des confitures peu sucrées ou des sauces qui accrochent mieux à un dessert. Une réduction de jus de pomme trouble ou de coing, associée à une purée de fruit acide, peut aussi donner du corps à une sauce sans recourir à de la fécule."
+    },
+    {
+      "type": "paragraph",
+      "html": "La pectine a besoin d’un bon équilibre entre acidité, sucre et cuisson pour exprimer son pouvoir gélifiant. Ne promettez donc pas une gelée ferme avec un simple jus de fruit très dilué. Si vous cherchez une texture nette et reproductible pour une pâtisserie, l’agar-agar ou une pectine achetée restent plus prévisibles. La technique naturelle est idéale pour des nappages souples et des sauces épaissies, moins pour une gelée architecturée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "9. Transformer le jacquier jeune en garniture effilochée",
+      "id": "9-transformer-le-jacquier-jeune-en-garniture-effilochee"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le jacquier jeune, vendu le plus souvent en conserve ou en bocal dans l’eau ou la saumure, possède une chair fibreuse qui s’effiloche à la cuisson. Ce n’est pas un substitut parfait de viande sur le plan nutritionnel : il apporte surtout une <strong>texture</strong>, pas une quantité notable de protéines. Faites-le revenir avec oignon, ail et épices, ajoutez un liquide goûteux — sauce tomate, bouillon, sauce barbecue peu sucrée, jus d’orange épicé — puis écrasez légèrement les morceaux à la fourchette pendant la cuisson."
+    },
+    {
+      "type": "paragraph",
+      "html": "Servez cette garniture dans des tacos, des burgers, des bao ou sur une pomme de terre au four, mais accompagnez-la de haricots, lentilles, tofu ou tempeh pour construire un repas plus rassasiant. Vérifiez surtout la boîte : le jacquier mûr dans un sirop est destiné au dessert, tandis que le jacquier jeune doit être neutre, en saumure ou dans l’eau. C’est une confusion fréquente et difficile à rattraper."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "10. Monter une crème ou une mousse avec un fruit congelé",
+      "id": "10-monter-une-creme-ou-une-mousse-avec-un-fruit-congele"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les fruits congelés permettent de créer instantanément des crèmes glacées végétales et des mousses épaisses sans sorbetière. Mixez des rondelles de banane bien congelées avec fruits rouges, mangue, cerises ou ananas, en ajoutant juste assez de boisson végétale pour entraîner les lames. Pour une version plus riche, incorporez une cuillerée de purée d’oléagineux, de tahini doux ou de lait de coco. La banane apporte la texture, tandis que les autres fruits imposent la saveur."
+    },
+    {
+      "type": "paragraph",
+      "html": "La clé est de travailler par petites impulsions et de racler les parois : trop de liquide transforme la mousse en smoothie. Servez tout de suite pour une texture de glace italienne, ou remettez au congélateur dans un contenant peu profond pour raffermir. Ajoutez une pincée de sel, du zeste d’agrume ou une épice chaude : ces détails réduisent l’impression de sucre et donnent un résultat plus adulte."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "10 à 30 min",
+          "label": "repère courant pour réduire une sauce de fruits selon son volume et la teneur en eau"
+        },
+        {
+          "value": "160 à 220 °C",
+          "label": "plage de four généralement utile pour rôtir et concentrer les fruits"
+        },
+        {
+          "value": "24 à 72 h",
+          "label": "ordre de grandeur d’une fermentation active à température ambiante, à surveiller selon la recette"
+        },
+        {
+          "value": "Quelques cuillerées",
+          "label": "quantité souvent suffisante pour qu’un condiment fruité relève un plat salé"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : cuisiner créatif sans acheter des fruits d’exception",
+      "id": "budget-cuisiner-creatif-sans-acheter-des-fruits-d-exception"
+    },
+    {
+      "type": "paragraph",
+      "html": "La cuisine fruitée peut rester très accessible si vous distinguez les fruits qui doivent être impeccables de ceux qui seront transformés. Pour une salade ou une assiette où le fruit est visible, achetez peu mais choisissez ferme et parfumé. Pour une compote, une réduction, un chutney ou un gâteau, les fruits très mûrs vendus à prix réduit sont souvent idéaux. Les pommes, poires, bananes, agrumes et fruits de saison constituent les meilleures bases du quotidien ; les mangues, fruits rouges frais hors saison ou fruits tropicaux frais sont plutôt à réserver à des usages où leur goût sera vraiment perceptible."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget et de conservation",
+      "headers": [
+        "Option",
+        "Budget relatif",
+        "Meilleurs usages",
+        "Conservation pratique"
+      ],
+      "rows": [
+        [
+          "Fruits locaux de saison",
+          "Économique à modéré",
+          "Rôtis, compotes, tartes, salades, sauces",
+          "À température ambiante ou au frais selon le fruit, puis cuisinez-les dès qu’ils sont très mûrs"
+        ],
+        [
+          "Fruits « à cuisiner » très mûrs",
+          "Souvent économique",
+          "Coulis, confitures, smoothies, gâteaux, chutneys",
+          "À transformer le jour même ou à congeler en morceaux"
+        ],
+        [
+          "Fruits surgelés nature",
+          "Modéré mais peu de perte",
+          "Purées, desserts glacés, sauces, pâtisserie",
+          "Plusieurs semaines ou mois au congélateur selon l’emballage"
+        ],
+        [
+          "Fruits exotiques frais",
+          "Modéré à élevé selon la saison",
+          "Gril, salsa, plats signature",
+          "Achetez en petite quantité et utilisez-les au moment optimal"
+        ],
+        [
+          "Conserves de qualité",
+          "Économique à modéré",
+          "Jacquier jeune, ananas cuit, sauces rapides",
+          "Longue conservation avant ouverture ; égoutter après ouverture"
+        ]
+      ],
+      "note": "Le meilleur achat est celui dont vous utiliserez aussi les restes : congelez les quartiers trop mûrs, les zestes ou les purées en petites portions."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Réduire le gaspillage sans dégrader le goût",
+      "html": "Congelez les bananes pelées en rondelles, les pommes en dés et les zestes d’agrumes dans de petits contenants. Vous aurez toujours de quoi réaliser une mousse glacée, une compote, une sauce ou une pâte à gâteau, sans acheter un ingrédient dédié à chaque recette."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Construire vos propres recettes : associations fiables et méthode",
+      "id": "construire-vos-propres-recettes-associations-fiables-et-meth"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour inventer sans vous tromper, partez d’un socle végétal nourrissant — céréale, légumineuse, tofu, tempeh ou seitan — puis choisissez un fruit selon le contraste recherché. La pomme fonctionne avec les choux, les lentilles et la moutarde ; l’orange avec la carotte, le fenouil et les olives ; la mangue avec le piment, le citron vert et les haricots noirs ; la pêche avec la tomate, le basilic et le balsamique ; la grenade avec l’aubergine, le persil et les céréales parfumées. Ensuite, apportez un élément gras, un élément salé et une herbe fraîche."
+    },
+    {
+      "type": "steps",
+      "title": "Une méthode simple pour équilibrer un plat fruité",
+      "items": [
+        {
+          "title": "Choisissez le rôle du fruit",
+          "text": "Décidez s’il doit apporter du sucre, de l’acidité, du moelleux, du jus, de la texture ou une note grillée. Un seul rôle principal suffit."
+        },
+        {
+          "title": "Sélectionnez la bonne transformation",
+          "text": "Cru pour la fraîcheur, rôti pour la concentration, réduit pour une sauce, fermenté pour une acidité complexe, congelé et mixé pour une crème."
+        },
+        {
+          "title": "Ajoutez le contrepoint salé",
+          "text": "Miso, sauce soja, olives, câpres, sel, bouillon, levure maltée ou fromage végétal fermenté empêchent la recette de basculer dans le dessert."
+        },
+        {
+          "title": "Réglez gras et acidité",
+          "text": "Huile, avocat, tahini ou purée d’oléagineux arrondissent ; citron, vinaigre ou pickles resserrent les saveurs. Ajustez progressivement."
+        },
+        {
+          "title": "Terminez par du relief",
+          "text": "Herbes fraîches, piment, épices torréfiées, graines ou fruits séchés apportent le contraste de texture qui rend le plat mémorable."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes et conseils de conservation",
+      "id": "erreurs-frequentes-et-conseils-de-conservation"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de traiter tous les fruits comme interchangeables. Une pomme râpée, une banane écrasée et une purée de mangue n’ont ni la même teneur en eau, ni le même pouvoir sucrant, ni la même saveur : remplacez un ingrédient par un fruit proche seulement après avoir ajusté les liquides. La deuxième est d’ajouter beaucoup de sucre dans une recette contenant déjà des fruits mûrs, du lait végétal sucré ou des fruits secs. Goûtez toujours la pâte ou la sauce avant de corriger."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez aussi d’utiliser le fruit comme unique source de protéines dans un repas végétalien. Le jacquier, les fruits rôtis et les sauces fruitées sont excellents pour le goût et la texture, mais doivent compléter une base de légumineuses, de tofu, de tempeh ou de céréales associées. Enfin, conservez les préparations coupées, mixées ou macérées au réfrigérateur et consommez-les rapidement. Les fruits sont riches en eau et en sucre : ils s’altèrent plus vite une fois transformés."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant de servir, vérifiez ces quatre points",
+      "items": [
+        "Le plat a-t-il assez de sel ou d’umami pour contrebalancer le sucre du fruit ?",
+        "La texture est-elle maîtrisée : fruit croquant, fondant, réduit ou égoutté selon l’effet voulu ?",
+        "L’acidité est-elle dosée petit à petit, sans masquer les autres ingrédients ?",
+        "La recette contient-elle une source de protéines et une composante rassasiante si elle constitue un repas complet ?"
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les fruits en cuisine végétalienne",
+      "items": [
+        {
+          "q": "Quels fruits utiliser dans un plat salé végétalien ?",
+          "a": "Les plus faciles à intégrer sont la pomme, la poire, les agrumes, la mangue, l’ananas, la pêche, le raisin, la grenade et la prune. Commencez par des associations simples : pomme et lentilles, orange et fenouil, ananas et tofu, pêche et tomate. Ajoutez toujours une note salée, épicée ou herbacée pour équilibrer."
+        },
+        {
+          "q": "Comment remplacer les œufs avec des fruits dans un gâteau vegan ?",
+          "a": "La compote de pomme et la banane écrasée sont les options les plus courantes. Elles apportent du liant et du moelleux, mais aussi leur propre humidité et parfois leur parfum. Réduisez donc un peu le liquide de la recette et évitez d’ajouter le sucre sans goûter. Pour un gâteau au goût neutre, la compote de pomme non sucrée est généralement plus discrète que la banane."
+        },
+        {
+          "q": "Peut-on utiliser des fruits surgelés sans les décongeler ?",
+          "a": "Oui, pour un smoothie, une mousse glacée, une compote ou une sauce à cuire. Pour une tarte, une salade ou une garniture qui doit rester ferme, décongelez-les plutôt et égouttez l’excédent d’eau. Les fruits surgelés sont particulièrement pratiques lorsqu’ils seront mixés ou réduits."
+        },
+        {
+          "q": "Le citron peut-il cuire les aliments dans une recette vegan ?",
+          "a": "Non. Le citron modifie certaines textures et apporte une sensation de cuisson par son acidité, mais il ne remplace pas une cuisson au sens sanitaire. Dans un « ceviche » végétalien, utilisez uniquement des ingrédients adaptés à la consommation crue ou déjà cuits, puis gardez la préparation au frais."
+        },
+        {
+          "q": "Comment éviter qu’une sauce aux fruits soit trop sucrée ?",
+          "a": "Ajoutez du sel, une acidité mesurée et une source d’umami comme le miso, la sauce soja ou des champignons. Des épices telles que le poivre, le piment, le gingembre ou le cumin aident aussi à déplacer la perception vers le salé. Si possible, choisissez un fruit moins mûr ou allongez la sauce avec des légumes, de l’oignon revenu ou du bouillon."
+        },
+        {
+          "q": "Le jacquier est-il une bonne source de protéines pour un plat vegan ?",
+          "a": "Le jacquier jeune est surtout intéressant pour sa texture effilochée et sa capacité à absorber les sauces. Il ne remplace pas une portion de légumineuses, de tofu, de tempeh ou de seitan sur le plan protéique. Associez-le, par exemple, à des haricots noirs dans des tacos ou à des lentilles dans une garniture de sandwich."
+        }
+      ]
+    }
+  ]
+}

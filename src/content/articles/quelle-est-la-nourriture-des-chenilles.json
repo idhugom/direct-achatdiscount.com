@@ -1,0 +1,420 @@
+{
+  "title": "Quelle est la nourriture des chenilles ?",
+  "slug": "quelle-est-la-nourriture-des-chenilles",
+  "path": "/divers/quelle-est-la-nourriture-des-chenilles.html",
+  "category": "maison",
+  "tags": [
+    "chenilles",
+    "plantes hôtes",
+    "papillons",
+    "jardin",
+    "élevage",
+    "nourriture animale"
+  ],
+  "excerpt": "La nourriture d’une chenille dépend avant tout de son espèce. Plantes hôtes, erreurs à éviter, élevage et protection du jardin : le guide pratique.",
+  "metaDescription": "Feuilles, plantes hôtes, aliments interdits : découvrez ce que mangent vraiment les chenilles, comment les identifier et les nourrir sans erreur chez vous.",
+  "seoTitle": "Nourriture des chenilles : quoi leur donner ?",
+  "heroKicker": "Plantes hôtes",
+  "readingTime": 11,
+  "date": "2024-06-09T22:51:42",
+  "image": {
+    "id": "1966",
+    "alt": "Quelle est la nourriture des chenilles ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "La réponse courte est simple : la plupart des chenilles mangent des végétaux, mais elles ne mangent pas n’importe quelles feuilles. Chaque espèce possède une ou plusieurs plantes hôtes précises ; lui proposer la mauvaise plante peut la faire dépérir, même si elle ressemble à une feuille parfaitement saine."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Une chenille est la larve d’un papillon de jour ou de nuit : son alimentation dépend de <strong>l’espèce</strong>, pas seulement de sa couleur ou de sa taille.",
+        "Pour nourrir une chenille trouvée dehors, prélevez d’abord des feuilles sur <strong>la plante où elle se trouvait</strong>. C’est le meilleur indice disponible.",
+        "Les feuilles fraîches non traitées constituent l’alimentation habituelle, mais certaines espèces consomment aussi graminées, graines, lichens, matières animales ou denrées stockées.",
+        "Ne donnez ni salade au hasard, ni fruits, ni pain, ni restes de cuisine. Ces aliments conviennent rarement et peuvent souiller rapidement un élevage.",
+        "Au jardin, la présence de quelques chenilles est normale. Protégez les plantes sensibles avec des méthodes physiques plutôt qu’avec des insecticides à large spectre."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que mangent les chenilles, exactement ?",
+      "id": "que-mangent-les-chenilles-exactement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les chenilles sont les larves des lépidoptères, c’est-à-dire des papillons. Leur rôle biologique est essentiellement de <strong>manger, grandir et accumuler des réserves</strong> avant la nymphose, puis la transformation en papillon. La majorité est phytophage : elle se nourrit de feuilles, de bourgeons, de fleurs, de fruits ou de graines. Toutefois, le mot « majorité » est important : il existe de nombreuses exceptions."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’aliment déterminant est appelé <strong>plante hôte</strong>. C’est la plante sur laquelle le papillon adulte pond ses œufs et dont les feuilles ou d’autres parties peuvent être reconnues et digérées par les jeunes chenilles. Certaines espèces sont très spécialisées et n’acceptent qu’un seul genre de plante ; d’autres disposent d’un menu plus large, mais restent limitées à quelques familles végétales."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 à 6",
+          "label": "mues larvaires le plus souvent avant la nymphose, selon l’espèce"
+        },
+        {
+          "value": "Quelques jours à plusieurs mois",
+          "label": "durée possible de la phase de chenille selon l’espèce et la saison"
+        },
+        {
+          "value": "1 plante hôte ou plusieurs familles",
+          "label": "niveau de spécialisation alimentaire très variable d’une chenille à l’autre"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le réflexe qui évite la plupart des erreurs",
+      "html": "Si vous trouvez une chenille sur une plante et souhaitez l’observer, nourrissez-la avec <strong>les feuilles fraîches de cette même plante</strong>. Ne la déplacez pas d’emblée sur une salade, un rosier ou une plante supposée « similaire »."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi une feuille ne vaut pas une autre feuille",
+      "id": "pourquoi-une-feuille-ne-vaut-pas-une-autre-feuille"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les plantes produisent des substances aromatiques, amères ou toxiques pour se défendre. Certaines chenilles ont évolué pour tolérer, voire utiliser, les molécules de leur plante hôte. Elles reconnaissent aussi la forme, la texture et les composés présents à la surface des feuilles. Une feuille de laitue peut donc être tendre et comestible pour vous, tout en étant sans intérêt ou inadaptée pour une chenille vivant normalement sur l’ortie, le chêne ou une brassicacée."
+    },
+    {
+      "type": "paragraph",
+      "html": "On distingue habituellement les chenilles <strong>monophages</strong>, qui dépendent d’une plante ou d’un groupe végétal très restreint, et les chenilles <strong>polyphages</strong>, capables de manger diverses plantes. Entre les deux, les espèces oligophages utilisent plusieurs plantes proches, souvent au sein d’une même famille botanique. Sans identification, mieux vaut ne pas extrapoler : une chenille verte n’est pas forcément une mangeuse de chou, et une chenille poilue n’est pas forcément adaptée aux feuilles d’arbres."
+    },
+    {
+      "type": "comparison",
+      "title": "Chenille spécialisée ou chenille généraliste : ce que cela change",
+      "left": {
+        "title": "Espèce spécialisée",
+        "points": [
+          "Accepte une plante hôte très précise ou un petit groupe de plantes apparentées.",
+          "Le risque de refus alimentaire est élevé si l’identification est approximative.",
+          "Fréquente chez les espèces liées à l’ortie, aux ombellifères, aux plantes de landes ou à certains arbres.",
+          "Demande de conserver un accès régulier à la plante hôte jusqu’à la nymphose."
+        ]
+      },
+      "right": {
+        "title": "Espèce plus généraliste",
+        "points": [
+          "Peut consommer plusieurs végétaux cultivés ou sauvages.",
+          "Est souvent rencontrée dans les potagers, vergers et jardins d’ornement.",
+          "Peut malgré tout préférer certains feuillages et refuser une substitution brutale.",
+          "N’est pas nécessairement inoffensive pour les cultures : son menu étendu peut inclure des plantes potagères."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les principaux régimes alimentaires selon les espèces",
+      "id": "les-principaux-regimes-alimentaires-selon-les-especes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les feuilles restent la ressource la plus courante, mais la partie exacte consommée varie beaucoup. Une même plante peut héberger plusieurs espèces qui ne prélèvent pas toutes les mêmes tissus : l’une broute le bord des feuilles, l’autre attaque les jeunes pousses, une troisième se cache dans une feuille enroulée. Observer les dégâts et l’emplacement de la chenille apporte donc des indices utiles."
+    },
+    {
+      "type": "table",
+      "caption": "Exemples de nourriture des chenilles et repères d’identification",
+      "headers": [
+        "Type de régime",
+        "Aliments possibles",
+        "Exemples et repères",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Folivore",
+          "Feuilles d’arbres, arbustes, plantes sauvages ou légumes",
+          "Ortie, chêne, saule, ronce, graminées, choux et autres brassicacées selon les espèces",
+          "Prélevez les feuilles sur le végétal d’origine, loin des zones traitées."
+        ],
+        [
+          "Bourgeons, fleurs ou fruits",
+          "Boutons floraux, fleurs, jeunes fruits, graines",
+          "Certaines noctuelles et tordeuses vivent dans les fleurs, épis ou fruits",
+          "N’essayez pas de remplacer par des feuilles si la chenille était dans une fleur ou un fruit."
+        ],
+        [
+          "Graminivore",
+          "Herbes et graminées",
+          "Nombreuses chenilles de papillons de prairie et certains papillons de nuit",
+          "Offrez plusieurs brins frais de l’herbe exacte où elle a été trouvée."
+        ],
+        [
+          "Granivore ou consommateur de denrées",
+          "Graines, farine, céréales, fruits secs",
+          "Larves de mites alimentaires, observées dans les placards",
+          "Il ne s’agit pas d’animaux à élever : jetez les denrées contaminées et nettoyez le placard."
+        ],
+        [
+          "Détritivore ou lichenivore",
+          "Lichens, mousses, matières végétales sèches ou débris",
+          "Certaines espèces discrètes vivant sur les troncs ou au sol",
+          "Leur élevage est délicat : mieux vaut les laisser dans leur habitat."
+        ],
+        [
+          "Exceptionnellement carnivore",
+          "Pucerons, cochenilles ou petits insectes",
+          "Quelques espèces rares ont un régime prédateur ou associé à des fourmis",
+          "Ne supposez jamais ce régime sans une identification fiable."
+        ]
+      ],
+      "note": "Ces exemples servent à comprendre les régimes possibles, pas à identifier une espèce avec certitude."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Plantes hôtes connues : quelques associations utiles",
+      "id": "plantes-hotes-connues-quelques-associations-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Certaines associations sont bien connues et peuvent aider à comprendre ce que vous observez. Les chenilles du piéride du chou se trouvent volontiers sur les choux et d’autres brassicacées. Plusieurs beaux papillons communs utilisent l’ortie, notamment lorsque les chenilles vivent regroupées dans leur jeune âge. Le machaon est souvent associé aux apiacées, comme le fenouil, l’aneth ou la carotte, tandis que le bombyx du mûrier dépend du feuillage de mûrier."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces exemples ne doivent pas devenir des recettes universelles. Une chenille aperçue sur un plant de fenouil peut appartenir à une espèce associée à cette famille végétale, mais sa confirmation demande d’examiner sa morphologie, son comportement, la saison et la plante. Des guides naturalistes locaux, des associations entomologiques ou des plateformes d’identification avec photo peuvent vous aider. Pour une espèce rare ou protégée, l’observation sur place reste préférable au prélèvement."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant de choisir une nourriture, vérifiez ces indices",
+      "items": [
+        "La plante exacte sur laquelle la chenille a été trouvée : feuille, tige, fleur, fruit ou tronc.",
+        "Le type de végétal : arbre, haie, herbe, plante sauvage, légume ou plante d’intérieur.",
+        "L’aspect des dégâts : bords grignotés, trous, feuilles roulées, galeries, déjections visibles.",
+        "La présence d’autres chenilles semblables sur le même végétal.",
+        "L’absence de traitement : pulvérisation insecticide, anti-pucerons, désherbant ou engrais foliaire récent.",
+        "Les poils, épines ou couleurs d’avertissement : ils imposent de ne pas manipuler à mains nues."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment nourrir une chenille trouvée dehors",
+      "id": "comment-nourrir-une-chenille-trouvee-dehors"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure option est presque toujours de laisser la chenille là où elle se trouve. Elle participe à la biodiversité et constitue une ressource alimentaire pour de nombreux animaux. Si vous l’avez déplacée par accident, remettez-la sur la plante hôte présumée, à l’abri des prédateurs immédiats mais sans l’enfermer. Si votre objectif est une observation éducative de courte durée, reproduisez ses conditions de vie plutôt que d’improviser un « menu »."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode simple pour une observation responsable",
+      "items": [
+        {
+          "title": "Repérez la plante d’origine",
+          "text": "Photographiez la chenille et la plante avant tout déplacement. Coupez ou prélevez seulement quelques feuilles du même végétal, sans dénuder une petite plante."
+        },
+        {
+          "title": "Installez un contenant ventilé",
+          "text": "Utilisez une boîte propre et aérée, à l’abri du soleil direct. Placez les feuilles sans eau libre au fond : une chenille peut se noyer dans quelques gouttes."
+        },
+        {
+          "title": "Renouvelez la nourriture",
+          "text": "Ajoutez quotidiennement des feuilles fraîches, idéalement du même rameau ou de la même zone non traitée. Retirez les feuilles fanées et les déjections."
+        },
+        {
+          "title": "Observez sans forcer",
+          "text": "Une chenille peut rester immobile avant une mue ou la nymphose. Ne la poussez pas à manger et ne la manipulez pas inutilement."
+        },
+        {
+          "title": "Prévoyez la sortie",
+          "text": "Dès que l’observation est terminée, relâchez-la sur sa plante d’origine. Si elle se fixe pour se transformer, ne détachez ni chenille ni chrysalide."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux chenilles urticantes",
+      "html": "Certaines chenilles portent des poils ou des soies irritantes. Les chenilles processionnaires, notamment, ne doivent pas être touchées ni déplacées par un particulier : leurs poils peuvent provoquer des réactions chez les personnes et les animaux. Éloignez enfants et animaux, et contactez les services compétents ou un professionnel si une colonie est présente dans un lieu fréquenté."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quels aliments ne faut-il pas donner ?",
+      "id": "quels-aliments-ne-faut-il-pas-donner"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un élevage échoue fréquemment parce que l’on propose des aliments choisis selon leur disponibilité, et non selon la biologie de l’animal. La laitue, les épluchures, le pain, le biscuit, le sucre, le miel ou les morceaux de fruit ne sont pas des aliments de remplacement adaptés à une chenille folivore. Ils fermentent vite, favorisent les moisissures et n’apportent pas les molécules spécifiques liées à la plante hôte."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également les feuilles ramassées au bord d’une route très circulée, sur une plante d’intérieur, dans une jardinerie ou dans un jardin traité. Même un insecticide appliqué plusieurs jours auparavant peut suffire à intoxiquer une chenille. Rincer des feuilles ne garantit pas l’élimination des produits systémiques, c’est-à-dire absorbés par la plante."
+    },
+    {
+      "type": "proscons",
+      "title": "Prélever des feuilles sauvages pour un élevage ponctuel",
+      "pros": [
+        "Permet de fournir l’aliment le plus conforme si la plante hôte est identifiée.",
+        "Coût nul ou très faible lorsque la plante pousse déjà dans votre jardin.",
+        "Observation concrète du développement, des mues et de la nymphose.",
+        "Possibilité de relâcher l’animal sur son végétal d’origine après quelques jours."
+      ],
+      "cons": [
+        "Risque d’erreur d’identification de la plante ou de l’espèce.",
+        "Risque invisible de pesticide ou de pollution dans certains environnements.",
+        "Approvisionnement quotidien nécessaire, parfois difficile en cas de pluie, de tonte ou de départ en vacances.",
+        "Une boîte mal entretenue favorise déshydratation, moisissures et mortalité.",
+        "Le prélèvement est à éviter pour les espèces rares, protégées ou difficiles à identifier."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Élever une chenille : matériel, hygiène et budget réaliste",
+      "id": "elever-une-chenille-materiel-hygiene-et-budget-realiste"
+    },
+    {
+      "type": "paragraph",
+      "html": "Élever une chenille n’exige pas forcément de matériel coûteux, mais demande de la rigueur. Un petit contenant transparent et ventilé, du papier absorbant non parfumé et une source régulière de feuillage sain suffisent pour une observation brève. Pour une espèce vivant sur une branche, un filet d’élevage ou une boîte plus haute peut être utile, car la chenille cherchera un support pour se suspendre ou se fixer avant la chrysalide."
+    },
+    {
+      "type": "table",
+      "caption": "Équipement pour observer une chenille sans la mettre en difficulté",
+      "headers": [
+        "Élément",
+        "Utilité",
+        "Budget indicatif",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Boîte ou bocal ventilé",
+          "Contenir l’animal tout en assurant une circulation d’air",
+          "Récupération possible à quelques euros",
+          "Pas de couvercle hermétique ; évitez l’exposition au soleil."
+        ],
+        [
+          "Filet ou cage d’élevage",
+          "Offrir du volume et des supports de nymphose",
+          "Quelques dizaines d’euros selon le format",
+          "Utile surtout pour une observation prolongée ou plusieurs individus."
+        ],
+        [
+          "Papier absorbant",
+          "Faciliter le nettoyage du fond",
+          "Très faible coût",
+          "Changez-le dès qu’il est souillé ou humide."
+        ],
+        [
+          "Feuillage non traité",
+          "Apporter la nourriture et un support naturel",
+          "Gratuit si prélevé sur place",
+          "Renouvellement quotidien ; ne laissez pas de tiges tremper dans une eau accessible."
+        ],
+        [
+          "Petit pinceau souple",
+          "Déplacer éventuellement une chenille sans contact direct",
+          "Faible coût",
+          "À réserver aux espèces non urticantes et seulement si nécessaire."
+        ]
+      ],
+      "note": "Un budget minimal suffit ; le vrai engagement est le renouvellement du feuillage et le nettoyage quotidien."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand une chenille cesse de manger : ne concluez pas trop vite",
+      "id": "quand-une-chenille-cesse-de-manger-ne-concluez-pas-trop-vite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une chenille qui ne mange plus n’est pas forcément malade ou affamée. Avant une mue, elle peut se tenir immobile et cesser de s’alimenter pendant un moment. À l’approche de la nymphose, elle cherche souvent à s’éloigner de sa nourriture, grimpe sur une paroi, se promène longuement ou s’enfouit selon l’espèce. C’est un comportement normal qu’il ne faut pas contrarier."
+    },
+    {
+      "type": "paragraph",
+      "html": "Laissez alors un support sec, comme une brindille non traitée ou une portion de papier disposée verticalement, et conservez une ventilation correcte. Ne décollez jamais une chenille fixée par un fil de soie, et n’ouvrez pas une chrysalide. La durée de la phase immobile peut être courte ou beaucoup plus longue, notamment si l’espèce entre en repos saisonnier. Le relâcher à l’extérieur, au même endroit et dans des conditions douces, reste généralement la meilleure finalité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Au jardin : nourrir les papillons sans sacrifier tout le potager",
+      "id": "au-jardin-nourrir-les-papillons-sans-sacrifier-tout-le-potag"
+    },
+    {
+      "type": "paragraph",
+      "html": "Accueillir des chenilles ne signifie pas laisser vos cultures disparaître. L’enjeu consiste à distinguer quelques dégâts supportables d’une attaque importante sur de jeunes plants. Dans un jardin équilibré, oiseaux, araignées, guêpes parasitoïdes et autres auxiliaires régulent naturellement une partie des populations. Les traitements insecticides généralistes détruisent à la fois les ravageurs, les chenilles de papillons et leurs prédateurs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour préserver une récolte tout en favorisant les papillons, protégez physiquement les cultures les plus vulnérables avec un voile anti-insectes posé tôt, inspectez régulièrement le revers des feuilles et retirez manuellement les œufs ou les chenilles lorsqu’ils sont très nombreux. En parallèle, laissez dans un coin du jardin quelques plantes spontanées utiles, telles que les orties si l’espace le permet, ainsi que des haies et plantes nectarifères pour les adultes."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les bons arbitrages au jardin",
+      "items": [
+        "Réservez les voiles de protection aux jeunes choux, salades et autres plants fragiles.",
+        "Ne pulvérisez pas de produit « anti-chenilles » sur une plante destinée aux papillons ou visitée par des pollinisateurs.",
+        "Gardez une zone moins entretenue avec plantes hôtes locales, si votre espace le permet.",
+        "Tolérer quelques feuilles grignotées est souvent le prix raisonnable d’un jardin vivant.",
+        "Surveillez particulièrement les chenilles processionnaires et les infestations massives : la priorité est alors la sécurité sanitaire et la protection des végétaux."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Et les chenilles de mites dans la maison ?",
+      "id": "et-les-chenilles-de-mites-dans-la-maison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Toutes les chenilles ne vivent pas dans le jardin. Les larves de mites alimentaires consomment notamment farines, céréales, graines, fruits secs, chocolat, épices ou aliments pour animaux. Elles peuvent tisser de fins fils dans les paquets. Les larves de mites des vêtements recherchent plutôt les fibres d’origine animale et les résidus organiques présents sur les textiles, comme la laine, la soie, les plumes ou les poils."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans ces cas, il ne faut évidemment pas chercher à les nourrir ou à les relâcher dans la nature. Jetez les denrées contaminées dans un sac fermé, aspirez soigneusement placards et fissures, lavez les contenants et stockez ensuite les aliments secs dans des bocaux hermétiques. Pour les textiles, nettoyez les articles concernés selon leur étiquette et inspectez les zones sombres, peu dérangées et les tapis."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Une chenille n’est pas toujours un ravageur",
+      "html": "La même larve peut être bienvenue sur une ortie ou dans une haie, et indésirable sur un plant de chou ou dans un paquet de farine. Avant d’agir, identifiez le lieu, la plante ou la denrée concernée : la bonne réponse dépend du contexte."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la nourriture des chenilles",
+      "items": [
+        {
+          "q": "Est-ce qu’une chenille mange de la salade ?",
+          "a": "Certaines espèces généralistes peuvent parfois grignoter certaines feuilles cultivées, mais la salade ne doit pas être proposée par défaut. Une chenille a besoin de sa plante hôte ou d’un végétal appartenant au groupe qu’elle consomme naturellement. Si vous l’avez trouvée sur une plante donnée, fournissez d’abord cette plante."
+        },
+        {
+          "q": "Comment savoir quelle feuille donner à une chenille trouvée par terre ?",
+          "a": "Cherchez d’abord à proximité immédiate : elle peut être tombée de l’arbre, de l’arbuste ou de la plante herbacée située au-dessus. Observez les feuilles grignotées et prenez une photo de la chenille et des végétaux voisins. En cas de doute sérieux, replacez-la dans une végétation similaire plutôt que de la garder en boîte avec une nourriture aléatoire."
+        },
+        {
+          "q": "Peut-on donner des fruits à une chenille ?",
+          "a": "En règle générale, non. Quelques espèces consomment naturellement des fruits ou des graines, mais la grande majorité des chenilles observées sur les plantes ont besoin de feuillage, de bourgeons ou de fleurs spécifiques. Un morceau de fruit coupé moisit rapidement dans un contenant et n’est pas une solution universelle."
+        },
+        {
+          "q": "Pourquoi ma chenille ne mange-t-elle plus ?",
+          "a": "Elle peut préparer une mue ou sa nymphose, deux périodes pendant lesquelles l’activité alimentaire diminue ou s’arrête. Si elle est immobile, fixée par de la soie, si sa couleur change ou si elle cherche à grimper, évitez de la manipuler. Vérifiez aussi que les feuilles proposées sont fraîches et correspondent bien à sa plante hôte."
+        },
+        {
+          "q": "Faut-il mettre de l’eau dans la boîte d’une chenille ?",
+          "a": "Non, pas sous forme de coupelle ou de gouttes accessibles : une chenille peut s’y noyer. Les feuilles fraîches apportent généralement l’humidité nécessaire. Maintenez simplement un environnement propre, ventilé et sans soleil direct ; remplacez le feuillage avant qu’il ne se dessèche ou ne moisisse."
+        },
+        {
+          "q": "Les chenilles poilues sont-elles toutes dangereuses ?",
+          "a": "Non, beaucoup sont inoffensives, mais il est impossible de juger avec certitude à partir du seul aspect poilu. Certains poils peuvent irriter la peau ou les voies respiratoires. Ne touchez pas une chenille inconnue à mains nues, et redoublez de prudence en présence de chenilles processionnaires ou de nids soyeux dans les pins ou certains chênes."
+        }
+      ]
+    }
+  ]
+}

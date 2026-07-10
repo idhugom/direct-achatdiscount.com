@@ -1,0 +1,402 @@
+{
+  "title": "Comment fermer votre compte bancaire en 3 étapes faciles ?",
+  "slug": "comment-fermer-votre-compte-bancaire-en-3-etapes-faciles",
+  "path": "/divers/comment-fermer-votre-compte-bancaire-en-3-etapes-faciles.html",
+  "category": "argent",
+  "tags": [
+    "fermeture compte bancaire",
+    "mobilité bancaire",
+    "changement de banque",
+    "prélèvements",
+    "compte courant"
+  ],
+  "excerpt": "Les trois étapes concrètes pour fermer un compte bancaire sans frais inutiles, incident de paiement ni mauvaise surprise après la clôture.",
+  "metaDescription": "Fermez votre compte bancaire sans prélèvement rejeté : inventaire, transfert des opérations, demande de clôture et preuves à conserver.",
+  "seoTitle": "Fermer un compte bancaire : les 3 étapes à suivre",
+  "heroKicker": "Clôture sans incident",
+  "readingTime": 10,
+  "date": "2024-06-01T19:11:44",
+  "image": {
+    "id": "1933",
+    "alt": "Comment fermer votre compte bancaire en 3 étapes faciles ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Fermer un compte bancaire est simple sur le papier, mais une clôture faite trop vite peut entraîner des prélèvements rejetés, un découvert à régulariser ou la perte d’un remboursement attendu. La bonne méthode consiste à préparer le terrain, basculer toutes vos opérations, puis formaliser votre demande en gardant des preuves."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Ne demandez pas la clôture avant d’avoir identifié les prélèvements, virements permanents, revenus et remboursements qui passent encore sur l’ancien IBAN.",
+        "Le <strong>service de mobilité bancaire</strong> peut automatiser une grande partie des démarches si vous ouvrez un nouveau compte en France, mais il ne remplace pas toutes vos vérifications.",
+        "Une clôture de compte de dépôt est en principe <strong>sans frais</strong>. En revanche, vous devez solder le découvert éventuel et restituer ou détruire les moyens de paiement selon les consignes de la banque.",
+        "Conservez la confirmation écrite de clôture, vos relevés et l’historique des opérations : ils servent en cas de prélèvement tardif, de litige ou de justificatif administratif."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 étapes",
+          "label": "préparer, transférer, demander la clôture"
+        },
+        {
+          "value": "0 €",
+          "label": "repère habituel pour la clôture d’un compte de dépôt"
+        },
+        {
+          "value": "13 mois",
+          "label": "période d’historique utile pour repérer les opérations récurrentes"
+        },
+        {
+          "value": "30 jours max.",
+          "label": "délai généralement retenu pour finaliser une clôture après demande complète"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avant de fermer : ce que signifie réellement clôturer un compte",
+      "id": "avant-de-fermer-ce-que-signifie-reellement-cloturer-un-compt"
+    },
+    {
+      "type": "paragraph",
+      "html": "Clôturer un compte bancaire, c’est mettre fin à la convention qui vous lie à la banque pour ce compte précis. L’IBAN ne doit plus recevoir ni émettre d’opérations, la carte et le chéquier associés deviennent inutilisables, et le solde créditeur vous est reversé sur le compte de votre choix. Ce n’est donc pas la même chose que <strong>ne plus utiliser</strong> un compte : un compte inactif peut continuer à générer des frais de tenue de compte, recevoir un remboursement ou conserver un solde oublié."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette démarche concerne principalement le compte courant, aussi appelé compte de dépôt. Un livret d’épargne, un compte-titres, une assurance-vie, un crédit ou un compte professionnel répondent à des règles et à des formalités distinctes. Si vous détenez plusieurs produits dans la même banque, demandez explicitement lesquels vous souhaitez fermer : la fermeture du compte courant ne ferme pas forcément les autres contrats."
+    },
+    {
+      "type": "comparison",
+      "title": "Fermer seul ou utiliser la mobilité bancaire ?",
+      "left": {
+        "title": "Vous gérez les démarches vous-même",
+        "points": [
+          "Vous choisissez l’ordre et le calendrier des transferts.",
+          "Adapté si vous gardez un autre compte dans la même banque ou si vos opérations sont peu nombreuses.",
+          "Vous devez prévenir vous-même chaque organisme : employeur, prestations, fournisseurs, assureur, impôts, plateformes de vente, etc.",
+          "Vous gardez la main sur les cas complexes : compte joint, échéances de crédit, revenus irréguliers."
+        ]
+      },
+      "right": {
+        "title": "Vous signez un mandat de mobilité bancaire",
+        "points": [
+          "Votre nouvelle banque peut demander la liste des opérations récurrentes visibles sur l’ancien compte et informer les émetteurs concernés.",
+          "Très pratique pour un changement de banque avec un nouveau compte courant français.",
+          "Le service ne dispense pas de contrôler les organismes non identifiés, les paiements par carte ou les virements occasionnels.",
+          "La demande de clôture peut être incluse dans le mandat, mais seulement si vous l’autorisez expressément et à la date choisie."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 1 : faire l’inventaire complet de votre ancien compte",
+      "id": "etape-1-faire-l-inventaire-complet-de-votre-ancien-compte"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est l’étape qui évite presque tous les incidents. Pendant plusieurs semaines, et idéalement sur un historique assez large, examinez vos relevés et votre application bancaire. Le but n’est pas seulement de lister les prélèvements mensuels évidents : il faut aussi repérer les opérations annuelles, trimestrielles ou irrégulières. Une cotisation d’assurance, un remboursement de mutuelle, un impôt, une facture d’eau ou un abonnement renouvelé une fois par an peut passer inaperçu si vous ne regardez que le dernier mois."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre liste de contrôle avant toute clôture",
+      "items": [
+        "Téléchargez les relevés de compte et, si utile, les avis d’opérations des derniers mois ; remontez davantage pour les dépenses annuelles.",
+        "Notez les <strong>prélèvements SEPA</strong> : énergie, télécoms, assurances, mutuelle, logement, impôts, abonnements numériques et associations.",
+        "Repérez les <strong>virements entrants</strong> : salaire, pension, indemnités, allocations, remboursements de frais, remboursements de santé ou ventes entre particuliers.",
+        "Recensez les virements permanents sortants : loyer, épargne, pension alimentaire, aide à un proche ou remboursement entre vos comptes.",
+        "Vérifiez les paiements différés par carte, les chèques émis non encore débités, les cautions et les remboursements en cours.",
+        "Contrôlez le découvert autorisé, un éventuel solde négatif, ainsi que les crédits, garanties ou services encore rattachés au compte."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas prélèvement et paiement par carte",
+      "html": "Un mandat de mobilité bancaire aide à transférer les coordonnées associées aux opérations récurrentes connues, mais un abonnement réglé par <strong>carte bancaire</strong> doit souvent être mis à jour directement dans l’espace client du fournisseur. Il en va de même pour les services où vous avez enregistré votre carte, comme certaines plateformes, applications ou locations."
+    },
+    {
+      "type": "table",
+      "caption": "Les opérations à sécuriser avant de clôturer",
+      "headers": [
+        "Type d’opération",
+        "Exemples",
+        "Action à réaliser",
+        "Risque si vous l’oubliez"
+      ],
+      "rows": [
+        [
+          "Prélèvement SEPA",
+          "Électricité, assurance, impôts, forfait mobile",
+          "Transmettre le nouvel IBAN ou vérifier la prise en compte via la mobilité",
+          "Impayé, pénalités, interruption de service"
+        ],
+        [
+          "Virement entrant",
+          "Salaire, pension, remboursements santé",
+          "Prévenir l’employeur ou l’organisme payeur",
+          "Somme retournée ou délai de paiement"
+        ],
+        [
+          "Virement permanent",
+          "Loyer, épargne, aide familiale",
+          "Recréer l’ordre depuis le nouveau compte",
+          "Retard de paiement ou virement non exécuté"
+        ],
+        [
+          "Carte enregistrée",
+          "Streaming, transport, achat en ligne",
+          "Modifier le moyen de paiement dans chaque espace client",
+          "Abonnement suspendu ou dette impayée"
+        ],
+        [
+          "Chèque ou débit différé",
+          "Chèque remis récemment, paiement carte à débit différé",
+          "Laisser une provision suffisante jusqu’au débit effectif",
+          "Rejet, frais et incident bancaire"
+        ],
+        [
+          "Solde et découvert",
+          "Compte créditeur ou négatif",
+          "Virer le solde après les dernières opérations, régulariser le négatif",
+          "Clôture bloquée ou dette à rembourser"
+        ]
+      ],
+      "note": "Gardez une marge de sécurité sur l’ancien compte tant que des opérations attendues peuvent encore y arriver."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 2 : ouvrir le compte de remplacement et basculer les opérations",
+      "id": "etape-2-ouvrir-le-compte-de-remplacement-et-basculer-les-ope"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous changez de banque, ouvrez et testez d’abord votre nouveau compte. Vérifiez que l’IBAN est bien actif, que vous pouvez effectuer un virement et que vous avez accès à l’application, aux relevés et aux moyens de paiement nécessaires. Ne videz pas l’ancien compte immédiatement : conservez une provision suffisante pour les dernières dépenses connues et les débits différés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Deux voies sont possibles. Vous pouvez prévenir chaque organisme vous-même avec votre nouveau relevé d’identité bancaire. Cette solution est plus lente, mais offre une maîtrise totale. Vous pouvez aussi signer un <strong>mandat de mobilité bancaire</strong> auprès de la nouvelle banque. Celle-ci coordonne alors le transfert des opérations récurrentes identifiées et peut, à votre demande, transmettre l’ordre de clôture à l’ancienne banque. Le service est particulièrement intéressant si votre ancien compte concentre salaire, factures et prélèvements réguliers."
+    },
+    {
+      "type": "steps",
+      "title": "Le bon ordre pour un basculement sans rejet",
+      "items": [
+        {
+          "title": "Activez le nouveau compte",
+          "text": "Approvisionnez-le, vérifiez vos accès et enregistrez le nouvel IBAN auprès des organismes prioritaires. Si vous utilisez la mobilité, lisez le mandat et contrôlez l’adresse de réception des informations."
+        },
+        {
+          "title": "Faites cohabiter les deux comptes temporairement",
+          "text": "Laissez l’ancien compte fonctionner le temps que les changements soient effectifs. Surveillez-le au moins jusqu’au passage des prélèvements récurrents et au versement des revenus attendus."
+        },
+        {
+          "title": "Contrôlez puis transférez le solde",
+          "text": "Quand les débits et crédits attendus sont passés, transférez le solde restant vers le nouveau compte. Gardez toutefois une petite marge jusqu’à la confirmation de clôture si une opération en attente subsiste."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Priorisez les organismes qui vous versent de l’argent",
+      "html": "Mettre à jour vos prélèvements évite des impayés ; mettre à jour vos <strong>virements entrants</strong> évite de perdre du temps pour récupérer un salaire, une indemnité ou un remboursement. Prévenez d’abord employeur, caisse de retraite, organismes sociaux, mutuelle et administration fiscale si vous êtes concerné."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 3 : demander officiellement la clôture du compte",
+      "id": "etape-3-demander-officiellement-la-cloture-du-compte"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque les opérations importantes ont été basculées et que le solde est régularisé, adressez votre demande à la banque. Selon l’établissement, la clôture peut être demandée en agence, depuis la messagerie sécurisée, par courrier ou via un formulaire en ligne. Privilégiez toujours un canal qui laisse une <strong>trace datée</strong>. Pour un courrier, l’envoi recommandé avec accusé de réception reste la preuve la plus robuste ; pour une demande numérique, téléchargez ou capturez l’accusé de prise en compte."
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre demande doit identifier sans ambiguïté le compte à fermer, indiquer le compte destinataire du solde positif et préciser votre souhait de recevoir une confirmation écrite de clôture. Si vous n’utilisez pas un mandat de mobilité, joignez un RIB du compte destinataire. Demandez aussi un relevé final ou conservez le dernier relevé disponible, afin de pouvoir justifier les dernières opérations."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Ce que doit contenir votre demande",
+      "items": [
+        "Vos nom, prénom, adresse et coordonnées de contact.",
+        "Le numéro du compte ou son IBAN à clôturer.",
+        "Une formulation explicite : <strong>« Je vous demande de procéder à la clôture de ce compte »</strong>.",
+        "Les coordonnées IBAN du compte sur lequel virer le solde créditeur éventuel.",
+        "La date souhaitée, si vous avez besoin de laisser passer une dernière opération identifiée.",
+        "La mention de la restitution, destruction ou opposition aux moyens de paiement selon les instructions de la banque.",
+        "Une demande de confirmation écrite et de relevé de clôture."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Carte, chéquier et moyens de paiement : suivez les consignes",
+      "html": "Ne continuez pas à utiliser votre carte ou votre chéquier après la demande de clôture. Restituez-les si la banque le demande, ou détruisez-les de manière sécurisée lorsqu’elle vous l’indique. Pour une carte, coupez la puce et la bande magnétique ; pour un chéquier, rendez les formules inutilisables. Un chèque déjà émis peut toutefois être présenté après votre demande : prévoyez donc les fonds nécessaires avant la fermeture effective."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Délais, frais et solde : ce que vous pouvez attendre",
+      "id": "delais-frais-et-solde-ce-que-vous-pouvez-attendre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La clôture d’un compte de dépôt est normalement gratuite. Méfiez-vous toutefois des coûts qui ne sont pas des « frais de clôture » : intérêts débiteurs si le compte est à découvert, commissions liées à un incident déjà survenu, mensualité de service due avant résiliation, ou situation non réglée sur un produit distinct. La banque peut aussi attendre le dénouement d’opérations en cours avant de finaliser la fermeture."
+    },
+    {
+      "type": "table",
+      "caption": "Budget et délais : les repères utiles",
+      "headers": [
+        "Élément",
+        "Ordre de grandeur ou règle pratique",
+        "Ce qu’il faut vérifier"
+      ],
+      "rows": [
+        [
+          "Frais de clôture du compte courant",
+          "En principe gratuits",
+          "Consultez la brochure tarifaire si le compte est particulier ou présente une situation atypique"
+        ],
+        [
+          "Solde créditeur",
+          "Restitué ou viré vers le compte indiqué",
+          "Donnez un IBAN exact et gardez une copie de la demande"
+        ],
+        [
+          "Découvert",
+          "À rembourser intégralement avant la clôture effective",
+          "Ajoutez les opérations en attente et les intérêts éventuels"
+        ],
+        [
+          "Cotisations ou services payés d’avance",
+          "Une régularisation peut être due selon le contrat et la période couverte",
+          "Demandez un décompte final, notamment pour les services bancaires associés"
+        ],
+        [
+          "Délai de traitement",
+          "Souvent quelques jours à plusieurs semaines ; il ne devrait généralement pas excéder un mois lorsque le dossier est complet",
+          "Vérifiez qu’aucun chèque, débit différé ou produit associé ne bloque le dossier"
+        ]
+      ],
+      "note": "Les délais dépendent surtout des opérations encore en circulation, non de la complexité de la lettre de clôture."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les cas particuliers à régler avant d’envoyer votre demande",
+      "id": "les-cas-particuliers-a-regler-avant-d-envoyer-votre-demande"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Compte joint : une décision qui engage les cotitulaires",
+      "id": "compte-joint-une-decision-qui-engage-les-cotitulaires"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un compte joint, ne supposez pas que la démarche est identique à celle d’un compte individuel. La convention de compte précise souvent si chaque cotitulaire peut demander seul la clôture ou si une signature conjointe est exigée. En cas de séparation, de désaccord ou de risque de dette commune, contactez la banque sans attendre pour connaître les options possibles, notamment la désolidarisation ou la dénonciation du compte joint. Tant que le compte fonctionne, les cotitulaires peuvent rester responsables des incidents selon les règles applicables."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Crédit, épargne et produits liés",
+      "id": "credit-epargne-et-produits-lies"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un crédit domicilié dans votre banque n’interdit pas toujours de fermer le compte courant, mais votre contrat de prêt peut prévoir des modalités particulières pour le prélèvement des échéances ou pour certains avantages tarifaires. Vérifiez-les avant de basculer les paiements. De même, un livret, un PEA, un compte-titres ou une assurance-vie ne se ferment pas automatiquement avec le compte courant : demandez leur maintien, transfert ou clôture séparément. Pour des produits fiscaux ou d’investissement, un transfert mal préparé peut avoir des conséquences plus importantes qu’une simple fermeture de compte."
+    },
+    {
+      "type": "proscons",
+      "title": "Le service de mobilité bancaire : utile, mais à contrôler",
+      "pros": [
+        "Réduit le nombre de démarches répétitives lorsque vous changez de banque.",
+        "Aide à identifier les virements et prélèvements récurrents visibles sur l’ancien compte.",
+        "Peut intégrer la demande de clôture à la date que vous avez choisie.",
+        "Évite de recopier manuellement de nombreuses coordonnées bancaires."
+      ],
+      "cons": [
+        "Ne couvre pas automatiquement tous les paiements par carte ou tous les abonnements en ligne.",
+        "Peut ne pas repérer une opération très rare ou un organisme qui n’utilise pas le circuit habituel.",
+        "N’empêche pas les incidents si vous clôturez avant le passage d’un chèque ou d’un débit différé.",
+        "Vous devez toujours relire les informations et vérifier que les organismes ont bien appliqué le nouvel IBAN."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus fréquentes — et comment les éviter",
+      "id": "les-erreurs-les-plus-frequentes-et-comment-les-eviter"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes qui sécurisent votre fermeture",
+      "items": [
+        "<strong>Ne videz pas le compte le jour même</strong> : attendez le passage des chèques, débits différés et derniers prélèvements annoncés.",
+        "<strong>Ne vous fiez pas uniquement à la mobilité bancaire</strong> : contrôlez vos abonnements payés par carte et les opérations annuelles.",
+        "<strong>Ne laissez pas un découvert de côté</strong> : la banque n’a pas à clôturer un compte débiteur sans régularisation.",
+        "<strong>Ne coupez pas vos accès trop tôt</strong> : téléchargez relevés, RIB, attestations et justificatifs avant la clôture effective.",
+        "<strong>Ne jetez pas vos preuves</strong> : conservez la lettre, l’accusé de réception, la confirmation et le relevé final.",
+        "<strong>Ne confondez pas clôture et opposition</strong> : faire opposition sur une carte ou un prélèvement ne ferme pas le compte."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Après la clôture : les documents à conserver et les contrôles à faire",
+      "id": "apres-la-cloture-les-documents-a-conserver-et-les-controles-"
+    },
+    {
+      "type": "paragraph",
+      "html": "La clôture est réellement terminée lorsque vous disposez d’une confirmation de la banque et que le solde final a été versé. Gardez ce document, ainsi que les derniers relevés, dans un dossier papier ou numérique. Ils peuvent être nécessaires pour retrouver un ancien paiement, répondre à une administration ou démontrer qu’un compte n’était plus ouvert à une date donnée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les semaines qui suivent, vérifiez votre nouveau compte : les revenus attendus doivent y arriver, les prélèvements doivent s’y présenter correctement et aucun rejet ne doit apparaître. Si un organisme tente encore de prélever l’ancien compte, communiquez-lui votre nouvel IBAN sans tarder. En cas de clôture non exécutée, de solde non reversé ou de frais que vous ne comprenez pas, réclamez d’abord par écrit auprès du service client de la banque, pièces à l’appui."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la fermeture d’un compte bancaire",
+      "items": [
+        {
+          "q": "Peut-on fermer un compte bancaire directement en ligne ?",
+          "a": "Souvent oui, via la messagerie sécurisée ou un formulaire de votre espace client, mais les procédures varient selon les banques. L’important est d’obtenir une preuve datée de votre demande et une confirmation écrite de clôture. Si l’interface ne permet pas de joindre votre RIB ou de préciser le sort du solde, un courrier ou un rendez-vous peut être plus sûr."
+        },
+        {
+          "q": "La banque peut-elle refuser de fermer mon compte ?",
+          "a": "Elle ne peut pas vous imposer de conserver un compte courant sans raison, mais elle peut différer la clôture tant qu’un découvert, un chèque en circulation, un paiement différé ou une autre opération en attente doit être régularisé. Un crédit, un compte joint ou des produits associés peuvent également exiger une vérification préalable. Demandez toujours le motif écrit d’un blocage éventuel."
+        },
+        {
+          "q": "Faut-il ouvrir un nouveau compte avant de clôturer l’ancien ?",
+          "a": "Ce n’est pas obligatoire si vous avez déjà un autre compte utilisable. En pratique, c’est fortement recommandé : vous aurez un nouvel IBAN pour recevoir vos revenus, payer vos factures et transférer le solde. Garder les deux comptes ouverts pendant une courte période réduit nettement le risque de rejet."
+        },
+        {
+          "q": "Combien de temps faut-il garder l’ancien compte ouvert ?",
+          "a": "Gardez-le le temps de vérifier le basculement des opérations récurrentes et le débit des paiements déjà engagés. Une période de coexistence de plusieurs semaines est souvent plus prudente qu’une clôture immédiate, surtout si vous avez des prélèvements annuels, des paiements par carte à débit différé ou des chèques non encaissés."
+        },
+        {
+          "q": "Que devient l’argent restant sur le compte fermé ?",
+          "a": "Indiquez à la banque l’IBAN d’un compte destinataire : le solde créditeur doit y être transféré après dénouement des dernières opérations. Évitez de laisser un montant important sans instruction. Si le compte est débiteur, vous devez d’abord le réapprovisionner et régler les frais ou intérêts éventuels."
+        },
+        {
+          "q": "Dois-je fermer mon compte si je ne l’utilise plus ?",
+          "a": "Oui, c’est généralement préférable si vous n’en avez plus l’utilité. Un compte inactif n’est pas forcément gratuit et peut encore recevoir un virement ou être débité par une opération oubliée. Avant la clôture, téléchargez toutefois vos relevés et assurez-vous que le compte ne sert plus à un prélèvement, un remboursement ou un produit bancaire lié."
+        }
+      ]
+    }
+  ]
+}

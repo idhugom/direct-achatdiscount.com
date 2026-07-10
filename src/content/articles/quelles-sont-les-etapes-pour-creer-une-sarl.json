@@ -1,0 +1,425 @@
+{
+  "title": "Quelles sont les étapes pour créer une SARL ?",
+  "slug": "quelles-sont-les-etapes-pour-creer-une-sarl",
+  "path": "/divers/quelles-sont-les-etapes-pour-creer-une-sarl.html",
+  "category": "argent",
+  "tags": [
+    "créer une sarl",
+    "formalités entreprise",
+    "statuts sarl",
+    "immatriculation",
+    "capital social",
+    "guichet unique"
+  ],
+  "excerpt": "De la préparation du projet à l’immatriculation sur le guichet unique, voici la méthode complète pour créer une SARL sans oublier les formalités clés.",
+  "metaDescription": "Découvrez toutes les étapes pour créer une SARL : associés, statuts, capital, annonce légale, guichet unique, coûts et erreurs à éviter.",
+  "seoTitle": "Créer une SARL : les étapes à suivre",
+  "heroKicker": "Créer son entreprise",
+  "readingTime": 12,
+  "date": "2024-05-31T12:43:43",
+  "image": {
+    "id": "1926",
+    "alt": "Quelles sont les étapes pour créer une SARL ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Créer une SARL ne consiste pas seulement à remplir un formulaire en ligne : vous donnez une existence juridique à votre activité, répartissez les pouvoirs entre associés et fixez des règles qui vous suivront durablement. Une préparation méthodique évite les refus de dossier, les statuts inadaptés et les tensions entre associés une fois l’entreprise lancée."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir avant de vous lancer",
+      "items": [
+        "Une SARL réunit en principe <strong>deux à cent associés</strong> ; si vous êtes seul, sa version unipersonnelle s’appelle l’EURL.",
+        "Le choix du gérant, la répartition des parts sociales et la rédaction des statuts sont les décisions les plus structurantes : ne les traitez pas comme de simples formalités.",
+        "Le dépôt du capital, la domiciliation, l’annonce légale et le dépôt sur le <strong>guichet unique des formalités</strong> sont les grandes étapes administratives à enchaîner.",
+        "La SARL est soumise par défaut à l’impôt sur les sociétés et son régime social varie fortement selon que le gérant est majoritaire ou minoritaire.",
+        "Un dossier complet accélère l’immatriculation ; un objet social trop étroit, une attestation de domiciliation imprécise ou une pièce manquante peuvent la retarder."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce qu’est une SARL et vérifier qu’elle vous convient",
+      "id": "comprendre-ce-qu-est-une-sarl-et-verifier-qu-elle-vous-convi"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>société à responsabilité limitée</strong> (SARL) est une société commerciale adaptée à de nombreux projets artisanaux, commerciaux, de services ou familiaux. Son intérêt principal est de séparer, en principe, le patrimoine de la société de celui des associés : ces derniers ne supportent les pertes qu’à concurrence de leurs apports. Cette protection n’est toutefois pas absolue. Une caution personnelle accordée à une banque, une faute de gestion du dirigeant ou certaines dettes fiscales et sociales peuvent engager des biens personnels."
+    },
+    {
+      "type": "paragraph",
+      "html": "La SARL est souvent appréciée lorsque les associés souhaitent un cadre légal assez protecteur et moins librement négociable qu’une société par actions. Les cessions de parts à des tiers sont notamment encadrées par une procédure d’agrément, ce qui limite l’arrivée d’un nouvel associé non désiré. En contrepartie, les règles de fonctionnement sont plus rigides et l’entrée d’investisseurs est généralement moins fluide que dans une SAS."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 à 100",
+          "label": "associés possibles dans une SARL classique"
+        },
+        {
+          "value": "1 €",
+          "label": "capital social légal minimal, même si ce montant est rarement pertinent en pratique"
+        },
+        {
+          "value": "20 %",
+          "label": "minimum des apports en numéraire à libérer lors de la constitution"
+        },
+        {
+          "value": "5 ans",
+          "label": "délai maximal pour verser le solde du capital en numéraire"
+        }
+      ]
+    },
+    {
+      "type": "comparison",
+      "title": "SARL ou SAS : le choix qui conditionne votre fonctionnement",
+      "left": {
+        "title": "Choisir la SARL",
+        "points": [
+          "Cadre juridique largement fixé par la loi, utile si vous recherchez des règles stables.",
+          "Contrôle de l’entrée de tiers grâce à l’agrément des cessions de parts.",
+          "Gérant majoritaire relevant en principe du régime des travailleurs indépendants.",
+          "Souvent cohérente pour une activité pérenne portée par un petit nombre d’associés actifs."
+        ]
+      },
+      "right": {
+        "title": "Choisir la SAS",
+        "points": [
+          "Statuts très flexibles pour organiser les droits de vote, l’arrivée d’investisseurs ou les catégories d’actions.",
+          "Cession des actions habituellement plus simple, sous réserve des clauses statutaires.",
+          "Président assimilé salarié sur le plan social lorsqu’il est rémunéré.",
+          "Souvent privilégiée pour les projets à croissance rapide, les levées de fonds ou une gouvernance sur mesure."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Ne choisissez pas la forme juridique sur le seul critère des cotisations",
+      "html": "Le régime social du dirigeant est important, mais il ne doit pas faire oublier la gouvernance, la fiscalité, les besoins de financement, le niveau de protection sociale recherché et la stratégie d’entrée ou de sortie des associés. Un arbitrage avec un expert-comptable ou un avocat est particulièrement utile si plusieurs associés investissent des montants différents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 1 : cadrer le projet, les associés et la gouvernance",
+      "id": "etape-1-cadrer-le-projet-les-associes-et-la-gouvernance"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant toute rédaction, mettez par écrit les fondations du projet. Définissez précisément l’activité, la clientèle visée, les besoins de financement et le calendrier de démarrage. Vous devez aussi identifier les associés, le montant que chacun apporte et ce qu’il reçoit en échange : des parts sociales, des droits de vote et une part des bénéfices éventuels. La répartition du capital ne doit pas être décidée uniquement selon l’argent apporté : elle peut aussi refléter le travail futur, les compétences clés ou le risque assumé par chacun."
+    },
+    {
+      "type": "paragraph",
+      "html": "Désignez ensuite le ou les gérants. Une SARL peut avoir plusieurs gérants, associés ou non. Leur nom peut figurer directement dans les statuts ou dans un acte séparé de nomination. La seconde option simplifie un changement ultérieur de gérant, car elle évite de modifier les statuts. Déterminez également les pouvoirs attendus, la rémunération éventuelle, les modalités de remboursement des frais et les décisions qui devront être discutées entre associés avant tout engagement important."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Questions à trancher entre associés avant les formalités",
+      "items": [
+        "Qui apporte de l’argent, des biens, du matériel, un brevet ou du savoir-faire ?",
+        "Quelle proportion de parts chacun détiendra-t-il et quels droits de vote en découleront ?",
+        "Qui sera gérant, avec quels pouvoirs concrets et quelle rémunération ?",
+        "Que se passe-t-il si un associé veut partir, cesse de travailler dans l’entreprise, décède ou ne respecte pas ses engagements ?",
+        "Faudra-t-il emprunter, solliciter des subventions ou demander des cautions personnelles ?",
+        "Comment seront répartis les bénéfices : distribution, mise en réserve ou réinvestissement ?"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 2 : choisir le nom, l’adresse et l’objet social",
+      "id": "etape-2-choisir-le-nom-l-adresse-et-l-objet-social"
+    },
+    {
+      "type": "paragraph",
+      "html": "La société doit avoir une <strong>dénomination sociale</strong>, c’est-à-dire son nom officiel. Vérifiez qu’il n’est pas déjà utilisé de manière problématique par une entreprise concurrente et qu’il ne porte pas atteinte à une marque protégée. Une recherche sur les bases d’entreprises et de marques est une précaution utile. Réserver un nom de domaine cohérent est également judicieux, même si cela ne remplace pas une protection de marque."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous devez aussi fixer le siège social, qui détermine notamment le greffe compétent et certaines règles locales. Il peut être établi dans un local commercial, un bureau, une pépinière, une société de domiciliation ou, sous conditions, au domicile du gérant. Ne confondez pas siège social et lieu réel d’exploitation : une société peut être domiciliée à une adresse administrative tout en exerçant ailleurs, à condition de respecter les règles applicables aux locaux et à l’activité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, rédigez un <strong>objet social</strong> suffisamment précis pour décrire votre activité, mais assez large pour permettre des évolutions raisonnablement prévisibles. Une formule trop vague peut susciter des questions lors de l’immatriculation ou de l’ouverture d’un compte ; une formule trop étroite impose une modification statutaire coûteuse dès que vous diversifiez l’activité. Ajoutez habituellement les activités connexes ou complémentaires, sans inclure artificiellement des activités réglementées que vous ne pouvez pas exercer."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux activités réglementées",
+      "html": "Transport, bâtiment, immobilier, débit de boissons, sécurité, santé, alimentation, finance ou certaines professions libérales peuvent exiger un diplôme, une qualification, une assurance, une autorisation ou une inscription professionnelle. Vérifiez ces conditions <strong>avant</strong> de déposer votre dossier : l’immatriculation de la société ne vous dispense pas de ces obligations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 3 : fixer le capital social et organiser les apports",
+      "id": "etape-3-fixer-le-capital-social-et-organiser-les-apports"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le capital social est composé des apports effectués par les associés. Il peut comprendre des <strong>apports en numéraire</strong> (sommes d’argent), des <strong>apports en nature</strong> (véhicule, matériel, fonds de commerce, droit de propriété intellectuelle, par exemple) et des apports en industrie. Ces derniers correspondent à un travail, des connaissances ou des services ; ils ne constituent pas le capital, mais peuvent ouvrir droit à des parts donnant accès aux bénéfices et aux décisions selon les statuts."
+    },
+    {
+      "type": "paragraph",
+      "html": "Même si la loi autorise un capital symbolique, choisissez un montant réaliste. Le capital ne remplace pas une trésorerie prévisionnelle, mais il donne un signal aux partenaires et fournit des ressources disponibles au lancement. Évaluez les dépenses des premiers mois : achats, stocks, assurance, dépôt de garantie, outils numériques, véhicule, communication, frais comptables et décalage entre factures émises et encaissements. Pour un projet nécessitant du matériel ou du stock, un capital très faible peut compliquer l’accès au crédit et fragiliser l’entreprise dès le départ."
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux types d’apports dans une SARL",
+      "headers": [
+        "Type d’apport",
+        "Exemples",
+        "Traitement à la création",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Numéraire",
+          "Virement, chèque ou fonds versés par les associés",
+          "Dépôt sur un compte bloqué auprès d’une banque, d’un notaire ou d’un établissement habilité ; une partie est libérable à la constitution",
+          "Prévoyez la preuve de dépôt et le versement du solde dans le délai légal."
+        ],
+        [
+          "Nature",
+          "Ordinateur, véhicule, machines, brevet, fonds de commerce",
+          "Évaluation du bien et transfert à la société",
+          "Un commissaire aux apports peut être requis ; une surévaluation engage la responsabilité des associés."
+        ],
+        [
+          "Industrie",
+          "Compétences, travail, réseau, savoir-faire",
+          "Ne forme pas le capital, mais peut donner des droits définis dans les statuts",
+          "Décrivez précisément l’engagement attendu et les conséquences d’un départ."
+        ]
+      ],
+      "note": "La désignation d’un commissaire aux apports obéit à des règles et à des seuils légaux. Des associés peuvent parfois décider à l’unanimité de s’en dispenser lorsque les conditions prévues sont réunies ; faites valider ce point en cas d’apport de valeur significative."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 4 : rédiger des statuts qui protègent réellement les associés",
+      "id": "etape-4-rediger-des-statuts-qui-protegent-reellement-les-ass"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les statuts constituent le contrat fondateur de la SARL. Ils indiquent notamment la forme de la société, sa dénomination, son siège, son objet, sa durée, le montant du capital, les apports, la répartition des parts, les règles de décision et l’identité du ou des gérants lorsqu’ils y sont nommés. Un modèle peut convenir à une SARL très simple, avec deux associés aux intérêts parfaitement alignés. Dès que les apports, les rôles ou les risques diffèrent, une rédaction personnalisée est préférable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les statuts ne suffisent pas toujours à couvrir les situations sensibles. Un <strong>pacte d’associés</strong>, distinct et confidentiel, peut utilement compléter les statuts. Il peut organiser une obligation de sortie en cas de départ opérationnel, une méthode d’évaluation des parts, une clause de non-concurrence proportionnée, les conditions d’un financement complémentaire ou les modalités de résolution d’un blocage. Il ne doit cependant pas contredire les règles impératives applicables à la SARL."
+    },
+    {
+      "type": "proscons",
+      "title": "Utiliser un modèle de statuts : quand est-ce raisonnable ?",
+      "pros": [
+        "Rapide et économique pour une activité simple, avec peu d’associés et des apports uniquement en numéraire.",
+        "Aide à ne pas oublier les mentions obligatoires les plus courantes.",
+        "Peut servir de base de travail pour comprendre les clauses à arbitrer."
+      ],
+      "cons": [
+        "Risque de clauses génériques inadaptées à votre activité ou à votre répartition réelle des pouvoirs.",
+        "Gère mal les situations de désaccord, de départ d’un associé, d’apport en nature ou d’entrée future d’un investisseur.",
+        "Une erreur initiale peut coûter davantage à corriger qu’un accompagnement ciblé avant l’immatriculation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 5 : déposer le capital, signer les actes et publier l’annonce légale",
+      "id": "etape-5-deposer-le-capital-signer-les-actes-et-publier-l-ann"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque les apports en numéraire sont prévus, versez les fonds sur un compte de dépôt de capital ouvert au nom de la société en formation. Le dépositaire remet une attestation de dépôt, document indispensable au dossier. Dans une SARL, au moins un cinquième des apports en numéraire doit être versé dès la constitution ; les statuts prévoient les conditions du versement du solde, dans la limite du délai légal. Après l’immatriculation, les fonds deviennent disponibles pour la société selon les modalités de l’établissement dépositaire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Signez ensuite les statuts, ainsi que l’acte de nomination du gérant s’il est séparé. Si vous avez engagé des dépenses avant l’immatriculation — dépôt de marque, premier achat, bail, étude de marché — établissez avec soin l’état des actes accomplis pour le compte de la société en formation. Sa reprise après immatriculation permettra, sous les conditions appropriées, que la SARL supporte ces dépenses plutôt que vous personnellement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous devez également publier un avis de constitution dans un support habilité à recevoir des annonces légales du département du siège. L’avis reprend les informations essentielles sur la société : dénomination, forme, capital, siège, objet, durée, gérance et registre d’immatriculation. Conservez l’attestation de parution : elle est demandée lors de la formalité de création."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étape 6 : déposer la création sur le guichet unique",
+      "id": "etape-6-deposer-la-creation-sur-le-guichet-unique"
+    },
+    {
+      "type": "paragraph",
+      "html": "La demande d’immatriculation s’effectue en ligne via le <strong>guichet unique des formalités des entreprises</strong>. Ce portail centralise la transmission aux organismes compétents, notamment au registre du commerce et des sociétés pour les activités commerciales. Rassemblez les documents numérisés avant de commencer : vous éviterez les brouillons incomplets et les allers-retours."
+    },
+    {
+      "type": "steps",
+      "title": "Déposer un dossier de création sans perdre de temps",
+      "items": [
+        {
+          "title": "Créez votre dossier en ligne",
+          "text": "Renseignez l’identité de la société, l’activité, l’adresse du siège, les associés, le ou les bénéficiaires effectifs et les informations sur la gérance."
+        },
+        {
+          "title": "Joignez les justificatifs",
+          "text": "Ajoutez les statuts signés, l’attestation de dépôt du capital, le justificatif de siège, l’attestation d’annonce légale, les pièces d’identité et déclarations requises pour les dirigeants, ainsi que les documents liés à une activité réglementée s’il y a lieu."
+        },
+        {
+          "title": "Vérifiez la cohérence globale",
+          "text": "Les noms, adresses, date de début d’activité, répartition du capital et objet social doivent être identiques ou compatibles dans tous les documents."
+        },
+        {
+          "title": "Réglez les frais et suivez les demandes",
+          "text": "Après transmission, surveillez votre espace et vos courriels. Répondez vite à une demande de régularisation pour ne pas retarder l’immatriculation."
+        },
+        {
+          "title": "Exploitez la société après son immatriculation",
+          "text": "Une fois l’extrait d’immatriculation obtenu, débloquez le capital, finalisez les contrats au nom de la SARL et mettez en place la comptabilité, les assurances et les obligations déclaratives."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Constituez un dossier de contrôle avant l’envoi",
+      "html": "Comparez ligne par ligne vos statuts, l’annonce légale, l’attestation bancaire et la formalité en ligne. Les divergences les plus fréquentes concernent l’adresse complète du siège, l’orthographe du nom du gérant, la répartition des parts, la date de début d’activité et l’objet social."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prévoir le budget et les délais de création",
+      "id": "prevoir-le-budget-et-les-delais-de-creation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le budget de création dépend surtout de la complexité juridique et du niveau d’accompagnement. Les dépenses incontournables comprennent habituellement la publication de l’annonce légale, les frais de formalité et, le cas échéant, les coûts de domiciliation ou d’ouverture de compte. Un projet simple traité de façon autonome peut représenter quelques centaines d’euros hors capital. Avec une plateforme, un expert-comptable ou un avocat, l’enveloppe peut passer de plusieurs centaines à plusieurs milliers d’euros selon le conseil apporté, les actes nécessaires et la complexité des apports."
+    },
+    {
+      "type": "table",
+      "caption": "Repères budgétaires et délais à anticiper",
+      "headers": [
+        "Poste ou étape",
+        "Ordre de grandeur",
+        "Ce qui fait varier le coût ou le délai"
+      ],
+      "rows": [
+        [
+          "Capital social",
+          "De symbolique à plusieurs milliers d’euros ou davantage",
+          "Besoins de trésorerie, crédibilité auprès des partenaires, matériel et stock de départ."
+        ],
+        [
+          "Formalités et annonce légale",
+          "Quelques centaines d’euros dans un cas standard",
+          "Département du siège, caractéristiques de la société, prestations de préparation du dossier."
+        ],
+        [
+          "Accompagnement juridique ou comptable",
+          "De quelques centaines à plusieurs milliers d’euros",
+          "Statuts sur mesure, pacte d’associés, apport en nature, activité réglementée, consultation fiscale."
+        ],
+        [
+          "Immatriculation",
+          "De quelques jours à plusieurs semaines en pratique",
+          "Qualité du dossier, demandes de régularisation, activité soumise à justificatifs, délais de traitement."
+        ]
+      ],
+      "note": "Ces repères n’incluent pas les dépenses de lancement telles que l’assurance, le logiciel comptable, le local, le stock, le site internet ou les équipements."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fiscalité, régime social et obligations après la création",
+      "id": "fiscalite-regime-social-et-obligations-apres-la-creation"
+    },
+    {
+      "type": "paragraph",
+      "html": "La SARL est en principe soumise à l’<strong>impôt sur les sociétés</strong> : la société paie l’impôt sur son bénéfice et les associés sont imposés personnellement lorsqu’ils perçoivent une rémunération ou des dividendes. Sous certaines conditions, une option temporaire pour l’impôt sur le revenu peut être envisagée ; les SARL de famille exerçant certaines activités peuvent aussi relever d’un dispositif particulier. Ce choix mérite une simulation, car il dépend de votre foyer fiscal, du niveau de bénéfice attendu, de la rémunération nécessaire et de votre stratégie de réinvestissement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le statut social du gérant est déterminant. Un gérant associé majoritaire relève généralement de la protection sociale des travailleurs indépendants. Un gérant minoritaire ou égalitaire rémunéré est, en principe, assimilé salarié pour sa protection sociale, sans bénéficier pour autant de l’assurance chômage du seul fait de son mandat. En cas de cogérance, l’analyse de la majorité tient compte des parts détenues par les cogérants : ce point est fréquemment sous-estimé."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes à adopter dès l’immatriculation",
+      "items": [
+        "Ouvrez ou activez le compte bancaire professionnel de la SARL et conservez tous les justificatifs de dépenses.",
+        "Choisissez une organisation comptable fiable dès la première facture : plan de classement, facturation, suivi de TVA et rapprochement bancaire.",
+        "Souscrivez les assurances obligatoires ou utiles à l’activité : responsabilité civile professionnelle, véhicule, local, décennale si nécessaire.",
+        "Établissez les premières décisions d’associés et conservez-les dans les registres appropriés.",
+        "Déclarez rapidement les changements de siège, de gérance, d’activité ou de capital : ils ne se corrigent pas simplement par un courriel.",
+        "Anticipez la déclaration et la mise à jour des bénéficiaires effectifs lorsque la situation évolue."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus coûteuses à éviter",
+      "id": "les-erreurs-les-plus-couteuses-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à créer une SARL avant d’avoir validé le modèle économique. Les formalités n’ont de valeur que si votre activité peut générer une marge suffisante et si vous avez anticipé la trésorerie. Évitez aussi de confondre chiffre d’affaires, résultat et argent réellement disponible : une société peut facturer, payer de la TVA et pourtant manquer de liquidités pour ses charges courantes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Autre piège courant : signer un bail, un emprunt ou un contrat fournisseur avant l’immatriculation sans préciser que vous agissez pour le compte d’une société en formation et sans organiser la reprise de l’acte. Vous risquez de rester personnellement engagé. Enfin, ne négligez pas la relation entre associés. Un capital réparti à parts égales peut sembler équitable mais créer une paralysie en cas de désaccord ; prévoyez un mécanisme de sortie ou de médiation avant que le conflit n’existe."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le bon niveau de capital n’est pas le minimum légal",
+      "html": "Pour déterminer votre apport initial, partez d’un plan de trésorerie prudent : dépenses de démarrage, charges fixes, besoin de stock et délai probable avant les premiers encaissements. Si la banque exige une caution, évaluez aussi l’exposition personnelle réelle : la responsabilité limitée ne neutralise pas une garantie que vous avez signée à titre individuel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Alternatives à la SARL : quand regarder une autre structure ?",
+      "id": "alternatives-a-la-sarl-quand-regarder-une-autre-structure"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous entreprenez seul, comparez l’EURL avec l’entreprise individuelle et la micro-entreprise. L’EURL est une SARL à associé unique : elle conserve une société distincte, une comptabilité plus structurée et une capacité d’évolution vers plusieurs associés. L’entreprise individuelle est plus simple à créer et à gérer pour certaines activités, mais son régime fiscal, social et ses possibilités de développement répondent à une logique différente. La micro-entreprise convient surtout lorsque les charges, les investissements et les besoins de croissance restent limités."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous prévoyez d’accueillir rapidement des investisseurs, de répartir des droits économiques spécifiques ou de faire évoluer fréquemment l’actionnariat, la SAS peut être plus adaptée. À l’inverse, pour une activité de proximité, un commerce, un artisanat ou un projet familial porté par quelques personnes qui veulent encadrer strictement les entrées et sorties, la SARL demeure une solution robuste. La meilleure forme est celle qui sert votre projet à trois ans, pas seulement celle qui rend l’immatriculation la plus rapide."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la création d’une SARL",
+      "items": [
+        {
+          "q": "Peut-on créer une SARL seul ?",
+          "a": "Une SARL classique compte au moins deux associés. Si vous créez la société seul, vous constituerez une <strong>EURL</strong>, qui est juridiquement une SARL à associé unique. Elle peut devenir une SARL si de nouveaux associés entrent ensuite au capital."
+        },
+        {
+          "q": "Quel capital faut-il prévoir pour créer une SARL ?",
+          "a": "Le minimum légal est symbolique, mais il est rarement suffisant pour exploiter l’activité sereinement. Calculez vos besoins de démarrage et de trésorerie sur plusieurs mois. Le capital doit être cohérent avec les investissements, les stocks, les charges fixes et l’image que vous devez donner à vos financeurs."
+        },
+        {
+          "q": "Faut-il obligatoirement passer par un avocat ou un expert-comptable ?",
+          "a": "Non, vous pouvez accomplir les formalités vous-même. Un accompagnement devient toutefois très recommandé en présence de plusieurs associés, d’apports en nature, d’un pacte d’associés, d’une activité réglementée, d’un financement bancaire important ou d’un choix fiscal et social sensible."
+        },
+        {
+          "q": "Où déposer le dossier de création d’une SARL ?",
+          "a": "La formalité s’effectue en ligne sur le guichet unique des formalités des entreprises. Vous y déposez les informations et justificatifs nécessaires ; le dossier est ensuite transmis aux organismes compétents pour l’immatriculation."
+        },
+        {
+          "q": "Combien de temps faut-il pour immatriculer une SARL ?",
+          "a": "Une fois tous les documents réunis, la saisie peut être rapide. En pratique, comptez de quelques jours à plusieurs semaines pour obtenir l’immatriculation, selon la complétude du dossier, les éventuelles demandes de correction et les autorisations requises pour votre activité."
+        },
+        {
+          "q": "Le gérant de SARL a-t-il droit au chômage ?",
+          "a": "Le mandat de gérant, à lui seul, n’ouvre généralement pas droit à l’assurance chômage. Une couverture peut éventuellement exister dans une situation distincte de véritable contrat de travail, avec fonctions techniques réelles et lien de subordination, mais cette configuration est strictement appréciée. N’en faites pas une hypothèse de départ sans conseil spécialisé."
+        }
+      ]
+    }
+  ]
+}

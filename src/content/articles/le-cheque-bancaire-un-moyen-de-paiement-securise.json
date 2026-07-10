@@ -1,0 +1,437 @@
+{
+  "title": "Le chèque bancaire : un moyen de paiement sécurisé ?",
+  "slug": "le-cheque-bancaire-un-moyen-de-paiement-securise",
+  "path": "/divers/le-cheque-bancaire-un-moyen-de-paiement-securise.html",
+  "category": "argent",
+  "tags": [
+    "chèque bancaire",
+    "chèque de banque",
+    "paiement sécurisé",
+    "fraude au chèque",
+    "encaissement"
+  ],
+  "excerpt": "Le chèque reste pratique pour certains achats, mais sa sécurité dépend surtout de son type, des contrôles effectués et du délai d’encaissement.",
+  "metaDescription": "Chèque ordinaire, chèque de banque, impayé, faux document : évaluez les risques et adoptez les bons réflexes avant d’accepter un chèque.",
+  "seoTitle": "Chèque bancaire : est-il vraiment sécurisé ?",
+  "heroKicker": "Paiement sous contrôle",
+  "readingTime": 11,
+  "date": "2024-06-12T09:09:46",
+  "image": {
+    "id": "1980",
+    "alt": "Le chèque bancaire : un moyen de paiement sécurisé ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le chèque bancaire donne une impression rassurante : il porte le nom d’une banque, laisse une trace et peut sembler plus sérieux qu’un simple virement. Pourtant, un chèque ordinaire n’est pas une garantie de paiement, et même un chèque de banque peut être falsifié. Pour acheter ou vendre sereinement, il faut distinguer les documents, connaître les risques et appliquer quelques contrôles simples."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un <strong>chèque ordinaire</strong> n’assure pas au bénéficiaire que le compte est suffisamment approvisionné au moment où il sera présenté.",
+        "Le <strong>chèque de banque</strong> est plus protecteur pour une transaction importante, mais il doit être vérifié directement auprès de la banque émettrice.",
+        "Un compte crédité après dépôt ne signifie pas toujours que le chèque est définitivement encaissé : un impayé ou une fraude peut encore être régularisé.",
+        "Pour une vente entre particuliers, le virement instantané confirmé sur votre propre compte est souvent plus simple à contrôler qu’un chèque.",
+        "N’envoyez jamais un bien, et ne remettez jamais les clés, sur la seule foi d’une photo de chèque, d’un justificatif d’émission ou d’un écran bancaire fourni par l’acheteur."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un chèque bancaire, de quoi parle-t-on exactement ?",
+      "id": "un-cheque-bancaire-de-quoi-parle-t-on-exactement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le langage courant, « chèque bancaire » peut désigner tout chèque émis depuis un compte bancaire. Or, la sécurité varie radicalement selon qu’il s’agit d’un <strong>chèque ordinaire</strong>, d’un <strong>chèque de banque</strong> ou, plus rarement, d’un chèque certifié. Avant toute transaction, demandez quel document vous est proposé : le mot « banque » ne suffit pas à garantir le règlement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le chèque ordinaire est un ordre de paiement donné par son titulaire à sa banque. Celle-ci ne vérifie généralement la provision qu’au moment où le chèque est présenté au paiement. Entre la remise du chèque et cette présentation, le compte peut ne pas être approvisionné, être clôturé, faire l’objet d’une opposition justifiée ou le document peut s’avérer volé ou falsifié."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le chèque de banque, lui, est émis par la banque elle-même à la demande de son client. En principe, l’établissement bloque ou prélève les fonds avant de l’émettre : la banque devient donc l’émettrice et s’engage à payer. C’est pourquoi il est couramment utilisé pour l’achat d’un véhicule d’occasion ou une vente d’un montant élevé. Cette protection ne vaut toutefois que si le chèque est authentique."
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux moyens de paiement par chèque",
+      "headers": [
+        "Type de chèque",
+        "Qui s’engage à payer ?",
+        "Niveau de sécurité pour le vendeur",
+        "Usage adapté",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Chèque ordinaire",
+          "Le titulaire du compte",
+          "Faible à moyen",
+          "Petites sommes, relation de confiance",
+          "Provision inconnue, opposition, impayé ou faux chèque"
+        ],
+        [
+          "Chèque de banque",
+          "La banque émettrice",
+          "Élevé si l’authenticité est vérifiée",
+          "Véhicule, équipement, transaction importante",
+          "Faux chèque de banque et coordonnées frauduleuses"
+        ],
+        [
+          "Chèque certifié",
+          "La banque bloque la provision pendant une durée limitée",
+          "Bon, mais temporaire",
+          "Usage devenu rare",
+          "La garantie de provision est limitée dans le temps"
+        ],
+        [
+          "Chèque barré non endossable",
+          "Varie selon le chèque émis",
+          "Ne garantit pas les fonds",
+          "Encaissement sur compte bancaire",
+          "Ne protège pas contre un impayé"
+        ],
+        [
+          "Chèque de société ou associatif",
+          "L’organisation titulaire du compte",
+          "Variable",
+          "Transactions professionnelles",
+          "Pouvoir du signataire et provision à vérifier"
+        ]
+      ],
+      "note": "Le chèque barré est un format courant : il doit être encaissé par l’intermédiaire d’une banque. Cela ne le transforme pas en garantie de paiement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le chèque ordinaire : une sécurité surtout apparente",
+      "id": "le-cheque-ordinaire-une-securite-surtout-apparente"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour le bénéficiaire, le principal défaut du chèque ordinaire est simple : il ne permet pas de connaître avec certitude le solde du compte de l’émetteur. La confidentialité bancaire empêche la banque de vous révéler librement cette information. Un appel à l’agence n’est donc pas une preuve de solvabilité, et une réponse orale, si vous en obtenez une, ne remplace jamais le paiement effectif."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un chèque peut être refusé pour défaut ou insuffisance de provision, compte clos, signature non conforme, opposition pour perte, vol ou utilisation frauduleuse, anomalie matérielle ou falsification. Si vous avez déjà remis un véhicule, expédié un objet coûteux ou rendu de la monnaie, le recouvrement peut devenir long et incertain. Le fait de disposer d’une pièce d’identité de l’acheteur aide à l’identifier, mais ne garantit ni son identité réelle ni la provision."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Crédité ne veut pas toujours dire définitivement payé",
+      "html": "Après le dépôt, votre banque peut afficher le montant au crédit de votre compte avant la fin complète des contrôles interbancaires. En cas de chèque impayé ou frauduleux, elle peut ensuite contre-passer l’écriture. Ne confondez pas <strong>disponibilité apparente</strong> des fonds et encaissement irrévocable."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quand peut-on encore accepter un chèque ordinaire ?",
+      "id": "quand-peut-on-encore-accepter-un-cheque-ordinaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’est pas nécessairement à bannir. Il reste cohérent pour un petit montant, une cotisation, une prestation récurrente, un achat auprès d’une personne connue ou une vente réalisée avec un délai avant la remise du bien. Le bon réflexe consiste à adapter le niveau de contrôle à votre exposition : plus le bien est facile à revendre, plus son montant est élevé et plus l’acheteur est inconnu, moins le chèque ordinaire est approprié."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Si vous acceptez un chèque ordinaire",
+      "items": [
+        "Demandez une pièce d’identité et vérifiez que le nom correspond au titulaire indiqué sur le chèque.",
+        "Refusez un chèque raturé, surchargé, incomplet, dont la signature semble incohérente ou dont l’ordre est ambigu.",
+        "Établissez un écrit de vente mentionnant l’identité des parties, le bien, le prix, la date et le moyen de paiement.",
+        "Déposez le chèque sans attendre : le laisser dans un tiroir augmente le risque de perte et retarde la détection d’un incident.",
+        "Pour un objet de valeur, conservez le bien ou prévoyez une remise différée jusqu’à confirmation de l’encaissement.",
+        "Ne rendez pas d’espèces sur un chèque d’un montant supérieur au prix : c’est un scénario classique de fraude."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le chèque de banque est-il réellement sûr ?",
+      "id": "le-cheque-de-banque-est-il-reellement-sur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un vrai chèque de banque est nettement plus sécurisé qu’un chèque ordinaire, car la banque émettrice garantit en principe le paiement après avoir sécurisé les fonds de son client. Il répond bien aux transactions ponctuelles de plusieurs centaines ou milliers d’euros, notamment lorsqu’un virement ne peut pas être effectué ou que les parties souhaitent finaliser l’opération en face à face."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son point faible est la fraude documentaire. Des escrocs peuvent fabriquer un faux chèque de banque très convaincant, imiter une mise en page, insérer de vrais éléments visuels récupérés en ligne et fournir un faux numéro de téléphone présenté comme celui de l’agence. Une copie envoyée avant le rendez-vous ne prouve donc rien : elle peut uniquement servir à préparer vos vérifications."
+    },
+    {
+      "type": "comparison",
+      "title": "Chèque ordinaire ou chèque de banque pour une vente entre particuliers ?",
+      "left": {
+        "title": "Chèque ordinaire",
+        "points": [
+          "Facile à émettre et souvent peu coûteux pour l’acheteur.",
+          "Aucune garantie de provision pour le vendeur au moment de la remise.",
+          "Acceptable surtout pour un faible montant ou une relation établie.",
+          "Risque significatif si le bien est remis immédiatement."
+        ]
+      },
+      "right": {
+        "title": "Chèque de banque",
+        "points": [
+          "Fonds normalement sécurisés avant l’émission par la banque.",
+          "Plus adapté à un véhicule ou à un achat important.",
+          "Nécessite une vérification anti-fraude rigoureuse.",
+          "Peut entraîner des frais selon l’établissement et un délai d’obtention."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les vérifications indispensables avant de remettre le bien",
+      "id": "les-verifications-indispensables-avant-de-remettre-le-bien"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le jour de la transaction, examinez d’abord le chèque original. Vérifiez la cohérence entre le montant en chiffres et en lettres, l’absence de grattage, le nom de la banque, la date, l’ordre et la signature. Les éléments de sécurité du papier, dont le filigrane lorsqu’il est présent, sont utiles, mais ils ne suffisent pas à eux seuls : un fraudeur peut reproduire une grande partie de l’apparence d’un document."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ensuite, contactez la banque prétendument émettrice. Cherchez vous-même son numéro sur son site officiel, sur un annuaire fiable ou par l’intermédiaire de votre agence : <strong>n’utilisez jamais exclusivement le numéro imprimé sur le chèque ou communiqué par l’acheteur</strong>. Demandez à être mis en relation avec le service compétent et faites vérifier la référence du chèque de banque ainsi que son émission. La banque peut encadrer les informations qu’elle vous communique, mais elle connaît les procédures de confirmation adaptées."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réflexe le plus sûr",
+      "html": "Pour un montant important, donnez rendez-vous à l’acheteur <strong>dans l’agence émettrice</strong>, pendant les horaires d’ouverture. Vous pouvez assister à l’émission du chèque ou demander un paiement alternatif directement contrôlable. Si cela est impossible, privilégiez un virement reçu et visible sur votre propre application bancaire, plutôt qu’une preuve affichée sur le téléphone de l’acheteur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Virement, espèces, chèque : quelle option choisir ?",
+      "id": "virement-especes-cheque-quelle-option-choisir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur moyen de paiement dépend du montant, du degré de confiance, de l’urgence et de la nature du bien. Il ne faut pas rechercher un support prétendument infaillible, mais une méthode dont vous pouvez vérifier l’exécution avant de vous dessaisir du bien. Dans de nombreux cas, un virement instantané reçu sur votre compte simplifie cette vérification : vous regardez votre solde et le détail de l’opération dans votre propre espace bancaire, et non un justificatif transmis par l’acheteur."
+    },
+    {
+      "type": "table",
+      "caption": "Quel moyen de paiement privilégier selon la situation ?",
+      "headers": [
+        "Situation",
+        "Option généralement la plus adaptée",
+        "Pourquoi",
+        "Réserve à prévoir"
+      ],
+      "rows": [
+        [
+          "Petit achat entre proches",
+          "Chèque ordinaire ou virement",
+          "Simplicité et trace écrite",
+          "Le chèque reste exposé à l’impayé"
+        ],
+        [
+          "Vente d’un objet de valeur à un inconnu",
+          "Virement instantané reçu ou chèque de banque vérifié",
+          "Contrôle plus solide avant remise",
+          "Vérifier le crédit sur votre propre compte"
+        ],
+        [
+          "Vente d’un véhicule entre particuliers",
+          "Virement confirmé ou chèque de banque contrôlé auprès de l’émetteur",
+          "Montant élevé et bien facilement revendable",
+          "Éviter les rendez-vous hors horaires bancaires si paiement par chèque"
+        ],
+        [
+          "Achat professionnel ou facture",
+          "Virement bancaire",
+          "Traçabilité et rapprochement comptable",
+          "Respecter les coordonnées bancaires validées"
+        ],
+        [
+          "Transaction en espèces",
+          "Espèces dans le cadre légal applicable",
+          "Paiement immédiat",
+          "Risques de sécurité, faux billets et plafonds réglementaires"
+        ]
+      ],
+      "note": "Les plafonds et règles applicables aux espèces varient notamment selon le statut des parties et leur résidence fiscale. Renseignez-vous avant une transaction importante."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 an + 8 jours",
+          "label": "durée usuelle de validité d’un chèque émis et payable en France"
+        },
+        {
+          "value": "8 jours",
+          "label": "délai légal habituel de présentation d’un chèque émis et payable en France métropolitaine"
+        },
+        {
+          "value": "0 garantie",
+          "label": "de provision apportée au bénéficiaire par un chèque ordinaire"
+        },
+        {
+          "value": "1 contrôle direct",
+          "label": "auprès de la banque émettrice à prévoir pour un chèque de banque important"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, délais et contraintes pratiques",
+      "id": "budget-delais-et-contraintes-pratiques"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les chéquiers sont fréquemment inclus dans les offres de compte, mais certains établissements facturent leur délivrance, leur renouvellement ou des services associés. Le chèque de banque peut être gratuit ou occasionner des frais modestes, parfois de l’ordre de quelques euros à quelques dizaines d’euros selon la formule bancaire. Ce coût est secondaire face au risque d’une fraude sur une vente importante : il faut surtout anticiper le délai de demande et les heures d’ouverture de l’agence."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté encaissement, le dépôt d’un chèque peut aujourd’hui se faire au guichet, dans un automate ou par remise dématérialisée selon votre banque. Le crédit peut apparaître rapidement, mais les délais réels de traitement et les possibilités de rejet justifient la prudence. Si vous vendez un bien de valeur, ne programmez pas une remise urgente en vous fondant sur la promesse que « le chèque sera crédité demain »."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Arbitrage budget : ne lésinez pas sur la vérification",
+      "html": "Un éventuel coût de chèque de banque ou de virement instantané est faible au regard du prix d’un véhicule, d’un ordinateur haut de gamme ou d’un appareil photo. Répartissez clairement les frais entre acheteur et vendeur, mais ne sacrifiez jamais la sécurité pour éviter un petit coût bancaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui exposent le plus à une fraude",
+      "id": "les-erreurs-qui-exposent-le-plus-a-une-fraude"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les fraudes reposent souvent moins sur une faille bancaire que sur la précipitation. L’acheteur insiste pour repartir immédiatement, propose un montant supérieur au prix, invoque un déplacement professionnel, demande l’envoi d’un colis avant encaissement ou produit un document bancaire très soigné. Les escrocs savent que l’apparence d’un chèque de banque, d’un ordre de virement ou d’une pièce d’identité peut rassurer à tort."
+    },
+    {
+      "type": "proscons",
+      "title": "Accepter un chèque : avantages et limites",
+      "pros": [
+        "Moyen de paiement connu, simple à rédiger et laissant une trace.",
+        "Utile lorsque l’acheteur ne peut pas effectuer un virement immédiatement.",
+        "Le chèque de banque offre une protection renforcée lorsque son authenticité est contrôlée.",
+        "Peut convenir à certains paiements de proximité ou à des relations de confiance."
+      ],
+      "cons": [
+        "Le chèque ordinaire ne garantit ni la provision ni le paiement final.",
+        "La fraude au faux chèque de banque peut être sophistiquée.",
+        "L’encaissement et la détection d’un incident ne sont pas instantanés.",
+        "Les vérifications demandent du temps, en particulier pour une transaction hors horaires bancaires."
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Signaux d’alerte à prendre au sérieux",
+      "items": [
+        "Un acheteur qui veut payer plus que le montant convenu et récupérer la différence en espèces ou par virement.",
+        "Une demande d’expédition rapide contre une photo de chèque, un bordereau de dépôt ou une capture d’écran.",
+        "Un refus de montrer une pièce d’identité ou une identité qui ne correspond pas au chèque.",
+        "Un rendez-vous imposé le soir, le week-end ou un jour férié pour empêcher toute vérification auprès de la banque.",
+        "Un chèque de banque provenant d’un établissement très éloigné sans raison claire, accompagné d’instructions inhabituelles.",
+        "Une pression émotionnelle ou un discours visant à vous faire renoncer à vos contrôles habituels."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mode d’emploi : sécuriser une vente réglée par chèque",
+      "id": "mode-d-emploi-securiser-une-vente-reglee-par-cheque"
+    },
+    {
+      "type": "steps",
+      "title": "La procédure prudente en six étapes",
+      "items": [
+        {
+          "title": "Fixez votre règle de paiement avant le rendez-vous",
+          "text": "Annoncez dès le départ les moyens acceptés. Pour une grosse somme, indiquez que vous n’acceptez qu’un virement visible sur votre compte ou un chèque de banque vérifié."
+        },
+        {
+          "title": "Identifiez clairement l’acheteur",
+          "text": "Demandez une pièce d’identité cohérente avec le nom figurant sur le chèque. Notez les informations nécessaires dans un contrat ou un certificat de cession, sans conserver de copie inutilement."
+        },
+        {
+          "title": "Contrôlez le document original",
+          "text": "Refusez toute remise basée sur une photographie ou un PDF. Vérifiez les mentions, les montants, la date, l’absence d’altération et la cohérence générale du chèque."
+        },
+        {
+          "title": "Vérifiez l’émetteur indépendamment",
+          "text": "Pour un chèque de banque, contactez l’établissement via des coordonnées trouvées par vous-même. Pour un montant élevé, privilégiez une vérification en agence."
+        },
+        {
+          "title": "Contrôlez le paiement de votre côté",
+          "text": "Pour un virement, regardez votre propre espace bancaire et le détail de l’opération. Ne vous fiez ni à une notification reçue par e-mail, ni à une capture d’écran de l’acheteur."
+        },
+        {
+          "title": "Remettez le bien après validation",
+          "text": "Donnez les clés, le colis, les codes de réinitialisation ou les documents définitifs seulement quand les conditions prévues sont remplies. Conservez le contrat, les échanges et la preuve de remise."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Et si le chèque est impayé ou suspect ?",
+      "id": "et-si-le-cheque-est-impaye-ou-suspect"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre banque vous informe d’un impayé, réagissez rapidement. Conservez le chèque ou les justificatifs de rejet, le contrat de vente, les messages échangés et les coordonnées de l’acheteur. Contactez votre banque pour comprendre le motif précis : défaut de provision, opposition, compte clos ou suspicion de fraude n’appellent pas exactement les mêmes démarches."
+    },
+    {
+      "type": "paragraph",
+      "html": "En cas de soupçon de faux chèque ou d’escroquerie, évitez tout contact risqué avec l’auteur présumé, signalez les faits à votre banque et déposez plainte avec l’ensemble des éléments disponibles. Si le bien n’a pas encore été remis, interrompez immédiatement la transaction. S’il s’agit d’un véhicule, prévenez sans délai les autorités compétentes et transmettez les informations utiles. Ne tentez pas de récupérer vous-même le bien auprès d’une personne inconnue."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Verdict : un outil pratique, mais pas une preuve de paiement",
+      "id": "verdict-un-outil-pratique-mais-pas-une-preuve-de-paiement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le chèque bancaire n’est sécurisé qu’à certaines conditions. Le chèque ordinaire doit être considéré comme une promesse de paiement, pas comme un paiement garanti. Le chèque de banque offre une meilleure protection, à condition de valider son authenticité par un canal indépendant et de ne pas céder à l’urgence."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une vente importante entre inconnus, le choix le plus raisonnable est souvent le virement instantané effectivement crédité sur votre compte, ou un chèque de banque vérifié en agence. Votre décision doit être proportionnée au risque : un contrôle supplémentaire est toujours préférable à une procédure de récupération longue, coûteuse et incertaine."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le chèque bancaire",
+      "items": [
+        {
+          "q": "Un chèque de banque peut-il être sans provision ?",
+          "a": "Un vrai chèque de banque est normalement émis après blocage ou prélèvement des fonds par la banque. Le risque principal pour le vendeur n’est donc pas le manque de provision, mais le <strong>faux chèque de banque</strong>. Vérifiez son émission auprès de la banque concernée avec des coordonnées trouvées indépendamment."
+        },
+        {
+          "q": "Puis-je appeler la banque de l’acheteur pour savoir si son chèque ordinaire est provisionné ?",
+          "a": "Vous ne pouvez pas compter sur cette solution. La banque est tenue au secret bancaire et ne vous donnera généralement pas le solde du compte de son client. Même une information obtenue à un instant donné ne garantirait pas que la provision sera disponible lors de la présentation du chèque."
+        },
+        {
+          "q": "Combien de temps un chèque est-il valable ?",
+          "a": "Pour un chèque émis et payable en France, la durée de validité habituellement retenue est d’un an et huit jours. Le délai normal de présentation est plus court, généralement huit jours en France métropolitaine. En pratique, déposez-le dès réception plutôt que d’attendre."
+        },
+        {
+          "q": "Puis-je remettre une voiture contre un chèque ordinaire ?",
+          "a": "C’est fortement déconseillé lorsque vous ne connaissez pas l’acheteur. Un véhicule est un bien de valeur, facile à déplacer et à revendre. Préférez un virement reçu sur votre compte ou un chèque de banque authentifié, idéalement dans l’agence qui l’émet."
+        },
+        {
+          "q": "Une photo de chèque de banque reçue avant le rendez-vous est-elle une preuve ?",
+          "a": "Non. Une image peut être retouchée, réutilisée ou correspondre à un document qui ne vous sera jamais remis. Elle peut vous permettre de préparer un appel de vérification, mais ne justifie ni l’expédition d’un bien ni sa remise."
+        },
+        {
+          "q": "Ma banque peut-elle reprendre l’argent d’un chèque déjà crédité ?",
+          "a": "Oui, si le chèque est finalement rejeté, contesté à bon droit ou identifié comme frauduleux. Le crédit affiché après dépôt n’équivaut pas nécessairement à un encaissement définitif. Pour un bien coûteux, attendez un niveau de confirmation adapté au risque avant de le remettre."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,475 @@
+{
+  "title": "Comment cultiver des plantes grasses miniatures en intérieur : techniques et conseils essentiels",
+  "slug": "comment-cultiver-des-plantes-grasses-miniatures-en-interieur-techniques-et-conseils-essentiels",
+  "path": "/divers/comment-cultiver-des-plantes-grasses-miniatures-en-interieur-techniques-et-conseils-essentiels.html",
+  "category": "maison",
+  "tags": [
+    "plantes grasses",
+    "succulentes",
+    "plantes d'intérieur",
+    "arrosage",
+    "rempotage",
+    "jardinage"
+  ],
+  "excerpt": "Lumière, arrosage, substrat et rempotage : les gestes concrets pour réussir durablement vos petites plantes grasses à la maison.",
+  "metaDescription": "Plantes grasses miniatures en intérieur : choisissez lumière, pot et substrat, dosez l’arrosage et évitez les erreurs qui les font dépérir.",
+  "seoTitle": "Plantes grasses miniatures en intérieur : le guide",
+  "heroKicker": "Mini jungle sèche",
+  "readingTime": 14,
+  "date": "2024-01-23T19:28:12",
+  "image": {
+    "id": "1450",
+    "alt": "Comment cultiver des plantes grasses miniatures en intérieur : techniques et conseils essentiels",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Les plantes grasses miniatures sont séduisantes parce qu’elles prennent peu de place et semblent faciles à vivre. Elles ne sont pourtant pas invincibles : en intérieur, le manque de lumière et les excès d’eau sont bien plus dangereux que quelques jours d’oubli. Avec un emplacement adapté, un pot percé et une routine d’arrosage raisonnée, elles peuvent rester compactes et décoratives pendant des années."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Placez vos plantes dans la <strong>zone la plus lumineuse</strong> de votre logement, idéalement près d’une fenêtre, sans les laisser cuire derrière une vitre brûlante.",
+        "Arrosez seulement lorsque le substrat est <strong>sec à cœur</strong> : une petite succulente supporte mieux un léger manque d’eau qu’un terreau constamment humide.",
+        "Utilisez impérativement un <strong>pot percé</strong> et un mélange très drainant. Le cache-pot ne doit jamais contenir d’eau stagnante.",
+        "Une plante qui s’allonge, pâlit ou perd sa forme compacte réclame généralement davantage de lumière, pas davantage d’engrais.",
+        "Évitez les terrariums fermés : leur humidité et leur faible circulation d’air conviennent rarement aux succulentes de milieu aride."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce qu’est vraiment une plante grasse miniature",
+      "id": "ce-qu-est-vraiment-une-plante-grasse-miniature"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une plante grasse, ou succulente, stocke l’eau dans ses feuilles, ses tiges ou ses racines. Ce mécanisme lui permet de traverser des périodes sèches, mais ne la rend pas adaptée à un environnement humide en permanence. Le terme <em>miniature</em> peut désigner une espèce naturellement petite, une jeune plante ou une variété à croissance lente. Une rosette de quelques centimètres n’est donc pas nécessairement faite pour vivre indéfiniment dans un pot minuscule."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la culture en appartement, les genres à feuillage compact et relativement tolérants sont souvent les plus simples : certaines haworthias, gasterias, crassulas, peperomias succulentes ou petites sansevières. Les echeverias sont très décoratives, mais elles demandent une lumière plus intense pour conserver leur rosette serrée. Les lithops, parfois appelés « pierres vivantes », sont fascinants mais nettement plus exigeants : leur cycle d’arrosage particulier en fait un mauvais premier choix."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "4 à 6 h",
+          "label": "de lumière vive quotidienne constituent un bon repère pour beaucoup de succulentes d’intérieur"
+        },
+        {
+          "value": "2 à 4 semaines",
+          "label": "peuvent séparer deux arrosages en période douce, selon la lumière, le pot et le substrat"
+        },
+        {
+          "value": "5 à 8 cm",
+          "label": "suffisent souvent comme diamètre de départ pour une très jeune plante, si le pot est percé"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir des espèces adaptées à votre intérieur",
+      "id": "choisir-des-especes-adaptees-a-votre-interieur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon achat ne se fait pas uniquement sur la taille ou la couleur. Observez l’exposition dont vous disposez, votre tendance à oublier ou au contraire à trop arroser, ainsi que la température de la pièce. Une plante vendue dans une composition très serrée ou collée dans un pot sans trou devra souvent être séparée ou replantée rapidement pour durer."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour choisir une plante grasse miniature",
+      "headers": [
+        "Type de succulente",
+        "Niveau de lumière",
+        "Tolérance à l’arrosage imparfait",
+        "Pour quel intérieur ?"
+      ],
+      "rows": [
+        [
+          "Haworthia ou gasteria",
+          "Lumière vive, soleil doux accepté",
+          "Bonne si le substrat sèche bien",
+          "Fenêtre est, ouest lumineuse, bureau proche d’une baie"
+        ],
+        [
+          "Crassula compacte",
+          "Lumière vive à soleil direct progressif",
+          "Bonne, mais sensible à l’eau stagnante",
+          "Pièce très claire et rebord de fenêtre"
+        ],
+        [
+          "Echeveria et rosettes colorées",
+          "Très forte lumière, soleil utile",
+          "Moyenne : risque de pourriture et d’étiolement",
+          "Fenêtre très lumineuse, exposition sud filtrée en été"
+        ],
+        [
+          "Peperomia à feuilles épaisses",
+          "Lumière vive indirecte",
+          "Assez bonne, avec arrosages espacés",
+          "Logement lumineux sans soleil direct prolongé"
+        ],
+        [
+          "Lithops et espèces très spécialisées",
+          "Soleil important et cycle saisonnier strict",
+          "Faible pour les débutants",
+          "Collectionneur attentif, emplacement très lumineux"
+        ]
+      ],
+      "note": "Les besoins varient selon l’espèce précise. L’étiquette botanique est plus utile que la simple mention « plante grasse »."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Méfiez-vous des compositions-cadeaux",
+      "html": "Les mini-succulentes sont souvent réunies dans des contenants décoratifs sans évacuation, avec un terreau très organique et parfois des pierres collées à la surface. C’est joli à l’achat, mais risqué. Vérifiez toujours qu’il existe un trou de drainage et que chaque plante peut sécher entre deux arrosages."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Donner assez de lumière sans brûler le feuillage",
+      "id": "donner-assez-de-lumiere-sans-bruler-le-feuillage"
+    },
+    {
+      "type": "paragraph",
+      "html": "En intérieur, la lumière est le premier facteur de réussite. Une succulente installée à plusieurs mètres d’une fenêtre reçoit beaucoup moins de lumière qu’on ne l’imagine, même dans une pièce qui paraît claire. Placez-la sur un rebord, une étagère accolée à la fenêtre ou un meuble très proche de la vitre. Tournez le pot d’un quart de tour environ chaque semaine ou toutes les deux semaines afin de conserver une silhouette régulière."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Lire les signaux envoyés par la plante",
+      "id": "lire-les-signaux-envoyes-par-la-plante"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une plante qui manque de lumière s’étiole : ses tiges s’allongent, l’espace entre les feuilles augmente, la rosette s’ouvre et elle se penche vers la fenêtre. Elle peut aussi perdre ses couleurs. À l’inverse, des plaques décolorées, beiges ou brunâtres apparues brusquement sur le côté exposé signalent souvent un coup de soleil. Une plante achetée en serre ou posée dans une pièce sombre doit être acclimatée progressivement au soleil direct, sur une à deux semaines."
+    },
+    {
+      "type": "comparison",
+      "title": "Quelle fenêtre privilégier ?",
+      "left": {
+        "title": "Fenêtre est ou ouest",
+        "points": [
+          "Lumière vive généralement plus facile à gérer.",
+          "Soleil matinal ou de fin de journée moins agressif.",
+          "Bon compromis pour la plupart des collections miniatures.",
+          "Surveillez simplement la chaleur derrière la vitre en été."
+        ]
+      },
+      "right": {
+        "title": "Fenêtre plein sud",
+        "points": [
+          "Très bonne option pour les echeverias et espèces avides de soleil.",
+          "Exposez progressivement toute nouvelle plante.",
+          "Un voilage léger peut éviter les brûlures lors des fortes chaleurs.",
+          "Arrosez avec prudence : chaleur ne signifie pas toujours croissance si la plante est stressée."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist lumière",
+      "items": [
+        "Placez la plante à moins d’un mètre d’une fenêtre ; plus près est souvent préférable.",
+        "Éloignez-la des rideaux épais, qui réduisent fortement la luminosité.",
+        "Ne la posez pas contre une vitre glaciale l’hiver ni juste au-dessus d’un radiateur.",
+        "Si aucune fenêtre n’est suffisamment lumineuse, envisagez une lampe horticole adaptée plutôt que de multiplier les arrosages."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installer le bon pot et un substrat vraiment drainant",
+      "id": "installer-le-bon-pot-et-un-substrat-vraiment-drainant"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le contenant compte autant que la plante. Un pot avec trou de drainage est non négociable : l’excédent d’eau doit pouvoir sortir. La terre cuite accélère le séchage et aide les personnes qui ont la main lourde ; le plastique retient davantage l’humidité mais reste tout à fait utilisable si le substrat est adapté et si vous arrosez avec retenue. Choisissez un pot à peine plus large que la motte : un très grand volume de terre autour de petites racines reste humide trop longtemps."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terreau universel pur est souvent trop compact pour une succulente en pot. Préférez un substrat pour cactus et plantes grasses, ou allégez un terreau de qualité avec une proportion importante de matière minérale drainante : pouzzolane fine, pierre ponce, perlite ou gravier horticole propre. L’objectif n’est pas de créer un mélange stérile, mais une structure aérée qui laisse circuler l’eau et l’air autour des racines."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle du pot percé",
+      "html": "Un lit de billes d’argile au fond d’un pot <strong>sans trou</strong> ne remplace jamais le drainage. L’eau y stagne hors de votre vue et maintient les racines dans une zone humide. Utilisez le cache-pot uniquement comme habillage, puis videz-le après chaque arrosage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Arroser au bon moment : la méthode qui évite la pourriture",
+      "id": "arroser-au-bon-moment-la-methode-qui-evite-la-pourriture"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’arrosage ne doit pas suivre un calendrier rigide. La vitesse de séchage dépend de la saison, de l’exposition, de la taille du pot, du matériau du contenant, de la ventilation et de la composition du substrat. Le bon réflexe est de vérifier l’état réel de la motte. Avec une petite plante, soulevez le pot : il est nettement plus léger lorsque le substrat est sec. Vous pouvez aussi enfoncer un bâtonnet en bois propre jusqu’au fond ; s’il ressort humide ou couvert de terre collante, attendez."
+    },
+    {
+      "type": "steps",
+      "title": "Arroser une mini-succulente sans l’asphyxier",
+      "items": [
+        {
+          "title": "Contrôlez le substrat",
+          "text": "Attendez que le mélange soit sec ou presque sec jusqu’au fond du pot. Une surface sèche ne suffit pas toujours."
+        },
+        {
+          "title": "Arrosez franchement, mais rarement",
+          "text": "Versez de l’eau à température ambiante sur le terreau, jusqu’à ce qu’un peu d’eau s’écoule par le trou. Évitez de mouiller durablement le cœur serré des rosettes."
+        },
+        {
+          "title": "Égouttez complètement",
+          "text": "Laissez le pot s’égoutter quelques minutes, puis retirez toute eau accumulée dans la soucoupe ou le cache-pot."
+        },
+        {
+          "title": "Laissez sécher avant de recommencer",
+          "text": "N’arrosez pas « par précaution ». En hiver, quand la lumière baisse et que la croissance ralentit, les besoins diminuent souvent fortement."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pourquoi les petites plantes ne boivent pas forcément peu à peu",
+      "id": "pourquoi-les-petites-plantes-ne-boivent-pas-forcement-peu-a-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le « petit peu souvent » est une erreur fréquente. Il humidifie en permanence la partie supérieure du substrat, encourage des racines superficielles et favorise les moucherons ou les moisissures. Un arrosage complet suivi d’un vrai séchage reproduit mieux l’alternance humide-sèche à laquelle la plupart des succulentes sont adaptées. La nuance importante : une bouture fraîchement plantée, une plante très affaiblie ou une espèce à cycle particulier peut demander un protocole différent."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "En cas de doute, attendez",
+      "html": "Des feuilles légèrement moins gonflées indiquent qu’il est bientôt temps d’arroser. Des feuilles molles, translucides ou qui se détachent facilement, surtout avec une terre humide, évoquent plutôt un excès d’eau. Dans ce cas, n’ajoutez pas d’eau : contrôlez les racines et le drainage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gérer température, humidité et engrais",
+      "id": "gerer-temperature-humidite-et-engrais"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des plantes grasses d’intérieur apprécient des températures de logement ordinaires, à condition d’éviter les extrêmes. Elles n’aiment ni les courants d’air glacés, ni une chaleur sèche et intense soufflée en continu par un radiateur. Une légère baisse de température la nuit, sans gel, leur convient souvent. En hiver, la combinaison d’un manque de lumière, d’une pièce fraîche et d’un substrat humide est particulièrement risquée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Inutile de vaporiser le feuillage : les succulentes originaires de zones sèches n’ont pas besoin d’humidité atmosphérique élevée et l’eau bloquée dans une rosette peut provoquer des taches ou de la pourriture. Côté nutrition, un engrais liquide très dilué, destiné aux cactus ou plantes vertes, peut être apporté pendant la période de croissance seulement. Une à quelques applications légères sur la belle saison suffisent généralement. N’engraissez jamais une plante malade, fraîchement rempotée ou peu éclairée : cela ne compensera pas un problème de culture."
+    },
+    {
+      "type": "proscons",
+      "title": "Faut-il fertiliser des plantes grasses miniatures ?",
+      "pros": [
+        "Soutient la croissance d’une plante bien installée et suffisamment éclairée.",
+        "Peut aider à maintenir la vigueur d’une plante cultivée plusieurs années dans un petit volume de substrat.",
+        "Une dose faible et ponctuelle limite le risque de carence sans pousser excessivement la croissance."
+      ],
+      "cons": [
+        "L’engrais ne corrige ni le manque de lumière ni un mauvais drainage.",
+        "Un excès favorise des tissus mous, des dépôts de sels et parfois une croissance déformée.",
+        "Les plantes récemment achetées ou rempotées n’en ont généralement pas besoin immédiatement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretenir, tailler et rempoter sans fragiliser",
+      "id": "entretenir-tailler-et-rempoter-sans-fragiliser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un entretien léger et régulier vaut mieux que des interventions fréquentes. Retirez les feuilles sèches à la base seulement lorsqu’elles se détachent sans forcer. Dépoussiérez délicatement le feuillage avec un pinceau souple : la poussière réduit la lumière captée et peut cacher des cochenilles. Ne taillez pas une rosette intacte pour la « miniaturiser » ; sa forme dépend avant tout de l’espèce et de l’éclairage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Rempotez lorsque les racines remplissent clairement le pot, que le substrat est devenu compact, que la plante bascule ou qu’elle a été achetée dans un contenant inadapté. Le printemps ou le début de la période de croissance sont souvent propices, mais une urgence sanitaire justifie une intervention à tout moment. Après avoir retiré l’ancien substrat détrempé ou dégradé, coupez uniquement les racines noires, molles ou manifestement mortes avec un outil propre. Laissez sécher les éventuelles plaies quelques heures à l’air avant de replanter dans un mélange sec."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Après un rempotage",
+      "items": [
+        "Attendez quelques jours avant le premier arrosage si des racines ont été abîmées ou coupées.",
+        "Reprenez l’exposition lumineuse progressivement si la plante a été manipulée ou déplacée.",
+        "N’utilisez pas un pot surdimensionné sous prétexte d’anticiper la croissance.",
+        "Étiquetez vos plantes : connaître l’espèce évite d’appliquer le même traitement à toutes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Diagnostiquer les problèmes les plus courants",
+      "id": "diagnostiquer-les-problemes-les-plus-courants"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne réagissez pas au premier signe en arrosant ou en fertilisant. Commencez par examiner le substrat, les racines si nécessaire, l’exposition et la présence de parasites. Plusieurs symptômes peuvent se ressembler : une feuille basse qui sèche naturellement n’a rien à voir avec une chute massive de feuilles causée par un excès d’eau."
+    },
+    {
+      "type": "table",
+      "caption": "Symptômes, causes probables et gestes utiles",
+      "headers": [
+        "Symptôme",
+        "Cause fréquente",
+        "Ce qu’il faut faire"
+      ],
+      "rows": [
+        [
+          "Tige qui s’allonge, rosette ouverte",
+          "Manque de lumière",
+          "Rapprocher progressivement de la fenêtre ; une forme déjà étirée ne redevient pas compacte, mais les nouvelles pousses peuvent s’améliorer."
+        ],
+        [
+          "Feuilles molles, jaunissantes ou translucides",
+          "Substrat trop humide, racines asphyxiées",
+          "Suspendre l’arrosage, vérifier le pot et les racines, rempoter dans un mélange sec si besoin."
+        ],
+        [
+          "Feuilles fripées et terre sèche depuis longtemps",
+          "Manque d’eau prolongé ou racines incapables d’absorber",
+          "Arroser à fond puis égoutter ; si rien ne change, inspecter les racines."
+        ],
+        [
+          "Taches brun clair côté fenêtre",
+          "Coup de soleil",
+          "Éloigner légèrement ou filtrer le soleil ; acclimater les nouvelles expositions."
+        ],
+        [
+          "Amas blancs cotonneux dans les aisselles",
+          "Cochenilles farineuses",
+          "Isoler la plante, retirer les insectes avec un coton-tige adapté, répéter les contrôles."
+        ],
+        [
+          "Petites mouches autour du pot",
+          "Terreau qui reste humide trop longtemps",
+          "Espacer les arrosages, améliorer le drainage et retirer les matières organiques détrempées."
+        ]
+      ],
+      "note": "Lors d’une pourriture avancée, il est parfois plus prudent de prélever une partie saine pour faire une bouture plutôt que de tenter de sauver toute la plante."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Composer une collection décorative sans compromettre la culture",
+      "id": "composer-une-collection-decorative-sans-compromettre-la-cult"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un bel effet sur une étagère ou un bureau, préférez plusieurs petits pots individuels regroupés dans un plateau plutôt qu’une plantation définitive de nombreuses espèces dans un même bac. Vous pourrez ainsi arroser chaque plante selon ses besoins, la déplacer vers une zone plus lumineuse et isoler rapidement un sujet malade. Harmonisez les cache-pots, pas nécessairement les conditions de culture."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les terrariums ouverts peuvent accueillir ponctuellement des succulentes si l’air circule bien et si l’arrosage est extrêmement mesuré, mais ce n’est pas leur milieu idéal. Les terrariums fermés, en revanche, conviennent davantage aux plantes aimant l’humidité. Si votre pièce est sombre ou si vous ne souhaitez aucune contrainte, une plante artificielle de bonne qualité, ou une plante d’intérieur plus tolérante à la lumière modérée, sera une alternative plus honnête qu’une succession de succulentes qui dépérissent."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir et où ne pas économiser",
+      "id": "quel-budget-prevoir-et-ou-ne-pas-economiser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencer une petite collection reste accessible. Les très jeunes plantes ou boutures coûtent généralement quelques euros, tandis que les espèces plus rares, les compositions travaillées ou les sujets déjà formés peuvent atteindre plusieurs dizaines d’euros. Le poste le plus important n’est pas forcément la plante : un bon pot percé et un substrat drainant évitent de la remplacer après quelques semaines."
+    },
+    {
+      "type": "table",
+      "caption": "Budget indicatif pour bien démarrer",
+      "headers": [
+        "Élément",
+        "Ordre de grandeur",
+        "Priorité d’achat"
+      ],
+      "rows": [
+        [
+          "Une ou deux succulentes courantes",
+          "Quelques euros à une petite dizaine d’euros par plante selon la taille",
+          "Choisir des sujets sains, non collés dans leur pot"
+        ],
+        [
+          "Pots percés et soucoupes",
+          "Petit budget par unité ; lots souvent économiques",
+          "Indispensable"
+        ],
+        [
+          "Substrat pour cactus et élément drainant",
+          "Budget modéré, utilisable pour plusieurs rempotages",
+          "Très utile dès l’installation"
+        ],
+        [
+          "Engrais spécifique",
+          "Petit budget, longue durée d’utilisation",
+          "Optionnel la première saison"
+        ],
+        [
+          "Lampe horticole",
+          "Investissement plus conséquent",
+          "À envisager seulement si la lumière naturelle est insuffisante"
+        ]
+      ],
+      "note": "N’achetez pas une plante fragile uniquement parce qu’elle est miniature. Une espèce commune, vigoureuse et adaptée à votre fenêtre donnera un résultat plus durable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui font échouer la plupart des débutants",
+      "id": "les-erreurs-qui-font-echouer-la-plupart-des-debutants"
+    },
+    {
+      "type": "paragraph",
+      "html": "La difficulté ne vient pas d’un manque de soins, mais souvent d’un excès de bonnes intentions. Arroser chaque semaine, conserver le pot dans un cache-pot rempli d’eau, éloigner la plante de la fenêtre pour décorer un coin sombre ou la rempoter trop grand sont des erreurs classiques. Une succulente ne doit pas être traitée comme une plante tropicale à feuillage tendre."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À éviter absolument",
+      "items": [
+        "Planter directement dans un contenant décoratif sans trou d’évacuation.",
+        "Arroser à date fixe sans vérifier l’humidité profonde du terreau.",
+        "Installer une echeveria colorée au fond d’une pièce peu lumineuse.",
+        "Vaporiser les rosettes ou laisser de l’eau au cœur des feuilles.",
+        "Mettre toutes les plantes grasses au même régime : leurs besoins peuvent différer sensiblement.",
+        "Retirer brutalement les feuilles, les racines ou les rejets sains lors du nettoyage."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les plantes grasses miniatures en intérieur",
+      "items": [
+        {
+          "q": "À quelle fréquence arroser une plante grasse miniature ?",
+          "a": "Il n’existe pas de fréquence universelle. Arrosez lorsque le substrat est sec jusqu’au fond du pot, puis laissez-le sécher de nouveau. En intérieur lumineux, cela peut correspondre à un rythme de quelques semaines, avec des besoins souvent moindres en hiver. La taille du pot, la saison et l’exposition priment sur le calendrier."
+        },
+        {
+          "q": "Peut-on garder une plante grasse dans un pot sans trou ?",
+          "a": "Ce n’est pas conseillé. Sans trou, l’eau excédentaire ne peut pas s’évacuer et les racines risquent de pourrir. Placez plutôt un pot de culture percé à l’intérieur du cache-pot et videz ce dernier après l’arrosage."
+        },
+        {
+          "q": "Pourquoi ma succulente devient-elle longue et maigre ?",
+          "a": "Elle manque très probablement de lumière : c’est l’étiolement. Rapprochez-la progressivement d’une fenêtre très lumineuse. La partie déjà étirée ne retrouvera pas sa forme compacte, mais la croissance future sera plus dense si l’exposition s’améliore."
+        },
+        {
+          "q": "Faut-il mettre des billes d’argile au fond du pot ?",
+          "a": "Elles ne sont pas indispensables dans un pot percé rempli d’un substrat drainant. Elles ne résolvent surtout pas le problème d’un pot sans trou. Mieux vaut investir dans un mélange aéré et un contenant correctement percé."
+        },
+        {
+          "q": "Les plantes grasses miniatures ont-elles besoin d’engrais ?",
+          "a": "Elles peuvent s’en passer pendant un certain temps, notamment après l’achat ou le rempotage. Si la plante est saine, bien éclairée et en période de croissance, un engrais très dilué appliqué ponctuellement suffit. N’en donnez pas à une plante malade ou cultivée dans une lumière insuffisante."
+        },
+        {
+          "q": "Peut-on cultiver plusieurs succulentes dans le même pot ?",
+          "a": "Oui, à condition qu’elles aient des besoins proches en lumière et en arrosage, que le contenant soit percé et que les plantes ne soient pas trop serrées. Pour un entretien plus simple et une meilleure longévité, des pots individuels réunis dans un même plateau restent souvent la solution la plus sûre."
+        }
+      ]
+    }
+  ]
+}

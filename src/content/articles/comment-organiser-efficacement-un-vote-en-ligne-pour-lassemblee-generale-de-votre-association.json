@@ -1,0 +1,435 @@
+{
+  "title": "Comment organiser efficacement un vote en ligne pour l’assemblée générale de votre association",
+  "slug": "comment-organiser-efficacement-un-vote-en-ligne-pour-lassemblee-generale-de-votre-association",
+  "path": "/divers/comment-organiser-efficacement-un-vote-en-ligne-pour-lassemblee-generale-de-votre-association.html",
+  "category": "tech",
+  "tags": [
+    "vote en ligne",
+    "assemblée générale",
+    "association",
+    "outil collaboratif",
+    "rgpd",
+    "gouvernance"
+  ],
+  "excerpt": "Statuts, quorum, secret du vote et outil : la méthode concrète pour réussir le vote en ligne de l’assemblée générale d’une association.",
+  "metaDescription": "Organisez un vote en ligne fiable pour l’AG de votre association : statuts, outil, sécurité, convocations, dépouillement et erreurs à éviter.",
+  "seoTitle": "Vote en ligne en AG d’association : mode d’emploi",
+  "heroKicker": "AG sans friction",
+  "readingTime": 12,
+  "date": "2024-06-11T16:33:40",
+  "image": {
+    "id": "1977",
+    "alt": "Comment organiser efficacement un vote en ligne pour l’assemblée générale de votre association",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le vote en ligne peut rendre l’assemblée générale de votre association plus accessible, notamment lorsque les membres sont éloignés ou peu disponibles. Mais un simple sondage envoyé par courriel ne suffit pas : pour que les décisions soient incontestables, vous devez sécuriser le cadre statutaire, l’identité des votants, le calcul du quorum et la conservation des preuves."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>Commencez par les statuts</strong> : ils déterminent qui vote, comment se réunit l’assemblée et quelles majorités s’appliquent.",
+        "Un vote électronique fiable doit permettre de <strong>vérifier l’éligibilité</strong>, éviter les doubles votes, respecter le secret lorsqu’il est requis et produire un résultat traçable.",
+        "Distinguez la <strong>consultation préparatoire</strong> d’un vote décisionnel : un formulaire simple peut servir à sonder, pas forcément à adopter valablement une résolution.",
+        "La convocation doit expliquer sans ambiguïté les modalités à distance, les échéances, les résolutions et l’assistance proposée aux membres.",
+        "Conservez les éléments de preuve : liste d’émargement, horodatages, résultats, pouvoirs et procès-verbal."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Vérifier que le vote à distance est possible dans votre association",
+      "id": "1-verifier-que-le-vote-a-distance-est-possible-dans-votre-as"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de comparer des plateformes, relisez les statuts, le règlement intérieur et les éventuelles décisions antérieures de l’association. Dans une association régie par la loi de 1901, les modalités de fonctionnement de l’assemblée générale relèvent en grande partie de ces documents. Ils précisent habituellement les membres ayant voix délibérative, les règles de convocation, le quorum, les procurations, les majorités et parfois les modalités de vote."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vos statuts prévoient seulement une réunion « en présence » ou restent silencieux sur le vote électronique, ne déduisez pas automatiquement qu’un scrutin numérique est admis. Une visioconférence avec vote en direct, un vote anticipé sur une plateforme et une consultation écrite ne produisent pas nécessairement les mêmes effets au regard de vos règles internes. En cas de doute sur une décision importante — modification statutaire, dissolution, opération patrimoniale ou conflit interne — faites relire le dispositif par une personne compétente en droit associatif."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas facilité technique et validité",
+      "html": "Un outil peut compter les clics parfaitement, sans que la délibération soit valable. Si les statuts ne permettent pas le procédé retenu, le risque est une contestation du vote. La solution la plus sûre consiste à faire adopter, selon vos règles, une modification statutaire ou une règle interne explicite <em>avant</em> l’assemblée concernée."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Points statutaires à contrôler avant de lancer le scrutin",
+      "items": [
+        "Qui a le droit de vote : adhérent à jour de cotisation, membre actif, personne morale représentée, mineur, membre d’honneur ?",
+        "Le quorum est-il calculé sur les inscrits, les présents, les représentés ou les participants à distance ?",
+        "Le vote par procuration est-il autorisé, plafonné ou interdit ?",
+        "Quelle majorité s’applique à chaque résolution : simple, absolue, qualifiée, unanimité ?",
+        "Le scrutin doit-il être secret pour l’élection des dirigeants ou dans certains cas ?",
+        "Le délai et le canal de convocation imposés sont-ils compatibles avec votre calendrier ?"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Choisir le bon format : en direct, anticipé ou hybride",
+      "id": "2-choisir-le-bon-format-en-direct-anticipe-ou-hybride"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « vote en ligne » recouvre plusieurs organisations. Votre choix dépend moins de la taille de l’association que de la nécessité de débattre, de la complexité des résolutions et du niveau de formalisme attendu. Une petite association locale peut très bien organiser une AG hybride rigoureuse ; à l’inverse, une grande structure nationale ne doit pas improviser un vote anticipé par e-mail."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux organisations courantes pour une AG numérique",
+      "left": {
+        "title": "Vote en direct pendant une visioconférence",
+        "points": [
+          "Le débat et le vote se suivent, comme lors d’une réunion physique.",
+          "Adapté aux résolutions susceptibles d’être amendées ou discutées.",
+          "Permet de constater les participants au moment du scrutin.",
+          "Exige une bonne connexion, une animation ferme et un plan B technique."
+        ]
+      },
+      "right": {
+        "title": "Vote anticipé sur une période définie",
+        "points": [
+          "Les membres votent avant une date limite, à leur rythme.",
+          "Très pratique pour des membres dispersés et des résolutions stables.",
+          "Réduit le risque d’absentéisme le jour de l’AG.",
+          "Impose de figer les textes et de définir clairement la prise en compte des votes dans le quorum."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Le format hybride combine présence physique, connexion à distance et parfois vote anticipé. C’est souvent le plus inclusif, mais aussi celui qui demande le plus de rigueur : une même personne ne doit jamais être comptée deux fois. Prévoyez un registre unique des électeurs et désignez une personne chargée de rapprocher les présences, les procurations et les votes reçus."
+    },
+    {
+      "type": "table",
+      "caption": "Quel format retenir selon votre situation ?",
+      "headers": [
+        "Situation",
+        "Format généralement adapté",
+        "Vigilance principale"
+      ],
+      "rows": [
+        [
+          "AG annuelle simple, peu de participants",
+          "Visioconférence avec vote en séance",
+          "Identifier les votants avant chaque scrutin"
+        ],
+        [
+          "Membres répartis sur plusieurs territoires",
+          "Vote anticipé ou hybride",
+          "Fixer un délai strict et une liste électorale à jour"
+        ],
+        [
+          "Élection sensible ou concurrentielle",
+          "Vote secret via outil dédié",
+          "Garantir l’anonymat tout en empêchant les doublons"
+        ],
+        [
+          "Modification des statuts ou décision majeure",
+          "Réunion avec débat et vote sécurisé",
+          "Vérifier les majorités, le quorum et le texte exact soumis"
+        ],
+        [
+          "Consultation non décisionnelle",
+          "Formulaire ou sondage simple",
+          "Annoncer clairement qu’il ne s’agit pas d’un vote statutaire"
+        ]
+      ],
+      "note": "Le format retenu doit rester compatible avec les statuts et les règles de convocation de votre association."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. Définir un cahier des charges avant de choisir l’outil",
+      "id": "3-definir-un-cahier-des-charges-avant-de-choisir-l-outil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne choisissez pas une plateforme parce qu’elle est gratuite ou connue de votre équipe. Écrivez d’abord une fiche de besoins courte : nombre d’électeurs, nombre de scrutins, nécessité du secret, vote par procuration, accès sur téléphone, export des résultats, assistance, budget et durée d’archivage. Vous éviterez de découvrir trop tard qu’un outil de réunion ne sait pas gérer les pouvoirs ou qu’un formulaire ne peut pas limiter un vote à une seule réponse fiable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une consultation indicative, un formulaire avec lien individuel peut être suffisant, sous réserve d’une gestion prudente des réponses. Pour une AG décisionnelle, préférez une solution qui authentifie chaque électeur, tient une liste d’émargement, bloque le double vote, paramètre les majorités et fournit un export exploitable. Si le scrutin doit être secret, vérifiez que l’outil sépare réellement l’identité de l’électeur du contenu de son bulletin : voir le nom associé à chaque choix n’est pas un vote secret."
+    },
+    {
+      "type": "proscons",
+      "title": "Plateforme de vote dédiée : faut-il investir ?",
+      "pros": [
+        "Authentification et unicité du vote généralement mieux gérées.",
+        "Paramétrage des scrutins, quorum, pondération éventuelle et exports plus solides.",
+        "Secret du vote possible selon la configuration.",
+        "Journalisation et preuves utiles en cas de contestation.",
+        "Assistance et accompagnement parfois disponibles pour les AG importantes."
+      ],
+      "cons": [
+        "Coût plus élevé qu’un formulaire ou une fonction de sondage intégrée.",
+        "Temps de paramétrage et de test à prévoir.",
+        "Certaines fonctions essentielles peuvent relever d’une formule supérieure.",
+        "L’outil ne corrige ni des statuts incomplets ni une liste d’adhérents erronée."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 électeur",
+          "label": "= une identité vérifiée et un seul bulletin comptabilisé"
+        },
+        {
+          "value": "2 canaux",
+          "label": "au minimum : convocation officielle et assistance aux votants"
+        },
+        {
+          "value": "3 preuves",
+          "label": "à archiver : émargement, résultats détaillés, procès-verbal"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Repère de budget",
+      "html": "Les outils de sondage ou formulaires peuvent être gratuits ou peu coûteux, mais ils sont rarement suffisants pour un scrutin sensible. Une plateforme spécialisée fonctionne souvent avec un abonnement ou une facturation par événement et par nombre de votants : prévoyez d’un budget limité pour une petite AG à un budget nettement plus conséquent lorsqu’il faut du vote secret, de l’accompagnement et une forte volumétrie. Comparez surtout les garanties incluses, pas le seul prix d’appel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. Préparer une liste électorale fiable et des résolutions sans ambiguïté",
+      "id": "4-preparer-une-liste-electorale-fiable-et-des-resolutions-sa"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des difficultés apparaissent avant l’ouverture du vote. Constituez une liste électorale arrêtée à une date donnée : nom, prénom, adresse e-mail, statut d’adhésion, droit de vote, éventuelle pondération et information sur le pouvoir détenu. Rapprochez-la du fichier des cotisations et des décisions d’adhésion. Si un membre n’est pas à jour ou si son adresse e-mail est erronée, traitez le problème avant l’AG, pas au moment du dépouillement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Rédigez ensuite chaque résolution de manière autonome. Un électeur doit pouvoir répondre « pour », « contre » ou « abstention » sans devoir interpréter une formulation floue. Évitez les questions qui mêlent plusieurs décisions, par exemple l’approbation simultanée des comptes, du budget et d’un projet. Une résolution distincte par décision donne un résultat plus lisible et simplifie le procès-verbal."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le cas particulier des procurations",
+      "id": "le-cas-particulier-des-procurations"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les procurations sont une source fréquente de double comptage. Si elles sont autorisées, fixez une date limite de réception et vérifiez le plafond éventuel de pouvoirs par mandataire. Selon la solution utilisée, le mandataire peut voter avec ses propres droits et ceux confiés, ou les pouvoirs peuvent être intégrés à une pondération. Ne partagez jamais un identifiant entre mandant et mandataire : vous perdriez toute traçabilité. Conservez les pouvoirs reçus avec les pièces de l’AG."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist des résolutions avant envoi",
+      "items": [
+        "Un titre court qui identifie la décision.",
+        "Un texte complet, identique dans la convocation et sur la plateforme.",
+        "Les documents utiles accessibles avant le vote : rapport, comptes, budget, candidature ou projet de modification.",
+        "La règle de majorité applicable, présentée en langage clair.",
+        "Les choix de réponse et le traitement prévu des abstentions, conformément à vos règles.",
+        "L’indication explicite du caractère secret ou non du scrutin."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. Convoquer, informer et accompagner les membres",
+      "id": "5-convoquer-informer-et-accompagner-les-membres"
+    },
+    {
+      "type": "paragraph",
+      "html": "La convocation n’est pas un simple message contenant un lien. Respectez d’abord le délai et le moyen d’envoi prévus par vos statuts. Puis joignez ou rendez accessibles l’ordre du jour, les rapports, les résolutions, les modalités de participation à distance, le lien de connexion ou les instructions d’activation, la période de vote, les règles de procuration et un contact d’assistance."
+    },
+    {
+      "type": "paragraph",
+      "html": "Expliquez le déroulé concret avec des mots simples. Indiquez par exemple que la salle virtuelle ouvre avant le début, que les membres devront se connecter avec l’adresse figurant dans le fichier de l’association, que les questions peuvent être posées en séance ou à l’avance, et que le vote est ouvert pendant un créneau donné. Une capture d’écran ou une fiche d’une page réduit fortement les demandes de dernière minute."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Prévenez l’exclusion numérique",
+      "html": "Proposez une solution aux membres peu à l’aise avec le numérique : permanence téléphonique avant l’AG, test de connexion, poste accompagné dans un local, ou possibilité de donner procuration si vos statuts le permettent. L’objectif n’est pas seulement d’augmenter la participation, mais de garantir un accès équitable à la vie associative."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. Sécuriser le scrutin et protéger les données personnelles",
+      "id": "6-securiser-le-scrutin-et-proteger-les-donnees-personnelles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le niveau de sécurité doit être proportionné à l’enjeu de la décision, mais certaines règles ne sont pas négociables. L’accès doit être individuel, les droits de vote doivent correspondre à la liste électorale et les administrateurs de l’outil ne doivent pas pouvoir modifier discrètement un résultat. Privilégiez un lien personnel ou une authentification individuelle plutôt qu’un lien ouvert partagé dans un groupe de discussion."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les élections nominatives, demandez-vous si le secret est imposé par vos textes ou nécessaire pour préserver la liberté de vote. Si oui, vérifiez le fonctionnement réel : l’outil doit pouvoir confirmer qu’une personne a voté sans révéler pour qui elle a voté. Désignez aussi au moins deux personnes pour superviser les opérations, idéalement sans intérêt direct dans le résultat lorsqu’un scrutin est conflictuel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les adresses e-mail, statuts d’adhésion et traces de participation sont des données personnelles. Limitez les informations importées dans l’outil au strict nécessaire, choisissez un prestataire présentant des garanties adaptées, informez les membres de l’usage de leurs données et définissez une durée de conservation raisonnable. Évitez en particulier d’envoyer à tous les adhérents un tableau contenant les coordonnées ou le statut de chacun."
+    },
+    {
+      "type": "table",
+      "caption": "Sécurité : le minimum attendu selon l’enjeu",
+      "headers": [
+        "Fonction",
+        "Consultation indicative",
+        "Vote d’AG courant",
+        "Élection ou décision sensible"
+      ],
+      "rows": [
+        [
+          "Accès",
+          "Lien de formulaire",
+          "Lien individuel ou compte identifié",
+          "Authentification renforcée adaptée à l’association"
+        ],
+        [
+          "Unicité",
+          "Contrôle manuel possible",
+          "Blocage du double vote",
+          "Blocage vérifiable et journal des opérations"
+        ],
+        [
+          "Secret",
+          "Pas indispensable si annoncé",
+          "Selon statuts et nature du vote",
+          "Indispensable si prévu ou nécessaire"
+        ],
+        [
+          "Résultats",
+          "Synthèse simple",
+          "Export par résolution et liste d’émargement",
+          "Procès-verbal, preuves techniques et supervision renforcée"
+        ],
+        [
+          "Assistance",
+          "Courriel de contact",
+          "Référent disponible pendant l’AG",
+          "Test préalable et cellule de support"
+        ]
+      ],
+      "note": "Aucune solution technique ne dispense de l’application de vos statuts et du respect des données personnelles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. Conduire l’AG, compter les voix et établir le procès-verbal",
+      "id": "7-conduire-l-ag-compter-les-voix-et-etablir-le-proces-verbal"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le jour J, ouvrez l’accès suffisamment tôt et tenez un registre des participants. Le président ou la personne qui anime l’assemblée rappelle les règles : ordre du jour, quorum, droits de parole, durée des débats, fonctionnement des pouvoirs et modalités du vote. Le secrétaire note les incidents, les départs éventuels et les décisions de procédure, car ils peuvent influer sur le quorum ou la compréhension du procès-verbal."
+    },
+    {
+      "type": "steps",
+      "title": "Déroulé opérationnel d’un vote en séance",
+      "items": [
+        {
+          "title": "Constater les participants",
+          "text": "Arrêtez ou mettez à jour la feuille d’émargement en distinguant présents, connectés à distance et représentés. Vérifiez le quorum requis avant de délibérer."
+        },
+        {
+          "title": "Présenter la résolution",
+          "text": "Affichez ou lisez le texte exact, rappelez la majorité applicable et répondez aux questions dans le cadre prévu."
+        },
+        {
+          "title": "Ouvrir le scrutin",
+          "text": "Lancez le vote pour une durée annoncée. Assurez-vous que les participants savent où voter et qu’un incident d’accès peut être signalé immédiatement."
+        },
+        {
+          "title": "Clore et contrôler",
+          "text": "Fermez le scrutin, vérifiez le nombre de votants, les blancs ou abstentions selon le paramétrage, puis appliquez la règle de majorité prévue."
+        },
+        {
+          "title": "Proclamer et consigner",
+          "text": "Annoncez le résultat de chaque résolution et inscrivez-le sans délai dans les notes destinées au procès-verbal."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne vous contentez pas d’une capture d’écran. Après l’AG, exportez les résultats par résolution, la liste des émargements, les données relatives aux pouvoirs et, si l’outil le permet, le journal des opérations. Le procès-verbal doit relater les conditions de réunion, le nombre de membres concernés par le calcul du quorum, les résolutions soumises, le résultat détaillé et les décisions adoptées ou rejetées. Faites-le signer selon les règles internes, puis communiquez les résultats aux membres dans le délai prévu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8. Les erreurs qui fragilisent le plus un vote en ligne",
+      "id": "8-les-erreurs-qui-fragilisent-le-plus-un-vote-en-ligne"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à lancer le vote sans avoir arrêté la liste des électeurs. La deuxième est de modifier une résolution après l’ouverture du scrutin : si le texte change, il faut en principe soumettre la version définitive dans des conditions régulières. Viennent ensuite les liens partagés, les boîtes mail génériques utilisées par plusieurs personnes, l’absence de test et le mélange entre présence, procuration et vote anticipé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également de promettre un « vote anonyme » alors que les administrateurs voient chaque réponse nominative, ou d’annoncer un quorum calculé sur les votants quand les statuts parlent des membres présents ou représentés. Enfin, ne négligez pas le scénario de panne : prévoyez une procédure annoncée à l’avance, par exemple une suspension temporaire, un report ou un mode de secours compatible avec vos textes."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Plan B à prévoir avant l’AG",
+      "items": [
+        "Un référent technique joignable pendant toute la séance.",
+        "Une solution de connexion de secours pour la visioconférence.",
+        "Un délai ou une règle de prolongation du vote en cas d’incident généralisé.",
+        "Une procédure de report si l’intégrité du scrutin ne peut plus être garantie.",
+        "Une méthode documentée pour traiter les demandes d’accès légitimes sans créer de double vote."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "9. Une méthode simple pour votre prochaine assemblée générale",
+      "id": "9-une-methode-simple-pour-votre-prochaine-assemblee-generale"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une première expérience, ne transformez pas toute votre gouvernance d’un coup. Commencez par un ordre du jour clair, un nombre limité de résolutions et un outil dont vous avez testé les fonctions avec quelques membres. Si vos statuts doivent évoluer, organisez d’abord la décision qui permettra de cadrer durablement la participation et le vote à distance. Vous pourrez ensuite standardiser la procédure dans un guide interne : calendrier, modèles de convocation, vérification des adhésions, gestion des pouvoirs, paramétrage et archivage."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle d’or",
+      "html": "Un bon vote en ligne repose sur quatre piliers : <strong>des règles autorisant le procédé</strong>, <strong>une liste électorale exacte</strong>, <strong>un outil proportionné à l’enjeu</strong> et <strong>des preuves conservées</strong>. Si l’un de ces éléments manque, la simplicité apparente du numérique peut devenir une source de contestation."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le vote en ligne en association",
+      "items": [
+        {
+          "q": "Une association peut-elle voter en ligne lors de son assemblée générale ?",
+          "a": "Cela dépend d’abord de ses statuts, de son règlement intérieur et des modalités régulièrement adoptées par ses instances. Vérifiez ce qu’ils autorisent en matière de réunion à distance, de consultation écrite et de vote électronique. En cas de silence ou de doute, surtout pour une décision importante, sécurisez le cadre avant de l’utiliser."
+        },
+        {
+          "q": "Un formulaire en ligne gratuit suffit-il pour une AG ?",
+          "a": "Il peut convenir à une consultation ou à un sondage préparatoire. Pour une décision statutaire, il faut au minimum pouvoir identifier les électeurs autorisés, éviter les votes multiples, conserver les résultats et respecter le secret du scrutin lorsqu’il est nécessaire. Un formulaire ouvert et anonyme ne répond généralement pas à ces exigences."
+        },
+        {
+          "q": "Comment organiser un vote secret à distance ?",
+          "a": "Utilisez une solution qui dissocie l’émargement de l’expression du vote : elle doit attester que la personne autorisée a voté, sans permettre de relier son identité au choix exprimé. Testez cette propriété avant l’AG et limitez les accès d’administration aux seules personnes nécessaires."
+        },
+        {
+          "q": "Les abstentions comptent-elles dans le résultat ?",
+          "a": "Il n’existe pas de réponse universelle. Leur effet dépend de vos statuts et de la formule de majorité applicable : majorité des suffrages exprimés, des présents, des membres composant l’assemblée ou autre règle. Indiquez ce mode de calcul avant le vote et paramétrez l’outil en conséquence."
+        },
+        {
+          "q": "Comment gérer les procurations avec un vote en ligne ?",
+          "a": "Respectez les règles statutaires sur les mandats, contrôlez leur validité et empêchez tout double compte. Le mandataire doit pouvoir exercer les droits qui lui sont confiés selon une procédure traçable, sans utiliser les identifiants du mandant. Archivez les pouvoirs avec les documents de l’AG."
+        },
+        {
+          "q": "Quels documents faut-il conserver après l’assemblée générale ?",
+          "a": "Conservez la convocation et ses pièces jointes, la liste électorale ou feuille d’émargement, les procurations, les résultats exportés pour chaque résolution, les éventuels rapports d’incident, ainsi que le procès-verbal signé. Appliquez une durée de conservation cohérente avec vos obligations internes et la protection des données personnelles."
+        }
+      ]
+    }
+  ]
+}

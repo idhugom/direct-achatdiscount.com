@@ -1,0 +1,431 @@
+{
+  "title": "Conseils pour le jardinage en hiver : optimiser son jardin durant les mois froids",
+  "slug": "conseils-pour-le-jardinage-en-hiver-optimiser-son-jardin-durant-les-mois-froids",
+  "path": "/divers/conseils-pour-le-jardinage-en-hiver-optimiser-son-jardin-durant-les-mois-froids.html",
+  "category": "maison",
+  "tags": [
+    "jardinage hiver",
+    "protéger les plantes",
+    "paillage",
+    "taille hivernale",
+    "potager hiver",
+    "entretien jardin"
+  ],
+  "excerpt": "En hiver, le jardin se protège, s’observe et se prépare. Gestes utiles, erreurs à éviter, paillage, taille, arrosage et planification du printemps.",
+  "metaDescription": "Conseils de jardinage en hiver : protéger les plantes, soigner le sol, tailler au bon moment et préparer un jardin productif au printemps.",
+  "seoTitle": "Jardinage en hiver : protéger et préparer son jardin",
+  "heroKicker": "Le jardin veille",
+  "readingTime": 12,
+  "date": "2024-01-18T10:10:14",
+  "image": {
+    "id": "1420",
+    "alt": "Conseils pour le jardinage en hiver : optimiser son jardin durant les mois froids",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "L’hiver n’est pas une saison creuse au jardin : c’est le moment de protéger ce qui doit l’être, de laisser le sol travailler et de préparer un printemps plus simple et plus généreux. Entre gel, excès d’eau, vent et manque de lumière, les bons gestes sont souvent moins nombreux qu’on ne l’imagine, mais ils doivent être faits au bon moment."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>Protégez les racines avant les parties aériennes</strong> : un paillage adapté est souvent plus utile qu’une housse posée en permanence.",
+        "<strong>N’intervenez ni sur un sol gelé ni sur une terre détrempée</strong> : vous éviteriez de casser les tiges et de tasser durablement le sol.",
+        "<strong>Arrosez avec discernement</strong> : les plantes en pot et les persistants peuvent manquer d’eau même en hiver, mais uniquement hors période de gel.",
+        "<strong>Ne taillez pas tout à l’automne ou en plein froid</strong> : certaines plantes ont besoin de leurs tiges pour se protéger et nourrir la biodiversité.",
+        "<strong>Anticipez le printemps</strong> : nettoyage raisonné, compost, inventaire des manques et plan de culture font gagner du temps dès le retour des beaux jours."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "5 à 10 cm",
+          "label": "d’épaisseur : le repère courant pour un paillage organique protecteur, à ajuster selon le matériau et la plante."
+        },
+        {
+          "value": "0 °C et moins",
+          "label": "évitez taille, transplantation et arrosage lorsque le sol ou les végétaux sont gelés."
+        },
+        {
+          "value": "Quelques heures",
+          "label": "de soleil hivernal peuvent assécher fortement les feuillages persistants et les plantes en pot exposées au vent."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre les vrais risques du jardin en hiver",
+      "id": "comprendre-les-vrais-risques-du-jardin-en-hiver"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le froid n’est pas le seul ennemi du jardin. Dans de nombreuses régions, les dégâts viennent surtout de l’alternance entre gel et dégel, de l’humidité stagnante, des vents desséchants et du poids de la neige. Une plante rustique peut supporter un épisode froid ponctuel, mais souffrir si ses racines baignent dans une terre compacte et saturée d’eau. À l’inverse, un arbuste persistant installé dans un bac peut se déshydrater en plein hiver, car ses feuilles continuent à perdre de l’eau alors que les racines peinent à en absorber dans un substrat froid ou gelé.</html>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre stratégie doit donc dépendre moins du calendrier que de la météo réelle, de votre région, de l’exposition du terrain et de la nature du sol. Un jardin abrité en ville n’exige pas les mêmes précautions qu’un terrain venteux, en altitude ou dans une zone aux hivers très humides. Avant de couvrir ou de tailler, observez : la terre colle-t-elle aux chaussures ? Le vent traverse-t-il la terrasse ? Les eaux de pluie s’accumulent-elles au pied des végétaux ? Ces indices permettent de choisir l’action utile plutôt que de multiplier les protections inutiles."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le principe d’or : protéger sans étouffer",
+      "html": "Une protection hivernale efficace laisse circuler l’air et évacue l’eau. Un voile posé ponctuellement contre un fort gel est utile ; un plastique hermétique maintenu plusieurs semaines favorise en revanche condensation, pourriture et maladies."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire un diagnostic rapide avant les grands froids",
+      "id": "faire-un-diagnostic-rapide-avant-les-grands-froids"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une demi-heure d’inspection suffit pour hiérarchiser les priorités. Commencez par les plantes récemment installées, les végétaux en pot, les espèces peu rustiques et les sujets exposés au vent. Les végétaux installés depuis plusieurs années dans un sol adapté sont généralement plus autonomes que les jeunes plantations : inutile de les emballer systématiquement.</html>"
+    },
+    {
+      "type": "steps",
+      "title": "Le tour du jardin en 5 étapes",
+      "items": [
+        {
+          "title": "Repérez les végétaux fragiles",
+          "text": "Identifiez les plantes méditerranéennes, exotiques, agrumes, succulentes peu rustiques, jeunes arbres, vivaces nouvellement plantées et plantes de terrasse. Vérifiez aussi les étiquettes ou fiches de culture si vous connaissez mal leur résistance au froid."
+        },
+        {
+          "title": "Examinez le drainage",
+          "text": "Après une pluie, localisez les zones où l’eau reste plus d’une journée en surface. Dégagez les évacuations, videz les soucoupes et surélevez les pots qui trempent dans l’eau."
+        },
+        {
+          "title": "Contrôlez les tuteurs et liens",
+          "text": "Un tuteur mal fixé ou un lien trop serré peut blesser un jeune tronc sous l’effet du vent. Serrez sans étrangler et remplacez les attaches rigides par des liens souples."
+        },
+        {
+          "title": "Ramassez les foyers de maladie",
+          "text": "Retirez les fruits momifiés, les feuilles franchement malades et les parties pourries. Ne les ajoutez pas au compost domestique si vous suspectez une maladie persistante."
+        },
+        {
+          "title": "Préparez le matériel utile",
+          "text": "Gardez à portée de main paillage, voiles d’hivernage, cales pour pots, sécateur propre, balai, étiquettes et voile de protection pour les épisodes annoncés."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Protéger le sol, les racines et les plantes sensibles",
+      "id": "proteger-le-sol-les-racines-et-les-plantes-sensibles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le sol est votre meilleur allié durant les mois froids. Il abrite les racines, les micro-organismes et une grande partie de la vie utile du jardin. Le couvrir limite l’impact direct des pluies, réduit les écarts de température et freine la pousse des adventices. Une terre nue, retournée profondément avant l’hiver, se tasse plus facilement et perd sa structure sous les pluies répétées. Préférez une couverture organique et un travail du sol limité.</html>"
+    },
+    {
+      "type": "table",
+      "caption": "Choisir une protection hivernale selon le besoin",
+      "headers": [
+        "Solution",
+        "Pour quels usages ?",
+        "Atouts",
+        "Vigilances"
+      ],
+      "rows": [
+        [
+          "Paillage organique : feuilles saines, broyat, paille, compost mûr",
+          "Massifs, pieds d’arbustes, vivaces, potager inoccupé",
+          "Nourrit le sol, limite les chocs thermiques, économique",
+          "Écartez-le de quelques centimètres des collets et troncs ; évitez les feuilles malades."
+        ],
+        [
+          "Voile d’hivernage respirant",
+          "Plantes peu rustiques, gel ponctuel, feuillages sensibles",
+          "Léger, facile à poser, laisse passer air et lumière",
+          "Retirez ou aérez dès le redoux ; ne le laissez pas plaqué sur une plante humide."
+        ],
+        [
+          "Housse ou écran coupe-vent",
+          "Pots fragiles, terrasse exposée, plantes persistantes",
+          "Réduit l’effet desséchant du vent",
+          "Ne remplace pas une protection des racines ; bannissez les enveloppes étanches."
+        ],
+        [
+          "Pot surélevé et isolé",
+          "Agrumes, arbustes en bac, plantes de balcon",
+          "Évite l’eau stagnante et le contact direct avec un sol gelé",
+          "Isolez aussi les parois du pot si le froid est marqué, sans bloquer le drainage."
+        ],
+        [
+          "Châssis ou tunnel aéré",
+          "Salades, jeunes cultures, potager d’hiver",
+          "Protège du gel léger et des pluies battantes",
+          "Ventilez aux heures douces pour limiter condensation et maladies."
+        ]
+      ],
+      "note": "Les matériaux disponibles localement et les feuilles saines de votre jardin sont souvent les solutions les plus sobres et les plus efficaces."
+    },
+    {
+      "type": "comparison",
+      "title": "Paillage ou voile d’hivernage : ne leur demandez pas le même travail",
+      "left": {
+        "title": "Le paillage protège surtout le sol",
+        "points": [
+          "Il isole <strong>les racines</strong> et limite les variations de température.",
+          "Il convient aux vivaces, arbustes et parcelles du potager.",
+          "Il améliore progressivement la structure du sol s’il est organique.",
+          "Il ne protège pas les feuilles d’un gel intense ou d’un vent desséchant."
+        ]
+      },
+      "right": {
+        "title": "Le voile protège surtout les parties aériennes",
+        "points": [
+          "Il atténue l’effet d’un <strong>gel ponctuel</strong> sur feuillages et jeunes pousses.",
+          "Il se pose de préférence juste avant un épisode froid annoncé.",
+          "Il doit rester respirant, non hermétique et ne pas comprimer la plante.",
+          "Il ne dispense pas de pailler ni de drainer correctement le pied."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pailler correctement sans provoquer de pourriture",
+      "id": "pailler-correctement-sans-provoquer-de-pourriture"
+    },
+    {
+      "type": "paragraph",
+      "html": "Étalez une couche aérée d’environ 5 à 10 cm autour des plantations, en adaptant l’épaisseur au matériau. Les feuilles mortes saines et déchiquetées se tassent davantage que le broyat ; la paille est légère mais peut abriter des limaces au printemps. Gardez toujours un cercle dégagé autour de la base des plantes : collet, couronne des vivaces et tronc doivent respirer. Cette précaution est particulièrement importante pour les lavandes, rosiers, graminées et plantes sensibles à l’humidité hivernale.</html>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Mettre les plantes en pot à l’abri des extrêmes",
+      "id": "mettre-les-plantes-en-pot-a-l-abri-des-extremes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les racines d’une plante en pot sont bien moins protégées que celles d’une plante en pleine terre. Regroupez les bacs près d’un mur, idéalement lumineux et abrité des vents dominants. Surélevez-les sur des cales, des pieds ou une grille afin que l’eau s’évacue. Vous pouvez isoler les parois avec une matière respirante ou un matériau de récupération, mais ne bouchez jamais les trous de drainage. Les plantes véritablement gélives doivent être rentrées dans un espace lumineux, frais et hors gel ; un intérieur chauffé est rarement adapté à leur repos végétatif.</html>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tailler, nettoyer et laisser vivre : le bon équilibre",
+      "id": "tailler-nettoyer-et-laisser-vivre-le-bon-equilibre"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’hiver est une période de taille pour certains arbres et arbustes caducs, mais pas une invitation à tout rabattre. La taille stimule parfois une reprise que le gel peut endommager ; elle crée aussi des plaies vulnérables lorsque le temps est très froid ou très humide. Réservez vos interventions aux journées sèches, hors gel, avec un sécateur propre et bien affûté. Retirez d’abord le bois mort, les branches cassées, celles qui se croisent et les fruits desséchés restés dans les arbres.</html>"
+    },
+    {
+      "type": "proscons",
+      "title": "Nettoyage hivernal : jusqu’où aller ?",
+      "pros": [
+        "Retirer les feuilles et fruits malades limite la propagation de certaines maladies.",
+        "Éclaircir une ramure encombrée améliore l’aération et facilite les travaux ultérieurs.",
+        "Conserver des allées dégagées réduit les risques de glissade et facilite l’observation du jardin."
+      ],
+      "cons": [
+        "Rabattre toutes les vivaces enlève un refuge à de nombreux auxiliaires et prive le jardin de silhouettes décoratives sous le givre.",
+        "Tailler pendant une forte gelée peut fragiliser les tissus et provoquer des cassures.",
+        "Un nettoyage trop méticuleux laisse le sol nu, plus exposé à l’érosion et au tassement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ce que vous pouvez généralement faire",
+      "id": "ce-que-vous-pouvez-generalement-faire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez supprimer les tiges molles, noircies ou malades des plantes herbacées, sans raser les touffes saines. Les graminées, sédums, achillées et nombreuses vivaces peuvent garder leurs tiges sèches jusqu’à la fin de l’hiver : elles protègent le cœur de la plante et offrent un abri à la petite faune. Sur les arbres fruitiers à pépins et certains arbustes caducs, une taille de structure peut être envisagée durant le repos végétatif, à condition de connaître les besoins de l’espèce.</html>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ce qu’il vaut mieux reporter",
+      "id": "ce-qu-il-vaut-mieux-reporter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez de tailler fortement les arbustes à floraison printanière : leurs boutons sont souvent déjà formés sur le bois de l’année précédente. Attendez également la fin des risques de gel pour rabattre les plantes méditerranéennes et les vivaces sensibles. Enfin, ne tentez pas de réparer une branche cassée lorsque le bois est gelé : coupez proprement plus tard, dès le retour de conditions plus favorables.</html>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Arroser, ventiler et prévenir les maladies d’hiver",
+      "id": "arroser-ventiler-et-prevenir-les-maladies-d-hiver"
+    },
+    {
+      "type": "paragraph",
+      "html": "La pluie ne remplace pas toujours l’arrosage. Sous un avant-toit, en bac, dans une serre froide ou contre un mur, certaines plantes reçoivent très peu d’eau. Les persistants, les conifères, les rhododendrons et les jeunes plantations peuvent souffrir de sécheresse hivernale, notamment par temps froid et venteux. Vérifiez le substrat sous la surface : s’il est sec sur plusieurs centimètres et qu’aucun gel n’est attendu à court terme, arrosez modérément au pied, de préférence le matin.</html>"
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Jamais d’arrosage sur sol gelé",
+      "html": "L’eau ne pénètre pas correctement dans une terre gelée et peut accentuer les dégâts lorsque les températures baissent. Attendez le dégel, puis contrôlez l’humidité avant d’arroser. En pot, videz les soucoupes après une forte pluie pour éviter l’asphyxie des racines."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’humidité confinée est un autre danger, surtout sous tunnel, châssis, voile ou dans une serre. Ouvrez ces protections lors des journées sèches et douces, même en hiver. Cette ventilation réduit la condensation, limite les moisissures et renforce progressivement les plants. Inspectez régulièrement les bulbes, tubercules ou plantes hivernées à l’abri : ôtez sans attendre ceux qui sont mous, tachés ou moisis afin de préserver les autres.</html>"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les contrôles utiles après une pluie, un gel ou une tempête",
+      "items": [
+        "Videz les soucoupes, cache-pots et récipients où l’eau s’accumule.",
+        "Redressez les voiles, tuteurs et protections déplacés par le vent.",
+        "Secouez doucement la neige lourde sur les rameaux fragiles si elle risque de les casser.",
+        "Vérifiez que le paillage ne recouvre pas le collet des plantes.",
+        "Aérez serre, châssis et tunnels dès que l’air extérieur est suffisamment doux et sec.",
+        "Retirez les branches fendue ou dangereuses, sans engager de travaux risqués en hauteur."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "S’occuper du potager sans épuiser la terre",
+      "id": "s-occuper-du-potager-sans-epuiser-la-terre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un potager d’hiver n’a pas besoin d’être nu ni retourné. Les parcelles libres gagnent à être couvertes par des feuilles saines, du compost mûr, du broyat ou, mieux encore, par un engrais vert semé assez tôt à l’automne. Cette couverture protège les organismes du sol et évite que les pluies ne lessivent la surface. Si vous devez ameublir une zone argileuse, attendez qu’elle ne colle plus aux outils : travailler une terre gorgée d’eau détruit ses agrégats et crée des mottes compactes difficiles à rattraper.</html>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez encore récolter ou maintenir des cultures adaptées selon votre climat : poireaux, choux, mâche, épinards, salades rustiques, certains aromatiques ou légumes racines. Sous une protection légère et ventilée, les récoltes sont mieux préservées des intempéries. Toutefois, la croissance est lente faute de lumière et de chaleur : ne forcez pas avec des apports d’engrais. Le rôle de l’hiver est surtout de préserver les plantes et le sol, non d’obtenir une production accélérée.</html>"
+    },
+    {
+      "type": "table",
+      "caption": "Priorités au potager selon votre situation",
+      "headers": [
+        "Situation",
+        "Action recommandée",
+        "À éviter",
+        "Bénéfice attendu"
+      ],
+      "rows": [
+        [
+          "Parcelle vide",
+          "Couvrir avec paillage, compost mûr ou engrais vert déjà en place",
+          "Laisser la terre nue tout l’hiver",
+          "Moins d’érosion, sol plus vivant au printemps"
+        ],
+        [
+          "Sol lourd et humide",
+          "Créer des passages, drainer les zones ponctuellement gorgées, ne travailler qu’au ressuyage",
+          "Bêcher profondément après la pluie",
+          "Préserver la structure et éviter le tassement"
+        ],
+        [
+          "Cultures sous abri",
+          "Aérer régulièrement et arroser peu mais au pied si nécessaire",
+          "Fermer hermétiquement pendant des semaines",
+          "Réduire condensation et maladies"
+        ],
+        [
+          "Récoltes en place",
+          "Pailler les pieds et protéger ponctuellement lors d’un gel sévère",
+          "Couvrir sans jamais contrôler l’humidité",
+          "Récoltes plus régulières et moins de pertes"
+        ]
+      ],
+      "note": "Le meilleur calendrier reste celui de votre microclimat : observez les gelées, la durée d’ensoleillement et l’humidité de chaque parcelle."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer le printemps : le travail le plus rentable de l’hiver",
+      "id": "preparer-le-printemps-le-travail-le-plus-rentable-de-l-hiver"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les journées froides sont idéales pour planifier plutôt que pour multiplier les travaux physiques. Faites l’inventaire de ce qui a réussi, de ce qui a dépéri et des zones les plus sèches ou les plus humides. Photographier les massifs en hiver est particulièrement utile : la structure du jardin apparaît sans le feuillage, ce qui permet de repérer les vides, les accès mal placés et les végétaux devenus trop volumineux.</html>"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est aussi le bon moment pour trier les graines, vérifier leur date de récolte ou de conditionnement, nettoyer les godets et réparer les bordures. Si vous souhaitez semer tôt, préparez des contenants propres et un substrat adapté, mais attendez d’avoir une source de lumière suffisante : des semis lancés trop tôt dans une pièce sombre filent, s’affaiblissent et demandent davantage de soins qu’ils n’en rapportent.</html>"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "title": "Un plan simple pour un jardin plus facile au printemps",
+      "items": [
+        "Dessinez sommairement vos parcelles et notez l’ensoleillement observé l’année précédente.",
+        "Listez les cultures ou plantations à renouveler, en séparant les besoins indispensables des envies.",
+        "Prévoyez une rotation au potager : ne replacez pas systématiquement une même famille de légumes au même endroit.",
+        "Réservez un espace pour le compost, le stockage du paillage et les outils afin de limiter les allers-retours.",
+        "Commandez ou récupérez seulement ce que vous pourrez planter, arroser et entretenir correctement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, matériel et gestes de sécurité : investir juste",
+      "id": "budget-materiel-et-gestes-de-securite-investir-juste"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le jardinage d’hiver peut rester très économique. Les feuilles saines, brindilles broyées et compost du jardin constituent souvent une excellente base de paillage. Pour compléter, prévoyez un budget allant de quelques euros à quelques dizaines d’euros selon la surface et le nombre de plantes fragiles : voile respirant, liens souples, cales pour pots et petit matériel de nettoyage suffisent dans la plupart des jardins. Les dépenses plus importantes concernent plutôt une serre, un châssis, des bacs isolés ou des plantes gélives à hiverner ; elles ne sont pertinentes que si votre usage est régulier.</html>"
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Achetez selon votre problème réel",
+      "html": "Avant d’investir dans une serre ou des housses en série, identifiez la contrainte dominante : <strong>gel</strong>, <strong>vent</strong>, <strong>excès d’eau</strong> ou <strong>manque d’espace</strong>. Un pot simplement surélevé et rapproché d’un mur peut résoudre plus de problèmes qu’une protection coûteuse mal utilisée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté sécurité, rangez les outils après usage, surtout les sécateurs et scies. Travaillez avec des gants pour manipuler épineux, bois humide et matériaux de paillage. Ne montez pas sur une échelle sur sol gras, gelé ou instable pour tailler un arbre : les travaux de hauteur et les branches lourdes justifient l’intervention d’un professionnel. Enfin, ne brûlez pas les déchets verts sans connaître les règles locales ; compostage, broyage et déchèterie sont généralement des solutions plus propres et plus utiles.</html>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs fréquentes qui fragilisent le jardin",
+      "id": "les-erreurs-frequentes-qui-fragilisent-le-jardin"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à confondre protection et enfermement. Une plante recouverte de plastique ou maintenue sous une housse humide peut pourrir plus vite qu’elle ne gèle. La deuxième est de surarroser : des racines asphyxiées résistent mal au froid. La troisième est de vouloir « faire propre » en supprimant toute matière végétale. Un jardin un peu vivant en hiver, avec paillage, tiges sèches choisies et quelques feuilles au sol, est souvent un jardin mieux protégé.</html>"
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez aussi les engrais azotés en fin d’automne et en hiver : ils encouragent des pousses tendres peu adaptées au froid. Ne répandez pas non plus de sel de déneigement près des plantations ; ses projections brûlent les racines et le feuillage. Pour sécuriser une allée, préférez le déneigement manuel, des granulats adaptés ou des solutions compatibles avec vos plantations. Enfin, résistez à la tentation de traiter préventivement à tout-va : l’observation, le retrait des parties malades et l’aération règlent une grande part des problèmes hivernaux.</html>"
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le jardinage en hiver",
+      "items": [
+        {
+          "q": "Faut-il couvrir toutes les plantes en hiver ?",
+          "a": "Non. Couvrez prioritairement les plantes peu rustiques, jeunes, en pot ou très exposées au vent. Les végétaux rustiques déjà bien installés ont surtout besoin d’un sol drainé et, si nécessaire, d’un paillage au pied. Une couverture permanente et étanche est plus nuisible qu’utile."
+        },
+        {
+          "q": "Peut-on mettre des feuilles mortes dans les massifs ?",
+          "a": "Oui, si elles sont saines. Elles constituent un excellent paillage lorsqu’elles sont réparties en couche aérée, idéalement légèrement déchiquetées. Évitez les feuilles portant des signes de maladie et dégagez le collet des plantes afin de limiter les risques de pourriture."
+        },
+        {
+          "q": "Dois-je arroser mes plantes en pot pendant l’hiver ?",
+          "a": "Oui, mais peu et seulement lorsque le substrat a séché en profondeur, qu’il ne gèle pas et qu’aucun gel marqué n’est imminent. Les persistants et les plantes placées sous un abri de pluie sont les premiers à surveiller. Videz toujours les soucoupes après l’arrosage ou les fortes pluies."
+        },
+        {
+          "q": "Quand tailler les rosiers et les arbres fruitiers ?",
+          "a": "Le bon moment varie selon l’espèce, le climat et le type de floraison ou de fructification. En règle générale, retirez le bois mort en période calme et hors gel, puis réalisez les tailles plus structurantes au moment adapté à chaque plante. Ne taillez pas fortement un arbuste qui doit fleurir au printemps sur le bois formé l’année précédente."
+        },
+        {
+          "q": "Faut-il bêcher le potager avant l’hiver ?",
+          "a": "Ce n’est pas indispensable, et c’est souvent déconseillé sur un sol lourd ou humide. Couvrez plutôt la parcelle avec du paillage ou du compost mûr. Au printemps, vous interviendrez lorsque le sol sera ressuyé, avec un ameublissement limité qui préservera mieux sa structure."
+        },
+        {
+          "q": "Comment protéger une plante en bac du gel ?",
+          "a": "Rapprochez le pot d’un mur abrité, surélevez-le pour assurer le drainage, isolez si besoin les parois et paillez la surface du substrat. Ajoutez un voile respirant uniquement lors d’un épisode froid prononcé. Si la plante est gélive, hivernez-la dans un lieu lumineux, frais et hors gel."
+        }
+      ]
+    }
+  ]
+}

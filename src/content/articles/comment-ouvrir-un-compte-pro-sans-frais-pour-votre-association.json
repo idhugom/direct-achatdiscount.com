@@ -1,0 +1,464 @@
+{
+  "title": "Comment ouvrir un compte pro sans frais pour votre association ?",
+  "slug": "comment-ouvrir-un-compte-pro-sans-frais-pour-votre-association",
+  "path": "/divers/comment-ouvrir-un-compte-pro-sans-frais-pour-votre-association.html",
+  "category": "argent",
+  "tags": [
+    "compte association",
+    "compte pro gratuit",
+    "banque en ligne",
+    "trésorerie associative",
+    "loi 1901",
+    "frais bancaires"
+  ],
+  "excerpt": "Les étapes, justificatifs et critères pour choisir un compte associatif réellement adapté, gratuit ou à coût maîtrisé, sans négliger la sécurité.",
+  "metaDescription": "Ouvrez un compte pour votre association sans frais inutiles : documents, choix entre banque et fintech, pièges tarifaires et sécurité des fonds.",
+  "seoTitle": "Compte pro associatif sans frais : comment l’ouvrir ?",
+  "heroKicker": "Finances associatives",
+  "readingTime": 11,
+  "date": "2024-05-02T07:43:08",
+  "image": {
+    "id": "1831",
+    "alt": "Comment ouvrir un compte pro sans frais pour votre association ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un compte dédié n’est pas toujours obligatoire pour une association, mais il devient vite indispensable dès que vous encaissez des cotisations, recevez des subventions ou réglez des dépenses collectives. Pour l’ouvrir sans frais inutiles, ne vous fiez pas à la seule promesse de gratuité : vérifiez les services inclus, les limites et le statut de l’établissement."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Une association loi 1901 n’est généralement pas tenue d’avoir un compte bancaire, mais un compte séparé est fortement recommandé pour une gestion transparente.",
+        "Un compte « sans frais » peut exclure la carte, les dépôts d’espèces, les virements internationaux, l’encaissement de chèques ou l’assistance.",
+        "Préparez surtout les statuts, le procès-verbal désignant les mandataires et les pièces d’identité des personnes habilitées.",
+        "Choisissez la solution selon vos flux réels : cotisations en ligne, chèques, espèces, subventions, paiements par carte ou besoins de plusieurs accès.",
+        "Avant de signer, vérifiez la protection des fonds, les frais hors forfait et la procédure de sortie ou de changement de compte."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 compte dédié",
+          "label": "suffit généralement pour séparer les fonds de l’association de ceux des bénévoles"
+        },
+        {
+          "value": "0 € / mois",
+          "label": "est possible sur certaines offres, souvent avec des services et volumes limités"
+        },
+        {
+          "value": "2 mandataires",
+          "label": "peuvent constituer un bon minimum de contrôle pour les dépenses sensibles"
+        },
+        {
+          "value": "5 à 8 pièces",
+          "label": "sont couramment demandées pour constituer un dossier complet"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Compte pro, compte associatif : est-ce vraiment obligatoire ?",
+      "id": "compte-pro-compte-associatif-est-ce-vraiment-obligatoire"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression <strong>« compte pro »</strong> est largement utilisée par les banques, mais une association n’est pas une entreprise. Vous cherchez en pratique un <strong>compte de paiement ou compte bancaire au nom de l’association</strong>, avec des personnes autorisées à l’utiliser. Pour la plupart des associations loi 1901, aucune règle générale n’impose l’ouverture d’un tel compte. Il est toutefois très difficile de s’en passer dès que l’activité génère des mouvements d’argent réguliers."
+    },
+    {
+      "type": "paragraph",
+      "html": "Utiliser le compte personnel du président ou du trésorier mélange les patrimoines, brouille la comptabilité et fragilise la confiance des adhérents. Cela complique aussi le passage de relais entre bénévoles, la justification d’une subvention, les remboursements de frais et le contrôle interne. Un compte dédié crée une séparation simple, lisible et pérenne."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe dès les premiers encaissements",
+      "html": "Ouvrez un compte au nom exact figurant dans les statuts et sur le récépissé de déclaration. Les cotisations, dons, subventions et dépenses de l’association doivent y transiter autant que possible. Conservez les décisions autorisant les personnes à signer ou à effectuer des paiements."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Un compte dédié est particulièrement nécessaire si vous…",
+      "items": [
+        "percevez des cotisations, des dons ou des recettes d’événements ;",
+        "sollicitez une subvention publique ou privée ;",
+        "employez un salarié, indemnisez des intervenants ou remboursez des bénévoles ;",
+        "encaissez des paiements par carte, virement ou prélèvement ;",
+        "devez présenter des comptes aux membres, partenaires, financeurs ou autorités compétentes ;",
+        "gérez un patrimoine, du matériel coûteux ou des budgets de projet."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que recouvre réellement une offre « sans frais »",
+      "id": "ce-que-recouvre-reellement-une-offre-sans-frais"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une offre gratuite peut être une excellente solution pour une petite association, à condition de comprendre ce qui est gratuit. Le plus souvent, l’absence de cotisation mensuelle concerne la tenue du compte et un nombre donné de virements. Les opérations moins fréquentes ou plus coûteuses à traiter peuvent rester facturées : carte supplémentaire, retraits, dépôt d’espèces, remise de chèques, virements hors zone euro, prélèvements, terminal de paiement, changement de mandataire ou incidents."
+    },
+    {
+      "type": "paragraph",
+      "html": "Lisez donc la grille tarifaire et les conditions générales avant de transmettre vos pièces. Ne vous limitez pas à la page commerciale : recherchez les rubriques <em>tarifs</em>, <em>services inclus</em>, <em>opérations exceptionnelles</em>, <em>plafonds</em> et <em>clôture</em>. Une formule à zéro euro peut devenir moins intéressante qu’une offre modérément payante si votre association encaisse chaque semaine des chèques ou de la monnaie."
+    },
+    {
+      "type": "table",
+      "caption": "Les points à comparer derrière la promesse de gratuité",
+      "headers": [
+        "Poste à vérifier",
+        "Souvent inclus dans une offre gratuite",
+        "Vigilance concrète"
+      ],
+      "rows": [
+        [
+          "Tenue du compte",
+          "Souvent oui",
+          "Gratuité parfois conditionnée à un usage minimal ou à un solde particulier"
+        ],
+        [
+          "Virements SEPA",
+          "Souvent inclus dans une limite d’usage raisonnable",
+          "Contrôlez les plafonds, les virements instantanés et l’ajout de bénéficiaires"
+        ],
+        [
+          "Carte de paiement",
+          "Parfois une carte virtuelle ou physique",
+          "Une seconde carte, les retraits ou une carte à autorisation renforcée peuvent être payants"
+        ],
+        [
+          "Encaissement de chèques",
+          "Très variable",
+          "Certaines solutions 100 % en ligne ne les acceptent pas ou imposent un traitement spécifique"
+        ],
+        [
+          "Dépôt d’espèces",
+          "Rarement simple ou inclus",
+          "Point décisif pour une buvette, une billetterie physique ou une collecte locale"
+        ],
+        [
+          "Paiement en ligne",
+          "Possible via un prestataire séparé",
+          "Ajoutez les commissions par transaction et les frais de rétrofacturation"
+        ],
+        [
+          "Assistance et garanties",
+          "Accès numérique généralement inclus",
+          "Vérifiez la disponibilité d’un interlocuteur en cas de blocage ou de changement d’équipe"
+        ],
+        [
+          "Incidents et services exceptionnels",
+          "Généralement hors forfait",
+          "Opposition, rejet, recherche, virement international ou saisie peuvent coûter nettement plus cher"
+        ]
+      ],
+      "note": "Les conditions évoluent selon les établissements. Demandez toujours la documentation tarifaire applicable à votre formule avant l’ouverture."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Banque traditionnelle, banque en ligne ou établissement de paiement : quelle solution choisir ?",
+      "id": "banque-traditionnelle-banque-en-ligne-ou-etablissement-de-pa"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas un meilleur compte pour toutes les associations. Le bon choix dépend d’abord de la manière dont l’argent entre et sort. Une association de quartier qui collecte des espèces et des chèques n’a pas les mêmes besoins qu’un club dont les adhérents paient par virement, ou qu’une structure qui vend des inscriptions en ligne."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux approches fréquentes pour une association",
+      "left": {
+        "title": "Banque avec réseau d’agences",
+        "points": [
+          "Plus adaptée aux remises de chèques et, selon les réseaux, aux dépôts d’espèces.",
+          "Possibilité d’accompagnement humain, utile lors d’un changement de bureau ou d’un financement complexe.",
+          "Services parfois plus complets : chéquier, prélèvements, autorisations, financement ou produits d’épargne selon l’éligibilité.",
+          "Tarification souvent moins lisible ou plus élevée sur les services courants."
+        ]
+      },
+      "right": {
+        "title": "Solution en ligne ou établissement de paiement",
+        "points": [
+          "Ouverture et gestion généralement plus rapides, avec tableau de bord partagé et justificatifs numériques.",
+          "Coût mensuel parfois nul ou faible pour des flux simples, notamment les virements SEPA.",
+          "Souvent pratique pour les cotisations dématérialisées, cartes à plafonds et validation des dépenses.",
+          "Dépôts de cash, chèques, découvert autorisé et accompagnement local peuvent être absents ou limités."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Un établissement de paiement n’est pas nécessairement une banque. Il peut fournir un IBAN et les services de paiement nécessaires, mais les fonds sont en principe <strong>cantonnés ou protégés selon le régime applicable</strong>, et non couverts de la même façon qu’un dépôt bancaire par le mécanisme de garantie des dépôts. Cela ne signifie pas qu’il est inadapté : cela signifie que vous devez comprendre son statut, les protections prévues et les services indisponibles, notamment le crédit ou le découvert."
+    },
+    {
+      "type": "proscons",
+      "title": "Une solution en ligne gratuite : pertinente dans quels cas ?",
+      "pros": [
+        "Très adaptée si les cotisations arrivent par virement, carte ou lien de paiement.",
+        "Réduit les frais fixes d’une petite structure aux opérations simples.",
+        "Facilite le partage des accès, les exports comptables et la conservation des justificatifs.",
+        "Évite souvent les déplacements et accélère le suivi quotidien de trésorerie."
+      ],
+      "cons": [
+        "Peut être peu pratique, voire inutilisable, en cas de recettes importantes en espèces.",
+        "L’encaissement de chèques peut être absent, lent ou payant.",
+        "Les contrôles de conformité peuvent entraîner une demande de documents complémentaires ou une suspension temporaire de certaines opérations.",
+        "Le support à distance exige une organisation rigoureuse et des mandataires réactifs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Définir vos besoins avant de comparer les offres",
+      "id": "definir-vos-besoins-avant-de-comparer-les-offres"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne partez pas de l’offre la moins chère : partez de vos flux. Prenez les relevés ou le budget prévisionnel de l’association et identifiez, sur une année complète, les encaissements et les dépenses. Une activité saisonnière peut notamment nécessiter des plafonds de carte ou de virement plus élevés à certaines périodes."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La grille de besoins à remplir en bureau",
+      "items": [
+        "Combien de cotisations, dons ou ventes encaissez-vous chaque mois, et par quels moyens ?",
+        "Recevez-vous des chèques, des espèces, des virements ou des paiements par carte ?",
+        "Avez-vous besoin de prélever des adhérents ou seulement d’encaisser des virements ?",
+        "Qui doit consulter le compte, qui peut payer et qui doit valider les dépenses ?",
+        "Faut-il une ou plusieurs cartes, avec des plafonds séparés pour des responsables d’activité ?",
+        "Quels montants maximums transitent sur le compte pendant les inscriptions, un événement ou le versement d’une subvention ?",
+        "Avez-vous besoin d’un export pour votre logiciel comptable ou pour le trésorier ?",
+        "Un découvert, un chéquier, des remises de chèques ou des dépôts d’espèces sont-ils indispensables ?"
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Calculez le coût total, pas seulement l’abonnement",
+      "html": "Additionnez les frais réellement probables sur douze mois : formule du compte, cartes, commissions de paiement en ligne, remise de chèques, retraits, virements spécifiques et options. Pour une association qui encaisse du cash, une solution gratuite sans dépôt d’espèces peut générer du temps perdu, des avances personnelles et un risque de gestion bien supérieur à l’économie réalisée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les documents à réunir pour ouvrir le compte de l’association",
+      "id": "les-documents-a-reunir-pour-ouvrir-le-compte-de-l-associatio"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les exigences varient selon l’établissement et l’ancienneté de l’association, mais la logique est constante : il doit identifier l’association, vérifier l’identité de ses représentants et comprendre l’objet de son activité. Un dossier ordonné évite les aller-retours et accélère l’ouverture."
+    },
+    {
+      "type": "table",
+      "caption": "Dossier d’ouverture : les justificatifs habituellement demandés",
+      "headers": [
+        "Document",
+        "À quoi sert-il ?",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Statuts datés et signés",
+          "Vérifier l’objet, le nom de l’association et les règles de représentation",
+          "Envoyez la version à jour, y compris après une modification de siège ou d’objet"
+        ],
+        [
+          "Récépissé de déclaration ou preuve d’inscription au répertoire national des associations",
+          "Identifier l’existence de l’association",
+          "Gardez une copie facilement accessible dans un dossier partagé sécurisé"
+        ],
+        [
+          "Publication officielle lorsque pertinente",
+          "Confirmer la publicité de la création ou des modifications",
+          "Fournissez-la si elle est demandée, même si l’établissement peut parfois la consulter"
+        ],
+        [
+          "Procès-verbal de l’assemblée ou du conseil",
+          "Prouver l’élection du bureau et/ou la décision d’ouvrir le compte",
+          "Faites figurer clairement la date, les personnes habilitées et la décision adoptée"
+        ],
+        [
+          "Décision d’ouverture de compte",
+          "Définir l’établissement, les pouvoirs et les règles de signature",
+          "Précisez si une signature seule suffit ou si une double validation est exigée"
+        ],
+        [
+          "Pièces d’identité des mandataires",
+          "Respecter les obligations de connaissance du client",
+          "Utilisez des documents valides, lisibles et transmis par le canal sécurisé prévu"
+        ],
+        [
+          "Justificatifs de domicile des mandataires",
+          "Vérifier l’identité et l’adresse lorsque demandé",
+          "Respectez la durée de validité indiquée par l’établissement"
+        ],
+        [
+          "Informations sur l’activité et l’origine des fonds",
+          "Évaluer le fonctionnement prévisible du compte",
+          "Préparez budget, sources de financement, site, programme ou convention de subvention si nécessaire"
+        ]
+      ],
+      "note": "Selon la nature de l’activité, l’établissement peut demander des pièces supplémentaires, notamment pour les structures employeuses, les activités internationales ou les volumes d’encaissement élevés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ouvrir le compte pas à pas, sans bloquer le dossier",
+      "id": "ouvrir-le-compte-pas-a-pas-sans-bloquer-le-dossier"
+    },
+    {
+      "type": "paragraph",
+      "html": "La demande peut se faire à distance, en agence ou selon un parcours mixte. La vérification ne se limite pas aux documents : l’établissement peut poser des questions sur les activités, les bénéficiaires des paiements, les pays concernés ou les volumes attendus. Répondez de façon factuelle et cohérente avec vos statuts et votre budget."
+    },
+    {
+      "type": "steps",
+      "title": "La méthode la plus efficace",
+      "items": [
+        {
+          "title": "1. Faire voter ou acter la décision",
+          "text": "Le bureau, le conseil d’administration ou l’organe prévu par vos statuts désigne les mandataires et fixe leurs pouvoirs. Rédigez un procès-verbal daté et signé."
+        },
+        {
+          "title": "2. Lister les flux à venir",
+          "text": "Préparez une estimation réaliste des cotisations, subventions, dépenses et moyens de paiement utilisés. Elle vous aidera à choisir l’offre et à répondre aux questions de conformité."
+        },
+        {
+          "title": "3. Comparer trois solutions maximum",
+          "text": "Éliminez d’emblée les offres incompatibles avec vos chèques, espèces, paiements en ligne ou besoins de double validation. Comparez ensuite les frais hors forfait."
+        },
+        {
+          "title": "4. Constituer un dossier unique",
+          "text": "Numérisez les documents en bonne qualité, avec des intitulés explicites. Vérifiez que les noms, adresses et fonctions concordent dans toutes les pièces."
+        },
+        {
+          "title": "5. Paramétrer les droits dès l’activation",
+          "text": "Créez des accès distincts pour la consultation, la préparation des paiements et la validation. Évitez les identifiants partagés entre bénévoles."
+        },
+        {
+          "title": "6. Tester le fonctionnement avant un gros encaissement",
+          "text": "Réalisez un petit virement, vérifiez les plafonds, l’export des opérations et la réception des alertes. N’attendez pas l’ouverture des inscriptions ou le jour d’un événement."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Évitez les faux mandats et les pouvoirs imprécis",
+      "html": "Un changement de président ou de trésorier ne met pas automatiquement à jour le compte. Informez rapidement l’établissement, transmettez le procès-verbal d’élection et retirez les accès de l’ancienne équipe. Tant que cette mise à jour n’est pas faite, vous conservez un risque d’accès non autorisé ou de blocage administratif."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Organiser les accès et sécuriser la trésorerie",
+      "id": "organiser-les-acces-et-securiser-la-tresorerie"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’ouverture du compte n’est que le début. Le principal risque d’une petite association ne vient pas forcément d’une fraude sophistiquée, mais d’une organisation trop informelle : une carte utilisée sans justificatif, un mot de passe transmis par messagerie ou des espèces conservées trop longtemps chez un bénévole. Des règles simples protègent à la fois l’association et les personnes qui la gèrent."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les règles de gestion à adopter dès le départ",
+      "items": [
+        "Attribuez un accès nominatif à chaque responsable et activez l’authentification forte.",
+        "Séparez, lorsque c’est possible, la personne qui prépare un paiement de celle qui le valide.",
+        "Fixez des plafonds de carte et de virement cohérents avec chaque fonction, puis revoyez-les avant les événements exceptionnels.",
+        "Conservez facture, note de frais ou convention pour chaque dépense ; reliez-la à l’opération bancaire.",
+        "Rapprochez le compte bancaire et la comptabilité régulièrement, au minimum à un rythme adapté au volume d’activité.",
+        "Faites présenter un état de trésorerie au bureau ou au conseil d’administration.",
+        "Encadrez les espèces : caisse de départ, comptage à deux, reçu, dépôt rapide et registre de caisse.",
+        "Retirez sans délai les cartes, procurations et accès des personnes qui quittent leurs fonctions."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les associations qui reçoivent des subventions ou organisent des manifestations, prévoyez aussi une arborescence documentaire claire : statuts, procès-verbaux, relevés, factures, conventions et bilans. Elle sera précieuse pour transmettre le dossier au prochain trésorier et répondre à une demande de justificatifs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui font perdre du temps ou de l’argent",
+      "id": "les-erreurs-qui-font-perdre-du-temps-ou-de-l-argent"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à choisir une offre parce qu’elle est affichée gratuite sans vérifier le moyen d’encaissement principal. La deuxième est de considérer le compte comme un simple portefeuille : un compte associatif est aussi un outil de gouvernance, de justification et de continuité. Enfin, ne sous-estimez pas les vérifications réglementaires : une activité mal décrite ou des flux inhabituels non expliqués peuvent retarder l’ouverture ou déclencher des demandes complémentaires."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À éviter absolument",
+      "items": [
+        "Ouvrir le compte au nom d’un particulier au lieu de l’association.",
+        "Déposer les recettes d’un événement sur le compte personnel d’un bénévole, même temporairement, sans traçabilité.",
+        "Choisir une offre sans vérifier l’encaissement de chèques ou d’espèces alors que vous en recevez.",
+        "Partager un même identifiant bancaire entre président, trésorier et responsables d’activité.",
+        "Garder des pouvoirs bancaires actifs après un changement de bureau.",
+        "Souscrire des options payantes par défaut sans les relier à un besoin réel.",
+        "Oublier les commissions de la plateforme de paiement dans le budget des inscriptions ou de la billetterie.",
+        "Négliger les conditions de clôture, de restitution des fonds et d’export des relevés."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que faire en cas de refus ou si aucune offre gratuite ne convient ?",
+      "id": "que-faire-en-cas-de-refus-ou-si-aucune-offre-gratuite-ne-con"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un établissement reste libre d’accepter ou non une demande d’ouverture, sous réserve des règles applicables. Un refus peut résulter d’un dossier incomplet, d’une activité mal comprise, d’un fonctionnement jugé incompatible avec l’offre ou de contrôles de conformité. Demandez, lorsque cela est possible, une attestation de refus : elle peut être utile pour vos démarches ultérieures."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre association est domiciliée en France et se voit refuser l’ouverture d’un compte, renseignez-vous sur la procédure de <strong>droit au compte</strong> auprès de la Banque de France. Cette procédure peut conduire à la désignation d’un établissement tenu de proposer les services bancaires de base prévus par la réglementation. Elle ne garantit pas une offre enrichie, une carte haut de gamme, un découvert ou la gratuité de tous les services ; elle vise d’abord l’accès fonctionnel à un compte."
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque le gratuit ne couvre pas vos besoins, la meilleure alternative n’est pas nécessairement une offre coûteuse. Vous pouvez associer un compte principal adapté à vos flux avec une solution de collecte ou de paiement en ligne distincte, à condition de rapprocher les opérations et de comptabiliser les commissions. Pour une très petite association, une formule avec un coût mensuel modéré peut aussi être plus rationnelle qu’une gratuité qui vous oblige à manipuler des espèces ou à contourner les règles de gestion."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Avant de changer de compte",
+      "html": "Téléchargez les relevés, les justificatifs et les exports comptables avant la clôture. Modifiez les coordonnées bancaires auprès des adhérents, organismes financeurs, prestataires et plateformes de collecte, puis vérifiez qu’aucun prélèvement ou virement attendu ne reste rattaché à l’ancien compte."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le compte associatif sans frais",
+      "items": [
+        {
+          "q": "Une association loi 1901 doit-elle obligatoirement avoir un compte bancaire ?",
+          "a": "Non, pas dans la plupart des cas. Toutefois, dès que l’association perçoit ou dépense de l’argent de manière régulière, un compte à son nom est vivement recommandé. Il sépare les fonds associatifs du patrimoine des bénévoles, facilite la comptabilité et rassure les adhérents comme les financeurs."
+        },
+        {
+          "q": "Peut-on ouvrir un compte au nom de l’association sans numéro SIREN ?",
+          "a": "Cela dépend de l’établissement et de votre situation. Une association peut souvent être identifiée avec ses statuts et son numéro d’inscription au répertoire national des associations. Un numéro SIREN peut toutefois être requis dans certains cas, notamment si l’association emploie, reçoit certaines subventions ou exerce une activité nécessitant cette identification. Vérifiez les exigences de l’offre visée."
+        },
+        {
+          "q": "Quels sont les documents indispensables pour ouvrir un compte associatif ?",
+          "a": "Prévoyez au minimum les statuts à jour, le justificatif de déclaration ou d’existence de l’association, un procès-verbal désignant les dirigeants et les mandataires bancaires, ainsi que les pièces d’identité des personnes habilitées. L’établissement peut également demander des informations sur l’activité, les recettes attendues et l’origine des fonds."
+        },
+        {
+          "q": "Un compte gratuit permet-il d’encaisser les cotisations par carte bancaire ?",
+          "a": "Pas systématiquement. Le compte peut être gratuit, tandis que l’encaissement par carte passe par une plateforme ou un terminal facturant une commission sur chaque paiement. Vérifiez aussi si l’outil de paiement transmet les données nécessaires à votre suivi comptable et à l’émission de reçus ou justificatifs."
+        },
+        {
+          "q": "Comment déposer les espèces d’une buvette ou d’un événement ?",
+          "a": "C’est un critère de choix majeur. Certaines banques avec agence acceptent les dépôts selon leurs conditions, alors que de nombreuses solutions en ligne ne le permettent pas. Si vous manipulez des espèces, formalisez la caisse, comptez-la à deux, conservez les justificatifs et déposez les fonds rapidement par un canal autorisé."
+        },
+        {
+          "q": "Que se passe-t-il quand le président ou le trésorier change ?",
+          "a": "Le nouveau bureau doit transmettre sans tarder le procès-verbal d’élection et les pièces demandées afin de modifier les mandats. Retirez les accès numériques, cartes et procurations de l’ancienne équipe, puis contrôlez les plafonds et les coordonnées de contact. Ne considérez jamais le changement de bureau comme automatique auprès de la banque."
+        }
+      ]
+    }
+  ]
+}

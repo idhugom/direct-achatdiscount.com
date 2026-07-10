@@ -1,0 +1,401 @@
+{
+  "title": "Comment savoir quelle est ma caisse de retraite complémentaire",
+  "slug": "comment-savoir-quelle-est-ma-caisse-de-retraite-complementaire",
+  "path": "/divers/comment-savoir-quelle-est-ma-caisse-de-retraite-complementaire.html",
+  "category": "argent",
+  "tags": [
+    "retraite complémentaire",
+    "agirc-arrco",
+    "relevé de carrière",
+    "caisse de retraite",
+    "droits retraite"
+  ],
+  "excerpt": "Salarié, agent public, indépendant ou libéral : retrouvez l’organisme de votre retraite complémentaire et vérifiez que tous vos droits y figurent.",
+  "metaDescription": "Identifiez votre caisse de retraite complémentaire selon votre statut, consultez votre relevé et corrigez les oublis sans vous tromper.",
+  "seoTitle": "Trouver sa caisse de retraite complémentaire facilement",
+  "heroKicker": "Vos droits retraite",
+  "readingTime": 11,
+  "date": "2024-01-29T08:11:15",
+  "image": {
+    "id": "1461",
+    "alt": "Comment savoir quelle est ma caisse de retraite complémentaire",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Vous ne connaissez pas le nom de votre caisse de retraite complémentaire ? C’est courant : il dépend de votre statut professionnel, de vos employeurs successifs et parfois de votre activité indépendante. La bonne démarche consiste moins à chercher un nom au hasard qu’à consulter votre relevé de carrière, puis à vérifier que chaque période travaillée a bien généré des droits."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Pour la grande majorité des salariés du privé, la retraite complémentaire obligatoire relève de <strong>l’Agirc-Arrco</strong>, cadres comme non-cadres.",
+        "Un agent public titulaire cotise en principe à la <strong>RAFP</strong>, tandis qu’un agent contractuel relève généralement de <strong>l’Ircantec</strong>.",
+        "Votre <strong>relevé de carrière officiel</strong>, accessible depuis votre compte retraite, est le document le plus fiable pour retrouver vos régimes et repérer les périodes manquantes.",
+        "Vous pouvez avoir cotisé à <strong>plusieurs régimes complémentaires</strong> au cours d’une carrière : ce n’est ni une erreur ni un motif pour perdre vos droits.",
+        "La consultation de vos droits et la demande de retraite sont gratuites : méfiez-vous des sites payants ou des appels demandant vos identifiants bancaires."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 compte retraite",
+          "label": "pour consulter l’ensemble de votre carrière déclarée"
+        },
+        {
+          "value": "2 régimes fréquents",
+          "label": "Agirc-Arrco dans le privé, RAFP ou Ircantec dans le public"
+        },
+        {
+          "value": "Plusieurs caisses possibles",
+          "label": "lors d’une carrière avec changements de statut"
+        },
+        {
+          "value": "0 €",
+          "label": "pour accéder à vos relevés et effectuer les démarches officielles"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que recouvre vraiment l’expression « caisse complémentaire »",
+      "id": "ce-que-recouvre-vraiment-l-expression-caisse-complementaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, la retraite obligatoire repose généralement sur deux étages. Le premier est la <strong>retraite de base</strong> : par exemple l’Assurance retraite pour de nombreux salariés, la MSA pour le régime agricole ou certains régimes de la fonction publique. Le second est la <strong>retraite complémentaire obligatoire</strong>, qui fonctionne souvent en points. Vos cotisations vous donnent des droits qui s’ajoutent à la pension de base au moment du départ."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme « caisse » peut être trompeur. Vous cherchez peut-être le régime auquel vous êtes rattaché, l’institution qui gère concrètement votre dossier, ou simplement vos relevés de points. Dans le privé, l’Agirc-Arrco est le régime unifié ; vous n’avez donc pas à arbitrer entre une caisse « cadre » et une caisse « non-cadre ». Dans d’autres situations, comme les professions libérales ou les carrières publiques, l’organisme dépend davantage de votre activité."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Ne confondez pas les dispositifs",
+      "html": "Une mutuelle santé, un contrat de prévoyance, une assurance-vie ou un <strong>PER d’entreprise</strong> ne sont pas votre caisse de retraite complémentaire obligatoire. Ces produits peuvent compléter vos revenus futurs, mais ils ne remplacent pas les points acquis dans un régime obligatoire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifier votre régime selon votre situation professionnelle",
+      "id": "identifier-votre-regime-selon-votre-situation-professionnell"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre dernier emploi donne une première indication, mais ce n’est pas suffisant si vous avez changé de statut. Commencez par classer chaque période de votre parcours : salariat privé, emploi public, activité indépendante, profession libérale, activité agricole ou régime particulier. Le tableau ci-dessous vous aide à orienter votre recherche."
+    },
+    {
+      "type": "table",
+      "caption": "À quel organisme de retraite complémentaire êtes-vous probablement rattaché ?",
+      "headers": [
+        "Situation professionnelle",
+        "Régime complémentaire à rechercher",
+        "Où vérifier en priorité"
+      ],
+      "rows": [
+        [
+          "Salarié du secteur privé, cadre ou non-cadre",
+          "Agirc-Arrco",
+          "Compte retraite, espace Agirc-Arrco, bulletin de paie et service RH"
+        ],
+        [
+          "Salarié agricole",
+          "Agirc-Arrco dans la plupart des cas",
+          "Compte retraite, employeur et documents MSA selon la situation"
+        ],
+        [
+          "Fonctionnaire titulaire",
+          "RAFP, en complément de la pension publique de base",
+          "Compte retraite et espace RAFP"
+        ],
+        [
+          "Agent public contractuel",
+          "Ircantec",
+          "Compte retraite, espace Ircantec et employeur public"
+        ],
+        [
+          "Artisan ou commerçant indépendant",
+          "Régime complémentaire des indépendants",
+          "Compte retraite et espace de l’Assurance retraite / Sécurité sociale des indépendants"
+        ],
+        [
+          "Profession libérale",
+          "Section professionnelle de la CNAVPL ou CNBF pour les avocats",
+          "Compte retraite et caisse professionnelle"
+        ],
+        [
+          "Exploitant agricole",
+          "Retraite complémentaire obligatoire agricole",
+          "MSA et relevé de carrière"
+        ]
+      ],
+      "note": "Les parcours mixtes sont fréquents. Chaque ligne de votre carrière peut relever d’un régime différent, sans que vos droits disparaissent."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Salarié du privé : l’Agirc-Arrco est votre point de départ",
+      "id": "salarie-du-prive-l-agirc-arrco-est-votre-point-de-depart"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous avez travaillé comme salarié dans une entreprise privée, y compris en tant que cadre, votre retraite complémentaire obligatoire relève en règle générale de <strong>l’Agirc-Arrco</strong>. Depuis l’unification des anciens dispositifs, le régime est commun aux salariés concernés. Vous pouvez encore voir sur d’anciens documents le nom d’une institution de retraite ou d’un groupe de protection sociale : conservez-le, mais ne concluez pas que vous devez multiplier les demandes auprès de chaque ancien organisme."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’élément important est votre relevé de points Agirc-Arrco. Il récapitule les périodes connues, les salaires pris en compte et les points obtenus. Il est plus utile que le seul nom figurant autrefois sur une fiche de paie, notamment si votre entreprise a changé de prestataire ou si vous avez eu plusieurs employeurs."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Public, indépendants et professions réglementées : le régime varie davantage",
+      "id": "public-independants-et-professions-reglementees-le-regime-va"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un fonctionnaire titulaire acquiert en principe des droits auprès de la <strong>Retraite additionnelle de la fonction publique (RAFP)</strong>, notamment au titre d’une partie des éléments de rémunération accessoires. Un agent contractuel de droit public relève généralement de <strong>l’Ircantec</strong>. Il faut donc distinguer avec soin votre statut : travailler dans une mairie, un hôpital ou un ministère ne signifie pas automatiquement que vous êtes fonctionnaire titulaire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les indépendants, l’organisme compétent dépend de la nature de l’activité. Artisans et commerçants relèvent du régime complémentaire des indépendants dans l’environnement de la Sécurité sociale des indépendants. Les professions libérales ont souvent leur propre caisse professionnelle au sein de la CNAVPL ; les avocats disposent d’un régime spécifique autour de la CNBF. Les exploitants agricoles doivent se tourner vers la MSA. En cas de doute, votre code d’activité ne suffit pas toujours : c’est votre statut réel de cotisant qui compte."
+    },
+    {
+      "type": "comparison",
+      "title": "Carrière privée ou carrière publique : où chercher d’abord ?",
+      "left": {
+        "title": "Vous êtes ou avez été salarié du privé",
+        "points": [
+          "Cherchez d’abord vos points <strong>Agirc-Arrco</strong>.",
+          "Contrôlez les périodes employeur par employeur, surtout après un changement d’entreprise.",
+          "Un ancien nom de caisse peut apparaître sur vos archives, mais le relevé central reste la référence.",
+          "Les cadres et non-cadres relèvent du même régime complémentaire unifié."
+        ]
+      },
+      "right": {
+        "title": "Vous êtes ou avez été agent public",
+        "points": [
+          "Vérifiez votre statut exact : <strong>titulaire</strong> ou <strong>contractuel</strong>.",
+          "Recherchez la RAFP pour les titulaires et l’Ircantec pour les contractuels.",
+          "Contrôlez aussi votre pension principale : elle n’est pas gérée par le même circuit que le complément.",
+          "En cas de périodes mixtes public-privé, consultez tous les régimes affichés sur le relevé de carrière."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode la plus fiable : consulter votre compte retraite officiel",
+      "id": "la-methode-la-plus-fiable-consulter-votre-compte-retraite-of"
+    },
+    {
+      "type": "paragraph",
+      "html": "La manière la plus simple de savoir quelle est votre caisse consiste à ouvrir votre espace personnel sur le portail officiel <a href=\"https://www.info-retraite.fr/\">Info Retraite</a>, souvent accessible via FranceConnect. Vous y trouverez une vision interrégimes de votre parcours. Cherchez la rubrique consacrée à votre carrière, à votre relevé ou à vos droits acquis : les régimes qui ont enregistré des périodes de cotisation y sont normalement listés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un salarié du privé, vous pouvez aussi consulter l’espace de <a href=\"https://www.agirc-arrco.fr/\">l’Agirc-Arrco</a>. Il permet notamment de contrôler les points complémentaires inscrits à votre nom. Si vous êtes agent contractuel, l’espace Ircantec est le bon interlocuteur ; pour un fonctionnaire titulaire, consultez également votre espace RAFP. La multiplication des portails n’est pas idéale, mais le compte retraite général reste la meilleure porte d’entrée pour cartographier votre situation."
+    },
+    {
+      "type": "steps",
+      "title": "Retrouver votre caisse en quelques étapes",
+      "items": [
+        {
+          "title": "Connectez-vous à votre compte retraite",
+          "text": "Utilisez de préférence le portail officiel et une connexion sécurisée. Vérifiez que vos coordonnées personnelles sont à jour."
+        },
+        {
+          "title": "Téléchargez votre relevé de carrière",
+          "text": "Ne vous contentez pas d’un solde global : examinez chaque année et chaque régime affiché."
+        },
+        {
+          "title": "Repérez les périodes de statut différent",
+          "text": "Isolez vos emplois privés, publics, indépendants, agricoles ou libéraux. C’est ce qui permet d’identifier le bon organisme."
+        },
+        {
+          "title": "Contrôlez vos droits complémentaires",
+          "text": "Comparez les périodes déclarées avec vos contrats, certificats de travail et bulletins de salaire. Dans le privé, vérifiez particulièrement les points Agirc-Arrco."
+        },
+        {
+          "title": "Contactez uniquement le régime concerné en cas d’anomalie",
+          "text": "Préparez les justificatifs correspondant à la période manquante plutôt que d’adresser une demande vague à tous les organismes."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe avant toute demande",
+      "html": "Téléchargez et conservez une copie datée de votre relevé. Si une période récente n’apparaît pas encore, cela peut refléter un délai de remontée des déclarations : comparez-la d’abord avec vos bulletins de paie avant de lancer une contestation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quels documents regarder si vous ne pouvez pas accéder à votre espace ?",
+      "id": "quels-documents-regarder-si-vous-ne-pouvez-pas-acceder-a-vot"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le relevé de carrière reste la référence, mais vos archives professionnelles peuvent confirmer une affiliation. Les bulletins de paie constituent le premier indice : recherchez les lignes relatives à la retraite complémentaire, aux cotisations de retraite ou, sur les documents plus anciens, le nom d’une institution. Attention toutefois : les intitulés ont évolué et les cotisations peuvent être recouvrées par un organisme différent de celui qui gère vos points."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Documents utiles à réunir",
+      "items": [
+        "Vos <strong>bulletins de paie</strong>, surtout le premier et le dernier de chaque employeur.",
+        "Vos <strong>certificats de travail</strong>, contrats et attestations d’employeur.",
+        "Les anciens <strong>relevés de points</strong> ou courriers de retraite complémentaire.",
+        "Vos avis de situation ou relevés de carrière déjà téléchargés.",
+        "Pour une activité indépendante : attestations d’affiliation, déclarations de revenus professionnels et courriers de votre caisse.",
+        "Pour le public : arrêtés de nomination, contrats, attestations de l’administration et bulletins de traitement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Un ancien employeur peut également vous renseigner, via son service des ressources humaines ou son service paie. Demandez quel régime complémentaire couvrait votre période d’emploi et, si nécessaire, une attestation détaillant la période, la nature de l’emploi et les rémunérations. Si l’entreprise a fermé, ne renoncez pas : vos bulletins, vos certificats de travail et les traces figurant sur votre relevé sont les pièces les plus importantes."
+    },
+    {
+      "type": "proscons",
+      "title": "Recherche en ligne : les atouts et les limites",
+      "pros": [
+        "Vue d’ensemble rapide de plusieurs régimes avec un seul compte.",
+        "Accès aux périodes déjà enregistrées et, selon le régime, aux points acquis.",
+        "Possibilité de télécharger des relevés et de préparer une demande de correction.",
+        "Démarches officielles gratuites, sans intermédiaire commercial."
+      ],
+      "cons": [
+        "Certaines périodes très récentes peuvent apparaître avec un décalage.",
+        "Un écran de synthèse ne remplace pas la vérification de vos justificatifs.",
+        "Les situations atypiques, internationales ou anciennes nécessitent parfois un contact direct.",
+        "Les libellés de régimes peuvent être techniques et ne correspondent pas toujours au nom connu de votre employeur."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi vous pouvez avoir plusieurs caisses complémentaires",
+      "id": "pourquoi-vous-pouvez-avoir-plusieurs-caisses-complementaires"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas forcément une seule caisse pour toute votre vie professionnelle. Vous pouvez avoir été salarié du privé pendant quelques années, puis agent contractuel, avant de créer une activité libérale. Dans cet exemple, des droits peuvent exister à l’Agirc-Arrco, à l’Ircantec et auprès d’une caisse professionnelle. Chaque régime conserve les droits acquis selon ses propres règles ; ils ne sont pas effacés au motif que vous n’y cotisez plus."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les changements d’employeur dans le privé ne signifient pas nécessairement que vous devez suivre un nouveau dossier à chaque fois : l’Agirc-Arrco centralise le régime. En revanche, le passage d’un statut à un autre crée réellement de nouveaux interlocuteurs. Les périodes de chômage indemnisé, de maladie, de congé parental ou d’invalidité peuvent également ouvrir des droits sous conditions. Elles méritent donc un contrôle attentif, même si elles ne correspondent pas à un bulletin de salaire classique."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Cas particulier : la retraite supplémentaire d’entreprise",
+      "html": "Si votre employeur vous a proposé un ancien contrat collectif de retraite ou un <strong>PER obligatoire</strong>, il peut être géré par une banque, un assureur ou une institution de prévoyance. Il s’ajoute à vos régimes obligatoires. Demandez au service RH le nom du gestionnaire et vérifiez séparément le capital ou la rente constitués."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vérifier vos points et corriger une période manquante",
+      "id": "verifier-vos-points-et-corriger-une-periode-manquante"
+    },
+    {
+      "type": "paragraph",
+      "html": "Trouver le nom de la caisse n’est qu’une première étape. Le vrai enjeu consiste à vérifier que vos droits sont complets. Sur votre relevé, confrontez chaque période travaillée aux années, employeurs et régimes affichés. Pour l’Agirc-Arrco, regardez les points attribués. Pour les autres régimes, vérifiez que la période figure bien et que les éléments signalés correspondent à votre statut."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous constatez une omission, ne transmettez pas seulement un message indiquant « il manque une année ». Indiquez les dates précises, l’employeur ou l’activité concernée, votre statut, et joignez des copies lisibles de vos preuves. Un bulletin de paie faisant apparaître les cotisations, un certificat de travail et un contrat de travail sont souvent plus utiles qu’une simple déclaration sur l’honneur. Conservez toujours les originaux."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "title": "En cas de droit absent ou incohérent",
+      "items": [
+        "Identifiez le régime concerné grâce à la nature de l’emploi et à votre relevé.",
+        "Rassemblez les justificatifs couvrant précisément la période en cause.",
+        "Effectuez la demande de rectification depuis l’espace officiel du régime ou par le canal qu’il indique.",
+        "Suivez la réponse et gardez une copie de tous les échanges.",
+        "Contrôlez le relevé mis à jour avant de considérer le dossier comme réglé."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "N’attendez pas la veille de votre départ pour faire ces vérifications. La reconstitution d’une période ancienne peut demander des recherches, notamment lorsqu’un employeur n’existe plus ou que les documents sont incomplets. Quelques années avant votre départ envisagé, effectuez un contrôle global de votre carrière ; puis vérifiez une dernière fois vos droits avant de déposer votre demande de retraite."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs fréquentes et les pièges à éviter",
+      "id": "les-erreurs-frequentes-et-les-pieges-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à appeler l’Assurance retraite pour une question qui porte sur les points Agirc-Arrco, ou inversement. La retraite de base et la complémentaire sont liées au moment du calcul de votre revenu global, mais elles ne sont pas gérées de la même manière. La seconde erreur est de confondre organisme de prévoyance et caisse de retraite : le nom d’un assureur figurant sur votre paie n’est pas une preuve de votre affiliation complémentaire obligatoire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez aussi de ne regarder que votre dernier emploi. Les petites périodes, les missions d’intérim, les emplois saisonniers, les contrats courts ou un premier poste ancien peuvent représenter des droits. Vérifiez-les, même si le montant semble modeste : au total, ces points ou périodes peuvent compter dans votre pension future."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux faux services d’aide à la retraite",
+      "html": "Les caisses ne vous demanderont pas vos codes de connexion par téléphone ni un paiement pour « débloquer » vos droits. Utilisez les adresses officielles, tapez-les vous-même dans votre navigateur et ne communiquez jamais votre mot de passe FranceConnect."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que faire une fois votre organisme identifié ?",
+      "id": "que-faire-une-fois-votre-organisme-identifie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Créez ou activez votre espace personnel auprès du régime qui vous concerne, vérifiez vos coordonnées et archivez vos relevés. Si votre carrière est linéaire dans le privé, l’espace Agirc-Arrco sera souvent votre interlocuteur complémentaire principal. Si elle est mixte, conservez une liste simple de vos régimes, avec les périodes correspondantes et les documents disponibles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au moment de préparer votre départ, utilisez les services officiels de demande de retraite. Dans de nombreux cas, une démarche en ligne permet de transmettre votre demande aux régimes concernés, mais vous devez tout de même relire les informations proposées et signaler vos parcours particuliers. Une demande de retraite n’est pas automatique : identifier sa caisse tôt permet de déposer un dossier complet et d’éviter des retards de traitement."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Budget : aucune prestation payante n’est nécessaire",
+      "html": "L’accès à vos relevés, les demandes de correction et le dépôt d’une demande de retraite auprès des organismes officiels sont <strong>gratuits</strong>. Un accompagnement privé peut exister, mais il n’est utile que pour une situation très complexe et ne remplace jamais le contrôle de vos documents officiels."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la caisse de retraite complémentaire",
+      "items": [
+        {
+          "q": "Comment savoir si je dépends de l’Agirc-Arrco ?",
+          "a": "Si vous êtes salarié ou ancien salarié du secteur privé, cadre ou non-cadre, vous dépendez très probablement de l’Agirc-Arrco pour votre retraite complémentaire obligatoire. Connectez-vous à votre compte retraite ou à l’espace Agirc-Arrco pour confirmer vos périodes et vos points."
+        },
+        {
+          "q": "Mon bulletin de paie ne mentionne pas clairement une caisse : est-ce normal ?",
+          "a": "Oui. Les intitulés de cotisations peuvent être génériques et le recouvrement peut être distinct de la gestion des droits. Le relevé de carrière et le relevé de points constituent des preuves plus fiables que le seul libellé de paie."
+        },
+        {
+          "q": "Puis-je avoir plusieurs caisses de retraite complémentaire ?",
+          "a": "Oui, notamment si vous avez changé de statut au cours de votre carrière. Une période dans le privé, une activité indépendante et un contrat dans le public peuvent vous ouvrir des droits auprès de régimes différents. Chaque organisme conservera les droits acquis pour le calcul de votre retraite."
+        },
+        {
+          "q": "Je suis fonctionnaire dans un hôpital ou une mairie : quelle caisse chercher ?",
+          "a": "Vérifiez d’abord votre statut. Un fonctionnaire titulaire relève généralement de la RAFP pour la retraite additionnelle. Un agent contractuel relève le plus souvent de l’Ircantec. Votre employeur public ou votre relevé de carrière permettra de lever tout doute."
+        },
+        {
+          "q": "Que faire si une ancienne période travaillée n’apparaît pas sur mon relevé ?",
+          "a": "Contactez le régime compétent en fournissant des justificatifs précis : bulletins de paie, certificat de travail, contrat et dates d’emploi. Vérifiez d’abord s’il ne s’agit pas d’une période récente dont les données ne sont pas encore remontées."
+        },
+        {
+          "q": "Dois-je payer pour retrouver ma caisse ou demander ma retraite ?",
+          "a": "Non. Les portails officiels, les relevés, les demandes de rectification et les démarches de retraite sont gratuits. Ne donnez pas suite aux sollicitations qui exigent un paiement ou vos identifiants personnels pour prétendument retrouver vos droits."
+        }
+      ]
+    }
+  ]
+}

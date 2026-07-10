@@ -1,0 +1,410 @@
+{
+  "title": "Comment éviter le burn-out",
+  "slug": "comment-eviter-le-burn-out",
+  "path": "/divers/comment-eviter-le-burn-out.html",
+  "category": "bien-etre",
+  "tags": [
+    "burn-out",
+    "épuisement professionnel",
+    "stress au travail",
+    "prévention santé",
+    "équilibre vie professionnelle"
+  ],
+  "excerpt": "Prévenir le burn-out suppose d’agir sur la charge de travail, les limites, le soutien et la récupération, avant que l’épuisement ne s’installe.",
+  "metaDescription": "Repérez les signaux du burn-out, allégez la surcharge et mobilisez les bons soutiens pour prévenir l’épuisement professionnel durablement.",
+  "seoTitle": "Comment éviter le burn-out : agir avant l’épuisement",
+  "heroKicker": "Préserver son énergie",
+  "readingTime": 12,
+  "date": "2024-03-08T07:56:18",
+  "image": {
+    "id": "1644",
+    "alt": "Comment éviter le burn-out",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le burn-out ne survient généralement pas après une seule semaine difficile : il s’installe lorsque des exigences élevées se prolongent sans récupération, sans soutien suffisant ou sans marge de manœuvre. Le prévenir ne consiste pas à « mieux tenir » à tout prix, mais à repérer l’usure, réorganiser ce qui peut l’être et demander de l’aide avant la rupture."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le stress ponctuel peut être normal ; l’alerte commence quand la fatigue, le cynisme ou le sentiment d’inefficacité durent et gagnent votre vie hors travail.",
+        "Les solutions purement individuelles ne suffisent pas : charge, priorités, moyens, horaires et management doivent aussi être discutés.",
+        "Ne cherchez pas à compenser une surcharge chronique avec plus d’organisation, de café ou de disponibilité : réduisez, reportez, déléguez ou arbitrez.",
+        "Un médecin, le service de prévention et de santé au travail, un proche ou un représentant du personnel peuvent vous aider à sortir de l’isolement.",
+        "En cas d’idées suicidaires, de détresse intense ou d’incapacité à assurer votre sécurité, contactez sans attendre les urgences ou une ligne d’aide de votre pays."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce qu’est — et ce que n’est pas — le burn-out",
+      "id": "comprendre-ce-qu-est-et-ce-que-n-est-pas-le-burn-out"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le burn-out, ou épuisement professionnel, correspond à un état d’usure lié à une exposition durable à des contraintes de travail mal compensées. Il associe souvent une <strong>fatigue profonde</strong>, une prise de distance négative vis-à-vis du travail — irritabilité, cynisme, perte de sens — et le sentiment de ne plus parvenir à faire correctement ce qui était auparavant à votre portée. Il peut toucher des personnes très investies, compétentes et consciencieuses ; ce n’est ni un manque de volonté ni un défaut de résistance."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une période de pression n’est pas automatiquement un burn-out. Une échéance exceptionnelle peut être absorbée si elle est limitée, suivie de repos réel et accompagnée de moyens adaptés. Le risque apparaît quand l’exception devient la règle : urgences permanentes, objectifs contradictoires, sous-effectif, autonomie insuffisante, conflits de valeurs, incivilités ou connexion continue."
+    },
+    {
+      "type": "comparison",
+      "title": "Stress intense ou épuisement qui s’installe ?",
+      "left": {
+        "title": "Stress ponctuel et récupérable",
+        "points": [
+          "La pression est liée à une période ou à un événement identifiable.",
+          "Vous restez capable de vous reposer et retrouvez de l’élan après une pause.",
+          "Les difficultés restent principalement centrées sur le travail.",
+          "Une action ciblée — délai repoussé, renfort, clarification — améliore nettement la situation."
+        ]
+      },
+      "right": {
+        "title": "Signaux d’épuisement professionnel",
+        "points": [
+          "La fatigue persiste malgré les week-ends, les congés ou le sommeil.",
+          "Vous vous sentez détaché, à fleur de peau ou impuissant face au travail.",
+          "La concentration, la mémoire et la qualité des décisions diminuent.",
+          "Les répercussions gagnent la santé, les proches, le sommeil ou la confiance en soi."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Ne vous auto-diagnostiquez pas, mais prenez vos signaux au sérieux",
+      "html": "Le burn-out peut partager certains signes avec une dépression, un trouble anxieux, un trouble du sommeil, une maladie physique ou les effets d’un traitement. Un <strong>médecin</strong> est la bonne personne pour évaluer votre situation, écarter d’autres causes et vous orienter. Demander un avis tôt est une mesure de prévention, pas un aveu d’échec."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Repérer les signaux avant le point de rupture",
+      "id": "reperer-les-signaux-avant-le-point-de-rupture"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier piège est de banaliser l’usure : « tout le monde est fatigué », « cela ira mieux après ce dossier », « je dois finir avant de ralentir ». Or le burn-out s’accompagne rarement d’un seul symptôme spectaculaire. C’est la <strong>répétition</strong>, l’intensité et l’accumulation de signes sur plusieurs semaines qui doivent alerter."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les signaux physiques, cognitifs et émotionnels",
+      "id": "les-signaux-physiques-cognitifs-et-emotionnels"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Faites un point honnête sur les dernières semaines",
+      "items": [
+        "Vous vous réveillez déjà épuisé ou vous dormez mal en pensant au travail.",
+        "Vous avez des tensions, maux de tête, troubles digestifs, palpitations ou infections répétées sans les négliger ni les attribuer d’emblée au stress.",
+        "Vous peinez à lire un message simple, à mémoriser, à prioriser ou vous multipliez les erreurs inhabituelles.",
+        "Vous êtes plus irritable, vous pleurez facilement, vous ressentez de l’anxiété ou un vide persistant.",
+        "Vous redoutez le début de journée, les réunions ou l’ouverture de votre messagerie.",
+        "Vous vous isolez, annulez vos activités ou n’avez plus d’énergie pour ce qui vous faisait du bien.",
+        "Vous augmentez le café, l’alcool, le tabac, les somnifères ou tout autre produit pour tenir ou déconnecter."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Notez pendant une à deux semaines ce qui vous épuise, ce qui vous donne encore de l’énergie, vos heures réellement travaillées et le temps de récupération effectif. Ce relevé n’a pas besoin d’être parfait : il vous aide à sortir du ressenti flou et fournit des exemples concrets lors d’un échange avec votre manager ou un professionnel de santé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Agir tout de suite : réduire la surcharge plutôt que l’endurer",
+      "id": "agir-tout-de-suite-reduire-la-surcharge-plutot-que-l-endurer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque l’épuisement commence, chercher à devenir encore plus performant est souvent contre-productif. Une to-do list plus sophistiquée ne corrige pas une charge objectivement irréaliste. Votre priorité est d’identifier ce qui doit être <strong>arrêté, reporté, simplifié, partagé ou arbitré</strong>. Cela implique parfois une conversation inconfortable, mais elle est plus protectrice qu’un silence qui vous conduit à l’arrêt brutal."
+    },
+    {
+      "type": "steps",
+      "title": "Un plan de protection en quatre étapes",
+      "items": [
+        {
+          "title": "Objectivez la charge",
+          "text": "Listez vos missions, échéances, sollicitations récurrentes et imprévus. Indiquez le temps approximatif requis et ce qui souffre déjà d’un manque de qualité ou de délai."
+        },
+        {
+          "title": "Classez par conséquence réelle",
+          "text": "Distinguez l’urgent du simplement bruyant. Repérez les tâches obligatoires, celles qui peuvent attendre et celles qui n’ont plus de valeur suffisante au regard de l’effort demandé."
+        },
+        {
+          "title": "Demandez un arbitrage explicite",
+          "text": "Présentez les faits à votre responsable : « Avec les ressources et délais actuels, je peux garantir A et B ; pour C, il faut repousser l’échéance, réduire le périmètre ou obtenir un renfort. Quelle priorité retenons-nous ? »."
+        },
+        {
+          "title": "Confirmez les décisions",
+          "text": "Après l’échange, envoyez un bref récapitulatif factuel des priorités, délais et moyens validés. Cela évite que tout redevienne urgent par défaut et vous donne un cadre de travail clair."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Formule utile pour poser une limite",
+      "html": "Évitez de justifier excessivement votre besoin. Dites sobrement : <strong>« Je ne peux pas absorber cette demande sans dégrader telle mission. Je peux la traiter pour telle date, ou si nous dépriorisons tel sujet. »</strong> Une limite efficace est précise, reliée à la qualité du travail et accompagnée d’options réalistes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Traiter les causes de travail, pas seulement vos réactions",
+      "id": "traiter-les-causes-de-travail-pas-seulement-vos-reactions"
+    },
+    {
+      "type": "paragraph",
+      "html": "La prévention devient fragile quand elle repose uniquement sur la personne : méditer, mieux planifier ou faire du sport peut soutenir la récupération, mais ne rend pas soutenable un travail sans moyens, sans reconnaissance ou sans droit à la déconnexion. Cherchez donc les facteurs modifiables dans l’organisation réelle du travail."
+    },
+    {
+      "type": "table",
+      "caption": "Facteurs fréquents d’épuisement et leviers concrets",
+      "headers": [
+        "Facteur de risque",
+        "Ce qu’il provoque",
+        "Levier à demander ou à tester"
+      ],
+      "rows": [
+        [
+          "Volume de travail supérieur au temps disponible",
+          "Retards, heures supplémentaires, culpabilité permanente",
+          "Réduction du périmètre, renfort temporaire, objectifs révisés, échéances réalistes"
+        ],
+        [
+          "Priorités changeantes ou contradictoires",
+          "Dispersion, sentiment de ne jamais finir",
+          "Point de priorisation hebdomadaire, un décideur identifié, critères de réussite écrits"
+        ],
+        [
+          "Interruptions continues",
+          "Concentration fragmentée, erreurs, journées sans avancée",
+          "Créneaux sans réunion, canal d’urgence unique, règles de réponse différée"
+        ],
+        [
+          "Manque d’autonomie",
+          "Impuissance, tensions, désengagement",
+          "Latitude sur l’ordre des tâches, les méthodes et la planification"
+        ],
+        [
+          "Conflit de valeurs ou perte de sens",
+          "Cynisme, fatigue morale, malaise éthique",
+          "Discussion sur les pratiques, signalement des risques, mobilité ou changement de périmètre"
+        ],
+        [
+          "Isolement ou management défaillant",
+          "Rumination, absence de soutien, incompréhensions",
+          "Référent, binôme, réunions utiles, médiation ou appui RH selon le contexte"
+        ]
+      ],
+      "note": "Tous les leviers ne sont pas immédiatement accessibles. Commencez par celui qui réduit le plus concrètement votre charge ou votre exposition."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous encadrez une équipe, soyez attentif aux signaux collectifs : multiplication des erreurs, congés non pris, départs, réunions tardives, baisse de l’entraide ou humour devenu très désabusé. Ne félicitez pas systématiquement les comportements de surinvestissement. Clarifier les priorités, protéger les temps de concentration et accepter qu’un sujet soit reporté sont des actes de management préventif."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Protéger votre récupération sans viser une routine parfaite",
+      "id": "proteger-votre-recuperation-sans-viser-une-routine-parfaite"
+    },
+    {
+      "type": "paragraph",
+      "html": "La récupération n’est pas une récompense à gagner une fois tout terminé : dans un travail sans fin, ce moment n’arrive jamais spontanément. Elle doit être intégrée à votre semaine. L’objectif n’est pas de cocher une routine idéale, mais de restaurer des moments où votre système nerveux et votre attention ne sont plus sollicités par le travail."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Des habitudes simples qui font une différence",
+      "items": [
+        "Fixez une heure de fin réaliste la plupart des jours et désactivez les alertes professionnelles hors de ce cadre, sauf astreinte formalisée.",
+        "Créez un rituel de fermeture de dix minutes : noter ce qui est fait, choisir les trois priorités du lendemain, fermer les outils de travail.",
+        "Protégez des pauses sans écran ni conversation professionnelle, notamment après une tâche exigeante ou une réunion difficile.",
+        "Préservez le sommeil : horaires aussi réguliers que possible, exposition à la lumière le matin, diminution des écrans et du travail tardif.",
+        "Bougez régulièrement selon vos possibilités : marche, vélo, étirements ou activité sportive. L’objectif est la régularité, non la performance.",
+        "Gardez au moins une activité et une relation qui n’ont aucun objectif professionnel : elles limitent la réduction de votre identité au travail.",
+        "Prenez vos congés et évitez de les transformer en période de rattrapage administratif ou de disponibilité déguisée."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention à la fausse récupération",
+      "html": "Faire défiler son téléphone en restant connecté à sa messagerie, travailler depuis le canapé ou répondre « juste à deux messages » ne coupe pas vraiment la journée. Si vous ne parvenez plus à déconnecter malgré vos efforts, considérez-le comme un signal à partager avec un professionnel ou votre entourage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ne restez pas seul : à qui parler et comment préparer l’échange",
+      "id": "ne-restez-pas-seul-a-qui-parler-et-comment-preparer-l-echang"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’isolement entretient le burn-out : on croit être le seul à ne pas y arriver et l’on cache les difficultés jusqu’à ce qu’elles deviennent massives. Choisissez une personne de confiance — proche, collègue, manager, représentant du personnel, service RH selon la situation — non pour obtenir une solution immédiate, mais pour rendre le problème visible et réfléchir avec vous."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au travail, le niveau de confiance doit guider votre interlocuteur. Un manager soutenant peut arbitrer la charge. Si la difficulté vient du management, si votre parole est minimisée ou si des comportements inacceptables sont en cause, adressez-vous plutôt au <strong>service de prévention et de santé au travail</strong>, à un représentant du personnel, à votre référent RH ou à une personne compétente dans votre structure. Le médecin du travail peut évaluer l’adéquation entre votre état de santé et votre poste, proposer des aménagements et vous conseiller dans le respect du secret médical."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Préparer des faits plutôt que vous excuser",
+      "id": "preparer-des-faits-plutot-que-vous-excuser"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant un rendez-vous, rassemblez trois éléments : des exemples précis de charge ou de dysfonctionnement, les conséquences observables sur le travail et votre santé, et une ou deux demandes concrètes. Par exemple : réduire le portefeuille de dossiers, instaurer un point de priorisation, limiter les réunions, obtenir une formation, travailler avec un binôme ou envisager une mobilité. Vous n’avez pas à prouver que vous souffrez « assez » pour demander un cadre soutenable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand consulter, s’arrêter ou demander un aménagement",
+      "id": "quand-consulter-s-arreter-ou-demander-un-amenagement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prenez rendez-vous avec votre médecin traitant si la fatigue persiste, si vous avez des symptômes physiques, si votre sommeil ou votre humeur se dégradent, ou si vous n’arrivez plus à fonctionner comme d’habitude. Il ou elle pourra faire le point global, rechercher d’éventuelles causes médicales, discuter des soins nécessaires et, si votre état le justifie, prescrire un arrêt de travail. Seul un professionnel de santé peut apprécier cette indication dans votre situation."
+    },
+    {
+      "type": "proscons",
+      "title": "L’arrêt de travail lorsqu’il est recommandé médicalement",
+      "pros": [
+        "Il crée une rupture avec les sollicitations professionnelles et peut protéger d’une aggravation.",
+        "Il laisse du temps pour récupérer, consulter et mettre en place un accompagnement adapté.",
+        "Il peut permettre de préparer une reprise graduée ou des aménagements avec les interlocuteurs compétents."
+      ],
+      "cons": [
+        "Il ne règle pas à lui seul les causes organisationnelles qui ont conduit à l’épuisement.",
+        "La coupure peut être anxiogène si elle s’accompagne d’isolement, de culpabilité ou d’une pression à « guérir vite ».",
+        "La reprise demande une préparation : retrouver exactement la même charge et les mêmes règles expose à la rechute."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Consultez en urgence si vous avez des idées suicidaires, des pensées de vous faire du mal, une sensation de perdre le contrôle, une consommation dangereuse de substances, des douleurs thoraciques, un malaise ou tout symptôme physique inquiétant. Ne restez pas seul : appelez les services d’urgence de votre pays, une ligne de crise ou demandez à un proche de vous accompagner. En France, le 3114 est le numéro national de prévention du suicide, accessible 24 heures sur 24 et 7 jours sur 7 ; en cas de danger immédiat, contactez le 15 ou le 112."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer une reprise durable, pas un retour à l’identique",
+      "id": "preparer-une-reprise-durable-pas-un-retour-a-l-identique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après une période d’épuisement ou un arrêt, l’envie de prouver rapidement que vous êtes « revenu comme avant » est compréhensible, mais risquée. Une reprise protectrice suppose de regarder ce qui a mené à l’usure et de modifier des paramètres concrets. Un entretien de reprise, le lien avec le service de prévention et de santé au travail et des échanges clairs avec l’employeur peuvent aider à définir des aménagements adaptés."
+    },
+    {
+      "type": "table",
+      "caption": "Questions à régler avant ou au moment de la reprise",
+      "headers": [
+        "Sujet",
+        "Question utile",
+        "Exemple de mesure concrète"
+      ],
+      "rows": [
+        [
+          "Charge",
+          "Qu’est-ce qui ne pourra pas être repris immédiatement ?",
+          "Portefeuille réduit, échéances échelonnées, objectifs transitoires"
+        ],
+        [
+          "Temps de travail",
+          "Quelles sont les frontières non négociables ?",
+          "Pas de réunions tardives, horaires compatibles avec les soins, droit à la déconnexion"
+        ],
+        [
+          "Priorités",
+          "Qui arbitre si une nouvelle urgence arrive ?",
+          "Point hebdomadaire avec décision écrite sur ce qui est décalé"
+        ],
+        [
+          "Soutien",
+          "Vers qui vous tourner en cas de difficulté ?",
+          "Manager référent, binôme, rendez-vous de suivi planifiés"
+        ],
+        [
+          "Sens et risques",
+          "Quelles situations vous ont particulièrement abîmé ?",
+          "Changement de mission, médiation, formation, mobilité si nécessaire"
+        ]
+      ],
+      "note": "Une reprise progressive n’est pas un privilège : c’est une façon de vérifier que le travail redevient compatible avec votre santé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si aucune évolution n’est possible malgré des demandes raisonnables et répétées, envisagez les alternatives avec méthode : mobilité interne, changement d’équipe ou de poste, formation, accompagnement professionnel, voire projet de départ. Quitter un environnement durablement délétère peut être une décision de protection. Ne vous forcez pas à décider dans l’urgence : faites-vous accompagner afin d’évaluer vos options financières, professionnelles et de santé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui aggravent l’épuisement",
+      "id": "les-erreurs-qui-aggravent-l-epuisement"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À éviter autant que possible",
+      "items": [
+        "Attendre les vacances pour tout réparer alors que vous êtes déjà en difficulté depuis longtemps.",
+        "Répondre à chaque demande par défaut, sans demander quelles tâches doivent être abandonnées en contrepartie.",
+        "Masquer votre état en multipliant les heures, les stimulants ou les comportements d’évitement.",
+        "Confondre repos et immobilité anxieuse : une récupération utile peut aussi inclure lien social, mouvement doux et activités choisies.",
+        "Accepter une reprise sans discuter de la charge, des priorités et des conditions qui ont contribué au problème.",
+        "Vous comparer à des collègues qui semblent tenir : vous ne connaissez ni leur réalité ni le coût caché de leur surinvestissement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire de la prévention une pratique régulière",
+      "id": "faire-de-la-prevention-une-pratique-reguliere"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin d’attendre d’aller mal pour surveiller votre équilibre. Un rendez-vous mensuel avec vous-même peut suffire : qu’est-ce qui a absorbé le plus d’énergie ? Qu’est-ce qui a été utile ? Quelles limites ont été franchies ? Quel sujet faut-il clarifier avant qu’il ne devienne une crise ? Cette vigilance est particulièrement importante lors d’un changement de poste, d’une réorganisation, d’un retour de congé, d’une période de sous-effectif ou d’une difficulté personnelle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon objectif n’est pas une vie sans stress. C’est un travail où les périodes d’effort restent limitées, reconnues, discutées et suivies de récupération ; où vous pouvez dire qu’une charge est intenable sans être disqualifié ; et où votre santé ne sert pas de variable d’ajustement. Prévenir le burn-out relève à la fois de vos choix possibles et de la responsabilité de l’organisation du travail."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la prévention du burn-out",
+      "items": [
+        {
+          "q": "Quelle est la différence entre fatigue et burn-out ?",
+          "a": "La fatigue ordinaire s’améliore généralement avec du repos, du sommeil et une baisse temporaire de rythme. Le burn-out se caractérise plutôt par une fatigue durable, une dégradation du rapport au travail et une perte d’efficacité qui persistent malgré les tentatives de récupération. Un médecin peut aider à faire la part des choses."
+        },
+        {
+          "q": "Peut-on éviter un burn-out sans changer d’emploi ?",
+          "a": "Oui, lorsque des ajustements réels sont possibles : priorités revues, charge réduite, soutien managérial, horaires protégés, aménagement de poste ou changement de périmètre. En revanche, si les causes restent inchangées et que votre santé se dégrade, une mobilité ou un départ peut devoir être envisagé avec accompagnement."
+        },
+        {
+          "q": "Comment parler de ma surcharge à mon manager sans paraître incompétent ?",
+          "a": "Appuyez-vous sur des faits : missions, délais, temps disponible, risques pour la qualité et arbitrages nécessaires. Ne dites pas seulement « je suis débordé » ; formulez ce que vous pouvez faire dans le temps imparti et ce qui doit être reporté, réduit ou confié à quelqu’un d’autre."
+        },
+        {
+          "q": "Le télétravail aide-t-il à prévenir l’épuisement ?",
+          "a": "Il peut réduire les trajets et donner davantage de contrôle sur l’organisation, mais il peut aussi brouiller les frontières, renforcer l’isolement et allonger les journées. Il protège seulement si les horaires, la charge, les temps de contact et le droit à la déconnexion sont réellement encadrés."
+        },
+        {
+          "q": "Faut-il prendre un arrêt de travail en cas d’épuisement ?",
+          "a": "La décision dépend de votre état de santé et doit être discutée avec votre médecin. Un arrêt peut être nécessaire pour vous protéger et récupérer, mais il gagne à s’accompagner d’un suivi, d’un soutien et d’une réflexion sur les conditions de reprise afin de ne pas revenir à l’identique."
+        },
+        {
+          "q": "Qui contacter si mon entreprise ne prend pas mes alertes au sérieux ?",
+          "a": "Vous pouvez consulter votre médecin traitant et demander conseil au service de prévention et de santé au travail. Selon votre situation, un représentant du personnel, les ressources humaines ou un interlocuteur externe compétent peuvent aussi vous orienter. En cas de danger immédiat ou d’idées suicidaires, contactez les urgences ou une ligne de crise sans attendre."
+        }
+      ]
+    }
+  ]
+}

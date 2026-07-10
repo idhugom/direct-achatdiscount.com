@@ -1,0 +1,538 @@
+{
+  "title": "Comprendre le rôle du promoteur immobilier : définition et responsabilités clés",
+  "slug": "comprendre-le-role-du-promoteur-immobilier-definition-et-responsabilites-cles",
+  "path": "/divers/comprendre-le-role-du-promoteur-immobilier-definition-et-responsabilites-cles.html",
+  "category": "argent",
+  "tags": [
+    "promoteur immobilier",
+    "vefa",
+    "achat immobilier neuf",
+    "garanties immobilières",
+    "logement neuf",
+    "contrat de réservation"
+  ],
+  "excerpt": "Du terrain à la remise des clés, le promoteur pilote l’opération immobilière. Voici ses missions, ses responsabilités et vos garanties d’acheteur.",
+  "metaDescription": "Découvrez le rôle du promoteur immobilier, ses obligations, les garanties à vérifier et les bons réflexes avant d’acheter un logement neuf.",
+  "seoTitle": "Promoteur immobilier : rôle, obligations et garanties",
+  "heroKicker": "Immobilier neuf",
+  "readingTime": 12,
+  "date": "2024-02-04T09:08:14",
+  "image": {
+    "id": "1483",
+    "alt": "Comprendre le rôle du promoteur immobilier : définition et responsabilités clés",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le promoteur immobilier est l’interlocuteur central d’un programme neuf : il imagine l’opération, réunit les financements, fait construire et vend les logements. Son rôle ne se limite donc pas à commercialiser des appartements sur plan : il porte une part importante des risques techniques, administratifs et financiers du projet. Comprendre ses obligations vous aide à acheter plus sereinement, notamment dans le cadre d’une VEFA."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le promoteur conçoit, monte, finance et fait réaliser un programme immobilier ; il n’est pas forcément l’entreprise qui construit physiquement le bâtiment.",
+        "Dans un achat en VEFA, il doit vous fournir un contrat précis, respecter les règles de paiement échelonné et mettre en place des garanties protectrices.",
+        "La qualité d’un promoteur se vérifie autant dans ses documents contractuels, ses garanties et ses réalisations livrées que dans son discours commercial.",
+        "Le prix d’un logement neuf finance aussi le foncier, les études, les travaux, les frais de structure, les assurances, les équipements communs et le risque de l’opération.",
+        "À la livraison, inspectez le logement méthodiquement et consignez chaque défaut dans le procès-verbal : c’est un moment juridique décisif."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "18 à 36 mois",
+          "label": "ordre de grandeur fréquent entre le lancement des travaux et la livraison d’un programme résidentiel"
+        },
+        {
+          "value": "5 % maximum",
+          "label": "dépôt de garantie usuel autorisé à la réservation lorsque la vente doit être conclue dans l’année"
+        },
+        {
+          "value": "95 % maximum",
+          "label": "part du prix pouvant être appelée avant la mise à disposition du logement en VEFA"
+        },
+        {
+          "value": "10 ans",
+          "label": "durée de la garantie décennale pour les désordres graves relevant de son champ"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’est-ce qu’un promoteur immobilier ?",
+      "id": "qu-est-ce-qu-un-promoteur-immobilier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un <strong>promoteur immobilier</strong> est une société ou un professionnel qui prend l’initiative d’une opération immobilière. Il repère ou acquiert un terrain, étudie sa faisabilité, obtient les autorisations, conçoit le programme, organise son financement, sélectionne les intervenants, suit la réalisation puis commercialise les biens. Il peut s’agir d’une résidence d’appartements, de maisons groupées, de bureaux, de commerces ou d’une résidence services."
+    },
+    {
+      "type": "paragraph",
+      "html": "En pratique, le promoteur agit comme un <strong>chef d’orchestre et un porteur de risque</strong>. Il ne coule généralement pas le béton lui-même et ne pose pas les équipements : ces tâches reviennent à des entreprises de gros œuvre et de second œuvre, sous la conduite d’un maître d’œuvre, d’architectes ou d’équipes techniques. Mais c’est bien le promoteur qui assemble les pièces du projet et qui, face à l’acquéreur, assume les engagements du vendeur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut aussi distinguer le promoteur de la structure juridique créée pour une opération donnée. Certains programmes sont portés par une société dédiée, souvent appelée société de programme. Pour vous, l’enjeu n’est pas de connaître chaque montage en détail, mais d’identifier le <strong>vendeur indiqué dans les contrats</strong>, la solidité du groupe qui le soutient et l’existence des garanties obligatoires."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Promoteur, constructeur, lotisseur et agent : ne pas confondre",
+      "id": "promoteur-constructeur-lotisseur-et-agent-ne-pas-confondre"
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux acteurs d’un projet immobilier neuf",
+      "headers": [
+        "Acteur",
+        "Rôle principal",
+        "Ce qu’il vous doit directement"
+      ],
+      "rows": [
+        [
+          "Promoteur immobilier",
+          "Monte l’opération, fait construire et vend les lots",
+          "Les engagements du contrat de vente, les garanties et la livraison du bien conforme"
+        ],
+        [
+          "Constructeur de maison individuelle",
+          "Construit une maison pour le compte d’un client, souvent sur un terrain choisi séparément",
+          "Les engagements du contrat de construction, le prix et le délai convenus, selon le cadre contractuel applicable"
+        ],
+        [
+          "Lotisseur",
+          "Aménage et viabilise un terrain pour créer des parcelles à bâtir",
+          "Un terrain conforme à la vente et aux travaux d’aménagement prévus"
+        ],
+        [
+          "Agent immobilier",
+          "Met en relation vendeur et acheteur ou commercialise pour le compte d’un mandant",
+          "Son devoir d’information et les obligations liées à son mandat ; il n’est généralement pas le vendeur"
+        ],
+        [
+          "Maître d’œuvre ou architecte",
+          "Conçoit et/ou suit techniquement les travaux selon sa mission",
+          "Les prestations prévues par son contrat de maîtrise d’œuvre ou de conception"
+        ]
+      ],
+      "note": "Une même opération peut réunir plusieurs de ces acteurs. Vérifiez toujours qui est votre cocontractant et qui signe les garanties."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le repère à garder en tête",
+      "html": "Le promoteur est d’abord le <strong>vendeur d’un bien à construire ou récemment construit</strong>. Même si un conseiller commercial, une agence ou un courtier vous accompagne, vos droits essentiels naissent des documents signés avec le vendeur et des garanties attachées à l’opération."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les missions du promoteur, du terrain à la remise des clés",
+      "id": "les-missions-du-promoteur-du-terrain-a-la-remise-des-cles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un programme immobilier commence bien avant l’ouverture du chantier. Le promoteur évalue la demande locale, le prix du foncier, les contraintes du plan local d’urbanisme, l’accès, les réseaux, la topographie, les nuisances éventuelles et le niveau de prix acceptable. Une erreur sur l’un de ces paramètres peut fragiliser l’ensemble de l’opération : c’est pourquoi cette phase de préparation est déterminante."
+    },
+    {
+      "type": "steps",
+      "title": "Les grandes étapes d’une opération de promotion",
+      "items": [
+        {
+          "title": "Étudier et sécuriser le foncier",
+          "text": "Le promoteur négocie l’acquisition du terrain, examine les servitudes, les règles d’urbanisme, les réseaux, les risques et les conditions techniques de construction."
+        },
+        {
+          "title": "Concevoir le programme",
+          "text": "Avec l’architecte et les bureaux d’études, il définit les bâtiments, les logements, les parties communes, les prestations, les stationnements et l’insertion du projet dans son environnement."
+        },
+        {
+          "title": "Obtenir les autorisations",
+          "text": "Il dépose notamment la demande de permis de construire et gère les échanges nécessaires. Le projet ne peut avancer normalement qu’une fois les autorisations purgées des recours ou suffisamment sécurisées."
+        },
+        {
+          "title": "Financer et assurer l’opération",
+          "text": "Il réunit les fonds propres, les concours bancaires, les assurances et les garanties nécessaires. Les préventes peuvent aussi conditionner le démarrage du chantier."
+        },
+        {
+          "title": "Faire réaliser les travaux",
+          "text": "Il passe les marchés avec les entreprises, coordonne les intervenants et pilote le respect du coût, du calendrier et des choix techniques."
+        },
+        {
+          "title": "Vendre, livrer et lever les réserves",
+          "text": "Il signe les contrats, appelle les fonds au fur et à mesure de l’avancement prévu, organise les visites puis remet les clés et traite les réserves signalées."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette chaîne explique pourquoi les délais de livraison peuvent évoluer. Les intempéries inhabituelles, les difficultés d’approvisionnement, une découverte géotechnique, la défaillance d’une entreprise ou une modification administrative peuvent peser sur le calendrier. Cela ne signifie pas que tout retard est acceptable : le contrat doit prévoir une date ou une période de livraison ainsi que les circonstances susceptibles de justifier un décalage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelles sont ses responsabilités envers l’acheteur ?",
+      "id": "quelles-sont-ses-responsabilites-envers-l-acheteur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque vous achetez un logement neuf sur plan, le promoteur doit vous vendre un bien conforme à la description contractuelle. Son obligation porte sur la consistance du logement, sa surface, sa situation, les matériaux ou équipements prévus, les parties communes annoncées et, plus largement, les documents contractuels remis. Les brochures commerciales sont utiles, mais elles ne remplacent jamais la notice descriptive et l’acte de vente."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le promoteur a également un devoir d’information. Vous devez pouvoir comprendre ce que vous achetez, ce qui est inclus dans le prix, ce qui ne l’est pas, les options éventuelles, les délais, les conditions de financement, les charges ou équipements collectifs prévisibles et les caractéristiques du programme. Une formule vague telle que « prestations équivalentes » mérite d’être éclaircie : demandez toujours comment l’équivalence sera appréciée et consignée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Conformité, qualité et délai : trois engagements distincts",
+      "id": "conformite-qualite-et-delai-trois-engagements-distincts"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>conformité</strong> concerne l’écart entre le logement livré et les plans ou descriptifs signés : une cloison déplacée, une prise manquante, un balcon aux dimensions différentes ou un équipement remplacé sans cadre clair peuvent être concernés. La <strong>qualité</strong> vise les malfaçons ou le mauvais fonctionnement d’un ouvrage. Le <strong>délai</strong>, enfin, se lit au regard de la date ou de la période prévue, des conditions de report admises et des éventuelles pénalités. Ne mélangez pas ces sujets : leurs preuves et leurs recours peuvent différer."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une modification n’est pas forcément une non-conformité",
+      "html": "Un promoteur peut parfois remplacer un matériau ou adapter un détail technique, notamment en cas d’indisponibilité ou de contrainte de chantier. Mais l’adaptation ne doit pas dégrader injustement le niveau de prestation ni contredire les stipulations essentielles du contrat. Conservez les échanges écrits et demandez un avenant lorsque le changement est significatif."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "VEFA : contrat, paiements et garanties à connaître",
+      "id": "vefa-contrat-paiements-et-garanties-a-connaitre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>vente en l’état futur d’achèvement</strong>, ou VEFA, est le cadre le plus courant pour acheter un logement neuf avant sa construction ou pendant les travaux. Vous devenez progressivement propriétaire de ce qui est réalisé, tandis que le promoteur s’engage à achever l’immeuble et à vous livrer le lot prévu. Le parcours comprend généralement un contrat de réservation, puis un acte authentique signé chez le notaire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le contrat de réservation doit notamment permettre d’identifier le logement, son prix prévisionnel, sa surface, la date envisagée de signature, le délai prévisionnel de livraison et les conditions de récupération du dépôt de garantie dans les cas prévus. Avant l’acte définitif, prenez le temps de comparer chaque donnée avec la grille de vente initiale : numéro de lot, étage, exposition, annexe, parking, cave, terrasse et plan."
+    },
+    {
+      "type": "table",
+      "caption": "Repères à examiner dans une vente en VEFA",
+      "headers": [
+        "Élément",
+        "À quoi sert-il",
+        "Votre réflexe"
+      ],
+      "rows": [
+        [
+          "Plan et notice descriptive",
+          "Définissent le logement, les équipements et les prestations",
+          "Vérifiez les surfaces, cotes utiles, rangements, revêtements, chauffage, ventilation et équipements inclus"
+        ],
+        [
+          "Prix et options",
+          "Distinguent le prix principal des travaux modificatifs et autres coûts",
+          "Demandez une liste écrite de ce qui est inclus, chiffré séparément ou laissé à votre charge"
+        ],
+        [
+          "Échéancier des appels de fonds",
+          "Cadre les paiements selon l’avancement de la construction",
+          "Ne versez que les sommes prévues au contrat et contrôlez la cohérence de l’avancement annoncé"
+        ],
+        [
+          "Garantie financière d’achèvement",
+          "Protège l’acquéreur si le promoteur ne peut plus financer l’achèvement",
+          "Demandez l’identité du garant et vérifiez que la garantie figure bien au dossier"
+        ],
+        [
+          "Date de livraison et causes de prorogation",
+          "Fixent le calendrier et les situations de report invoquées",
+          "Lisez précisément les causes admises et la procédure d’information prévue"
+        ],
+        [
+          "Règlement de copropriété et plans des communs",
+          "Décrivent l’organisation future de l’immeuble",
+          "Repérez les équipements collectifs, les usages, les charges potentielles et les lots annexes"
+        ]
+      ],
+      "note": "Le notaire est un interlocuteur essentiel avant la signature : soumettez-lui vos questions suffisamment tôt, surtout si une clause ou un plan vous paraît ambigu."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les paiements sont légalement encadrés par des plafonds d’avancement. À titre de repère, les appels de fonds atteignent couramment une part limitée du prix à l’achèvement des fondations, une part plus élevée à la mise hors d’eau, puis jusqu’à 95 % à l’achèvement de l’immeuble. Le solde est lié à la mise à disposition et peut faire l’objet d’une consignation dans certaines situations de réserves, selon les règles applicables. Le détail de votre échéancier contractuel prime : lisez-le avant de signer et anticipez les déblocages de votre prêt."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les garanties après réception et livraison",
+      "id": "les-garanties-apres-reception-et-livraison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Plusieurs garanties peuvent intervenir, chacune avec un objet propre. La <strong>garantie de parfait achèvement</strong> couvre, pendant l’année qui suit la réception des travaux, les désordres signalés selon les modalités prévues. La <strong>garantie biennale</strong> concerne pendant deux ans certains éléments d’équipement dissociables. La <strong>garantie décennale</strong> vise pendant dix ans les dommages les plus graves, notamment lorsqu’ils compromettent la solidité de l’ouvrage ou le rendent impropre à sa destination. L’assurance dommages-ouvrage a vocation à faciliter l’indemnisation de certains sinistres relevant de la décennale, sans attendre que les responsabilités soient tranchées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces garanties ne dispensent pas d’être attentif le jour de la livraison. Un défaut apparent non relevé peut compliquer les démarches ultérieures. Si vous ne vous faites pas assister par un professionnel, prévoyez du temps, des outils simples et une méthode d’inspection rigoureuse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment évaluer le sérieux d’un promoteur avant de signer ?",
+      "id": "comment-evaluer-le-serieux-d-un-promoteur-avant-de-signer"
+    },
+    {
+      "type": "paragraph",
+      "html": "La notoriété peut rassurer, mais elle n’est pas un contrôle suffisant. Un petit promoteur expérimenté peut mener une opération très bien conçue ; un acteur de grande taille peut connaître des retards ou des difficultés sur un programme particulier. Votre analyse doit porter à la fois sur le promoteur, le vendeur contractuel, le garant financier, le projet lui-même et la qualité des documents remis."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La vérification utile avant la réservation",
+      "items": [
+        "Identifiez précisément la société qui vend le lot, son adresse, son immatriculation et, s’il y en a un, le groupe auquel elle est rattachée.",
+        "Demandez où voir des réalisations déjà livrées et observez les façades, parties communes, finitions, accès et vieillissement général.",
+        "Lisez intégralement la notice descriptive : ne vous contentez pas des visuels, qui peuvent comporter des aménagements non contractuels.",
+        "Vérifiez les conditions suspensives de votre réservation, en particulier l’obtention de votre prêt si vous financez à crédit.",
+        "Demandez un plan coté, l’orientation réelle, les vues probables, les bâtiments voisins et les projets urbains connus autour de la résidence.",
+        "Contrôlez la présence de la garantie financière d’achèvement dans le dossier de vente et l’identité de son émetteur.",
+        "Faites relire le contrat par votre notaire ou un professionnel compétent avant tout engagement important.",
+        "Conservez les documents, courriels, plans datés, notices et comptes rendus de rendez-vous dans un dossier unique."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Visitez le quartier à plusieurs moments",
+      "html": "Un logement témoin renseigne sur les finitions, pas sur votre environnement quotidien. Passez devant l’adresse le matin, en fin de journée et si possible le week-end. Vérifiez le bruit, l’ensoleillement, le stationnement, les flux de circulation, les commerces réels et les futurs chantiers visibles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que finance le prix d’un programme neuf",
+      "id": "ce-que-finance-le-prix-d-un-programme-neuf"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix affiché d’un logement vendu par un promoteur ne correspond pas seulement au coût des murs. Il agrège le terrain, les études, l’architecture, les travaux, les raccordements, les taxes et participations, les assurances, les frais financiers, la commercialisation, les espaces communs, les aléas et la marge qui rémunère le risque de l’opération. Dans les zones où le foncier est rare ou les contraintes techniques élevées, le terrain et la complexité réglementaire peuvent peser lourdement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour votre budget, séparez toujours le prix d’acquisition de l’enveloppe totale. Celle-ci peut inclure les frais liés à l’acte, le financement et l’assurance emprunteur, les intérêts intercalaires pendant les déblocages successifs, les frais de garantie du prêt, les éventuels travaux modificatifs acquéreur, l’ameublement, le déménagement et les premières dépenses de copropriété. Un appartement livré « prêt à décorer » n’est pas nécessairement prêt à habiter sans aucun achat complémentaire."
+    },
+    {
+      "type": "table",
+      "caption": "Budget d’un achat sur plan : les postes à anticiper",
+      "headers": [
+        "Poste",
+        "Niveau de vigilance",
+        "Question à poser"
+      ],
+      "rows": [
+        [
+          "Prix du lot et annexes",
+          "Très élevé",
+          "Le parking, la cave, le cellier ou le local deux-roues privatif sont-ils compris ?"
+        ],
+        [
+          "Frais d’acquisition et financement",
+          "Élevé",
+          "Quel est mon coût global en intégrant prêt, assurance et déblocages progressifs ?"
+        ],
+        [
+          "Travaux modificatifs acquéreur",
+          "Variable",
+          "Quel est le coût, le délai de décision et l’incidence sur les plans ?"
+        ],
+        [
+          "Cuisine, luminaires, rangements et décoration",
+          "Souvent sous-estimé",
+          "Quels équipements sont réellement fournis à la livraison ?"
+        ],
+        [
+          "Charges de copropriété",
+          "À estimer avec prudence",
+          "Quels équipements communs généreront entretien, énergie ou contrats de maintenance ?"
+        ],
+        [
+          "Fiscalité et aides éventuelles",
+          "Dépend de votre situation",
+          "Suis-je éligible et quelles conditions dois-je respecter durablement ?"
+        ]
+      ],
+      "note": "Les dispositifs d’aide et avantages fiscaux évoluent. Vérifiez votre situation auprès d’un notaire, d’un conseiller indépendant ou de l’organisme compétent avant d’intégrer une aide à votre plan de financement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Acheter auprès d’un promoteur ou faire construire : quel choix ?",
+      "id": "acheter-aupres-d-un-promoteur-ou-faire-construire-quel-choix"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’achat auprès d’un promoteur convient particulièrement si vous recherchez un logement neuf dans un emplacement déjà sélectionné, avec une copropriété, des parties communes et un cadre contractuel de vente sur plan. Faire construire une maison sur un terrain offre davantage de liberté de conception, mais demande souvent de coordonner séparément le terrain, le contrat de construction, les raccordements, les aménagements extérieurs et les choix techniques."
+    },
+    {
+      "type": "comparison",
+      "title": "Promoteur immobilier ou construction de maison : l’arbitrage",
+      "left": {
+        "title": "Acheter un logement neuf au promoteur",
+        "points": [
+          "Projet déjà conçu, terrain et autorisations généralement portés par l’opération",
+          "Choix d’emplacement et de plan parfois limités, surtout après le lancement commercial",
+          "Copropriété, parties communes et règlement collectif à accepter",
+          "VEFA, appels de fonds et garanties propres à la vente d’immeuble à construire",
+          "Pertinent pour un appartement, une résidence urbaine ou une maison groupée"
+        ]
+      },
+      "right": {
+        "title": "Faire construire une maison",
+        "points": [
+          "Personnalisation plus large possible selon le terrain et le contrat",
+          "Terrain, viabilisation, accès et aménagements extérieurs à sécuriser avec attention",
+          "Vous supportez davantage de décisions et d’interfaces entre intervenants",
+          "Cadre contractuel à choisir soigneusement, avec garanties spécifiques selon la formule",
+          "Pertinent si vous visez une maison individuelle et acceptez un pilotage plus impliqué"
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Les atouts et limites d’un achat auprès d’un promoteur",
+      "pros": [
+        "Logement neuf conforme aux normes et usages contemporains au moment de sa construction.",
+        "Garantie financière d’achèvement et cadre protecteur de la VEFA lorsque les conditions sont réunies.",
+        "Possibilité de choisir certains matériaux ou aménagements avant la fin du chantier.",
+        "Moins de travaux lourds immédiats qu’en ancien, sous réserve de finitions et d’équipements à compléter.",
+        "Visibilité sur le prix de vente contractuel, hors options et frais annexes à anticiper."
+      ],
+      "cons": [
+        "Vous achetez souvent sans pouvoir visiter le logement finalisé avant la signature.",
+        "Les délais de chantier peuvent être longs et soumis à des aléas encadrés par le contrat.",
+        "Les plans, vues et aménagements paysagers demandent une lecture attentive pour éviter les déceptions.",
+        "La personnalisation est limitée par les contraintes techniques et les dates de décision.",
+        "Les charges futures et la vie de copropriété doivent être évaluées alors que l’immeuble n’est pas encore habité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Livraison : comment contrôler votre logement et formuler des réserves ?",
+      "id": "livraison-comment-controler-votre-logement-et-formuler-des-r"
+    },
+    {
+      "type": "paragraph",
+      "html": "La remise des clés ne doit pas être expédiée entre deux rendez-vous. La livraison est le moment où vous constatez l’état apparent du logement et où vous inscrivez les réserves éventuelles dans un procès-verbal. Une réserve doit être factuelle et localisée : « rayure sur le parquet devant la baie vitrée du séjour » est plus exploitable que « finition à revoir »."
+    },
+    {
+      "type": "steps",
+      "title": "La méthode pour une livraison efficace",
+      "items": [
+        {
+          "title": "Préparez vos documents",
+          "text": "Emportez les plans, la notice descriptive, la liste de vos options et les éventuels avenants. Chargez votre téléphone et prévoyez de prendre des photos datées."
+        },
+        {
+          "title": "Contrôlez pièce par pièce",
+          "text": "Comparez les équipements, les revêtements, les ouvrants, les prises, les points lumineux, la ventilation, les arrivées d’eau et les rangements avec vos documents."
+        },
+        {
+          "title": "Testez ce qui peut l’être",
+          "text": "Ouvrez fenêtres et volets, actionnez les commandes accessibles, vérifiez l’écoulement visible des points d’eau et repérez les défauts esthétiques sous plusieurs angles."
+        },
+        {
+          "title": "Examinez les annexes",
+          "text": "Ne négligez ni le parking, ni la cave, ni le balcon, ni la terrasse. Vérifiez leur numéro, leur accès, leur état et leur conformité à l’acte."
+        },
+        {
+          "title": "Rédigez les réserves avec précision",
+          "text": "Indiquez chaque défaut, son emplacement et, si possible, la correction attendue. Gardez un exemplaire signé du procès-verbal et des photographies."
+        },
+        {
+          "title": "Suivez la levée des réserves",
+          "text": "Conservez tous les échanges, demandez un calendrier d’intervention et confirmez par écrit la résolution ou la persistance de chaque point."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Faites-vous assister si nécessaire",
+      "html": "Pour un logement complexe, une livraison tendue ou si vous manquez d’assurance, vous pouvez vous faire accompagner par un professionnel du bâtiment. Son regard ne remplace pas vos propres vérifications, mais il peut aider à identifier des défauts techniques et à formuler des réserves exploitables."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Retard, malfaçon ou désaccord : les bons réflexes",
+      "id": "retard-malfacon-ou-desaccord-les-bons-reflexes"
+    },
+    {
+      "type": "paragraph",
+      "html": "En cas de difficulté, commencez par relire les documents contractuels : date de livraison, causes de prorogation, descriptif des prestations, modalités de notification et garanties. Puis formalisez votre demande par écrit, avec des éléments vérifiables. Un échange téléphonique peut débloquer une situation, mais il ne remplace pas une trace écrite lorsqu’un délai, une non-conformité ou une réserve est en jeu."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un retard, demandez les motifs invoqués, les justificatifs pertinents et une nouvelle prévision de livraison. Pour une non-conformité ou un défaut, transmettez des photographies, rappelez la clause ou le document concerné et sollicitez une solution avec délai. Si le différend persiste, l’intervention de votre notaire, d’une protection juridique, d’un conciliateur ou d’un conseil spécialisé peut être utile. Évitez toutefois de suspendre un paiement ou de prendre une initiative contractuelle sans avis adapté : les conséquences peuvent être importantes."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les erreurs qui coûtent le plus cher",
+      "items": [
+        "Signer sur la seule base d’une brochure ou d’un appartement témoin sans lire la notice descriptive.",
+        "Sous-estimer les intérêts intercalaires et les dépenses à engager juste après la livraison.",
+        "Croire qu’une date « prévisionnelle » suffit sans examiner les clauses de report.",
+        "Accepter des changements importants uniquement à l’oral.",
+        "Négliger l’environnement réel du programme, les bâtiments voisins ou les futurs projets connus.",
+        "Arriver à la livraison sans plans, sans temps disponible et sans méthode de contrôle.",
+        "Attendre trop longtemps avant de signaler par écrit une réserve ou un désordre."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le bon niveau d’exigence face au promoteur",
+      "id": "le-bon-niveau-d-exigence-face-au-promoteur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon promoteur ne se juge pas à la perfection absolue d’un chantier, objectif rarement réaliste, mais à sa capacité à préparer le projet, documenter ses engagements, informer clairement, organiser les corrections et tenir ses obligations. De votre côté, l’achat sera plus sûr si vous posez des questions précises, si vous centralisez les preuves et si vous distinguez les promesses commerciales des engagements contractuels."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de réserver, prenez le temps de vérifier le vendeur, la garantie financière, la notice, les plans, le budget global et votre calendrier de financement. Avant de réceptionner, contrôlez le logement sans précipitation. Cette rigueur ne traduit pas une défiance excessive : elle correspond simplement à l’importance financière et pratique d’un achat immobilier neuf."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le promoteur immobilier",
+      "items": [
+        {
+          "q": "Le promoteur immobilier est-il le propriétaire du terrain ?",
+          "a": "Souvent, il achète le terrain ou en sécurise l’acquisition avant de lancer le programme. Mais les montages peuvent varier : il peut intervenir via une société dédiée ou sous certaines conditions prévues avec le propriétaire initial. Pour vous, l’essentiel est d’identifier le vendeur mentionné au contrat et de vérifier que le projet est juridiquement sécurisé."
+        },
+        {
+          "q": "Le promoteur construit-il lui-même les logements ?",
+          "a": "Pas nécessairement. Le promoteur pilote l’opération et contracte généralement avec des entreprises de construction, des architectes, des bureaux d’études et d’autres intervenants. Il reste néanmoins votre vendeur et votre interlocuteur contractuel pour la livraison du logement acheté."
+        },
+        {
+          "q": "Que garantit la garantie financière d’achèvement en VEFA ?",
+          "a": "Elle vise à assurer l’achèvement de l’immeuble si le promoteur connaît une défaillance financière. Elle constitue une protection majeure de l’acquéreur dans une vente sur plan. Vérifiez sa présence dans votre dossier, l’identité du garant et les informations reprises dans l’acte de vente."
+        },
+        {
+          "q": "Peut-on négocier avec un promoteur immobilier ?",
+          "a": "Cela dépend de l’état de commercialisation du programme, de la demande locale et de la politique du vendeur. La marge peut être réduite sur le prix, mais vous pouvez aussi discuter d’options, de certains équipements, d’une annexe ou des conditions pratiques. Toute concession importante doit être inscrite clairement dans un document contractuel ou un avenant."
+        },
+        {
+          "q": "Que faire si le logement livré ne correspond pas au plan ?",
+          "a": "Signalez l’écart dès la livraison dans le procès-verbal de réserves, avec une description précise et des photos. Rapprochez-vous de vos plans, de la notice et des éventuels avenants. Si le désaccord est sérieux ou persistant, demandez conseil à votre notaire ou à un professionnel compétent afin de préserver vos droits et d’adopter la bonne procédure."
+        },
+        {
+          "q": "Un logement neuf livré sans défaut est-il réaliste ?",
+          "a": "De petites finitions ou des réglages peuvent apparaître sur un chantier neuf, surtout dans un immeuble collectif. L’important est qu’ils soient identifiés, consignés et corrigés dans un délai raisonnable. Des défauts répétés, une non-conformité aux documents ou un désordre affectant l’usage du logement exigent en revanche une réaction formelle et rapide."
+        }
+      ]
+    }
+  ]
+}

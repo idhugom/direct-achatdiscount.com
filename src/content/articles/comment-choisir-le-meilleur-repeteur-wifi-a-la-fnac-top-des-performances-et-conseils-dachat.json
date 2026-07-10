@@ -1,0 +1,427 @@
+{
+  "title": "Comment choisir le meilleur répéteur wifi à la fnac : top des performances et conseils d’achat",
+  "slug": "comment-choisir-le-meilleur-repeteur-wifi-a-la-fnac-top-des-performances-et-conseils-dachat",
+  "path": "/divers/comment-choisir-le-meilleur-repeteur-wifi-a-la-fnac-top-des-performances-et-conseils-dachat.html",
+  "category": "tech",
+  "tags": [
+    "répéteur wifi",
+    "wifi 6",
+    "réseau mesh",
+    "box internet",
+    "fnac",
+    "connexion internet"
+  ],
+  "excerpt": "Normes Wi‑Fi, bandes, prise Ethernet, mesh et budget : les critères concrets pour trouver un répéteur réellement adapté à votre logement.",
+  "metaDescription": "Répéteur Wi‑Fi à la Fnac : comparez normes, débit, bandes, mesh et budget pour étendre votre connexion sans acheter un modèle mal adapté chez vous.",
+  "seoTitle": "Répéteur Wi‑Fi Fnac : bien choisir le meilleur modèle",
+  "heroKicker": "Wi‑Fi partout",
+  "readingTime": 12,
+  "date": "2024-01-30T07:21:14",
+  "image": {
+    "id": "1465",
+    "alt": "Comment choisir le meilleur répéteur wifi à la fnac : top des performances et conseils d’achat",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un répéteur Wi‑Fi peut éliminer une zone blanche dans une chambre, un bureau ou à l’étage, à condition de ne pas lui demander l’impossible. À la Fnac, les fiches techniques et les promesses de débit peuvent vite prêter à confusion : voici comment comparer les modèles sur des critères qui auront un effet réel chez vous."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel avant d’acheter",
+      "items": [
+        "Le meilleur répéteur n’est pas celui qui affiche le plus gros débit théorique, mais celui qui reçoit encore un <strong>bon signal de votre box</strong> à l’endroit où vous l’installez.",
+        "Pour une connexion rapide et stable, privilégiez un modèle <strong>bi-bande Wi‑Fi 6</strong> au minimum ; un appareil tri-bande devient intéressant dans les foyers très connectés ou pour un réseau mesh.",
+        "Un <strong>port Ethernet</strong> est un vrai atout : il permet de relier un appareil fixe ou de transformer le répéteur en point d’accès avec un câble réseau.",
+        "Si le Wi‑Fi est mauvais dans plusieurs pièces, un <strong>kit mesh</strong>, un point d’accès filaire ou une liaison CPL peut être plus pertinent qu’un répéteur seul.",
+        "En magasin comme en ligne, contrôlez la compatibilité, les conditions de retour et l’identité du vendeur lorsque l’article est proposé via une marketplace."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Répéteur Wi‑Fi : ce qu’il améliore, et ce qu’il ne peut pas résoudre",
+      "id": "repeteur-wi-fi-ce-qu-il-ameliore-et-ce-qu-il-ne-peut-pas-res"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un répéteur Wi‑Fi, aussi appelé amplificateur ou extender, capte le réseau sans fil émis par votre box puis le rediffuse plus loin. Il est particulièrement utile lorsque le signal reste correct dans le couloir, près de l’escalier ou dans une pièce intermédiaire, mais devient faible dans la pièce suivante. Son rôle est donc d’<strong>étendre la couverture</strong>, pas de créer une connexion rapide là où il ne reçoit quasiment plus rien."
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est la nuance décisive : installé dans une zone déjà blanche, le répéteur ne fait que répéter un mauvais signal. Dans ce cas, les coupures, le débit faible et la latence resteront présents. Il faut le placer à mi-chemin entre la box et la zone à couvrir, là où votre téléphone ou ordinateur capte encore correctement le réseau principal."
+    },
+    {
+      "type": "comparison",
+      "title": "Répéteur classique ou système mesh ?",
+      "left": {
+        "title": "Répéteur Wi‑Fi",
+        "points": [
+          "Solution ciblée pour une pièce, un étage ou une petite dépendance proche.",
+          "Installation économique et généralement très rapide via WPS ou application.",
+          "Peut créer un second nom de réseau selon le modèle et la configuration.",
+          "Ses performances dépendent fortement de la qualité du lien sans fil avec la box."
+        ]
+      },
+      "right": {
+        "title": "Système Wi‑Fi mesh",
+        "points": [
+          "Plusieurs bornes coopèrent pour couvrir plusieurs zones d’un grand logement.",
+          "Itinérance plus fluide : vos appareils basculent plus facilement d’une borne à l’autre.",
+          "Meilleur choix pour de nombreux appareils, plusieurs étages ou des murs épais.",
+          "Budget supérieur et écosystème parfois fermé ; l’ajout de bornes doit être vérifié."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas portée et débit",
+      "html": "Un indicateur de signal au maximum ne garantit pas une connexion rapide. Un répéteur peut couvrir loin en 2,4 GHz, mais offrir un débit modeste si la bande est encombrée ou si la liaison avec la box est faible. Vérifiez toujours la <strong>bande utilisée pour relier le répéteur à la box</strong>, et pas seulement le débit annoncé sur l’emballage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les critères qui déterminent vraiment les performances",
+      "id": "les-criteres-qui-determinent-vraiment-les-performances"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les mentions commerciales du type « vitesse totale » additionnent souvent les capacités de plusieurs bandes. Elles ne correspondent ni au débit d’un seul appareil, ni au débit que vous mesurerez après les murs, les interférences et le partage de la connexion entre les habitants. Pour choisir correctement, lisez la fiche du produit dans l’ordre suivant : norme Wi‑Fi, nombre de bandes, ports, mode de fonctionnement, puis seulement débit théorique."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Wi‑Fi 5, Wi‑Fi 6, Wi‑Fi 6E ou Wi‑Fi 7 : quelle norme choisir ?",
+      "id": "wi-fi-5-wi-fi-6-wi-fi-6e-ou-wi-fi-7-quelle-norme-choisir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>Wi‑Fi 5</strong> reste suffisant pour une navigation simple et quelques appareils, mais il constitue rarement le meilleur achat si vous équipez aujourd’hui un logement principal. Le <strong>Wi‑Fi 6</strong> est le choix le plus équilibré : il gère mieux les environnements chargés, plusieurs appareils simultanés et les usages comme le streaming haute définition ou le télétravail. Il reste compatible avec les appareils plus anciens, même si ceux-ci ne profiteront pas de toutes ses fonctions."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>Wi‑Fi 6E</strong> ajoute la bande 6 GHz. Elle peut être moins encombrée, mais sa portée à travers les obstacles est plus limitée et vos appareils doivent également être compatibles 6 GHz. Le <strong>Wi‑Fi 7</strong> apporte des fonctions plus avancées, notamment pour agréger ou exploiter plus efficacement les bandes selon les équipements compatibles. C’est une option de long terme, souvent coûteuse, qui n’a de sens que si votre box, vos appareils récents et votre usage justifient ce surcoût."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Une, deux ou trois bandes : le point technique le plus important",
+      "id": "une-deux-ou-trois-bandes-le-point-technique-le-plus-importan"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un modèle <strong>monobande</strong>, généralement limité au 2,4 GHz, est à réserver aux besoins très simples. Un répéteur <strong>bi-bande</strong> combine 2,4 GHz et 5 GHz : le 2,4 GHz traverse souvent mieux les cloisons, tandis que le 5 GHz offre habituellement plus de débit à moyenne distance. C’est le minimum recommandé dans la plupart des cas."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un modèle <strong>tri-bande</strong> possède une bande supplémentaire. Son intérêt est de pouvoir réserver une bande au lien entre la box et le répéteur — le <em>backhaul</em> — tout en laissant les autres bandes aux appareils. Cette architecture limite la perte de performances typique d’un répéteur qui doit recevoir puis réémettre sur le même canal. Elle est particulièrement utile avec une fibre rapide, des jeux en ligne, des transferts de fichiers ou beaucoup d’appareils actifs."
+    },
+    {
+      "type": "table",
+      "caption": "Les caractéristiques à comparer avant de choisir un répéteur Wi‑Fi à la Fnac",
+      "headers": [
+        "Critère",
+        "À privilégier",
+        "Pourquoi c’est utile",
+        "À relativiser"
+      ],
+      "rows": [
+        [
+          "Norme sans fil",
+          "Wi‑Fi 6 pour la majorité des foyers ; 6E ou 7 selon équipements compatibles",
+          "Meilleure gestion de nombreux appareils et achat plus durable",
+          "Une norme récente ne compense pas un mauvais emplacement"
+        ],
+        [
+          "Bandes radio",
+          "Bi-bande au minimum ; tri-bande pour débit et réseau chargé",
+          "Évite de tout faire transiter sur une seule liaison sans fil",
+          "La bande 6 GHz ne sert pas sans clients compatibles"
+        ],
+        [
+          "Port Ethernet",
+          "Gigabit au minimum ; plus selon votre réseau et votre usage",
+          "Branche TV, PC, console ou câble le répéteur à la box",
+          "Un port rapide ne rend pas le lien Wi‑Fi amont plus rapide"
+        ],
+        [
+          "Mode point d’accès",
+          "Présent si une prise réseau est disponible dans la zone",
+          "Le câble Ethernet apporte stabilité et débit",
+          "Il faut pouvoir tirer ou disposer d’un câble réseau"
+        ],
+        [
+          "Mesh / EasyMesh",
+          "Compatible avec votre écosystème ou votre box, après vérification",
+          "Facilite l’itinérance et l’extension future",
+          "Le mot « mesh » seul ne garantit pas l’interopérabilité"
+        ],
+        [
+          "Sécurité et mises à jour",
+          "WPA3, application claire et firmware maintenu",
+          "Protège le réseau et corrige les défauts",
+          "WPS reste pratique, mais n’est pas un critère de sécurité à lui seul"
+        ]
+      ],
+      "note": "Les débits inscrits sur les boîtes sont des maximums théoriques cumulés. Comparez d’abord l’architecture radio et vos besoins réels."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 bandes",
+          "label": "à viser au minimum pour un répéteur destiné à un usage quotidien"
+        },
+        {
+          "value": "1 port Ethernet",
+          "label": "peut suffire à améliorer nettement un poste fixe, une TV ou une console"
+        },
+        {
+          "value": "3 bandes",
+          "label": "configuration à envisager pour préserver le débit dans un foyer très connecté"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel type de répéteur selon votre logement et vos usages ?",
+      "id": "quel-type-de-repeteur-selon-votre-logement-et-vos-usages"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de filtrer les références à la Fnac, décrivez votre problème avec précision. Une chambre qui capte mal au bout d’un couloir ne demande pas la même solution qu’une maison de deux étages en béton, un atelier séparé ou un bureau qui héberge des visioconférences toute la journée. Le bon appareil est celui qui corrige <strong>la zone et l’usage réellement pénalisés</strong>, sans faire exploser le budget."
+    },
+    {
+      "type": "table",
+      "caption": "Le bon niveau d’équipement selon le besoin",
+      "headers": [
+        "Situation",
+        "Solution la plus cohérente",
+        "Configuration à rechercher",
+        "Pourquoi"
+      ],
+      "rows": [
+        [
+          "Une pièce éloignée, navigation et streaming occasionnel",
+          "Répéteur compact",
+          "Bi-bande, Wi‑Fi 6, installation murale",
+          "Rapport simplicité/prix adapté à une extension ponctuelle"
+        ],
+        [
+          "Bureau en télétravail ou console fixe",
+          "Répéteur avec Ethernet ou point d’accès",
+          "Wi‑Fi 6, port Gigabit, mode point d’accès",
+          "Possibilité de câbler l’appareil sensible pour plus de stabilité"
+        ],
+        [
+          "Grand appartement ou maison sur plusieurs niveaux",
+          "Kit mesh ou plusieurs bornes compatibles",
+          "Wi‑Fi 6, backhaul dédié ou Ethernet, itinérance",
+          "Couverture plus homogène qu’avec une succession de répéteurs"
+        ],
+        [
+          "Murs très épais, annexe ou dépendance",
+          "Câble Ethernet, point d’accès ou CPL selon l’installation électrique",
+          "Port Ethernet, mode point d’accès ; CPL avec prise gigogne si nécessaire",
+          "Le réseau sans fil seul traverse parfois trop mal les obstacles"
+        ],
+        [
+          "Fibre rapide et nombreux appareils récents",
+          "Répéteur tri-bande ou mesh évolué",
+          "Wi‑Fi 6/6E/7 selon compatibilité, Ethernet rapide",
+          "Réduit le risque de goulot d’étranglement sur le lien radio"
+        ]
+      ],
+      "note": "Pour une dépendance éloignée, un câble Ethernet extérieur adapté ou une liaison radio dédiée peut être nécessaire : un répéteur intérieur ne franchira pas magiquement une grande distance ni plusieurs murs porteurs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : combien prévoir sans payer pour des fonctions inutiles ?",
+      "id": "budget-combien-prevoir-sans-payer-pour-des-fonctions-inutile"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les tarifs évoluent selon les promotions et les vendeurs, mais les écarts suivent une logique assez stable. Les modèles d’entrée de gamme, souvent Wi‑Fi 5 ou Wi‑Fi 6 très simples, se situent généralement autour de <strong>quelques dizaines d’euros</strong>. Ils dépannent une zone limitée, sans exigences fortes. Une enveloppe d’environ <strong>60 à 120 euros</strong> donne accès à des répéteurs Wi‑Fi 6 bi-bande mieux équipés, parfois avec un port Ethernet et des fonctions mesh."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au-delà, comptez couramment <strong>plus d’une centaine d’euros</strong> pour un appareil tri-bande performant, un modèle compatible 6 GHz ou les premières offres Wi‑Fi 7. Les kits mesh à deux ou trois bornes représentent un budget plus élevé, qui peut aller de la centaine d’euros à plusieurs centaines selon les bandes, les ports et le nombre de bornes. N’achetez pas un répéteur haut de gamme pour une box ancienne et une connexion modeste : l’argent sera souvent mieux investi dans un point d’accès relié en Ethernet ou dans un système mesh bien positionné."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "L’arbitrage le plus rentable",
+      "html": "Si vous avez une prise réseau dans la pièce mal couverte, choisissez si possible un appareil doté d’un <strong>mode point d’accès</strong>. Relié en Ethernet à la box, il crée du Wi‑Fi local sans subir la perte liée à la répétition sans fil. C’est souvent plus efficace qu’un répéteur très haut de gamme utilisé uniquement en relais radio."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bien acheter à la Fnac : lire au-delà du nom du produit",
+      "id": "bien-acheter-a-la-fnac-lire-au-dela-du-nom-du-produit"
+    },
+    {
+      "type": "paragraph",
+      "html": "La Fnac permet de comparer de nombreux formats : appareils à brancher directement au mur, modèles de bureau avec antennes externes, bornes mesh et accessoires réseau. Les intitulés peuvent être proches, alors que les fonctions diffèrent fortement. Ouvrez la fiche technique complète et vérifiez notamment la norme Wi‑Fi, les bandes réellement prises en charge, le nombre et le type de ports Ethernet, la présence d’un mode point d’accès et la compatibilité mesh."
+    },
+    {
+      "type": "paragraph",
+      "html": "Regardez aussi si l’article est vendu directement par l’enseigne ou par un vendeur partenaire, car les modalités de livraison, de retour, de garantie et de service après-vente peuvent varier. Une référence importée peut aussi avoir une prise, une interface ou une garantie moins adaptées. Enfin, ne choisissez pas un modèle uniquement parce qu’il est annoncé compatible avec « toutes les box » : la compatibilité de base est courante, mais l’intégration mesh, le pilotage par application et les fonctions avancées ne le sont pas toujours."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La checklist à utiliser sur chaque fiche produit",
+      "items": [
+        "Vérifiez que le modèle est au moins <strong>bi-bande</strong> et qu’il prend en charge le Wi‑Fi 6 si votre budget le permet.",
+        "Contrôlez la présence d’un <strong>port Ethernet</strong> et sa vitesse si vous branchez un PC, une TV, une console ou un switch.",
+        "Lisez si la fonction <strong>mesh</strong> est compatible avec votre matériel exact, et non seulement avec une gamme de la même marque.",
+        "Identifiez le vendeur, les conditions de retour et la durée de garantie applicable.",
+        "Évitez de comparer uniquement les chiffres de débit total affichés : ce sont des plafonds théoriques.",
+        "Assurez-vous que l’appareil reçoit encore un signal correct à son futur emplacement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installation : l’emplacement compte plus que les antennes",
+      "id": "installation-l-emplacement-compte-plus-que-les-antennes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un excellent répéteur mal placé donne souvent un résultat décevant. Commencez par vous rendre dans la zone à problème avec votre téléphone connecté au Wi‑Fi de la box. Revenez ensuite vers la box jusqu’à retrouver un signal stable. C’est généralement dans cette zone intermédiaire, et non dans la pièce totalement mal couverte, que le répéteur doit être installé."
+    },
+    {
+      "type": "steps",
+      "title": "Installer un répéteur sans saboter ses performances",
+      "items": [
+        {
+          "title": "Repérez la zone intermédiaire",
+          "text": "Choisissez une prise dégagée, à hauteur raisonnable, entre la box et la zone blanche. Évitez les placards, derrière un téléviseur, près d’un meuble métallique ou contre un gros appareil électrique."
+        },
+        {
+          "title": "Associez-le proprement à la box",
+          "text": "Utilisez le bouton WPS si vous êtes à l’aise avec cette méthode, ou mieux l’application/connexion web du fabricant pour choisir les bandes, le nom du réseau et le mot de passe."
+        },
+        {
+          "title": "Préférez le 5 GHz pour le lien rapide",
+          "text": "Si l’emplacement le permet, reliez le répéteur à la bande 5 GHz de la box. Gardez le 2,4 GHz pour les appareils éloignés ou anciens qui en ont besoin."
+        },
+        {
+          "title": "Choisissez un nom de réseau cohérent",
+          "text": "Avec un système mesh, gardez généralement un SSID unique. Avec un répéteur classique, un nom distinct peut aider à vérifier sur quel point d’accès votre appareil est connecté lors des tests."
+        },
+        {
+          "title": "Testez dans les conditions réelles",
+          "text": "Mesurez navigation, appel vidéo, streaming et jeu dans la zone concernée, puis déplacez le répéteur de quelques mètres si nécessaire. Une prise différente peut changer nettement le résultat."
+        },
+        {
+          "title": "Mettez le firmware à jour",
+          "text": "Après l’installation, installez les mises à jour proposées et modifiez le mot de passe administrateur si l’interface le demande."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes : les éviter avant et après l’achat",
+      "id": "erreurs-frequentes-les-eviter-avant-et-apres-l-achat"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à utiliser une prise située dans la zone où le Wi‑Fi a déjà disparu. La seconde est de placer plusieurs répéteurs en chaîne : chaque saut supplémentaire peut dégrader la stabilité et le débit. Si vous devez couvrir plusieurs pièces éloignées, préférez un système mesh conçu pour cela ou un réseau avec liaison Ethernet."
+    },
+    {
+      "type": "paragraph",
+      "html": "Autre piège : croire qu’un répéteur Wi‑Fi 7 rendra instantanément une ancienne box et des téléphones Wi‑Fi 5 ultraperformants. La connexion s’aligne toujours sur les capacités du maillon le plus faible. De même, une lenteur peut venir de la ligne internet elle-même, d’un serveur distant, d’un ordinateur saturé ou d’interférences locales : testez d’abord près de la box, puis dans la zone étendue, afin d’isoler le problème."
+    },
+    {
+      "type": "proscons",
+      "title": "Le répéteur Wi‑Fi : pour et contre",
+      "pros": [
+        "Coût souvent contenu pour corriger une zone limitée.",
+        "Mise en place rapide, sans travaux ni câble à tirer.",
+        "Format compact disponible en prise murale ou en boîtier de bureau.",
+        "Port Ethernet possible pour connecter un appareil fixe.",
+        "Compatible avec la plupart des box pour l’extension Wi‑Fi de base."
+      ],
+      "cons": [
+        "Débit souvent inférieur à celui obtenu directement près de la box.",
+        "Très dépendant du positionnement et de l’épaisseur des murs.",
+        "Bascule entre réseaux parfois imparfaite avec les modèles non mesh.",
+        "Peu adapté à plusieurs zones blanches ou à une grande maison complexe.",
+        "Les débits théoriques mis en avant ne prédisent pas le résultat réel chez vous."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les alternatives quand un répéteur n’est pas la bonne réponse",
+      "id": "les-alternatives-quand-un-repeteur-n-est-pas-la-bonne-repons"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un ordinateur de bureau, une console ou un téléviseur, le <strong>câble Ethernet</strong> reste la référence en matière de stabilité. Si un câble arrive déjà dans la pièce, un point d’accès Wi‑Fi constitue presque toujours la solution la plus performante. Le CPL peut être utile lorsque tirer un câble est impossible, mais ses résultats dépendent fortement de la qualité et de l’organisation de l’installation électrique ; achetez-le avec une possibilité de retour et branchez les boîtiers directement sur des prises murales."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une maison étendue, un <strong>réseau mesh</strong> à deux ou trois bornes est généralement plus cohérent qu’un seul répéteur placé au hasard. Et si votre box est ancienne ou mal positionnée, vérifiez aussi la possibilité de la déplacer, d’activer correctement les bandes ou de remplacer son Wi‑Fi via un point d’accès : résoudre la cause à la source évite parfois d’ajouter des relais inutiles."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test qui évite un achat décevant",
+      "html": "Avant de commander, mesurez votre connexion <strong>près de la box</strong>, puis à l’endroit envisagé pour le répéteur. Si le débit y est déjà très faible ou instable, choisissez plutôt une solution filaire, CPL ou mesh avec une borne placée plus près de la box."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Notre méthode pour désigner le meilleur choix",
+      "id": "notre-methode-pour-designer-le-meilleur-choix"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas un meilleur répéteur universel : un modèle compact Wi‑Fi 6 bi-bande est souvent le meilleur rapport utilité/prix pour une seule pièce, tandis qu’un modèle tri-bande ou un mesh sera plus pertinent pour préserver les performances d’une fibre rapide dans un foyer connecté. Votre décision doit partir de la topologie du logement, du signal disponible à mi-chemin, du nombre d’appareils et de la possibilité — ou non — de relier un équipement en Ethernet."
+    },
+    {
+      "type": "paragraph",
+      "html": "En pratique, privilégiez d’abord une installation simple et bien placée, puis les fonctions qui répondent à un usage concret. Un répéteur correctement positionné, Wi‑Fi 6 bi-bande et doté d’un port Ethernet sera plus utile qu’un appareil plus cher dont les fonctionnalités avancées ne seront jamais exploitées. C’est ce raisonnement qui vous permettra de faire un choix pertinent parmi les références disponibles à la Fnac."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les répéteurs Wi‑Fi",
+      "items": [
+        {
+          "q": "Un répéteur Wi‑Fi fonctionne-t-il avec toutes les box internet ?",
+          "a": "Oui, pour l’extension Wi‑Fi de base, la plupart des répéteurs fonctionnent avec les box courantes, quelle que soit la technologie de votre accès internet. Vérifiez toutefois les bandes prises en charge, la sécurité WPA2/WPA3 et, surtout, la compatibilité spécifique si vous voulez utiliser une fonction mesh ou une application commune avec la box."
+        },
+        {
+          "q": "Où placer un répéteur Wi‑Fi pour qu’il soit efficace ?",
+          "a": "Placez-le entre la box et la zone mal couverte, là où le réseau principal reste encore stable. Ne le branchez pas dans la pièce sans signal : il n’aurait pas de connexion de qualité à retransmettre. Une prise dégagée, éloignée des masses métalliques et des appareils perturbateurs, est préférable."
+        },
+        {
+          "q": "Un répéteur réduit-il forcément le débit ?",
+          "a": "Un répéteur relié sans fil à la box peut réduire le débit disponible, surtout lorsqu’il reçoit et transmet sur la même bande. Un modèle tri-bande peut mieux préserver les performances en dédiant une bande au lien avec la box. La solution la plus stable reste un point d’accès ou un répéteur relié en Ethernet."
+        },
+        {
+          "q": "Faut-il choisir un répéteur Wi‑Fi 6 ou Wi‑Fi 7 ?",
+          "a": "Le Wi‑Fi 6 est le choix le plus rationnel pour la plupart des foyers : il est moderne, compatible avec les anciens appareils et adapté aux logements connectés. Le Wi‑Fi 7 vaut surtout pour un réseau récent, une connexion très rapide, des appareils compatibles et un budget plus confortable. Sans ces conditions, vous ne profiterez pas pleinement de son potentiel."
+        },
+        {
+          "q": "Répéteur Wi‑Fi ou CPL : que choisir ?",
+          "a": "Choisissez un répéteur lorsque le Wi‑Fi de la box est encore bon dans une zone intermédiaire et que vous voulez une installation très simple. Le CPL est à envisager quand les murs bloquent fortement le Wi‑Fi et qu’aucun câble Ethernet n’est disponible, mais ses performances varient selon l’installation électrique. Testez-le dans votre logement avec une solution de retour possible."
+        },
+        {
+          "q": "Pourquoi mon téléphone reste-t-il connecté à la box au lieu du répéteur ?",
+          "a": "Les appareils décident eux-mêmes du moment où ils changent de point d’accès et peuvent conserver un signal faible trop longtemps. Un réseau mesh améliore généralement cette itinérance. Avec un répéteur classique, vérifiez le nom des réseaux, redémarrez le Wi‑Fi du téléphone lors du test et ajustez l’emplacement du répéteur pour éviter une zone de recouvrement mal équilibrée."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "title": "Comment retirer facilement et en toute sécurité la batterie d’un ordinateur portable hp",
+  "slug": "comment-retirer-facilement-et-en-toute-securite-la-batterie-dun-ordinateur-portable-hp",
+  "path": "/divers/comment-retirer-facilement-et-en-toute-securite-la-batterie-dun-ordinateur-portable-hp.html",
+  "category": "tech",
+  "tags": [
+    "batterie hp",
+    "ordinateur portable",
+    "réparation pc",
+    "batterie interne",
+    "entretien ordinateur",
+    "sécurité lithium"
+  ],
+  "excerpt": "Batterie amovible ou intégrée : identifiez votre PC portable HP et suivez les bons gestes pour la déposer sans abîmer l’ordinateur ni vous exposer.",
+  "metaDescription": "Apprenez à retirer la batterie d’un ordinateur portable HP sans risque : modèle amovible ou interne, outils, étapes, précautions et remontage.",
+  "seoTitle": "Retirer la batterie d’un PC portable HP en sécurité",
+  "heroKicker": "Réparation sans risque",
+  "readingTime": 12,
+  "date": "2024-03-04T18:28:18",
+  "image": {
+    "id": "1793",
+    "alt": "Comment retirer facilement et en toute sécurité la batterie d’un ordinateur portable hp",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Retirer la batterie d’un ordinateur portable HP peut être une opération très simple… ou nécessiter l’ouverture complète du châssis. La différence dépend du modèle : les anciennes machines disposent souvent d’une batterie amovible par l’extérieur, tandis que la plupart des portables récents cachent une batterie interne. Dans tous les cas, la sécurité passe avant la rapidité : une batterie lithium-ion ne se force jamais et ne se manipule pas si elle est endommagée."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Identifiez le <strong>numéro de produit exact</strong> de votre HP avant toute intervention : la méthode d’ouverture varie fortement d’une gamme à l’autre.",
+        "Éteignez complètement le PC, débranchez le chargeur et tous les accessoires, puis maintenez le bouton Marche/Arrêt enfoncé avant d’ouvrir le châssis.",
+        "Une batterie externe se retire via des loquets ; une batterie interne impose de déposer le capot inférieur et de <strong>déconnecter sa nappe ou son câble</strong> avant de la dévisser.",
+        "N’utilisez jamais d’objet métallique pour faire levier sur une cellule lithium-ion et arrêtez-vous si la batterie est gonflée, percée, chaude ou dégage une odeur inhabituelle.",
+        "Après remplacement, vérifiez la charge, l’absence de surchauffe et le bon maintien du capot avant de reprendre une utilisation normale."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencez par identifier le type de batterie de votre HP",
+      "id": "commencez-par-identifier-le-type-de-batterie-de-votre-hp"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à suivre un tutoriel générique sans vérifier la conception de son ordinateur. Sous l’appellation HP se trouvent de nombreuses familles d’ordinateurs portables, avec des fixations, vis et nappes différentes. Retournez le PC et repérez son <strong>nom de modèle complet</strong> ou son numéro de produit sur l’étiquette du dessous. Si l’étiquette est effacée, vous pouvez aussi le retrouver dans les informations système lorsque l’ordinateur démarre encore."
+    },
+    {
+      "type": "paragraph",
+      "html": "Observez ensuite le dessous du châssis. Une batterie <strong>amovible</strong> forme généralement un long bloc séparé, visible à l’arrière, avec un ou deux curseurs de verrouillage. Une batterie <strong>interne</strong>, elle, n’est pas accessible de l’extérieur : le dessous est constitué d’un panneau continu maintenu par des vis. Sur les modèles récents, c’est de loin la configuration la plus courante."
+    },
+    {
+      "type": "comparison",
+      "title": "Batterie amovible ou interne : ce qui change réellement",
+      "left": {
+        "title": "Batterie externe amovible",
+        "points": [
+          "Visible depuis le dessous du PC, sans démontage du châssis.",
+          "Retrait généralement possible en quelques gestes avec des loquets.",
+          "Intervention accessible à un utilisateur soigneux, sans outil ou presque.",
+          "Risque principal : forcer un verrou ou confondre le sens de retrait."
+        ]
+      },
+      "right": {
+        "title": "Batterie interne intégrée",
+        "points": [
+          "Logée sous le capot inférieur, souvent avec câble, connecteur et vis dédiées.",
+          "Nécessite des tournevis adaptés et parfois un outil d’ouverture en plastique.",
+          "Demande plus de méthode pour ne pas abîmer les clips, nappes ou pas de vis.",
+          "Risque principal : reconnecter ou manipuler la batterie de façon inadaptée."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparez un espace de travail et le matériel adapté",
+      "id": "preparez-un-espace-de-travail-et-le-materiel-adapte"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne démontez pas un ordinateur posé sur un canapé, un tapis ou une surface instable. Installez-vous sur une table dure, sèche, propre et suffisamment éclairée. Prévoyez un petit récipient compartimenté ou une feuille sur laquelle disposer les vis dans leur ordre de retrait : certaines se ressemblent mais n’ont pas toujours la même longueur. Remettre une vis trop longue au mauvais endroit peut endommager un circuit ou déformer le boîtier."
+    },
+    {
+      "type": "table",
+      "caption": "Matériel et précautions selon le type de batterie",
+      "headers": [
+        "Élément",
+        "Batterie amovible",
+        "Batterie interne",
+        "Pourquoi c’est utile"
+      ],
+      "rows": [
+        [
+          "Chargeur et accessoires débranchés",
+          "Indispensable",
+          "Indispensable",
+          "Évite qu’une alimentation externe reste active pendant la manipulation."
+        ],
+        [
+          "Tournevis de précision",
+          "Rarement nécessaire",
+          "Souvent nécessaire",
+          "Les vis du capot et de la batterie sont petites et fragiles."
+        ],
+        [
+          "Outil d’ouverture en plastique",
+          "Non",
+          "Recommandé",
+          "Permet de déclipser le capot sans marquer ni court-circuiter."
+        ],
+        [
+          "Boîte ou tapis pour les vis",
+          "Utile",
+          "Très recommandé",
+          "Évite les erreurs de longueur et les vis perdues."
+        ],
+        [
+          "Bracelet antistatique",
+          "Optionnel",
+          "Utile si vous touchez d’autres composants",
+          "Réduit le risque de décharge électrostatique sur l’électronique."
+        ],
+        [
+          "Documentation du modèle",
+          "Utile",
+          "Fortement recommandée",
+          "Confirme l’emplacement des vis, du connecteur et l’ordre de démontage."
+        ]
+      ],
+      "note": "Évitez les cartes bancaires, couteaux, tournevis plats métalliques et objets pointus pour ouvrir le châssis ou soulever une batterie."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne retirez pas une batterie gonflée comme une batterie ordinaire",
+      "html": "Si le pavé tactile se soulève, si le capot se déforme, si la batterie est bombée, fissurée, très chaude ou sent anormalement, <strong>n’insistez pas</strong>. Éteignez l’ordinateur si vous le pouvez, débranchez-le et demandez l’aide d’un réparateur compétent ou d’un point de collecte/reprise agréé. Une cellule lithium-ion endommagée ne doit ni être comprimée, ni percée, ni jetée avec les déchets ménagers."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mettez l’ordinateur totalement hors tension avant d’intervenir",
+      "id": "mettez-l-ordinateur-totalement-hors-tension-avant-d-interven"
+    },
+    {
+      "type": "paragraph",
+      "html": "La veille et l’hibernation ne suffisent pas. Enregistrez votre travail, puis choisissez l’arrêt complet du système. Attendez que tous les voyants soient éteints et que les ventilateurs soient immobiles. Débranchez ensuite le bloc d’alimentation, les périphériques USB, une carte mémoire, un câble réseau, un écran externe et tout autre accessoire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec le chargeur déconnecté, maintenez le bouton d’alimentation appuyé pendant une quinzaine de secondes. Cette opération aide à évacuer l’énergie résiduelle présente dans certains circuits. Sur un modèle à batterie interne, elle ne remplace pas la déconnexion physique de la batterie, mais c’est une précaution simple avant l’ouverture. Attendez quelques instants, retournez délicatement le PC sur la table et évitez de poser l’écran sur une surface abrasive."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "0",
+          "label": "chargeur ou périphérique à laisser branché avant l’ouverture"
+        },
+        {
+          "value": "15 s environ",
+          "label": "de pression sur le bouton Marche/Arrêt pour évacuer l’énergie résiduelle"
+        },
+        {
+          "value": "30 à 60 %",
+          "label": "de charge recommandée pour stocker une batterie retirée durablement"
+        },
+        {
+          "value": "1 modèle exact",
+          "label": "à vérifier avant de commander une pièce ou de suivre une procédure"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Retirer une batterie HP amovible : la procédure la plus simple",
+      "id": "retirer-une-batterie-hp-amovible-la-procedure-la-plus-simple"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un portable HP équipé d’une batterie externe, vous n’avez normalement pas besoin d’ouvrir le boîtier. Localisez les loquets près de la batterie. Selon le modèle, l’un peut rester dans la position déverrouillée tandis que l’autre doit être maintenu coulissé. Ne forcez pas : lorsque les verrous sont bien actionnés, la batterie se libère en coulissant ou en basculant légèrement hors de son logement."
+    },
+    {
+      "type": "steps",
+      "title": "Étapes pour une batterie externe à loquets",
+      "items": [
+        {
+          "title": "Placez le PC face dessous",
+          "text": "Écran fermé, ordinateur hors tension et chargeur retiré, posez-le à plat sur une surface non abrasive."
+        },
+        {
+          "title": "Repérez les deux verrous",
+          "text": "Cherchez les pictogrammes de cadenas. Identifiez le loquet fixe et, s’il existe, le loquet à maintenir pendant le retrait."
+        },
+        {
+          "title": "Déverrouillez sans torsion",
+          "text": "Faites coulisser les loquets dans le sens indiqué. Gardez une main sur la batterie afin qu’elle ne tombe pas."
+        },
+        {
+          "title": "Faites glisser le bloc batterie",
+          "text": "Retirez-la bien dans l’axe de son logement. Si elle résiste, relâchez et vérifiez les verrous au lieu de tirer plus fort."
+        },
+        {
+          "title": "Contrôlez le compartiment",
+          "text": "Vérifiez que les contacts sont propres, secs et non déformés. Ne les grattez pas avec un outil métallique."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Nettoyage des contacts : restez minimaliste",
+      "html": "Un dépoussiérage doux et sec autour du logement suffit généralement. Si les contacts paraissent souillés, utilisez un chiffon non pelucheux à peine humidifié avec un produit adapté à l’électronique, PC totalement débranché. Laissez sécher complètement avant tout remontage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Retirer une batterie interne : méthode rigoureuse, sans précipitation",
+      "id": "retirer-une-batterie-interne-methode-rigoureuse-sans-precipi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une batterie interne, cherchez d’abord la documentation de maintenance correspondant au modèle exact de votre HP. Elle indique notamment les vis cachées sous des patins, sous une trappe ou dans un emplacement particulier, ainsi que l’ordre de retrait conseillé. Si vous ne trouvez pas d’information fiable ou si le capot ne se libère pas facilement, mieux vaut ne pas poursuivre à l’aveugle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois les vis retirées, insérez un médiator ou un outil en plastique dans le joint du châssis et déclipsez le capot progressivement, sur quelques centimètres à la fois. Ne soulevez jamais brutalement : sur certains ordinateurs, des câbles peuvent être proches du capot. Lorsque l’intérieur est visible, localisez la batterie, généralement un grand module plat noir ou sombre, relié à la carte mère par un câble ou un connecteur."
+    },
+    {
+      "type": "steps",
+      "title": "Procédure sûre pour une batterie interne",
+      "items": [
+        {
+          "title": "Photographiez l’intérieur avant de débrancher",
+          "text": "Une photo nette du routage du câble, des vis et de l’orientation du connecteur facilite le remontage sans approximation."
+        },
+        {
+          "title": "Déconnectez d’abord la batterie",
+          "text": "Saisissez la languette prévue ou le corps du connecteur, jamais les fils. Tirez dans l’axe du connecteur, parallèlement à la carte mère si nécessaire."
+        },
+        {
+          "title": "Retirez les vis de maintien",
+          "text": "Conservez-les séparément. Appuyez légèrement sur le tournevis pour éviter d’abîmer l’empreinte de tête de vis."
+        },
+        {
+          "title": "Soulevez le module par ses bords rigides",
+          "text": "Ne pliez pas la batterie et n’exercez aucune pression au centre des cellules. Si elle semble collée, consultez la procédure dédiée au modèle."
+        },
+        {
+          "title": "Isolez et posez la batterie à plat",
+          "text": "Placez-la sur une surface non conductrice, loin de la chaleur, d’objets métalliques et de tout matériau inflammable."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les erreurs de démontage les plus fréquentes",
+      "id": "les-erreurs-de-demontage-les-plus-frequentes"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À éviter absolument",
+      "items": [
+        "Ouvrir le PC alors que le chargeur est branché, même si l’ordinateur semble éteint.",
+        "Tirer sur les fils du câble batterie plutôt que sur le connecteur ou sa languette.",
+        "Employer une visseuse électrique : son couple est excessif pour de petites vis de châssis.",
+        "Forcer un capot qui résiste : il reste souvent une vis cachée ou un clip mal localisé.",
+        "Plier, tordre, percer ou comprimer une batterie pour la décoller ou la faire sortir.",
+        "Poser les vis sur la carte mère ou laisser un outil métallique dans le châssis.",
+        "Remonter l’ordinateur en oubliant de reconnecter le ventilateur, une nappe ou la batterie."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir une batterie de remplacement compatible et fiable",
+      "id": "choisir-une-batterie-de-remplacement-compatible-et-fiable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre objectif est le remplacement, ne commandez pas une batterie sur la seule base du nom commercial de l’ordinateur. Relevez la <strong>référence imprimée sur l’ancienne batterie</strong>, sa tension nominale, sa capacité et le type de connecteur. Vérifiez également la compatibilité annoncée avec votre numéro de produit. Deux configurations proches d’une même série peuvent employer des batteries différentes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pièce d’origine ou fournie par un circuit reconnu apporte généralement la meilleure tranquillité concernant l’ajustement, la connectique et l’électronique de charge. Les batteries compatibles de bonne qualité peuvent constituer une alternative intéressante, à condition que le vendeur donne une référence claire, des conditions de retour, une garantie et des informations complètes. Méfiez-vous d’un produit sans étiquette lisible, aux promesses de capacité irréalistes ou vendu avec des descriptions contradictoires."
+    },
+    {
+      "type": "table",
+      "caption": "Les points à comparer avant d’acheter une batterie de remplacement",
+      "headers": [
+        "Critère",
+        "Ce qu’il faut vérifier",
+        "Pourquoi c’est déterminant"
+      ],
+      "rows": [
+        [
+          "Référence batterie",
+          "Correspondance exacte avec l’étiquette de la pièce d’origine",
+          "C’est le meilleur repère de compatibilité mécanique et électrique."
+        ],
+        [
+          "Tension nominale",
+          "Valeur identique à la batterie prévue pour le modèle",
+          "Une tension inadaptée peut empêcher le fonctionnement ou causer un problème de sécurité."
+        ],
+        [
+          "Connecteur et forme",
+          "Position, nombre de broches, dimensions, emplacement des vis",
+          "Une batterie proche visuellement peut ne pas se monter correctement."
+        ],
+        [
+          "Capacité",
+          "Valeur plausible, cohérente avec le format de la batterie",
+          "Une capacité élevée n’a d’intérêt que si elle est crédible et compatible."
+        ],
+        [
+          "Vendeur et garantie",
+          "Retour possible, coordonnées, garantie claire",
+          "Indispensable en cas d’incompatibilité ou de défaut précoce."
+        ],
+        [
+          "Budget",
+          "Ordre de grandeur variable selon modèle et canal de vente",
+          "Privilégiez la traçabilité et la compatibilité plutôt qu’un prix anormalement bas."
+        ]
+      ],
+      "note": "Les prix varient nettement selon la génération du PC, le format de la batterie et le canal d’approvisionnement. Comparez le coût de la pièce avec l’âge et la valeur globale de l’ordinateur avant de vous engager."
+    },
+    {
+      "type": "proscons",
+      "title": "Remplacer soi-même la batterie interne : bon choix ou non ?",
+      "pros": [
+        "Peut prolonger sensiblement l’autonomie d’un ordinateur encore performant.",
+        "Évite l’immobilisation liée à un dépôt en atelier.",
+        "Permet de nettoyer délicatement la poussière accessible lors du remontage.",
+        "Coût global souvent inférieur à une intervention facturée, si le diagnostic est certain."
+      ],
+      "cons": [
+        "Risque d’endommager un capot, une nappe ou un connecteur en l’absence d’outillage et de méthode.",
+        "Garantie ou contrat de service potentiellement concernés sur une machine encore couverte.",
+        "Certaines conceptions très compactes sont peu agréables à démonter sans expérience.",
+        "Une faible autonomie peut aussi venir du chargeur, du système, de la chaleur ou d’un usage intensif, et pas seulement de la batterie."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Avant d’acheter : confirmez que la batterie est bien en cause",
+      "html": "Une batterie qui tient mal la charge n’est pas automatiquement à remplacer. Vérifiez l’état de santé via les outils de diagnostic disponibles sur votre ordinateur, testez avec un chargeur compatible en bon état et observez les messages du système. Si le PC est ancien, lent ou présente plusieurs défauts matériels, comparez le coût total de la réparation avec l’intérêt réel de conserver la machine."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Remonter le PC, effectuer les contrôles et préserver la nouvelle batterie",
+      "id": "remonter-le-pc-effectuer-les-controles-et-preserver-la-nouve"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour le remontage, procédez dans l’ordre inverse, sans serrer les vis excessivement. Sur une batterie interne, placez d’abord le module dans son logement, remettez ses vis de maintien, puis reconnectez le câble en respectant strictement son orientation. Assurez-vous qu’aucun fil ne passe sous la batterie, qu’aucune vis n’est oubliée à l’intérieur et qu’aucune nappe n’a été déplacée en refermant le capot."
+    },
+    {
+      "type": "paragraph",
+      "html": "Refermez le châssis en appuyant tout autour du pourtour, puis replacez chaque vis à son emplacement initial. Branchez le chargeur et démarrez l’ordinateur. Vérifiez que la charge est détectée, que le pourcentage augmente normalement et que le capot reste parfaitement plan. Les premiers cycles peuvent nécessiter un peu de temps pour que l’estimation d’autonomie se stabilise ; il n’est pas utile de décharger volontairement une batterie lithium-ion jusqu’à zéro."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Bonnes pratiques pour faire durer la batterie",
+      "items": [
+        "Évitez la chaleur : ne bouchez pas les aérations et n’utilisez pas longtemps le PC sur une couette ou un coussin.",
+        "Utilisez un chargeur adapté et en bon état ; un connecteur abîmé mérite un remplacement.",
+        "Gardez le système et les pilotes à jour lorsque cela est pertinent, notamment pour la gestion de l’énergie.",
+        "Si le PC reste inutilisé plusieurs semaines, stockez-le dans un endroit tempéré avec une charge partielle, idéalement autour de la moitié.",
+        "Ne cherchez pas à effectuer régulièrement des décharges profondes : les batteries lithium-ion préfèrent des cycles d’utilisation modérés.",
+        "Surveillez tout signe de déformation, de chauffe inhabituelle ou de charge instable et intervenez sans attendre."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand confier l’opération à un professionnel",
+      "id": "quand-confier-l-operation-a-un-professionnel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le recours à un atelier est conseillé si la batterie est gonflée, si le capot est difficile à ouvrir, si des adhésifs puissants maintiennent le module, ou si vous devez démonter des éléments sensibles avant d’atteindre la batterie. C’est aussi une option raisonnable si l’ordinateur est encore couvert par une garantie ou si vous n’êtes pas à l’aise avec les connecteurs miniatures."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un professionnel peut également établir un diagnostic plus large : usure réelle de la batterie, problème de charge, port d’alimentation défaillant, surchauffe, ventilateur encrassé ou consommation anormale. Cette vérification évite d’investir dans une batterie neuve alors que la panne se situe ailleurs. Enfin, il pourra orienter l’ancienne batterie vers une filière de recyclage adaptée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que faire de l’ancienne batterie retirée ?",
+      "id": "que-faire-de-l-ancienne-batterie-retiree"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une batterie d’ordinateur portable ne doit jamais être jetée dans la poubelle classique, incinérée ou stockée indéfiniment dans un tiroir. Protégez ses contacts avec un ruban isolant non conducteur si cela peut être fait sans recouvrir une zone endommagée, placez-la dans un contenant non métallique et déposez-la rapidement dans un point de collecte prévu pour les piles et batteries, auprès d’un distributeur ou d’une déchetterie acceptant ce flux."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si la batterie présente un gonflement ou un dommage visible, évitez de la transporter librement dans un sac avec des clés ou des objets métalliques. Renseignez-vous auprès d’un professionnel ou du point de collecte pour connaître la conduite à tenir localement. La bonne élimination de la batterie est aussi importante que son retrait : elle limite les risques et permet de récupérer une partie des matériaux."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le retrait d’une batterie HP",
+      "items": [
+        {
+          "q": "Puis-je retirer la batterie de mon PC portable HP sans outil ?",
+          "a": "Oui, uniquement si votre modèle possède une batterie externe amovible avec des loquets. Si le dessous de l’ordinateur est un panneau unique fixé par des vis, la batterie est probablement interne et vous aurez besoin, au minimum, d’un tournevis de précision et d’un outil d’ouverture en plastique."
+        },
+        {
+          "q": "Faut-il laisser la batterie se vider avant de la retirer ?",
+          "a": "Non. Il n’est pas nécessaire d’attendre une décharge complète, et ce n’est pas souhaitable pour une batterie lithium-ion. L’important est d’éteindre totalement l’ordinateur, de débrancher le chargeur et de supprimer l’énergie résiduelle avant l’ouverture. Pour un stockage prolongé, une charge partielle est préférable."
+        },
+        {
+          "q": "Mon ordinateur HP fonctionne-t-il sans batterie ?",
+          "a": "De nombreux modèles peuvent démarrer sur secteur sans batterie, mais ce comportement dépend du PC et du chargeur. Une coupure de courant provoquera alors un arrêt immédiat, avec risque de perte de données. Ne considérez pas ce fonctionnement comme un remplacement durable de la batterie sans avoir vérifié les recommandations propres à votre modèle."
+        },
+        {
+          "q": "Comment savoir si la batterie est gonflée ?",
+          "a": "Les signes fréquents sont un capot inférieur bombé, un clavier ou un pavé tactile qui se soulève, un châssis qui ne repose plus à plat ou une batterie visiblement déformée après ouverture. Dans ce cas, ne tentez pas de l’écraser, de la percer ou de la décoller avec force : faites appel à un professionnel."
+        },
+        {
+          "q": "Pourquoi mon PC ne charge-t-il toujours pas après le remplacement ?",
+          "a": "La cause peut être une batterie incompatible, un connecteur mal enfoncé, un chargeur défaillant, un port d’alimentation endommagé ou un problème logiciel ou matériel plus large. Vérifiez d’abord l’orientation du connecteur et la compatibilité de la référence, puis utilisez les diagnostics disponibles. Si le problème persiste, un contrôle en atelier est préférable."
+        },
+        {
+          "q": "Puis-je utiliser n’importe quelle batterie compatible annoncée pour HP ?",
+          "a": "Non. Le nom de la marque ne suffit pas. La référence exacte de la batterie, la tension, le connecteur, la forme et les points de fixation doivent correspondre. Choisissez une pièce correctement identifiée, vendue avec des conditions de retour et une garantie claires, plutôt qu’un modèle universel ou une annonce imprécise."
+        }
+      ]
+    }
+  ]
+}

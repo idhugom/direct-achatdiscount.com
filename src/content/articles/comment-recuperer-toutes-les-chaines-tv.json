@@ -1,0 +1,462 @@
+{
+  "title": "Comment récupérer toutes les chaînes tv",
+  "slug": "comment-recuperer-toutes-les-chaines-tv",
+  "path": "/divers/comment-recuperer-toutes-les-chaines-tv.html",
+  "category": "tech",
+  "tags": [
+    "chaînes tv",
+    "tnt",
+    "antenne tv",
+    "recherche des chaînes",
+    "box internet",
+    "télévision connectée"
+  ],
+  "excerpt": "TNT, antenne, box, satellite et applications : identifiez la cause puis récupérez les chaînes accessibles avec la bonne méthode.",
+  "metaDescription": "Chaînes TNT manquantes, téléviseur non connecté ou bouquet incomplet : retrouvez les chaînes TV selon votre installation, sans payer inutilement.",
+  "seoTitle": "Récupérer toutes les chaînes TV : le guide pratique",
+  "heroKicker": "TV sans manque",
+  "readingTime": 12,
+  "date": "2024-04-22T06:28:20",
+  "image": {
+    "id": "1820",
+    "alt": "Comment récupérer toutes les chaînes tv",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Des chaînes ont disparu après un déménagement, une panne, une mise à jour ou un simple changement de câble ? Pour récupérer toutes les chaînes TV auxquelles vous pouvez réellement accéder, il faut d’abord identifier votre mode de réception : antenne TNT, box internet, satellite, câble ou applications. Une nouvelle recherche automatique suffit parfois ; dans d’autres cas, le problème vient du signal, de l’abonnement ou du téléviseur lui-même."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>Ne lancez pas une recherche au hasard :</strong> vérifiez d’abord que la source sélectionnée sur le téléviseur est la bonne (TV, HDMI, antenne, box).",
+        "<strong>Pour la TNT,</strong> une recherche automatique complète et un câble d’antenne en bon état résolvent une grande part des disparitions de chaînes.",
+        "<strong>Une box internet ne récupère pas les chaînes TNT :</strong> elle donne accès à son propre bouquet, qui dépend de votre offre et de votre connexion.",
+        "<strong>Toutes les chaînes ne sont pas gratuites ni reçues partout :</strong> les chaînes payantes, étrangères ou régionales demandent parfois un abonnement, un équipement ou des droits spécifiques.",
+        "<strong>Évitez les listes IPTV douteuses :</strong> elles exposent à l’illégalité, aux coupures, aux arnaques et à vos données personnelles."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce que signifie « toutes les chaînes TV »",
+      "id": "comprendre-ce-que-signifie-toutes-les-chaines-tv"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas une liste universelle de chaînes que chaque téléviseur peut afficher gratuitement. Les chaînes disponibles dépendent de votre <strong>mode de réception</strong>, de votre lieu d’habitation, de votre matériel et, le cas échéant, de votre abonnement. Un téléviseur raccordé à une antenne râteau reçoit les chaînes gratuites de la TNT disponibles dans sa zone. Une box internet affiche les chaînes incluses dans son offre. Un téléviseur connecté donne aussi accès à des applications, souvent avec des contenus en direct ou en rattrapage, mais pas nécessairement à toutes les chaînes linéaires."
+    },
+    {
+      "type": "paragraph",
+      "html": "La première règle consiste donc à distinguer une chaîne <strong>manquante</strong> d’une chaîne <strong>non incluse</strong>. Si une chaîne que vous regardiez habituellement a disparu, un réglage ou un défaut de réception est plausible. Si vous cherchez une chaîne premium, internationale ou thématique que vous n’avez jamais eue, il faut vérifier les modalités d’accès légales proposées par son éditeur ou par votre opérateur."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "Environ 25",
+          "label": "chaînes nationales gratuites généralement proposées par la TNT en métropole, auxquelles s’ajoutent des déclinaisons locales selon les zones"
+        },
+        {
+          "value": "1 recherche complète",
+          "label": "peut suffire après une réinitialisation, une modification de fréquences ou un changement d’antenne"
+        },
+        {
+          "value": "3 sources fréquentes",
+          "label": "à contrôler avant toute manipulation : antenne, câble de raccordement et réglage du tuner TV"
+        },
+        {
+          "value": "0 abonnement",
+          "label": "nécessaire pour les chaînes gratuites de la TNT, hors coût de l’équipement et de l’installation"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire le bon diagnostic avant de relancer une recherche",
+      "id": "faire-le-bon-diagnostic-avant-de-relancer-une-recherche"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par déterminer comment votre écran reçoit la télévision. Si le câble rond venant du mur ou de l’antenne est branché directement sur la prise marquée <strong>ANT IN</strong>, <strong>RF</strong> ou <strong>Antenne</strong>, vous êtes probablement en TNT. Si vous regardez la TV via un boîtier relié en HDMI, c’est la box de votre fournisseur d’accès, un décodeur satellite ou un boîtier multimédia qui gère les chaînes. Dans ce cas, la recherche des chaînes doit le plus souvent être lancée dans le menu du boîtier, et non dans celui du téléviseur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un écran noir avec le message « pas de signal » n’a pas la même cause qu’une liste de chaînes incomplète. Le premier évoque d’abord le câble, la prise murale, l’antenne ou la mauvaise entrée HDMI. Une liste qui s’arrête brutalement, contient des doublons ou affiche des numéros incohérents évoque davantage une recherche incomplète, un mauvais pays sélectionné, un conflit entre tuner analogique et numérique, ou une base de chaînes à remettre à zéro."
+    },
+    {
+      "type": "table",
+      "caption": "Diagnostic rapide selon le symptôme observé",
+      "headers": [
+        "Symptôme",
+        "Cause probable",
+        "Action prioritaire"
+      ],
+      "rows": [
+        [
+          "Aucune chaîne trouvée en TNT",
+          "Mauvaise source, antenne débranchée, signal absent ou pays mal réglé",
+          "Vérifier le câble, choisir Antenne/TNT et relancer une recherche numérique complète"
+        ],
+        [
+          "Certaines chaînes seulement sont absentes",
+          "Réception insuffisante sur un ou plusieurs canaux, répartiteur défectueux ou installation collective",
+          "Contrôler la qualité du signal, les connexions et demander un diagnostic au syndic si nécessaire"
+        ],
+        [
+          "Les chaînes de la box sont absentes",
+          "Mauvaise entrée HDMI, boîtier éteint, panne réseau ou option non incluse",
+          "Redémarrer la box, tester le HDMI et consulter le bouquet de l’offre"
+        ],
+        [
+          "L’image se fige ou pixellise",
+          "Signal TNT trop faible ou perturbé, câble vieillissant, Wi-Fi instable en streaming",
+          "Tester un autre câble et vérifier la puissance/qualité du signal ou le réseau"
+        ],
+        [
+          "Une chaîne payante manque",
+          "Chaîne hors abonnement, droits non activés ou application distincte",
+          "Vérifier les options souscrites et les conditions d’accès officielles"
+        ]
+      ],
+      "note": "Avant de modifier les réglages, notez les chaînes absentes et testez si elles manquent sur tous les téléviseurs du logement."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test qui évite les fausses pistes",
+      "html": "Si plusieurs téléviseurs reliés à la même antenne perdent les mêmes chaînes, le souci vient vraisemblablement de la réception commune. Si un seul appareil est concerné, commencez par son câble, sa prise, son tuner et ses réglages."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Récupérer les chaînes TNT avec une recherche propre",
+      "id": "recuperer-les-chaines-tnt-avec-une-recherche-propre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La TNT reste la solution la plus simple pour recevoir gratuitement les chaînes nationales lorsque votre logement est correctement couvert et raccordé. Sur un téléviseur récent, le tuner TNT est généralement intégré. Sur un ancien modèle, il peut falloir un décodeur TNT externe. Ne choisissez pas une recherche « câble » ou « satellite » si vous utilisez une antenne râteau : le téléviseur cherchera alors sur le mauvais standard et risque de ne rien trouver."
+    },
+    {
+      "type": "steps",
+      "title": "La méthode de recherche automatique en TNT",
+      "items": [
+        {
+          "title": "Contrôlez le branchement",
+          "text": "Raccordez le câble d’antenne à l’entrée Antenne/RF du téléviseur ou du décodeur. Enfoncez-le fermement, sans adaptateur instable ni câble visiblement écrasé."
+        },
+        {
+          "title": "Sélectionnez la bonne source",
+          "text": "Avec la télécommande, choisissez TV, DTV, Antenne ou TNT. Si vous êtes sur HDMI 1, vous regardez la box ou un autre appareil, pas le tuner intégré."
+        },
+        {
+          "title": "Ouvrez le menu de réglage",
+          "text": "Cherchez Installation, Diffusion, Chaînes, Réglage numérique ou Configuration. Les appellations changent selon les fabricants, mais la logique reste la même."
+        },
+        {
+          "title": "Choisissez Antenne et Numérique",
+          "text": "Sélectionnez la réception terrestre/antenne, puis une recherche automatique des chaînes numériques. Vérifiez que le pays est réglé sur France ou sur votre pays de résidence."
+        },
+        {
+          "title": "Laissez le balayage se terminer",
+          "text": "Ne l’interrompez pas : l’opération peut prendre quelques minutes. Acceptez l’enregistrement ou le remplacement de la liste si l’appareil le propose."
+        },
+        {
+          "title": "Testez les chaînes manquantes",
+          "text": "Vérifiez l’image et le son, pas seulement la présence du numéro. Si certaines chaînes restent absentes ou instables, consultez les indicateurs de niveau et de qualité du signal dans le menu."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quand faut-il effacer l’ancienne liste de chaînes ?",
+      "id": "quand-faut-il-effacer-l-ancienne-liste-de-chaines"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si une recherche automatique ajoute des doublons, garde des chaînes inutilisables ou ne corrige pas une numérotation erratique, effectuez une <strong>réinitialisation des chaînes</strong> avant de lancer un nouveau balayage. Cette action efface vos favoris et l’ordre personnalisé : prenez une photo de votre liste si cela vous aide. Évitez toutefois la réinitialisation complète du téléviseur en première intention ; elle peut aussi supprimer les réglages Wi-Fi, les comptes d’applications et les préférences d’image sans régler un défaut d’antenne."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À vérifier si la recherche TNT ne trouve pas tout",
+      "items": [
+        "Débranchez puis rebranchez le câble côté téléviseur et côté prise murale.",
+        "Testez un autre câble coaxial court, correctement blindé, surtout si le vôtre est ancien ou plié.",
+        "Retirez provisoirement les répartiteurs, amplificateurs ou rallonges non indispensables.",
+        "Vérifiez dans le menu que la recherche porte sur les <strong>chaînes numériques terrestres</strong>, et non sur l’analogique ou le câble.",
+        "Consultez l’information de puissance et, surtout, de qualité du signal : une puissance correcte avec une qualité faible peut produire des gels d’image.",
+        "Essayez un autre téléviseur ou décodeur sur la même prise pour isoler une panne du tuner.",
+        "Dans un immeuble, demandez au gardien, au syndic ou à un voisin si une intervention sur l’antenne collective a eu lieu."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Améliorer la réception : antenne, prise et installation collective",
+      "id": "ameliorer-la-reception-antenne-prise-et-installation-collect"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une recherche de chaînes ne peut pas inventer un signal qui n’arrive pas jusqu’au téléviseur. Lorsqu’un multiplex est mal reçu, plusieurs chaînes peuvent disparaître ensemble ou devenir pixellisées. Les causes les plus courantes sont un câble coaxial dégradé, une prise murale fatiguée, un mauvais serrage, un répartiteur de faible qualité, une antenne mal orientée ou une amplification mal réglée. Un amplificateur trop puissant peut d’ailleurs saturer le signal et dégrader la réception autant qu’un signal trop faible."
+    },
+    {
+      "type": "comparison",
+      "title": "Antenne râteau ou antenne intérieure : quel choix pour la TNT ?",
+      "left": {
+        "title": "Antenne râteau extérieure ou collective",
+        "points": [
+          "Réception généralement plus stable si l’installation est saine et bien orientée.",
+          "Convient aux téléviseurs de plusieurs pièces via une distribution adaptée.",
+          "Peut nécessiter l’intervention du propriétaire, du syndic ou d’un antenniste.",
+          "La qualité dépend de la couverture locale et de l’état du réseau collectif."
+        ]
+      },
+      "right": {
+        "title": "Antenne intérieure amplifiée",
+        "points": [
+          "Installation très simple, utile en dépannage ou dans certaines zones très bien couvertes.",
+          "Résultat très variable selon l’étage, les murs, les vitrages et la proximité de l’émetteur.",
+          "Doit être placée près d’une fenêtre et ajustée avec patience.",
+          "Ne constitue pas une solution fiable dans les secteurs à signal faible ou perturbé."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Faut-il acheter une antenne intérieure ?",
+      "pros": [
+        "Coût d’achat limité par rapport à une intervention sur une installation individuelle.",
+        "Aucune fixation extérieure ni travaux dans le logement.",
+        "Peut dépanner rapidement dans une zone de réception favorable.",
+        "Facile à déplacer pour chercher l’emplacement le plus efficace."
+      ],
+      "cons": [
+        "Réception souvent instable d’une pièce à l’autre et sensible aux obstacles.",
+        "L’amplification ne remplace pas un bon signal à la source.",
+        "Risque de recevoir une partie des chaînes seulement ou une image qui se dégrade.",
+        "Peu adaptée à la distribution de la TNT sur plusieurs téléviseurs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les bons gestes avant d’appeler un antenniste",
+      "id": "les-bons-gestes-avant-d-appeler-un-antenniste"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur une installation individuelle, inspectez visuellement l’antenne uniquement si vous pouvez le faire sans risque : ne montez pas sur un toit ou une échelle instable pour un simple test. À l’intérieur, remplacez d’abord les cordons douteux et supprimez les raccords inutiles. En immeuble, n’intervenez jamais sur l’antenne collective : signalez le problème au gestionnaire. Si la qualité du signal est mauvaise sur plusieurs prises ou logements, une vérification professionnelle de l’orientation, des filtres, de l’amplification et de la distribution est justifiée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Retrouver les chaînes via une box internet, le câble ou le satellite",
+      "id": "retrouver-les-chaines-via-une-box-internet-le-cable-ou-le-sa"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous recevez la télévision par une box internet, les chaînes sont fournies par l’opérateur, souvent via le réseau domestique. Une recherche TNT sur le téléviseur ne restaurera pas une chaîne manquante de ce bouquet. Vérifiez l’entrée HDMI sélectionnée, redémarrez électriquement le boîtier selon les consignes de l’opérateur, puis consultez la rubrique d’aide ou l’espace client pour voir si la chaîne est toujours incluse dans votre formule."
+    },
+    {
+      "type": "paragraph",
+      "html": "La réception par satellite nécessite une parabole correctement orientée, un décodeur compatible et parfois une carte d’accès ou un module d’authentification. Elle est particulièrement pertinente là où la TNT est difficile à recevoir ou lorsqu’on recherche des bouquets spécifiques. La télévision par câble, lorsqu’elle est proposée localement, repose également sur un réseau et un équipement dédiés. Dans les deux cas, les recherches et les mises à jour se font dans le décodeur concerné."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir le bon moyen d’accéder aux chaînes",
+      "headers": [
+        "Solution",
+        "Pour qui ?",
+        "Atouts",
+        "Limites et vigilance"
+      ],
+      "rows": [
+        [
+          "TNT par antenne",
+          "Vous voulez les chaînes gratuites sans abonnement récurrent",
+          "Simple, gratuite à l’usage, indépendante de la connexion internet",
+          "Nécessite une réception locale correcte et une antenne fonctionnelle"
+        ],
+        [
+          "Box internet",
+          "Vous avez une offre internet avec service TV",
+          "Accès pratique à des bouquets, replay et fonctions d’enregistrement selon l’offre",
+          "Dépend de l’abonnement, du réseau et parfois du débit disponible"
+        ],
+        [
+          "Applications officielles",
+          "Vous utilisez une Smart TV, un boîtier multimédia ou une tablette",
+          "Souplesse, replay, contenus gratuits ou payants selon les services",
+          "Certaines chaînes demandent un compte, une offre ou ne proposent pas le direct"
+        ],
+        [
+          "Satellite",
+          "La réception hertzienne est médiocre ou vous cherchez certains bouquets",
+          "Couverture étendue et offre potentiellement large",
+          "Matériel, installation, orientation et abonnements éventuels à prévoir"
+        ],
+        [
+          "Câble",
+          "Votre logement est desservi par un réseau compatible",
+          "Peut proposer une offre structurée selon l’opérateur",
+          "Disponibilité géographique et conditions contractuelles variables"
+        ]
+      ],
+      "note": "Comparez toujours le bouquet réellement inclus, les options, la durée d’engagement éventuelle et les conditions de résiliation avant de souscrire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utiliser une télévision connectée sans confondre applications et chaînes TV",
+      "id": "utiliser-une-television-connectee-sans-confondre-application"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une Smart TV connectée à internet peut compléter utilement la TNT ou une box. Les applications officielles des groupes audiovisuels, les plateformes de télévision gratuite financée par la publicité et les services de replay offrent des programmes en direct ou à la demande. Elles sont pratiques sur un téléviseur secondaire sans prise d’antenne, à condition de disposer d’une connexion stable. Toutefois, elles ne garantissent pas le même catalogue qu’un décodeur : droits de diffusion, localisation, compatibilité de l’appareil et choix de l’éditeur peuvent limiter l’accès."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une lecture fluide, privilégiez une connexion Ethernet lorsque le téléviseur est éloigné de la box ou que le Wi-Fi traverse plusieurs murs. Si le streaming coupe, testez d’abord une autre application sur le même écran, puis un autre appareil sur le même Wi-Fi. Vous saurez ainsi si le problème vient du service, du téléviseur ou de la connexion. Gardez aussi le système du téléviseur à jour, mais lancez les mises à jour à un moment où vous n’avez pas besoin de l’appareil."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Méfiez-vous des promesses de milliers de chaînes",
+      "html": "Les abonnements IPTV non officiels, listes trouvées sur des forums ou boîtiers « toutes chaînes incluses » peuvent diffuser des contenus sans droits. Outre le risque légal, ils sont souvent instables, disparaissent sans recours, peuvent contenir des logiciels malveillants ou exposer vos données bancaires. Préférez les applications des éditeurs, les opérateurs reconnus et les plateformes dont les conditions sont claires."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour récupérer les chaînes manquantes ?",
+      "id": "quel-budget-prevoir-pour-recuperer-les-chaines-manquantes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’acheter quoi que ce soit, essayez les solutions gratuites : bon choix de source, redémarrage du décodeur, recherche TNT complète, contrôle des branchements et mise à jour du téléviseur. Quand un achat est nécessaire, le coût doit rester proportionné au problème. Remplacer un câble ou un adaptateur est souvent bien moins cher que de souscrire un bouquet mensuel ou de changer de téléviseur. À l’inverse, une réception d’antenne durablement mauvaise justifie parfois un diagnostic professionnel plutôt qu’une succession d’antennes intérieures inefficaces."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour s’équiper ou dépanner",
+      "headers": [
+        "Besoin",
+        "Budget habituel",
+        "Conseil d’achat"
+      ],
+      "rows": [
+        [
+          "Câble coaxial ou adaptateur simple",
+          "Quelques euros à quelques dizaines d’euros",
+          "Choisissez la bonne longueur, des connecteurs solides et évitez les câbles inutilement longs."
+        ],
+        [
+          "Antenne intérieure",
+          "De l’entrée de gamme à quelques dizaines d’euros",
+          "Gardez l’emballage tant que vous n’avez pas validé la réception chez vous."
+        ],
+        [
+          "Décodeur TNT externe",
+          "Quelques dizaines d’euros en général",
+          "Vérifiez la compatibilité HD, les connectiques de votre téléviseur et la simplicité de la télécommande."
+        ],
+        [
+          "Boîtier multimédia pour applications",
+          "Quelques dizaines d’euros à davantage selon les fonctions",
+          "Privilégiez les systèmes suivis en mises à jour et les applications officielles dont vous avez besoin."
+        ],
+        [
+          "Diagnostic ou intervention d’antenne",
+          "Variable, souvent plus élevé qu’un simple accessoire",
+          "Demandez le détail du diagnostic et de la prestation, surtout pour une maison ou une distribution multi-TV."
+        ],
+        [
+          "Bouquet TV payant",
+          "Coût mensuel variable selon l’offre",
+          "Contrôlez les chaînes réellement regardées, les options, l’engagement et les frais éventuels."
+        ]
+      ],
+      "note": "Ces repères sont volontairement larges : la complexité de l’installation, le logement et les services inclus font fortement varier la dépense."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui font perdre du temps et de l’argent",
+      "id": "les-erreurs-qui-font-perdre-du-temps-et-de-l-argent"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est d’acheter une antenne amplifiée avant de savoir si le logement dispose déjà d’une antenne collective fonctionnelle. La deuxième consiste à confondre la télécommande du téléviseur avec celle de la box : vous pouvez parfaitement avoir les chaînes de la box sur HDMI et croire que le tuner TNT est en panne. Enfin, ne concluez pas qu’un téléviseur est obsolète parce qu’une chaîne manque : un réglage de pays, un câble ou une modification de l’installation est bien plus souvent en cause."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les pièges à éviter",
+      "items": [
+        "Lancer une recherche « rapide » ou « analogique » alors que vous avez besoin d’une recherche numérique complète.",
+        "Réinitialiser entièrement le téléviseur sans avoir testé le câble et la source sélectionnée.",
+        "Multiplier les répartiteurs et adaptateurs : chaque raccord peut affaiblir ou dégrader le signal.",
+        "Installer un amplificateur sans mesurer ou vérifier la qualité du signal.",
+        "Souscrire un bouquet payant pour une chaîne qui est peut-être disponible gratuitement par TNT ou application officielle.",
+        "Partager ou acheter des identifiants de services TV : c’est risqué, contraire aux conditions d’utilisation et susceptible d’être bloqué.",
+        "Négliger les droits de diffusion : une chaîne vue chez un proche ou à l’étranger n’est pas forcément accessible dans votre offre ou votre zone."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conserver une liste de chaînes stable au quotidien",
+      "id": "conserver-une-liste-de-chaines-stable-au-quotidien"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois les chaînes récupérées, gardez une installation simple. Étiquetez si besoin les câbles HDMI et l’alimentation de la box pour savoir quel appareil correspond à quelle entrée. Créez une liste de favoris sur la télévision ou le décodeur : cela évite de croire qu’une chaîne a disparu alors qu’elle a seulement changé de position dans la numérotation. Si votre appareil propose une mise à jour automatique des chaînes, activez-la uniquement si elle ne bouleverse pas votre organisation ; sinon, faites une recherche manuelle lorsque vous constatez un problème."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les foyers avec plusieurs écrans, choisissez une stratégie cohérente : TNT sur les téléviseurs reliés à l’antenne, application officielle sur l’écran secondaire connecté au Wi-Fi, et box sur le téléviseur principal si vous utilisez ses services. Vous limiterez les abonnements doublons et les dépannages inutiles. En cas de changement d’opérateur internet, vérifiez aussi ce que devient votre accès aux enregistrements, aux favoris et aux applications liées à l’ancien décodeur."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La méthode la plus efficace",
+      "html": "Procédez dans cet ordre : <strong>source sélectionnée</strong>, <strong>branchements</strong>, <strong>recherche adaptée au mode de réception</strong>, <strong>qualité du signal</strong>, puis seulement <strong>équipement ou abonnement</strong>. Cet ordre évite de payer pour résoudre un simple problème de réglage."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la récupération des chaînes TV",
+      "items": [
+        {
+          "q": "Pourquoi mon téléviseur ne trouve-t-il aucune chaîne après une recherche ?",
+          "a": "Vérifiez d’abord que vous avez choisi le mode Antenne/TNT et non Câble ou Satellite, que le câble coaxial est bien relié à la prise Antenne, puis que le pays est correctement configuré. Si aucun signal n’est détecté, testez un autre câble ou un autre téléviseur sur la même prise. Dans un immeuble, l’antenne collective peut aussi être en cause."
+        },
+        {
+          "q": "Comment récupérer les chaînes TNT après un déménagement ?",
+          "a": "Branchez le téléviseur à la prise d’antenne du nouveau logement, sélectionnez la source TV/Antenne et lancez une recherche numérique automatique complète. Ne supposez pas que la prise est active : testez la qualité du signal. Si vous utilisez une box internet, raccordez-la au réseau et utilisez son application ou son décodeur plutôt qu’une recherche TNT."
+        },
+        {
+          "q": "Pourquoi certaines chaînes TNT sont présentes mais l’image se fige ?",
+          "a": "Ce symptôme traduit généralement une qualité de signal insuffisante ou perturbée. Contrôlez le câble, les connecteurs, les répartiteurs et la prise murale. Une antenne mal orientée, un amplificateur défaillant ou une installation collective mal réglée peuvent aussi être responsables. Une nouvelle recherche ne corrigera pas à elle seule un signal instable."
+        },
+        {
+          "q": "Peut-on avoir toutes les chaînes gratuitement sur une Smart TV ?",
+          "a": "Non. Une Smart TV peut recevoir gratuitement la TNT avec une antenne et proposer des applications gratuites, mais les chaînes premium, certains directs, des programmes sportifs ou des bouquets thématiques restent soumis à des droits et souvent à un abonnement. Utilisez les applications officielles pour savoir ce qui est disponible légalement."
+        },
+        {
+          "q": "Une antenne intérieure permet-elle de recevoir toutes les chaînes ?",
+          "a": "Pas systématiquement. Elle peut fonctionner correctement dans une zone très bien couverte, près d’une fenêtre et avec peu d’obstacles, mais son résultat varie beaucoup selon le logement. Si elle ne reçoit qu’une partie des chaînes ou si l’image pixellise, privilégiez une installation d’antenne râteau saine ou faites vérifier l’antenne collective."
+        },
+        {
+          "q": "Comment savoir si une chaîne est absente à cause de mon abonnement ?",
+          "a": "Consultez la liste des chaînes incluse dans votre offre depuis l’espace client ou le site officiel de l’opérateur. Vérifiez également si la chaîne nécessite une option, si elle est réservée à une offre supérieure ou si sa diffusion a changé. Si elle est incluse mais inaccessible, redémarrez le décodeur et contactez l’assistance pour contrôler l’activation des droits."
+        }
+      ]
+    }
+  ]
+}
