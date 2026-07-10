@@ -1,0 +1,418 @@
+{
+  "title": "Comment faire des boutures de rosiers",
+  "slug": "comment-faire-des-boutures-de-rosiers",
+  "path": "/divers/comment-faire-des-boutures-de-rosiers.html",
+  "category": "maison",
+  "tags": [
+    "bouture rosier",
+    "jardinage",
+    "multiplication des plantes",
+    "rosiers",
+    "entretien jardin"
+  ],
+  "excerpt": "Prélevez les bonnes tiges, utilisez un substrat drainant et maîtrisez l’humidité pour multiplier vos rosiers avec de vraies chances de réussite.",
+  "metaDescription": "Apprenez à faire des boutures de rosiers : bon moment, tiges à choisir, gestes précis, entretien, erreurs à éviter et conseils de reprise.",
+  "seoTitle": "Boutures de rosiers : méthode facile et conseils",
+  "heroKicker": "Multiplier ses roses",
+  "readingTime": 12,
+  "date": "2022-09-04T09:45:55",
+  "image": {
+    "id": "385",
+    "alt": "Comment faire des boutures de rosiers",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Bouturer un rosier permet de reproduire un sujet que vous appréciez, de conserver une variété ancienne du jardin ou de créer de nouveaux plants à faible coût. La technique est accessible, à condition de prélever une tige au bon stade, de ne pas noyer la bouture et de patienter : l’enracinement d’un rosier ne se force pas."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Prélevez de préférence une tige saine, non fleurie ou défleurie, semi-aoûtée, c’est-à-dire ferme mais pas totalement ligneuse.",
+        "La fin de l’été et le début de l’automne sont souvent les périodes les plus simples ; le printemps fonctionne aussi avec une surveillance accrue de l’humidité.",
+        "Plantez la bouture dans un substrat très drainant, gardé frais sans être détrempé, à la lumière vive mais hors soleil direct.",
+        "Une bouture issue d’un rosier greffé donnera un rosier sur ses propres racines : son comportement peut différer de celui du plant d’origine.",
+        "Ne vous fiez pas trop vite aux nouvelles pousses : attendez une résistance nette à une légère traction ou un bon système racinaire avant de rempoter."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre le bouturage du rosier avant de commencer",
+      "id": "comprendre-le-bouturage-du-rosier-avant-de-commencer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bouturage consiste à faire émettre des racines à un fragment de tige. Vous obtenez ainsi un nouveau rosier <strong>génétiquement identique</strong> à la plante prélevée : couleur, forme et parfum des fleurs sont conservés. C’est particulièrement intéressant pour un vieux rosier familial, un rosier non greffé qui vous donne satisfaction ou une variété dont vous souhaitez installer plusieurs exemplaires."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut toutefois distinguer le rosier visible du porte-greffe. Beaucoup de rosiers du commerce sont greffés : la partie fleurie est fixée sur les racines d’un autre rosier, choisi pour sa vigueur ou son adaptation au sol. Une bouture reproduit uniquement la partie aérienne prélevée. Le nouveau plant poussera donc <strong>sur ses propres racines</strong>, ce qui peut le rendre plus fidèle en cas de gel sévère, mais parfois moins vigoureux au démarrage ou moins adapté à un terrain calcaire, humide ou très pauvre."
+    },
+    {
+      "type": "comparison",
+      "title": "Bouture ou rosier greffé : quel résultat attendre ?",
+      "left": {
+        "title": "Rosier obtenu par bouture",
+        "points": [
+          "Reproduit exactement le cultivar prélevé.",
+          "Pousse sur ses propres racines, sans rejets de porte-greffe.",
+          "Souvent économique et intéressant pour conserver un rosier ancien.",
+          "Installation parfois plus lente les premières saisons."
+        ]
+      },
+      "right": {
+        "title": "Rosier acheté greffé",
+        "points": [
+          "Association d’un cultivar et d’un porte-greffe sélectionné.",
+          "Démarrage fréquemment plus vigoureux selon le sol.",
+          "Choix plus large en pépinière et plants souvent plus réguliers.",
+          "Peut produire des rejets sous le point de greffe à supprimer."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Vérifiez le droit de multiplication",
+      "html": "Certaines variétés récentes sont protégées par un droit d’obtention végétale ou font l’objet de conditions de multiplication. Une bouture réalisée pour votre jardin n’a pas le même enjeu qu’une reproduction destinée à être vendue ou diffusée. En cas de doute, renseignez-vous auprès du producteur ou privilégiez les rosiers anciens et clairement identifiés comme libres de multiplication."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir le bon moment pour bouturer",
+      "id": "choisir-le-bon-moment-pour-bouturer"
+    },
+    {
+      "type": "paragraph",
+      "html": "La période la plus fiable se situe généralement entre la fin de l’été et le début de l’automne, lorsque les rameaux de l’année ont commencé à durcir. On parle de tiges <em>semi-aoûtées</em> : elles ne sont plus tendres et cassantes comme au printemps, mais ne sont pas encore du bois très dur. Elles possèdent assez de réserves pour former des racines tout en restant actives."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez aussi bouturer au printemps, avec des jeunes pousses plus souples, ou en hiver avec des rameaux ligneux en dormance. Ces deux approches demandent davantage de maîtrise : les jeunes pousses se dessèchent ou pourrissent plus facilement, tandis que les boutures hivernales prennent du temps à redémarrer. Pour débuter, choisissez une journée douce, sans canicule, et intervenez après une période où le rosier a été normalement arrosé."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "15 à 20 cm",
+          "label": "longueur pratique pour une bouture de tige"
+        },
+        {
+          "value": "3 à 5 yeux",
+          "label": "bourgeons à conserver sur le segment"
+        },
+        {
+          "value": "4 à 10 semaines",
+          "label": "délai courant avant un début d’enracinement"
+        },
+        {
+          "value": "18 à 24 °C",
+          "label": "plage favorable pour maintenir les pots à l’abri"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Les principales périodes de bouturage du rosier",
+      "headers": [
+        "Période",
+        "Type de tige",
+        "Niveau de facilité",
+        "Points de vigilance"
+      ],
+      "rows": [
+        [
+          "Printemps",
+          "Jeune pousse tendre à demi-ferme",
+          "Intermédiaire",
+          "Atmosphère humide nécessaire ; risque de dessèchement et de fonte des tiges."
+        ],
+        [
+          "Fin d’été à début d’automne",
+          "Rameau semi-aoûté",
+          "Le plus accessible",
+          "Protéger les jeunes plants de leur premier hiver."
+        ],
+        [
+          "Fin d’automne à hiver",
+          "Rameau bien lignifié, sans feuilles",
+          "Intermédiaire à avancé",
+          "Enracinement lent ; substrat drainant et protection contre le gel indispensables."
+        ],
+        [
+          "Toute l’année à l’intérieur",
+          "Selon la pousse disponible",
+          "Variable",
+          "Lumière insuffisante, air sec et chaleur de chauffage limitent la reprise."
+        ]
+      ],
+      "note": "Ces repères dépendent du climat local, de l’exposition et de la variété. La qualité du rameau reste plus importante que la date exacte."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prélever une tige qui a de vraies chances de reprendre",
+      "id": "prelever-une-tige-qui-a-de-vraies-chances-de-reprendre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le choix de la tige fait une grande partie du résultat. Prélevez sur un rosier vigoureux, non stressé par la sécheresse, et exempt de taches noires, oïdium, rouille, pucerons ou dépérissement. Une bouture transporte les problèmes sanitaires de son pied mère : ne cherchez pas à sauver un rosier malade en le multipliant."
+    },
+    {
+      "type": "paragraph",
+      "html": "Repérez une pousse de l’année qui a porté une fleur récemment ou qui se termine par un bouton. La tige doit être droite, saine, d’un diamètre voisin de celui d’un crayon fin, avec plusieurs yeux bien visibles. Évitez les extrémités trop vertes, molles et creuses, tout comme le vieux bois très brun et ramifié. Prélevez plutôt le matin, quand les tissus sont bien hydratés, et placez aussitôt les tiges dans un sac propre légèrement humide, à l’ombre."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Le matériel réellement utile",
+      "items": [
+        "Un sécateur propre, affûté et désinfecté entre deux rosiers.",
+        "Des pots percés ou une caissette profonde, avec soucoupes non remplies d’eau.",
+        "Un substrat léger : terreau de semis ou fibre de coco mêlée à une bonne part de sable grossier, perlite ou pouzzolane fine.",
+        "Une étiquette indiquant le nom du rosier et la date de prélèvement.",
+        "Un crayon ou un plantoir fin pour faire les avant-trous.",
+        "Une cloche, une bouteille plastique découpée ou un sac transparent tenu à distance des feuilles, seulement si l’air est très sec.",
+        "De la poudre ou du gel d’hormones de bouturage, facultatif : utile sur des variétés difficiles, mais jamais indispensable à une bonne hygiène et à un bon substrat."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Préparez plusieurs boutures, pas une seule",
+      "html": "Même avec une méthode soignée, toutes les tiges ne s’enracinent pas. Prélevez plusieurs segments du même rosier et installez-les séparément ou suffisamment espacés. Vous augmenterez vos chances sans compliquer l’entretien, puis ne conserverez que les plants les plus vigoureux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode pas à pas pour réussir vos boutures",
+      "id": "la-methode-pas-a-pas-pour-reussir-vos-boutures"
+    },
+    {
+      "type": "paragraph",
+      "html": "La méthode en pot est la plus simple à surveiller, car vous contrôlez à la fois le drainage, l’humidité et la protection contre le froid. Travaillez vite après le prélèvement pour éviter que les coupes ne sèchent. Si vous devez attendre, conservez les tiges quelques heures au frais et à l’ombre, enveloppées dans un papier à peine humide, jamais trempées."
+    },
+    {
+      "type": "steps",
+      "title": "Bouturer un rosier en pot",
+      "items": [
+        {
+          "title": "Préparez le contenant",
+          "text": "Remplissez un pot percé d’un mélange humide et aéré. Il doit former une motte lorsqu’on le presse légèrement, sans laisser couler d’eau. Tassez à peine : les futures racines ont besoin d’oxygène."
+        },
+        {
+          "title": "Taillez le segment",
+          "text": "Coupez un morceau de 15 à 20 cm comportant trois à cinq yeux. Faites une coupe nette juste sous un œil à la base, puis une coupe droite environ 1 cm au-dessus d’un œil au sommet. Cette différence vous évite de planter la bouture à l’envers."
+        },
+        {
+          "title": "Réduisez le feuillage",
+          "text": "Supprimez la fleur, le bouton et les feuilles de la moitié basse. Gardez une ou deux petites feuilles en haut si elles sont saines, en les raccourcissant si elles sont grandes. Vous limitez ainsi l’évaporation sans priver totalement la tige de son activité."
+        },
+        {
+          "title": "Appliquez l’hormone si vous le souhaitez",
+          "text": "Humidifiez très légèrement la base et trempez seulement le bas de la tige dans le produit. Retirez l’excédent : une couche trop épaisse n’améliore pas la reprise et peut favoriser les moisissures."
+        },
+        {
+          "title": "Plantez sans abîmer la base",
+          "text": "Faites un trou au crayon, puis enfoncez la bouture sur environ la moitié à deux tiers de sa longueur. Au moins un œil doit se trouver sous le substrat et un ou deux doivent rester au-dessus. Refermez délicatement autour de la tige."
+        },
+        {
+          "title": "Arrosez puis installez à bonne place",
+          "text": "Arrosez modérément pour mettre le substrat en contact avec la tige. Placez le pot dans une lumière claire, sans soleil brûlant, à l’abri du vent et des fortes pluies. Étiquetez immédiatement."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gérer l’humidité, la lumière et l’enracinement",
+      "id": "gerer-l-humidite-la-lumiere-et-l-enracinement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après la plantation, le juste équilibre consiste à maintenir le substrat frais tout en laissant l’air circuler. Une bouture sans racines ne sait pas encore compenser ses pertes en eau ; pourtant, ses tissus pourrissent vite si la base baigne dans un mélange compact et saturé. Vérifiez le pot avec le doigt : arrosez lorsque les premiers centimètres commencent à sécher, puis laissez l’excès s’écouler librement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une protection transparente peut créer une atmosphère plus humide, surtout si l’air est chaud et sec. Elle ne doit pas toucher les feuilles et doit être aérée chaque jour ou plusieurs fois par semaine. De la condensation permanente, des feuilles molles ou un duvet gris sont des signaux d’excès d’humidité. Retirez alors la protection, éliminez les parties atteintes et espacez les arrosages."
+    },
+    {
+      "type": "proscons",
+      "title": "Utiliser une mini-serre ou une cloche : bonne idée ?",
+      "pros": [
+        "Réduit le dessèchement des boutures lorsqu’il fait sec ou venteux.",
+        "Peut accélérer la reprise des tiges encore un peu feuillées.",
+        "Facile à improviser avec un contenant transparent propre et ventilé."
+      ],
+      "cons": [
+        "La chaleur monte très vite au soleil et peut cuire les boutures.",
+        "L’air confiné favorise moisissures, botrytis et pourriture de la base.",
+        "Exige une aération régulière et une surveillance plus attentive qu’un pot simplement placé à l’abri."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Comment savoir si la bouture a pris ?",
+      "id": "comment-savoir-si-la-bouture-a-pris"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’apparition d’une petite pousse est encourageante, mais elle ne prouve pas toujours la présence de racines : la tige peut utiliser ses réserves pendant plusieurs semaines. Après un délai suffisant, testez très doucement la résistance de la bouture en la touchant près du substrat. Une tenue franche, associée à une croissance régulière, indique généralement un enracinement. Ne déterrez pas la tige pour vérifier : vous casseriez les racines fines en formation."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Ne rempotez pas au premier bourgeon",
+      "html": "Attendez que le plant ait produit plusieurs nouvelles feuilles bien formées et que les racines commencent à occuper le pot. Une bouture enracinée reste fragile : le rempotage prématuré est une cause fréquente d’arrêt de croissance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rempoter, hiverner et planter le jeune rosier",
+      "id": "rempoter-hiverner-et-planter-le-jeune-rosier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque la bouture est réellement installée, rempotez-la dans un contenant légèrement plus grand, rempli d’un terreau de qualité enrichi d’une fraction drainante. Manipulez la motte entière plutôt que les racines nues. Évitez les engrais forts au départ : un jeune rosier doit d’abord construire son système racinaire. Un apport léger et progressif au printemps suivant suffit généralement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier hiver est un moment délicat, surtout dans les régions aux gels marqués. Placez les pots contre un mur abrité, hors des vents froids, ou dans un châssis lumineux non surchauffé. Le substrat ne doit jamais rester gorgé d’eau ni sécher totalement. Si la bouture a été faite tardivement, il est souvent plus sage de la conserver en pot jusqu’au printemps, plutôt que de la planter en pleine terre juste avant les fortes gelées."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant la plantation définitive en pleine terre",
+      "items": [
+        "Attendez un plant doté de racines visibles contre la motte et de plusieurs tiges vigoureuses.",
+        "Choisissez un emplacement recevant plusieurs heures de soleil, avec une bonne circulation d’air.",
+        "Évitez de replanter directement à l’emplacement d’un rosier récemment arraché : le sol peut être appauvri ou défavorable aux rosiers.",
+        "Ameublissez largement le sol et ajoutez du compost mûr, sans enfouir de fumier frais au contact des racines.",
+        "Arrosez copieusement après plantation, paillez sans coller le paillage contre les tiges, puis surveillez l’arrosage durant la première saison.",
+        "Supprimez les premiers boutons floraux si le plant est encore chétif : il consacrera son énergie à l’enracinement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes, budget et solutions de remplacement",
+      "id": "erreurs-frequentes-budget-et-solutions-de-remplacement"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’erreur classique est de planter une longue tige dans de la terre de jardin lourde et de l’arroser tous les jours. Un rosier ne s’enracinera pas mieux dans un sol détrempé ; il y pourrira souvent avant d’émettre la moindre racine. À l’inverse, un rebord de fenêtre en plein soleil, derrière une vitre, dessèche les tissus en quelques heures. La réussite vient moins d’un produit miracle que de trois paramètres : une tige saine, un mélange aéré et une humidité régulière."
+    },
+    {
+      "type": "table",
+      "caption": "Quel budget prévoir selon la méthode ?",
+      "headers": [
+        "Solution",
+        "Budget indicatif",
+        "Ce qu’elle apporte",
+        "Limites"
+      ],
+      "rows": [
+        [
+          "Boutures en pots récupérés",
+          "Très faible",
+          "Méthode économique si vous avez déjà substrat et outils.",
+          "Résultats variables ; demande de la patience."
+        ],
+        [
+          "Kit de bouturage avec mini-serre",
+          "Faible à modéré",
+          "Organisation simple, humidité plus facile à maintenir.",
+          "Ne remplace pas l’aération et peut surchauffer."
+        ],
+        [
+          "Hormone de bouturage",
+          "Faible",
+          "Peut aider certaines tiges plus difficiles à enraciner.",
+          "Facultative ; efficacité limitée sans bons gestes."
+        ],
+        [
+          "Jeune rosier acheté en pépinière",
+          "Modéré à plus élevé selon le sujet",
+          "Plant déjà enraciné, choix de porte-greffe et de variété.",
+          "Ne conserve pas nécessairement votre rosier existant."
+        ]
+      ],
+      "note": "Les coûts dépendent surtout de ce que vous possédez déjà. Réutiliser des pots propres et acheter un sac de substrat adapté suffit dans la plupart des cas."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre priorité est un résultat rapide, prévisible et adapté à un sol compliqué, l’achat d’un rosier greffé reste une alternative rationnelle. Si vous souhaitez reproduire fidèlement un rosier ancien, créer une petite haie à partir d’un sujet apprécié ou apprendre à multiplier vos plantes, le bouturage est nettement plus satisfaisant. Vous pouvez aussi demander un jeune plant déjà enraciné à un proche plutôt qu’une simple tige : la reprise sera plus sûre."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "L’économie la plus utile : ne pas suréquiper",
+      "html": "Inutile d’acheter une serre chauffante, des stimulants multiples ou un terreau spécialisé coûteux pour quelques boutures. Investissez d’abord dans un sécateur propre, des pots percés et un mélange vraiment drainant. Ce sont les éléments qui évitent les échecs les plus courants."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adapter la technique aux différents types de rosiers",
+      "id": "adapter-la-technique-aux-differents-types-de-rosiers"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les rosiers arbustifs, paysagers, grimpants et anciens se prêtent souvent bien au bouturage. Les mini-rosiers peuvent également reprendre, mais leurs tiges fines demandent un substrat particulièrement léger et une humidité mieux contrôlée. Les rosiers à grandes fleurs hybrides, souvent fortement dépendants de leur porte-greffe pour exprimer leur vigueur, peuvent s’enraciner mais offrir des résultats plus inégaux selon le terrain."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un grimpant, prélevez une pousse latérale vigoureuse plutôt qu’une vieille charpentière. Pour un rosier couvre-sol, les tiges souples peuvent parfois s’enraciner par marcottage : enterrez une portion de rameau encore attachée au pied mère, maintenez-la avec une agrafe et attendez la formation de racines avant de la séparer. Le marcottage prend plus de place, mais il est souvent plus sûr car la tige reste nourrie par le rosier pendant l’enracinement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le diagnostic rapide si vos boutures échouent",
+      "id": "le-diagnostic-rapide-si-vos-boutures-echouent"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une base noire et molle traduit presque toujours un excès d’eau, un substrat insuffisamment aéré ou un outil contaminé. Une tige ratatinée et brunie évoque plutôt un manque d’humidité, un soleil trop direct ou un prélèvement réalisé sur une pousse trop tendre. Des feuilles qui jaunissent sans pourriture visible peuvent signaler un éclairage trop faible, des arrosages irréguliers ou simplement la mobilisation des réserves ; observez la base et la fermeté de la tige avant d’intervenir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne jetez pas toutes les boutures au premier signe de lenteur. Certaines variétés prennent du temps, notamment lorsque les températures baissent. En revanche, retirez immédiatement les tiges franchement moisies ou noircies afin de protéger les autres. Gardez des notes simples sur la variété, la date, le type de tige et l’emplacement : après une ou deux saisons, vous saurez quelle méthode convient le mieux à votre jardin."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les boutures de rosiers",
+      "items": [
+        {
+          "q": "Peut-on faire une bouture de rosier dans l’eau ?",
+          "a": "C’est possible d’obtenir des racines dans l’eau sur certaines tiges, mais elles sont souvent fragiles et s’adaptent mal au passage en terre. Un substrat léger et drainant donne généralement des plants plus faciles à installer. Si vous essayez dans l’eau, changez-la régulièrement et transplantez dès l’apparition de petites racines."
+        },
+        {
+          "q": "Faut-il obligatoirement utiliser de l’hormone de bouturage ?",
+          "a": "Non. Une tige bien choisie, un outil propre et un substrat aéré sont plus déterminants. L’hormone peut constituer un petit coup de pouce pour des variétés réputées difficiles ou des rameaux plus lignifiés, mais elle ne corrige ni le surarrosage ni le dessèchement."
+        },
+        {
+          "q": "Peut-on bouturer un rosier à partir d’une rose de bouquet ?",
+          "a": "Vous pouvez essayer si la tige est fraîche, saine et comporte des yeux, mais le taux de réussite est souvent faible. Les roses coupées ont parfois subi un long transport ou des traitements de conservation, et beaucoup proviennent de variétés conçues pour la fleur coupée plutôt que pour le jardin. Prélever sur un rosier vivant reste préférable."
+        },
+        {
+          "q": "Pourquoi ma bouture fait-elle des feuilles mais pas de racines ?",
+          "a": "La tige peut produire une pousse grâce à ses réserves internes avant d’être enracinée. Maintenez des conditions stables, sans excès d’eau, et n’arrachez pas la bouture pour contrôler. Si elle reste ferme et que sa croissance se poursuit après plusieurs semaines, l’enracinement est probablement en cours."
+        },
+        {
+          "q": "Quand faut-il tailler une bouture de rosier qui a repris ?",
+          "a": "Ne la taillez pas fortement durant sa phase d’installation. Lorsque le jeune plant possède plusieurs pousses bien enracinées, vous pouvez pincer légèrement une tige trop longue pour favoriser la ramification. Une taille de formation plus franche s’effectue plutôt après son premier vrai cycle de croissance."
+        },
+        {
+          "q": "Combien de boutures faut-il préparer pour obtenir un rosier ?",
+          "a": "Préparez-en plusieurs, idéalement au moins trois à cinq pour un seul rosier souhaité, car la reprise varie selon la variété, la maturité des tiges et les conditions du moment. Vous pourrez conserver le plant le plus vigoureux ou offrir les autres une fois qu’ils seront bien enracinés."
+        }
+      ]
+    }
+  ]
+}

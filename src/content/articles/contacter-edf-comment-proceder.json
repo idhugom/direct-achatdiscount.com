@@ -1,0 +1,429 @@
+{
+  "title": "Contacter EDF : comment procéder ?",
+  "slug": "contacter-edf-comment-proceder",
+  "path": "/divers/contacter-edf-comment-proceder.html",
+  "category": "argent",
+  "tags": [
+    "edf",
+    "service client",
+    "facture d'électricité",
+    "contrat énergie",
+    "enedis",
+    "réclamation"
+  ],
+  "excerpt": "Quel canal utiliser pour joindre EDF, préparer votre demande, signaler une urgence ou contester une facture ? Le guide pratique, étape par étape.",
+  "metaDescription": "Téléphone, espace client, courrier ou urgence réseau : découvrez comment contacter EDF selon votre demande et obtenir une réponse efficace.",
+  "seoTitle": "Contacter EDF : tous les moyens et démarches",
+  "heroKicker": "Joindre le fournisseur",
+  "readingTime": 11,
+  "date": "2018-02-21T10:30:41",
+  "image": {
+    "id": "272",
+    "alt": "Contacter EDF : comment procéder ?",
+    "width": 1000,
+    "height": 662
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une facture à comprendre, un déménagement à déclarer, un paiement à régulariser ou une panne à signaler : « contacter EDF » ne recouvre pas une seule démarche. Le bon réflexe consiste d’abord à identifier votre interlocuteur et le canal adapté à votre demande. Vous gagnerez du temps, éviterez les transferts inutiles et préserverez vos droits en cas de litige."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Pour une question de contrat, de facture, de prélèvement ou de déménagement, contactez <strong>EDF en tant que fournisseur</strong>, de préférence depuis votre espace client ou avec votre facture sous les yeux.",
+        "Pour une coupure générale, un câble tombé, un compteur défectueux ou un raccordement, l’interlocuteur est généralement <strong>Enedis</strong> pour l’électricité, pas EDF.",
+        "Utilisez le téléphone pour une situation à régler rapidement ; privilégiez l’écrit pour une réclamation, une contestation de facture ou toute demande dont vous voulez conserver la preuve.",
+        "Ne communiquez jamais vos coordonnées bancaires ou un code reçu par SMS à la suite d’un appel non sollicité : les démarchages liés à l’énergie sont un terrain fréquent de fraude.",
+        "Avant d’appeler, préparez votre référence client, l’adresse du logement, le numéro de point de livraison et les relevés ou documents concernés."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3",
+          "label": "éléments à avoir au minimum : référence client, adresse du logement et objet précis de la demande"
+        },
+        {
+          "value": "2",
+          "label": "interlocuteurs à distinguer : le fournisseur pour le contrat, le gestionnaire de réseau pour le réseau"
+        },
+        {
+          "value": "24 h/24",
+          "label": "disponibilité habituelle des services d’urgence du gestionnaire de réseau, à vérifier sur son site officiel"
+        },
+        {
+          "value": "1 trace écrite",
+          "label": "à conserver systématiquement en cas de réclamation ou d’accord obtenu par téléphone"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avant de contacter EDF : identifier exactement votre besoin",
+      "id": "avant-de-contacter-edf-identifier-exactement-votre-besoin"
+    },
+    {
+      "type": "paragraph",
+      "html": "EDF est un <strong>fournisseur d’énergie</strong>. Il vend l’électricité et, selon votre contrat, le gaz ; il établit vos factures, gère vos offres, vos paiements, vos options tarifaires et l’ouverture ou la fermeture d’un contrat. En revanche, il ne possède pas le réseau de distribution local et n’intervient pas directement sur la plupart des pannes, des compteurs ou des raccordements."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette distinction est essentielle. Pour l’électricité, le réseau est habituellement exploité par <strong>Enedis</strong>, sauf dans les zones relevant d’une entreprise locale de distribution. Pour le gaz, le gestionnaire est le plus souvent <strong>GRDF</strong>, là encore avec des exceptions locales. Même si vous êtes client EDF, une panne de quartier ou un problème de sécurité doit donc être signalé au gestionnaire de réseau compétent."
+    },
+    {
+      "type": "table",
+      "caption": "Qui contacter selon la nature de votre demande ?",
+      "headers": [
+        "Votre situation",
+        "Interlocuteur prioritaire",
+        "Canal le plus adapté",
+        "À préparer"
+      ],
+      "rows": [
+        [
+          "Comprendre une facture, modifier un prélèvement, demander un échéancier",
+          "EDF",
+          "Espace client, messagerie ou téléphone",
+          "Référence facture, montant contesté, dates de paiement"
+        ],
+        [
+          "Souscrire, résilier ou déménager",
+          "EDF",
+          "En ligne ou téléphone",
+          "Adresse, date souhaitée, relevé du compteur si nécessaire"
+        ],
+        [
+          "Coupure touchant le voisinage, câble au sol, compteur ou disjoncteur réseau",
+          "Enedis ou gestionnaire local",
+          "Service dépannage officiel",
+          "Adresse exacte, nature du danger ou de la coupure"
+        ],
+        [
+          "Odeur de gaz ou suspicion de fuite",
+          "GRDF ou gestionnaire local",
+          "Urgence gaz officielle",
+          "Adresse, symptômes constatés ; éloignez-vous si nécessaire"
+        ],
+        [
+          "Raccordement, déplacement de compteur, puissance de raccordement",
+          "Enedis ou gestionnaire local",
+          "Demande en ligne dédiée",
+          "Plans, adresse, description du projet"
+        ],
+        [
+          "Désaccord persistant avec EDF",
+          "EDF puis médiation compétente",
+          "Réclamation écrite",
+          "Historique des échanges, factures, pièces justificatives"
+        ]
+      ],
+      "note": "Les coordonnées à jour et les horaires doivent être vérifiés sur votre facture, votre espace client et les sites officiels d’EDF, Enedis ou GRDF. Ils peuvent varier selon votre contrat et votre zone."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "En cas de danger, ne cherchez pas le service client",
+      "html": "Face à un <strong>câble électrique au sol</strong>, à une odeur de gaz, à un départ de feu ou à une situation mettant des personnes en danger, éloignez-vous de la zone, ne touchez à rien et appelez les secours si nécessaire. Contactez ensuite le service d’urgence du gestionnaire de réseau indiqué sur son site officiel. Le service client EDF n’est pas un service de sécurité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les principaux moyens pour joindre EDF",
+      "id": "les-principaux-moyens-pour-joindre-edf"
+    },
+    {
+      "type": "paragraph",
+      "html": "EDF met habituellement à disposition plusieurs canaux : espace client en ligne, application mobile, téléphone, formulaire ou messagerie, et courrier. Aucun n’est universellement meilleur. Le choix dépend de l’urgence, de la complexité du dossier et du besoin de conserver une preuve. Les coordonnées les plus fiables sont celles figurant sur votre dernière facture ou dans l’espace client associé au contrat : elles correspondent à votre profil de client et limitent le risque de tomber sur un numéro commercial non officiel."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "L’espace client et l’application : le réflexe pour les demandes courantes",
+      "id": "l-espace-client-et-l-application-le-reflexe-pour-les-demande"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’espace client permet généralement de consulter les factures, suivre les consommations lorsqu’un compteur communicant le permet, transmettre un relevé, modifier certaines coordonnées, ajuster un moyen de paiement, télécharger une attestation ou suivre une demande. C’est le canal le plus pratique lorsque votre demande est simple et non urgente. Il laisse une trace de certaines opérations et évite l’attente téléphonique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Utilisez la messagerie sécurisée ou le formulaire depuis cet espace pour poser une question documentée : joignez, si l’outil l’autorise, une photo du compteur, une copie lisible de facture ou tout justificatif utile. Rédigez un message court : numéro de contrat, problème, demande précise, pièces jointes. Une demande vague du type « ma facture est trop chère » entraîne souvent des échanges supplémentaires."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le téléphone : utile pour débloquer rapidement une situation",
+      "id": "le-telephone-utile-pour-debloquer-rapidement-une-situation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le téléphone convient à une souscription, à un déménagement proche, à une facture difficile à comprendre ou à une difficulté de paiement nécessitant un échange. Appelez de préférence en dehors des créneaux traditionnellement chargés, gardez un calendrier devant vous et prenez des notes pendant l’appel. Demandez le prénom ou l’identifiant de votre interlocuteur, la synthèse des actions réalisées et, si possible, une confirmation écrite."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût d’un appel dépend de votre opérateur et de votre forfait. Un numéro indiqué comme non surtaxé peut tout de même être décompté de votre forfait ou facturé comme un appel ordinaire selon votre offre. Évitez les numéros trouvés dans des annonces sponsorisées ou sur des annuaires peu fiables : cherchez toujours les coordonnées depuis le site officiel ou vos documents contractuels."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le courrier : indispensable pour formaliser une réclamation",
+      "id": "le-courrier-indispensable-pour-formaliser-une-reclamation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour contester une somme importante, demander le réexamen d’une décision, signaler un prélèvement non justifié ou préparer une médiation, le courrier reste pertinent. Une lettre recommandée avec avis de réception représente un coût modéré, mais elle apporte une preuve de l’envoi et de la réception. Reprenez l’adresse de réclamation affichée sur votre facture ou dans les conditions contractuelles, car elle peut être différente de l’adresse générale du service client."
+    },
+    {
+      "type": "comparison",
+      "title": "Espace client, téléphone ou courrier : quel canal choisir ?",
+      "left": {
+        "title": "Canaux rapides : en ligne et téléphone",
+        "points": [
+          "À privilégier pour consulter un document, modifier une donnée, souscrire, résilier ou obtenir une explication immédiate.",
+          "L’espace client est pratique pour les opérations standard et les pièces dématérialisées.",
+          "Le téléphone permet de dialoguer et de négocier un calendrier de paiement lorsque la situation est urgente.",
+          "Limite : une promesse orale est plus difficile à prouver si elle n’est pas confirmée par écrit."
+        ]
+      },
+      "right": {
+        "title": "Canal formel : courrier ou message écrit",
+        "points": [
+          "À privilégier pour une contestation de facture, une mise en demeure ou un désaccord persistant.",
+          "Permet d’exposer les faits chronologiquement et de joindre les justificatifs.",
+          "Le recommandé constitue une preuve utile en cas de médiation ultérieure.",
+          "Limite : le traitement est généralement moins immédiat qu’un échange téléphonique."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer votre dossier pour obtenir une réponse utile",
+      "id": "preparer-votre-dossier-pour-obtenir-une-reponse-utile"
+    },
+    {
+      "type": "paragraph",
+      "html": "La qualité de votre demande conditionne souvent la rapidité de la réponse. Une facture ne se traite pas de la même façon qu’un déménagement ou qu’une suspicion d’erreur de compteur. Avant toute prise de contact, rassemblez les informations qui permettront au conseiller de retrouver votre contrat sans ambiguïté et de comprendre ce que vous attendez."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La checklist avant un appel ou un message",
+      "items": [
+        "Votre <strong>référence client</strong> et, si vous l’avez, le numéro de contrat figurant sur la facture.",
+        "L’adresse complète du logement concerné et l’identité du titulaire du contrat.",
+        "Le numéro de point de livraison ou de référence compteur, utile notamment lors d’un déménagement ou d’un litige de consommation.",
+        "La facture, l’échéancier ou l’avis de prélèvement concerné, avec le montant et la date précise.",
+        "Un relevé récent du compteur si vous disposez d’un compteur non communicant, ainsi que des photos lisibles si elles éclairent la situation.",
+        "Votre demande formulée en une phrase : « Je souhaite une explication », « je demande une rectification », « je sollicite un échéancier » ou « je veux résilier à telle date »."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "La méthode des faits datés",
+      "html": "Pour toute anomalie, évitez les appréciations générales et donnez une chronologie : <strong>facture reçue le…, prélèvement effectué le…, relevé transmis le…, réponse obtenue le…</strong>. Indiquez ensuite ce que vous demandez concrètement. Cette présentation est plus efficace pour le service client et indispensable si vous devez aller plus loin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Déménagement, ouverture et résiliation : les bonnes démarches",
+      "id": "demenagement-ouverture-et-resiliation-les-bonnes-demarches"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un déménagement ne consiste pas à « transférer le compteur » au sens strict. Vous devez généralement <strong>résilier le contrat de l’ancien logement</strong> et souscrire un contrat pour la nouvelle adresse, même si vous conservez EDF comme fournisseur. Ne comptez pas sur l’occupant suivant ou précédent pour effectuer ces démarches à votre place : vous risqueriez de payer une consommation qui ne vous appartient pas, ou de vous retrouver sans énergie à l’arrivée."
+    },
+    {
+      "type": "steps",
+      "title": "Organiser un déménagement sans erreur",
+      "items": [
+        {
+          "title": "Anticipez votre date d’entrée",
+          "text": "Contactez EDF dès que vous connaissez l’adresse et la date souhaitée. En cas de logement neuf, vérifiez surtout que le raccordement et la mise en service sont bien possibles."
+        },
+        {
+          "title": "Relevez l’ancien compteur le jour du départ",
+          "text": "Prenez une photo nette du relevé, avec la date si possible. Pour un compteur communicant, la remontée peut être automatique, mais conserver un élément de preuve reste prudent."
+        },
+        {
+          "title": "Résiliez l’ancien contrat à la bonne date",
+          "text": "Demandez une confirmation de clôture et surveillez l’émission de la facture de régularisation. Conservez-la, même après le remboursement éventuel d’un trop-perçu."
+        },
+        {
+          "title": "Souscrivez pour le nouveau logement",
+          "text": "Communiquez les informations demandées et vérifiez l’option tarifaire, la puissance souscrite et le mode de facturation choisis."
+        },
+        {
+          "title": "Contrôlez la première facture",
+          "text": "Vérifiez l’adresse, le point de livraison, les dates couvertes, l’index de départ et l’éventuelle estimation. Corrigez rapidement une incohérence documentée."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une première mise en service ou un logement resté longtemps inoccupé, un délai technique peut s’ajouter à la souscription. EDF transmet alors la demande au gestionnaire de réseau. Prévoir une marge évite de dépendre d’une intervention de dernière minute, surtout à une période de forte mobilité résidentielle."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Facture élevée, prélèvement refusé ou difficulté de paiement : agir sans attendre",
+      "id": "facture-elevee-prelevement-refuse-ou-difficulte-de-paiement-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une facture qui augmente n’est pas nécessairement erronée. Elle peut résulter d’une régularisation après des estimations trop basses, d’une période de chauffage plus intense, d’un changement d’usage, d’un appareil énergivore ou d’une modification tarifaire. Avant de contester, comparez la période facturée avec la même saison précédente, vérifiez si les index sont estimés ou relevés, et regardez la consommation en kilowattheures plutôt que le seul montant en euros."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si les chiffres semblent incohérents, demandez à EDF le détail du calcul : index de début et de fin, nature du relevé, période couverte, consommation retenue et tarifs appliqués. Si vous disposez d’une photo de compteur prise aux dates utiles, joignez-la. En présence d’une erreur d’index ou d’un dysfonctionnement présumé, EDF peut orienter le dossier vers le gestionnaire de réseau compétent."
+    },
+    {
+      "type": "proscons",
+      "title": "Contester ou demander un échéancier : deux réponses à ne pas confondre",
+      "pros": [
+        "<strong>Contester</strong> est approprié si vous identifiez un élément factuel vérifiable : mauvais index, mauvaise période, double facturation, contrat clôturé ou paiement déjà effectué.",
+        "<strong>Demander un échéancier</strong> est souvent plus réaliste lorsque la dette est justifiée mais qu’un règlement immédiat vous met en difficulté.",
+        "Dans les deux cas, prendre contact tôt limite le risque de frais, de relances ou de procédures plus contraignantes.",
+        "Un accord écrit sur les dates et les montants évite les malentendus."
+      ],
+      "cons": [
+        "Contester sans document ou sans analyse de la facture peut retarder la résolution et ne suspend pas automatiquement toutes les obligations de paiement.",
+        "Un échéancier ne corrige pas une erreur de facturation : demandez d’abord une vérification si le montant est manifestement anormal.",
+        "Ignorer une relance est rarement une bonne stratégie ; elle réduit vos marges de négociation.",
+        "Ne bloquez pas un prélèvement sans avoir identifié la cause et prévu une solution de remplacement avec le fournisseur."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Si votre budget énergie devient difficile à tenir",
+      "html": "Contactez EDF <strong>avant l’échéance</strong> et expliquez votre situation. Demandez si un paiement fractionné ou une adaptation temporaire est envisageable. Selon vos ressources et votre situation, renseignez-vous aussi auprès des services sociaux locaux sur les dispositifs d’aide existants. Ne vous engagez pas sur un échéancier que vous ne pourrez pas respecter : proposez un montant et des dates réalistes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Panne, compteur, raccordement : EDF ou Enedis ?",
+      "id": "panne-compteur-raccordement-edf-ou-enedis"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est l’une des confusions les plus courantes. EDF facture l’électricité et suit votre contrat ; Enedis assure généralement la continuité du réseau, le dépannage, le relevé technique, le changement de compteur et le raccordement. Votre fournisseur peut vous renseigner sur l’incidence contractuelle d’une intervention, mais il ne peut pas dépêcher lui-même un technicien réseau pour une coupure collective."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre logement seul est privé d’électricité, commencez par vérifier le disjoncteur, l’état du tableau électrique et, si cela est sans danger, si l’alimentation a été interrompue à la suite d’un impayé ou d’une opération prévue. Si les voisins sont également touchés, il s’agit vraisemblablement d’un incident réseau. Consultez alors la page de dépannage du gestionnaire de réseau ou son canal d’urgence officiel. N’essayez jamais d’ouvrir un compteur, de manipuler les scellés ni de rétablir une installation endommagée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire une réclamation à EDF et aller jusqu’à la médiation",
+      "id": "faire-une-reclamation-a-edf-et-aller-jusqu-a-la-mediation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsqu’une première réponse ne règle pas le problème, passez à une réclamation structurée. Ne multipliez pas les appels sur le même sujet sans récapitulatif : cela disperse les informations. Écrivez au service réclamation d’EDF via le canal officiel indiqué dans votre espace client ou sur votre facture, en rappelant les démarches déjà effectuées."
+    },
+    {
+      "type": "steps",
+      "title": "La procédure efficace en cas de litige",
+      "items": [
+        {
+          "title": "Demandez d’abord une résolution au service client",
+          "text": "Exposez les faits, transmettez vos pièces et formulez votre demande : correction, remboursement, explication ou échéancier."
+        },
+        {
+          "title": "Formalisez votre réclamation par écrit",
+          "text": "Si la réponse est absente, incomplète ou défavorable, envoyez un message détaillé ou un courrier. Conservez une copie, les accusés de réception et les captures d’écran."
+        },
+        {
+          "title": "Fixez une demande claire et proportionnée",
+          "text": "Distinguez ce qui est incontestable de ce qui est contesté. Demandez par exemple le recalcul d’une période précise ou le remboursement d’un prélèvement identifié."
+        },
+        {
+          "title": "Saisissez le médiateur compétent si le différend persiste",
+          "text": "Après avoir tenté une résolution directe et selon les conditions de recevabilité en vigueur, vous pouvez vous tourner vers le médiateur national de l’énergie. Vérifiez les délais et les pièces requises sur son site officiel."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le dossier de médiation doit être cohérent : contrat, factures, échanges avec EDF, relevés, photos, preuve des paiements et courrier de réclamation. La médiation ne remplace pas une démarche d’urgence et n’a pas vocation à arbitrer une simple insatisfaction non étayée. Elle est en revanche utile lorsque les échanges sont bloqués malgré des éléments concrets."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Éviter les pièges : démarchage, faux conseillers et mauvais interlocuteurs",
+      "id": "eviter-les-pieges-demarchage-faux-conseillers-et-mauvais-int"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les recherches sur internet autour de l’énergie font remonter de nombreux intermédiaires : comparateurs, plateformes de mise en relation, sociétés de dépannage ou numéros surtaxés. Certains peuvent être légitimes, mais ils ne sont pas nécessairement EDF. Pour une démarche liée à votre contrat, connectez-vous vous-même à l’espace client officiel ou utilisez les coordonnées imprimées sur vos documents."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes de sécurité à adopter",
+      "items": [
+        "Ne donnez pas votre <strong>numéro de carte bancaire</strong> à un appelant qui vous contacte sans sollicitation préalable.",
+        "Ne communiquez jamais un code de validation bancaire reçu par SMS, même si l’appelant prétend régulariser une facture.",
+        "Méfiez-vous d’une pression à signer, changer d’offre ou payer immédiatement sous prétexte de coupure imminente.",
+        "Vérifiez l’identité de tout interlocuteur en raccrochant puis en rappelant vous-même EDF au numéro officiel.",
+        "Lisez les confirmations reçues après un appel commercial : une modification de fournisseur ou de contrat peut parfois être annulée dans le cadre légal applicable, sous certaines conditions.",
+        "En cas de doute sur un message, ne cliquez pas sur son lien ; accédez directement à votre espace client depuis votre navigateur ou l’application officielle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le bon canal selon votre situation : décision rapide",
+      "id": "le-bon-canal-selon-votre-situation-decision-rapide"
+    },
+    {
+      "type": "paragraph",
+      "html": "Retenez une règle simple. Pour une opération administrative simple, commencez en ligne. Pour une situation personnelle urgente ou complexe, appelez avec votre dossier complet. Pour un désaccord financier ou juridique, écrivez et conservez les preuves. Pour une panne ou un danger, contactez le gestionnaire de réseau ou les secours, jamais un simple service commercial. Cette méthode vous évite la plupart des démarches inutiles."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le message type qui accélère le traitement",
+      "html": "Indiquez toujours : <strong>« Je suis titulaire du contrat n°…, pour le logement situé…, et je demande… »</strong>. Ajoutez les dates, le montant concerné et les documents utiles. Terminez par une question ou une action attendue précise, par exemple : « Merci de me confirmer le recalcul de la facture avant le… »."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes pour contacter EDF",
+      "items": [
+        {
+          "q": "Comment contacter EDF sans attendre au téléphone ?",
+          "a": "Commencez par votre <strong>espace client EDF</strong> ou l’application associée à votre contrat. Vous pouvez généralement y consulter vos documents, effectuer certaines modifications et envoyer un message. Pour une demande nécessitant une preuve, privilégiez la messagerie sécurisée ou un courrier plutôt qu’un simple appel."
+        },
+        {
+          "q": "Qui appeler en cas de coupure d’électricité ?",
+          "a": "Si la coupure concerne plusieurs logements, un câble extérieur ou le réseau, contactez <strong>Enedis</strong> ou le gestionnaire local de distribution via son service dépannage officiel. Si vous êtes seul concerné, vérifiez d’abord votre installation sans prendre de risque et consultez vos éventuels messages EDF relatifs au contrat. En cas de danger immédiat, appelez les secours."
+        },
+        {
+          "q": "Puis-je contacter EDF pour faire ouvrir l’électricité dans un nouveau logement ?",
+          "a": "Oui. EDF peut souscrire votre contrat et transmettre la demande de mise en service au gestionnaire de réseau. Anticipez cette démarche dès que vous connaissez l’adresse et votre date d’entrée. Pour un logement neuf, assurez-vous en amont que le raccordement et les formalités techniques sont finalisés."
+        },
+        {
+          "q": "Quels documents faut-il fournir pour contester une facture EDF ?",
+          "a": "Joignez la facture concernée, votre référence client, les relevés de compteur disponibles, les preuves de paiement et les échanges précédents. Expliquez précisément l’anomalie : index erroné, période facturée, double prélèvement ou contrat clôturé. Une demande datée et chiffrée est bien plus facile à instruire."
+        },
+        {
+          "q": "EDF peut-il régler un problème de compteur électrique ?",
+          "a": "EDF peut enregistrer votre demande et vous informer sur votre contrat, mais l’intervention technique sur le compteur et le réseau relève généralement d’<strong>Enedis</strong> ou du gestionnaire local. Pour un compteur endommagé, un dysfonctionnement ou une demande de raccordement, adressez-vous directement au gestionnaire de réseau compétent."
+        },
+        {
+          "q": "Que faire si EDF ne répond pas à ma réclamation ?",
+          "a": "Relancez par écrit en conservant toutes les pièces et preuves d’envoi. Si le litige persiste après vos démarches auprès d’EDF, vérifiez les conditions de saisine du <strong>médiateur national de l’énergie</strong>. Préparez un dossier chronologique comprenant vos factures, courriers, réponses reçues et justificatifs."
+        }
+      ]
+    }
+  ]
+}

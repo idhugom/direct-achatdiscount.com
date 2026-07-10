@@ -1,0 +1,428 @@
+{
+  "title": "Déménagement: bon plan?",
+  "slug": "demenagement-bon-plan",
+  "path": "/divers/demenagement-bon-plan.html",
+  "category": "maison",
+  "tags": [
+    "déménagement",
+    "budget",
+    "location utilitaire",
+    "cartons",
+    "garde-meuble",
+    "organisation"
+  ],
+  "excerpt": "Un déménagement économique se prépare : estimez le volume, choisissez la bonne formule, évitez les faux bons plans et sécurisez vos biens.",
+  "metaDescription": "Déménager moins cher sans sacrifier la sécurité : formule, camion, cartons, assurances, calendrier et astuces pour maîtriser chaque dépense.",
+  "seoTitle": "Déménagement : les bons plans pour réduire la facture",
+  "heroKicker": "Déménager malin",
+  "readingTime": 12,
+  "date": "2018-04-16T11:25:33",
+  "image": {
+    "id": "234",
+    "alt": "Déménagement: bon plan?",
+    "width": 640,
+    "height": 480
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un déménagement peut devenir un vrai bon plan, mais seulement si vous comparez le <strong>coût total</strong>, le temps à y consacrer et les risques de casse ou de mauvaise organisation. Entre location d’un utilitaire, aide de proches, formule professionnelle, déménagement groupé et stockage temporaire, la solution la moins chère sur le papier n’est pas toujours la plus économique au final."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Estimez votre <strong>volume réel</strong> avant de réserver : c’est le point de départ du camion, du devis et du nombre de bras nécessaires.",
+        "Comparez les options à coût complet : carburant, péages, assurance, matériel, manutention, nuitée éventuelle et temps de trajet.",
+        "Un déménagement autonome est intéressant pour un faible volume et une courte distance ; au-delà, une formule professionnelle ou groupée peut mieux sécuriser votre budget.",
+        "Réduisez d’abord ce que vous transportez : vendre, donner ou déposer en déchèterie coûte souvent moins cher que déplacer des objets inutiles.",
+        "Ne signez pas un devis ou un contrat de location sans vérifier les conditions d’assurance, la franchise, les accès et les suppléments possibles."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un déménagement est-il vraiment un bon plan ?",
+      "id": "un-demenagement-est-il-vraiment-un-bon-plan"
+    },
+    {
+      "type": "paragraph",
+      "html": "Oui, à condition de ne pas réduire la question au seul tarif du camion ou au montant affiché sur un devis. Le bon plan est celui qui vous permet d’arriver dans votre nouveau logement avec vos biens intacts, dans le créneau prévu, sans facture surprise et sans épuiser votre entourage. Pour un studio peu meublé à quelques kilomètres, louer un petit utilitaire et mobiliser deux personnes peut être très rationnel. Pour un logement familial, des meubles lourds, plusieurs étages sans ascenseur ou une longue distance, l’économie apparente du « fait maison » disparaît vite derrière les allers-retours, le carburant, les contraintes de stationnement et le risque d’accident."
+    },
+    {
+      "type": "paragraph",
+      "html": "La première économie consiste donc à adapter la formule à votre situation, et non à choisir systématiquement l’option la moins chère. Prenez aussi en compte la valeur de vos journées : poser des congés, coordonner six personnes et conduire un camion chargé sur plusieurs centaines de kilomètres a un coût pratique, même s’il n’apparaît pas sur une facture."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 à 2 mois",
+          "label": "d’anticipation confortable pour comparer, trier et réserver les créneaux recherchés"
+        },
+        {
+          "value": "3 niveaux",
+          "label": "de budget à distinguer : transport, manutention et frais annexes"
+        },
+        {
+          "value": "20 à 30 %",
+          "label": "de marge de volume utile à prévoir pour éviter un camion trop petit"
+        },
+        {
+          "value": "1 inventaire",
+          "label": "photos et liste des objets de valeur avant toute prise en charge"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les principales formules : laquelle correspond à votre projet ?",
+      "id": "les-principales-formules-laquelle-correspond-a-votre-projet"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il existe quatre grandes manières de déménager. Le choix dépend moins de la surface de votre logement que du volume à transporter, de la distance, de l’accessibilité et de votre capacité à porter et organiser. Une maison peu encombrée peut représenter moins de volume qu’un deux-pièces très meublé ; ne vous fiez donc pas uniquement au nombre de pièces."
+    },
+    {
+      "type": "table",
+      "caption": "Comparer les solutions de déménagement",
+      "headers": [
+        "Solution",
+        "Adaptée à",
+        "Atout principal",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Autonome avec voiture ou utilitaire",
+          "Petit à moyen volume, courte distance, accès faciles",
+          "Budget maîtrisable et calendrier souple",
+          "Fatigue, assurance, permis, stationnement et manutention à votre charge"
+        ],
+        [
+          "Location d’utilitaire avec aide de proches",
+          "Volume intermédiaire, trajet régional",
+          "Souvent compétitive si l’équipe est fiable",
+          "Coordination difficile ; prévoir matériel et assurance conducteur"
+        ],
+        [
+          "Déménageur en formule économique",
+          "Meubles lourds, contraintes d’accès, volume important",
+          "Manutention professionnelle et garanties encadrées",
+          "Vérifier précisément ce qui est inclus ou laissé à votre charge"
+        ],
+        [
+          "Déménagement groupé ou trajet partagé",
+          "Longue distance avec dates flexibles",
+          "Réduit le prix du transport en mutualisant le camion",
+          "Date et délai de livraison parfois moins flexibles"
+        ],
+        [
+          "Conteneur ou box mobile",
+          "Transition, travaux, stockage temporaire",
+          "Chargement à votre rythme et stockage intégré",
+          "Coût pouvant grimper si la durée de stockage s’allonge"
+        ]
+      ],
+      "note": "Les formules et garanties varient selon les prestataires : comparez toujours les prestations ligne par ligne."
+    },
+    {
+      "type": "comparison",
+      "title": "Déménager seul ou passer par des professionnels ?",
+      "left": {
+        "title": "Formule autonome",
+        "points": [
+          "Pertinente si le volume est limité, l’itinéraire simple et les accès dégagés.",
+          "Vous gardez la main sur les horaires, le chargement et les arrêts.",
+          "Le coût visible est bas, mais additionnez location, carburant, péages, fournitures et éventuels kilomètres supplémentaires.",
+          "Vous assumez l’essentiel de la manutention, de l’organisation et des imprévus."
+        ]
+      },
+      "right": {
+        "title": "Formule professionnelle",
+        "points": [
+          "Plus adaptée aux objets lourds, fragiles, volumineux ou aux accès complexes.",
+          "Les équipes disposent de sangles, couvertures, diables et méthodes de portage.",
+          "Le devis peut inclure des options utiles : emballage, démontage, remontage ou monte-meubles.",
+          "Il faut lire les exclusions, la déclaration de valeur et les conditions de réclamation avant signature."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Le déménagement groupé : une bonne affaire sous conditions",
+      "pros": [
+        "Peut diminuer sensiblement le coût d’un trajet longue distance en partageant l’espace du véhicule.",
+        "Évite de payer seul le retour à vide d’un camion ou d’une équipe.",
+        "Intéressant si vous avez peu de mobilier et une date de départ souple.",
+        "Le transport reste généralement confié à des professionnels équipés."
+      ],
+      "cons": [
+        "Le créneau d’enlèvement et de livraison dépend de la tournée globale.",
+        "Un délai plus long peut imposer de prévoir quelques affaires essentielles à part.",
+        "Cette formule convient mal aux déménagements urgents ou à une remise de clés très serrée.",
+        "Le cubage réservé, les assurances et les conditions d’accès doivent être écrits clairement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Établir un budget réaliste, sans mauvaises surprises",
+      "id": "etablir-un-budget-realiste-sans-mauvaises-surprises"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour comparer correctement, construisez un budget en trois colonnes : <strong>transport</strong>, <strong>manutention</strong> et <strong>frais périphériques</strong>. La location d’un véhicule n’est qu’une partie de l’addition. Un utilitaire plus grand peut sembler plus cher à la journée, mais il évite un second trajet, une nuit d’hôtel ou le stress d’un chargement impossible. À l’inverse, payer un grand camion à moitié vide alourdit inutilement le budget et peut compliquer la conduite."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur à intégrer à votre calcul",
+      "headers": [
+        "Poste",
+        "Repère de budget",
+        "Ce qui fait varier la dépense"
+      ],
+      "rows": [
+        [
+          "Location d’utilitaire",
+          "De quelques dizaines d’euros à plusieurs centaines selon la durée et le gabarit",
+          "Taille, aller simple ou retour agence, kilométrage, saison, franchise et options"
+        ],
+        [
+          "Carburant, péages et stationnement",
+          "De montant modéré à significatif sur longue distance",
+          "Distance, consommation à pleine charge, itinéraire, zones réglementées et parcmètres"
+        ],
+        [
+          "Déménageur professionnel",
+          "De plusieurs centaines à plusieurs milliers d’euros",
+          "Volume, étages, distance, date, emballage, démontage et monte-meubles"
+        ],
+        [
+          "Fournitures",
+          "Dépense limitée si vous récupérez, plus élevée avec du matériel neuf",
+          "Nombre de cartons, housses, ruban, protections et location d’un diable"
+        ],
+        [
+          "Stockage temporaire",
+          "Coût mensuel à surveiller",
+          "Volume, emplacement, accès, assurance et durée réelle de location"
+        ]
+      ],
+      "note": "Ces repères sont volontairement larges : demandez plusieurs chiffrages comparables pour votre situation exacte."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le calcul qui évite le faux bon plan",
+      "html": "Additionnez le tarif de base, les kilomètres, le carburant, les péages, l’assurance complémentaire, les fournitures, le stationnement et une éventuelle nuitée. Comparez ensuite ce total au devis d’une formule professionnelle <strong>à périmètre égal</strong>. Un devis incluant manutention et protections ne doit pas être opposé à une simple location de camion sans ajouter les coûts manquants."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimer le volume et choisir le bon véhicule",
+      "id": "estimer-le-volume-et-choisir-le-bon-vehicule"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une mauvaise estimation du volume est l’une des causes les plus fréquentes de surcoût. Faites le tour du logement pièce par pièce, en distinguant les meubles, les cartons, les appareils électroménagers et les objets hors format : vélo, poussette, plantes, étagères démontées, matériel de jardin ou cave. Les objets stockés au sous-sol et dans les placards sont souvent oubliés. Si vous hésitez entre deux gabarits de véhicule, comparez le prix d’un véhicule légèrement plus grand avec celui d’un second aller-retour : pour une distance notable, le premier est souvent plus judicieux."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les accès comptent autant que les mètres cubes",
+      "id": "les-acces-comptent-autant-que-les-metres-cubes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un véhicule adapté doit pouvoir stationner près de chaque adresse. Vérifiez la largeur de la rue, la hauteur sous porche, les restrictions de circulation, les créneaux de livraison et la possibilité de réserver un emplacement. Dans un immeuble, mesurez les passages étroits et contrôlez les dimensions de l’ascenseur. Un canapé qui ne tourne pas dans la cage d’escalier peut imposer un monte-meubles : mieux vaut l’identifier avant le jour J que négocier une intervention en urgence."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre relevé avant réservation",
+      "items": [
+        "Mesurez les meubles longs ou très lourds : canapé, armoire, sommier, réfrigérateur, piano, grand écran.",
+        "Notez l’étage de départ et d’arrivée, l’ascenseur, les marches, les distances entre le camion et les portes.",
+        "Vérifiez si l’électroménager doit être débranché, vidangé ou immobilisé avant son transport.",
+        "Prévoyez une marge de volume pour les cartons de dernière minute et les protections.",
+        "Demandez les règles de stationnement à la mairie, à la copropriété ou au gestionnaire du logement selon le cas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Trouver les meilleurs tarifs sans sacrifier les garanties",
+      "id": "trouver-les-meilleurs-tarifs-sans-sacrifier-les-garanties"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une prestation professionnelle, demandez au moins deux ou trois devis comparables. Ne retenez pas une offre sur son prix global avant d’avoir vérifié le volume retenu, les deux adresses, les étages, la distance de portage et la liste des services. Une visite technique, sur place ou à distance lorsque le procédé est sérieux, limite les écarts entre l’estimation et la réalité. Méfiez-vous d’un tarif anormalement bas si le document reste vague sur l’assurance, la main-d’œuvre ou les éventuels suppléments."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode simple pour comparer les offres",
+      "items": [
+        {
+          "title": "Décrivez le même projet à tous les interlocuteurs",
+          "text": "Indiquez le volume, les adresses, les contraintes d’accès, la date souhaitée et les objets particuliers. Sans informations identiques, les devis ne sont pas comparables."
+        },
+        {
+          "title": "Séparez les services inclus des options",
+          "text": "Emballez-vous vous-même ? Les cartons sont-ils fournis ? Qui démonte les meubles, protège les matelas et rebranche les appareils autorisés ? Faites préciser chaque point."
+        },
+        {
+          "title": "Lisez les conditions de responsabilité",
+          "text": "Contrôlez la déclaration de valeur, les plafonds d’indemnisation, les exclusions, les franchises et la procédure à suivre en cas d’avarie."
+        },
+        {
+          "title": "Vérifiez les contraintes de calendrier",
+          "text": "Une date hors période de forte demande ou un créneau flexible peut réduire la facture. Ne choisissez cependant pas une date incompatible avec votre préavis, votre état des lieux ou votre remise de clés."
+        },
+        {
+          "title": "Conservez une trace écrite",
+          "text": "Devis accepté, inventaire, échanges concernant les accès et autorisations de stationnement doivent être archivés jusqu’à la fin du déménagement."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux annonces de transport entre particuliers",
+      "html": "Un coup de main rémunéré ou un transport informel peut sembler économique, mais pose vite la question de l’assurance, du statut du transporteur et de l’indemnisation en cas de casse ou de blessure. Pour des biens de valeur, un long trajet ou de la manutention lourde, privilégiez un cadre contractuel clair."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réduire le volume : l’économie la plus efficace",
+      "id": "reduire-le-volume-l-economie-la-plus-efficace"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur carton est souvent celui que vous ne remplissez pas. Chaque objet transporté mobilise du temps, de l’espace, des protections et parfois du stockage. Commencez le tri plusieurs semaines à l’avance, sans attendre la veille. Créez quatre catégories simples : garder, vendre, donner et recycler. Les meubles en mauvais état ou inadaptés à votre futur logement ne doivent pas occuper un camion uniquement parce qu’ils sont déjà chez vous."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les cartons, récupérez des contenants propres et solides lorsque c’est possible, mais n’économisez pas sur la protection des objets fragiles. Les cartons d’occasion humides, déformés ou trop grands deviennent une fausse économie. Pour les livres et la vaisselle, préférez de petits cartons faciles à porter. Pour le linge, les housses et les sacs peuvent convenir ; pour les écrans, tableaux et miroirs, utilisez une protection spécifiquement adaptée."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Emballez plus vite et plus sûrement",
+      "items": [
+        "Remplissez les espaces vides pour éviter que le contenu ne bouge, sans rendre les cartons impossibles à soulever.",
+        "Inscrivez la pièce de destination et le contenu essentiel sur au moins deux faces du carton.",
+        "Préparez une caisse ou un sac « première nuit » : papiers, chargeurs, médicaments, linge, produits d’hygiène, outils et collations.",
+        "Photographiez les branchements électroniques et les meubles avant démontage.",
+        "Gardez avec vous documents, clés, bijoux, sauvegardes informatiques et objets irremplaçables."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le jour J : sécuriser le chargement et éviter les imprévus",
+      "id": "le-jour-j-securiser-le-chargement-et-eviter-les-imprevus"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un chargement ordonné réduit le risque de casse et accélère le déchargement. Placez les objets les plus lourds au fond et au sol, répartissez le poids de manière équilibrée et immobilisez les éléments avec des sangles. Utilisez couvertures, housses ou carton de protection entre les meubles. Ne laissez pas de vide important dans le véhicule : les meubles peuvent basculer au freinage. Un réfrigérateur doit généralement voyager debout ; consultez sa notice et prévoyez le temps nécessaire avant sa remise en service."
+    },
+    {
+      "type": "paragraph",
+      "html": "N’oubliez pas les règles de conduite : un utilitaire chargé freine moins bien, prend davantage le vent et nécessite des manœuvres plus larges. Respectez la charge utile indiquée, qui n’est pas la même chose que le volume disponible. En cas de doute, ne surchargez pas. La sécurité de vos passagers et des autres usagers vaut bien un trajet supplémentaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Formalités, assurance et changement d’adresse : les détails qui coûtent cher",
+      "id": "formalites-assurance-et-changement-d-adresse-les-details-qui"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un déménagement réussi ne se limite pas au transport. Anticipez les relevés de compteurs, les contrats d’énergie et d’accès internet, l’assurance habitation, le courrier et les organismes auxquels vous devez signaler votre nouvelle adresse. Si vous êtes locataire, coordonnez l’état des lieux, la remise des clés et le nettoyage. Une journée de chevauchement entre deux logements peut coûter, mais elle évite parfois un déménagement précipité et représente une assurance logistique utile."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist administrative et pratique",
+      "items": [
+        "Demandez les autorisations de stationnement nécessaires aux deux adresses suffisamment tôt.",
+        "Prenez en photo les compteurs et l’état des logements lors des entrées et sorties.",
+        "Vérifiez que votre assurance habitation couvre bien la nouvelle adresse à la date du déménagement.",
+        "Organisez le suivi du courrier et mettez à jour vos coordonnées auprès des interlocuteurs prioritaires.",
+        "Conservez factures, contrat de location, devis, inventaire et réserves éventuelles en cas de litige.",
+        "Renseignez-vous sur les aides auxquelles vous pourriez avoir droit : employeur, organisme social, collectivité ou caisse concernée, selon votre situation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui transforment une économie en surcoût",
+      "id": "les-erreurs-qui-transforment-une-economie-en-surcout"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des dépenses évitables viennent d’une préparation insuffisante. Réserver tard peut limiter les choix et renchérir la location. Sous-estimer le volume provoque des trajets additionnels. Surcharger les cartons entraîne des blessures ou des cartons déchirés. Enfin, compter sur des proches sans confirmer leur présence, leurs horaires et leur capacité à porter est une source classique de tension le jour du déménagement."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À éviter absolument",
+      "items": [
+        "Choisir un utilitaire uniquement selon son prix journalier, sans examiner le kilométrage inclus, la franchise et le coût du carburant.",
+        "Accepter un devis imprécis qui ne mentionne ni volume, ni accès, ni responsabilités en cas de dommage.",
+        "Transporter un appareil rempli d’eau, un congélateur non préparé ou des produits dangereux sans respecter les consignes adaptées.",
+        "Oublier d’assurer une place de stationnement et bloquer une rue sans autorisation.",
+        "Attendre le dernier moment pour trier, ce qui conduit à transporter des encombrants inutiles ou à payer du stockage.",
+        "Négliger l’inventaire et les réserves écrites en cas d’avarie lors d’une prestation professionnelle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Notre verdict : le bon plan dépend surtout de votre volume et de vos contraintes",
+      "id": "notre-verdict-le-bon-plan-depend-surtout-de-votre-volume-et-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le déménagement le moins cher n’est pas automatiquement celui que vous faites seul. Pour peu de volume, une courte distance et des accès simples, l’autonomie reste souvent une excellente option si vous budgétez tous les frais. Dès que le logement est très meublé, que des objets lourds sont concernés, que les escaliers s’accumulent ou que la distance augmente, une prestation professionnelle bien comparée apporte une sécurité qui justifie souvent son coût. Si votre calendrier est flexible, le groupage est l’alternative à examiner en priorité pour un long trajet."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans tous les cas, vos meilleurs leviers sont les mêmes : trier avant d’emballer, mesurer avant de réserver, comparer à périmètre égal et protéger vos biens comme si vous deviez les déplacer vous-même. C’est cette préparation, bien plus qu’un code promotionnel ou une annonce séduisante, qui transforme réellement un déménagement en bon plan."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les bons plans déménagement",
+      "items": [
+        {
+          "q": "Quel est le moyen le moins cher pour déménager ?",
+          "a": "Pour un faible volume et un trajet court, votre voiture ou un petit utilitaire loué peut être la solution la plus économique. Mais calculez les frais annexes et le temps nécessaire. Pour une longue distance, le déménagement groupé peut être plus intéressant qu’un camion loué aller-retour."
+        },
+        {
+          "q": "Comment savoir quelle taille de camion louer ?",
+          "a": "Faites un inventaire pièce par pièce, y compris cave, garage et rangements. Ajoutez une marge raisonnable pour les cartons et les protections. Vérifiez aussi la charge utile, les dimensions intérieures et la possibilité de stationner le véhicule aux deux adresses."
+        },
+        {
+          "q": "Faut-il prendre l’assurance complémentaire pour un utilitaire ?",
+          "a": "Cela dépend de votre contrat, de la franchise prévue et de votre tolérance au risque. Vérifiez d’abord les garanties incluses, les exclusions et les dommages non couverts. Une option d’assurance peut être pertinente si la franchise est élevée ou si le trajet et les manœuvres sont complexes."
+        },
+        {
+          "q": "À quel moment réserver son déménagement ?",
+          "a": "Réservez dès que votre date devient suffisamment certaine, idéalement plusieurs semaines à l’avance. Vous aurez plus de choix de véhicules ou de créneaux, notamment lors des périodes les plus demandées. Gardez toutefois une marge si vos dates de clés ou d’état des lieux restent incertaines."
+        },
+        {
+          "q": "Peut-on économiser avec des cartons gratuits ?",
+          "a": "Oui, s’ils sont propres, secs, solides et de tailles adaptées. N’utilisez pas de cartons fragilisés pour des livres, de la vaisselle ou des objets lourds. Les économies sur les cartons ne doivent pas augmenter le risque de casse ni ralentir le chargement."
+        },
+        {
+          "q": "Que vérifier sur un devis de déménageur ?",
+          "a": "Contrôlez les adresses, le volume estimé, les étages, la distance de portage, les services inclus, les éventuels suppléments, les dates, la déclaration de valeur et les conditions d’indemnisation. Toute promesse orale importante doit apparaître clairement dans les documents contractuels."
+        }
+      ]
+    }
+  ]
+}

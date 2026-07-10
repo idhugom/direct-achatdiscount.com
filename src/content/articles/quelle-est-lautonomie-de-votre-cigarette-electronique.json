@@ -1,0 +1,414 @@
+{
+  "title": "Quelle est l’autonomie de votre cigarette électronique?",
+  "slug": "quelle-est-lautonomie-de-votre-cigarette-electronique",
+  "path": "/divers/quelle-est-lautonomie-de-votre-cigarette-electronique.html",
+  "category": "bien-etre",
+  "tags": [
+    "cigarette électronique",
+    "autonomie batterie",
+    "e-liquide",
+    "pod",
+    "box vape",
+    "recharge"
+  ],
+  "excerpt": "L’autonomie d’une e-cigarette dépend autant de sa batterie que de votre façon de vapoter. Repères, calculs et conseils pour ne plus tomber en panne.",
+  "metaDescription": "Batterie, e-liquide, puissance et habitudes : estimez l’autonomie de votre cigarette électronique et choisissez le matériel adapté.",
+  "seoTitle": "Autonomie cigarette électronique : calcul et conseils",
+  "heroKicker": "Vapoter sans panne",
+  "readingTime": 12,
+  "date": "2018-02-15T07:38:08",
+  "image": {
+    "id": "274",
+    "alt": "Quelle est l’autonomie de votre cigarette électronique?",
+    "width": 700,
+    "height": 700
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "L’autonomie d’une cigarette électronique ne se résume pas au nombre de mAh affiché sur sa batterie. Elle dépend aussi de la puissance choisie, de la résistance, de la fréquence de vos bouffées et de la quantité d’e-liquide contenue dans le réservoir. Pour éviter la panne en milieu de journée, il faut donc distinguer deux réserves : <strong>l’énergie de la batterie</strong> et <strong>le liquide disponible pour vapoter</strong>."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Une capacité élevée en <strong>mAh</strong> prolonge l’autonomie, mais la puissance en watts et le type de tirage ont un effet tout aussi déterminant.",
+        "Un pod compact convient souvent à un usage léger ou modéré ; un modèle à grande batterie ou à accus convient mieux aux usages intensifs.",
+        "À puissance égale, une résistance plus basse et une vape plus aérienne consomment davantage de batterie et d’e-liquide.",
+        "Gardez une marge : rechargez avant d’être à zéro et prévoyez une solution de secours si vous êtes souvent loin d’une prise.",
+        "La recharge doit se faire avec un câble adapté, sous surveillance, loin de la chaleur et de toute source d’eau."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deux autonomies à surveiller : batterie et e-liquide",
+      "id": "deux-autonomies-a-surveiller-batterie-et-e-liquide"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand on demande combien de temps dure une cigarette électronique, on parle souvent de la batterie. C’est logique : une e-cigarette sans énergie ne produit plus de vapeur. Mais, dans la pratique, un réservoir vide peut vous immobiliser tout aussi vite. Votre autonomie réelle est donc celle de l’élément qui s’épuise en premier : <strong>la charge électrique ou le e-liquide</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "La batterie alimente une résistance qui chauffe le liquide. Plus cette résistance doit fournir de puissance, plus elle sollicite rapidement la batterie. De son côté, la consommation de liquide augmente avec le volume de vapeur produit. Une petite e-cigarette utilisée en inhalation indirecte, proche du tirage d’une cigarette classique, est généralement sobre. Une box réglée pour produire de gros nuages est nettement plus énergivore et vide aussi le réservoir plus vite."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "N’achetez pas une e-cigarette uniquement sur la promesse de « longue autonomie ». Vérifiez toujours le couple <strong>capacité de batterie + plage de puissance + capacité du réservoir</strong>. Une batterie endurante associée à une petite cartouche peut vous obliger à remplir plusieurs fois par jour ; l’inverse est tout aussi frustrant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que signifient les mAh sur une cigarette électronique ?",
+      "id": "que-signifient-les-mah-sur-une-cigarette-electronique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le milliampère-heure, ou <strong>mAh</strong>, exprime la capacité de stockage de la batterie. À technologie et conditions comparables, une batterie de 1 000 mAh stocke davantage d’énergie qu’une batterie de 500 mAh. C’est un indicateur utile pour comparer deux appareils de même famille, mais ce n’est pas une durée d’utilisation garantie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pourquoi ? Parce que l’énergie est dépensée à chaque activation de la résistance. Une cigarette électronique de faible puissance peut fonctionner longtemps avec une capacité modeste. À l’inverse, une box puissante peut consommer une batterie de grande capacité en quelques heures d’usage soutenu. La tension de la batterie, le rendement de l’électronique, l’état de charge et l’âge de l’accumulateur influencent aussi le résultat."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "400 à 1 000 mAh",
+          "label": "repère fréquent pour les pods et formats très compacts"
+        },
+        {
+          "value": "1 500 à 3 000 mAh ou plus",
+          "label": "repère courant pour les cigarettes électroniques à batterie intégrée plus endurantes"
+        },
+        {
+          "value": "0,5 à plusieurs ml/jour",
+          "label": "consommation de liquide très variable selon le matériel et les habitudes"
+        },
+        {
+          "value": "1 à 2 ans environ",
+          "label": "période après laquelle une batterie lithium peut montrer une baisse d’autonomie sensible selon l’usage"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces repères ne remplacent pas votre expérience : deux personnes équipées du même appareil peuvent avoir une autonomie radicalement différente. Considérez-les comme des ordres de grandeur pour situer les catégories de matériel, non comme une promesse de nombre de bouffées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les facteurs qui font varier l’autonomie réelle",
+      "id": "les-facteurs-qui-font-varier-l-autonomie-reelle"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La puissance réglée en watts",
+      "id": "la-puissance-reglee-en-watts"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est le levier principal. Plus vous augmentez les watts, plus la résistance chauffe fortement et plus la batterie se vide vite. Il est préférable de rester dans la plage recommandée par le fabricant de votre résistance ou cartouche. Monter la puissance « pour mieux sentir » les arômes peut surtout accélérer la consommation, surchauffer le liquide et réduire la durée de vie de la résistance."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La valeur de la résistance et le type de tirage",
+      "id": "la-valeur-de-la-resistance-et-le-type-de-tirage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les résistances à valeur élevée, utilisées à faible puissance pour un tirage serré ou indirect, sont généralement économes. Les résistances basses, conçues pour une inhalation directe et une vapeur abondante, demandent plus de puissance. Le tirage ouvert, les bouffées longues et rapprochées ainsi que les réglages d’airflow très aérés accentuent encore la dépense énergétique."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vos habitudes de vapotage",
+      "id": "vos-habitudes-de-vapotage"
+    },
+    {
+      "type": "paragraph",
+      "html": "La fréquence compte autant que le matériel. Une personne qui prend quelques bouffées espacées dans la journée n’a pas les mêmes besoins qu’une personne qui vapote régulièrement, notamment si elle est en transition depuis le tabac. La durée de chaque bouffée est également importante : des activations longues sollicitent davantage la batterie que des bouffées courtes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La température, l’âge et l’état de la batterie",
+      "id": "la-temperature-l-age-et-l-etat-de-la-batterie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le froid réduit temporairement les performances d’une batterie lithium. Laisser son appareil dans une voiture très froide ou très chaude n’est donc pas une bonne idée. Avec les cycles de recharge, toute batterie intégrée perd progressivement une partie de sa capacité. Si votre e-cigarette tient soudainement beaucoup moins longtemps, chauffe anormalement, se coupe sans raison ou si son boîtier se déforme, cessez de l’utiliser et faites-la contrôler ou recycler."
+    },
+    {
+      "type": "table",
+      "caption": "Ce qui augmente ou réduit l’autonomie de votre e-cigarette",
+      "headers": [
+        "Critère",
+        "Tendance favorable à l’autonomie",
+        "Tendance qui la réduit",
+        "Conséquence pratique"
+      ],
+      "rows": [
+        [
+          "Puissance",
+          "Réglage bas, dans la plage utile de la résistance",
+          "Réglage élevé et vapeur très dense",
+          "Recharge plus ou moins fréquente"
+        ],
+        [
+          "Résistance et tirage",
+          "Résistance plus haute, tirage serré indirect",
+          "Résistance basse, tirage aérien direct",
+          "Consommation de batterie et de liquide supérieure"
+        ],
+        [
+          "Capacité batterie",
+          "Format avec davantage de mAh ou accus adaptés",
+          "Très petit format de poche",
+          "Compacité contre endurance"
+        ],
+        [
+          "Usage",
+          "Bouffées courtes et espacées",
+          "Bouffées longues, répétées et rapprochées",
+          "L’écart peut être très marqué à matériel identique"
+        ],
+        [
+          "Conditions et entretien",
+          "Appareil à température modérée, contacts propres",
+          "Froid intense, batterie vieillissante, connecteurs encrassés",
+          "Baisse d’autonomie ou fonctionnement irrégulier"
+        ]
+      ],
+      "note": "Les valeurs de résistance et de puissance doivent toujours respecter les indications fournies avec votre cartouche ou résistance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelle autonomie choisir selon votre profil ?",
+      "id": "quelle-autonomie-choisir-selon-votre-profil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur choix n’est pas celui qui offre la batterie la plus grande, mais celui qui couvre votre journée sans vous encombrer inutilement. Une grande autonomie implique souvent un appareil plus lourd, un temps de recharge plus long et parfois un usage orienté vers une vape plus puissante. À l’inverse, un format discret est agréable à transporter, mais demande d’accepter des recharges plus régulières."
+    },
+    {
+      "type": "comparison",
+      "title": "Pod compact ou box endurante : quel compromis ?",
+      "left": {
+        "title": "Pod compact à batterie intégrée",
+        "points": [
+          "Format léger, discret et simple à prendre en main.",
+          "Adapté à une vape modérée, souvent à puissance basse ou intermédiaire.",
+          "Cartouches faciles à remplacer ou remplir selon le modèle.",
+          "Autonomie plus limitée : câble ou batterie externe souvent utile en déplacement.",
+          "Moins adapté à une utilisation très intensive ou à une forte puissance."
+        ]
+      },
+      "right": {
+        "title": "Box ou modèle à grande capacité",
+        "points": [
+          "Batterie intégrée importante ou accus amovibles selon les appareils.",
+          "Mieux adaptée à une journée soutenue et aux puissances plus élevées.",
+          "Réglages plus complets et réservoir souvent plus confortable.",
+          "Format plus lourd et moins discret.",
+          "Demande davantage de compréhension des réglages et, avec des accus, de rigueur de sécurité."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Repères par intensité d’usage",
+      "id": "reperes-par-intensite-d-usage"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Choisissez votre format à partir de votre journée type",
+      "items": [
+        "<strong>Usage occasionnel ou léger :</strong> un pod simple, rechargé chaque soir, peut suffire si vous restez sur un tirage serré et une puissance modérée.",
+        "<strong>Usage modéré :</strong> visez une capacité confortable et une cartouche ou un réservoir facile à remplir ; une recharge quotidienne est un bon scénario cible.",
+        "<strong>Usage intensif :</strong> privilégiez une batterie de grande capacité, ou un appareil compatible avec des accus de qualité, ainsi qu’une vraie solution de recharge de secours.",
+        "<strong>Déplacements prolongés :</strong> prévoyez un câble, une batterie externe fiable si votre appareil se recharge en USB, du liquide en quantité adaptée et une cartouche ou résistance de remplacement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous êtes fumeur et utilisez la vape pour vous éloigner du tabac, l’objectif pratique est de ne pas être en manque de matériel ou de nicotine pendant la journée. Un appareil trop petit, souvent déchargé ou vide, peut devenir contre-productif. Un professionnel compétent peut vous aider à choisir un matériel et un dosage adaptés à votre consommation, sans vous pousser vers une puissance inutilement élevée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estimer votre autonomie avant d’acheter",
+      "id": "estimer-votre-autonomie-avant-d-acheter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les annonces en « nombre de bouffées » sont à prendre avec prudence. Elles reposent sur des conditions de test qui ne correspondent pas forcément à vos habitudes : durée d’activation fixe, puissance définie, batterie neuve, température idéale. Une estimation plus utile consiste à partir de votre matériel actuel ou de votre consommation quotidienne."
+    },
+    {
+      "type": "steps",
+      "title": "Une méthode simple pour dimensionner votre e-cigarette",
+      "items": [
+        {
+          "title": "Observez une journée habituelle",
+          "text": "Notez quand vous rechargez, combien de fois vous remplissez et si vous manquez d’autonomie avant le soir. Faites-le sur plusieurs jours, y compris une journée de déplacement."
+        },
+        {
+          "title": "Identifiez ce qui se vide en premier",
+          "text": "Si la batterie tombe à plat alors que la cartouche est encore pleine, augmentez la capacité électrique ou réduisez la puissance. Si le liquide s’épuise avant la charge, choisissez un réservoir plus pratique ou emportez un flacon."
+        },
+        {
+          "title": "Ajoutez une marge réaliste",
+          "text": "Ne dimensionnez pas votre appareil pour une journée parfaite à domicile. Prévoyez une marge pour les trajets, les pauses plus nombreuses et le vieillissement inévitable de la batterie."
+        },
+        {
+          "title": "Testez sans surpuissance",
+          "text": "Commencez au bas ou au milieu de la plage de puissance conseillée, puis ajustez progressivement selon votre confort. Cela évite de sacrifier l’autonomie pour un réglage inutile."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Budget : raisonnez en coût global",
+      "html": "Les petits pods sont souvent les moins chers à l’achat, tandis qu’un appareil plus endurant coûte généralement davantage. Mais comparez aussi le prix des cartouches ou résistances, la consommation de liquide et la durée de vie du matériel. En ordre de grandeur, on trouve des dispositifs simples à quelques dizaines d’euros, des kits plus évolués à plusieurs dizaines d’euros et des ensembles plus avancés au-delà. Un appareil adapté à votre usage évite surtout les achats de dépannage et les consommables incompatibles."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Batterie intégrée ou accus amovibles : avantages et limites",
+      "id": "batterie-integree-ou-accus-amovibles-avantages-et-limites"
+    },
+    {
+      "type": "paragraph",
+      "html": "La majorité des pods et de nombreux kits emploient une batterie lithium intégrée, rechargée directement par USB. C’est simple : un câble suffit. Lorsque l’autonomie devient insuffisante avec l’âge, il faut toutefois remplacer l’appareil entier. Les modèles à accus amovibles sont plus orientés vers les utilisateurs qui recherchent une autonomie importante ou la possibilité de repartir avec des accus chargés. Ils nécessitent en revanche des habitudes de sécurité plus strictes."
+    },
+    {
+      "type": "proscons",
+      "title": "Les accus amovibles en pratique",
+      "pros": [
+        "Possibilité de remplacer l’accu lorsqu’il est usé, plutôt que l’appareil complet.",
+        "Autonomie modulable : un accu de rechange chargé peut dépanner lors d’une longue journée.",
+        "Solution pertinente pour les appareils plus puissants et les utilisateurs expérimentés.",
+        "Recharge externe possible avec un chargeur compatible et de bonne qualité."
+      ],
+      "cons": [
+        "Format généralement plus imposant et plus lourd qu’un pod compact.",
+        "Mauvaise manipulation potentiellement dangereuse : un accu ne doit jamais être transporté en vrac avec des clés ou des pièces.",
+        "Il faut utiliser des accus compatibles, intacts et de même modèle lorsque l’appareil en emploie plusieurs.",
+        "Cette solution apporte peu d’intérêt à une personne qui recherche avant tout la simplicité d’un petit appareil."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Sécurité des batteries lithium",
+      "html": "N’utilisez jamais une batterie ou un accu dont l’enveloppe est abîmée, qui chauffe anormalement ou dont le boîtier est gonflé. Pour les accus externes, employez impérativement un étui de transport isolant. Ne laissez pas l’appareil en charge sans surveillance prolongée, sur un lit, un canapé ou près d’une source de chaleur. En cas de doute, remplacez l’élément concerné et déposez les batteries usagées dans une filière de collecte dédiée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment prolonger l’autonomie et la durée de vie de la batterie",
+      "id": "comment-prolonger-l-autonomie-et-la-duree-de-vie-de-la-batte"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous ne pouvez pas transformer un mini-pod en box grande autonomie, mais de bonnes habitudes limitent les pertes inutiles. L’idée n’est pas d’obséder sur chaque pourcentage : il s’agit surtout d’éviter les conditions qui dégradent prématurément une batterie lithium et de garder une utilisation cohérente avec le matériel."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les gestes utiles au quotidien",
+      "items": [
+        "Réglez la puissance au niveau le plus bas qui vous apporte une vape satisfaisante, sans sortir de la plage conseillée pour la résistance.",
+        "Rechargez avec le câble fourni ou un câble de qualité, connecté à une source électrique adaptée et stable.",
+        "Évitez de laisser l’appareil au soleil, dans un véhicule surchauffé ou exposé au gel prolongé.",
+        "Nettoyez délicatement les contacts entre la cartouche, le réservoir et la batterie avec un chiffon sec si des traces de liquide apparaissent.",
+        "Ne forcez pas une cartouche ou un connecteur USB : une prise endommagée peut provoquer une recharge instable.",
+        "Si possible, rechargez avant la décharge totale plutôt que de laisser l’appareil s’éteindre systématiquement.",
+        "Conservez une résistance en bon état : une résistance encrassée ou brûlée peut vous inciter à monter les watts pour compenser, au détriment de l’autonomie."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui font croire à une mauvaise autonomie",
+      "id": "les-erreurs-qui-font-croire-a-une-mauvaise-autonomie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une perte d’autonomie n’est pas toujours un défaut de batterie. Les causes les plus banales sont un réglage de puissance modifié par inadvertance, une cartouche qui fuit, un bouton qui s’active dans une poche, une résistance inadaptée, ou un usage devenu plus fréquent. Certains appareils disposent d’un verrouillage : activez-le pendant le transport. Si votre modèle a un tirage automatique, vérifiez aussi que la zone du capteur reste propre et sèche."
+    },
+    {
+      "type": "paragraph",
+      "html": "Attention également au choix du liquide. Un liquide plus épais peut être moins adapté à certaines petites cartouches et entraîner une alimentation irrégulière de la résistance. À l’inverse, un liquide trop fluide peut favoriser des fuites selon le matériel. Respectez les recommandations de compatibilité du fabricant : une résistance mal alimentée donne une vapeur moins satisfaisante et peut pousser à multiplier les bouffées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Autonomie de batterie et autonomie de vapotage : les bonnes alternatives",
+      "id": "autonomie-de-batterie-et-autonomie-de-vapotage-les-bonnes-al"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre principal problème est la recharge, une batterie externe de qualité peut être une solution simple pour un appareil USB, à condition de ne pas vapoter pendant la charge si le fabricant ne l’autorise pas. Pour les appareils à accus, un accu de rechange correctement protégé est plus pratique qu’un câble dans certaines situations. Si c’est le réservoir qui se vide trop vite, emportez plutôt un flacon de liquide et vérifiez les règles de transport applicables, notamment en avion."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez aussi revoir votre style de vape. Passer d’une inhalation directe très aérienne à une vape plus serrée, avec une puissance adaptée, réduit souvent la consommation de liquide et d’énergie. Ce n’est pas une obligation : le bon réglage reste celui qui vous convient et vous évite de revenir au tabac si vous êtes dans une démarche d’arrêt. Les personnes qui ne fument pas ne devraient pas commencer à vapoter ; les produits nicotinés entretiennent une dépendance et doivent rester hors de portée des enfants."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand faut-il remplacer la batterie ou l’appareil ?",
+      "id": "quand-faut-il-remplacer-la-batterie-ou-l-appareil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une baisse progressive d’autonomie est normale avec le temps. En revanche, une chute brutale, des recharges qui échouent, une chauffe excessive, une odeur inhabituelle, un gonflement ou des coupures répétées justifient l’arrêt immédiat de l’utilisation. Ne tentez pas d’ouvrir ou de réparer vous-même une batterie intégrée. Les appareils électroniques, accus et piles ne se jettent pas avec les déchets ménagers : rapportez-les dans un point de collecte adapté."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, ne confondez pas batterie fatiguée et résistance en fin de vie. Une résistance usée altère surtout le goût, réduit la vapeur ou provoque un goût de brûlé ; elle se remplace. Une batterie qui ne tient plus la charge affecte l’autonomie globale ; sur un modèle à batterie intégrée, cela conduit souvent à remplacer le dispositif. Vérifier ce diagnostic avant d’acheter évite une dépense inutile."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’autonomie d’une cigarette électronique",
+      "items": [
+        {
+          "q": "Combien de temps dure la batterie d’une cigarette électronique ?",
+          "a": "Cela dépend de sa capacité, de la puissance et de vos habitudes. Un petit pod peut demander une recharge dans la journée en usage soutenu, tandis qu’un modèle à grande capacité peut couvrir une journée, parfois davantage, à puissance modérée. Fiez-vous moins à un nombre de bouffées annoncé qu’à votre usage réel sur plusieurs jours."
+        },
+        {
+          "q": "Est-ce qu’une batterie avec plus de mAh est toujours préférable ?",
+          "a": "Pas systématiquement. Plus de mAh apporte généralement plus d’autonomie, mais aussi un appareil parfois plus volumineux. Surtout, une grande batterie utilisée à forte puissance peut se décharger aussi vite qu’une batterie plus modeste utilisée avec une vape économe. Choisissez le bon équilibre entre format, puissance et journée type."
+        },
+        {
+          "q": "Pourquoi mon e-cigarette se décharge-t-elle très vite ?",
+          "a": "Vérifiez d’abord la puissance réglée, la valeur de la résistance, la fréquence de vos bouffées et un éventuel déclenchement accidentel dans une poche. Le froid, une batterie vieillissante, des contacts sales ou une fuite peuvent également expliquer le problème. Si l’appareil chauffe, gonfle ou se comporte anormalement, arrêtez de l’utiliser."
+        },
+        {
+          "q": "Puis-je utiliser ma cigarette électronique pendant qu’elle recharge ?",
+          "a": "Uniquement si le fabricant indique explicitement que la fonction est prévue. Même dans ce cas, il est plus prudent de rester à proximité et de poser l’appareil sur une surface dure, stable et non inflammable. Ne le laissez jamais charger sans surveillance prolongée."
+        },
+        {
+          "q": "Faut-il laisser la batterie se vider complètement avant de la recharger ?",
+          "a": "Non. Les batteries lithium actuelles n’ont pas besoin d’être déchargées à zéro avant recharge. Au contraire, éviter les décharges complètes répétées est généralement préférable. Rechargez lorsque cela est pratique, sans laisser l’appareil trop longtemps branché une fois la charge terminée."
+        },
+        {
+          "q": "Comment transporter un accu de rechange en toute sécurité ?",
+          "a": "Placez-le dans une boîte ou un étui isolant prévu pour les accus. Ne le mettez jamais libre dans une poche, un sac ou une voiture avec des objets métalliques. Vérifiez que son enveloppe isolante est intacte et n’utilisez que des accus compatibles avec votre appareil. Pour un voyage en avion, consultez aussi les règles de la compagnie aérienne concernant les batteries lithium."
+        }
+      ]
+    }
+  ]
+}

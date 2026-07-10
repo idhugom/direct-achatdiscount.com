@@ -1,0 +1,438 @@
+{
+  "title": "EDF Villeurbanne  : Qu’est-ce qui fixent les coûts de courant électrique EDF ?",
+  "slug": "edf-villeurbanne-quest-ce-qui-fixent-les-couts-de-courant-electrique-edf",
+  "path": "/divers/edf-villeurbanne-quest-ce-qui-fixent-les-couts-de-courant-electrique-edf.html",
+  "category": "argent",
+  "tags": [
+    "edf villeurbanne",
+    "prix électricité",
+    "facture électrique",
+    "tarif réglementé",
+    "heures creuses",
+    "puissance compteur"
+  ],
+  "excerpt": "Le prix de l’électricité EDF à Villeurbanne dépend surtout de votre contrat, de votre consommation, de votre puissance et des taxes, pas de votre quartier.",
+  "metaDescription": "À Villeurbanne, découvrez ce qui compose votre facture EDF : abonnement, kWh, taxes, puissance, options tarifaires et moyens d’agir.",
+  "seoTitle": "EDF Villeurbanne : comprendre le prix de l’électricité",
+  "heroKicker": "Décrypter la facture",
+  "readingTime": 11,
+  "date": "2018-03-30T08:44:18",
+  "image": {
+    "id": "238",
+    "alt": "EDF Villeurbanne  : Qu’est-ce qui fixent les coûts de courant électrique EDF ?",
+    "width": 1000,
+    "height": 662
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "À Villeurbanne, le montant de votre facture EDF ne dépend pas de votre rue ni de votre proximité avec Lyon : il résulte d’une combinaison entre votre contrat, les kilowattheures réellement consommés, l’acheminement sur le réseau et les prélèvements publics. Comprendre ces postes est indispensable pour comparer une offre, choisir la bonne puissance de compteur et réduire durablement la facture sans perdre en confort."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "À Villeurbanne, les tarifs de fourniture EDF ne sont pas fixés localement : ils s’appliquent selon les grilles nationales et votre option contractuelle.",
+        "Une facture comprend un <strong>abonnement fixe</strong>, une part variable liée aux <strong>kWh consommés</strong>, l’acheminement du courant et des taxes.",
+        "Le choix entre option Base et heures pleines/heures creuses, ainsi que la puissance souscrite en kVA, peut modifier sensiblement votre coût annuel.",
+        "Une offre à prix fixe ne fige généralement pas tous les postes : taxes, acheminement et évolutions réglementaires peuvent continuer à évoluer.",
+        "Pour comparer utilement, regardez le coût annuel estimé pour votre consommation, et non le seul prix du kWh affiché en grand."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "À Villeurbanne, EDF fixe-t-il un prix différent selon le quartier ?",
+      "id": "a-villeurbanne-edf-fixe-t-il-un-prix-different-selon-le-quar"
+    },
+    {
+      "type": "paragraph",
+      "html": "Non. Pour un logement raccordé au réseau public classique de Villeurbanne, il n’existe pas de tarif EDF propre à la commune, au code postal ou au quartier. Le réseau de distribution est généralement exploité par <strong>Enedis</strong>, tandis qu’EDF est un fournisseur parmi d’autres : il vend l’électricité et assure la relation commerciale si vous avez choisi un de ses contrats."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix payé dépend donc d’abord de la grille tarifaire de votre offre, de votre profil de consommation et des règles nationales applicables. Deux foyers voisins peuvent payer des montants très différents s’ils n’ont pas la même puissance de compteur, la même option tarifaire, le même mode de chauffage ou des usages électriques différents. En revanche, ils bénéficient du même réseau local et de la même qualité d’acheminement, quel que soit leur fournisseur."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "EDF n’est pas Enedis",
+      "html": "<strong>EDF</strong> fournit et facture l’électricité si vous êtes client chez lui. <strong>Enedis</strong> gère le réseau, le compteur Linky, les interventions techniques et le dépannage sur le réseau public à Villeurbanne. Changer de fournisseur ne change ni votre compteur, ni la qualité du courant, ni l’interlocuteur en cas de panne générale."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les quatre grands postes qui composent une facture d’électricité",
+      "id": "les-quatre-grands-postes-qui-composent-une-facture-d-electri"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le total à payer ne se résume jamais au prix du kilowattheure. Même si la présentation varie d’un fournisseur à l’autre, une facture d’électricité peut se lire comme l’addition d’une partie fixe, d’une consommation, de coûts de réseau et de prélèvements fixés par les pouvoirs publics. Certains postes apparaissent de façon détaillée ; d’autres sont intégrés au prix de l’offre puis récapitulés dans les informations tarifaires."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 postes",
+          "label": "à distinguer : abonnement, consommation et prélèvements/acheminement"
+        },
+        {
+          "value": "2 options",
+          "label": "principales pour les particuliers : Base ou heures pleines/heures creuses"
+        },
+        {
+          "value": "3 à 12 kVA",
+          "label": "plage de puissances fréquemment rencontrée dans les logements"
+        },
+        {
+          "value": "12 mois",
+          "label": "d’historique de consommation à analyser avant de changer d’offre"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Ce qui fait varier le coût de l’électricité EDF à Villeurbanne",
+      "headers": [
+        "Poste de facture",
+        "Ce qu’il couvre",
+        "Ce qui le fait évoluer",
+        "Marge d’action du client"
+      ],
+      "rows": [
+        [
+          "Abonnement",
+          "Le maintien du contrat et l’accès à une puissance donnée",
+          "Puissance souscrite, option tarifaire, évolution de la grille",
+          "Choisir une puissance adaptée et une option cohérente"
+        ],
+        [
+          "Consommation en kWh",
+          "L’électricité utilisée dans le logement",
+          "Chauffage, eau chaude, cuisson, appareils, habitudes et isolation",
+          "Réduire les usages inutiles, piloter les appareils et améliorer le logement"
+        ],
+        [
+          "Acheminement",
+          "Transport et distribution de l’électricité jusqu’au logement",
+          "Règles tarifaires du réseau et caractéristiques contractuelles",
+          "Très limitée : ce poste ne se négocie pas avec le fournisseur"
+        ],
+        [
+          "Taxes et contributions",
+          "Prélèvements prévus par la réglementation",
+          "Décisions publiques et évolution des assiettes fiscales",
+          "Aucune sur le taux ; seule la baisse de consommation limite certains montants"
+        ],
+        [
+          "Prestations ponctuelles",
+          "Mise en service, changement de puissance, intervention technique",
+          "Nature et délai de l’intervention demandée",
+          "Anticiper un déménagement et éviter les demandes inutiles"
+        ]
+      ],
+      "note": "Les intitulés exacts et la ventilation peuvent évoluer avec la réglementation et la présentation des offres. Lisez toujours la fiche tarifaire et la facture détaillée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "L’abonnement : le prix fixe lié à votre compteur",
+      "id": "l-abonnement-le-prix-fixe-lie-a-votre-compteur"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’abonnement est dû même si vous consommez peu. Son montant dépend principalement de la <strong>puissance souscrite</strong>, exprimée en kVA, et parfois de l’option tarifaire choisie. Une puissance trop élevée gonfle la partie fixe toute l’année. Une puissance trop basse entraîne en revanche des disjonctions lorsque plusieurs appareils puissants fonctionnent en même temps : plaques de cuisson, four, chauffe-eau, lave-linge, sèche-linge, chauffage électrique ou recharge d’un véhicule."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un petit logement peu équipé, une puissance modérée peut suffire. Dans un appartement familial tout électrique ou un logement avec recharge de véhicule, les besoins augmentent vite. Le bon niveau ne se devine pas uniquement avec la surface : comptez les appareils susceptibles de fonctionner simultanément et consultez, si vous avez un compteur Linky, les pointes de puissance relevées dans votre espace client ou auprès du gestionnaire de réseau."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La consommation : chaque kWh compte, mais pas toujours au même prix",
+      "id": "la-consommation-chaque-kwh-compte-mais-pas-toujours-au-meme-"
+    },
+    {
+      "type": "paragraph",
+      "html": "La part variable correspond aux kilowattheures consommés. Elle augmente avec le chauffage électrique, le ballon d’eau chaude, la climatisation, le sèche-linge, la cuisson, l’électroménager, le télétravail ou la recharge d’un véhicule électrique. C’est souvent le premier levier pour un logement chauffé à l’électricité ; dans un petit appartement chauffé au gaz collectif, l’abonnement peut au contraire peser proportionnellement davantage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix du kWh dépend de l’offre souscrite et, en option heures pleines/heures creuses, du créneau de consommation. Il faut donc comparer le prix en heures pleines et celui en heures creuses, pas uniquement le tarif réduit affiché. Les heures creuses sont déterminées par le gestionnaire du réseau : vous ne choisissez pas librement leur horaire et elles ne correspondent pas nécessairement à toute la nuit."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Acheminement, taxes et TVA : des postes largement non négociables",
+      "id": "acheminement-taxes-et-tva-des-postes-largement-non-negociabl"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’arriver chez vous, l’électricité emprunte les réseaux de transport et de distribution. Leur coût est encadré par un tarif d’utilisation du réseau public ; il est répercuté sur la facture. À cela s’ajoutent notamment l’accise sur l’électricité, des contributions liées au réseau et la TVA. Les modalités, taux et libellés peuvent être modifiés par la réglementation : une offre commerciale attractive ne protège donc pas nécessairement de toutes les hausses extérieures au fournisseur."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La bonne formule pour lire votre facture",
+      "html": "Raisonnez en <strong>coût annuel total</strong> : abonnement sur douze mois + consommation selon vos kWh et vos plages horaires + prélèvements applicables + éventuels frais ponctuels. Un kWh un peu moins cher peut ne pas compenser un abonnement plus élevé, notamment dans un studio ou une résidence secondaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tarif réglementé EDF ou offre de marché : ce qui change réellement",
+      "id": "tarif-reglemente-edf-ou-offre-de-marche-ce-qui-change-reelle"
+    },
+    {
+      "type": "paragraph",
+      "html": "EDF peut proposer le tarif réglementé de vente de l’électricité, lorsqu’il est accessible à votre profil, ainsi que des offres de marché. Le tarif réglementé est fixé dans un cadre public et évolue selon une procédure réglementaire. Les offres de marché sont librement construites par le fournisseur : elles peuvent être indexées sur une référence, proposer une réduction pendant une période définie, ou annoncer un prix fixe pour tout ou partie de la fourniture."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux manières de faire évoluer le prix de fourniture",
+      "left": {
+        "title": "Tarif réglementé",
+        "points": [
+          "Grille tarifaire encadrée et évolutions décidées selon un mécanisme réglementaire.",
+          "Référence simple à suivre pour comparer les autres propositions.",
+          "Le prix peut évoluer lors des révisions prévues ; il n’est pas bloqué sur la durée du contrat.",
+          "Particulièrement lisible pour qui privilégie un cadre tarifaire de référence."
+        ]
+      },
+      "right": {
+        "title": "Offre de marché EDF",
+        "points": [
+          "Conditions commerciales fixées par EDF : prix fixe, indexé ou promotionnel selon l’offre.",
+          "Peut être intéressante si le coût annuel total est réellement plus bas pour votre profil.",
+          "Il faut contrôler la durée, les modalités de révision et le périmètre exact du prix annoncé.",
+          "Les taxes et coûts réglementés restent susceptibles d’évoluer, même avec un prix de fourniture fixe."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot <strong>fixe</strong> mérite une lecture attentive. Dans la plupart des contrats, il désigne le prix de la fourniture hors taxes pendant une durée donnée, et non l’immobilisation absolue de la facture finale. Vérifiez également si l’abonnement est fixe ou révisable, si une remise est temporaire, et ce qui se passe à l’issue de la période initiale. Pour un particulier, les contrats d’électricité sont en principe sans engagement de durée : vous pouvez changer de fournisseur sans coupure ni remplacement de compteur, sous réserve des conditions normales de résiliation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Option Base ou heures creuses : le choix qui peut faire la différence",
+      "id": "option-base-ou-heures-creuses-le-choix-qui-peut-faire-la-dif"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’option Base applique le même prix du kWh quelle que soit l’heure. Elle convient souvent aux foyers qui consomment surtout en journée ou en soirée et ne peuvent pas décaler leurs usages. L’option heures pleines/heures creuses applique un prix plus faible pendant les créneaux creux et plus élevé le reste du temps. Elle devient intéressante seulement si une part suffisante des usages peut réellement être déplacée."
+    },
+    {
+      "type": "proscons",
+      "title": "L’option heures pleines/heures creuses en pratique",
+      "pros": [
+        "Rentable pour un ballon d’eau chaude programmé, une recharge de véhicule pilotée ou des appareils réellement décalés.",
+        "Permet d’automatiser certains usages grâce aux départs différés et aux contacteurs.",
+        "Peut correspondre aux logements dont une forte part de consommation est flexible."
+      ],
+      "cons": [
+        "L’abonnement peut être plus élevé que dans une formule Base comparable.",
+        "Les kWh consommés en heures pleines peuvent coûter davantage : un mauvais pilotage annule vite le gain.",
+        "Lancer ponctuellement un lave-linge la nuit ne suffit pas forcément à rentabiliser l’option.",
+        "Les horaires d’heures creuses sont imposés par le réseau et doivent être vérifiés sur la facture ou le compteur."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de seuil universel de rentabilité. Il dépend de l’écart entre les deux prix du kWh, de l’écart d’abonnement, de votre puissance et de votre répartition réelle des consommations. Avant de basculer, récupérez vos données sur douze mois : si vous ne pouvez pas automatiser le chauffe-eau, la recharge ou les gros appareils, l’option Base est souvent plus simple et parfois plus économique."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Vérifiez ces points avant de choisir les heures creuses",
+      "items": [
+        "Repérez vos horaires exacts d’heures creuses sur votre facture ou votre compteur Linky.",
+        "Assurez-vous que le chauffe-eau est bien commandé sur le bon créneau, avec un contacteur en position automatique.",
+        "Programmez la recharge d’un véhicule électrique, le lave-vaisselle ou le lave-linge uniquement si cela ne crée pas de nuisance ou de risque.",
+        "Comparez la part de kWh réellement consommée en heures creuses sur une période représentative.",
+        "Tenez compte du coût d’abonnement, et pas seulement du prix réduit des heures creuses."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment estimer votre budget électrique à Villeurbanne ?",
+      "id": "comment-estimer-votre-budget-electrique-a-villeurbanne"
+    },
+    {
+      "type": "paragraph",
+      "html": "La méthode la plus fiable consiste à partir de votre consommation réelle annuelle, et non d’une estimation générique au mètre carré. Additionnez les kWh figurant sur vos douze dernières factures, ou consultez l’historique disponible avec votre compteur communicant. Séparez si possible les périodes de chauffage et les mois sans chauffage : cela révèle immédiatement le poids de l’eau chaude et du chauffage électrique."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de consommation : pourquoi les écarts sont si importants",
+      "headers": [
+        "Profil de logement",
+        "Ordre de grandeur annuel fréquent",
+        "Principaux facteurs de variation",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Petit logement, chauffage et eau chaude non électriques",
+          "Environ 1 000 à 2 500 kWh",
+          "Cuisson, électroménager, télétravail, climatisation ponctuelle",
+          "L’abonnement représente une part notable du total"
+        ],
+        [
+          "Appartement avec eau chaude électrique",
+          "Environ 2 000 à 4 500 kWh",
+          "Taille et réglage du ballon, nombre d’occupants, usages en heures creuses",
+          "Un ballon mal piloté peut consommer toute la journée"
+        ],
+        [
+          "Logement chauffé à l’électricité",
+          "Environ 6 000 à 14 000 kWh ou davantage",
+          "Isolation, surface, consigne de température, type de radiateurs, climat et occupants",
+          "La performance thermique compte davantage qu’un faible écart de prix du kWh"
+        ],
+        [
+          "Logement avec recharge de véhicule à domicile",
+          "Consommation domestique + recharge",
+          "Kilométrage, véhicule, puissance et horaires de recharge",
+          "Programmer la recharge peut peser dans le choix de l’option tarifaire"
+        ]
+      ],
+      "note": "Ces fourchettes sont des repères de consommation, non des promesses de facture. Le coût dépend ensuite de l’offre, de la puissance et des prélèvements applicables."
+    },
+    {
+      "type": "steps",
+      "title": "Calculez un coût annuel comparable en cinq étapes",
+      "items": [
+        {
+          "title": "Rassemblez vos données",
+          "text": "Relevez vos kWh sur douze mois, votre puissance en kVA, votre option tarifaire et, le cas échéant, la répartition heures pleines/heures creuses."
+        },
+        {
+          "title": "Écartez les anomalies",
+          "text": "Identifiez les mois marqués par un départ prolongé, un changement de chauffage, des travaux ou une régularisation exceptionnelle afin de ne pas fausser votre analyse."
+        },
+        {
+          "title": "Calculez la part consommation",
+          "text": "Multipliez les kWh de chaque plage horaire par le prix correspondant dans la grille de l’offre. Ne mélangez pas heures pleines et heures creuses."
+        },
+        {
+          "title": "Ajoutez la part fixe",
+          "text": "Ajoutez douze mois d’abonnement au niveau de puissance qui vous convient réellement."
+        },
+        {
+          "title": "Comparez à périmètre identique",
+          "text": "Comparez ensuite les offres pour la même puissance, la même option et le même volume de consommation, en vérifiant les taxes, remises et dates d’évolution annoncées."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui font payer plus cher sans s’en apercevoir",
+      "id": "les-erreurs-qui-font-payer-plus-cher-sans-s-en-apercevoir"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de comparer des offres sur un seul critère. Une réduction annoncée sur le kWh peut être compensée par un abonnement plus élevé, une durée promotionnelle courte ou une option horaire mal adaptée. La deuxième est de conserver une puissance choisie lors d’un ancien équipement : après le remplacement d’un chauffage, l’arrêt d’une recharge à domicile ou un déménagement, ce réglage mérite d’être revu."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une autre confusion fréquente concerne la mensualisation. Payer la même somme tous les mois facilite le budget, mais ne réduit pas le coût annuel : une régularisation intervient si l’estimation était inférieure ou supérieure à la consommation réelle. Privilégiez un suivi régulier des kWh et transmettez vos relevés lorsque cela est nécessaire. Avec Linky, les données remontent le plus souvent automatiquement, mais vérifiez tout de même que la facture correspond bien à votre situation."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux comparaisons incomplètes",
+      "html": "Ne comparez jamais un prix « hors taxes » avec une facture toutes taxes comprises, ni une offre Base avec une offre heures pleines/heures creuses sans connaître votre répartition horaire. Lisez la <strong>fiche standardisée</strong> et le coût annuel estimé avant toute souscription."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réduire la facture : priorités selon votre type de logement",
+      "id": "reduire-la-facture-priorites-selon-votre-type-de-logement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un logement chauffé à l’électricité, le gain le plus durable vient généralement du bâtiment et du pilotage du chauffage : isolation, étanchéité à l’air, réglage des températures, entretien des équipements et programmation. Baisser légèrement la consigne dans les pièces de vie, sans dégrader le confort ou la santé, produit souvent un effet plus important qu’un changement de fournisseur à lui seul. Ne chauffez pas inutilement les pièces inoccupées et évitez les chauffages d’appoint énergivores comme solution permanente."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un appartement dont le chauffage est collectif ou au gaz, concentrez-vous sur l’eau chaude électrique éventuelle, le froid domestique, le séchage du linge, la cuisson et les veilles. Un ballon d’eau chaude réglé à une température adaptée et déclenché au bon moment constitue un levier concret. Remplacez en priorité un appareil ancien très énergivore lorsqu’il arrive en fin de vie ; regardez sa consommation annuelle et son adéquation à votre besoin, pas seulement son prix d’achat."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Actions simples à mener dans les prochaines semaines",
+      "items": [
+        "Téléchargez ou relevez votre consommation mensuelle afin d’identifier les postes qui augmentent.",
+        "Contrôlez votre puissance souscrite : trop de marge coûte chaque mois, trop peu provoque des coupures.",
+        "Vérifiez le pilotage du ballon d’eau chaude et les programmations d’appareils si vous avez des heures creuses.",
+        "Réglez le chauffage pièce par pièce et entretenez les radiateurs, convecteurs ou pompe à chaleur selon les préconisations.",
+        "Évitez les multiprises en veille permanente pour les appareils qui n’ont pas besoin de rester alimentés.",
+        "Comparez les offres sur le coût annuel total, à consommation et puissance identiques."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Déménagement, ouverture de compteur et changement de contrat à Villeurbanne",
+      "id": "demenagement-ouverture-de-compteur-et-changement-de-contrat-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lors d’un emménagement, vous devez mettre le contrat d’électricité à votre nom, même si le courant est déjà présent. Anticipez la demande afin d’éviter toute coupure ou prestation accélérée, souvent plus coûteuse. Préparez l’adresse complète, le numéro de compteur ou le point de livraison s’il est disponible, un relevé de compteur si nécessaire, la date souhaitée et vos coordonnées bancaires."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez souscrire chez EDF ou chez un autre fournisseur : le réseau reste le même. Un changement de fournisseur dans un logement déjà alimenté ne nécessite habituellement ni travaux ni remplacement de compteur. En revanche, une première mise en service, une modification de puissance ou une intervention physique peuvent donner lieu à des frais de prestation du gestionnaire de réseau. Ces frais ponctuels ne doivent pas être confondus avec le prix courant de l’électricité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode fiable pour choisir ou réviser votre contrat EDF",
+      "id": "la-methode-fiable-pour-choisir-ou-reviser-votre-contrat-edf"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par votre logement, pas par la publicité d’une offre. Déterminez votre consommation annuelle, vos usages déplaçables et la puissance réellement nécessaire. Ensuite, examinez la grille tarifaire complète : abonnement, prix du kWh, prix selon les plages horaires, durée et évolution des prix, conditions de remise éventuelle, facturation et service client. Une offre un peu moins spectaculaire mais lisible et adaptée à vos habitudes est souvent le meilleur choix."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre situation est complexe — logement tout électrique, pompe à chaleur, véhicule électrique, autoconsommation solaire ou colocation — analysez une année complète, idéalement en tenant compte des saisons. En cas de doute, utilisez un comparateur institutionnel indépendant et conservez les documents précontractuels. Enfin, recontrôlez votre facture quelques mois après le changement : c’est le seul moyen de vérifier que la répartition Base/heures creuses et la puissance choisie correspondent réellement à votre profil."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur EDF et le prix de l’électricité à Villeurbanne",
+      "items": [
+        {
+          "q": "Le prix EDF est-il plus élevé à Villeurbanne qu’ailleurs ?",
+          "a": "Non, il n’existe pas de surcoût EDF lié au fait d’habiter à Villeurbanne. Votre facture dépend de la grille de votre contrat, de votre consommation, de votre puissance, de votre option tarifaire et des prélèvements applicables. Deux logements de la même ville peuvent donc afficher des montants très différents."
+        },
+        {
+          "q": "Qui fixe le prix de l’électricité EDF ?",
+          "a": "Cela dépend de l’offre. Le tarif réglementé est fixé dans un cadre public selon une procédure réglementaire. Pour une offre de marché, EDF fixe ses conditions commerciales, dans le respect du contrat. Dans les deux cas, les coûts de réseau et les taxes relèvent largement de règles publiques et ne sont pas librement négociables."
+        },
+        {
+          "q": "Une offre EDF à prix fixe protège-t-elle de toute hausse ?",
+          "a": "Pas forcément. Le prix fixe concerne généralement la fourniture d’électricité pendant une période définie et dans les conditions prévues au contrat. Les taxes, l’acheminement et certains éléments réglementés peuvent évoluer. Vérifiez précisément les lignes concernées par le gel de prix avant de souscrire."
+        },
+        {
+          "q": "Comment savoir si les heures creuses sont rentables chez moi ?",
+          "a": "Consultez votre consommation sur douze mois et regardez quelle part de vos kWh est réellement consommée en heures creuses. Ajoutez l’écart d’abonnement entre les options, puis comparez le coût annuel complet. Un chauffe-eau et une recharge de véhicule programmés améliorent souvent l’intérêt de l’option ; sans usages décalables, l’option Base peut être préférable."
+        },
+        {
+          "q": "Puis-je diminuer ma puissance de compteur pour payer moins ?",
+          "a": "Oui, si votre puissance actuelle est surdimensionnée. Avant toute demande, vérifiez les pointes de puissance et les appareils qui fonctionnent simultanément. Une baisse trop importante peut provoquer des coupures. Avec un compteur Linky, certaines adaptations peuvent être réalisées à distance, mais les modalités et frais éventuels doivent être confirmés au moment de la demande."
+        },
+        {
+          "q": "Changer de fournisseur à Villeurbanne peut-il provoquer une coupure ?",
+          "a": "Non, un changement de fournisseur pour un logement déjà alimenté se fait normalement sans coupure et sans changement de compteur. Le courant continue de passer par le même réseau. Vous devez en revanche effectuer une ouverture de contrat à votre nom lors d’un emménagement, même si l’électricité fonctionne déjà dans le logement."
+        }
+      ]
+    }
+  ]
+}

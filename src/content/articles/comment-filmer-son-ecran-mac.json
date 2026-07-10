@@ -1,0 +1,413 @@
+{
+  "title": "Comment filmer son écran mac",
+  "slug": "comment-filmer-son-ecran-mac",
+  "path": "/divers/comment-filmer-son-ecran-mac.html",
+  "category": "tech",
+  "tags": [
+    "mac",
+    "enregistrement écran",
+    "capture vidéo",
+    "quicktime",
+    "tutoriel mac",
+    "audio mac"
+  ],
+  "excerpt": "Capturez l’écran de votre Mac proprement : outil Capture d’écran, QuickTime, réglages audio, autorisations et conseils pour partager une vidéo nette.",
+  "metaDescription": "Apprenez à filmer l’écran de votre Mac avec les outils intégrés, le bon audio, les réglages utiles et les solutions aux problèmes courants.",
+  "seoTitle": "Filmer son écran Mac : méthodes simples avec ou sans son",
+  "heroKicker": "Capture d’écran vidéo",
+  "readingTime": 12,
+  "date": "2022-09-29T15:09:57",
+  "image": {
+    "id": "394",
+    "alt": "Comment filmer son écran mac",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Filmer l’écran de votre Mac est très simple pour montrer une manipulation, créer un tutoriel, conserver une visio autorisée ou signaler un problème technique. Le vrai point de vigilance n’est pas l’image, mais le son : macOS permet facilement d’enregistrer votre voix, tandis que la capture du son interne demande souvent une solution spécifique."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le raccourci <strong>Maj + Commande + 5</strong> ouvre l’outil le plus rapide pour enregistrer tout l’écran ou seulement une zone.",
+        "Vous pouvez enregistrer votre <strong>microphone</strong> depuis les options de macOS, mais le son joué par les applications n’est généralement pas capturé nativement.",
+        "QuickTime Player reste une excellente alternative si vous préférez un déclenchement depuis une application et un accès simple à l’édition de base.",
+        "Avant de démarrer, masquez les notifications, vérifiez l’espace de stockage et contrôlez les autorisations d’<strong>enregistrement de l’écran</strong>.",
+        "Pour un tutoriel lisible, capturez uniquement la fenêtre ou la zone utile plutôt que l’intégralité du bureau."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelle méthode choisir pour enregistrer l’écran d’un Mac ?",
+      "id": "quelle-methode-choisir-pour-enregistrer-l-ecran-d-un-mac"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre Mac dispose de deux solutions gratuites et déjà installées : la barre <strong>Capture d’écran</strong>, accessible avec le raccourci <strong>Maj + Commande + 5</strong>, et <strong>QuickTime Player</strong>. Dans la majorité des cas, la barre Capture d’écran est la plus directe : elle permet de sélectionner la zone, de choisir le micro, d’ajouter un délai et de définir le dossier de destination avant de lancer la prise. QuickTime est particulièrement pratique si vous utilisez déjà l’application pour consulter ou rogner vos vidéos."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon choix dépend surtout de votre besoin. Pour envoyer rapidement une démonstration à un collègue, filmez une portion de l’écran avec le micro. Pour réaliser un tutoriel plus soigné, préparez le bureau, enregistrez une zone précise puis montez la séquence. Pour capter le son d’une vidéo, d’un jeu ou d’une réunion, vérifiez d’abord les règles applicables et prévoyez un outil compatible avec l’audio système."
+    },
+    {
+      "type": "comparison",
+      "title": "Capture d’écran ou QuickTime Player ?",
+      "left": {
+        "title": "Barre Capture d’écran",
+        "points": [
+          "Accès immédiat avec <strong>Maj + Commande + 5</strong>.",
+          "Choix visuel entre écran entier et zone sélectionnée.",
+          "Options pratiques : délai, micro, affichage des clics, emplacement de sauvegarde.",
+          "Idéale pour les captures ponctuelles et les tutoriels rapides."
+        ]
+      },
+      "right": {
+        "title": "QuickTime Player",
+        "points": [
+          "Lancement depuis le dossier Applications ou Spotlight.",
+          "Interface utile si vous consultez, rognez ou assemblez déjà vos fichiers vidéo.",
+          "Bon choix pour démarrer un nouvel enregistrement depuis une application dédiée.",
+          "Moins rapide pour régler visuellement une zone très précise avant la capture."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "caption": "Les principales façons de filmer un écran sur Mac",
+      "headers": [
+        "Solution",
+        "Pour quel usage ?",
+        "Audio possible",
+        "Niveau de prise en main",
+        "Budget"
+      ],
+      "rows": [
+        [
+          "Capture d’écran macOS",
+          "Démonstration, bug, tutoriel court",
+          "Microphone ; audio système généralement non inclus",
+          "Très facile",
+          "Inclus avec le Mac"
+        ],
+        [
+          "QuickTime Player",
+          "Capture simple et rognage léger",
+          "Microphone ; audio système généralement non inclus",
+          "Très facile",
+          "Inclus avec le Mac"
+        ],
+        [
+          "Application spécialisée",
+          "Tutoriels réguliers, annotations, webcam, montage",
+          "Micro et, selon l’outil, audio système",
+          "Intermédiaire",
+          "Du gratuit à un abonnement ou achat"
+        ],
+        [
+          "Solution audio virtuelle",
+          "Capturer le son interne dans un flux vidéo",
+          "Audio système, avec configuration",
+          "Intermédiaire à avancé",
+          "Souvent gratuit ou payant selon l’outil"
+        ]
+      ],
+      "note": "Les fonctions exactes peuvent varier légèrement selon votre version de macOS et les autorisations accordées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode la plus simple : Maj + Commande + 5",
+      "id": "la-methode-la-plus-simple-maj-commande-5"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le raccourci <strong>Maj + Commande + 5</strong> affiche une barre flottante en bas de l’écran. Elle sert aussi aux captures d’écran fixes, mais les deux icônes vidéo sont celles qui vous intéressent : l’une enregistre l’écran entier, l’autre uniquement la portion que vous délimitez. Cette seconde option est presque toujours préférable : votre destinataire voit immédiatement l’action importante, la vidéo est plus légère et vous limitez l’affichage d’informations privées."
+    },
+    {
+      "type": "steps",
+      "title": "Enregistrer votre écran pas à pas",
+      "items": [
+        {
+          "title": "Ouvrez la barre d’enregistrement",
+          "text": "Appuyez simultanément sur <strong>Maj + Commande + 5</strong>. Les commandes apparaissent au bas de l’écran."
+        },
+        {
+          "title": "Choisissez le cadre",
+          "text": "Sélectionnez <strong>Enregistrer l’écran entier</strong>, ou <strong>Enregistrer la portion sélectionnée</strong>. Dans ce dernier cas, déplacez et redimensionnez le cadre autour de la fenêtre ou de la zone utile."
+        },
+        {
+          "title": "Réglez les options",
+          "text": "Cliquez sur <strong>Options</strong>. Choisissez le dossier de destination, activez le microphone voulu si vous commentez, et utilisez le délai si vous devez préparer une fenêtre ou un menu."
+        },
+        {
+          "title": "Lancez l’enregistrement",
+          "text": "Cliquez sur <strong>Enregistrer</strong>. Si vous avez choisi l’écran entier, macOS peut vous demander de cliquer sur l’écran à capturer."
+        },
+        {
+          "title": "Arrêtez proprement",
+          "text": "Cliquez sur le bouton Arrêter dans la barre des menus, ou utilisez le raccourci <strong>Commande + Contrôle + Échap</strong>. Une vignette s’affiche alors brièvement : cliquez dessus pour vérifier ou rogner la vidéo."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le réglage qui évite beaucoup de vidéos ratées",
+      "html": "Avant de cliquer sur Enregistrer, ouvrez <strong>Options</strong> et choisissez explicitement l’emplacement de sauvegarde. Le Bureau est pratique pour retrouver le fichier tout de suite ; un dossier dédié évite de l’envoyer par erreur ou de l’oublier parmi d’autres captures."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utiliser QuickTime Player pour enregistrer l’écran",
+      "id": "utiliser-quicktime-player-pour-enregistrer-l-ecran"
+    },
+    {
+      "type": "paragraph",
+      "html": "QuickTime Player est présent sur les Mac et peut créer un nouvel enregistrement d’écran. Ouvrez l’application avec Spotlight, via <strong>Commande + Espace</strong>, puis recherchez QuickTime Player. Dans la barre de menus, choisissez <strong>Fichier</strong>, puis l’option de nouvel enregistrement d’écran. Selon la version de macOS, QuickTime ouvre lui aussi l’interface de capture système : le fonctionnement rejoint alors celui du raccourci Maj + Commande + 5."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’intérêt de QuickTime ne se limite pas au déclenchement. Une fois la vidéo ouverte, vous pouvez effectuer un rognage très simple pour retirer quelques secondes superflues au début ou à la fin. C’est suffisant pour enlever le moment où vous préparez votre fenêtre, ou le clic final qui arrête l’enregistrement. Pour couper une séquence en plusieurs passages, flouter un élément ou ajouter des titres, il faudra en revanche utiliser un logiciel de montage."
+    },
+    {
+      "type": "proscons",
+      "title": "Les outils natifs de macOS : leurs forces et leurs limites",
+      "pros": [
+        "Gratuits, préinstallés et sans création de compte.",
+        "Démarrage rapide, sans réglages techniques complexes.",
+        "Choix entre enregistrement complet et zone ciblée.",
+        "Possibilité d’ajouter un commentaire au microphone.",
+        "Fichier vidéo immédiatement exploitable dans la plupart des cas."
+      ],
+      "cons": [
+        "Le son interne des applications n’est généralement pas enregistré directement.",
+        "Peu d’outils d’annotation, de zoom ou de mise en évidence pendant la capture.",
+        "Montage limité à des retouches très simples.",
+        "Les vidéos d’écran entier peuvent devenir lourdes et montrer des données confidentielles."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment enregistrer le son : micro, son interne et précautions",
+      "id": "comment-enregistrer-le-son-micro-son-interne-et-precautions"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans la barre Capture d’écran, ouvrez <strong>Options</strong>, puis sélectionnez un microphone dans la rubrique correspondante. Choisissez le micro intégré de votre Mac pour un commentaire occasionnel, ou un casque-micro et un micro USB pour une voix plus claire. Faites un essai de quelques secondes : un micro sélectionné ne garantit pas toujours un niveau suffisant, surtout si votre casque est mal connecté ou si une application de visioconférence utilise déjà le périphérique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut distinguer votre voix du <strong>son interne</strong>, c’est-à-dire le son lu par le Mac : musique, vidéo web, jeu, alerte d’une application ou voix des participants à une réunion. Les outils de capture intégrés de macOS proposent en général le microphone, mais pas une source « audio système » directement sélectionnable. Approcher un micro des haut-parleurs fonctionne très mal : vous récupérez l’écho, les bruits de la pièce et une qualité médiocre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une capture récurrente du son interne, vous pouvez vous tourner vers une application de capture vidéo qui gère cette fonction ou vers un pilote audio virtuel. Celui-ci crée un périphérique intermédiaire : le son du Mac est envoyé vers ce périphérique et, si nécessaire, vers vos haut-parleurs ou votre casque. La configuration demande de la rigueur, car vous devez conserver une sortie d’écoute tout en donnant une source audio au logiciel d’enregistrement. Vérifiez toujours les permissions demandées, téléchargez les outils depuis leur éditeur et désinstallez ce que vous n’utilisez plus."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Enregistrer une réunion ou un contenu protégé",
+      "html": "N’enregistrez pas une réunion, un appel, une formation payante ou un contenu diffusé en ligne sans l’accord des personnes et titulaires de droits concernés. Le fait qu’une capture soit techniquement possible ne vous autorise pas à la partager. Informez les participants avant l’enregistrement et évitez de diffuser à l’écran des données personnelles, mots de passe, documents confidentiels ou notifications privées."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 outils",
+          "label": "natifs suffisent pour la majorité des captures d’écran courtes : Capture d’écran et QuickTime Player."
+        },
+        {
+          "value": "1 zone ciblée",
+          "label": "réduit les distractions, limite les informations exposées et facilite la compréhension."
+        },
+        {
+          "value": "Quelques secondes",
+          "label": "de test audio évitent une vidéo entière sans commentaire ou avec un micro défaillant."
+        },
+        {
+          "value": "De dizaines à centaines de Mo",
+          "label": "peuvent être nécessaires par minute selon la définition, les mouvements et la compression."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer une capture nette, lisible et discrète",
+      "id": "preparer-une-capture-nette-lisible-et-discrete"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une bonne vidéo d’écran se joue avant l’enregistrement. Votre objectif n’est pas de tout montrer, mais de rendre une action compréhensible du premier coup. Fermez les applications inutiles, ouvrez à l’avance les pages et dossiers nécessaires, puis répétez le parcours une fois. Si vous hésitez durant votre démonstration, arrêtez la prise et recommencez : une séquence courte et fluide est plus utile qu’une longue vidéo pleine d’erreurs."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist avant d’appuyer sur Enregistrer",
+      "items": [
+        "Activez un mode Concentration ou désactivez les notifications pour éviter les bannières, messages et sons intempestifs.",
+        "Fermez les onglets contenant des informations personnelles, professionnelles ou bancaires.",
+        "Agrandissez le texte si votre destinataire regarde la vidéo sur un petit écran ou si vous filmez une interface dense.",
+        "Placez la fenêtre à montrer dans une zone calme du bureau et évitez les fonds d’écran visuellement chargés.",
+        "Branchez le Mac à l’alimentation pour une capture longue et vérifiez que vous disposez d’assez d’espace libre.",
+        "Sélectionnez le bon microphone, puis enregistrez un test très court avec une phrase prononcée à volume normal.",
+        "Préparez les fichiers ou comptes de démonstration afin de ne jamais afficher un mot de passe ou une donnée réelle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réglages utiles : zone, curseur, clics et qualité",
+      "id": "reglages-utiles-zone-curseur-clics-et-qualite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un tutoriel, capturez de préférence l’application concernée ou une zone légèrement plus large que sa fenêtre. Un cadre trop serré coupe parfois les menus déroulants ; un cadre trop large fait perdre le lecteur. Si vous devez montrer plusieurs fenêtres, l’enregistrement de l’écran entier est pertinent, à condition de ranger votre bureau et de désactiver les notifications."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les options de capture, l’affichage des clics de souris peut rendre une démonstration plus facile à suivre. Utilisez-le quand vous expliquez une séquence de clics précise, mais évitez-le si le pointeur se déplace beaucoup : l’effet visuel peut alors devenir distrayant. Déplacez la souris lentement, marquez une courte pause avant et après une action importante, et évitez les gestes inutiles. Ces détails améliorent davantage la compréhension qu’une résolution excessivement élevée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la qualité, partez de la définition native de votre écran : l’enregistrement système restitue l’interface de manière nette. Le poids du fichier augmente toutefois avec la taille de la zone, la définition, la durée et les animations affichées. Une démo de tableur assez statique sera habituellement plus légère qu’un jeu, une vidéo plein écran ou une interface riche en mouvements. Si vous devez envoyer le résultat par messagerie, rognez les essais inutiles et privilégiez un lien de partage sécurisé si le fichier devient trop volumineux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Autoriser la capture d’écran et résoudre les problèmes courants",
+      "id": "autoriser-la-capture-d-ecran-et-resoudre-les-problemes-coura"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au premier lancement d’une application de capture tierce, macOS peut demander l’autorisation d’enregistrer l’écran. Si la fenêtre capturée est noire, si le logiciel ne détecte rien ou si aucun bouton ne répond, ouvrez les <strong>Réglages Système</strong>, puis la rubrique consacrée à la confidentialité et à la sécurité. Recherchez l’autorisation relative à l’enregistrement de l’écran, activez l’application concernée, puis fermez et rouvrez-la si macOS le demande. Les intitulés peuvent varier légèrement d’une version de macOS à l’autre."
+    },
+    {
+      "type": "table",
+      "caption": "Dépanner une capture d’écran sur Mac",
+      "headers": [
+        "Problème",
+        "Cause probable",
+        "Solution concrète"
+      ],
+      "rows": [
+        [
+          "Aucun son dans la vidéo",
+          "Aucun micro n’a été choisi ou le mauvais périphérique est sélectionné",
+          "Dans Options, sélectionnez le bon micro et faites un test de dix secondes."
+        ],
+        [
+          "Le son de la vidéo web manque",
+          "Vous cherchez à capter le son interne avec l’outil natif",
+          "Utilisez un commentaire au micro ou configurez une solution dédiée à l’audio système."
+        ],
+        [
+          "Écran noir dans une application",
+          "Autorisation d’enregistrement absente ou application protégée",
+          "Vérifiez les réglages de confidentialité ; certains contenus protégés ne peuvent pas être capturés correctement."
+        ],
+        [
+          "La vidéo est difficile à lire",
+          "Zone filmée trop large ou texte trop petit",
+          "Recadrez autour de l’interface et augmentez le zoom ou la taille d’affichage."
+        ],
+        [
+          "Le Mac ralentit",
+          "Trop d’applications ouvertes, peu d’espace ou capture très exigeante",
+          "Fermez les tâches lourdes, branchez l’alimentation et capturez une zone plus petite."
+        ],
+        [
+          "Le fichier est introuvable",
+          "Emplacement de sauvegarde non vérifié",
+          "Refaites une courte capture et définissez explicitement le Bureau ou un dossier dédié dans Options."
+        ]
+      ],
+      "note": "Après une modification d’autorisation, un redémarrage de l’application est souvent nécessaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rogner, compresser et partager la vidéo",
+      "id": "rogner-compresser-et-partager-la-video"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dès que vous arrêtez l’enregistrement, une miniature apparaît habituellement dans un coin de l’écran. Cliquez dessus rapidement pour accéder aux actions immédiates, notamment au rognage. Retirez sans hésiter le début et la fin : ces quelques secondes correspondent souvent au lancement de la capture, à la préparation du bureau ou à l’arrêt final. Conservez un fichier original si la vidéo a une valeur professionnelle ou doit être remontée ultérieurement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un partage simple, le format vidéo généré par macOS est généralement compatible avec les appareils récents. Si votre correspondant ne peut pas ouvrir le fichier, si la pièce jointe est refusée ou si le poids est gênant, exportez-le depuis un outil de montage ou de conversion fiable vers un format plus universel, comme un fichier vidéo MP4 encodé de manière courante. Comparez toujours l’image et le son après export : une compression trop agressive rend les petits textes flous, ce qui annule l’intérêt d’un tutoriel."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Faut-il payer un logiciel de capture ?",
+      "html": "Pour une démonstration, un support technique ou un tutoriel occasionnel, <strong>non</strong> : les outils inclus avec macOS sont suffisants. Envisagez une solution payante seulement si vous enregistrez régulièrement, avez besoin du son interne, d’une webcam incrustée, d’annotations en direct, d’un montage avancé ou d’exports récurrents dans plusieurs formats."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand choisir une application spécialisée ?",
+      "id": "quand-choisir-une-application-specialisee"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les applications dédiées prennent leur sens lorsque votre capture devient un vrai contenu : cours en ligne, assistance client, présentation produit, démonstration logicielle, jeu ou documentation interne. Elles peuvent réunir dans une même interface l’écran, la webcam, le micro et parfois l’audio système. Elles proposent aussi des fonctions utiles comme le suivi du curseur, le surlignage des clics, les flèches, le floutage, les transitions, les sous-titres ou l’export optimisé pour le web."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne choisissez pas un outil sur la seule promesse d’une résolution élevée. Vérifiez plutôt quatre critères : sa compatibilité avec votre version de macOS, sa politique de confidentialité, la simplicité de la capture audio et les possibilités d’export sans marquage envahissant. Téléchargez une version d’essai lorsqu’elle existe, réalisez une vraie capture avec votre casque et votre flux de travail, puis examinez le fichier sur l’appareil de votre destinataire. C’est le meilleur moyen d’éviter un abonnement inutile."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le meilleur réflexe selon votre situation",
+      "id": "le-meilleur-reflexe-selon-votre-situation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous aidez un proche ou signalez un bug, ouvrez la barre avec <strong>Maj + Commande + 5</strong>, encadrez la zone concernée et ajoutez votre micro si une explication orale est utile. Si vous faites un tutoriel à publier, préparez l’interface, activez les clics si nécessaire, capturez en plusieurs séquences courtes puis montez-les. Si l’enjeu est le son provenant du Mac, ne perdez pas de temps à multiplier les essais avec le micro intégré : identifiez directement une solution de capture audio compatible et assurez-vous d’avoir les autorisations nécessaires."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, pensez à la durée de vie de votre vidéo. Un nom de fichier clair, par exemple avec le sujet et la version de l’application montrée, facilite sa recherche plus tard. Rangez les enregistrements dans un dossier distinct, supprimez les brouillons contenant des données sensibles et gardez uniquement la version finale. Filmer son écran sur Mac est une opération accessible ; la qualité vient surtout d’un cadrage volontaire, d’un son vérifié et d’un partage maîtrisé."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’enregistrement d’écran sur Mac",
+      "items": [
+        {
+          "q": "Quel raccourci permet de filmer l’écran sur Mac ?",
+          "a": "Utilisez <strong>Maj + Commande + 5</strong>. Cette combinaison ouvre la barre de capture de macOS, dans laquelle vous pouvez enregistrer l’écran entier ou une zone personnalisée. Le raccourci <strong>Commande + Contrôle + Échap</strong> permet ensuite d’arrêter l’enregistrement."
+        },
+        {
+          "q": "Comment filmer l’écran d’un Mac avec ma voix ?",
+          "a": "Ouvrez la barre de capture avec Maj + Commande + 5, cliquez sur <strong>Options</strong>, puis choisissez votre microphone dans la rubrique dédiée. Lancez ensuite la capture. Faites une courte vidéo de test pour vérifier le volume et la qualité de votre voix."
+        },
+        {
+          "q": "Pourquoi le son d’une vidéo ou d’une application n’est-il pas enregistré ?",
+          "a": "Les outils intégrés de macOS captent habituellement un microphone, mais pas directement le son interne diffusé par les applications. Pour enregistrer cet audio, il faut en général une application de capture compatible ou un périphérique audio virtuel correctement configuré."
+        },
+        {
+          "q": "Où est enregistrée ma vidéo d’écran sur Mac ?",
+          "a": "L’emplacement dépend du choix fait dans <strong>Options</strong> avant le lancement. Il peut s’agir du Bureau, des Documents, du presse-papiers ou d’un autre dossier. Si vous ne retrouvez pas le fichier, refaites une capture de quelques secondes en définissant explicitement sa destination."
+        },
+        {
+          "q": "Peut-on enregistrer seulement une fenêtre sur Mac ?",
+          "a": "L’outil intégré permet de sélectionner une portion rectangulaire de l’écran, ce qui revient dans la pratique à cadrer une fenêtre. Ajustez le rectangle en laissant une petite marge si des menus déroulants doivent apparaître. Pour un suivi automatique et précis d’une fenêtre, une application spécialisée peut être plus confortable."
+        },
+        {
+          "q": "Comment réduire le poids d’un enregistrement d’écran ?",
+          "a": "Filmez uniquement la zone utile, supprimez les séquences inutiles et évitez de capturer des animations ou vidéos en arrière-plan. Si nécessaire, exportez ensuite la vidéo dans un format compressé adapté au partage, puis vérifiez que le texte de l’interface reste parfaitement lisible."
+        }
+      ]
+    }
+  ]
+}

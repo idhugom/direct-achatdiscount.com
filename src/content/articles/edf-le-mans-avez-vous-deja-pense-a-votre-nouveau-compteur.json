@@ -1,0 +1,404 @@
+{
+  "title": "EDF Le Mans : avez-vous déjà pensé à votre nouveau compteur ?",
+  "slug": "edf-le-mans-avez-vous-deja-pense-a-votre-nouveau-compteur",
+  "path": "/divers/edf-le-mans-avez-vous-deja-pense-a-votre-nouveau-compteur.html",
+  "category": "maison",
+  "tags": [
+    "edf le mans",
+    "enedis",
+    "compteur linky",
+    "contrat électricité",
+    "puissance électrique",
+    "déménagement le mans"
+  ],
+  "excerpt": "Nouveau compteur au Mans : rôle d’EDF et d’Enedis, rendez-vous, budget, puissance souscrite, données et bons réflexes avant l’intervention.",
+  "metaDescription": "Au Mans, distinguez EDF et Enedis, préparez l’arrivée ou le réglage du compteur communicant et choisissez puissance et contrat sans erreur.",
+  "seoTitle": "EDF Le Mans : bien préparer votre nouveau compteur",
+  "heroKicker": "Compteur bien choisi",
+  "readingTime": 12,
+  "date": "2018-06-25T11:00:24",
+  "image": {
+    "id": "178",
+    "alt": "EDF Le Mans : avez-vous déjà pensé à votre nouveau compteur ?",
+    "width": 600,
+    "height": 600
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Vous avez reçu un avis concernant votre compteur électrique au Mans, vous emménagez ou votre installation semble ne plus suivre vos usages ? Derrière l’expression « nouveau compteur EDF » se cachent plusieurs démarches très différentes : relève, remplacement, mise en service, changement de puissance ou intervention sur le réseau. Le bon réflexe est d’identifier l’interlocuteur compétent et de préparer votre besoin avant de signer ou de prendre rendez-vous."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>EDF vend l’électricité</strong>, mais le compteur et le réseau sont généralement gérés par le distributeur local, le plus souvent Enedis au Mans : ne confondez pas les deux rôles.",
+        "Un compteur communicant n’est pas un abonnement : avant toute démarche, vérifiez surtout votre <strong>puissance souscrite</strong>, votre type d’alimentation et l’état de votre contrat.",
+        "Le remplacement standard d’un compteur organisé par le gestionnaire de réseau n’a normalement pas à être négocié avec votre fournisseur ; en revanche, une modification demandée par vous peut engendrer des frais.",
+        "Ne laissez jamais un intervenant non identifié manipuler le compteur, qui fait partie du réseau. Un électricien intervient sur votre installation privée, pas sur l’appareil scellé.",
+        "Pour éviter une coupure ou un abonnement mal calibré, rassemblez l’adresse exacte, le numéro de point de livraison et vos usages électriques avant l’intervention."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EDF, Enedis, compteur : qui fait quoi au Mans ?",
+      "id": "edf-enedis-compteur-qui-fait-quoi-au-mans"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier point à clarifier est essentiel : <strong>EDF n’est pas le gestionnaire du compteur électrique</strong>. EDF est un fournisseur d’électricité ; il propose des contrats, facture l’énergie et assure la relation commerciale liée à votre offre. Vous pouvez d’ailleurs choisir EDF ou un autre fournisseur, sans que cela ne change la propriété du compteur ni la qualité physique de l’électricité reçue."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans la grande majorité des communes desservies par le réseau public, le compteur, le raccordement et les dépannages relèvent du gestionnaire de réseau de distribution, le plus souvent <strong>Enedis</strong>. C’est cet acteur qui planifie un remplacement de compteur, relève les index, intervient sur une panne située en amont de votre installation et applique les réglages techniques demandés via votre fournisseur. Dans certains territoires, une entreprise locale de distribution peut toutefois exercer ce rôle : vérifiez le nom figurant sur votre facture ou sur le courrier reçu."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux interlocuteurs, deux missions distinctes",
+      "left": {
+        "title": "Votre fournisseur, dont EDF si vous l’avez choisi",
+        "points": [
+          "Souscription, résiliation et changement d’offre",
+          "Facture, échéancier et service client",
+          "Demande commerciale de mise en service ou de modification de puissance",
+          "Conseil sur le type de contrat et l’option tarifaire"
+        ]
+      },
+      "right": {
+        "title": "Le gestionnaire de réseau, souvent Enedis",
+        "points": [
+          "Compteur, relevé, téléopérations et intervention technique",
+          "Dépannage sur le réseau public et continuité d’alimentation",
+          "Remplacement d’un appareil ancien ou défaillant",
+          "Raccordement et contrôle de la partie réseau"
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon point de départ",
+      "html": "Si votre question concerne le <strong>compteur lui-même</strong> — remplacement, accès, dysfonctionnement, coupure générale du quartier — cherchez le gestionnaire de réseau. Si elle concerne votre <strong>contrat ou votre facture</strong>, contactez votre fournisseur. Cette distinction évite des appels inutiles et des délais."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dans quels cas avez-vous réellement besoin d’un nouveau compteur ?",
+      "id": "dans-quels-cas-avez-vous-reellement-besoin-d-un-nouveau-comp"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un « nouveau compteur » ne correspond pas toujours à un choix d’équipement. Le compteur communicant est déjà largement présent dans les logements ; si le vôtre fonctionne, il n’y a généralement rien à acheter ni à commander. Votre situation relève plutôt d’une des catégories suivantes, dont les conséquences pratiques et financières sont différentes."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les situations les plus fréquentes",
+      "items": [
+        "<strong>Remplacement programmé :</strong> le gestionnaire de réseau remplace un compteur ancien ou devenu incompatible avec le pilotage moderne du réseau. Vous recevez normalement une information préalable.",
+        "<strong>Compteur défaillant ou endommagé :</strong> affichage éteint, disjonctions anormales, impossibilité de relever l’index ou problème constaté lors d’un contrôle. Le diagnostic ne doit pas être improvisé par vos soins.",
+        "<strong>Emménagement ou remise en service :</strong> le logement possède déjà un compteur, mais il faut ouvrir un contrat à votre nom et, selon l’état de l’alimentation, remettre l’électricité en service.",
+        "<strong>Puissance insuffisante :</strong> le courant coupe lorsque plusieurs appareils fonctionnent simultanément. Un réglage de puissance ou une adaptation de l’installation peut être nécessaire.",
+        "<strong>Rénovation lourde ou logement neuf :</strong> il faut parfois un raccordement, un déplacement de compteur ou une mise en conformité préalable de l’installation privée.",
+        "<strong>Projet solaire ou recharge de véhicule :</strong> un compteur existant peut convenir, mais la puissance, le raccordement et le dispositif de comptage doivent être étudiés avant les travaux."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "30 à 45 min",
+          "label": "ordre de grandeur courant pour une intervention simple sur un compteur accessible, avec une brève coupure possible"
+        },
+        {
+          "value": "3 à 12 kVA",
+          "label": "plage de puissances fréquemment rencontrée dans les logements, à adapter aux usages réels"
+        },
+        {
+          "value": "0 € à plusieurs centaines d’euros",
+          "label": "écart possible entre un remplacement organisé et des travaux demandés : accès, déplacement ou raccordement changent tout"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’accepter un rendez-vous ou de demander une modification, cherchez la cause réelle. Une coupure répétée peut venir d’une puissance contractuelle trop basse, mais aussi d’un défaut sur un appareil, d’un tableau électrique vieillissant, d’une prise endommagée ou d’une surcharge sur un circuit. Changer de compteur ne corrige pas un défaut de votre installation intérieure."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Compteur communicant : fonctionnement, bénéfices et limites",
+      "id": "compteur-communicant-fonctionnement-benefices-et-limites"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le compteur communicant, souvent appelé Linky, enregistre les consommations et transmet les informations utiles au gestionnaire de réseau via une communication dédiée. Il rend possibles certaines opérations à distance : mise en service dans des cas simples, relève, évolution de puissance ou diagnostic initial. Cela réduit le besoin de rendez-vous et permet à votre facture de s’appuyer plus facilement sur des index réels plutôt que sur des estimations."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son intérêt principal est pratique : vous pouvez suivre plus finement votre consommation, repérer un appareil énergivore et comparer vos habitudes avant et après un changement de chauffage, d’électroménager ou de véhicule. Mais il ne fait pas baisser une facture par lui-même. Les économies viennent de décisions concrètes : ajuster la puissance, éviter les usages simultanés inutiles, déplacer certaines consommations si votre offre le valorise et améliorer l’isolation ou les équipements."
+    },
+    {
+      "type": "proscons",
+      "title": "Ce que le compteur communicant change vraiment",
+      "pros": [
+        "Relevés automatisés et limitation des estimations de consommation",
+        "Certaines opérations réalisables plus rapidement, parfois sans présence au domicile",
+        "Accès à un suivi de consommation plus détaillé selon les services activés",
+        "Détection plus simple d’une puissance souscrite manifestement inadaptée"
+      ],
+      "cons": [
+        "Il ne résout ni une installation intérieure défectueuse ni un appareil trop énergivore",
+        "Le suivi détaillé n’a d’intérêt que si vous l’utilisez pour modifier vos habitudes",
+        "Une coupure brève peut accompagner certaines interventions ou certains réglages",
+        "L’accès au compteur reste nécessaire lorsqu’il est situé dans le logement ou difficilement accessible"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer une intervention de compteur au Mans sans mauvaise surprise",
+      "id": "preparer-une-intervention-de-compteur-au-mans-sans-mauvaise-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsqu’un remplacement est prévu, le courrier ou le message reçu doit indiquer le créneau, l’entreprise mandatée et les modalités d’accès. Si le compteur est à l’intérieur de votre logement, derrière un portail fermé, dans une cave commune ou dans un local dont vous ne possédez pas la clé, anticipez. L’absence d’accès est l’une des causes les plus simples de rendez-vous manqués."
+    },
+    {
+      "type": "steps",
+      "title": "Votre préparation en cinq étapes",
+      "items": [
+        {
+          "title": "Identifiez l’objet de la demande",
+          "text": "Relisez le message reçu : s’agit-il d’un remplacement planifié, d’un dépannage, d’une mise en service ou d’une demande que vous avez initiée ? Ne communiquez pas d’informations bancaires à partir d’un simple message non vérifié."
+        },
+        {
+          "title": "Rassemblez les bonnes références",
+          "text": "Préparez l’adresse complète, le numéro de point de livraison figurant sur une ancienne facture ou un contrat, le nom de l’occupant et, si nécessaire, une photo lisible du compteur. Ces informations accélèrent les échanges."
+        },
+        {
+          "title": "Libérez l’accès",
+          "text": "Dégagez le coffret, ouvrez le portail ou organisez la présence d’un voisin, du gardien ou du bailleur lorsque le compteur se trouve dans une partie commune. Un accès sûr est indispensable."
+        },
+        {
+          "title": "Protégez vos équipements sensibles",
+          "text": "Une interruption courte est possible. Éteignez ou débranchez, si possible, les appareils informatiques non protégés, les équipements médicaux non autonomes et tout matériel sensible. Vérifiez aussi le bon fonctionnement d’une alarme après remise sous tension."
+        },
+        {
+          "title": "Contrôlez après le passage",
+          "text": "Vérifiez que l’électricité est revenue, que le disjoncteur est correctement enclenché et que vous savez retrouver l’index ou l’écran de consommation. Prenez une photo de l’affichage en cas de changement d’appareil."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux démarchages et aux faux techniciens",
+      "html": "Un intervenant sérieux doit pouvoir justifier sa mission. Ne signez pas dans la précipitation un nouveau contrat présenté comme indispensable au remplacement du compteur. <strong>Le changement d’appareil et le choix du fournisseur sont deux sujets distincts.</strong> En cas de doute, contactez le gestionnaire de réseau ou votre fournisseur via les coordonnées figurant sur une facture ou leur site officiel, et non via le numéro communiqué par un démarcheur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir : remplacement, mise en service et travaux",
+      "id": "quel-budget-prevoir-remplacement-mise-en-service-et-travaux"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de prix unique pour « un nouveau compteur ». Le remplacement d’un appareil décidé dans le cadre de la gestion normale du réseau est d’une nature très différente d’une prestation demandée par l’occupant. Une remise en service lors d’un déménagement, une hausse de puissance, le déplacement d’un coffret ou le raccordement d’une maison neuve suivent des procédures et des tarifs réglementés ou catalogués qui peuvent évoluer."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget selon votre besoin",
+      "headers": [
+        "Situation",
+        "Ce qui est généralement facturé",
+        "Ordre de grandeur à anticiper",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Remplacement programmé d’un compteur fonctionnel ou ancien",
+          "En principe, pas d’achat direct du compteur par l’occupant",
+          "Souvent sans paiement direct au moment de l’intervention",
+          "Vérifiez l’authenticité de l’avis et assurez l’accès"
+        ],
+        [
+          "Mise en service après déménagement",
+          "Prestation d’ouverture ou de remise en service via le fournisseur",
+          "Frais de service généralement limités, variables selon délai et situation",
+          "Souscrivez avant votre arrivée, sans attendre le jour du déménagement"
+        ],
+        [
+          "Modification de puissance ou d’option",
+          "Prestation technique, parfois à distance selon l’équipement",
+          "Montant modéré dans les cas simples ; variable selon le catalogue en vigueur",
+          "Calculez d’abord votre besoin : payer plus de puissance inutilement alourdit l’abonnement"
+        ],
+        [
+          "Déplacement de compteur ou adaptation de branchement",
+          "Étude puis travaux réseau, et parfois travaux privés",
+          "De quelques centaines d’euros à davantage selon la complexité",
+          "Demandez un chiffrage formel avant un ravalement, une clôture ou une extension"
+        ],
+        [
+          "Raccordement d’un logement neuf",
+          "Étude, extension éventuelle et branchement",
+          "Budget très variable, souvent significatif",
+          "Anticipez les délais, les autorisations et la conformité de l’installation intérieure"
+        ]
+      ],
+      "note": "Les montants réels dépendent du barème applicable, de l’accessibilité, de la distance au réseau et du niveau d’urgence. Demandez toujours le détail de la prestation avant validation."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Ne confondez pas coût ponctuel et coût annuel",
+      "html": "Une hausse de puissance peut régler des coupures, mais elle peut aussi augmenter la part fixe de votre facture pendant toute la durée du contrat. Avant de la demander, observez les appareils qui fonctionnaient au moment de la coupure. Un simple changement d’habitudes, un délesteur ou une meilleure répartition des circuits peut parfois suffire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir la bonne puissance et la bonne offre d’électricité",
+      "id": "choisir-la-bonne-puissance-et-la-bonne-offre-d-electricite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le compteur ne se choisit pas comme un appareil électroménager ; en revanche, votre <strong>puissance souscrite</strong> doit être cohérente avec votre logement et votre mode de vie. Elle exprime la quantité de puissance électrique disponible au même moment. Plus elle est élevée, plus vous pouvez faire fonctionner d’équipements simultanément, mais plus l’abonnement peut peser dans la durée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Évaluez vos usages simultanés, pas seulement vos équipements",
+      "id": "evaluez-vos-usages-simultanes-pas-seulement-vos-equipements"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un appartement chauffé collectivement, avec plaques de cuisson et lave-linge, n’a pas le même profil qu’une maison tout électrique avec ballon d’eau chaude, four, sèche-linge, pompe à chaleur et recharge de voiture. Ce qui compte est le cumul : un chauffe-eau ou un chauffage électrique qui se déclenche pendant que vous cuisinez et rechargez un véhicule peut faire dépasser la puissance disponible."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Questions à vous poser avant de modifier votre puissance",
+      "items": [
+        "Le chauffage et l’eau chaude sont-ils électriques, au gaz, collectifs ou produits par une pompe à chaleur ?",
+        "Utilisez-vous souvent four, plaques, lave-linge, sèche-linge et lave-vaisselle en même temps ?",
+        "Une borne ou une prise renforcée de recharge est-elle prévue à domicile ?",
+        "Les coupures correspondent-elles à un moment précis et à plusieurs gros appareils en marche ?",
+        "Votre tableau électrique et vos circuits sont-ils adaptés à vos nouveaux équipements ?",
+        "Votre option tarifaire correspond-elle réellement à vos horaires de consommation ?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour l’offre, comparez le prix de l’abonnement, le prix de l’énergie, les éventuelles plages horaires, les conditions de révision et la qualité du service client. Une formule à horaires différenciés n’est intéressante que si vous pouvez réellement déplacer une part notable de vos usages : chauffe-eau piloté, lave-linge programmé, recharge nocturne ou chauffage compatible. Sinon, une option plus simple peut être plus lisible et parfois plus adaptée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Déménagement, location, rénovation : les cas particuliers à anticiper",
+      "id": "demenagement-location-renovation-les-cas-particuliers-a-anti"
+    },
+    {
+      "type": "paragraph",
+      "html": "En cas de déménagement au Mans, ne reprenez pas le contrat de l’ancien occupant : souscrivez un contrat à votre nom et communiquez l’index de départ si vous pouvez le relever. Si l’électricité est déjà active, l’opération peut être simple ; si elle est coupée, anticipez davantage. Ne laissez pas non plus votre ancien contrat ouvert après votre départ : transmettez l’index final et la date de sortie."
+    },
+    {
+      "type": "paragraph",
+      "html": "En location, le compteur appartient au réseau et le contrat d’électricité est le plus souvent souscrit par l’occupant, sauf disposition particulière — par exemple une fourniture collective incluse dans certaines charges. Le propriétaire doit garantir un logement et une installation sûrs ; le locataire ne doit ni déplacer ni altérer le compteur. Lorsque le compteur est dans une partie commune, le bailleur ou le syndic peut devoir faciliter l’accès."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une rénovation, prévenez le gestionnaire de réseau avant de masquer un coffret derrière un doublage, une cuisine, une clôture ou un portail. Un compteur doit rester accessible et protégé. Si vous installez des panneaux photovoltaïques, une borne de recharge ou une pompe à chaleur, faites dimensionner le projet par un professionnel compétent : l’enjeu porte autant sur le tableau, les protections et le raccordement que sur le compteur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Données, relevés et entretien : vos bons réflexes au quotidien",
+      "id": "donnees-releves-et-entretien-vos-bons-reflexes-au-quotidien"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le compteur communicant peut fournir un historique de consommation dont le niveau de détail dépend des services activés et de vos choix. Ces données sont utiles pour comprendre vos usages, mais ne les confondez pas avec une preuve de panne. Comparez plusieurs périodes similaires — par exemple deux semaines avec une météo et des habitudes proches — avant de conclure qu’un appareil consomme anormalement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas d’entretien à effectuer sur le compteur. Ne l’ouvrez pas, ne retirez pas les scellés et ne tentez pas de modifier son branchement : c’est dangereux et susceptible d’entraîner des interventions facturables ou des conséquences plus graves. En revanche, vous pouvez nettoyer délicatement la zone autour du coffret, maintenir l’accès dégagé et surveiller votre tableau électrique privé."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pour traquer une hausse de consommation",
+      "html": "Relevez votre consommation à des moments comparables, puis coupez temporairement — sans compromettre sécurité, chauffage hors gel ou conservation des aliments — certains gros usages identifiés. Si l’anomalie persiste, faites contrôler l’installation privée par un électricien qualifié. En cas de doute sur l’appareil de comptage, passez par le gestionnaire de réseau."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui coûtent du temps ou de l’argent",
+      "id": "les-erreurs-qui-coutent-du-temps-ou-de-l-argent"
+    },
+    {
+      "type": "paragraph",
+      "html": "La majorité des difficultés liées au compteur ne viennent pas de la technologie, mais d’une mauvaise qualification du problème. Évitez de demander une hausse de puissance pour masquer un défaut électrique, de solliciter EDF pour une panne de réseau, ou d’attendre l’emménagement pour ouvrir votre contrat. Ces raccourcis peuvent conduire à une intervention inutile, à une coupure évitable ou à un abonnement durablement surdimensionné."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À éviter absolument",
+      "items": [
+        "Choisir une puissance plus élevée « par sécurité » sans analyser les appareils réellement utilisés simultanément.",
+        "Accepter un changement de fournisseur sous prétexte qu’un compteur doit être remplacé.",
+        "Faire intervenir un artisan sur le compteur scellé plutôt que sur le tableau et les circuits privés.",
+        "Ignorer un avis de rendez-vous alors que le compteur est inaccessible depuis la rue.",
+        "Masquer le coffret durant des travaux de façade, d’extension ou d’aménagement extérieur.",
+        "Utiliser un comparatif basé seulement sur le prix du kilowattheure en oubliant l’abonnement, les conditions et vos horaires d’usage."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le bon plan d’action selon votre situation",
+      "id": "le-bon-plan-d-action-selon-votre-situation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous avez reçu un courrier de remplacement, vérifiez sa provenance, confirmez le créneau si nécessaire et assurez l’accès. Si vous venez d’arriver au Mans, choisissez un fournisseur, souscrivez avant votre entrée dans le logement et relevez l’index. Si votre courant disjoncte, notez les appareils utilisés, contrôlez votre tableau et faites intervenir le bon professionnel. Enfin, si vous préparez une borne, des panneaux solaires ou une rénovation, dimensionnez l’ensemble du projet avant de modifier votre contrat."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur « nouveau compteur » est donc rarement une question de marque ou de modèle. C’est un compteur bien intégré à une installation sûre, associé à une puissance adaptée et à une offre que vous comprenez. En séparant clairement les responsabilités d’EDF, du gestionnaire de réseau et de votre électricien, vous gagnez en sécurité, en temps et en maîtrise de votre budget."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur un compteur EDF au Mans",
+      "items": [
+        {
+          "q": "Dois-je contacter EDF pour faire remplacer mon compteur au Mans ?",
+          "a": "Pas nécessairement. EDF peut être votre fournisseur et traiter votre contrat, mais le remplacement ou le dépannage du compteur relève du gestionnaire de réseau, généralement Enedis dans les zones qu’il dessert. Consultez le courrier reçu ou votre facture pour identifier l’interlocuteur compétent."
+        },
+        {
+          "q": "Le remplacement par un compteur communicant est-il payant ?",
+          "a": "Lorsqu’il est organisé dans le cadre normal du renouvellement du parc par le gestionnaire de réseau, vous n’achetez généralement pas le compteur ni ne réglez l’intervention directement sur place. En revanche, une demande particulière de votre part — déplacement, modification de branchement, travaux d’accès — peut être facturée selon le barème applicable."
+        },
+        {
+          "q": "Combien de temps l’électricité est-elle coupée lors d’un changement de compteur ?",
+          "a": "Pour une intervention simple, la coupure est souvent brève, de l’ordre de quelques dizaines de minutes. Sa durée dépend toutefois de l’accessibilité, de l’état de l’installation et des éventuels contrôles nécessaires. Prévoyez de protéger vos équipements sensibles et de ne pas programmer d’activité critique sur ce créneau."
+        },
+        {
+          "q": "Mon compteur disjoncte souvent : faut-il augmenter la puissance ?",
+          "a": "Pas automatiquement. Commencez par noter les équipements en fonctionnement au moment de la coupure. Si la puissance souscrite est réellement dépassée, une hausse peut être pertinente. Mais une panne d’appareil, un circuit surchargé ou un défaut du tableau peuvent produire des symptômes similaires et doivent être vérifiés par un électricien."
+        },
+        {
+          "q": "Puis-je changer de fournisseur sans changer de compteur ?",
+          "a": "Oui. Le compteur et le réseau ne changent pas lorsque vous choisissez un autre fournisseur. Le changement porte sur le contrat commercial ; l’électricité est acheminée par le même réseau. Méfiez-vous donc de toute présentation laissant entendre qu’un nouveau contrat est obligatoire pour remplacer le compteur."
+        },
+        {
+          "q": "Qui contacter en cas de danger électrique ou de panne générale ?",
+          "a": "Si vous observez un câble au sol, une odeur de brûlé, des étincelles ou un danger immédiat, éloignez-vous, ne touchez à rien et contactez les secours si nécessaire. Pour une panne touchant le réseau ou plusieurs logements, utilisez le canal de dépannage du gestionnaire de réseau indiqué sur votre facture ou son site officiel. Pour un défaut limité à votre tableau ou à vos prises, faites appel à un électricien qualifié."
+        }
+      ]
+    }
+  ]
+}

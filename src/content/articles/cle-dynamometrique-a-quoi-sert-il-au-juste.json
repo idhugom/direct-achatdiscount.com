@@ -1,0 +1,141 @@
+{
+  "title": "Clé dynamométrique : à quoi sert-il au juste ?",
+  "slug": "cle-dynamometrique-a-quoi-sert-il-au-juste",
+  "path": "/divers/cle-dynamometrique-a-quoi-sert-il-au-juste.html",
+  "category": "auto-moto",
+  "tags": [
+    "clé dynamométrique",
+    "couple de serrage",
+    "entretien auto",
+    "roues voiture",
+    "outillage mécanique"
+  ],
+  "excerpt": "La clé dynamométrique permet d’appliquer un couple de serrage précis. Types, plages, budget, utilisation et entretien : le guide utile.",
+  "metaDescription": "Comprenez l’utilité d’une clé dynamométrique, choisissez la bonne plage de couple et serrez roues et pièces mécaniques sans erreur.",
+  "seoTitle": "Clé dynamométrique : à quoi sert-elle vraiment ?",
+  "heroKicker": "Serrer juste",
+  "readingTime": 12,
+  "date": "2018-05-22T12:11:43",
+  "image": {
+    "id": "206",
+    "alt": "Clé dynamométrique : à quoi sert-il au juste ?",
+    "width": 600,
+    "height": 265
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une clé dynamométrique ne sert pas à serrer « très fort » : elle sert à serrer <strong>exactement à la force de rotation prescrite</strong>. Indispensable pour des éléments de sécurité comme les roues, elle évite aussi bien le desserrage qu’un filetage abîmé, un joint écrasé ou une pièce déformée."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le couple de serrage, exprimé en newton-mètres (N·m), est une consigne du constructeur : il ne se devine pas au ressenti.",
+        "Pour les écrous ou boulons de roue d’une voiture, une clé à déclenchement couvrant environ <strong>40 à 200 N·m</strong> convient souvent, mais la valeur à appliquer dépend exclusivement du véhicule.",
+        "Une clé dynamométrique sert au <strong>serrage final</strong>, pas à débloquer une vis grippée ni à retirer des boulons.",
+        "Choisissez une plage dont la valeur d’usage se situe idéalement dans la partie centrale ; une clé trop grande est imprécise pour les petits couples.",
+        "Après usage, une clé à ressort doit généralement être remise à son réglage minimal, puis rangée au sec dans son coffret."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’est-ce qu’une clé dynamométrique ?",
+      "id": "qu-est-ce-qu-une-cle-dynamometrique"
+    },
+    {
+      "type": "paragraph",
+      "html": "La clé dynamométrique est un outil de serrage qui permet d’appliquer un <strong>couple</strong> défini à une vis, un écrou ou un boulon. Le couple correspond à une force de rotation : plus il est élevé, plus l’assemblage est serré. Son unité est le newton-mètre, noté N·m. Contrairement à une clé à cliquet ordinaire ou à une croix de roue, elle donne un repère objectif et reproductible : vous n’arrêtez pas de serrer « quand cela semble assez », mais lorsque la valeur demandée est atteinte."
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des modèles grand public sont dits <strong>à déclenchement</strong>. Vous réglez la valeur sur la poignée ; quand le couple est atteint, le mécanisme émet un clic perceptible, parfois accompagné d’un léger basculement. Il faut alors cesser immédiatement le mouvement. D’autres modèles affichent la valeur en direct, par aiguille ou sur écran électronique. Tous poursuivent le même objectif : respecter une précharge de serrage adaptée à la pièce."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "N·m",
+          "label": "unité habituelle du couple de serrage mécanique"
+        },
+        {
+          "value": "±3 à ±4 %",
+          "label": "précision courante annoncée pour de nombreuses clés à déclenchement de qualité"
+        },
+        {
+          "value": "20–200 N·m",
+          "label": "ordre de grandeur couvert par une clé polyvalente destinée à l’automobile légère"
+        },
+        {
+          "value": "1 clic",
+          "label": "signal auquel il faut arrêter le serrage sur une clé à déclenchement"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi le couple de serrage est-il si important ?",
+      "id": "pourquoi-le-couple-de-serrage-est-il-si-important"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un boulon ne maintient pas deux pièces parce que son écrou est simplement « au contact ». En étant serré, il s’allonge très légèrement et crée une force de maintien. Si le couple est insuffisant, les vibrations, les cycles de chauffe et les contraintes mécaniques peuvent favoriser un desserrage. S’il est excessif, vous risquez au contraire d’étirer la vis au-delà de sa zone de fonctionnement, de foirer le filetage, de casser une fixation ou de déformer l’élément serré."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur une automobile, les fixations de roues sont le cas d’usage le plus connu. Un serrage irrégulier peut plaquer la jante de travers ou compliquer son démontage. Sur le moteur, la culasse, le cache-culbuteurs, le carter, les bougies, les injecteurs ou certains capteurs ont également des consignes précises. Un excès de couple peut être particulièrement coûteux sur un bloc en aluminium, une pièce en plastique technique ou une petite vis de faible diamètre."
+    },
+    {
+      "type": "table",
+      "caption": "Situations courantes où le serrage au couple compte réellement",
+      "headers": [
+        "Élément",
+        "Pourquoi respecter la valeur prescrite",
+        "Niveau de vigilance"
+      ],
+      "rows": [
+        [
+          "Boulons ou écrous de roue",
+          "Sécurité, bon appui de la jante, démontage ultérieur possible",
+          "Très élevé"
+        ],
+        [
+          "Bougies d’allumage ou de préchauffage",
+          "Éviter un filetage endommagé dans la culasse et assurer l’étanchéité",
+          "Très élevé"
+        ],
+        [
+          "Bouchon de vidange et porte-filtre",
+          "Prévenir la fuite sans abîmer le carter ou le boîtier",
+          "Élevé"
+        ],
+        [
+          "Étrier de frein et supports",
+          "Maintenir des organes soumis à de fortes contraintes",
+          "Très élevé"
+        ],
+        [
+          "Pièces de vélo en carbone ou aluminium",
+          "Éviter l’écrasement d’un tube, d’une potence ou d’une tige de selle",
+          "Élevé"
+        ],
+        [
+          "Mobilier, bricolage courant",
+          "Utile si la notice impose un couple ; souvent non indispensable sinon",
+          "Modéré"
+        ]
+      ],
+      "note": "La valeur applicable se trouve dans la notice constructeur, une documentation technique fiable ou les instructions de la pièce montée. Elle peut différer selon la motorisation, la jante et la fixation."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas couple de serrage et force brute",
+      "html": "Un boulon de roue n’est pas mieux serré parce que vous ajoutez une rallonge au manche. Au-delà de la consigne, vous augmentez surtout le risque d’endommager la fixation et de rendre le prochain démontage très difficile. <strong>La bonne valeur est celle du constructeur, pas celle qui paraît rassurante.</strong>"
+    }
+  ]
+}

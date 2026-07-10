@@ -1,0 +1,422 @@
+{
+  "title": "Comment faire un audit ?",
+  "slug": "comment-faire-un-audit",
+  "path": "/divers/comment-faire-un-audit.html",
+  "category": "argent",
+  "tags": [
+    "audit",
+    "audit interne",
+    "gestion des risques",
+    "contrôle interne",
+    "plan d'action",
+    "diagnostic"
+  ],
+  "excerpt": "Objectif, périmètre, preuves, analyse et plan d’action : la méthode concrète pour mener un audit utile, qu’il soit interne ou confié à un expert.",
+  "metaDescription": "Apprenez à préparer, conduire et restituer un audit fiable : objectifs, méthode, preuves, risques, budget et plan d’action applicable à tout domaine.",
+  "seoTitle": "Comment faire un audit : méthode complète et fiable",
+  "heroKicker": "Méthode rigoureuse",
+  "readingTime": 12,
+  "date": "2022-09-14T11:46:52",
+  "image": {
+    "id": "415",
+    "alt": "Comment faire un audit ?",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Faire un audit ne consiste pas à remplir une grille de contrôle ni à chercher des fautes. C’est une démarche structurée qui permet de comparer une situation réelle à des exigences définies, d’identifier les écarts et de décider quoi corriger en priorité. Bien mené, un audit devient un outil de pilotage très concret, qu’il concerne une entreprise, des finances, un site web, un logement ou un processus de travail."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un audit utile part toujours d’un <strong>objectif précis</strong> : conformité, performance, sécurité, coûts, qualité ou risques.",
+        "Délimitez un périmètre réaliste et des critères vérifiables avant de demander le moindre document.",
+        "Les conclusions doivent reposer sur des <strong>preuves traçables</strong>, pas sur des impressions ou des déclarations non vérifiées.",
+        "Un rapport sans priorités, responsables et échéances reste un constat : le plan d’action est la partie qui crée de la valeur.",
+        "L’indépendance de la personne qui audite conditionne la crédibilité du résultat, même pour un audit réalisé en interne."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’est-ce qu’un audit, et à quoi sert-il vraiment ?",
+      "id": "qu-est-ce-qu-un-audit-et-a-quoi-sert-il-vraiment"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un audit est un examen méthodique d’une activité, d’un système, de documents ou de pratiques. Son objectif est de déterminer si ce qui est observé respecte un référentiel donné : une loi, une norme, une procédure interne, un budget, un cahier des charges, des objectifs de qualité ou de sécurité. L’auditeur ne se contente donc pas de décrire : il collecte des éléments, les confronte à des critères, puis formule des conclusions justifiées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot couvre des réalités très différentes. Un audit comptable ou financier vérifie la fiabilité des comptes et des contrôles. Un audit interne examine les risques et l’efficacité des processus. Un audit énergétique étudie les consommations et les pistes de réduction. Un audit SEO analyse la visibilité d’un site, tandis qu’un audit de cybersécurité cherche les vulnérabilités techniques et organisationnelles. La méthode de fond reste semblable, mais le référentiel, les compétences attendues et les preuves à réunir changent."
+    },
+    {
+      "type": "table",
+      "caption": "Les grandes familles d’audit et leur finalité",
+      "headers": [
+        "Type d’audit",
+        "Question principale",
+        "Éléments examinés",
+        "Résultat attendu"
+      ],
+      "rows": [
+        [
+          "Interne / organisationnel",
+          "Les processus sont-ils maîtrisés ?",
+          "Procédures, entretiens, indicateurs, dossiers",
+          "Écarts, risques et actions correctives"
+        ],
+        [
+          "Financier / comptable",
+          "Les données sont-elles fiables et les contrôles suffisants ?",
+          "Pièces comptables, rapprochements, validations",
+          "Anomalies, faiblesses de contrôle, recommandations"
+        ],
+        [
+          "Conformité",
+          "Les obligations applicables sont-elles respectées ?",
+          "Registres, contrats, affichages, pratiques",
+          "Niveau de conformité et mesures de mise en règle"
+        ],
+        [
+          "Énergétique / technique",
+          "Où se situent les consommations ou dysfonctionnements ?",
+          "Factures, équipements, relevés, usages",
+          "Scénarios d’amélioration chiffrés par ordre de priorité"
+        ],
+        [
+          "Numérique, SEO ou cybersécurité",
+          "Le dispositif est-il performant et sécurisé ?",
+          "Configuration, contenus, accès, traces techniques",
+          "Priorités techniques et plan de remédiation"
+        ]
+      ],
+      "note": "Le référentiel doit être connu dès le départ : on ne peut pas conclure à un « écart » sans règle, objectif ou exigence de comparaison."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Audit, contrôle et diagnostic : ne les confondez pas",
+      "html": "Un <strong>contrôle</strong> vérifie souvent un point précis à un instant donné. Un <strong>diagnostic</strong> cherche surtout à comprendre une situation et ses causes. L’<strong>audit</strong>, lui, suit une démarche documentée : il examine un périmètre au regard de critères explicites et débouche sur des constats étayés. Dans la pratique, un bon audit intègre souvent une part de diagnostic pour expliquer les écarts."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir le bon objectif et le bon périmètre",
+      "id": "choisir-le-bon-objectif-et-le-bon-perimetre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La principale cause d’un audit décevant est un cadrage trop vague. « Auditer l’entreprise » ou « vérifier le site » ne permet ni de planifier le travail ni de produire une conclusion exploitable. Commencez par transformer votre besoin en question décisionnelle : voulez-vous réduire un risque réglementaire, préparer une certification, diminuer des dépenses, fiabiliser une clôture comptable, améliorer le parcours client ou vérifier l’application d’une procédure ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’objectif doit ensuite être traduit en périmètre. Celui-ci précise les entités concernées, les activités, les périodes, les sites, les outils et les exclusions. Par exemple, un audit des achats peut porter sur les commandes supérieures à un seuil interne, réalisées sur les douze derniers mois, dans une seule filiale. Cette délimitation évite deux écueils : un travail démesuré et des conclusions qui semblent globales alors qu’elles ne reposent que sur quelques observations."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les questions à trancher avant de démarrer",
+      "items": [
+        "Quelle décision cet audit doit-il éclairer, et pour qui ?",
+        "Quel référentiel servira de base : règle légale, norme, procédure, budget, objectif interne ou bonnes pratiques ?",
+        "Quelles activités, équipes, outils, sites et périodes sont inclus ou exclus ?",
+        "Quel niveau d’assurance recherchez-vous : revue rapide, contrôle ciblé ou examen approfondi ?",
+        "Quels documents et quelles personnes devront être accessibles ?",
+        "Qui validera les constats et qui pourra décider des actions ?"
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 objectif",
+          "label": "clair avant de définir les contrôles à mener"
+        },
+        {
+          "value": "4 phases",
+          "label": "cadrer, vérifier, conclure, suivre"
+        },
+        {
+          "value": "3 niveaux",
+          "label": "utile pour classer les écarts : critique, majeur, à améliorer"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer l’audit : référentiel, critères et programme de travail",
+      "id": "preparer-l-audit-referentiel-criteres-et-programme-de-travai"
+    },
+    {
+      "type": "paragraph",
+      "html": "La préparation conditionne la qualité de tout le reste. Réunissez d’abord les textes et documents qui définissent ce qui devrait être fait : réglementation applicable, contrats, politique interne, modes opératoires, objectifs annuels, schémas de validation, tableaux de bord et précédents rapports. Si les règles sont contradictoires, obsolètes ou introuvables, notez-le : c’est déjà un constat important, car une équipe ne peut pas appliquer de manière homogène une règle qui n’est pas claire."
+    },
+    {
+      "type": "paragraph",
+      "html": "À partir de ce référentiel, construisez une grille d’audit. Pour chaque exigence, indiquez ce que vous allez vérifier, la preuve attendue, la méthode de vérification et le risque en cas de non-respect. Une bonne grille ne se réduit pas à des réponses « oui/non ». Elle prévoit un espace pour la source de l’information, les exceptions observées, les pièces consultées et la conclusion. Vous devez pouvoir expliquer, plusieurs semaines après, pourquoi un constat a été formulé."
+    },
+    {
+      "type": "steps",
+      "title": "Construire un programme d’audit exploitable",
+      "items": [
+        {
+          "title": "Cartographiez le processus",
+          "text": "Décrivez les étapes réelles, les intervenants, les outils utilisés et les points de décision. Ne recopiez pas seulement la procédure officielle : cherchez comment le travail est effectivement réalisé."
+        },
+        {
+          "title": "Repérez les risques",
+          "text": "Ciblez les étapes où une erreur, une fraude, une non-conformité, une perte financière, une atteinte aux données ou une interruption de service peut survenir."
+        },
+        {
+          "title": "Transformez les risques en tests",
+          "text": "Exemple : si le risque est une validation insuffisante, vérifiez sur un échantillon que les validations prévues existent, sont datées et réalisées par une personne habilitée."
+        },
+        {
+          "title": "Planifiez les ressources",
+          "text": "Prévoyez les entretiens, l’accès aux systèmes, les demandes documentaires, les dates de restitution et un interlocuteur disponible pour lever les ambiguïtés."
+        },
+        {
+          "title": "Définissez les règles de classement",
+          "text": "Fixez avant les tests ce qui distingue un écart critique d’une amélioration souhaitable. Cela limite les débats subjectifs au moment de la restitution."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Privilégiez l’approche par les risques",
+      "html": "Vous n’avez pas besoin de tout tester avec la même intensité. Consacrez davantage de temps aux activités à fort impact financier, légal, humain, opérationnel ou réputationnel. Un contrôle rarement utilisé mais décisif mérite plus d’attention qu’une formalité sans conséquence réelle."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mener les vérifications : obtenir des preuves, pas seulement des réponses",
+      "id": "mener-les-verifications-obtenir-des-preuves-pas-seulement-de"
+    },
+    {
+      "type": "paragraph",
+      "html": "La phase terrain combine généralement revue documentaire, entretiens, observation directe et tests sur des cas réels. Les entretiens sont indispensables pour comprendre les pratiques, mais ils ne suffisent pas à démontrer qu’une règle est appliquée. Lorsqu’une personne affirme qu’un contrôle est réalisé chaque mois, demandez comment il est matérialisé : compte rendu, journal système, signature, rapprochement, tableau de suivi, alerte ou ticket de résolution."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour tester correctement, choisissez un échantillon cohérent. Il peut être aléatoire, ciblé sur les montants les plus importants, sur les exceptions, sur une période sensible ou sur les opérations inhabituelles. L’essentiel est de documenter votre méthode et ses limites. Tester quelques dossiers ne permet pas d’affirmer que tout le processus est conforme ; cela permet de conclure sur les éléments examinés et de signaler un risque lorsque les anomalies observées sont répétées ou significatives."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les preuves les plus solides dans un audit",
+      "items": [
+        "Les enregistrements issus d’un système, journaux d’accès, historiques de validation et données horodatées.",
+        "Les contrats, factures, comptes rendus, procédures validées et pièces originales.",
+        "L’observation directe d’une opération ou d’un contrôle en fonctionnement.",
+        "Les confirmations obtenues auprès d’un tiers indépendant, lorsque cela est pertinent.",
+        "Les entretiens recoupés par des documents ou par des tests concrets."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Restez factuel dans vos notes. Écrivez par exemple : « Sur les dossiers consultés, l’autorisation prévue n’était pas disponible dans tel cas » plutôt que « l’équipe ne respecte jamais la procédure ». Un constat doit distinguer le <strong>fait observé</strong>, le <strong>critère applicable</strong>, la <strong>conséquence ou le risque</strong> et, lorsque cela est possible, la <strong>cause probable</strong>. Cette structure rend votre raisonnement solide et facilite l’acceptation des recommandations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Analyser les écarts et prioriser les recommandations",
+      "id": "analyser-les-ecarts-et-prioriser-les-recommandations"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un écart n’a pas la même gravité selon son contexte. Une pièce manquante peut être sans conséquence si le contrôle est prouvé par ailleurs ; à l’inverse, une absence de séparation des rôles dans un processus de paiement peut exposer l’organisation à un risque important. Pour prioriser, croisez au minimum l’impact potentiel, la probabilité de survenance, l’étendue de l’écart, l’existence de contrôles compensatoires et l’urgence de correction."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez les recommandations génériques du type « renforcer les contrôles ». Elles ne disent ni quoi faire ni comment le vérifier. Préférez une mesure précise : mettre en place une validation à deux niveaux au-delà d’un seuil défini, réviser les habilitations chaque trimestre, centraliser la preuve de contrôle dans un outil ou former les personnes concernées. Chaque recommandation doit être proportionnée au risque : un remède complexe et coûteux pour un risque faible sera rarement appliqué."
+    },
+    {
+      "type": "table",
+      "caption": "Exemple de grille de priorisation des constats",
+      "headers": [
+        "Niveau",
+        "Situation typique",
+        "Réponse attendue",
+        "Délai de traitement"
+      ],
+      "rows": [
+        [
+          "Critique",
+          "Risque grave immédiat, obligation majeure non respectée, faille pouvant causer un dommage important",
+          "Mesure de protection immédiate, information de la direction, plan correctif formalisé",
+          "Sans attendre ou à très court terme"
+        ],
+        [
+          "Majeur",
+          "Contrôle essentiel absent, inefficace ou appliqué de façon irrégulière",
+          "Responsable désigné, action corrective, preuve de mise en œuvre",
+          "Court terme selon le risque"
+        ],
+        [
+          "Modéré",
+          "Pratique perfectible ou documentation insuffisante sans risque imminent",
+          "Amélioration intégrée à la feuille de route de l’équipe",
+          "Échéance planifiée et suivie"
+        ],
+        [
+          "Mineur",
+          "Écart ponctuel à faible impact ou optimisation possible",
+          "Correction simple, rappel de procédure ou ajustement local",
+          "Lors du cycle de suivi habituel"
+        ]
+      ],
+      "note": "Les noms des niveaux importent moins que des critères de classement compris et validés par tous les destinataires du rapport."
+    },
+    {
+      "type": "comparison",
+      "title": "Audit interne ou audit externe : quel choix faire ?",
+      "left": {
+        "title": "Réaliser l’audit en interne",
+        "points": [
+          "Coût direct souvent plus limité si les compétences et le temps sont disponibles.",
+          "Bonne connaissance du contexte, des outils et de l’historique.",
+          "Suivi des actions généralement plus simple au quotidien.",
+          "Risque de manque de recul ou de conflit d’intérêts si l’auditeur examine son propre travail."
+        ]
+      },
+      "right": {
+        "title": "Faire appel à un intervenant externe",
+        "points": [
+          "Regard indépendant et expertise spécialisée, utile sur un sujet technique ou réglementaire.",
+          "Méthode souvent plus structurée et comparaisons issues de missions variées.",
+          "Budget plus élevé et temps nécessaire pour transmettre le contexte.",
+          "À privilégier lorsque l’impartialité, la crédibilité du rapport ou une compétence rare sont déterminantes."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "L’auto-audit : une bonne solution dans certains cas",
+      "pros": [
+        "Permet de repérer rapidement les dysfonctionnements avant qu’ils ne deviennent coûteux.",
+        "Favorise l’appropriation des procédures par les équipes opérationnelles.",
+        "Peut être répété facilement avec une grille stable.",
+        "Convient aux revues périodiques de conformité simple ou de performance."
+      ],
+      "cons": [
+        "L’objectivité est limitée lorsque l’on évalue ses propres décisions.",
+        "Les écarts structurels peuvent être banalisés par habitude.",
+        "Certaines obligations ou sujets spécialisés exigent un professionnel qualifié.",
+        "Un auto-audit ne remplace pas toujours une vérification indépendante demandée par un client, un assureur ou une autorité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rédiger le rapport et transformer l’audit en plan d’action",
+      "id": "rediger-le-rapport-et-transformer-l-audit-en-plan-d-action"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le rapport doit être compréhensible par un décideur qui n’a pas participé aux travaux. Commencez par un résumé exécutif : objectif, périmètre, période, limites éventuelles et principaux messages. Détaillez ensuite la méthode utilisée, puis présentez les constats par niveau de priorité. Pour chacun, indiquez le fait, le critère, le risque, la recommandation et la réponse du responsable concerné. N’enfouissez pas les points critiques dans une longue annexe."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’audit n’est terminé qu’après le suivi. Créez un plan d’action qui attribue à chaque mesure un pilote, une échéance, les moyens nécessaires et une preuve attendue de réalisation. Une action « mettre à jour la procédure » n’est pas suffisante si personne ne vérifie qu’elle a été validée, diffusée, comprise et appliquée. Planifiez une revue de suivi pour vérifier l’efficacité réelle de la correction, et non sa seule déclaration."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "La correction apparente n’est pas toujours une correction efficace",
+      "html": "Fermer une action parce qu’un document a été rédigé peut masquer le problème. Demandez une preuve d’efficacité : nouveaux dossiers conformes, baisse des erreurs, test de l’accès retiré, formation attestée ou contrôle rejoué avec succès. Sans cette vérification, vous risquez de recréer le même constat au prochain audit."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, durée et ressources : prévoir des ordres de grandeur réalistes",
+      "id": "budget-duree-et-ressources-prevoir-des-ordres-de-grandeur-re"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût d’un audit dépend avant tout du périmètre, de la sensibilité du sujet, du volume de documents, de l’accessibilité des données et du niveau d’expertise requis. Une revue ciblée menée avec une grille existante peut prendre de quelques heures à quelques jours. Un audit transversal impliquant plusieurs services, sites ou systèmes exige fréquemment plusieurs semaines, surtout si les preuves sont dispersées ou si les processus ne sont pas documentés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous sollicitez un prestataire, raisonnez en enveloppe plutôt qu’en tarif isolé. Les missions simples et très limitées peuvent relever d’un budget de quelques centaines à quelques milliers d’euros. Un audit spécialisé, réglementé, technique ou couvrant plusieurs entités peut représenter plusieurs milliers d’euros, voire davantage. Demandez un devis qui sépare clairement préparation, investigations, réunions, rapport, restitution et éventuel suivi. Vérifiez aussi ce qui est exclu : déplacements, tests techniques approfondis, entretiens supplémentaires ou accompagnement à la mise en œuvre."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Pour comparer deux propositions d’audit",
+      "items": [
+        "Exigez une description du périmètre et des exclusions, pas seulement un intitulé de mission.",
+        "Vérifiez les compétences précises de l’intervenant sur votre sujet, pas uniquement son titre général.",
+        "Comparez le nombre de jours prévus, les méthodes de test et les livrables annoncés.",
+        "Demandez comment sont gérés la confidentialité, les données sensibles et les conflits d’intérêts.",
+        "Assurez-vous qu’un temps de restitution et de questions est inclus.",
+        "Privilégiez une proposition qui prévoit un plan d’action hiérarchisé plutôt qu’une simple liste d’observations."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs à éviter pour garder un audit crédible et utile",
+      "id": "les-erreurs-a-eviter-pour-garder-un-audit-credible-et-utile"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de commencer les entretiens avant d’avoir défini les critères. Vous risquez alors d’accumuler des opinions sans savoir ce que vous cherchez à démontrer. La deuxième est de confondre rapidité et précipitation : un audit ciblé est efficace, un audit bâclé produit des conclusions fragiles. La troisième est de vouloir tout couvrir. Si vos moyens sont limités, annoncez un périmètre restreint et concentrez-vous sur les risques les plus élevés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également un ton accusateur. L’objectif est de sécuriser et d’améliorer, non de désigner des coupables. Les équipes seront d’autant plus transparentes qu’elles comprennent la finalité de la démarche et que les constats distinguent les causes individuelles d’un problème d’organisation : procédure irréaliste, outil mal paramétré, responsabilités confuses, charge excessive ou formation insuffisante. Enfin, ne sous-estimez jamais la confidentialité : les documents collectés peuvent contenir des données personnelles, financières ou stratégiques qui doivent être protégées dès la phase de préparation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adapter la méthode à votre situation : petite structure, particulier ou projet ponctuel",
+      "id": "adapter-la-methode-a-votre-situation-petite-structure-partic"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une petite structure, l’audit doit rester proportionné. Inutile de reproduire une méthodologie lourde réservée aux grands groupes : choisissez un sujet à risque, une période définie, une grille courte et des preuves faciles à conserver. Par exemple, un dirigeant peut auditer chaque trimestre le circuit de facturation, les accès aux comptes sensibles ou le suivi des contrats. Le regard d’un expert extérieur reste toutefois précieux si les personnes se cumulent les rôles ou si un enjeu réglementaire est en jeu."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un particulier, le mot audit désigne souvent une analyse approfondie avant une décision : audit énergétique avant travaux, audit patrimonial, audit de sécurité d’un logement ou audit d’un site professionnel. La logique demeure identique : clarifier la décision à prendre, fournir les informations disponibles, demander les critères et livrables avant de s’engager, puis comparer les recommandations selon leur coût, leur urgence et leur bénéfice attendu. Méfiez-vous d’un rapport qui recommande uniquement des prestations vendues par son auteur sans expliquer les alternatives."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la réalisation d’un audit",
+      "items": [
+        {
+          "q": "Quelle est la différence entre un audit et un diagnostic ?",
+          "a": "Le diagnostic cherche principalement à comprendre une situation et ses causes. L’audit ajoute une comparaison structurée avec un référentiel précis : règle, norme, procédure ou objectif. Il formule donc des constats fondés sur des preuves et, généralement, des recommandations priorisées."
+        },
+        {
+          "q": "Peut-on faire un audit soi-même ?",
+          "a": "Oui, pour une revue interne simple et régulière, à condition d’utiliser une grille claire, de conserver les preuves et de rester factuel. En revanche, faites intervenir une personne indépendante pour un sujet sensible, très technique, réglementé, ou lorsqu’un regard extérieur est nécessaire pour crédibiliser les conclusions."
+        },
+        {
+          "q": "Combien de temps faut-il pour faire un audit ?",
+          "a": "Une vérification ciblée peut prendre quelques heures ou quelques jours. Un audit couvrant plusieurs processus, interlocuteurs ou sites peut s’étaler sur plusieurs semaines. La disponibilité des documents et la qualité de l’organisation existante influencent fortement la durée."
+        },
+        {
+          "q": "Quels documents faut-il préparer avant un audit ?",
+          "a": "Préparez le référentiel applicable, les procédures, les organigrammes ou responsabilités, les indicateurs, les contrats et les échantillons de dossiers liés au périmètre. Ajoutez les précédents contrôles, incidents, plans d’action et preuves de suivi : ils permettent de vérifier si les corrections annoncées sont réellement effectives."
+        },
+        {
+          "q": "Comment classer les écarts relevés pendant l’audit ?",
+          "a": "Évaluez leur impact potentiel, leur probabilité, le nombre de cas concernés, l’existence de contrôles compensatoires et l’urgence. Une classification simple en critique, majeur, modéré et mineur fonctionne bien si chaque niveau correspond à des critères écrits et partagés."
+        },
+        {
+          "q": "Que doit contenir un bon rapport d’audit ?",
+          "a": "Il doit indiquer l’objectif, le périmètre, la période, le référentiel, la méthode et les limites de la mission. Chaque constat doit présenter le fait observé, le critère non respecté ou l’écart, le risque, la recommandation, sa priorité, un responsable et une échéance de traitement."
+        }
+      ]
+    }
+  ]
+}

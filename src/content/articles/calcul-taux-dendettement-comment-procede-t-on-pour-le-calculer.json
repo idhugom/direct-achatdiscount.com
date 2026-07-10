@@ -1,0 +1,439 @@
+{
+  "title": "Calcul taux d’endettement : comment procède-t-on pour le calculer ?",
+  "slug": "calcul-taux-dendettement-comment-procede-t-on-pour-le-calculer",
+  "path": "/divers/calcul-taux-dendettement-comment-procede-t-on-pour-le-calculer.html",
+  "category": "argent",
+  "tags": [
+    "taux d'endettement",
+    "crédit immobilier",
+    "budget",
+    "prêt bancaire",
+    "reste à vivre",
+    "capacité d'emprunt"
+  ],
+  "excerpt": "La méthode simple pour calculer votre taux d’endettement, savoir quelles charges retenir et estimer la marge réelle de votre budget avant un crédit.",
+  "metaDescription": "Apprenez à calculer votre taux d’endettement, revenus et charges à inclure, seuils bancaires, reste à vivre et erreurs à éviter avant un crédit.",
+  "seoTitle": "Calcul du taux d’endettement : méthode et exemples",
+  "heroKicker": "Budget sous contrôle",
+  "readingTime": 11,
+  "date": "2018-02-27T07:42:16",
+  "image": {
+    "id": "266",
+    "alt": "Calcul taux d’endettement : comment procède-t-on pour le calculer ?",
+    "width": 430,
+    "height": 200
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le taux d’endettement est l’un des premiers indicateurs examinés avant l’obtention d’un crédit immobilier, d’un prêt auto ou d’un financement à la consommation. Son calcul paraît élémentaire, mais les revenus et les charges retenus ne sont pas toujours ceux que vous imaginez : pour obtenir une estimation utile, il faut reproduire le raisonnement de la banque et le compléter par votre reste à vivre."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La formule est simple : <strong>charges de crédit mensuelles ÷ revenus mensuels retenus × 100</strong>.",
+        "Les mensualités comprennent en principe le capital, les intérêts et l’assurance emprunteur ; tous les crédits déjà en cours comptent aussi.",
+        "Le seuil de 35 % est un <strong>repère courant</strong> pour un projet immobilier, mais il ne garantit ni l’accord ni le refus d’un dossier.",
+        "Le taux seul ne suffit pas : une banque regarde également le <strong>reste à vivre</strong>, la stabilité des revenus, l’épargne et la durée du crédit.",
+        "Pour anticiper correctement votre projet, calculez un ratio « bancaire » puis un budget réel incluant vos dépenses courantes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’est-ce que le taux d’endettement ?",
+      "id": "qu-est-ce-que-le-taux-d-endettement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le taux d’endettement mesure la part de vos revenus mensuels déjà absorbée par vos remboursements de crédits et, selon la situation, par certaines charges fixes assimilées. Il permet au prêteur d’évaluer si une nouvelle mensualité reste compatible avec vos ressources sans fragiliser votre budget."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le cadre d’un achat immobilier, cet indicateur est souvent appelé <strong>taux d’effort</strong>. La terminologie peut varier, tout comme le détail des éléments retenus, mais la logique demeure identique : comparer le poids total des engagements de crédit aux revenus considérés comme réguliers et pérennes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il ne faut pas le confondre avec la capacité d’emprunt. Le taux d’endettement exprime un pourcentage une fois les mensualités connues ; la capacité d’emprunt estime le montant qu’il est possible de financer en fonction d’une mensualité maximale, d’une durée et d’un taux de crédit. Ces deux calculs se nourrissent l’un l’autre."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "35 %",
+          "label": "repère d’effort fréquemment utilisé pour les financements immobiliers"
+        },
+        {
+          "value": "2 données",
+          "label": "indispensables au calcul de base : revenus retenus et charges mensuelles"
+        },
+        {
+          "value": "0 crédit",
+          "label": "n’implique pas automatiquement une capacité d’emprunt élevée : le reste à vivre reste déterminant"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La formule de calcul, simplement",
+      "id": "la-formule-de-calcul-simplement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le calcul standard s’écrit ainsi : <strong>(total des charges mensuelles de crédit ÷ total des revenus mensuels retenus) × 100</strong>. Le résultat s’exprime en pourcentage. Pour tester l’effet d’un nouveau prêt, ajoutez sa mensualité complète aux charges avant de faire la division."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La mensualité à retenir est la mensualité assurance comprise",
+      "html": "Pour un crédit immobilier, ne calculez pas uniquement l’échéance de prêt hors assurance. L’assurance emprunteur fait partie du coût mensuel réellement prélevé et est généralement intégrée à l’analyse. Si vous comparez plusieurs assurances, utilisez la mensualité totale de chaque scénario."
+    },
+    {
+      "type": "steps",
+      "title": "Calculer votre taux d’endettement en 4 étapes",
+      "items": [
+        {
+          "title": "Listez vos revenus mensuels fiables",
+          "text": "Additionnez les salaires nets réguliers, pensions, revenus indépendants retenus sur une base prudente et, le cas échéant, la part de revenus locatifs que votre interlocuteur accepte de considérer."
+        },
+        {
+          "title": "Recensez toutes vos échéances",
+          "text": "Relevez les mensualités de prêt immobilier, auto, personnel, renouvelable, travaux, ainsi que les pensions alimentaires versées. Ajoutez la mensualité estimée de votre nouveau financement."
+        },
+        {
+          "title": "Appliquez la formule",
+          "text": "Divisez le total des charges par le total des revenus, puis multipliez par 100. Conservez au moins une décimale pour comparer plusieurs simulations."
+        },
+        {
+          "title": "Vérifiez le budget après prélèvements",
+          "text": "Déduisez les charges de crédit et les dépenses incompressibles de vos revenus. Cette seconde étape révèle votre reste à vivre réel, que le pourcentage seul ne montre pas."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Exemple de calcul avec un nouveau crédit immobilier",
+      "id": "exemple-de-calcul-avec-un-nouveau-credit-immobilier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prenons un foyer disposant de <strong>4 200 € de revenus mensuels retenus</strong>. Il rembourse déjà un prêt automobile de 220 € par mois et envisage un crédit immobilier dont l’échéance, assurance incluse, serait de 1 120 € par mois. Ses charges de crédit s’élèvent donc à 1 340 € mensuels."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le calcul est le suivant : (1 340 ÷ 4 200) × 100 = <strong>31,9 %</strong>, soit environ 32 %. Le projet se situe sous le repère souvent évoqué de 35 %, mais l’analyse ne s’arrête pas là. Le foyer doit encore assumer les impôts, l’alimentation, les transports, les charges de logement, les frais liés aux enfants et les imprévus. Une banque vérifiera donc aussi la qualité des comptes et l’épargne disponible."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quels revenus faut-il inclure dans le calcul ?",
+      "id": "quels-revenus-faut-il-inclure-dans-le-calcul"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une première simulation personnelle, partez de vos revenus réellement encaissés chaque mois. Pour anticiper une décision bancaire, adoptez une approche plus stricte : le prêteur privilégie les ressources régulières, justifiables et susceptibles de durer pendant toute la période de remboursement. Les règles exactes diffèrent selon les établissements et votre profil."
+    },
+    {
+      "type": "table",
+      "caption": "Revenus : ce qui est généralement retenu avec prudence",
+      "headers": [
+        "Type de revenu",
+        "Traitement habituel dans une simulation bancaire",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Salaire fixe net",
+          "Souvent retenu intégralement lorsqu’il est stable",
+          "Utilisez une moyenne représentative si la rémunération varie."
+        ],
+        [
+          "Primes, commissions, heures supplémentaires",
+          "Souvent retenues sur une moyenne, si elles sont récurrentes",
+          "Une prime exceptionnelle ne doit pas servir à gonfler artificiellement le dossier."
+        ],
+        [
+          "Revenus d’indépendant ou de dirigeant",
+          "Analysés sur plusieurs exercices ou périodes comptables",
+          "La régularité et la pérennité priment sur un bon mois isolé."
+        ],
+        [
+          "Revenus locatifs",
+          "Souvent pris en compte seulement en partie",
+          "Vacance, impayés et charges du bien expliquent cette décote prudente."
+        ],
+        [
+          "Pension de retraite ou rente stable",
+          "Généralement intégrée si elle est justifiée",
+          "La durée du prêt doit rester cohérente avec la situation future."
+        ],
+        [
+          "Allocations et aides variables",
+          "Traitement variable selon leur nature et leur durée",
+          "Ne les considérez pas comme acquises à long terme sans confirmation."
+        ]
+      ],
+      "note": "La méthode de prise en compte dépend de la politique du prêteur. Une simulation en ligne donne un ordre de grandeur, pas une décision de crédit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un couple, les revenus peuvent être additionnés lorsque les deux emprunteurs sont engagés dans le prêt. En revanche, si l’un des revenus est récent, irrégulier ou lié à une période d’essai, il peut être retenu partiellement, voire écarté temporairement. Mieux vaut bâtir votre budget sur le scénario prudent plutôt que sur le montant le plus flatteur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelles charges entrent dans le numérateur ?",
+      "id": "quelles-charges-entrent-dans-le-numerateur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le numérateur correspond aux engagements de remboursement. Il faut y inscrire chaque prélèvement de crédit existant, même si son montant vous semble modeste, ainsi que la mensualité du prêt envisagé. Oublier un crédit renouvelable, un financement d’électroménager ou une location avec option d’achat peut fausser fortement le résultat."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Charges à vérifier avant toute simulation",
+      "items": [
+        "Mensualités de prêts immobiliers déjà détenus, assurance incluse.",
+        "Mensualités de crédit auto, moto, travaux, personnel ou étudiant.",
+        "Échéances de crédit renouvelable et paiements fractionnés lorsqu’ils créent un engagement récurrent.",
+        "Loyers restant à payer si vous conservez votre logement actuel, par exemple dans le cadre d’un investissement locatif ou d’une résidence secondaire.",
+        "Pensions alimentaires versées, lorsqu’elles constituent une obligation durable.",
+        "Mensualité complète du crédit demandé, avec assurance emprunteur et éventuelles garanties facturées mensuellement."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Le loyer de votre résidence principale est un cas particulier. Si vous achetez votre future résidence principale et quittez votre logement loué, le loyer ne s’ajoute normalement pas à la nouvelle mensualité : il est remplacé par elle. En revanche, il doit être compté si vous gardez ce logement ou si les deux charges se chevauchent durablement. Les frais de copropriété, l’énergie, les abonnements et les courses ne sont pas toujours intégrés dans le ratio bancaire strict, mais ils sont essentiels pour évaluer votre budget personnel."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux crédits qui se terminent bientôt",
+      "html": "Un crédit dont la dernière échéance intervient dans quelques semaines peut parfois être traité différemment dans une étude de dossier, mais ne le rayez pas vous-même de votre calcul sans certitude. Tant qu’il est dû, il réduit votre marge. Le solder avant la demande peut améliorer le ratio, à condition de ne pas vider l’épargne nécessaire au projet."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "35 % d’endettement : un plafond ou un repère ?",
+      "id": "35-d-endettement-un-plafond-ou-un-repere"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le niveau de 35 % est largement utilisé comme repère pour l’octroi des crédits immobiliers aux particuliers. Il correspond généralement à un calcul incluant l’assurance emprunteur. Toutefois, il ne doit pas être interprété comme une frontière mécanique valable dans tous les cas : les conditions d’octroi, les marges de flexibilité des établissements et les critères internes peuvent évoluer."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un dossier à 33 % peut être refusé s’il présente des revenus instables, des découverts récurrents, un apport insuffisant ou un reste à vivre trop faible. À l’inverse, un dossier légèrement au-dessus du repère peut parfois être étudié favorablement si les revenus sont élevés, très stables et la capacité d’épargne démontrée. Il ne s’agit jamais d’un droit à emprunter."
+    },
+    {
+      "type": "comparison",
+      "title": "Taux d’endettement et reste à vivre : deux lectures complémentaires",
+      "left": {
+        "title": "Le taux d’endettement",
+        "points": [
+          "Exprime une part des revenus sous forme de pourcentage.",
+          "Permet de comparer rapidement plusieurs projets de financement.",
+          "Est très utile pour vérifier le respect des critères de crédit.",
+          "Ne décrit pas à lui seul le niveau de dépenses quotidien du foyer."
+        ]
+      },
+      "right": {
+        "title": "Le reste à vivre",
+        "points": [
+          "Correspond à l’argent restant après les charges de crédit.",
+          "S’apprécie en euros, selon la taille et les besoins du foyer.",
+          "Aide à anticiper alimentation, énergie, transports, enfants et imprévus.",
+          "Doit inclure les charges courantes, même si elles ne figurent pas dans le taux strict."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calculez aussi votre reste à vivre et votre marge de sécurité",
+      "id": "calculez-aussi-votre-reste-a-vivre-et-votre-marge-de-securit"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après le calcul du taux, réalisez un budget mensuel réaliste. Soustrayez de vos revenus les mensualités de crédit, mais aussi les dépenses fixes : logement, énergie, assurances, transports, impôts mensualisés, télécommunications, garde d’enfants, pensions, alimentation et dépenses de santé. Le montant restant doit permettre de vivre sans dépendre du découvert ni de l’épargne chaque mois."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette méthode est particulièrement importante pour les ménages modestes ou avec enfants : deux foyers affichant le même taux d’endettement n’ont pas la même situation si leurs revenus et leur composition familiale sont différents. Elle l’est tout autant pour un foyer aisé, car une hausse de charges, une baisse de revenus ou un logement ancien énergivore peuvent dégrader rapidement l’équilibre."
+    },
+    {
+      "type": "table",
+      "caption": "Lecture pratique d’un budget avant emprunt",
+      "headers": [
+        "Indicateur",
+        "Calcul",
+        "Utilité"
+      ],
+      "rows": [
+        [
+          "Taux d’endettement",
+          "Charges de crédit ÷ revenus × 100",
+          "Vérifier le poids relatif des remboursements."
+        ],
+        [
+          "Reste à vivre avant dépenses courantes",
+          "Revenus − charges de crédit",
+          "Mesurer la somme encore disponible après les prêts."
+        ],
+        [
+          "Reste à vivre réel",
+          "Revenus − crédits − dépenses fixes et courantes",
+          "Tester la viabilité quotidienne du budget."
+        ],
+        [
+          "Marge de sécurité",
+          "Reste à vivre réel − épargne mensuelle minimale souhaitée",
+          "Prévoir les imprévus sans recourir au crédit."
+        ]
+      ],
+      "note": "Conservez une ligne « imprévus » dans votre budget. Un projet confortable sur le papier peut devenir tendu dès la première dépense exceptionnelle."
+    },
+    {
+      "type": "proscons",
+      "title": "Pourquoi le taux d’endettement est utile, mais insuffisant",
+      "pros": [
+        "Calcul rapide et compréhensible pour comparer des scénarios.",
+        "Cadre objectif pour éviter de sous-estimer le poids d’une mensualité.",
+        "Permet d’identifier l’intérêt de rembourser un petit crédit avant un achat important.",
+        "Aide à fixer une mensualité cible plutôt qu’un montant d’emprunt irréaliste."
+      ],
+      "cons": [
+        "Ignore une grande partie des dépenses courantes lorsqu’il est utilisé seul.",
+        "Peut donner une image trompeuse pour les revenus fluctuants ou saisonniers.",
+        "Ne tient pas automatiquement compte des travaux, charges de copropriété ou coûts d’usage d’un bien.",
+        "N’intègre pas à lui seul la qualité de l’épargne, la tenue des comptes et le risque de changement de situation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui faussent le plus souvent le calcul",
+      "id": "les-erreurs-qui-faussent-le-plus-souvent-le-calcul"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à retenir le salaire brut ou à additionner des revenus occasionnels comme s’ils étaient garantis. La seconde est d’oublier l’assurance emprunteur : sur une longue durée, elle peut représenter une différence mensuelle sensible. Une autre confusion fréquente est de calculer le taux uniquement avec le nouveau prêt, sans les crédits existants."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas non plus apport et revenu. Un apport important améliore souvent le financement en réduisant le montant à emprunter, mais il n’entre pas dans le dénominateur du taux d’endettement. À l’inverse, vider toute votre épargne pour faire baisser la mensualité peut fragiliser le projet : un logement entraîne parfois des frais d’installation, de travaux ou d’équipement non négligeables."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Réflexes à adopter",
+      "items": [
+        "Basez vos calculs sur les montants <strong>nets effectivement perçus</strong> et documentables.",
+        "Utilisez les échéances réelles figurant sur vos tableaux d’amortissement ou contrats de crédit.",
+        "Faites une simulation avec une mensualité prudente, puis une seconde avec une éventuelle hausse de charges.",
+        "N’oubliez pas les coûts liés au bien : taxe foncière, copropriété, entretien, énergie, assurance habitation et travaux.",
+        "Ne multipliez pas les demandes de crédit à l’aveugle : préparez d’abord un dossier cohérent et complet."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment améliorer votre taux d’endettement avant de demander un crédit ?",
+      "id": "comment-ameliorer-votre-taux-d-endettement-avant-de-demander"
+    },
+    {
+      "type": "paragraph",
+      "html": "La façon la plus directe d’améliorer votre ratio est de réduire les charges mensuelles existantes. Solder un petit prêt à la consommation ou un crédit renouvelable peut avoir davantage d’effet qu’on ne le pense, surtout si votre projet se situe près du seuil étudié. Vérifiez toutefois le coût total d’un remboursement anticipé et préservez une épargne de précaution."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez aussi augmenter l’apport afin de diminuer le capital emprunté, choisir un bien moins coûteux, repousser le projet le temps de stabiliser vos revenus ou allonger la durée du prêt. Cette dernière solution réduit souvent la mensualité et donc le taux d’endettement, mais elle augmente habituellement le coût total du financement. C’est un arbitrage de budget, pas une amélioration gratuite."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Ne visez pas le maximum théorique à tout prix",
+      "html": "Même si votre dossier se situe sous le seuil habituellement observé, une mensualité plus basse peut vous donner une bien meilleure marge de manœuvre. Comparez toujours le coût total du crédit, le reste à vivre et votre capacité à épargner après l’achat, plutôt que de vous arrêter au montant maximal empruntable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particuliers : investissement locatif, revenus variables et regroupement de crédits",
+      "id": "cas-particuliers-investissement-locatif-revenus-variables-et"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un investissement locatif demande une analyse plus fine. Le futur loyer ne se traite généralement pas comme un salaire intégral, car il existe des périodes sans locataire, des charges, des travaux et un risque d’impayé. Selon les banques, l’étude peut s’appuyer sur un endettement « différentiel » ou sur l’ajout d’une fraction des loyers aux revenus. Demandez quelle méthode est appliquée avant de comparer les offres."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vos revenus varient — activité indépendante, commissions, intermittence, saisonnalité — utilisez une moyenne prudente sur plusieurs périodes et constituez une réserve de trésorerie. La meilleure mensualité n’est pas celle que vous pouvez payer pendant vos meilleurs mois, mais celle que vous pouvez supporter durant une période normale ou moins favorable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le regroupement de crédits peut abaisser la somme des mensualités et faire baisser le taux apparent. Mais une durée prolongée peut alourdir le coût global et maintenir l’endettement plus longtemps. Cette solution doit être comparée sur le coût total, les frais éventuels et le budget réellement disponible, non sur la seule baisse de l’échéance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un modèle de vérification avant votre rendez-vous bancaire",
+      "id": "un-modele-de-verification-avant-votre-rendez-vous-bancaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Préparez une feuille de calcul avec trois colonnes : revenus retenus, crédits existants et dépenses fixes. Ajoutez ensuite plusieurs hypothèses de nouvelle mensualité. Vous verrez immédiatement à partir de quel niveau votre ratio dépasse votre objectif et, surtout, quel reste à vivre demeure une fois toutes les dépenses essentielles prises en compte."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Documents et informations à réunir",
+      "items": [
+        "Vos derniers justificatifs de revenus et, si nécessaire, les éléments démontrant leur régularité.",
+        "Les tableaux d’amortissement ou relevés indiquant les mensualités restantes de tous vos crédits.",
+        "Vos relevés de compte récents, pour identifier découverts, dépenses récurrentes et capacité d’épargne.",
+        "Un budget prévisionnel du futur logement incluant charges, assurance, fiscalité et travaux connus.",
+        "Le montant de votre apport, mais aussi la somme que vous souhaitez conserver comme épargne de sécurité."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, considérez votre résultat comme un outil de décision et non comme un verdict. Un courtier ou un conseiller bancaire pourra appliquer ses propres règles de prise en compte des revenus et des charges. Arriver avec un calcul transparent, des justificatifs cohérents et une vision claire de votre budget vous permettra de discuter utilement de la mensualité, de la durée et du montage le plus adapté."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le calcul du taux d’endettement",
+      "items": [
+        {
+          "q": "Comment calculer rapidement mon taux d’endettement ?",
+          "a": "Additionnez toutes vos mensualités de crédit, y compris l’assurance emprunteur du prêt envisagé. Divisez ce total par vos revenus mensuels nets retenus, puis multipliez par 100. Exemple : 900 € de charges pour 3 000 € de revenus donnent un taux de 30 %."
+        },
+        {
+          "q": "Le loyer est-il inclus dans le taux d’endettement ?",
+          "a": "Si vous achetez votre résidence principale et quittez votre location, le loyer est généralement remplacé par la nouvelle mensualité et ne s’ajoute donc pas. Il doit en revanche être pris en compte si vous le conservez durablement, par exemple pour une résidence secondaire ou un investissement."
+        },
+        {
+          "q": "Quel taux d’endettement ne faut-il pas dépasser ?",
+          "a": "Pour un crédit immobilier, 35 % est un repère couramment utilisé, généralement assurance comprise. Ce n’est ni une garantie d’acceptation sous ce niveau ni un rejet automatique au-dessus : le reste à vivre, la stabilité des revenus, l’épargne et la qualité du dossier comptent aussi."
+        },
+        {
+          "q": "Les revenus locatifs comptent-ils à 100 % dans le calcul ?",
+          "a": "Pas nécessairement. Les banques en retiennent souvent une partie seulement afin de couvrir le risque de vacance locative, les charges et les impayés. La proportion et la méthode d’analyse varient selon l’établissement et le type de projet."
+        },
+        {
+          "q": "Faut-il inclure les dépenses courantes comme les courses ou l’électricité ?",
+          "a": "Elles ne figurent pas toujours dans la formule stricte du taux d’endettement, qui vise surtout les charges de crédit. Elles doivent toutefois être intégrées à votre calcul de reste à vivre réel : c’est indispensable pour savoir si la mensualité restera supportable au quotidien."
+        },
+        {
+          "q": "Rembourser un crédit avant d’emprunter est-il toujours une bonne idée ?",
+          "a": "Cela peut améliorer votre taux d’endettement en supprimant une mensualité, surtout pour un crédit renouvelable ou un petit prêt consommation. Vérifiez cependant les éventuels frais de remboursement anticipé et ne sacrifiez pas toute votre épargne de sécurité pour améliorer un ratio."
+        }
+      ]
+    }
+  ]
+}

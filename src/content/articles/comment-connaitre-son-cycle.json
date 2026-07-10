@@ -1,0 +1,433 @@
+{
+  "title": "Comment connaitre son cycle",
+  "slug": "comment-connaitre-son-cycle",
+  "path": "/divers/comment-connaitre-son-cycle.html",
+  "category": "bien-etre",
+  "tags": [
+    "cycle menstruel",
+    "ovulation",
+    "règles",
+    "suivi du cycle",
+    "fertilité",
+    "santé féminine"
+  ],
+  "excerpt": "Cycle menstruel, règles, ovulation et fenêtre fertile : les bons repères pour suivre votre rythme, choisir un outil fiable et savoir quand consulter.",
+  "metaDescription": "Apprenez à connaître votre cycle menstruel : calcul, ovulation, outils de suivi, signes à observer et situations qui justifient une consultation.",
+  "seoTitle": "Comment connaître son cycle menstruel simplement",
+  "heroKicker": "Mieux se repérer",
+  "readingTime": 12,
+  "date": "2022-09-04T09:44:37",
+  "image": {
+    "id": "390",
+    "alt": "Comment connaitre son cycle",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Connaître son cycle menstruel ne consiste pas à deviner une date de règles sur une application : c’est apprendre à observer son rythme, ses variations et ses signaux corporels. Ce suivi peut vous aider à anticiper vos règles, mieux comprendre certains symptômes, préparer un projet de grossesse ou repérer un changement qui mérite un avis médical."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le cycle se compte du <strong>premier jour de vraies règles</strong> au premier jour des règles suivantes, et non à partir de la fin des saignements.",
+        "Un calendrier donne une tendance ; l’observation de la glaire cervicale, de la température basale et, si besoin, des tests d’ovulation apporte des informations plus précises.",
+        "Une ovulation ne survient pas systématiquement au 14e jour : cette idée ne vaut que pour certains cycles et ne doit pas servir de règle universelle.",
+        "Pour éviter une grossesse, <strong>ne vous fiez pas uniquement à une application ou au calcul des dates</strong> : les cycles peuvent varier et la période fertile est plus large qu’un seul jour.",
+        "Des changements durables, des douleurs inhabituelles, des saignements très abondants ou une absence de règles peuvent justifier une consultation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce qu’est vraiment un cycle menstruel",
+      "id": "ce-qu-est-vraiment-un-cycle-menstruel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le cycle menstruel correspond à l’ensemble des changements hormonaux qui se déroulent entre deux règles. Son point de départ est simple : le <strong>jour 1</strong> est le premier jour d’un saignement menstruel franc. De petites traces brunâtres ou un léger spotting avant que les règles ne commencent réellement ne sont généralement pas comptés comme le jour 1."
+    },
+    {
+      "type": "paragraph",
+      "html": "La durée du cycle se calcule donc du premier jour des règles jusqu’à la veille des règles suivantes. Elle ne doit pas être confondue avec la durée des menstruations, c’est-à-dire le nombre de jours pendant lesquels vous saignez. Un cycle n’est pas obligé d’être parfaitement identique chaque mois pour être normal : quelques jours de décalage peuvent survenir, notamment en période de stress, de voyage, de maladie, de manque de sommeil ou de changement de rythme."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les grandes phases à connaître",
+      "id": "les-grandes-phases-a-connaitre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pendant la <strong>phase menstruelle</strong>, l’utérus élimine sa muqueuse : ce sont les règles. Vient ensuite la phase folliculaire, durant laquelle un follicule ovarien se développe. L’<strong>ovulation</strong> est la libération d’un ovocyte ; elle est suivie de la phase lutéale, qui se termine par les règles s’il n’y a pas de grossesse. Ces étapes sont utiles comme repères, mais leurs dates exactes varient d’une personne à l’autre et parfois d’un cycle à l’autre."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "21 à 35 jours",
+          "label": "repère fréquemment utilisé pour la durée d’un cycle chez l’adulte"
+        },
+        {
+          "value": "2 à 7 jours",
+          "label": "ordre de grandeur habituel pour la durée des règles"
+        },
+        {
+          "value": "5 jours environ",
+          "label": "survie possible des spermatozoïdes dans des conditions favorables"
+        },
+        {
+          "value": "12 à 24 heures",
+          "label": "durée de fécondabilité généralement admise de l’ovocyte après l’ovulation"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le cycle de 28 jours n’est pas une norme obligatoire",
+      "html": "Le repère du 14e jour d’ovulation vient d’un cycle théorique de 28 jours. Si votre cycle dure plus ou moins longtemps, ou s’il est irrégulier, cette estimation peut être inadaptée. <strong>Ne considérez jamais le calendrier seul comme une contraception fiable.</strong>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencer un suivi simple et utile",
+      "id": "commencer-un-suivi-simple-et-utile"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur suivi est celui que vous pouvez tenir sans contrainte pendant plusieurs mois. Inutile de tout mesurer dès le départ : notez d’abord vos dates de règles et quelques informations concrètes. Après trois à six cycles, vous verrez mieux votre durée moyenne, l’amplitude de vos variations et d’éventuels symptômes récurrents."
+    },
+    {
+      "type": "steps",
+      "title": "La méthode de base, en quatre étapes",
+      "items": [
+        {
+          "title": "Notez le premier jour des règles",
+          "text": "Inscrivez la date du premier jour de flux rouge nécessitant une protection. C’est votre jour 1. Notez aussi le dernier jour de saignement, sans confondre avec les éventuelles traces très légères."
+        },
+        {
+          "title": "Calculez chaque durée de cycle",
+          "text": "Comptez le nombre de jours entre deux jours 1. Évitez de tirer une conclusion sur un seul mois : comparez au moins trois cycles, et idéalement davantage si vous avez des cycles fluctuants."
+        },
+        {
+          "title": "Consignez les signaux qui se répètent",
+          "text": "Douleurs, flux, glaire cervicale, seins sensibles, acné, humeur, libido, sommeil, migraines ou troubles digestifs peuvent être notés. Le but est de reconnaître votre fonctionnement, pas de surveiller chaque sensation."
+        },
+        {
+          "title": "Faites le point sur une tendance",
+          "text": "Repérez la durée la plus courte et la plus longue observée, la régularité du flux et les symptômes qui gênent votre quotidien. Ces informations sont très utiles lors d’un rendez-vous médical."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les données les plus utiles à consigner",
+      "items": [
+        "Date de début des règles et nombre de jours de saignement.",
+        "Abondance du flux : léger, modéré, abondant, avec ou sans caillots inhabituels.",
+        "Douleur : date, intensité, localisation et effet éventuel d’un antalgique.",
+        "Aspect de la glaire cervicale, si vous souhaitez mieux cerner votre période fertile.",
+        "Température basale ou résultat de test d’ovulation uniquement si cela répond à votre objectif.",
+        "Événements pouvant modifier le cycle : arrêt ou début de contraception hormonale, post-partum, allaitement, stress important, maladie, voyage ou variation de poids."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lire la régularité de votre cycle sans vous inquiéter à tort",
+      "id": "lire-la-regularite-de-votre-cycle-sans-vous-inquieter-a-tort"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un cycle dit régulier n’est pas un cycle qui tombe exactement le même jour chaque mois. Il s’agit plutôt d’un cycle dont la durée reste globalement dans une même fourchette. Un décalage ponctuel de quelques jours est courant. En revanche, si la durée change fortement et de manière répétée, si les règles deviennent beaucoup plus douloureuses ou si elles disparaissent sans explication, il est pertinent d’en parler à un professionnel de santé."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour interpréter votre suivi",
+      "headers": [
+        "Ce que vous observez",
+        "Ce que cela peut signifier",
+        "Ce qu’il est utile de faire"
+      ],
+      "rows": [
+        [
+          "Des cycles proches les uns des autres",
+          "Votre rythme est probablement assez prévisible, même si l’ovulation n’est pas connue au jour près.",
+          "Poursuivez un suivi simple ; le calendrier peut suffire pour anticiper vos règles."
+        ],
+        [
+          "Des cycles qui varient de quelques jours",
+          "Une variation modérée peut être liée au mode de vie ou à la phase pré-ovulatoire, qui est naturellement variable.",
+          "Notez les événements du mois et observez la tendance sur plusieurs cycles."
+        ],
+        [
+          "Des cycles très espacés, très courts ou imprévisibles",
+          "Il peut s’agir d’une situation transitoire ou d’un déséquilibre à explorer selon le contexte.",
+          "Prenez rendez-vous si cela se répète, surtout en cas de projet de grossesse ou de symptômes associés."
+        ],
+        [
+          "Un saignement entre les règles",
+          "Le spotting peut avoir plusieurs causes, notamment hormonales ou liées à une contraception, mais il ne faut pas l’ignorer s’il persiste.",
+          "Notez les dates, le contexte et la quantité ; demandez un avis médical si c’est nouveau, répété ou douloureux."
+        ],
+        [
+          "Des règles devenues très abondantes ou très douloureuses",
+          "Ce changement mérite une attention particulière, surtout s’il gêne le travail, le sommeil ou la vie quotidienne.",
+          "Consultez pour décrire précisément le flux, la douleur et leur évolution."
+        ]
+      ],
+      "note": "Ces repères ne remplacent pas un diagnostic. L’adolescence, le post-partum, l’allaitement, la périménopause et l’arrêt d’une contraception peuvent rendre les cycles moins prévisibles."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pourquoi un cycle peut-il changer ?",
+      "id": "pourquoi-un-cycle-peut-il-changer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le cerveau, les ovaires, l’utérus et de nombreuses hormones participent au cycle. Un stress prolongé, une activité sportive très intense, une restriction alimentaire, un trouble du sommeil, une infection, un changement de contraception ou une période de vie particulière peuvent modifier l’ovulation et donc décaler les règles. Certaines causes médicales, comme un syndrome des ovaires polykystiques, un trouble thyroïdien ou une endométriose, peuvent aussi influencer les cycles ou les douleurs. Seul un professionnel peut les évaluer dans votre situation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Repérer l’ovulation : ce que chaque signe permet de savoir",
+      "id": "reperer-l-ovulation-ce-que-chaque-signe-permet-de-savoir"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’ovulation est souvent recherchée dans le cadre d’un projet de grossesse. Pour la repérer avec réalisme, retenez qu’aucun indice isolé n’est parfait. Les méthodes les plus utiles croisent plusieurs observations. La <strong>glaire cervicale</strong> devient souvent plus abondante, transparente, glissante et étirable à l’approche de l’ovulation. La température basale augmente légèrement <em>après</em> l’ovulation sous l’effet de la progestérone. Les tests urinaires détectent quant à eux un pic hormonal qui précède généralement l’ovulation, sans garantir à lui seul qu’elle a effectivement eu lieu."
+    },
+    {
+      "type": "comparison",
+      "title": "Calendrier ou observation des signes : deux niveaux de précision",
+      "left": {
+        "title": "Calcul sur calendrier",
+        "points": [
+          "Très simple pour anticiper la période des règles.",
+          "S’appuie sur les durées des cycles précédents.",
+          "Donne une estimation large de la période potentiellement fertile.",
+          "Devient peu fiable lorsque les cycles sont irréguliers ou après un changement de rythme.",
+          "Ne permet pas de confirmer une ovulation."
+        ]
+      },
+      "right": {
+        "title": "Méthode d’observation",
+        "points": [
+          "Associe glaire cervicale, température basale et parfois tests urinaires.",
+          "Aide à identifier une fenêtre fertile plus personnalisée.",
+          "La hausse thermique permet surtout de confirmer que l’ovulation est probablement passée.",
+          "Demande une routine quotidienne et un apprentissage sérieux.",
+          "Ne doit pas être improvisée comme méthode contraceptive."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Pour un projet de grossesse",
+      "html": "N’attendez pas forcément d’avoir identifié le jour exact de l’ovulation. Avoir des rapports régulièrement pendant la période où la glaire devient humide, claire ou filante, puis les jours suivants, est souvent plus réaliste que de viser une date unique. Si le projet tarde ou si vos cycles sont très irréguliers, un avis médical peut vous aider à choisir la bonne démarche."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bien prendre sa température basale",
+      "id": "bien-prendre-sa-temperature-basale"
+    },
+    {
+      "type": "paragraph",
+      "html": "La température basale se prend chaque matin au réveil, avant de vous lever, boire, parler ou consulter votre téléphone, idéalement à la même heure et avec le même thermomètre. Une hausse durable par rapport à vos températures précédentes suggère que l’ovulation a eu lieu. Cette méthode est surtout rétrospective : elle ne prédit pas avec certitude le jour de l’ovulation. Fièvre, alcool, nuit courte, décalage horaire ou sommeil interrompu peuvent rendre les relevés difficiles à interpréter."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir un outil de suivi adapté à votre objectif et à votre budget",
+      "id": "choisir-un-outil-de-suivi-adapte-a-votre-objectif-et-a-votre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un carnet papier, le calendrier de votre téléphone ou une application peuvent suffire pour suivre les règles. Si vous cherchez à mieux cerner l’ovulation, ajoutez progressivement l’observation de la glaire, un thermomètre basal ou des tests urinaires. N’achetez pas un dispositif connecté coûteux avant d’avoir vérifié que vous êtes à l’aise avec la routine qu’il implique."
+    },
+    {
+      "type": "table",
+      "caption": "Outils de suivi : utilité, limites et budget indicatif",
+      "headers": [
+        "Outil",
+        "Ce qu’il apporte",
+        "Limites",
+        "Budget à prévoir"
+      ],
+      "rows": [
+        [
+          "Carnet ou calendrier papier",
+          "Dates, flux, douleur et vision d’ensemble très lisible.",
+          "Aucune prédiction automatique ; demande de la régularité.",
+          "Gratuit à quelques euros."
+        ],
+        [
+          "Application de cycle",
+          "Rappels, graphiques, archivage et estimation des règles.",
+          "Les prédictions reposent surtout sur les données saisies ; vigilance sur les données personnelles.",
+          "Souvent gratuit, parfois quelques euros par mois pour des fonctions avancées."
+        ],
+        [
+          "Thermomètre basal",
+          "Confirmation a posteriori d’un décalage thermique compatible avec l’ovulation.",
+          "Mesure quotidienne stricte ; résultats perturbés par le sommeil ou la maladie.",
+          "De l’ordre de quelques dizaines d’euros."
+        ],
+        [
+          "Tests urinaires d’ovulation",
+          "Repérage d’un pic hormonal utile pour cibler une fenêtre fertile.",
+          "Coût récurrent ; un test positif ne confirme pas à lui seul l’ovulation.",
+          "Quelques dizaines d’euros selon le nombre de tests et l’usage."
+        ],
+        [
+          "Capteur ou dispositif connecté",
+          "Collecte automatisée de certaines données, parfois pendant le sommeil.",
+          "Investissement élevé et algorithme à comprendre ; ne remplace pas l’analyse clinique.",
+          "De plusieurs dizaines à quelques centaines d’euros selon le produit."
+        ]
+      ],
+      "note": "Les fonctionnalités et tarifs varient fortement. Avant un achat connecté, vérifiez le coût des abonnements, la compatibilité de l’appareil et les conditions de traitement de vos données."
+    },
+    {
+      "type": "proscons",
+      "title": "Application de suivi : pratique, mais pas infaillible",
+      "pros": [
+        "Centralise les dates, les symptômes et les rappels en un seul endroit.",
+        "Facilite l’identification de tendances sur plusieurs mois.",
+        "Peut aider à préparer une consultation avec un historique clair.",
+        "Est utile pour anticiper les règles si vos cycles sont relativement réguliers."
+      ],
+      "cons": [
+        "Une date d’ovulation affichée est souvent une estimation, pas une mesure.",
+        "Les algorithmes ne compensent pas des données incomplètes ou des cycles très variables.",
+        "Certaines applications collectent des données de santé sensibles.",
+        "Elle ne doit pas servir seule à exclure une grossesse ni à assurer une contraception."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La confidentialité de vos données mérite votre attention",
+      "id": "la-confidentialite-de-vos-donnees-merite-votre-attention"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les informations liées au cycle, à la sexualité et à un éventuel projet de grossesse sont des données personnelles sensibles. Avant de choisir une application, consultez ses réglages de confidentialité : création de compte obligatoire ou non, export et suppression des données, partage à des partenaires, verrouillage de l’application et stockage local ou en ligne. Un carnet reste l’option la plus sobre si vous ne souhaitez pas confier ces informations à un service numérique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus fréquentes à éviter",
+      "id": "les-erreurs-les-plus-frequentes-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Beaucoup de confusions viennent d’un suivi trop approximatif ou, à l’inverse, d’une interprétation excessive d’un petit décalage. L’objectif est de vous donner des repères utiles, pas de vous inquiéter à chaque variation. Une approche cohérente et documentée est plus fiable qu’une recherche quotidienne de symptômes isolés."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les bons réflexes",
+      "items": [
+        "Ne comptez pas à partir du dernier jour des règles : partez toujours du premier jour de flux menstruel réel.",
+        "Ne supposez pas que l’ovulation arrive forcément 14 jours après le début des règles.",
+        "N’interprétez pas toute douleur d’un côté du bas-ventre comme une ovulation : ce signe est inconstant et non spécifique.",
+        "Ne vous fiez pas à une application seule pour savoir si vous pouvez avoir un rapport sans risque de grossesse.",
+        "Ne comparez pas votre cycle à celui d’une amie : la durée et les symptômes sont personnels.",
+        "Ne banalisez pas un changement durable parce qu’une application le classe comme normal.",
+        "N’utilisez pas des tests d’ovulation comme tests de grossesse : ils n’ont pas le même rôle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand demander un avis médical ?",
+      "id": "quand-demander-un-avis-medical"
+    },
+    {
+      "type": "paragraph",
+      "html": "Consulter ne signifie pas qu’il y a nécessairement un problème. C’est une façon de faire le point lorsque vos cycles vous gênent, se modifient ou ne correspondent plus à votre fonctionnement habituel. Apportez votre suivi : dates de règles, durée des cycles, douleurs, traitements, contraception, résultats de tests éventuels et contexte récent. Ces éléments rendent l’échange plus précis."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Situations à ne pas laisser traîner",
+      "html": "Prenez conseil auprès d’un médecin, d’une sage-femme ou d’un professionnel compétent si vous avez des règles très abondantes, des douleurs qui vous empêchent de vivre normalement, des saignements répétés entre les règles, une absence prolongée de règles hors grossesse connue, ou des cycles durablement très imprévisibles. En cas de douleur pelvienne intense et soudaine, de malaise, de saignement important ou de possibilité de grossesse avec douleur ou saignement, demandez une aide médicale rapidement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Et si vos règles ne viennent pas ?",
+      "id": "et-si-vos-regles-ne-viennent-pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un retard de règles peut avoir de nombreuses explications, dont une grossesse, un stress important, une maladie récente ou un changement hormonal. Si une grossesse est possible, faites un test selon les recommandations du fabricant et répétez-le ou demandez conseil en cas de doute. Si l’absence de règles se prolonge, notamment lorsqu’elle est nouvelle pour vous, une consultation permettra d’en rechercher la cause sans tirer de conclusion hâtive."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Utiliser votre suivi selon votre besoin réel",
+      "id": "utiliser-votre-suivi-selon-votre-besoin-reel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le même carnet de cycle n’a pas le même rôle selon votre objectif. Pour mieux vivre vos règles, il permet d’anticiper protections, douleurs ou fatigue. Pour un projet de grossesse, il aide à repérer une fenêtre fertile et à décrire vos cycles à un professionnel. Pour une contraception, il rappelle surtout une limite essentielle : le suivi naturel fondé seulement sur des prévisions d’application est insuffisant si une grossesse doit absolument être évitée."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Adaptez votre niveau de suivi",
+      "items": [
+        "<strong>Anticiper vos règles :</strong> dates, flux et symptômes suffisent généralement.",
+        "<strong>Comprendre vos douleurs ou votre syndrome prémenstruel :</strong> ajoutez l’intensité, les médicaments pris et l’impact sur vos activités.",
+        "<strong>Projet de grossesse :</strong> observez la glaire cervicale et envisagez température ou tests en complément, sans vous imposer une surveillance anxiogène.",
+        "<strong>Cycle sous contraception hormonale :</strong> notez surtout les saignements, oublis éventuels et effets indésirables ; les saignements ne reflètent pas toujours une ovulation.",
+        "<strong>Éviter une grossesse :</strong> choisissez une méthode contraceptive adaptée avec un professionnel plutôt qu’un calcul de dates seul."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "En pratique, connaître son cycle revient à constituer un historique fidèle de ce qui vous arrive, puis à l’interpréter avec prudence. Après quelques mois, vous disposerez de repères bien plus utiles qu’une simple date prédite : votre durée habituelle, vos symptômes récurrents, vos périodes de variation et les changements qui méritent d’être discutés."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le cycle menstruel",
+      "items": [
+        {
+          "q": "Comment calculer la durée de mon cycle menstruel ?",
+          "a": "Comptez à partir du <strong>premier jour de vos vraies règles</strong> jusqu’à la veille du premier jour des règles suivantes. Par exemple, si vos règles commencent un lundi et que les suivantes commencent 30 jours plus tard, votre cycle dure 30 jours. Le dernier jour de saignement ne sert pas de point de départ."
+        },
+        {
+          "q": "Puis-je connaître mon ovulation avec une application ?",
+          "a": "Une application peut estimer une période probable à partir de vos cycles précédents, mais elle ne mesure pas votre ovulation. Pour une information plus individualisée, vous pouvez observer la glaire cervicale, suivre votre température basale ou utiliser des tests urinaires. Même combinés, ces outils demandent une interprétation prudente."
+        },
+        {
+          "q": "Est-ce normal que mon cycle ne dure pas toujours le même nombre de jours ?",
+          "a": "Oui, une légère variation d’un cycle à l’autre est fréquente. Elle peut être influencée par le stress, le sommeil, une maladie, un voyage ou des changements de mode de vie. En revanche, une variation importante, durable ou associée à des symptômes gênants mérite d’être évoquée avec un professionnel de santé."
+        },
+        {
+          "q": "Peut-on tomber enceinte pendant les règles ?",
+          "a": "C’est possible, même si ce n’est pas la période la plus fertile dans beaucoup de cycles. Les spermatozoïdes peuvent survivre plusieurs jours et une ovulation précoce peut rapprocher la période fertile de la fin des règles. Si vous ne souhaitez pas de grossesse, utilisez une contraception adaptée pendant les rapports, y compris durant les règles."
+        },
+        {
+          "q": "La température basale permet-elle de prévoir l’ovulation ?",
+          "a": "Elle indique surtout qu’une ovulation a probablement déjà eu lieu lorsqu’une hausse se maintient plusieurs jours. Elle est donc utile pour comprendre vos cycles sur la durée, mais moins pour annoncer avec certitude une ovulation à venir. Elle doit être prise dans des conditions très régulières pour être interprétable."
+        },
+        {
+          "q": "Quand consulter si mes règles sont irrégulières ?",
+          "a": "Demandez conseil si vos cycles deviennent durablement très espacés, très courts ou imprévisibles, si vos règles disparaissent alors qu’une grossesse n’est pas connue, ou si vous avez des douleurs fortes, des saignements abondants ou entre les règles. Consultez aussi plus tôt si ces changements s’accompagnent d’un projet de grossesse ou d’une inquiétude importante."
+        }
+      ]
+    }
+  ]
+}

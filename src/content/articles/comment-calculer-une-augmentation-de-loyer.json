@@ -1,0 +1,394 @@
+{
+  "title": "Comment calculer une augmentation de loyer",
+  "slug": "comment-calculer-une-augmentation-de-loyer",
+  "path": "/divers/comment-calculer-une-augmentation-de-loyer.html",
+  "category": "argent",
+  "tags": [
+    "augmentation de loyer",
+    "révision de loyer",
+    "irl",
+    "bail d'habitation",
+    "encadrement des loyers",
+    "dpe"
+  ],
+  "excerpt": "La méthode fiable pour calculer une révision de loyer : indice IRL, formule, date d’effet, charges et limites légales à connaître.",
+  "metaDescription": "Apprenez à calculer une hausse de loyer avec l’IRL : formule, exemple, conditions légales, charges, DPE et erreurs à éviter.",
+  "seoTitle": "Calculer une augmentation de loyer : la méthode",
+  "heroKicker": "Loyer et IRL",
+  "readingTime": 11,
+  "date": "2022-09-04T09:46:11",
+  "image": {
+    "id": "384",
+    "alt": "Comment calculer une augmentation de loyer",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une augmentation de loyer ne se calcule pas au feeling, ni en appliquant un pourcentage choisi librement. Pour un bail d’habitation en France, la hausse annuelle repose le plus souvent sur une <strong>clause de révision</strong> et sur l’<strong>indice de référence des loyers (IRL)</strong>. Encore faut-il utiliser le bon indice, le bon montant de départ et vérifier que le logement peut légalement être revalorisé."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Sans <strong>clause de révision</strong> dans le bail, le loyer ne peut généralement pas être augmenté en cours de bail au titre de l’IRL.",
+        "La formule s’applique au <strong>loyer hors charges</strong> : nouveau loyer = ancien loyer × nouvel IRL ÷ ancien IRL.",
+        "Le trimestre de référence est celui prévu au bail ; à défaut, on retient en principe le dernier IRL publié lors de la signature.",
+        "Une révision est au maximum <strong>annuelle</strong> et le bailleur ne peut pas réclamer rétroactivement une hausse non demandée dans les délais.",
+        "Un logement très énergivore peut être soumis à une <strong>interdiction de hausse</strong> : vérifiez impérativement le DPE avant tout calcul."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "De quelle « augmentation de loyer » parle-t-on ?",
+      "id": "de-quelle-augmentation-de-loyer-parle-t-on"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme recouvre plusieurs situations qui n’obéissent pas aux mêmes règles. La plus courante est la <strong>révision annuelle en cours de bail</strong> : le contrat prévoit une clause d’indexation et le loyer évolue selon l’IRL publié par l’Insee. C’est cette opération, souvent appelée à tort « augmentation annuelle automatique », que vous pouvez calculer avec une formule simple."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut toutefois la distinguer de l’augmentation proposée <strong>au renouvellement du bail</strong> lorsqu’un logement est manifestement sous-évalué, de la fixation du loyer lors d’une <strong>nouvelle location</strong>, ou encore de la régularisation des charges. Ces mécanismes sont encadrés différemment et ne doivent jamais être mélangés sur un avis d’échéance."
+    },
+    {
+      "type": "comparison",
+      "title": "Révision annuelle et hausse au renouvellement : deux mécanismes distincts",
+      "left": {
+        "title": "Révision par l’IRL",
+        "points": [
+          "Intervient en cours de bail, au rythme prévu par la clause, sans dépasser une fois par an.",
+          "Suppose une clause de révision valable dans le contrat.",
+          "Se calcule mécaniquement à partir du loyer hors charges et de deux indices IRL.",
+          "Ne nécessite pas de démontrer que le logement est sous-évalué."
+        ]
+      },
+      "right": {
+        "title": "Hausse au renouvellement",
+        "points": [
+          "Vise un loyer jugé manifestement sous-évalué par rapport au marché local.",
+          "Obéit à une procédure formelle, à des délais et à des justificatifs précis.",
+          "Peut être limitée ou exclue en zone tendue et dans les villes soumises à l’encadrement des loyers.",
+          "Ne se résume pas à appliquer l’IRL : faites-vous accompagner en cas de doute."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas loyer et charges",
+      "html": "L’IRL s’applique exclusivement au <strong>loyer nu, hors provisions sur charges</strong>. Une provision pour eau, chauffage collectif ou entretien des parties communes se régularise selon les dépenses récupérables réelles ; elle ne s’indexe pas avec l’IRL."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La condition de départ : une clause de révision dans le bail",
+      "id": "la-condition-de-depart-une-clause-de-revision-dans-le-bail"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de sortir une calculatrice, relisez le contrat de location. Le bail doit comporter une <strong>clause de révision</strong>, aussi appelée clause d’indexation, pour permettre une hausse annuelle liée à l’IRL. Elle indique habituellement la date de révision — souvent la date anniversaire du bail — et le trimestre d’IRL à employer."
+    },
+    {
+      "type": "paragraph",
+      "html": "En l’absence d’une telle clause, le bailleur ne peut pas augmenter le loyer pendant le bail en invoquant l’IRL. Le fait que l’indice ait progressé, que les charges du propriétaire aient augmenté ou que les loyers du quartier soient plus élevés ne remplace pas une clause contractuelle. Cette règle concerne le loyer ; une régularisation annuelle des charges peut, elle, modifier le montant total appelé si elle est justifiée."
+    },
+    {
+      "type": "paragraph",
+      "html": "La clause doit renvoyer à l’IRL, qui est l’indice légal pour les locations d’habitation concernées. Une clause fondée sur un autre indice ou prévoyant une hausse forfaitaire indépendante de l’IRL mérite une vérification sérieuse. Selon la nature du contrat — bail d’habitation vide ou meublé, bail mobilité, logement social, bail commercial — les règles peuvent différer."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À vérifier dans votre bail avant le calcul",
+      "items": [
+        "La présence explicite d’une <strong>clause de révision annuelle</strong>.",
+        "La <strong>date de révision</strong> indiquée : date anniversaire, date fixe ou autre échéance clairement prévue.",
+        "Le <strong>trimestre IRL de référence</strong> mentionné dans la clause.",
+        "Le montant actuel du <strong>loyer hors charges</strong>, sans inclure les provisions.",
+        "La situation du logement au regard du <strong>DPE</strong> et des éventuelles règles locales d’encadrement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La formule IRL pour calculer le nouveau loyer",
+      "id": "la-formule-irl-pour-calculer-le-nouveau-loyer"
+    },
+    {
+      "type": "paragraph",
+      "html": "La formule légale de base est la suivante : <strong>nouveau loyer hors charges = loyer hors charges avant révision × nouvel IRL ÷ ancien IRL</strong>. Le nouvel IRL est l’indice du trimestre de référence pour l’année de la révision. L’ancien IRL est celui du <strong>même trimestre un an auparavant</strong>. Les indices sont publiés trimestriellement par l’Insee et peuvent être consultés dans les sources officielles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le trimestre applicable n’est pas forcément celui où vous faites le calcul. Il dépend d’abord de ce que dit le bail. Si le contrat désigne, par exemple, le deuxième trimestre, vous comparez le deuxième trimestre de l’année en cours avec le deuxième trimestre de l’année précédente. Si aucun trimestre n’est mentionné, la règle de référence est, en principe, le dernier indice publié à la date de signature du bail."
+    },
+    {
+      "type": "steps",
+      "title": "Le calcul en quatre étapes",
+      "items": [
+        {
+          "title": "Isolez le loyer hors charges",
+          "text": "Prenez le montant de base figurant sur votre dernière quittance ou votre avis d’échéance. Excluez les charges récupérables, le dépôt de garantie et toute somme exceptionnelle."
+        },
+        {
+          "title": "Identifiez le trimestre prévu",
+          "text": "Relisez la clause. Ne choisissez pas le dernier indice publié uniquement parce qu’il est plus récent : le trimestre contractuel prime."
+        },
+        {
+          "title": "Relevez les deux indices comparables",
+          "text": "Utilisez l’IRL du trimestre de référence pour l’année de révision, puis l’IRL du même trimestre de l’année précédente."
+        },
+        {
+          "title": "Appliquez la formule et arrondissez clairement",
+          "text": "Multipliez le loyer hors charges par le nouvel indice, divisez par l’ancien, puis présentez un montant mensuel lisible, généralement arrondi au centime. Ajoutez ensuite les charges inchangées ou régulièrement ajustées séparément."
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Exemple pédagogique de révision avec des valeurs fictives",
+      "headers": [
+        "Élément",
+        "Valeur utilisée",
+        "Calcul / résultat"
+      ],
+      "rows": [
+        [
+          "Loyer mensuel hors charges avant révision",
+          "800 €",
+          "Base à indexer"
+        ],
+        [
+          "Ancien IRL, même trimestre de l’année précédente",
+          "140",
+          "Dénominateur"
+        ],
+        [
+          "Nouvel IRL, trimestre de référence",
+          "145",
+          "Numérateur"
+        ],
+        [
+          "Nouveau loyer hors charges",
+          "—",
+          "800 × 145 ÷ 140 = 828,57 €"
+        ],
+        [
+          "Augmentation mensuelle hors charges",
+          "—",
+          "28,57 €"
+        ],
+        [
+          "Charges mensuelles provisionnelles",
+          "60 €",
+          "Non indexées par l’IRL ; total appelé : 888,57 € si elles ne changent pas"
+        ]
+      ],
+      "note": "Les nombres de cet exemple sont volontairement fictifs. Reprenez les valeurs IRL officielles correspondant exactement à votre bail et à votre période de révision."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 fois/an",
+          "label": "fréquence maximale habituelle d’une révision IRL"
+        },
+        {
+          "value": "2 indices",
+          "label": "à comparer : le même trimestre sur deux années successives"
+        },
+        {
+          "value": "Hors charges",
+          "label": "seule base du calcul de révision"
+        },
+        {
+          "value": "1 an",
+          "label": "délai de principe pour demander une révision non appliquée"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Date d’effet, notification et délai pour agir",
+      "id": "date-d-effet-notification-et-delai-pour-agir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une clause de révision ne signifie pas que la hausse s’applique toute seule sur le compte du locataire. Le bailleur doit la demander. La date d’effet dépend de la clause et de la demande, mais une révision non sollicitée à temps ne permet pas de rattraper indéfiniment les mois passés. En pratique, le bailleur dispose d’un <strong>délai d’un an</strong> à compter de la date prévue pour manifester sa demande ; passée cette période, la révision pour l’année écoulée est perdue."
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque la demande intervient après la date anniversaire mais dans le délai autorisé, l’augmentation ne doit pas être réclamée rétroactivement pour les mois antérieurs à la demande. Elle prend effet à compter de la demande. Côté locataire, cela signifie qu’un rappel brutal couvrant plusieurs mois mérite d’être contrôlé : demandez la date de révision prévue, la date de notification, les deux IRL et le détail du calcul."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Un avis d’échéance transparent évite les litiges",
+      "html": "Un courrier ou un e-mail clair doit faire apparaître le <strong>loyer hors charges avant révision</strong>, les deux valeurs d’IRL, l’opération effectuée, le nouveau loyer, les charges séparées et la date d’effet. Conservez le bail, les avis d’échéance et les indices utilisés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les limites légales : DPE, zones tendues et encadrement",
+      "id": "les-limites-legales-dpe-zones-tendues-et-encadrement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le calcul mathématique ne suffit jamais à rendre une hausse valable. La première limite importante concerne les logements à mauvaise performance énergétique. Dans les territoires où le gel des loyers des « passoires énergétiques » s’applique, un logement classé <strong>F ou G au DPE</strong> ne peut pas faire l’objet d’une hausse de loyer dans les cas visés par la réglementation, y compris par révision IRL. Les modalités dépendent notamment du territoire et de la date du bail : vérifiez le diagnostic en cours de validité et la règle applicable à votre situation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une amélioration énergétique réelle peut changer la situation si elle aboutit à un DPE qui ne relève plus de ces classes, mais le propriétaire ne peut pas simplement ignorer le diagnostic ou se fonder sur une promesse de travaux. En cas de DPE absent, ancien, incohérent ou contesté, il est prudent de ne pas appliquer de hausse sans conseil adapté."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une ville soumise à l’<strong>encadrement des loyers</strong>, le loyer de référence majoré, le complément de loyer éventuel et les règles locales limitent surtout la fixation du loyer lors d’une nouvelle location ou d’un renouvellement. Une révision IRL prévue au bail peut rester possible, mais elle ne doit pas servir à contourner un plafond applicable. En zone tendue, les règles de remise en location et de renouvellement sont également plus strictes."
+    },
+    {
+      "type": "proscons",
+      "title": "La révision par l’IRL : ce qu’elle permet, ce qu’elle ne permet pas",
+      "pros": [
+        "Méthode objective, vérifiable et simple lorsque le bail est correctement rédigé.",
+        "Calcul fondé sur une publication publique et identique pour les parties.",
+        "Évolution plafonnée par l’indice plutôt que laissée à la libre appréciation du bailleur.",
+        "Montant facile à justifier avec un tableau de calcul. "
+      ],
+      "cons": [
+        "Impossible sans clause de révision dans le bail.",
+        "Ne s’applique pas aux charges ni à un dépôt de garantie.",
+        "Peut être bloquée par les règles liées au DPE ou par d’autres dispositifs protecteurs.",
+        "Ne permet pas, à elle seule, de rehausser un loyer considéré comme trop bas par rapport au marché."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particuliers : bail renouvelé, nouveau locataire et loyer sous-évalué",
+      "id": "cas-particuliers-bail-renouvele-nouveau-locataire-et-loyer-s"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si le bail arrive à son terme, le propriétaire ne peut pas confondre le renouvellement avec une simple révision annuelle. Une proposition de hausse parce que le loyer serait manifestement sous-évalué obéit à une procédure plus exigeante : respect d’un préavis, justification par des références de loyers comparables et, selon le cas, étalement de la hausse. Il existe aussi des restrictions renforcées dans certaines zones et pour les logements énergivores."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au départ d’un locataire, la fixation d’un nouveau loyer est également encadrée, particulièrement dans les zones tendues et les communes appliquant un encadrement local. Un propriétaire ne peut donc pas déduire du montant que paie le voisin qu’il peut librement aligner son propre logement. Les travaux réalisés, le niveau de performance énergétique et le loyer antérieur peuvent jouer, mais dans un cadre réglementaire précis."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un <strong>bail commercial</strong>, professionnel, rural ou une location saisonnière, l’IRL et les règles exposées ici ne constituent pas automatiquement le bon cadre. Les indices et clauses d’indexation peuvent être différents. Vérifiez d’abord la nature juridique du contrat avant d’utiliser cette méthode."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes et réflexes pour les éviter",
+      "id": "erreurs-frequentes-et-reflexes-pour-les-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’erreur la plus fréquente consiste à appliquer un pourcentage d’évolution de l’IRL au total payé chaque mois, charges comprises. C’est faux : seules les sommes correspondant au loyer hors charges entrent dans la formule. Une autre confusion courante est d’utiliser l’indice du trimestre le plus récent, alors que le bail impose un trimestre précis. Enfin, certains bailleurs additionnent une hausse IRL et une régularisation de charges sans explication, ce qui rend l’avis d’échéance difficile à contrôler."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les bons réflexes, côté locataire comme côté bailleur",
+      "items": [
+        "Conservez une copie lisible du bail et de chaque révision notifiée.",
+        "Téléchargez les valeurs IRL depuis une source institutionnelle plutôt que depuis un simulateur non daté.",
+        "Vérifiez que les deux indices correspondent au <strong>même trimestre</strong>, à un an d’écart.",
+        "Refaites le calcul à partir du loyer hors charges affiché avant la révision.",
+        "Distinguez sur chaque document : loyer, charges, éventuelle régularisation et arriéré.",
+        "Contrôlez le DPE et les règles propres à la commune avant de réclamer ou de payer une hausse.",
+        "En cas de désaccord, demandez d’abord un décompte écrit et les références utilisées ; n’ignorez pas le courrier."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment vérifier une augmentation contestable ?",
+      "id": "comment-verifier-une-augmentation-contestable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par une vérification factuelle, document à l’appui. Demandez ou réunissez le bail, le dernier avis d’échéance avant hausse, la demande de révision, le DPE et les références d’IRL. Recalculez ensuite le montant. Un écart de quelques centimes peut relever d’un arrondi ; une hausse sur les charges, un mauvais trimestre ou une rétroactivité injustifiée appellent en revanche une explication."
+    },
+    {
+      "type": "steps",
+      "title": "Procédure pratique en cas de doute",
+      "items": [
+        {
+          "title": "Demandez le détail par écrit",
+          "text": "Sollicitez un calcul ligne par ligne : ancien loyer hors charges, indices retenus, date de la demande et date d’effet. Restez factuel et conservez une copie de vos échanges."
+        },
+        {
+          "title": "Vérifiez les freins juridiques",
+          "text": "Contrôlez la clause de révision, le DPE, l’éventuel encadrement local et le délai d’un an. Ne vous limitez pas au résultat numérique."
+        },
+        {
+          "title": "Proposez une correction documentée",
+          "text": "Si l’erreur est claire, indiquez le calcul que vous obtenez et joignez les références utiles. Une correction amiable est souvent la voie la plus rapide."
+        },
+        {
+          "title": "Faites-vous orienter si le conflit persiste",
+          "text": "Une agence départementale d’information sur le logement, une commission départementale de conciliation ou un professionnel du droit peuvent aider à qualifier la situation selon votre bail et votre commune."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le bon calcul protège les deux parties",
+      "html": "Pour le bailleur, respecter la formule et les délais sécurise l’encaissement. Pour le locataire, contrôler le <strong>loyer hors charges</strong>, le trimestre IRL et le DPE permet d’éviter de payer une hausse qui ne serait pas due. Dans tous les cas, un calcul écrit vaut mieux qu’un montant annoncé sans détail."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "À retenir avant d’appliquer une hausse",
+      "id": "a-retenir-avant-d-appliquer-une-hausse"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une augmentation annuelle de loyer est une opération encadrée : <strong>clause valable, bon trimestre IRL, loyer hors charges, formule exacte, demande dans le délai et absence d’interdiction légale</strong>. Si l’un de ces éléments manque, le résultat de la calculatrice ne suffit pas à justifier la hausse."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les situations simples, la formule IRL donne un résultat fiable en quelques minutes. Dès qu’il est question de renouvellement, de logement F ou G, de commune avec encadrement des loyers, de travaux ou d’un rappel sur plusieurs mois, prenez le temps de vérifier le régime applicable : c’est là que se situent les erreurs les plus coûteuses."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’augmentation de loyer",
+      "items": [
+        {
+          "q": "Mon propriétaire peut-il augmenter mon loyer tous les ans ?",
+          "a": "Oui, mais seulement si le bail comporte une <strong>clause de révision</strong> et si les autres conditions légales sont remplies. La hausse suit alors l’IRL et ne peut pas intervenir plus d’une fois par an. Sans clause, une révision annuelle par l’IRL n’est en principe pas possible pendant le bail."
+        },
+        {
+          "q": "Quel montant faut-il utiliser : le loyer avec ou sans charges ?",
+          "a": "Le calcul se fait exclusivement sur le <strong>loyer hors charges</strong>. Les provisions sur charges ne sont pas indexées sur l’IRL. Elles peuvent évoluer à l’occasion d’une régularisation justifiée par les dépenses récupérables, ce qui est un mécanisme distinct."
+        },
+        {
+          "q": "Quel IRL dois-je prendre pour mon calcul ?",
+          "a": "Utilisez le trimestre indiqué dans la clause de révision du bail, puis comparez l’indice de ce trimestre pour l’année de révision avec celui du même trimestre l’année précédente. Si le bail ne précise aucun trimestre, on retient en principe le dernier indice publié à la date de signature du contrat."
+        },
+        {
+          "q": "Le bailleur peut-il réclamer des hausses de loyer non appliquées les années précédentes ?",
+          "a": "Non, pas sans limite. Une demande de révision doit être formulée dans le délai légal, généralement d’un an à compter de la date prévue. En outre, une hausse demandée tardivement ne doit pas être facturée rétroactivement pour les mois antérieurs à cette demande."
+        },
+        {
+          "q": "Un logement classé F ou G peut-il voir son loyer augmenter avec l’IRL ?",
+          "a": "Dans les situations couvertes par le gel des loyers des logements énergivores, non. Les règles dépendent du territoire et de la date du bail. Avant toute révision, vérifiez le DPE en cours de validité et les dispositions applicables localement ; ce point peut bloquer une hausse pourtant correcte sur le plan mathématique."
+        },
+        {
+          "q": "Que faire si le calcul de l’augmentation me semble faux ?",
+          "a": "Demandez un détail écrit comprenant le loyer hors charges initial, les deux IRL, la formule et la date d’effet. Recalculez de votre côté, vérifiez la clause du bail et le DPE, puis signalez précisément l’erreur. Si aucun accord n’est trouvé, une structure d’information logement ou la commission départementale de conciliation peut vous orienter."
+        }
+      ]
+    }
+  ]
+}

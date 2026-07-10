@@ -1,0 +1,446 @@
+{
+  "title": "Énergie Saint-Etienne : depuis quand utilise-t-on l’électricité en France ?",
+  "slug": "energie-saint-etienne-depuis-quand-utilise-t-on-lelectricite-en-france",
+  "path": "/divers/energie-saint-etienne-depuis-quand-utilise-t-on-lelectricite-en-france.html",
+  "category": "maison",
+  "tags": [
+    "électricité",
+    "histoire de france",
+    "électrification",
+    "énergie saint-etienne",
+    "réseau électrique",
+    "edf"
+  ],
+  "excerpt": "L’électricité arrive en France à la fin du XIXe siècle, mais il faudra plusieurs décennies pour qu’elle entre dans tous les foyers.",
+  "metaDescription": "Découvrez depuis quand l’électricité est utilisée en France, de l’éclairage public aux foyers, avec les grandes étapes de l’électrification.",
+  "seoTitle": "Depuis quand utilise-t-on l’électricité en France ?",
+  "heroKicker": "Histoire de l’énergie",
+  "readingTime": 11,
+  "date": "2018-03-20T08:04:28",
+  "image": {
+    "id": "258",
+    "alt": "Énergie Saint-Etienne : depuis quand utilise-t-on l’électricité en France ?",
+    "width": 1300,
+    "height": 520
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "L’électricité est utilisée en France depuis la seconde moitié du XIXe siècle, d’abord dans les laboratoires, les gares, les usines et quelques rues prestigieuses. Mais entre les premières lampes électriques et l’équipement quasi généralisé des logements, il s’est écoulé près d’un siècle : l’histoire de l’électricité française est avant tout celle d’un immense chantier industriel et territorial."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Les premières démonstrations et installations électriques françaises apparaissent au XIXe siècle ; l’usage reste alors rare, coûteux et localisé.",
+        "L’éclairage public, les transports, l’industrie puis les foyers ont été électrifiés progressivement, avec de très fortes différences entre villes et campagnes.",
+        "La loi sur les concessions de distribution au début du XXe siècle, puis l’électrification rurale et la création d’EDF en 1946 ont accéléré l’accès à l’électricité.",
+        "À Saint-Étienne comme dans d’autres bassins industriels, le développement électrique est lié aux besoins des mines, des ateliers, des transports et de l’éclairage urbain.",
+        "Pour dater précisément l’arrivée de l’électricité dans une rue, un quartier ou une commune, il faut consulter les archives locales : une date nationale ne suffit pas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La réponse courte : de la curiosité scientifique à l’usage quotidien",
+      "id": "la-reponse-courte-de-la-curiosite-scientifique-a-l-usage-quo"
+    },
+    {
+      "type": "paragraph",
+      "html": "La France connaît l’électricité comme phénomène scientifique bien avant de l’utiliser au quotidien. Les travaux sur le courant, le magnétisme et les piles se développent au XIXe siècle, dans le sillage de chercheurs européens tels qu’Alessandro Volta, André-Marie Ampère ou Michael Faraday. À cette époque, l’électricité sert surtout à expérimenter, à télégraphier et à démontrer de nouvelles possibilités techniques."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les premiers usages visibles par le grand public apparaissent surtout entre les années 1870 et 1890. Les <strong>lampes à arc</strong>, très puissantes mais peu adaptées aux intérieurs, éclairent des lieux de passage, des halls, des chantiers ou des événements. L’invention et la diffusion de la lampe à incandescence rendent ensuite l’éclairage électrique plus praticable dans les magasins, les bâtiments publics et les logements aisés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut donc distinguer trois questions souvent confondues : <strong>quand l’électricité a-t-elle été étudiée ?</strong> Dès le XIXe siècle. <strong>Quand a-t-elle été exploitée dans les villes françaises ?</strong> À partir de la fin de ce même siècle. <strong>Quand les Français en ont-ils disposé chez eux de façon courante ?</strong> Principalement au cours du XXe siècle, avec une généralisation tardive dans les zones rurales."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "XIXe siècle",
+          "label": "Premières applications électriques visibles en France"
+        },
+        {
+          "value": "Fin des années 1800",
+          "label": "Début des réseaux locaux dans les grandes villes et zones industrielles"
+        },
+        {
+          "value": "1946",
+          "label": "Création d’EDF et réorganisation nationale du secteur"
+        },
+        {
+          "value": "Près d’un siècle",
+          "label": "Entre les premières démonstrations et l’accès très largement généralisé aux foyers"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les grandes étapes de l’électrification en France",
+      "id": "les-grandes-etapes-de-l-electrification-en-france"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’électrification n’a pas suivi une ligne droite. Les techniques évoluent, les réseaux restent d’abord isolés les uns des autres et chaque ville négocie ses installations. Dans les premiers temps, une usine, une gare ou un théâtre peut posséder sa propre machine de production. L’électricité n’est donc pas immédiatement un service national distribué partout par une immense infrastructure interconnectée."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour comprendre l’arrivée progressive de l’électricité en France",
+      "headers": [
+        "Période",
+        "Ce qui se développe",
+        "Qui en bénéficie d’abord",
+        "Limite principale"
+      ],
+      "rows": [
+        [
+          "Début et milieu du XIXe siècle",
+          "Expériences, piles, télégraphie, électromagnétisme",
+          "Scientifiques, administrations, réseaux télégraphiques",
+          "Pas encore de réseau de courant pour les usages domestiques"
+        ],
+        [
+          "Années 1870 à 1890",
+          "Éclairage à arc, premières dynamos, expositions, centrales locales",
+          "Lieux publics, commerces, gares, sites prestigieux",
+          "Matériel coûteux et distribution très limitée"
+        ],
+        [
+          "Fin du XIXe siècle et début du XXe siècle",
+          "Réseaux urbains, tramways, éclairage public, moteurs électriques",
+          "Villes, industriels, ménages les plus aisés",
+          "Forte inégalité entre territoires"
+        ],
+        [
+          "Entre-deux-guerres",
+          "Extension des lignes, électrification rurale, appareils ménagers",
+          "Foyers urbains puis bourgs et campagnes",
+          "Raccordement encore incomplet dans les zones isolées"
+        ],
+        [
+          "Après 1946",
+          "Organisation du système électrique autour d’EDF, investissements dans les réseaux",
+          "Population et économie nationales",
+          "Les derniers écarts territoriaux demandent encore du temps"
+        ],
+        [
+          "Seconde moitié du XXe siècle",
+          "Maillage, interconnexion, hausse des usages domestiques et industriels",
+          "Quasi-totalité des foyers et entreprises",
+          "Enjeu déplacé vers la capacité, le coût et l’impact environnemental"
+        ]
+      ],
+      "note": "Les dates d’arrivée du courant dans une commune ou un quartier peuvent être sensiblement différentes de cette chronologie générale."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les années 1880 : l’électricité devient un spectacle, puis un service",
+      "id": "les-annees-1880-l-electricite-devient-un-spectacle-puis-un-s"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les expositions et démonstrations parisiennes de la fin du XIXe siècle jouent un rôle majeur : elles font découvrir un éclairage nouveau, plus intense et plus moderne que les flammes ou le gaz. L’Exposition internationale d’Électricité de 1881 à Paris marque notamment les esprits. Elle ne signifie pas que tous les Parisiens, ni a fortiori tous les Français, disposent alors d’une prise chez eux ; elle montre que la technique est devenue crédible et qu’elle peut trouver des applications concrètes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le même temps, les dynamos transforment l’énergie mécanique en électricité et permettent de produire du courant à plus grande échelle. Le défi n’est plus seulement de fabriquer de la lumière : il faut produire régulièrement, transporter le courant, sécuriser les câbles et facturer un service. C’est le début des entreprises électriques, des centrales locales et des premières concessions municipales."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Du courant local au réseau organisé",
+      "id": "du-courant-local-au-reseau-organise"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au départ, le courant est produit près de l’endroit où il est consommé, car les solutions de transport à distance sont limitées. Les progrès du courant alternatif et des transformateurs changent progressivement la donne : on peut élever la tension pour transporter l’énergie plus loin, puis l’abaisser près des utilisateurs. L’hydroélectricité des régions montagneuses, les centrales thermiques proches des bassins charbonniers et les réseaux urbains participent tous à cette transformation."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Une date ne raconte pas toute l’histoire",
+      "html": "Dire que la France utilise l’électricité « depuis les années 1880 » est juste pour les premiers usages publics et industriels. Dire que les foyers français l’utilisent massivement à cette date serait faux. L’électrification s’est faite <strong>par vagues</strong>, selon les villes, les métiers, les revenus et la facilité de raccorder chaque territoire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi les villes industrielles, dont Saint-Étienne, ont été pionnières",
+      "id": "pourquoi-les-villes-industrielles-dont-saint-etienne-ont-ete"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les territoires industriels avaient de bonnes raisons d’adopter l’électricité tôt. Elle pouvait éclairer les ateliers, entraîner certaines machines, alimenter des équipements de levage, moderniser les transports urbains et améliorer la sécurité ou la productivité. Saint-Étienne, au cœur d’un bassin marqué par le charbon, la métallurgie, le textile, la mécanique et les activités minières, réunissait précisément plusieurs de ces besoins."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il serait toutefois imprudent d’affirmer une date unique pour « l’arrivée de l’électricité à Saint-Étienne » sans préciser l’usage visé. L’éclairage d’une voie publique, l’alimentation d’une usine, le premier tramway électrique, l’ouverture d’une centrale et le raccordement d’un logement sont cinq événements différents. Ils peuvent être séparés de plusieurs années, voire de plusieurs décennies."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les villes industrielles, l’électricité est souvent d’abord une énergie de production et de mobilité avant de devenir une énergie domestique. Les entreprises ayant besoin d’une puissance régulière ont un intérêt direct à financer ou à accueillir des installations. Les ménages, eux, ne s’équipent durablement que lorsque l’abonnement, le câblage intérieur et les appareils deviennent accessibles et fiables."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Pour retrouver l’histoire électrique de Saint-Étienne ou de votre commune",
+      "items": [
+        "Cherchez les délibérations municipales relatives à l’<strong>éclairage public</strong>, aux concessions ou à l’installation de câbles.",
+        "Consultez les archives municipales, départementales ou les fonds d’anciens opérateurs d’énergie quand ils sont accessibles.",
+        "Distinguez la première centrale, le premier réseau public, le premier tramway électrique et le raccordement des habitations.",
+        "Examinez les plans anciens, annuaires commerciaux et articles de presse locale : ils permettent souvent de dater les premiers quartiers raccordés.",
+        "Interrogez les sociétés d’histoire locale et les musées techniques ou industriels, particulièrement utiles dans les anciens bassins miniers."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Éclairage au gaz ou électrique : pourquoi la bascule a pris du temps",
+      "id": "eclairage-au-gaz-ou-electrique-pourquoi-la-bascule-a-pris-du"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant l’électricité, l’éclairage au gaz est déjà bien implanté dans les villes. Il dispose de ses canalisations, de ses usines de production et de ses habitudes d’usage. L’électricité ne l’a donc pas remplacé du jour au lendemain. Elle a dû prouver qu’elle était suffisamment fiable, moins dangereuse à l’usage et économiquement acceptable, tout en imposant de nouveaux câbles, compteurs, tableaux et normes."
+    },
+    {
+      "type": "comparison",
+      "title": "Les deux solutions d’éclairage à la charnière des XIXe et XXe siècles",
+      "left": {
+        "title": "Éclairage au gaz",
+        "points": [
+          "Réseau déjà présent dans de nombreuses villes.",
+          "Lumière obtenue par combustion, avec chaleur, odeurs et entretien des becs.",
+          "Adapté aux usages urbains établis, mais moins pratique pour de nombreux usages modernes.",
+          "Nécessite une alimentation en gaz et une ventilation appropriée selon les installations."
+        ]
+      },
+      "right": {
+        "title": "Éclairage électrique",
+        "points": [
+          "Lumière disponible au point d’usage grâce au câblage et aux lampes.",
+          "Pas de flamme dans la pièce, ce qui transforme le confort d’usage.",
+          "Peut aussi alimenter moteurs, transports, communication et appareils domestiques.",
+          "Demande au départ une centrale, un réseau, des équipements coûteux et des règles de sécurité nouvelles."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "L’avantage décisif de l’électricité ne réside pas seulement dans la lampe. Une fois le logement relié, le même réseau peut alimenter progressivement un fer à repasser, une radio, un réfrigérateur, une machine à laver, des appareils de cuisson ou des équipements de confort. Cette <strong>polyvalence</strong> explique l’essor durable de l’électricité dans la vie domestique, même si chaque nouvel appareil suppose un budget, une installation adaptée et une puissance disponible suffisante."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La campagne française : le grand retard, puis le rattrapage",
+      "id": "la-campagne-francaise-le-grand-retard-puis-le-rattrapage"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’électrification rurale est l’un des chapitres les plus importants de cette histoire. Tirer une ligne jusqu’à une habitation isolée coûte beaucoup plus cher par client que raccorder un immeuble en ville. Pendant longtemps, de nombreux villages et hameaux restent donc à l’écart, ou n’accèdent qu’à un service limité. Les usages ruraux eux-mêmes peuvent être modestes au début : quelques lampes, parfois une pompe ou un petit moteur."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’extension des réseaux dépend alors de décisions collectives. Les communes, syndicats d’électrification, départements et pouvoirs publics jouent un rôle clé pour mutualiser les coûts. La législation du début du XXe siècle encadre les distributions publiques d’électricité et les concessions. Ensuite, les programmes d’électrification rurale accélèrent le raccordement, notamment lorsque l’électricité devient indispensable à la modernisation agricole, aux services publics et au confort des logements."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après la Seconde Guerre mondiale, la création d’EDF en 1946 répond notamment au besoin de reconstruire, coordonner et investir à l’échelle nationale. La France dispose alors d’un secteur électrique plus cohérent, même si la modernisation des lignes et les raccordements les plus complexes se poursuivent encore durant les décennies suivantes. C’est dans cette période d’après-guerre que l’électricité devient réellement un équipement ordinaire de la grande majorité des foyers."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Électrification ne veut pas dire confort moderne immédiat",
+      "html": "Un logement raccordé ne possède pas automatiquement une cuisine électrique, un chauffage électrique ou de gros appareils ménagers. Les premiers abonnements offrent souvent une puissance modeste et servent avant tout à l’éclairage. Les usages se développent ensuite au rythme de l’équipement des ménages et du renforcement des installations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "De 1946 à aujourd’hui : un réseau national, plusieurs sources d’énergie",
+      "id": "de-1946-a-aujourd-hui-un-reseau-national-plusieurs-sources-d"
+    },
+    {
+      "type": "paragraph",
+      "html": "La nationalisation d’une grande partie de la production, du transport et de la distribution au lendemain de la guerre marque une rupture organisationnelle. Elle facilite l’interconnexion des territoires : une région ne dépend plus seulement de sa centrale voisine, mais peut bénéficier d’un ensemble de moyens de production et de lignes de transport. Cette solidarité du réseau est l’une des raisons pour lesquelles l’électricité est devenue un service aussi largement disponible."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mix de production évolue aussi. Le charbon a longtemps occupé une place majeure, notamment dans les régions minières. L’hydroélectricité a fourni une ressource précieuse dans les zones de relief. Puis le nucléaire s’est imposé dans la seconde moitié du XXe siècle comme une composante structurante de la production française. Aujourd’hui, l’hydraulique, le nucléaire, les énergies renouvelables variables et des moyens thermiques d’appoint s’articulent dans un système piloté en temps réel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour l’utilisateur, le résultat paraît simple : une prise fournit du courant à la demande. En réalité, cela suppose un équilibre permanent entre production et consommation, des réseaux entretenus, des transformateurs, des dispositifs de protection et des équipes capables de réparer après une panne ou une tempête. L’électricité moderne est donc l’aboutissement d’une longue histoire technique, mais aussi administrative et sociale."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que cette histoire change pour votre logement aujourd’hui",
+      "id": "ce-que-cette-histoire-change-pour-votre-logement-aujourd-hui"
+    },
+    {
+      "type": "paragraph",
+      "html": "Connaître l’histoire de l’électrification aide à mieux lire les particularités d’un logement ancien. Dans une maison construite ou rénovée par étapes, l’arrivée du courant peut avoir laissé des traces : compteurs déplacés, circuits ajoutés au fil du temps, prises rares dans certaines pièces, fils anciens, tableau sous-dimensionné ou chauffage installé bien après le reste de l’équipement. Le fait qu’un bâtiment soit raccordé depuis longtemps ne garantit en rien que son installation intérieure soit adaptée aux usages actuels."
+    },
+    {
+      "type": "proscons",
+      "title": "Conserver ou moderniser une installation électrique ancienne",
+      "pros": [
+        "Une installation ancienne peut témoigner de l’histoire du bâtiment et certains éléments visibles peuvent être préservés à des fins décoratives.",
+        "Des circuits existants peuvent parfois être réutilisés après diagnostic et remise aux normes ciblée.",
+        "Une rénovation bien pensée permet d’ajouter prises, éclairage et protections sans dénaturer l’intérieur. "
+      ],
+      "cons": [
+        "Les installations anciennes peuvent manquer de mise à la terre, de protections différentielles ou de puissance disponible.",
+        "L’ajout d’appareils énergivores sur des circuits inadaptés augmente les risques de surcharge et d’échauffement.",
+        "Les travaux cachés dans les murs ou les planchers peuvent rendre une rénovation plus complexe et plus coûteuse qu’attendu."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les vérifications utiles avant d’acheter ou de rénover",
+      "id": "les-verifications-utiles-avant-d-acheter-ou-de-renover"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un logement ancien, ne vous fiez pas à l’apparence du tableau électrique seul. Demandez le diagnostic électrique lorsqu’il est requis, repérez la présence d’une prise de terre, vérifiez le nombre de prises par pièce et identifiez les équipements à forte puissance : chauffage, ballon d’eau chaude, cuisson, borne de recharge ou atelier. Un électricien qualifié pourra déterminer si la puissance souscrite et les sections de câbles correspondent à vos projets."
+    },
+    {
+      "type": "steps",
+      "title": "Avant de moderniser l’électricité d’un logement ancien",
+      "items": [
+        {
+          "title": "Faire l’inventaire des usages",
+          "text": "Listez les équipements présents et ceux que vous prévoyez d’ajouter, pièce par pièce. Ne négligez ni le télétravail, ni la cuisine, ni les besoins extérieurs."
+        },
+        {
+          "title": "Contrôler la sécurité",
+          "text": "Faites vérifier la terre, les protections différentielles, l’état des conducteurs, les tableaux et l’absence de bricolages dangereux."
+        },
+        {
+          "title": "Prévoir les circuits dédiés",
+          "text": "Les appareils puissants et continus nécessitent généralement des lignes adaptées. Évitez de multiplier les rallonges et multiprises comme solution permanente."
+        },
+        {
+          "title": "Anticiper les évolutions",
+          "text": "Prévoyez des gaines ou emplacements pour de futurs besoins : recharge de véhicule, pompe à chaleur, photovoltaïque, domotique ou extension du logement."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas réseau public et installation privée",
+      "html": "Le gestionnaire de réseau assure l’acheminement de l’électricité jusqu’au point de livraison. À l’intérieur du logement, la sécurité relève de l’installation privée. Un raccordement actif n’exonère donc jamais d’un contrôle sérieux du tableau, des circuits et des prises."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : quels ordres de grandeur pour raccorder, sécuriser ou moderniser ?",
+      "id": "budget-quels-ordres-de-grandeur-pour-raccorder-securiser-ou-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût lié à l’électricité varie énormément selon le projet. Un simple ajout de prises dans une pièce accessible n’a rien à voir avec une rénovation complète dans une maison ancienne, où les murs doivent être repris et où le tableau, la terre et les circuits doivent être reconstruits. Les éventuels travaux sur le raccordement au réseau dépendent quant à eux de la distance, de la puissance demandée, du type de terrain et des règles locales."
+    },
+    {
+      "type": "table",
+      "caption": "Repères budgétaires à utiliser avec prudence",
+      "headers": [
+        "Projet",
+        "Ordre de grandeur habituel",
+        "Ce qui fait varier fortement le coût",
+        "Bon réflexe"
+      ],
+      "rows": [
+        [
+          "Ajout ciblé de prises ou d’éclairage",
+          "De quelques centaines d’euros à davantage selon l’accès",
+          "État du circuit existant, saignées, finitions, nombre de points",
+          "Faire vérifier que le circuit supporte la charge ajoutée"
+        ],
+        [
+          "Remplacement ou mise à niveau d’un tableau",
+          "Souvent de l’ordre de plusieurs centaines à quelques milliers d’euros",
+          "Nombre de rangées, protections, reprise des circuits, main-d’œuvre",
+          "Demander un devis détaillant chaque protection prévue"
+        ],
+        [
+          "Rénovation électrique complète d’un logement",
+          "Généralement plusieurs milliers d’euros, voire bien plus",
+          "Surface, murs à ouvrir, niveau de finition, chauffage, dépendances",
+          "Comparer des devis basés sur le même cahier des charges"
+        ],
+        [
+          "Raccordement d’une construction ou d’un site isolé",
+          "Très variable, de quelques milliers d’euros à des montants nettement supérieurs",
+          "Distance au réseau, extension nécessaire, puissance, génie civil",
+          "Demander une étude au gestionnaire de réseau avant de bâtir le budget"
+        ]
+      ],
+      "note": "Ces repères ne remplacent pas un devis. Dans l’ancien, une visite sur place est indispensable pour révéler les contraintes cachées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs à éviter quand on parle de l’arrivée de l’électricité",
+      "id": "les-erreurs-a-eviter-quand-on-parle-de-l-arrivee-de-l-electr"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à chercher une date unique et définitive. Il est plus exact de demander : « depuis quand l’éclairage électrique existe-t-il dans cette ville ? », « quand les tramways ont-ils été électrifiés ? », « quand cette commune a-t-elle été raccordée ? » ou « quand ce bâtiment a-t-il été équipé ? ». La précision de la question améliore considérablement la qualité de la réponse."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les bons réflexes historiques et pratiques",
+      "items": [
+        "Ne prenez pas une exposition ou une inauguration prestigieuse pour la preuve d’un accès généralisé de la population.",
+        "Ne confondez pas le premier usage industriel avec le premier abonnement domestique.",
+        "Pour une recherche locale, privilégiez les archives datées plutôt que les souvenirs non sourcés.",
+        "Dans un logement ancien, ne supposez jamais qu’une installation est sûre parce que l’électricité y fonctionne.",
+        "Faites chiffrer séparément la sécurité, le confort, les travaux de finition et les éventuels besoins de puissance supplémentaires."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "En résumé, la France utilise l’électricité depuis la fin du XIXe siècle, mais elle ne l’a adoptée massivement dans les logements qu’au cours du XXe siècle. À Saint-Étienne et dans les autres villes industrielles, son développement a été porté par l’économie locale et les besoins urbains ; à la campagne, il a dépendu d’un effort collectif de raccordement. Cette progression lente explique pourquoi le réseau électrique est aujourd’hui si banal en apparence, tout en restant l’une des infrastructures les plus complexes de la vie quotidienne."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’histoire de l’électricité en France",
+      "items": [
+        {
+          "q": "Depuis quelle année utilise-t-on l’électricité en France ?",
+          "a": "Il n’existe pas une seule année. Les premières applications et démonstrations se développent au XIXe siècle, tandis que les premiers réseaux urbains apparaissent surtout à la fin des années 1800. L’électricité devient courante dans les foyers au cours du XXe siècle."
+        },
+        {
+          "q": "Quelle ville française a eu l’électricité en premier ?",
+          "a": "La question dépend de ce que l’on appelle « avoir l’électricité » : éclairage d’un lieu, centrale, réseau public, tramway ou logements. Plusieurs villes ont expérimenté très tôt des usages électriques. Il est plus rigoureux d’identifier le type précis d’installation et de consulter les archives locales."
+        },
+        {
+          "q": "Depuis quand les maisons françaises ont-elles l’électricité ?",
+          "a": "Les maisons aisées de certaines villes peuvent être équipées dès la fin du XIXe siècle ou le début du XXe siècle. Pour la majorité des logements, la diffusion est surtout marquée entre l’entre-deux-guerres et les décennies qui suivent 1946. Les zones rurales isolées ont été raccordées plus tardivement."
+        },
+        {
+          "q": "Pourquoi l’électrification des campagnes a-t-elle été plus lente ?",
+          "a": "Parce qu’il fallait installer de longues lignes pour desservir peu d’habitations, ce qui rendait chaque raccordement coûteux. Les collectivités et les programmes publics ont été essentiels pour répartir cet effort et étendre progressivement le réseau."
+        },
+        {
+          "q": "Comment connaître la date d’arrivée de l’électricité à Saint-Étienne ou dans mon village ?",
+          "a": "Commencez par les archives municipales et départementales. Recherchez les délibérations sur l’éclairage public, les concessions d’électricité, les travaux de lignes, les centrales ou les tramways. Les journaux locaux anciens et les sociétés d’histoire locale peuvent compléter l’enquête."
+        },
+        {
+          "q": "Une vieille installation électrique doit-elle obligatoirement être remplacée ?",
+          "a": "Pas systématiquement, mais elle doit être évaluée. L’absence de terre, de protections différentielles, des fils dégradés, des prises anciennes ou des circuits surchargés justifient une intervention. Un professionnel peut distinguer les éléments à sécuriser en priorité de ceux qui peuvent être conservés ou rénovés."
+        }
+      ]
+    }
+  ]
+}

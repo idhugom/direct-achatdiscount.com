@@ -1,0 +1,466 @@
+{
+  "title": "Comment faire carte pokemon",
+  "slug": "comment-faire-carte-pokemon",
+  "path": "/divers/comment-faire-carte-pokemon.html",
+  "category": "loisirs",
+  "tags": [
+    "carte pokémon",
+    "carte personnalisée",
+    "jeu de cartes",
+    "création diy",
+    "impression cartes",
+    "cartes à collectionner"
+  ],
+  "excerpt": "Du croquis à l’impression, apprenez à créer une carte personnalisée inspirée de Pokémon, jolie, lisible et adaptée à votre usage.",
+  "metaDescription": "Créez une carte Pokémon personnalisée sans erreur : format, design, règles, impression, finitions et précautions pour un résultat réussi.",
+  "seoTitle": "Comment faire une carte Pokémon personnalisée ?",
+  "heroKicker": "Création personnalisée",
+  "readingTime": 12,
+  "date": "2022-09-29T15:10:13",
+  "image": {
+    "id": "393",
+    "alt": "Comment faire carte pokemon",
+    "width": 2560,
+    "height": 1707
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Faire une carte Pokémon peut désigner deux projets très différents : créer une carte personnalisée pour jouer ou offrir, ou fabriquer une copie d’une carte officielle. Le premier est un loisir créatif passionnant ; le second peut vite créer de la confusion et poser des problèmes de droits ou de revente. Voici une méthode complète pour concevoir une carte originale, nette, équilibrée et réellement agréable à utiliser."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Créez une <strong>carte personnalisée clairement identifiable</strong>, et non une imitation destinée à passer pour une carte officielle.",
+        "Pour un rendu proche d’une carte de jeu, partez d’un format d’environ <strong>63 × 88 mm</strong>, avec une zone de sécurité autour des bords.",
+        "Le visuel ne suffit pas : une carte réussie doit être <strong>lisible, cohérente et équilibrée</strong> si vous souhaitez jouer avec.",
+        "Imprimez un prototype avant toute série : les couleurs, la taille des textes et la découpe révèlent souvent des défauts invisibles à l’écran.",
+        "Pour un usage de jeu, glissez vos créations dans des <strong>protège-cartes opaques</strong> avec une carte de soutien identique derrière."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que signifie vraiment « faire une carte Pokémon »",
+      "id": "ce-que-signifie-vraiment-faire-une-carte-pokemon"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les cartes Pokémon officielles sont des produits sous licence, avec un univers graphique, des personnages, des illustrations et des signes distinctifs protégés. Vous pouvez en revanche fabriquer, pour votre plaisir, une <strong>carte personnalisée inspirée du principe d’un jeu de cartes à collectionner</strong> : une créature inventée, votre animal de compagnie en héros, un personnage de famille, un cadeau d’anniversaire ou une carte humoristique. C’est l’option la plus créative et la plus sûre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre objectif est de jouer avec des amis, le plus simple consiste à créer des cartes « proxy » ou de test qui ne cherchent pas à reproduire une carte officielle : elles servent à expérimenter une idée, à représenter temporairement une carte que vous possédez, ou à inventer vos propres règles. Elles doivent rester immédiatement reconnaissables comme des créations maison."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne fabriquez pas de fausses cartes",
+      "html": "Évitez de reproduire à l’identique une carte existante, son dos, ses logos, son numéro de collection ou ses éléments de sécurité, surtout pour la vendre, l’échanger comme une vraie ou tromper un acheteur. Une création personnelle doit comporter un <strong>dos distinct</strong>, un nom de série inventé et, idéalement, une mention discrète comme « carte fan » ou « création personnelle »."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir la bonne méthode de fabrication",
+      "id": "choisir-la-bonne-methode-de-fabrication"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre méthode dépend d’abord du résultat attendu. Une carte dessinée à la main a beaucoup de charme et convient très bien à une activité avec un enfant ou à une carte-cadeau unique. Une maquette numérique, elle, permet une meilleure symétrie, une typographie lisible et plusieurs exemplaires identiques. Vous pouvez aussi combiner les deux : illustration manuelle numérisée, puis mise en page et impression sur ordinateur."
+    },
+    {
+      "type": "comparison",
+      "title": "Carte dessinée à la main ou conçue sur ordinateur ?",
+      "left": {
+        "title": "Création manuelle",
+        "points": [
+          "Idéale pour une pièce unique, un atelier créatif ou un cadeau affectif.",
+          "Matériel réduit : papier épais, crayons, feutres, règle et éventuellement pochette de protection.",
+          "Le dessin, les couleurs et l’écriture donnent une personnalité forte à la carte.",
+          "La régularité des contours, la lisibilité et la duplication sont plus difficiles."
+        ]
+      },
+      "right": {
+        "title": "Création numérique puis impression",
+        "points": [
+          "Adaptée à un petit jeu de plusieurs cartes ou à des exemplaires identiques.",
+          "Permet d’aligner précisément textes, icônes, cadres et zones de jeu.",
+          "Facile à corriger après un test et à adapter à plusieurs formats.",
+          "Demande un logiciel de mise en page, une imprimante correcte ou un service d’impression."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "caption": "Quelle solution choisir selon votre projet ?",
+      "headers": [
+        "Projet",
+        "Méthode conseillée",
+        "Niveau de finition",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Carte-cadeau unique",
+          "Dessin sur bristol ou illustration numérique simple",
+          "Créatif et personnel",
+          "Prévoir une écriture très lisible"
+        ],
+        [
+          "Activité avec un enfant",
+          "Gabarit imprimé puis coloriage",
+          "Rapide et accessible",
+          "Limiter les petites zones de texte"
+        ],
+        [
+          "Jeu maison de quelques cartes",
+          "Maquette numérique et impression test",
+          "Cohérent et reproductible",
+          "Créer un dos commun et opaque"
+        ],
+        [
+          "Prototype pour tester une idée",
+          "Impression papier dans un protège-carte",
+          "Fonctionnel avant tout",
+          "Ne pas chercher à imiter l’officiel"
+        ],
+        [
+          "Objet décoratif encadré",
+          "Illustration haute définition sur papier photo ou cartonné",
+          "Très soigné",
+          "Respecter les droits sur les images utilisées"
+        ]
+      ],
+      "note": "Une carte destinée à être manipulée fréquemment doit privilégier la lisibilité et la robustesse plutôt que les effets visuels complexes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Définir le rôle de votre carte avant de dessiner",
+      "id": "definir-le-role-de-votre-carte-avant-de-dessiner"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne commencez pas par les effets brillants ou le cadre : définissez d’abord la fonction de la carte. Une carte décorative n’a pas besoin de règles détaillées. Une carte jouable, en revanche, exige une mécanique compréhensible en quelques secondes. Posez-vous quatre questions : qui est le personnage, que fait-il, contre quoi est-il fort ou faible, et comment un joueur utilise-t-il cette capacité ?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Inventez un personnage identifiable",
+      "id": "inventez-un-personnage-identifiable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Donnez à votre créature ou personnage un nom court, facile à lire et à mémoriser. Choisissez ensuite un thème visuel unique : forêt, eau, cuisine, musique, espace, animal familier ou métier imaginaire. Au lieu de reprendre un Pokémon existant, imaginez une créature originale avec ses propres couleurs et particularités. Vous obtiendrez une carte plus personnelle et vous éviterez l’effet de copie maladroite."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Écrivez des effets simples et précis",
+      "id": "ecrivez-des-effets-simples-et-precis"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une carte de jeu, un effet doit indiquer clairement <strong>quand</strong> il s’applique, <strong>ce qu’il fait</strong> et <strong>à qui</strong>. Préférez « Une fois par tour, soignez 10 points à cette créature » à « Cette créature se régénère parfois ». Si vous inventez un système sans reprendre les règles officielles, créez un vocabulaire limité et conservez-le sur toutes les cartes : énergie, points de vie, dégâts, défense, coût ou tour, par exemple."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "63 × 88 mm",
+          "label": "format proche d’une carte à jouer standard"
+        },
+        {
+          "value": "2 à 3 mm",
+          "label": "de fond perdu utile pour l’impression et la découpe"
+        },
+        {
+          "value": "300 dpi",
+          "label": "résolution à viser pour une image imprimée nette"
+        },
+        {
+          "value": "1 prototype",
+          "label": "minimum à imprimer avant de lancer une série"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Construire une carte lisible : format, zones et hiérarchie",
+      "id": "construire-une-carte-lisible-format-zones-et-hierarchie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une bonne carte se comprend d’un seul regard. Réservez les éléments les plus importants aux endroits où l’œil les attend : le nom en haut, l’illustration dans une grande zone centrale, les informations de jeu regroupées en bas, et les repères secondaires en petits caractères mais jamais minuscules. Ne remplissez pas tous les espaces : des marges et du vide améliorent immédiatement la perception de qualité."
+    },
+    {
+      "type": "steps",
+      "title": "Créer votre gabarit pas à pas",
+      "items": [
+        {
+          "title": "Fixez le format final",
+          "text": "Créez un document au format d’environ 63 × 88 mm. Ajoutez autour une marge technique de 2 à 3 mm si vous prévoyez une découpe bord à bord."
+        },
+        {
+          "title": "Tracez une zone de sécurité",
+          "text": "Gardez les textes, symboles et éléments importants à au moins 3 mm du bord final. Une coupe légèrement décalée ne doit jamais rogner une information."
+        },
+        {
+          "title": "Répartissez les informations",
+          "text": "Placez le nom et un niveau ou type éventuel en haut, l’illustration au centre, puis les capacités, valeurs et textes d’ambiance dans la partie basse."
+        },
+        {
+          "title": "Choisissez peu de polices",
+          "text": "Utilisez une police expressive au maximum pour le nom et une police très lisible pour les règles. Deux polices suffisent dans la plupart des cas."
+        },
+        {
+          "title": "Créez un dos original",
+          "text": "Concevez un motif simple et identique pour toutes vos cartes : initiales de votre jeu, symbole inventé, couleur unie texturée ou illustration abstraite. Il doit être opaque et distinct d’un dos officiel."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test de lecture à bout de bras",
+      "html": "Imprimez votre première version, posez-la sur une table puis regardez-la sans la tenir. Si le nom, la valeur principale et l’action essentielle ne ressortent pas immédiatement, augmentez le contraste, simplifiez le décor ou agrandissez les caractères."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Créer l’illustration sans compromettre la qualité",
+      "id": "creer-l-illustration-sans-compromettre-la-qualite"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’image donne son identité à la carte, mais elle ne doit pas rendre les informations illisibles. Votre illustration peut être un dessin, une peinture, une photo personnelle, un collage ou une image numérique réalisée par vous. Pour une photo, privilégiez un sujet bien éclairé et détaché du fond. Pour un dessin, photographiez ou numérisez-le à plat, avec une lumière uniforme, puis recadrez-le avant de l’intégrer."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez d’utiliser au hasard des illustrations trouvées en ligne, même si elles semblent faciles à télécharger. Elles peuvent être protégées. Utilisez vos propres créations, des éléments explicitement libres d’utilisation selon leurs conditions, ou des banques d’images dont la licence convient à votre projet. Si la carte est publiée, offerte en grand nombre ou vendue, cette vérification devient indispensable."
+    },
+    {
+      "type": "table",
+      "caption": "Les éléments à prévoir sur une carte personnalisée jouable",
+      "headers": [
+        "Élément",
+        "Utilité",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Nom du personnage",
+          "Identifier rapidement la carte",
+          "Restez sous une dizaine de caractères si possible"
+        ],
+        [
+          "Illustration",
+          "Donner une identité visuelle",
+          "Conservez un contraste suffisant avec le cadre"
+        ],
+        [
+          "Type ou famille",
+          "Classer les cartes et créer des interactions",
+          "Employez un code couleur cohérent"
+        ],
+        [
+          "Valeur principale",
+          "Mesurer la résistance, la force ou le niveau",
+          "Placez-la toujours au même endroit"
+        ],
+        [
+          "Action ou capacité",
+          "Expliquer l’effet en jeu",
+          "Une phrase courte est préférable à un paragraphe dense"
+        ],
+        [
+          "Coût ou condition",
+          "Limiter l’usage des actions puissantes",
+          "Utilisez des symboles simples, accompagnés d’une légende"
+        ],
+        [
+          "Texte d’ambiance",
+          "Ajouter de l’humour ou une histoire",
+          "À réserver aux cartes décoratives ou aux espaces libres"
+        ]
+      ],
+      "note": "N’ajoutez un symbole que si vous l’utilisez de la même manière sur plusieurs cartes : la cohérence est plus importante que la sophistication."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Équilibrer les valeurs si vous voulez jouer avec vos cartes",
+      "id": "equilibrer-les-valeurs-si-vous-voulez-jouer-avec-vos-cartes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une carte amusante n’est pas nécessairement surpuissante. Si une créature élimine tout en un tour, résiste à tout et ne coûte rien à utiliser, elle rend les autres cartes inutiles. À l’inverse, une carte trop faible ne sera jamais choisie. L’équilibre vient d’un compromis entre puissance, coût, condition et fragilité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez avec une petite échelle de valeurs, par exemple cinq ou six niveaux de puissance au lieu de chiffres très élevés. Une capacité forte peut exiger un coût, n’être utilisable qu’une fois, demander une préparation ou comporter un risque. Une carte défensive peut avoir peu d’attaque mais offrir une protection à l’équipe. Une carte rapide peut être moins résistante. Ces différences créent de vrais choix."
+    },
+    {
+      "type": "proscons",
+      "title": "Faut-il reprendre les règles d’un jeu existant ?",
+      "pros": [
+        "Des règles déjà connues réduisent le temps d’apprentissage entre amis.",
+        "Les joueurs peuvent comparer plus facilement la force de vos idées.",
+        "Des cartes de test peuvent aider à visualiser une stratégie avant d’acheter ou d’échanger une carte que vous recherchez."
+      ],
+      "cons": [
+        "Copier la présentation, les mots-clés ou les signes distinctifs peut faire passer votre création pour une carte officielle.",
+        "Les règles détaillées d’un jeu de cartes sont souvent plus complexes qu’elles n’en ont l’air.",
+        "Pour un jeu familial, un système original avec peu de règles est généralement plus amusant et plus facile à équilibrer."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle d’équilibrage la plus utile",
+      "html": "Pour chaque carte très forte, ajoutez au moins une contrepartie claire : <strong>coût plus élevé, condition d’activation, effet limité, faible résistance ou risque</strong>. Testez toujours cette contrepartie en situation réelle : elle doit compter, sans rendre la carte frustrante."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Imprimer, découper et assembler sans effet « bricolage »",
+      "id": "imprimer-decouper-et-assembler-sans-effet-bricolage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une carte à manipuler, le papier d’imprimante classique est trop fin. Un papier cartonné mat offre un meilleur compromis entre rigidité, rendu des couleurs et facilité de découpe. Pour une création occasionnelle, vous pouvez imprimer le recto sur papier ordinaire et le placer devant une carte de soutien dans un protège-carte opaque. Ainsi, l’épaisseur et le mélange des cartes restent réguliers."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous imprimez recto verso, réalisez d’abord un essai sur feuille ordinaire : l’alignement est souvent le principal problème. Sur une imprimante domestique, laissez sécher l’encre avant de manipuler la feuille. Utilisez un massicot ou une règle métallique avec un cutter sur un tapis de coupe ; les ciseaux conviennent à une carte unique, mais ils rendent difficile une série aux angles réguliers."
+    },
+    {
+      "type": "table",
+      "caption": "Budget et finition : des repères réalistes",
+      "headers": [
+        "Solution",
+        "Budget indicatif",
+        "Résultat",
+        "Pour qui ?"
+      ],
+      "rows": [
+        [
+          "Bristol, feutres et règle",
+          "Quelques euros de fournitures si vous n’en avez pas",
+          "Artisanal, unique",
+          "Activité créative et carte-cadeau"
+        ],
+        [
+          "Impression maison et protège-cartes",
+          "Budget léger à modéré selon le papier et les pochettes",
+          "Très correct pour jouer",
+          "Prototypes et jeu entre proches"
+        ],
+        [
+          "Papier cartonné, massicot et finition soignée",
+          "Budget modéré pour s’équiper",
+          "Série plus régulière",
+          "Petite collection personnalisée"
+        ],
+        [
+          "Impression par un professionnel",
+          "De modéré à élevé selon quantité et finitions",
+          "Rendu homogène",
+          "Projet graphique abouti, sans imiter une carte officielle"
+        ]
+      ],
+      "note": "Le coût par carte baisse quand vous produisez une série, mais n’investissez pas dans une grande quantité avant d’avoir validé le prototype."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist avant l’impression finale",
+      "items": [
+        "Vérifiez que chaque image est suffisamment nette à sa taille réelle.",
+        "Relisez les noms, les coûts, les valeurs et les effets : une faute sur dix cartes est vite reproduite.",
+        "Imprimez au moins une page de test à 100 % de l’échelle, sans option d’ajustement automatique.",
+        "Contrôlez l’alignement recto verso devant une source lumineuse.",
+        "Découpez une carte et insérez-la dans le protège-carte prévu.",
+        "Mélangez plusieurs cartes : si l’une est reconnaissable au toucher ou au dos, ajoutez une carte de soutien identique."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tester vos cartes et corriger les défauts utiles",
+      "id": "tester-vos-cartes-et-corriger-les-defauts-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prototype ne sert pas seulement à valider l’esthétique. Donnez vos cartes à une personne qui n’a pas participé à leur création et demandez-lui d’expliquer ce qu’elle comprend. Si elle hésite sur le sens d’une capacité, le problème vient probablement du texte, pas du joueur. Notez aussi les cartes que tout le monde choisit ou, au contraire, laisse de côté : c’est le signal d’un problème d’équilibre ou de lisibilité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Corrigez une seule famille de paramètres à la fois. Par exemple, réduisez la puissance de deux cartes dominantes, puis rejouez avant de modifier toutes les valeurs. Changez le contraste ou la taille de police avant de refaire entièrement la mise en page. Cette méthode vous évite de perdre ce qui fonctionnait déjà."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Alternatives utiles et erreurs à éviter",
+      "id": "alternatives-utiles-et-erreurs-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin de fabriquer une carte complète pour personnaliser votre expérience. Une étiquette sur un protège-carte, une fiche de personnage, un jeton de jeu, un tapis personnalisé ou une boîte de rangement décorée peuvent constituer des alternatives plus rapides. Si votre objectif est d’offrir une « carte Pokémon » à un fan, une carte hommage clairement non officielle, encadrée et datée, est souvent plus touchante qu’une imitation approximative."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les erreurs les plus fréquentes",
+      "items": [
+        "Copier un dos officiel ou utiliser un nom, un logo et une numérotation qui font croire à une carte authentique.",
+        "Mettre trop de texte dans une police minuscule : une carte de jeu doit rester lisible pendant une partie.",
+        "Imprimer directement une grande série sans test de couleurs, de découpe et d’alignement.",
+        "Utiliser un papier trop fin, qui gondole ou révèle le dos par transparence.",
+        "Créer des valeurs sans logique commune d’une carte à l’autre.",
+        "Employer des illustrations récupérées en ligne sans vérifier leur autorisation d’usage.",
+        "Oublier que des cartes d’épaisseurs différentes peuvent être reconnues au mélange et fausser le jeu."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Dépenser au bon moment",
+      "html": "Le meilleur investissement n’est pas forcément une machine ou une finition brillante : commencez par <strong>un gabarit propre, un bon papier et des protège-cartes</strong>. N’envisagez une impression en série qu’après plusieurs parties de test et une relecture complète."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la création de cartes Pokémon personnalisées",
+      "items": [
+        {
+          "q": "Puis-je créer une carte Pokémon avec mon animal de compagnie ?",
+          "a": "Oui, c’est une excellente idée pour une carte-cadeau. Utilisez votre propre photo ou un dessin de votre animal, inventez un nom et des capacités amusantes, puis adoptez un cadre original. Évitez de lui donner l’apparence exacte d’une carte officielle si vous la partagez ou l’imprimez en plusieurs exemplaires."
+        },
+        {
+          "q": "Quel papier utiliser pour fabriquer une carte solide ?",
+          "a": "Un papier cartonné mat convient bien à une carte décorative. Pour jouer, la solution la plus simple et la plus régulière consiste à imprimer votre recto, à le découper, puis à le placer dans un protège-carte opaque avec une carte de soutien identique derrière. Vous obtenez une épaisseur homogène sans collage complexe."
+        },
+        {
+          "q": "Comment imprimer une carte au bon format ?",
+          "a": "Préparez votre fichier à environ 63 × 88 mm, ajoutez une marge de coupe autour si nécessaire, puis imprimez à taille réelle, sans réduction automatique. Mesurez votre premier essai à la règle : certaines imprimantes ou applications appliquent une mise à l’échelle par défaut."
+        },
+        {
+          "q": "Peut-on vendre des cartes Pokémon personnalisées ?",
+          "a": "La vente de cartes qui reprennent les personnages, logos, illustrations, dos ou codes visuels officiels est risquée et peut porter atteinte à des droits de propriété intellectuelle, tout en trompant les acheteurs. Pour vendre un jeu de cartes, créez plutôt un univers, des personnages, des illustrations et une identité graphique entièrement originaux."
+        },
+        {
+          "q": "Comment rendre une carte équilibrée pour un jeu maison ?",
+          "a": "Utilisez une échelle de valeurs réduite, attribuez un coût ou une contrainte aux effets puissants et faites jouer plusieurs personnes. Si une carte est systématiquement choisie ou gagne sans contrepartie, diminuez sa puissance, augmentez son coût ou créez davantage de réponses possibles."
+        },
+        {
+          "q": "Puis-je utiliser une carte personnalisée dans un tournoi officiel ?",
+          "a": "En règle générale, une carte créée par vous ne remplace pas une carte officielle dans un cadre compétitif. Les organisateurs appliquent leurs propres règles de conformité. Gardez vos créations pour le jeu à la maison, les tests entre amis, les activités créatives et les cadeaux personnalisés."
+        }
+      ]
+    }
+  ]
+}

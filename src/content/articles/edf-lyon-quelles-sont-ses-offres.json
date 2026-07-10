@@ -1,0 +1,469 @@
+{
+  "title": "EDF LYON : Quelles sont ses offres ?",
+  "slug": "edf-lyon-quelles-sont-ses-offres",
+  "path": "/divers/edf-lyon-quelles-sont-ses-offres.html",
+  "category": "argent",
+  "tags": [
+    "edf lyon",
+    "offre électricité",
+    "offre gaz",
+    "tarif réglementé",
+    "heures creuses",
+    "déménagement lyon"
+  ],
+  "excerpt": "À Lyon, EDF propose des contrats nationaux d’électricité et de gaz. Voici comment choisir l’option, la puissance et la formule adaptées à votre logement.",
+  "metaDescription": "À Lyon, comparez les offres EDF d’électricité et de gaz : tarif réglementé, prix de marché, options, démarches et pièges à éviter avant de souscrire.",
+  "seoTitle": "EDF Lyon : offres d’électricité et de gaz à comparer",
+  "heroKicker": "Énergie à Lyon",
+  "readingTime": 11,
+  "date": "2018-06-25T10:43:08",
+  "image": {
+    "id": "180",
+    "alt": "EDF LYON : Quelles sont ses offres ?",
+    "width": 342,
+    "height": 342
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Chercher « EDF Lyon » ne signifie pas qu’il existe une grille tarifaire réservée aux Lyonnais : EDF commercialise principalement des offres nationales, tandis que les réseaux locaux acheminent l’électricité et le gaz jusqu’à votre logement. Le bon choix dépend donc moins de votre arrondissement que de votre énergie de chauffage, de vos habitudes de consommation, de la puissance du compteur et du niveau de stabilité de prix que vous recherchez."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel avant de souscrire",
+      "items": [
+        "À Lyon, vous pouvez choisir EDF pour l’électricité, le gaz ou les deux, mais le réseau et les dépannages relèvent généralement du gestionnaire de réseau, non du fournisseur.",
+        "Pour l’électricité, le <strong>tarif réglementé de vente</strong> et les offres de marché répondent à des logiques différentes : comparez le coût global, pas seulement le prix du kWh.",
+        "Les heures creuses ne sont rentables que si vous décalez une part réellement importante de vos usages aux plages définies pour votre compteur.",
+        "Pour le gaz, il n’existe plus de tarif réglementé : comparez les contrats de marché avec le prix repère du gaz comme point de référence.",
+        "Un changement de fournisseur est sans coupure et sans changement de compteur ; lors d’un déménagement, anticipez en revanche la mise en service."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EDF à Lyon : ce que recouvre réellement l’expression",
+      "id": "edf-a-lyon-ce-que-recouvre-reellement-l-expression"
+    },
+    {
+      "type": "paragraph",
+      "html": "EDF est un <strong>fournisseur d’énergie</strong>. Il vend le contrat, facture votre consommation, encaisse les paiements et constitue votre interlocuteur pour une question sur l’offre ou la facture. À Lyon, comme dans la plupart des communes françaises, l’électricité est acheminée par le réseau public, généralement exploité par Enedis, et le gaz par le réseau concerné, généralement GRDF lorsqu’il est disponible. Votre fournisseur n’intervient pas sur le câble, la canalisation ou le compteur en cas de panne technique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette distinction est utile au quotidien. Une coupure générale dans le quartier, un compteur défectueux ou une odeur de gaz imposent de contacter le gestionnaire de réseau ou les services d’urgence indiqués sur votre facture ; changer de fournisseur n’y remédiera pas. En revanche, pour souscrire une offre EDF, résilier votre ancien contrat, modifier une option tarifaire ou comprendre une régularisation, c’est bien EDF qu’il faut solliciter."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Pas de tarif EDF propre à Lyon",
+      "html": "Votre adresse sert surtout à vérifier l’existence du raccordement, le type de compteur, la puissance disponible et, pour le gaz, la desserte du logement. Les offres EDF destinées aux particuliers sont en principe nationales. Un abonnement présenté comme « lyonnais » mérite donc d’être vérifié : il peut s’agir d’un service local d’accompagnement, pas nécessairement d’une offre d’énergie distincte."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "0 €",
+          "label": "pour changer de fournisseur d’électricité ou de gaz, sans coupure ni remplacement de compteur"
+        },
+        {
+          "value": "≤ 36 kVA",
+          "label": "puissance de compteur permettant aux particuliers d’accéder au Tarif Bleu réglementé de l’électricité"
+        },
+        {
+          "value": "2 index",
+          "label": "au minimum sur une option heures pleines / heures creuses : chacun doit être lu séparément"
+        },
+        {
+          "value": "1 contrat",
+          "label": "par point de livraison : un déménagement impose d’ouvrir ou de reprendre un contrat à votre nom"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les offres EDF d’électricité : les grandes familles",
+      "id": "les-offres-edf-d-electricite-les-grandes-familles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le catalogue commercial évolue régulièrement : un nom d’offre peut disparaître, une promotion peut être limitée dans le temps et les modalités de révision peuvent changer. Plutôt que de vous arrêter à une appellation, identifiez la <strong>famille tarifaire</strong>, la durée d’engagement de prix éventuelle et les conditions générales. EDF propose habituellement le Tarif Bleu réglementé ainsi que des offres de marché, avec des options de consommation et parfois une composante environnementale."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales catégories d’offres d’électricité EDF à examiner",
+      "headers": [
+        "Famille d’offre",
+        "Fonctionnement du prix",
+        "Pour quel profil ?",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Tarif Bleu réglementé",
+          "Tarifs encadrés par les pouvoirs publics ; abonnement et kWh évoluent selon la réglementation.",
+          "Vous recherchez une formule lisible et une référence connue pour comparer.",
+          "Il n’est pas forcément le moins cher à chaque instant ; comparez l’estimation annuelle complète."
+        ],
+        [
+          "Offre de marché à prix fixe",
+          "Le prix de fourniture peut être fixé pendant une période définie au contrat.",
+          "Vous privilégiez la visibilité sur une partie de votre facture.",
+          "Vérifiez ce qui est réellement fixe : taxes, acheminement et abonnement peuvent évoluer."
+        ],
+        [
+          "Offre de marché à prix variable ou indexé",
+          "Le prix suit une formule et peut évoluer selon les conditions contractuelles.",
+          "Vous acceptez une évolution de prix clairement expliquée et souhaitez comparer une remise ou un indice.",
+          "Lisez la formule de révision, sa fréquence et le support de référence."
+        ],
+        [
+          "Option Base",
+          "Un seul prix du kWh, quelle que soit l’heure.",
+          "Petit ou moyen logement, usages peu flexibles, rythme de vie irrégulier.",
+          "Ne pas choisir les heures creuses par réflexe."
+        ],
+        [
+          "Heures pleines / heures creuses",
+          "Deux prix de kWh selon les plages attribuées au compteur.",
+          "Ballon d’eau chaude programmable, véhicule électrique, appareils décalables.",
+          "Les plages ne se choisissent pas librement et l’abonnement est souvent plus élevé."
+        ],
+        [
+          "Option avec jours et couleurs tarifaires",
+          "Le prix varie fortement selon les jours et créneaux prévus par l’option.",
+          "Foyer capable de réduire fortement chauffage et gros usages certains jours.",
+          "Très rentable pour certains profils, contraignante et risquée sans solution de repli."
+        ]
+      ],
+      "note": "Les intitulés commerciaux, les remises éventuelles et la disponibilité des options doivent toujours être confirmés dans la fiche descriptive et les conditions contractuelles en vigueur."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le Tarif Bleu : une référence, pas un choix automatique",
+      "id": "le-tarif-bleu-une-reference-pas-un-choix-automatique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le Tarif Bleu est le tarif réglementé de vente de l’électricité accessible aux compteurs de puissance inférieure ou égale à 36 kVA. Il existe notamment avec une option Base, une option heures pleines / heures creuses et, selon les conditions applicables, des options à effacement ou à jours différenciés. Son intérêt principal est sa lisibilité : vous savez que le prix est réglementé, sans devoir analyser une formule de marché. Il reste néanmoins pertinent de comparer son <strong>coût annuel estimé</strong> à celui d’une offre de marché équivalente, à puissance et option identiques."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Prix fixe : ce que la promesse protège réellement",
+      "id": "prix-fixe-ce-que-la-promesse-protege-reellement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une offre « à prix fixe » n’implique presque jamais que votre facture totale ne bougera pas. Le fournisseur peut fixer pour une durée donnée le prix de sa fourniture d’électricité, mais les taxes et contributions, le tarif d’acheminement ou d’autres composantes réglementées restent susceptibles d’évoluer. Comparez donc deux éléments : la durée de fixation et la phrase précise qui définit les éléments exclus. Une offre fixe est surtout une protection contre l’évolution de la composante énergie, pas une garantie de budget absolu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Électricité verte : regardez le mécanisme annoncé",
+      "id": "electricite-verte-regardez-le-mecanisme-annonce"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une offre dite verte repose couramment sur l’achat de <strong>garanties d’origine</strong> : le fournisseur garantit qu’une quantité d’électricité renouvelable équivalente à votre consommation a été injectée sur le réseau. C’est un mécanisme encadré utile pour soutenir la traçabilité renouvelable, mais l’électricité qui arrive physiquement chez vous reste celle du réseau commun. Si ce critère compte pour vous, vérifiez l’origine annoncée des garanties, leur niveau de traçabilité et l’éventuel surcoût, plutôt que de vous fier au seul mot « vert »."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les offres EDF de gaz à Lyon : comment les lire",
+      "id": "les-offres-edf-de-gaz-a-lyon-comment-les-lire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre immeuble ou votre maison est raccordé au gaz, EDF peut également fournir du gaz naturel. Contrairement à l’électricité, le gaz pour les particuliers ne relève plus d’un tarif réglementé de vente : les contrats proposés sont des <strong>offres de marché</strong>. Ils peuvent prévoir un prix fixe pendant une période déterminée ou un prix révisable selon une formule indiquée au contrat."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour savoir si une proposition est cohérente, ne comparez pas seulement le prix affiché du kWh. Le gaz comprend un abonnement, un prix de consommation et des éléments réglementés et fiscaux. Le <strong>prix repère du gaz</strong>, publié à titre indicatif par la Commission de régulation de l’énergie, constitue un bon point de comparaison : il ne s’agit pas d’une offre à souscrire, mais d’un étalon pour apprécier une estimation annuelle."
+    },
+    {
+      "type": "table",
+      "caption": "Quel type d’offre de gaz convient à votre situation ?",
+      "headers": [
+        "Votre situation",
+        "Type de formule à étudier",
+        "Ce qu’il faut contrôler"
+      ],
+      "rows": [
+        [
+          "Cuisson uniquement",
+          "Abonnement faible et prix du kWh correct.",
+          "Avec une très faible consommation, l’abonnement pèse souvent plus que le kWh."
+        ],
+        [
+          "Cuisson et eau chaude",
+          "Offre équilibrée avec estimation adaptée à votre profil.",
+          "Vérifiez que l’estimation utilise la bonne classe de consommation."
+        ],
+        [
+          "Chauffage au gaz",
+          "Offre fixe ou formule indexée lisible, à comparer sur une année.",
+          "Le volume consommé rend un faible écart de kWh plus significatif ; comparez aussi l’abonnement."
+        ],
+        [
+          "Gaz collectif dans l’immeuble",
+          "Contrat collectif géré par la copropriété ou le bailleur dans de nombreux cas.",
+          "Vous ne pouvez pas forcément choisir un fournisseur individuel pour cette part de consommation."
+        ]
+      ],
+      "note": "Un logement lyonnais peut être chauffé à l’électricité, au gaz, par un réseau de chaleur ou par une solution collective. Vérifiez toujours vos équipements avant de demander une offre duale."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au gaz collectif",
+      "html": "Dans certains immeubles, le chauffage et/ou l’eau chaude sont collectifs. La dépense apparaît alors dans les charges et non sur un contrat individuel de gaz. Souscrire un contrat de gaz sans compteur individuel ou sans usage privé serait inutile : demandez d’abord la répartition exacte des énergies au bailleur, au syndic ou à l’ancien occupant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Base, heures creuses ou jours différenciés : choisir la bonne option",
+      "id": "base-heures-creuses-ou-jours-differencies-choisir-la-bonne-o"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’option tarifaire peut peser davantage qu’une petite différence de prix entre deux fournisseurs. Avec l’option Base, tous vos kWh ont le même tarif : c’est la solution la plus simple et souvent la plus protectrice si vous ne maîtrisez pas vos horaires. L’option heures pleines / heures creuses distingue des créneaux moins chers et plus chers, attribués par le gestionnaire de réseau. Ils peuvent inclure la nuit et parfois une partie de la journée ; vous ne choisissez pas les horaires à la carte."
+    },
+    {
+      "type": "comparison",
+      "title": "Option Base ou heures creuses ?",
+      "left": {
+        "title": "Option Base",
+        "points": [
+          "Un prix unique, facile à prévoir et à contrôler.",
+          "Adaptée si le logement est vide aux heures creuses ou si les appareils ne sont pas programmables.",
+          "Évite de payer davantage vos usages quotidiens en heures pleines.",
+          "Souvent plus sereine pour un petit appartement sans eau chaude électrique ni recharge de véhicule."
+        ]
+      },
+      "right": {
+        "title": "Heures pleines / heures creuses",
+        "points": [
+          "Intéressante si le ballon d’eau chaude, la recharge d’un véhicule ou le lave-linge sont réellement décalés.",
+          "Demande une programmation et un suivi des deux index de consommation.",
+          "Peut coûter plus cher si l’essentiel des usages reste en heures pleines.",
+          "À juger sur le gain annuel net, abonnement compris, et non sur le seul tarif heures creuses."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Les options à jours différenciés vont plus loin : certains jours ou créneaux sont très avantageux, tandis que d’autres peuvent être coûteux. Elles s’adressent aux foyers qui peuvent vraiment éviter les appareils énergivores et réduire le chauffage électrique durant les périodes défavorables. Dans un appartement mal isolé avec chauffage électrique impossible à moduler, ce type d’option peut au contraire créer de mauvaises surprises."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode simple pour tester l’intérêt des heures creuses",
+      "items": [
+        {
+          "title": "Relevez vos usages décalables",
+          "text": "Listez le ballon d’eau chaude, la recharge de véhicule, le lave-vaisselle, le lave-linge et le sèche-linge. Ne comptez que les usages réellement programmables."
+        },
+        {
+          "title": "Consultez les horaires du compteur",
+          "text": "Retrouvez-les sur votre espace client, une facture ou l’afficheur du compteur communicant. Vérifiez qu’ils correspondent à votre rythme de vie."
+        },
+        {
+          "title": "Comparez le coût annuel global",
+          "text": "Demandez une estimation avec la même puissance pour l’option Base et l’option heures creuses. Additionnez abonnement et consommation, en répartissant cette dernière entre les deux périodes."
+        },
+        {
+          "title": "Prévoyez une marge réaliste",
+          "text": "Si vous n’êtes pas certain de décaler durablement vos usages, privilégiez la simplicité de l’option Base plutôt qu’un gain théorique très faible."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Puissance du compteur : le réglage qui peut alourdir la facture",
+      "id": "puissance-du-compteur-le-reglage-qui-peut-alourdir-la-factur"
+    },
+    {
+      "type": "paragraph",
+      "html": "La puissance souscrite, exprimée en kVA, détermine ce que votre installation peut faire fonctionner simultanément et influence le montant de l’abonnement. Dans un petit logement peu équipé, une puissance faible peut suffire ; un logement familial tout électrique, doté par exemple d’un ballon d’eau chaude, de plaques, d’un four et d’un chauffage électrique, nécessite souvent davantage de marge. Les repères courants vont de 3 à 12 kVA pour les particuliers, mais seul votre équipement permet de choisir correctement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une puissance trop basse entraîne des disjonctions lorsque plusieurs appareils fonctionnent en même temps. Une puissance trop élevée vous fait payer un abonnement inutilement élevé chaque mois. Avant toute modification, observez les moments de pointe : cuisson, chauffage, eau chaude, lave-linge et recharge de voiture peuvent se cumuler. Avec un compteur communicant, vos données de consommation peuvent aider à repérer ces pics, à condition de les consulter sur une période représentative."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les questions à vous poser avant de modifier la puissance",
+      "items": [
+        "Votre chauffage est-il électrique, au gaz, collectif ou assuré par un réseau de chaleur ?",
+        "Possédez-vous des plaques à induction, un sèche-linge, un ballon électrique ou une borne de recharge ?",
+        "Des disjonctions se produisent-elles réellement, et dans quelles circonstances ?",
+        "Pouvez-vous éviter de lancer les appareils les plus puissants simultanément ?",
+        "Le gain attendu sur l’abonnement justifie-t-il les éventuels frais d’intervention ou de changement ?"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir et comment comparer sans vous tromper",
+      "id": "quel-budget-prevoir-et-comment-comparer-sans-vous-tromper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de budget EDF valable pour tous les Lyonnais. Un studio chauffé collectivement consomme très peu d’électricité hors usages domestiques ; une maison chauffée à l’électricité ou un grand appartement mal isolé peut consommer plusieurs fois davantage. Pour le gaz, la différence entre la cuisson seule et le chauffage est tout aussi considérable. Raisonnez donc en <strong>coût annuel estimé</strong>, établi avec votre consommation réelle ou, à défaut, une estimation prudente liée à la surface, au chauffage et au nombre d’occupants."
+    },
+    {
+      "type": "table",
+      "caption": "Les éléments qui composent votre budget d’énergie",
+      "headers": [
+        "Élément",
+        "Ce qui le fait varier",
+        "Bon réflexe"
+      ],
+      "rows": [
+        [
+          "Abonnement",
+          "Énergie choisie, puissance électrique, option tarifaire et type d’usage gaz.",
+          "Comparez l’abonnement sur douze mois, surtout si vous consommez peu."
+        ],
+        [
+          "Consommation",
+          "kWh utilisés, prix du kWh, répartition heures pleines / creuses.",
+          "Utilisez une facture annuelle plutôt qu’une estimation de mensualité isolée."
+        ],
+        [
+          "Acheminement, taxes et contributions",
+          "Règles réglementaires et caractéristiques du contrat.",
+          "Ne confondez pas prix fixe de fourniture et facture globale figée."
+        ],
+        [
+          "Services facultatifs",
+          "Assurance, assistance, suivi renforcé ou prestations ajoutées.",
+          "N’acceptez que les options dont vous connaissez le coût et l’utilité."
+        ]
+      ],
+      "note": "Une mensualité est un mode de paiement et non le prix réel de l’énergie. Elle peut être régularisée si votre consommation dépasse l’estimation initiale."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le comparatif utile tient en une ligne",
+      "html": "Pour chaque contrat, notez : <strong>abonnement annuel + consommation annuelle estimée + coût des services optionnels</strong>. Comparez cette somme avec la même puissance, la même option tarifaire et le même volume de kWh. Sans ces trois paramètres identiques, une remise affichée ne permet pas de conclure."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Déménagement ou changement de fournisseur : les démarches à Lyon",
+      "id": "demenagement-ou-changement-de-fournisseur-les-demarches-a-ly"
+    },
+    {
+      "type": "paragraph",
+      "html": "En cas de <strong>changement de fournisseur</strong> dans un logement que vous occupez déjà, le nouveau fournisseur gère normalement la résiliation auprès de l’ancien. Vous conservez le même compteur et la même qualité d’alimentation : la continuité de fourniture est assurée par le réseau. N’organisez donc pas deux résiliations concurrentes, sauf indication expresse liée à votre situation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un <strong>déménagement</strong>, la logique est différente. Vous devez résilier le contrat de l’ancien logement, même si vous restez chez EDF, puis souscrire pour la nouvelle adresse. Préparez idéalement l’adresse complète, la date d’entrée, le numéro du point de livraison électrique (PDL ou PRM) et, pour le gaz, le numéro de point de comptage et d’estimation (PCE), s’ils sont accessibles. Une photo des index lors de l’état des lieux reste une précaution utile, surtout si le logement n’est pas équipé d’un compteur communicant."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "title": "Checklist de souscription",
+      "items": [
+        "Identifiez les énergies réellement utilisées dans le logement : électricité seule, gaz individuel, énergie collective ou réseau de chaleur.",
+        "Relevez la puissance actuelle et l’option tarifaire figurant sur la dernière facture ou le compteur.",
+        "Rassemblez votre consommation annuelle ; à défaut, estimez-la sans sous-évaluer le chauffage et l’eau chaude.",
+        "Lisez la fiche descriptive, le prix de l’abonnement, le prix du kWh, la durée de fixation éventuelle et les conditions d’évolution.",
+        "Vérifiez les services ajoutés, le mode de facturation, les échéances et les conditions de résiliation.",
+        "Conservez la confirmation de souscription et le relevé de compteur d’entrée ou de sortie."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EDF ou un autre fournisseur : faut-il rester, partir ou revenir ?",
+      "id": "edf-ou-un-autre-fournisseur-faut-il-rester-partir-ou-revenir"
+    },
+    {
+      "type": "paragraph",
+      "html": "EDF n’est pas le seul fournisseur accessible à Lyon. La concurrence porte sur le prix, la structure de l’offre, le service client, les outils de suivi, les modalités de prix et l’approche environnementale. Mais tous utilisent le même réseau au même logement : changer de fournisseur ne rend pas l’électricité plus stable et ne modifie pas le délai de dépannage du réseau."
+    },
+    {
+      "type": "proscons",
+      "title": "Choisir EDF : les avantages et limites à mettre en balance",
+      "pros": [
+        "Accès au Tarif Bleu réglementé de l’électricité, qui sert de référence à de nombreux ménages.",
+        "Offres d’électricité et de gaz pouvant simplifier la gestion si vous souhaitez un interlocuteur unique.",
+        "Contrats et options tarifaires largement connus, avec une information réglementaire structurée.",
+        "Possibilité de comparer des offres de marché au sein du même fournisseur."
+      ],
+      "cons": [
+        "EDF n’est pas systématiquement le moins cher pour chaque profil de consommation.",
+        "Un contrat dual peut être pratique sans être nécessairement le plus compétitif sur chacune des deux énergies.",
+        "Les noms d’offres et les conditions promotionnelles changent : il faut vérifier le document contractuel actuel.",
+        "Une offre verte fondée sur des garanties d’origine ne signifie pas une livraison physique d’électricité locale renouvelable."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez revenir chez EDF ou changer à nouveau de fournisseur selon les conditions applicables à votre contrat, sans intervention sur l’installation. Avant de décider, utilisez si besoin le comparateur indépendant du médiateur national de l’énergie et mettez en concurrence des offres présentant les mêmes caractéristiques. Pour le gaz, rapprochez aussi les propositions du prix repère. Le meilleur contrat est celui dont le coût global et le mode d’évolution correspondent à votre consommation réelle, pas celui dont la réduction de départ paraît la plus spectaculaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui font payer plus cher",
+      "id": "les-erreurs-qui-font-payer-plus-cher"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à choisir uniquement sur un prix de kWh mis en avant. Dans un petit logement, l’abonnement peut peser lourd ; dans un logement chauffé à l’électricité ou au gaz, le prix du kWh et la formule de révision deviennent plus déterminants. La deuxième est de prendre les heures creuses sans automatiser les usages. Enfin, une puissance mal ajustée peut annuler l’économie recherchée sur une offre de fourniture."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les pièges à éviter",
+      "items": [
+        "Comparer une offre avec heures creuses à une offre Base sans tenir compte de la répartition réelle de vos kWh.",
+        "Croire qu’un prix fixe inclut automatiquement les taxes et l’acheminement pendant toute la durée du contrat.",
+        "Souscrire du gaz sans vérifier que vous disposez d’un compteur individuel et d’un usage au gaz.",
+        "Laisser un contrat actif dans l’ancien logement après votre départ.",
+        "Confondre une mensualité basse avec un coût annuel bas : une régularisation peut suivre.",
+        "Négliger les services payants ajoutés au contrat ou les conditions de leur résiliation."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur EDF à Lyon",
+      "items": [
+        {
+          "q": "Existe-t-il une offre EDF spéciale pour Lyon ?",
+          "a": "En pratique, les offres d’EDF destinées aux particuliers sont nationales. Votre adresse lyonnaise détermine surtout le raccordement, le compteur, la puissance disponible et les modalités de mise en service. Comparez donc les conditions contractuelles nationales plutôt qu’une supposée tarification par arrondissement."
+        },
+        {
+          "q": "EDF est-il obligatoire à Lyon ?",
+          "a": "Non. Vous pouvez choisir EDF ou un autre fournisseur pour l’électricité et, si votre logement dispose d’un compteur individuel, pour le gaz. Le réseau reste le même quel que soit le fournisseur. EDF demeure toutefois le fournisseur qui propose le Tarif Bleu réglementé de l’électricité aux clients éligibles."
+        },
+        {
+          "q": "Qui appeler en cas de panne d’électricité ou de fuite de gaz à Lyon ?",
+          "a": "Pour une coupure liée au réseau ou un problème de compteur, contactez le gestionnaire de réseau dont les coordonnées figurent sur votre facture. En cas d’odeur de gaz, appliquez les consignes de sécurité, évitez toute source d’étincelle et appelez sans attendre le service d’urgence gaz. EDF traite les questions de contrat et de facturation, pas les urgences de réseau."
+        },
+        {
+          "q": "Les heures creuses EDF sont-elles intéressantes dans un appartement lyonnais ?",
+          "a": "Elles le sont surtout si vous pouvez déplacer durablement des usages importants sur les plages prévues : ballon d’eau chaude électrique, recharge d’un véhicule, appareils programmables. Dans un petit appartement avec peu d’équipements décalables, l’option Base est souvent plus simple et peut être plus économique. Comparez toujours abonnement compris."
+        },
+        {
+          "q": "Puis-je souscrire chez EDF pour l’électricité et le gaz avec une seule facture ?",
+          "a": "Oui, lorsqu’un compteur individuel existe pour chacune des énergies et que le logement est raccordé aux deux réseaux. Cette solution simplifie la gestion, mais comparez séparément le coût de l’électricité et du gaz : une offre duale n’est pas automatiquement la meilleure sur les deux postes."
+        },
+        {
+          "q": "Quels documents faut-il prévoir pour ouvrir un contrat EDF lors d’un déménagement ?",
+          "a": "Préparez l’adresse complète, la date d’emménagement, le relevé ou une photo du compteur si possible, le numéro PDL ou PRM pour l’électricité et le PCE pour le gaz lorsqu’ils sont disponibles. Un RIB peut être demandé pour le prélèvement. Anticipez la démarche pour éviter d’arriver dans un logement dont l’énergie a été coupée."
+        }
+      ]
+    }
+  ]
+}

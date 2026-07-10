@@ -1,0 +1,479 @@
+{
+  "title": "Jeux en ligne : quels sont les jeux disponibles ?",
+  "slug": "jeux-en-ligne-quels-sont-les-jeux-disponibles",
+  "path": "/divers/jeux-en-ligne-quels-sont-les-jeux-disponibles.html",
+  "category": "loisirs",
+  "tags": [
+    "jeux en ligne",
+    "jeu multijoueur",
+    "jeux gratuits",
+    "gaming",
+    "sécurité numérique",
+    "plateformes de jeu"
+  ],
+  "excerpt": "Du jeu sur navigateur au MMO sur console, découvrez les formats, genres, coûts et réflexes utiles pour choisir des jeux en ligne sans mauvaise surprise.",
+  "metaDescription": "Panorama des jeux en ligne : plateformes, genres, budgets, sécurité et critères pour choisir un jeu adapté à votre matériel et vos envies.",
+  "seoTitle": "Jeux en ligne : quels jeux choisir et où jouer ?",
+  "heroKicker": "Jouer sans se tromper",
+  "readingTime": 11,
+  "date": "2018-11-26T16:06:07",
+  "image": {
+    "id": "110",
+    "alt": "Jeux en ligne : quels sont les jeux disponibles ?",
+    "width": 640,
+    "height": 360
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Les jeux en ligne ne se résument plus aux parties multijoueurs sur ordinateur : on peut aujourd’hui jouer depuis un navigateur, un téléphone, une console, une tablette ou via le cloud. Face à cette abondance, le bon choix dépend moins de la popularité d’un titre que de votre matériel, de votre temps disponible, de votre budget et du type d’expérience recherché."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un jeu en ligne peut être gratuit à l’entrée, mais intégrer des achats optionnels, un abonnement ou du contenu payant : vérifiez le modèle économique avant de commencer.",
+        "Le support compte autant que le jeu : navigateur et mobile privilégient l’accès immédiat ; PC et consoles offrent généralement plus de profondeur et de confort.",
+        "Les principaux genres couvrent la coopération, la compétition, la stratégie, le sport, la simulation, les jeux de rôle, les jeux de cartes et les expériences créatives.",
+        "Pour jouer sereinement, protégez votre compte, encadrez les dépenses et utilisez les outils de confidentialité et de contrôle parental.",
+        "Ne confondez pas jeux vidéo en ligne et jeux d’argent : ces derniers relèvent d’un cadre légal, de risques et de précautions spécifiques."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’appelle-t-on exactement un jeu en ligne ?",
+      "id": "qu-appelle-t-on-exactement-un-jeu-en-ligne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un <strong>jeu en ligne</strong> est un jeu qui utilise une connexion internet pour proposer tout ou partie de son expérience : affrontements contre d’autres joueurs, coopération, classements, échanges, téléchargement de contenus ou sauvegarde dans le cloud. Certains sont exclusivement connectés ; d’autres restent jouables seul, mais ajoutent des fonctions sociales ou compétitives en ligne."
+    },
+    {
+      "type": "paragraph",
+      "html": "La notion recouvre donc des réalités très différentes. Une partie de puzzle sur mobile, une aventure coopérative à deux, un jeu de course en réseau, un univers persistant réunissant des milliers de personnes et un jeu de cartes tactique peuvent tous être des jeux en ligne. Le point commun n’est pas le genre, mais l’interaction avec des serveurs et, souvent, avec une communauté."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 accès",
+          "label": "navigateur, installation locale ou cloud : les trois grandes façons de lancer un jeu en ligne"
+        },
+        {
+          "value": "0 € à plusieurs dizaines d’euros",
+          "label": "ordre de grandeur du coût d’entrée selon le modèle gratuit, l’achat du jeu ou l’équipement requis"
+        },
+        {
+          "value": "1 compte sécurisé",
+          "label": "une adresse e-mail protégée et une double authentification évitent de nombreuses déconvenues"
+        },
+        {
+          "value": "Quelques minutes à plusieurs heures",
+          "label": "durée typique d’une session selon le genre, du jeu occasionnel au monde persistant"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les formats disponibles : où peut-on jouer ?",
+      "id": "les-formats-disponibles-ou-peut-on-jouer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de sélectionner un genre, choisissez le format compatible avec vos habitudes. La qualité de la connexion, la taille de l’écran, la précision des commandes et la possibilité de jouer avec vos proches font une différence concrète. Un excellent jeu de stratégie exigeant sera peu agréable sur un petit écran tactile, tandis qu’un jeu de réflexion rapide n’a pas forcément besoin d’un ordinateur puissant."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jeux sur navigateur : le choix de la simplicité",
+      "id": "jeux-sur-navigateur-le-choix-de-la-simplicite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les jeux accessibles directement depuis un navigateur sont adaptés aux sessions courtes et à un ordinateur peu équipé. Vous y trouverez surtout des jeux de réflexion, de cartes, de gestion, des quiz, des jeux de lettres, des jeux d’arcade et certains jeux de stratégie. Leur atout principal est l’absence d’installation ; leur limite tient souvent à une expérience moins riche, à la publicité ou à une dépendance plus forte au navigateur et à la connexion."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jeux mobiles et sur tablette : jouer partout, avec vigilance",
+      "id": "jeux-mobiles-et-sur-tablette-jouer-partout-avec-vigilance"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mobile concentre une immense variété de jeux : puzzles, jeux de rôle simplifiés, stratégie, sport, courses, jeux de cartes, construction, coopération et compétitions rapides. C’est le support le plus accessible, mais aussi celui où les <em>achats intégrés</em>, publicités récompensées, minuteries et monnaies virtuelles sont les plus fréquents. Lisez toujours la fiche du jeu et les conditions de paiement avant de le télécharger, surtout lorsqu’un enfant utilisera l’appareil."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jeux PC et console : profondeur, confort et communautés",
+      "id": "jeux-pc-et-console-profondeur-confort-et-communautes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ordinateurs et consoles accueillent les expériences multijoueurs les plus complètes : jeux de tir, mondes ouverts, jeux de rôle en ligne, simulations, sport, combat, coopération narrative ou stratégie avancée. L’installation peut être plus lourde et l’accès à certaines fonctions en ligne peut exiger un abonnement sur console. En contrepartie, l’écran, la manette ou le clavier-souris, ainsi que l’usage d’un casque, apportent généralement davantage de précision et de confort."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jeux en cloud : une alternative si votre matériel est modeste",
+      "id": "jeux-en-cloud-une-alternative-si-votre-materiel-est-modeste"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec le jeu en cloud, le jeu tourne sur des serveurs distants et l’image est diffusée sur votre appareil. Cette formule permet parfois d’accéder à des jeux exigeants sans posséder une machine très puissante. Elle requiert en revanche une connexion stable, idéalement rapide, et peut souffrir de latence : un léger décalage entre votre action et son affichage. Ce défaut est particulièrement gênant dans les jeux compétitifs rapides."
+    },
+    {
+      "type": "table",
+      "caption": "Quel support privilégier selon votre usage ?",
+      "headers": [
+        "Format",
+        "Idéal pour",
+        "Points forts",
+        "Points de vigilance"
+      ],
+      "rows": [
+        [
+          "Navigateur",
+          "Jeux occasionnels, réflexion, cartes, gestion",
+          "Accès immédiat, aucune installation",
+          "Publicité, choix parfois limité, sites peu fiables"
+        ],
+        [
+          "Mobile et tablette",
+          "Sessions courtes, jeu nomade, jeux familiaux",
+          "Très grand choix, prise en main simple",
+          "Achats intégrés, notifications, batterie et données mobiles"
+        ],
+        [
+          "PC",
+          "Jeux compétitifs, stratégie, simulation, communautés",
+          "Précision, catalogue vaste, réglages poussés",
+          "Configuration, mises à jour, coût du matériel éventuel"
+        ],
+        [
+          "Console",
+          "Jeu sur grand écran, famille, coopération",
+          "Simplicité d’usage, manette, confort du salon",
+          "Abonnement en ligne possible, écosystème plus fermé"
+        ],
+        [
+          "Cloud gaming",
+          "Accès à distance à des jeux exigeants",
+          "Moins de puissance locale nécessaire",
+          "Connexion indispensable, latence, abonnement potentiel"
+        ]
+      ],
+      "note": "Un même jeu peut exister sur plusieurs supports, mais les modes disponibles, les commandes et la compatibilité entre joueurs peuvent varier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quels genres de jeux en ligne pouvez-vous trouver ?",
+      "id": "quels-genres-de-jeux-en-ligne-pouvez-vous-trouver"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur moyen de filtrer l’offre consiste à partir de votre envie de jeu. Cherchez-vous à vous détendre cinq minutes, à résoudre des problèmes, à progresser à plusieurs ou à vous mesurer à d’autres joueurs ? Un même genre peut aussi proposer une ambiance très différente selon qu’il est coopératif, compétitif ou solo avec des fonctions connectées."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les grandes familles à connaître",
+      "items": [
+        "<strong>Jeux de réflexion et casual :</strong> puzzles, mots, chiffres, objets cachés, quiz et jeux d’arcade. Ils conviennent aux courtes sessions et aux joueurs débutants.",
+        "<strong>Jeux de cartes et de plateau :</strong> collection, tactique, jeux de société adaptés en ligne, échecs et jeux de lettres. Le rythme peut être en temps réel ou au tour par tour.",
+        "<strong>Jeux de rôle en ligne :</strong> création de personnage, quêtes, équipement, exploration et coopération. Certains univers sont persistants et demandent un investissement régulier.",
+        "<strong>Jeux de tir et d’action :</strong> affrontements rapides, objectifs d’équipe, survie ou bataille à grande échelle. Ils sont exigeants sur la réactivité et la qualité du réseau.",
+        "<strong>Jeux de sport, course et combat :</strong> matchs, championnats, ligues, conduite ou duels. Ils sont accessibles à plusieurs niveaux, mais la compétition peut être intense.",
+        "<strong>Stratégie, gestion et simulation :</strong> construction, économie, tactique militaire fictive, agriculture, ville, véhicule ou vie quotidienne. Ils favorisent davantage la planification que les réflexes.",
+        "<strong>Jeux coopératifs et d’aventure :</strong> énigmes, survie, exploration et scénarios à partager entre amis. Un bon choix pour jouer ensemble sans rechercher la performance.",
+        "<strong>Jeux créatifs et sociaux :</strong> construction, personnalisation d’univers, création de mini-jeux et espaces communautaires. Vérifiez attentivement les paramètres de discussion, surtout pour les mineurs."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon critère : le rythme qui vous convient",
+      "html": "Un jeu en ligne n’a pas besoin d’être compétitif pour être prenant. Si vous souhaitez jouer de façon détendue, privilégiez les modes coopératifs, les parties privées, le tour par tour ou les jeux sans classement. À l’inverse, si vous aimez progresser par l’entraînement, recherchez un système de parties classées clair, des tutoriels et une communauté active."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Jeux gratuits, achat unique ou abonnement : comprendre les modèles",
+      "id": "jeux-gratuits-achat-unique-ou-abonnement-comprendre-les-mode"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « gratuit » mérite d’être examiné. Un jeu <em>free-to-play</em> peut être téléchargé sans paiement, puis proposer des éléments esthétiques, des accélérateurs de progression, des personnages, des extensions ou des tirages aléatoires. Un jeu à achat unique demande un paiement initial mais peut rester plus prévisible sur le long terme. Enfin, un abonnement donne accès à des fonctionnalités en ligne ou à un catalogue, avec un coût récurrent à surveiller."
+    },
+    {
+      "type": "comparison",
+      "title": "Gratuit à l’entrée ou jeu payant : quel arbitrage ?",
+      "left": {
+        "title": "Jeu gratuit avec achats intégrés",
+        "points": [
+          "Aucun coût initial ou coût très limité pour essayer.",
+          "Communauté souvent nombreuse et accès immédiat.",
+          "Dépenses fragmentées, parfois difficiles à percevoir.",
+          "Progression, publicités ou objets optionnels peuvent créer une pression à payer."
+        ]
+      },
+      "right": {
+        "title": "Jeu à achat unique ou abonnement",
+        "points": [
+          "Budget plus lisible si vous vérifiez les frais annexes.",
+          "Expérience parfois moins centrée sur les microtransactions.",
+          "Coût d’entrée plus élevé et extensions possibles.",
+          "Un abonnement doit être résilié s’il ne sert plus."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Le modèle gratuit avec achats intégrés : avantages et limites",
+      "pros": [
+        "Permet de tester le jeu sans engagement financier important.",
+        "Facilite l’accès à une communauté d’amis sur différents appareils.",
+        "Les achats cosmétiques peuvent rester purement facultatifs dans certains jeux."
+      ],
+      "cons": [
+        "Les petites dépenses répétées peuvent dépasser le prix d’un jeu traditionnel.",
+        "Certaines mécaniques de progression sont conçues pour encourager des connexions ou achats fréquents.",
+        "Les monnaies virtuelles rendent la dépense réelle moins lisible.",
+        "Les parents doivent impérativement sécuriser les moyens de paiement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ce qu’il faut vérifier avant de télécharger ou d’acheter",
+      "id": "ce-qu-il-faut-verifier-avant-de-telecharger-ou-d-acheter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Consultez la fiche du jeu sur sa boutique officielle : âge conseillé, présence d’achats intégrés, publicité, besoin d’un abonnement, espace de stockage, connexion permanente et langues disponibles. Regardez aussi si le jeu autorise le <strong>cross-play</strong>, c’est-à-dire le jeu commun entre personnes équipées de supports différents. C’est essentiel si votre groupe d’amis mélange téléphone, ordinateur et console."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist avant de vous lancer",
+      "items": [
+        "Vérifiez que votre appareil respecte les prérequis techniques et qu’il dispose de suffisamment d’espace libre.",
+        "Identifiez le coût total : jeu, accès multijoueur, extensions éventuelles, casque ou manette si nécessaire.",
+        "Lisez les avis récents en distinguant les critiques sur le jeu de celles liées à un problème ponctuel de mise à jour.",
+        "Assurez-vous que le rythme des parties correspond à votre temps disponible : certaines activités ne se mettent pas facilement en pause.",
+        "Testez les paramètres d’accessibilité : taille des textes, sous-titres, remappage des touches, modes daltonisme ou assistance à la visée.",
+        "Si vous jouez avec des proches, confirmez la présence de serveurs dans votre région et la compatibilité entre plateformes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour jouer en ligne ?",
+      "id": "quel-budget-prevoir-pour-jouer-en-ligne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il est possible de jouer en ligne sans budget important, notamment avec les jeux sur navigateur et une sélection de titres mobiles ou PC gratuits. Mais l’équipement, les abonnements, les contenus additionnels et les achats intégrés changent rapidement l’équation. Fixer une enveloppe mensuelle est plus efficace que de juger chaque achat isolément, surtout dans les jeux qui utilisent une monnaie virtuelle."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget : pensez au coût complet",
+      "headers": [
+        "Poste de dépense",
+        "Ordre de grandeur",
+        "À vérifier"
+      ],
+      "rows": [
+        [
+          "Jeux gratuits",
+          "0 € à l’entrée",
+          "Publicité, achats intégrés, progression accélérée, offre saisonnière"
+        ],
+        [
+          "Jeu à achat unique",
+          "De quelques dizaines d’euros à davantage pour les nouveautés importantes",
+          "Éditions spéciales, contenu additionnel, coût d’accès au multijoueur"
+        ],
+        [
+          "Abonnement de jeu ou accès en ligne",
+          "Quelques euros à une dizaine d’euros environ par mois selon la formule",
+          "Renouvellement automatique, catalogue réellement utilisé, résiliation"
+        ],
+        [
+          "Équipement",
+          "De l’accessoire abordable au budget conséquent pour un appareil complet",
+          "Compatibilité, garantie, confort, besoin réel de puissance"
+        ],
+        [
+          "Données et connexion",
+          "Variable selon votre forfait et votre réseau",
+          "Jeu hors Wi-Fi, consommation de données, stabilité de la ligne"
+        ]
+      ],
+      "note": "Ces repères sont volontairement larges : les tarifs évoluent selon les plateformes, les promotions et les formules choisies."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Évitez les dépenses invisibles",
+      "html": "Désactivez l’enregistrement automatique de votre carte bancaire sur les appareils partagés. Pour un mineur, activez un code d’achat, un plafond de dépense et une validation parentale. Si un jeu utilise des jetons ou des gemmes, convertissez mentalement chaque lot en euros avant de valider : c’est le seul moyen de comparer réellement les offres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Jouer en ligne en sécurité : comptes, échanges et modération",
+      "id": "jouer-en-ligne-en-securite-comptes-echanges-et-moderation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un compte de jeu contient parfois des achats, une liste d’amis, des données personnelles et des objets virtuels accumulés pendant des mois. Il doit être protégé comme un compte de messagerie. Les tentatives de vol passent souvent par de faux cadeaux, de fausses monnaies gratuites, des liens envoyés dans le chat ou des sites imitant une boutique officielle."
+    },
+    {
+      "type": "steps",
+      "title": "Les bons réglages dès la première connexion",
+      "items": [
+        {
+          "title": "Créez un mot de passe unique",
+          "text": "Utilisez un mot de passe long, différent de celui de votre e-mail. Activez la double authentification lorsque le service la propose."
+        },
+        {
+          "title": "Réglez votre confidentialité",
+          "text": "Limitez, si besoin, les invitations, messages privés, demandes d’amis et la visibilité de votre profil. Un pseudo neutre évite aussi de révéler trop d’informations."
+        },
+        {
+          "title": "Encadrez le chat vocal et écrit",
+          "text": "Bloquez et signalez les comportements agressifs, les sollicitations insistantes ou les demandes d’informations personnelles. Ne répondez pas aux provocations."
+        },
+        {
+          "title": "N’échangez pas hors cadre officiel",
+          "text": "Ne communiquez jamais vos identifiants et méfiez-vous des échanges de comptes, objets ou monnaies proposés sur des sites tiers : les arnaques et sanctions y sont fréquentes."
+        },
+        {
+          "title": "Protégez les plus jeunes",
+          "text": "Choisissez des jeux correspondant à l’âge indiqué, paramétrez le contrôle parental et discutez des règles : pas de données personnelles, pas d’achat sans accord, pas de rendez-vous avec un inconnu rencontré en ligne."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux promesses trop belles",
+      "html": "Un site qui promet des objets rares, de la monnaie virtuelle illimitée, un compte « premium » gratuit ou un avantage contre vos identifiants est presque toujours un piège. Passez uniquement par les boutiques, applications et moyens de contact officiels du jeu ou de sa plateforme."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Jeux vidéo en ligne et jeux d’argent : une distinction indispensable",
+      "id": "jeux-video-en-ligne-et-jeux-d-argent-une-distinction-indispe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les jeux vidéo en ligne proposent du divertissement, de la compétition ou de la coopération, même lorsqu’ils comprennent des achats optionnels. Les jeux d’argent et de hasard impliquent, eux, une mise financière dans l’espoir d’un gain monétaire et sont soumis à une réglementation particulière. Ils ne doivent pas être considérés comme une simple catégorie de jeu vidéo, ni comme une manière de financer son loisir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre recherche porte sur le casino, le poker avec argent réel ou les paris, vérifiez impérativement que le service est autorisé dans votre pays, réservez-le aux adultes et fixez un budget de perte strict. Ne jouez jamais pour compenser une dépense, une dette ou une perte antérieure. Pour un loisir familial ou régulier, les jeux vidéo sans enjeu financier restent l’option la plus saine et la plus maîtrisable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir selon votre profil et vos habitudes de jeu",
+      "id": "choisir-selon-votre-profil-et-vos-habitudes-de-jeu"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de « meilleur » jeu en ligne dans l’absolu. Le bon choix est celui que vous comprendrez vite, que vous pourrez pratiquer sans contrainte excessive et qui s’intègre dans votre budget. Ne vous laissez pas guider uniquement par les classements : une communauté agréable, une interface claire et la possibilité de jouer avec les bonnes personnes ont souvent plus de valeur qu’une nouveauté très médiatisée."
+    },
+    {
+      "type": "table",
+      "caption": "Des pistes selon votre façon de jouer",
+      "headers": [
+        "Votre besoin",
+        "Genres ou formats à explorer",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Vous avez peu de temps",
+          "Puzzles, cartes, jeux au tour par tour, arcade mobile",
+          "Préférez des sessions courtes et évitez les jeux qui pénalisent l’absence."
+        ],
+        [
+          "Vous jouez en famille",
+          "Jeux de société numériques, coopération, quiz, construction",
+          "Créez des profils séparés et vérifiez l’âge conseillé ainsi que le chat."
+        ],
+        [
+          "Vous voulez jouer entre amis",
+          "Coopération, aventure, sport, course, survie",
+          "Choisissez d’abord une plateforme commune ou un jeu compatible cross-play."
+        ],
+        [
+          "Vous aimez réfléchir",
+          "Stratégie, gestion, cartes, échecs, simulation",
+          "Cherchez un tutoriel solide et la possibilité de jouer sans chronomètre."
+        ],
+        [
+          "Vous recherchez un défi compétitif",
+          "Jeux d’action, combat, sport, course, jeux de cartes classés",
+          "Testez le mode non classé avant d’investir dans le jeu ou l’équipement."
+        ],
+        [
+          "Vous souhaitez créer",
+          "Construction, simulation sociale, univers créatifs",
+          "Contrôlez les droits de publication, de partage et les interactions publiques."
+        ]
+      ],
+      "note": "Pour débuter, privilégiez un jeu proposant un tutoriel jouable, des modes contre l’intelligence artificielle ou des parties privées avec vos proches."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Alternatives si vous ne voulez pas dépendre d’une connexion",
+      "id": "alternatives-si-vous-ne-voulez-pas-dependre-d-une-connexion"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si les mises à jour, abonnements ou interactions avec des inconnus ne vous attirent pas, vous n’êtes pas obligé de renoncer au jeu vidéo. Les jeux solo hors ligne, les jeux de société, les puzzles, les jeux de cartes physiques et les expériences locales sur un même écran constituent d’excellentes alternatives. Certains jeux numériques permettent aussi de jouer à plusieurs sur le même appareil sans connexion, ce qui est particulièrement adapté aux enfants ou aux vacances."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez également adopter une approche hybride : choisir un jeu principalement solo, n’utiliser le mode en ligne qu’avec des amis connus et désactiver les notifications. Cette formule préserve le plaisir du jeu tout en limitant la pression des classements, des événements temporaires et des sollicitations commerciales."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les jeux en ligne",
+      "items": [
+        {
+          "q": "Quels jeux en ligne sont réellement gratuits ?",
+          "a": "De nombreux jeux sur navigateur, mobiles et PC sont accessibles sans paiement initial. Vérifiez toutefois la présence de publicités, d’achats intégrés, d’abonnements optionnels ou de contenu payant. Gratuit au téléchargement ne signifie pas forcément gratuit sur la durée."
+        },
+        {
+          "q": "Faut-il une connexion très rapide pour jouer en ligne ?",
+          "a": "Pas nécessairement. Les jeux de cartes, de stratégie au tour par tour ou de réflexion fonctionnent souvent avec une connexion modeste mais stable. Les jeux d’action, de course ou de tir compétitifs sont plus sensibles à la latence et gagnent à être joués via une connexion fiable, de préférence en Wi-Fi de qualité ou filaire."
+        },
+        {
+          "q": "Peut-on jouer ensemble depuis un téléphone et une console ?",
+          "a": "Oui, mais uniquement si le jeu prend en charge le cross-play entre ces plateformes. Cette information doit être vérifiée sur la fiche officielle du jeu, car la compatibilité peut concerner certains modes seulement."
+        },
+        {
+          "q": "Comment empêcher les achats dans un jeu en ligne ?",
+          "a": "Supprimez ou protégez le moyen de paiement enregistré, exigez un code ou une validation pour chaque achat et activez les outils de contrôle parental. Sur un appareil partagé, créez aussi des comptes utilisateurs distincts."
+        },
+        {
+          "q": "Quel jeu en ligne choisir pour débuter ?",
+          "a": "Commencez par un jeu dont les règles sont lisibles en quelques minutes, avec un tutoriel et un mode coopératif, solo ou non classé. Les jeux de réflexion, de cartes, de course ou de coopération simple sont souvent moins intimidants qu’un univers compétitif très technique."
+        },
+        {
+          "q": "Les jeux en ligne sont-ils adaptés aux enfants ?",
+          "a": "Certains le sont, à condition de respecter l’âge conseillé et de régler correctement le compte. Vérifiez surtout les discussions avec d’autres joueurs, les achats intégrés, les contenus créés par les utilisateurs et le temps de jeu. Un accompagnement au début reste la meilleure protection."
+        }
+      ]
+    }
+  ]
+}

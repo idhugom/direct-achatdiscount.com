@@ -1,0 +1,501 @@
+{
+  "title": "Comment faire un rubik cube",
+  "slug": "comment-faire-un-rubik-cube",
+  "path": "/divers/comment-faire-un-rubik-cube.html",
+  "category": "loisirs",
+  "tags": [
+    "rubik cube",
+    "cube 3x3",
+    "méthode débutant",
+    "casse-tête",
+    "algorithmes"
+  ],
+  "excerpt": "Une méthode progressive pour résoudre un Rubik’s Cube 3x3 : comprendre les pièces, lire les mouvements et terminer chaque étage sans vous perdre.",
+  "metaDescription": "Apprenez à résoudre un Rubik’s Cube 3x3 pas à pas : repères, mouvements, algorithmes simples, erreurs à éviter et conseils débutant.",
+  "seoTitle": "Comment faire un Rubik’s Cube : méthode débutant",
+  "heroKicker": "Défi en couleurs",
+  "readingTime": 14,
+  "date": "2022-09-24T17:12:21",
+  "image": {
+    "id": "424",
+    "alt": "Comment faire un rubik cube",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "« Faire un Rubik’s Cube » signifie le plus souvent le résoudre après l’avoir mélangé. Avec une méthode par étapes, ce casse-tête n’est pas une affaire de hasard : vous apprenez à placer les pièces du premier étage, puis à utiliser quelques séquences de mouvements pour finir le cube sans détruire ce qui est déjà fait."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir avant de commencer",
+      "items": [
+        "Les <strong>centres ne bougent pas</strong> : ils indiquent la couleur définitive de chaque face et servent de repère pendant toute la résolution.",
+        "La méthode débutant consiste à résoudre successivement la croix, les coins du premier étage, le deuxième étage, puis la dernière face.",
+        "Un algorithme doit être exécuté <strong>sans changer l’orientation du cube</strong>, sauf si l’étape vous demande explicitement de le faire.",
+        "Ne cherchez pas à mémoriser tout d’un coup : retenez d’abord les notations, puis un algorithme par situation.",
+        "Un cube de mauvaise qualité ou trop serré peut gêner l’apprentissage ; la fluidité compte davantage que la vitesse au départ."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "6",
+          "label": "faces et centres fixes qui déterminent les couleurs finales"
+        },
+        {
+          "value": "26",
+          "label": "petits éléments visibles sur un cube 3x3 assemblé"
+        },
+        {
+          "value": "20",
+          "label": "pièces mobiles à placer : 8 coins et 12 arêtes"
+        },
+        {
+          "value": "7",
+          "label": "symboles de base à connaître : R, L, U, D, F, B et leurs variantes"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre ce que vous devez résoudre",
+      "id": "comprendre-ce-que-vous-devez-resoudre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un Rubik’s Cube 3x3 n’est pas constitué de 54 carrés indépendants. Les carrés sont regroupés en <strong>centres</strong>, en <strong>arêtes</strong> (deux couleurs) et en <strong>coins</strong> (trois couleurs). Les six centres sont solidaires du mécanisme : même quand vous tournez les faces, ils conservent leur position relative. Une arête rouge-blanche devra donc toujours finir entre le centre rouge et le centre blanc ; un coin blanc-rouge-bleu devra finir à l’intersection de ces trois centres."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette règle évite une erreur très fréquente : vouloir reconstituer une face de même couleur sans vérifier les faces latérales. Une face blanche entièrement remplie peut sembler réussie tout en étant fausse si les couleurs des arêtes et des coins ne correspondent pas aux centres voisins. La méthode ci-dessous part du blanc et termine par le jaune, mais vous pouvez choisir une autre couleur à condition de conserver les mêmes repères."
+    },
+    {
+      "type": "table",
+      "caption": "Les pièces du Rubik’s Cube et leur rôle",
+      "headers": [
+        "Élément",
+        "Nombre",
+        "Comment le reconnaître",
+        "Ce qu’il faut contrôler"
+      ],
+      "rows": [
+        [
+          "Centre",
+          "6",
+          "Une seule couleur, au milieu de chaque face",
+          "Il donne la couleur cible de la face ; ne le déplacez jamais mentalement."
+        ],
+        [
+          "Arête",
+          "12",
+          "Deux couleurs, entre deux centres",
+          "Ses deux couleurs doivent correspondre aux deux centres qu’elle relie."
+        ],
+        [
+          "Coin",
+          "8",
+          "Trois couleurs, à l’angle du cube",
+          "Ses trois couleurs doivent rejoindre les trois centres adjacents."
+        ],
+        [
+          "Noyau interne",
+          "1",
+          "Mécanisme invisible reliant les centres",
+          "Il maintient le cube ; n’essayez pas de démonter le cube pour le « résoudre »."
+        ]
+      ],
+      "note": "Dans ce guide, le blanc est d’abord sur le dessus, puis sous le cube à partir du deuxième étage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelle méthode choisir pour débuter ?",
+      "id": "quelle-methode-choisir-pour-debuter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une première résolution, adoptez la <strong>méthode par couches</strong>, aussi appelée méthode débutant. Elle ne cherche pas le nombre minimal de mouvements : son objectif est de rendre chaque décision lisible. Vous terminez le premier étage, remplissez l’étage du milieu, puis résolvez la dernière couche avec des algorithmes courts et répétables."
+    },
+    {
+      "type": "comparison",
+      "title": "Méthode par couches ou méthode de vitesse ?",
+      "left": {
+        "title": "Méthode par couches, recommandée au début",
+        "points": [
+          "Logique progressive : un étage après l’autre.",
+          "Peu d’algorithmes à retenir au départ.",
+          "Facile à reprendre après une erreur ou une pause.",
+          "Plus lente une fois maîtrisée, car elle découpe la résolution en davantage d’étapes."
+        ]
+      },
+      "right": {
+        "title": "Méthodes avancées de type CFOP",
+        "points": [
+          "Pensées pour réduire le nombre de mouvements et gagner en vitesse.",
+          "Demandent l’anticipation de plusieurs pièces à la fois.",
+          "Nécessitent beaucoup plus de cas et d’algorithmes mémorisés.",
+          "À aborder après avoir résolu plusieurs fois le cube avec une méthode simple."
+        ]
+      }
+    },
+    {
+      "type": "proscons",
+      "title": "Pourquoi commencer par la méthode débutant ?",
+      "pros": [
+        "Vous comprenez où vont les pièces au lieu de reproduire des gestes au hasard.",
+        "Les séquences sont courtes et se réutilisent à plusieurs étapes.",
+        "Elle fonctionne sur n’importe quel cube 3x3 correctement assemblé.",
+        "Elle donne de bonnes bases pour évoluer ensuite vers une résolution plus rapide."
+      ],
+      "cons": [
+        "Le premier essai peut demander de nombreuses pauses pour vérifier les couleurs.",
+        "Les derniers étages paraissent moins intuitifs et reposent sur des algorithmes.",
+        "Elle n’est pas conçue pour réaliser des temps de compétition."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer le cube et apprendre la notation",
+      "id": "preparer-le-cube-et-apprendre-la-notation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de mélanger votre cube, observez les centres et vérifiez que les rotations sont possibles sans forcer. Placez le <strong>blanc sur le dessus</strong> pour les deux premières étapes. Quand vous aurez fini les coins blancs, retournez le cube : le blanc restera dessous et le jaune dessus jusqu’à la fin. Gardez autant que possible la même face devant vous, appelée face avant."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les bons réflexes avant chaque algorithme",
+      "items": [
+        "Lisez l’algorithme une fois avant de tourner le cube.",
+        "Tenez le cube fermement par les coins, sans appuyer au milieu des faces.",
+        "Vérifiez quelle face est devant, au-dessus et à droite avant le premier mouvement.",
+        "Exécutez les mouvements dans l’ordre, même si une face temporairement désordonnée vous inquiète.",
+        "À la fin de la séquence, arrêtez-vous et observez : ne poursuivez pas par des mouvements improvisés."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les lettres de mouvement à connaître",
+      "id": "les-lettres-de-mouvement-a-connaitre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Chaque lettre désigne la face que vous regardez directement au moment de la tourner : <strong>R</strong> pour la droite, <strong>L</strong> pour la gauche, <strong>U</strong> pour le dessus, <strong>D</strong> pour le dessous, <strong>F</strong> pour l’avant et <strong>B</strong> pour l’arrière. Une lettre seule signifie un quart de tour dans le sens horaire en regardant cette face. Une apostrophe inverse le sens ; le chiffre 2 signifie un demi-tour. Ainsi, R’ est un quart de tour de la face droite dans le sens inverse, tandis que F2 correspond à un demi-tour de la face avant."
+    },
+    {
+      "type": "table",
+      "caption": "Lire un algorithme sans vous tromper",
+      "headers": [
+        "Écriture",
+        "Action",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "R",
+          "Tournez la face droite d’un quart de tour horaire",
+          "Le sens est celui que vous voyez en regardant la face droite."
+        ],
+        [
+          "U’",
+          "Tournez le dessus d’un quart de tour antihoraire",
+          "L’apostrophe ne veut pas dire « revenir en arrière » : elle inverse seulement ce mouvement."
+        ],
+        [
+          "F2",
+          "Tournez l’avant d’un demi-tour",
+          "Le sens n’a pas d’importance pour un demi-tour."
+        ],
+        [
+          "R U R’ U’",
+          "Enchaînez les quatre mouvements sans réorienter le cube",
+          "Gardez la même face avant du début à la fin de la séquence."
+        ]
+      ],
+      "note": "Les lettres restent valables quelle que soit la couleur de la face ; elles désignent une position dans vos mains, pas une couleur."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur qui fait échouer les algorithmes",
+      "html": "Ne tournez pas le cube entier entre deux lettres parce que vous voulez mieux voir une face. Un algorithme est une suite précise appliquée à une orientation précise. Vous pouvez faire pivoter le cube <strong>avant</strong> de commencer une séquence, jamais au milieu, sauf indication contraire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Résoudre le premier étage : croix blanche et coins blancs",
+      "id": "resoudre-le-premier-etage-croix-blanche-et-coins-blancs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par la croix blanche. La technique la plus simple consiste à former d’abord une « marguerite » : placez les quatre arêtes blanches autour du centre jaune. Ensuite, alignez la seconde couleur de chaque arête avec son centre latéral. Lorsque, par exemple, l’arête blanc-rouge est alignée avec le centre rouge, tournez cette face de deux quarts de tour pour envoyer l’arête à côté du centre blanc. Répétez pour les quatre arêtes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Étape 1 : vérifier une vraie croix blanche",
+      "id": "etape-1-verifier-une-vraie-croix-blanche"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois la croix obtenue, le blanc doit former un plus autour du centre blanc et les quatre bandes latérales doivent être assorties à leurs centres. Prenez le temps de contrôler ce point : une croix dont les couleurs latérales ne correspondent pas provoquera des difficultés plus loin. Il est préférable de refaire une arête maintenant plutôt que de poursuivre avec une base incorrecte."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Étape 2 : insérer les quatre coins blancs",
+      "id": "etape-2-inserer-les-quatre-coins-blancs"
+    },
+    {
+      "type": "paragraph",
+      "html": "Laissez le blanc sur le dessus. Cherchez un coin contenant du blanc dans la couche du bas, puis placez-le sous son emplacement final : ses deux autres couleurs doivent correspondre aux deux centres de la fente située au-dessus. Mettez ce coin en bas à droite de la face avant et répétez l’algorithme <strong>R’ D’ R D</strong> jusqu’à ce que le coin soit correctement inséré. Selon son orientation, il faut généralement le répéter plusieurs fois."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si un coin blanc est coincé en haut mais mal placé, exécutez une fois R’ D’ R D pour le faire redescendre, puis replacez-le sous la bonne fente. Ne tournez pas seulement la face du dessus au hasard : le bon coin est celui dont les trois couleurs correspondent exactement aux trois centres autour de sa destination."
+    },
+    {
+      "type": "steps",
+      "title": "Contrôle de fin du premier étage",
+      "items": [
+        {
+          "title": "Face blanche complète",
+          "text": "Les quatre arêtes et les quatre coins entourent le centre blanc, sans trou ni couleur étrangère."
+        },
+        {
+          "title": "Couronne latérale alignée",
+          "text": "Sur chacune des quatre faces verticales, la rangée du haut affiche une couleur homogène correspondant au centre."
+        },
+        {
+          "title": "Retournez le cube",
+          "text": "Placez désormais le blanc dessous et le jaune dessus. Conservez cette orientation pour tout le reste de la résolution."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Compléter le deuxième étage sans toucher au blanc",
+      "id": "completer-le-deuxieme-etage-sans-toucher-au-blanc"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les quatre arêtes du milieu ne contiennent ni blanc ni jaune. Repérez-en une dans la couche du haut. Orientez le cube pour que sa couleur visible à l’avant corresponde au centre de la face avant. La seconde couleur vous indique alors si l’arête doit rejoindre la fente de droite ou celle de gauche. Cette lecture simple évite de mémoriser des couleurs fixes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Insérer une arête à droite",
+      "id": "inserer-une-arete-a-droite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand l’arête doit aller à droite, exécutez : <strong>U R U’ R’ U’ F’ U F</strong>. Le mouvement fait temporairement descendre une partie de la première couche, place l’arête, puis restaure ce qui avait été déplacé. Gardez toujours le blanc en bas et la couleur déjà alignée devant vous."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Insérer une arête à gauche",
+      "id": "inserer-une-arete-a-gauche"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand l’arête doit aller à gauche, exécutez : <strong>U’ L’ U L U F U’ F’</strong>. Si aucune arête utilisable n’apparaît en haut, c’est qu’une mauvaise arête occupe une fente du milieu. Utilisez l’un des deux algorithmes pour la faire sortir ; elle remontera dans la couche jaune et vous pourrez ensuite l’insérer correctement."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un repère plus fiable que la couleur du dessus",
+      "html": "Avant un algorithme de deuxième étage, regardez d’abord la couleur <strong>face à vous</strong> et alignez-la avec son centre. Ne décidez qu’ensuite si l’autre couleur part à gauche ou à droite. Cela réduit fortement les insertions inversées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Former la croix jaune sur la dernière face",
+      "id": "former-la-croix-jaune-sur-la-derniere-face"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque les deux premiers étages sont terminés, vous n’avez plus à protéger que le bas et les deux rangées inférieures des faces latérales. Gardez le jaune au-dessus. Votre premier objectif n’est pas de faire toute la face jaune : vous devez seulement orienter les arêtes pour obtenir une croix jaune."
+    },
+    {
+      "type": "paragraph",
+      "html": "Utilisez l’algorithme <strong>F R U R’ U’ F’</strong>. Vous pouvez rencontrer un point jaune seul, une forme en L, une ligne ou déjà une croix. Avec une ligne, tenez-la horizontalement avant de faire la séquence. Avec une forme en L, placez ses deux arêtes jaunes de façon à dessiner un L dans la zone supérieure gauche de la face jaune. Avec un point, faites la séquence, observez la nouvelle forme, puis recommencez si nécessaire."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne vous préoccupez pas encore des couleurs latérales de cette croix. À ce stade, les arêtes jaunes peuvent être orientées vers le haut mais rester devant le mauvais centre : leur permutation interviendra à la toute fin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Finir la face jaune puis placer les coins",
+      "id": "finir-la-face-jaune-puis-placer-les-coins"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour orienter les coins jaunes, placez un coin non jaune sur le dessus à la position avant-droite. Répétez <strong>R’ D’ R D</strong> jusqu’à ce que le jaune de ce coin soit sur le dessus. Ensuite, tournez uniquement la face du dessus U pour amener le coin jaune suivant à la position avant-droite, puis répétez. Continuez jusqu’à ce que toute la face du dessus soit jaune."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "À ce moment, le cube semble se dérégler : c’est normal",
+      "html": "Pendant l’orientation des coins jaunes, les faces latérales paraissent être abîmées. Ne tentez surtout pas de les corriger entre deux coins. Terminez les quatre coins en ne tournant que U pour passer de l’un à l’autre : les étages inférieurs se restaureront à la fin."
+    },
+    {
+      "type": "paragraph",
+      "html": "La face jaune est maintenant complète, mais les coins peuvent être à la mauvaise place. Cherchez un coin déjà correctement placé : ses trois couleurs doivent correspondre aux trois centres voisins, même si vous ne regardez pas le jaune. Placez ce coin à l’avant-droite, puis faites <strong>U R U’ L’ U R’ U’ L</strong>. Vérifiez les coins. S’il n’y avait aucun coin correct au départ, faites la séquence une fois depuis n’importe quelle orientation, puis cherchez-en un à nouveau."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il peut être nécessaire de répéter cette séquence. Entre deux tentatives, replacez systématiquement un coin correct à l’avant-droite. Ne confondez pas un coin jaune bien orienté avec un coin bien placé : la face jaune uniforme ne permet plus, à elle seule, de vérifier sa position."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Placer les dernières arêtes et terminer le cube",
+      "id": "placer-les-dernieres-aretes-et-terminer-le-cube"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il reste les quatre arêtes jaunes. Regardez les couleurs latérales : cherchez une arête déjà en face du bon centre. Si vous en trouvez une, placez-la à l’arrière du cube. Exécutez ensuite <strong>F2 U L R’ F2 L’ R U F2</strong>. Cette séquence fait circuler les autres arêtes sans casser les coins ni les deux premiers étages."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après l’algorithme, observez de nouveau les arêtes. Si elles ne sont pas toutes à leur place, gardez une arête correcte à l’arrière et répétez. S’il n’y a aucune arête correcte au départ, réalisez la séquence une première fois depuis une position quelconque : vous devriez ensuite disposer d’une arête repère. Terminez éventuellement par une rotation U, U’ ou U2 du dessus afin d’aligner les dernières couleurs avec leurs centres."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre cube est résolu si…",
+      "items": [
+        "Chaque face présente une seule couleur uniforme.",
+        "Les couleurs autour de chaque centre correspondent aux pièces voisines.",
+        "Aucune pièce ne semble « presque » correcte : un seul autocollant mal aligné signifie que le cube n’est pas terminé.",
+        "Vous pouvez faire tourner toutes les faces sans résistance anormale ni pièce qui se soulève."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs courantes, blocages et cas impossibles",
+      "id": "erreurs-courantes-blocages-et-cas-impossibles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le blocage le plus courant n’est pas un algorithme oublié, mais une orientation perdue. Si une séquence ne donne pas le résultat attendu, reprenez les trois repères : quelle face est devant, où est le blanc, et quelle pièce êtes-vous censé insérer ? Revenez au dernier état que vous compreniez plutôt que d’empiler des algorithmes. Photographier votre cube avant une étape délicate peut aussi aider un débutant à diagnostiquer une erreur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un cube mélangé normalement ne peut pas présenter une seule arête retournée ou un seul coin pivoté. Si vous observez ce cas après avoir démonté, remonté ou fait sauter une pièce, le cube a sans doute été réassemblé dans une configuration impossible. Aucun algorithme standard ne peut le résoudre : il faut corriger physiquement l’orientation de la pièce concernée, avec prudence, ou demander de l’aide si le mécanisme est fragile."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les pièges à éviter",
+      "items": [
+        "Résoudre une face unie sans contrôler les centres latéraux.",
+        "Exécuter la moitié d’un algorithme, puis essayer de « réparer » à la main.",
+        "Changer la face avant pendant une séquence.",
+        "Forcer un cube qui accroche : vous risquez de faire sortir une pièce ou d’user le mécanisme.",
+        "Apprendre des dizaines de formules avant de savoir reconnaître les situations auxquelles elles répondent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "S’entraîner, choisir un cube et aller plus loin",
+      "id": "s-entrainer-choisir-un-cube-et-aller-plus-loin"
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre objectif initial n’est pas le chrono, mais une résolution reproductible. Faites plusieurs résolutions lentes en annonçant mentalement ce que vous voyez : « cette arête va à droite », « ce coin appartient ici », « je garde le bon coin à l’avant-droite ». Quand les gestes deviennent fiables, les pauses diminuent naturellement. Apprenez d’abord les trois familles les plus utiles : insertion de coin, insertion d’arête du milieu et gestion de la dernière couche."
+    },
+    {
+      "type": "table",
+      "caption": "Quel budget prévoir pour un cube d’entraînement ?",
+      "headers": [
+        "Type de cube",
+        "Ordre de budget",
+        "Pour qui",
+        "Ce qu’il faut privilégier"
+      ],
+      "rows": [
+        [
+          "Cube loisir basique",
+          "Quelques euros à une dizaine d’euros environ",
+          "Découverte occasionnelle",
+          "Mécanisme correct, autocollants ou couleurs lisibles, bonne tenue en main."
+        ],
+        [
+          "Cube magnétique ou « speedcube » d’entrée de gamme",
+          "Environ une à quelques dizaines d’euros",
+          "Apprentissage régulier",
+          "Rotations fluides, bonne stabilité, réglage simple si disponible."
+        ],
+        [
+          "Cube orienté performance",
+          "Quelques dizaines d’euros et davantage",
+          "Pratique rapide ou exigeante",
+          "Réglages fins, aimants, coupe de coin et confort personnel."
+        ],
+        [
+          "Accessoires",
+          "Petit budget additionnel",
+          "Entretien et rangement",
+          "Housse, lubrifiant adapté au cube, chiffon doux."
+        ]
+      ],
+      "note": "Les montants varient selon le format, la qualité du mécanisme et le canal d’achat. Un modèle fluide de milieu de gamme est généralement plus agréable qu’un cube très bon marché qui accroche."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour l’entretien, essuyez simplement la poussière avec un chiffon doux et évitez l’eau, les huiles ménagères et les solvants. Si le cube devient bruyant ou sec, utilisez seulement un lubrifiant conçu pour les puzzles mécaniques et en quantité modérée. Un cube trop lubrifié attire la poussière ; un cube trop serré devient fatigant à manipuler."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Et si vous vouliez « fabriquer » un Rubik’s Cube ?",
+      "html": "Le terme « faire un Rubik’s Cube » peut aussi désigner la fabrication d’un objet décoratif. Pour un cube fonctionnel, le mécanisme interne est complexe : il est plus réaliste de personnaliser un cube existant avec des stickers adaptés ou des tuiles colorées. Pour une maquette, du carton épais, du bois ou l’impression 3D conviennent, mais les faces ne tourneront pas nécessairement comme sur un vrai 3x3."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la résolution d’un Rubik’s Cube",
+      "items": [
+        {
+          "q": "Combien de temps faut-il pour apprendre à faire un Rubik’s Cube ?",
+          "a": "Une première résolution guidée demande souvent de la patience et des pauses, mais elle reste accessible en une séance. Comptez plutôt en dizaines de minutes que quelques minutes lors des premiers essais. Avec quelques entraînements, vous mémoriserez les séquences et comprendrez mieux où placer les pièces."
+        },
+        {
+          "q": "Faut-il apprendre tous les algorithmes par cœur ?",
+          "a": "Non. Pour la méthode débutant, mémorisez-les progressivement et associez chaque séquence à une situation précise : coin à insérer, arête à droite, arête à gauche, croix jaune ou dernière couche. Comprendre le rôle de la séquence est plus utile que réciter une longue liste."
+        },
+        {
+          "q": "Pourquoi ma face blanche est-elle faite mais mon cube reste bloqué ?",
+          "a": "Vérifiez les couleurs latérales. Une arête blanche doit être placée entre le centre blanc et son second centre de couleur ; un coin blanc doit correspondre aux trois centres autour de lui. Une face blanche unie peut être incorrecte si les pièces sont dans de mauvaises fentes."
+        },
+        {
+          "q": "Mon cube a une seule arête retournée : puis-je la corriger avec un algorithme ?",
+          "a": "Pas si le cube a été mélangé uniquement par des rotations normales. Une seule arête retournée est une configuration physiquement impossible sur un cube 3x3 intact ; elle indique généralement qu’une pièce a été retirée ou mal remontée. Il faut alors la repositionner mécaniquement."
+        },
+        {
+          "q": "Quel Rubik’s Cube choisir pour débuter ?",
+          "a": "Choisissez un cube 3x3 de taille standard, fluide mais pas trop lâche, avec des couleurs bien contrastées. Un modèle d’entrée de gamme conçu pour la vitesse peut améliorer le confort, mais vous n’avez pas besoin d’un modèle haut de gamme pour apprendre la méthode par couches."
+        },
+        {
+          "q": "Puis-je résoudre un cube sans algorithmes ?",
+          "a": "Les deux premiers étages peuvent largement se résoudre par observation et logique. En revanche, la dernière couche exige des mouvements qui préservent ce qui est déjà résolu ; les algorithmes sont précisément la manière la plus simple et la plus fiable de produire cet effet."
+        }
+      ]
+    }
+  ]
+}

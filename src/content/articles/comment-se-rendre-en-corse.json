@@ -1,0 +1,485 @@
+{
+  "title": "Comment se rendre en corse ?",
+  "slug": "comment-se-rendre-en-corse",
+  "path": "/divers/comment-se-rendre-en-corse.html",
+  "category": "voyage",
+  "tags": [
+    "corse",
+    "ferry corse",
+    "avion corse",
+    "voyage en corse",
+    "transport corse",
+    "vacances corse"
+  ],
+  "excerpt": "Avion, ferry avec ou sans voiture, correspondances : choisissez le trajet vers la Corse selon votre ville de départ, votre budget et votre séjour.",
+  "metaDescription": "Avion ou ferry pour aller en Corse ? Comparez durées, budgets, ports, aéroports et options avec voiture pour préparer le trajet le plus adapté.",
+  "seoTitle": "Comment se rendre en Corse : avion, ferry et conseils",
+  "heroKicker": "Cap sur l’île",
+  "readingTime": 11,
+  "date": "2022-09-14T11:45:51",
+  "image": {
+    "id": "419",
+    "alt": "Comment se rendre en corse ?",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Aller en Corse demande un peu plus d’anticipation qu’un trajet vers une destination continentale : l’île se rejoint principalement par avion ou par bateau. Le meilleur choix dépend moins de la durée théorique du voyage que de votre point de départ, de la présence d’une voiture, de vos bagages et de votre façon de découvrir l’île."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>L’avion</strong> est le choix le plus rapide pour un séjour court, un départ lointain ou un voyage sans voiture.",
+        "<strong>Le ferry</strong> devient souvent très pertinent si vous partez avec votre véhicule, des enfants, un animal ou beaucoup de matériel.",
+        "Choisissez votre port ou aéroport d’arrivée selon votre <strong>première étape réelle</strong> : la Corse est montagneuse et les temps de route sont plus longs qu’ils n’en ont l’air.",
+        "En haute saison, réservez tôt et comparez le <strong>coût global</strong> : transport, bagages, véhicule, carburant, parking, transfert et éventuelle nuit d’étape.",
+        "Pour un voyage serein, prévoyez une marge avant le départ : les horaires maritimes et aériens peuvent être affectés par la météo ou la forte affluence."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les deux grandes façons de rejoindre la Corse",
+      "id": "les-deux-grandes-facons-de-rejoindre-la-corse"
+    },
+    {
+      "type": "paragraph",
+      "html": "La Corse est desservie par quatre principaux aéroports — autour d’Ajaccio, Bastia, Calvi et Figari — et par plusieurs ports, dont Bastia, Ajaccio, L’Île-Rousse, Porto-Vecchio et Propriano. Depuis la France continentale, l’Italie et parfois d’autres pays voisins, vous pouvez donc prendre un vol direct ou embarquer sur un ferry. Il n’existe pas de liaison ferroviaire directe avec le continent : le train peut toutefois compléter votre itinéraire une fois sur place."
+    },
+    {
+      "type": "comparison",
+      "title": "Avion ou ferry : quel choix pour votre voyage ?",
+      "left": {
+        "title": "Prendre l’avion",
+        "points": [
+          "Idéal pour gagner du temps et pour les séjours de quelques jours.",
+          "Pratique si vous n’avez pas besoin d’emporter votre propre véhicule.",
+          "Souvent simple depuis une grande ville reliée à l’un des aéroports corses.",
+          "Coût à surveiller avec les bagages, la location de voiture et les transferts.",
+          "Moins adapté au transport d’équipements encombrants ou à un itinéraire très itinérant."
+        ]
+      },
+      "right": {
+        "title": "Prendre le ferry",
+        "points": [
+          "Permet d’embarquer voiture, moto, vélo, matériel de sport ou animal selon les conditions du transporteur.",
+          "Plus souple pour un séjour en famille et une découverte de plusieurs régions.",
+          "La traversée peut devenir une partie agréable du voyage, surtout de nuit en cabine.",
+          "Durée plus longue et disponibilité limitée pour les véhicules aux périodes chargées.",
+          "Le prix varie fortement selon le véhicule, la cabine, l’horaire et le niveau de remplissage."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prendre l’avion : la solution la plus rapide",
+      "id": "prendre-l-avion-la-solution-la-plus-rapide"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’avion convient particulièrement si vous partez sans voiture, si votre temps est compté ou si votre ville de départ est bien connectée. Les vols directs depuis certaines villes françaises ou européennes raccourcissent nettement le parcours ; à l’inverse, une correspondance peut annuler une bonne partie de l’avantage de temps. Avant de réserver, ne regardez donc pas seulement le temps de vol : additionnez le trajet jusqu’à l’aéroport, l’arrivée en avance, l’attente des bagages, puis le transfert vers votre hébergement."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "45 min à 2 h",
+          "label": "ordre de grandeur d’un vol direct depuis des villes du continent, selon l’aéroport de départ"
+        },
+        {
+          "value": "4 aéroports",
+          "label": "principales portes d’entrée aériennes : Bastia, Ajaccio, Calvi et Figari"
+        },
+        {
+          "value": "30 min à plusieurs heures",
+          "label": "temps de transfert possible entre l’aéroport et votre hébergement selon la région choisie"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quel aéroport corse choisir ?",
+      "id": "quel-aeroport-corse-choisir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon aéroport est celui qui limite votre premier transfert, pas forcément celui qui affiche le billet le moins cher. <strong>Bastia</strong> facilite l’accès au nord-est, au Cap Corse et à une partie de la Balagne. <strong>Ajaccio</strong> est logique pour la côte ouest, le golfe d’Ajaccio et l’intérieur proche. <strong>Figari</strong> dessert utilement l’extrême sud, Bonifacio et Porto-Vecchio. <strong>Calvi</strong> est pratique pour la Balagne et le nord-ouest. Sur une île aux routes sinueuses, changer d’aéroport pour économiser une petite somme peut vous coûter beaucoup de temps de route."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour choisir son aéroport d’arrivée en Corse",
+      "headers": [
+        "Aéroport",
+        "Régions les plus pratiques",
+        "À privilégier si…",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Bastia",
+          "Cap Corse, région bastiaise, côte orientale, une partie de la Balagne",
+          "Votre séjour commence au nord ou à l’est",
+          "Les distances vers le sud de l’île restent importantes"
+        ],
+        [
+          "Ajaccio",
+          "Golfe d’Ajaccio, ouest, centre-ouest, vallées proches",
+          "Vous visez l’ouest ou un circuit dans le centre",
+          "L’accès à l’extrême nord ou au sud demande du temps"
+        ],
+        [
+          "Calvi",
+          "Balagne, nord-ouest, villages de l’arrière-pays",
+          "Vous voulez rayonner autour de Calvi et L’Île-Rousse",
+          "Offre de vols parfois plus restreinte selon la période"
+        ],
+        [
+          "Figari",
+          "Bonifacio, Porto-Vecchio, Alta Rocca, sud",
+          "Vous séjournez dans le sud de la Corse",
+          "Les liaisons vers le nord et l’ouest sont longues"
+        ]
+      ],
+      "note": "Les dessertes directes changent selon la saison et l’aéroport de départ : vérifiez toujours les horaires et les conditions bagages avant de figer votre hébergement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bagages, location et transferts : le vrai prix de l’avion",
+      "id": "bagages-location-et-transferts-le-vrai-prix-de-l-avion"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un billet aérien attractif ne suffit pas à comparer les options. Vérifiez la franchise cabine, le prix des bagages en soute, les dimensions autorisées, les frais éventuels de choix de siège et le coût d’un transfert tardif. Si vous louez une voiture, réservez-la dès que vos vols sont confirmés : les véhicules familiaux, automatiques ou adaptés aux routes de montagne sont les premiers à devenir rares. Inspectez aussi les horaires d’ouverture de l’agence, les conditions de carburant, l’assurance, le kilométrage et la possibilité de restituer la voiture dans une autre ville."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux arrivées tardives",
+      "html": "Une arrivée en fin de soirée peut compliquer la récupération d’un véhicule, l’accès à un village isolé ou l’entrée dans un hébergement sans réception. Si vous atterrissez tard, privilégiez un logement proche de l’aéroport ou confirmez précisément les modalités d’arrivée avec votre hébergeur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prendre le ferry : indispensable avec une voiture, très utile en famille",
+      "id": "prendre-le-ferry-indispensable-avec-une-voiture-tres-utile-e"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le ferry relie la Corse à plusieurs ports du continent, notamment sur la façade méditerranéenne française, ainsi qu’à des ports italiens. C’est l’option naturelle si vous voulez voyager avec votre voiture, une moto, un van, des vélos ou du matériel de plongée, de randonnée ou de glisse. Elle peut aussi être plus confortable avec de jeunes enfants : vous gardez votre équipement, évitez les limites de bagages et pouvez organiser librement vos déplacements à l’arrivée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Traversée de jour ou traversée de nuit ?",
+      "id": "traversee-de-jour-ou-traversee-de-nuit"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une traversée de jour permet de profiter du paysage et peut être plus économique, mais elle immobilise une grande partie de la journée. Une traversée de nuit optimise le temps sur place : vous roulez jusqu’au port, dormez à bord et arrivez le matin. Elle est particulièrement intéressante si vous habitez loin du port d’embarquement ou si vous souhaitez commencer à rouler dès l’arrivée. En contrepartie, une cabine représente un coût supplémentaire et une nuit en fauteuil convient rarement aux personnes ayant le sommeil léger, aux très jeunes enfants ou à ceux qui veulent arriver reposés."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir sa formule de ferry",
+      "headers": [
+        "Formule",
+        "Durée habituelle",
+        "Pour qui ?",
+        "Arbitrage principal"
+      ],
+      "rows": [
+        [
+          "Traversée de jour",
+          "Quelques heures à une grande partie de la journée selon la liaison",
+          "Voyageurs flexibles, budgets serrés, trajets courts vers le port",
+          "Moins chère dans certains cas, mais une journée de vacances est consacrée au transport"
+        ],
+        [
+          "Traversée de nuit en fauteuil",
+          "Souvent une nuit complète ou une large partie de la nuit",
+          "Adultes à l’aise avec un confort simple",
+          "Gain de temps, confort et intimité limités"
+        ],
+        [
+          "Traversée de nuit en cabine",
+          "Souvent une nuit complète ou une large partie de la nuit",
+          "Familles, couples, voyageurs qui conduisent après l’arrivée",
+          "Plus reposant, mais surcoût à intégrer au budget"
+        ],
+        [
+          "Ferry avec véhicule",
+          "Même durée de mer, plus temps d’embarquement et débarquement",
+          "Road trips, familles, matériel volumineux",
+          "Liberté sur l’île contre coût et réservation plus contraignante"
+        ]
+      ],
+      "note": "Les temps de navigation, les escales et les équipements à bord dépendent de la ligne et de l’horaire. Consultez les détails de la traversée, pas uniquement l’heure de départ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Embarquer sa voiture, sa moto ou un camping-car",
+      "id": "embarquer-sa-voiture-sa-moto-ou-un-camping-car"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au moment de la réservation, renseignez les dimensions exactes du véhicule avec les accessoires qui dépassent : coffre de toit, porte-vélos, remorque ou attelage peuvent modifier la catégorie. Gardez à portée de main la confirmation, les documents du véhicule et les éventuelles consignes d’embarquement. Arrivez dans la plage indiquée par la compagnie, surtout en période dense. Ne laissez pas dans la voiture ce dont vous aurez besoin pendant la traversée : l’accès au garage peut être interdit une fois le navire en route."
+    },
+    {
+      "type": "proscons",
+      "title": "Venir en Corse avec son propre véhicule",
+      "pros": [
+        "Vous êtes autonome dès la sortie du port, sans attente de location.",
+        "Vous emportez facilement poussette, glacière, équipement de plage, vélos ou matériel de randonnée.",
+        "Vous pouvez changer de région, dormir dans plusieurs hébergements et explorer l’intérieur de l’île.",
+        "Vous connaissez déjà votre véhicule et ses équipements."
+      ],
+      "cons": [
+        "Le coût augmente avec la longueur, la hauteur et la période de voyage.",
+        "Les places véhicules partent vite, en particulier pour les grands gabarits.",
+        "La conduite sur routes étroites et sinueuses peut être fatigante avec un véhicule volumineux.",
+        "Le stationnement peut être limité ou payant dans certains sites très fréquentés."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir le bon port d’arrivée selon votre itinéraire",
+      "id": "choisir-le-bon-port-d-arrivee-selon-votre-itineraire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le port le plus pertinent se choisit comme l’aéroport : selon votre première nuit et non selon la seule disponibilité. <strong>Bastia</strong> est une porte d’entrée majeure pour le nord et la côte orientale. <strong>Ajaccio</strong> sert naturellement l’ouest et le golfe éponyme. <strong>L’Île-Rousse</strong> est très pratique pour la Balagne. <strong>Porto-Vecchio</strong> et <strong>Propriano</strong>, lorsqu’ils sont proposés au départ choisi, peuvent réduire les kilomètres vers le sud. Comparez aussi les horaires : une arrivée au petit matin est très efficace si vous avez une route simple, moins agréable si vous devez immédiatement attaquer un long trajet de montagne."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle des deux heures",
+      "html": "Pour le premier jour, évitez de prévoir une activité non remboursable peu après l’arrivée. Entre débarquement, récupération des bagages, circulation estivale, ravitaillement et recherche de stationnement, gardez idéalement une vraie marge avant tout rendez-vous."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Combiner train, voiture et bateau : les itinéraires malins",
+      "id": "combiner-train-voiture-et-bateau-les-itineraires-malins"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’êtes pas obligé de tout faire en voiture ou tout faire en avion. Depuis une ville éloignée de la Méditerranée, le train peut vous amener jusqu’à une ville portuaire, puis le ferry prend le relais. Cette combinaison évite parfois une longue conduite avant l’embarquement et les frais de parking à l’aéroport. Elle exige toutefois une marge généreuse entre les deux billets, car une correspondance manquée entre deux opérateurs peut être difficile à gérer."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Se déplacer une fois arrivé sans voiture",
+      "id": "se-deplacer-une-fois-arrive-sans-voiture"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il est possible de visiter la Corse sans voiture, surtout pour un séjour centré sur une ville, une plage accessible, un itinéraire de randonnée bien préparé ou des étapes reliées par le train corse et des autocars. Mais il faut accepter des fréquences limitées, des horaires saisonniers et une couverture inégale des criques, villages perchés et départs de sentiers. Pour un circuit mêlant plusieurs zones reculées, une voiture reste généralement la solution la plus souple. Une autre option consiste à louer un véhicule seulement quelques jours, puis à séjourner sans voiture dans une ville ou une station bien desservie."
+    },
+    {
+      "type": "comparison",
+      "title": "Faut-il venir avec sa voiture ou en louer une sur place ?",
+      "left": {
+        "title": "Emporter sa voiture",
+        "points": [
+          "Pertinent pour un long séjour, un road trip ou une famille très équipée.",
+          "Pas de file d’attente ni de contrat de location à gérer à l’arrivée.",
+          "Coût du ferry à comparer à la location, sans oublier carburant et trajet jusqu’au port.",
+          "Choix particulièrement intéressant si votre véhicule est adapté à vos besoins."
+        ]
+      },
+      "right": {
+        "title": "Louer sur place",
+        "points": [
+          "Pratique pour arriver en avion et réduire la durée totale du trajet.",
+          "Peut convenir à un court séjour ou à quelques jours de découverte ciblée.",
+          "Réservation précoce recommandée pour les catégories demandées.",
+          "Contrôlez assurances, franchise, état du véhicule et contraintes de stationnement de votre hébergement."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : comparez le coût porte à porte, pas le billet seul",
+      "id": "budget-comparez-le-cout-porte-a-porte-pas-le-billet-seul"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les tarifs pour la Corse fluctuent fortement en fonction de la période, du jour, de l’horaire, de l’anticipation et du remplissage. Il est donc plus utile de raisonner en postes de dépenses. Un vol peut sembler économique, puis devenir plus coûteux une fois ajoutés la soute, la location de voiture et les transferts. À l’inverse, un ferry avec voiture représente un budget plus élevé à première vue, mais il peut se répartir favorablement entre plusieurs passagers et éviter la location sur place."
+    },
+    {
+      "type": "table",
+      "caption": "Les dépenses à intégrer dans votre comparaison",
+      "headers": [
+        "Poste",
+        "Voyage en avion",
+        "Voyage en ferry",
+        "Conseil pratique"
+      ],
+      "rows": [
+        [
+          "Transport principal",
+          "Billet variable selon ligne, bagage et période",
+          "Passagers, véhicule, catégorie de siège ou cabine",
+          "Comparez plusieurs jours et horaires, à conditions identiques"
+        ],
+        [
+          "Accès au départ",
+          "Carburant, train, navette ou parking aéroport",
+          "Carburant, train ou péages pour rejoindre le port",
+          "Chiffrez le trajet aller-retour, pas seulement l’aller"
+        ],
+        [
+          "Mobilité sur l’île",
+          "Location, carburant, taxi ou transports collectifs",
+          "Votre véhicule et son carburant, ou transports collectifs",
+          "Vérifiez les besoins réels de voiture selon l’hébergement"
+        ],
+        [
+          "Confort",
+          "Choix de siège, bagage cabine ou soute",
+          "Cabine, repas, éventuels équipements à bord",
+          "Ne comparez pas un fauteuil de nuit à un vol avec hôtel d’étape"
+        ],
+        [
+          "Imprévus",
+          "Modification, bagage, transfert manqué",
+          "Modification, retard, conditions météo",
+          "Lisez les conditions d’échange et d’annulation avant paiement"
+        ]
+      ],
+      "note": "En période de très forte demande, le premier tarif affiché est rarement le coût final. Faites une simulation complète pour tous les voyageurs et tous les équipements."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Un réflexe qui peut faire la différence",
+      "html": "Testez au moins trois scénarios : <strong>avion + location</strong>, <strong>ferry avec votre véhicule</strong> et, si cela a du sens, <strong>avion + voiture louée seulement quelques jours</strong>. Pour une famille, comparez le total du dossier, pas le prix par personne affiché en premier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand réserver et comment éviter les mauvaises surprises",
+      "id": "quand-reserver-et-comment-eviter-les-mauvaises-surprises"
+    },
+    {
+      "type": "paragraph",
+      "html": "La Corse est très demandée lorsque les vacances scolaires, les week-ends prolongés et la belle saison concentrent les départs. Si vos dates sont fixes, réservez votre trajet dès que votre hébergement est suffisamment sécurisé, surtout pour un ferry avec véhicule ou une location de voiture. Si vous êtes flexible, jouez sur le jour de départ, le port, l’aéroport voisin et les horaires moins recherchés. Une arrivée très matinale ou un retour tardif peut abaisser la facture, mais seulement si les transferts et l’hébergement restent réalistes."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist avant de valider votre réservation",
+      "items": [
+        "Vérifiez que le port ou l’aéroport d’arrivée correspond bien à votre première zone de séjour.",
+        "Additionnez bagages, siège, cabine, véhicule, parking, location et transfert avant de comparer les totaux.",
+        "Contrôlez l’heure limite d’enregistrement et les documents demandés par le transporteur.",
+        "Si vous voyagez avec un véhicule, indiquez ses dimensions réelles et tous les équipements extérieurs.",
+        "Confirmez les conditions applicables aux enfants, animaux, vélos, instruments ou matériel sportif.",
+        "Lisez les règles de modification, d’annulation et de remboursement, particulièrement pour les billets les moins flexibles.",
+        "Prévoyez une solution si votre arrivée est tardive : boîte à clés, réception, navette ou hôtel proche."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conseils pratiques le jour du départ",
+      "id": "conseils-pratiques-le-jour-du-depart"
+    },
+    {
+      "type": "paragraph",
+      "html": "La préparation dépend du moyen de transport, mais un principe reste commun : arrivez avec de la marge et conservez vos documents accessibles, y compris sans connexion internet. Pour le ferry, prévoyez un petit sac de bord avec médicaments, chargeur, vêtements chauds, nécessaire de toilette et objets de valeur. Pour l’avion, anticipez les restrictions sur les liquides, le poids du bagage cabine et le temps nécessaire pour restituer une voiture au retour. Dans les deux cas, téléchargez les informations de réservation et vérifiez les éventuelles notifications de modification le jour même."
+    },
+    {
+      "type": "steps",
+      "title": "Préparer un trajet vers la Corse en 5 étapes",
+      "items": [
+        {
+          "title": "Définissez votre base de séjour",
+          "text": "Placez vos premières et dernières nuits sur une carte : cela détermine l’aéroport ou le port le plus logique."
+        },
+        {
+          "title": "Choisissez votre niveau de mobilité",
+          "text": "Décidez si vous avez réellement besoin d’une voiture tous les jours, d’un véhicule ponctuel ou de votre propre voiture."
+        },
+        {
+          "title": "Comparez les scénarios complets",
+          "text": "Calculez le prix porte à porte en ajoutant bagages, cabine, location, transferts, carburant et parking."
+        },
+        {
+          "title": "Réservez les éléments rares en premier",
+          "text": "Sur des dates fixes, sécurisez d’abord la traversée avec véhicule ou la location adaptée, puis les prestations annexes."
+        },
+        {
+          "title": "Organisez l’arrivée",
+          "text": "Prévenez l’hébergement de votre heure estimée, conservez une marge et préparez un itinéraire hors ligne pour le premier trajet."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus fréquentes à éviter",
+      "id": "les-erreurs-les-plus-frequentes-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à sous-estimer les distances sur l’île. Sur la carte, deux lieux peuvent sembler proches ; en pratique, routes de montagne, virages, traversées de villages et circulation estivale rallongent les parcours. La deuxième est de choisir un aller à Bastia et un hébergement dans l’extrême sud, ou l’inverse, sans accepter le temps de route associé. La troisième est de réserver un ferry sans préciser correctement le véhicule ou de laisser les affaires indispensables dans le garage. Enfin, ne planifiez pas un circuit avec un changement d’hébergement quotidien : la Corse se découvre mieux en rayonnant depuis deux ou trois bases bien choisies."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pour un premier séjour",
+      "html": "Un itinéraire simple consiste à choisir <strong>une région principale</strong> — nord, ouest, Balagne, sud ou centre — plutôt que de vouloir faire le tour complet de l’île en quelques jours. Vous réduirez les transferts et profiterez davantage des plages, villages et sentiers."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelle option choisir selon votre profil de voyageur ?",
+      "id": "quelle-option-choisir-selon-votre-profil-de-voyageur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un week-end prolongé à Ajaccio, Bastia, Calvi ou dans le sud, l’avion est généralement le plus cohérent, avec location ponctuelle ou transferts organisés selon le programme. Pour une semaine en famille dans une seule station, comparez sérieusement ferry avec voiture et avion avec location : le résultat dépendra du nombre de voyageurs et du matériel emporté. Pour deux semaines de road trip, le ferry avec votre véhicule procure souvent une liberté appréciable, à condition d’accepter la durée du trajet. Pour un voyageur sans voiture attiré par la marche, privilégiez une base accessible, des randonnées organisées ou des hébergements proches des gares et arrêts de transport."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes pour se rendre en Corse",
+      "items": [
+        {
+          "q": "Quel est le moyen le plus rapide pour aller en Corse ?",
+          "a": "L’avion est habituellement le plus rapide, surtout lorsqu’un vol direct relie votre ville de départ à Ajaccio, Bastia, Calvi ou Figari. Calculez toutefois le trajet complet, avec l’accès à l’aéroport, l’enregistrement et le transfert final vers votre hébergement."
+        },
+        {
+          "q": "Peut-on aller en Corse avec sa voiture ?",
+          "a": "Oui, en ferry. Vous devez sélectionner la bonne catégorie de véhicule lors de la réservation et déclarer sa longueur, sa hauteur ainsi que les accessoires extérieurs. En période demandée, les places pour véhicules doivent être réservées tôt."
+        },
+        {
+          "q": "Quel port choisir pour arriver en Corse ?",
+          "a": "Choisissez-le selon votre première région de séjour. Bastia est pratique pour le nord et l’est, Ajaccio pour l’ouest, L’Île-Rousse pour la Balagne, tandis que Porto-Vecchio ou Propriano peuvent être judicieux pour le sud lorsqu’ils sont disponibles depuis votre port de départ."
+        },
+        {
+          "q": "Est-il facile de visiter la Corse sans voiture ?",
+          "a": "C’est possible pour un séjour concentré sur une ville, une zone littorale bien reliée ou un programme de randonnée préparé. En revanche, les transports collectifs ne desservent pas tous les villages, plages et départs de sentiers avec une fréquence suffisante pour un circuit très mobile."
+        },
+        {
+          "q": "Faut-il réserver le ferry ou l’avion longtemps à l’avance ?",
+          "a": "Pour des dates fixes en période de forte affluence, oui, particulièrement si vous embarquez un véhicule, souhaitez une cabine ou devez louer une voiture sur place. Réserver tôt apporte surtout du choix ; comparez ensuite les conditions de modification avant de vous engager."
+        },
+        {
+          "q": "La traversée de nuit en ferry vaut-elle le coup ?",
+          "a": "Elle vaut souvent le coup si vous voulez économiser une journée de vacances et arriver le matin avec votre véhicule. Une cabine est recommandée si vous devez conduire après le débarquement, voyagez avec des enfants ou souhaitez réellement vous reposer."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "title": "Les graines de pastèque et leur plantation",
+  "slug": "les-graines-de-pasteque-et-leur-plantation",
+  "path": "/divers/les-graines-de-pasteque-et-leur-plantation.html",
+  "category": "maison",
+  "tags": [
+    "graines de pastèque",
+    "plantation pastèque",
+    "semis potager",
+    "culture melon d'eau",
+    "potager d'été"
+  ],
+  "excerpt": "Du choix des graines à la récolte, voici la méthode complète pour cultiver des pastèques savoureuses, même avec un été modérément chaud.",
+  "metaDescription": "Apprenez à choisir, semer et planter des graines de pastèque : chaleur, calendrier, arrosage, pollinisation et récolte au potager.",
+  "seoTitle": "Graines de pastèque : semis, plantation et conseils",
+  "heroKicker": "Potager d’été",
+  "readingTime": 12,
+  "date": "2023-01-13T18:40:41",
+  "image": {
+    "id": "956",
+    "alt": "Les graines de pastèque et leur plantation",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "La pastèque fait partie des légumes-fruits les plus gratifiants du potager, mais aussi des plus exigeants en chaleur et en espace. Partir de bonnes graines, semer au bon moment et éviter quelques erreurs d’arrosage font toute la différence entre une plante décorative et des fruits réellement sucrés."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La pastèque a besoin d’un sol <strong>riche, drainant et chaud</strong>, ainsi que d’une exposition en plein soleil.",
+        "En climat frais, semez en godets à l’abri puis plantez seulement lorsque les nuits sont durablement douces.",
+        "Prévoyez de la place : une pastèque coureuse peut occuper plusieurs mètres carrés, sauf variété compacte conduite sur support.",
+        "Arrosez régulièrement au pied pendant la croissance, puis réduisez progressivement les apports à l’approche de la maturité.",
+        "Les graines récupérées dans un fruit peuvent germer, mais elles ne reproduisent pas toujours fidèlement le fruit d’origine."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "5 à 10 jours",
+          "label": "délai de levée fréquent dans un substrat maintenu bien chaud"
+        },
+        {
+          "value": "25 à 30 °C",
+          "label": "plage de température favorable à une germination rapide"
+        },
+        {
+          "value": "80 à 120 jours",
+          "label": "ordre de grandeur entre le semis et une récolte selon la variété et le climat"
+        },
+        {
+          "value": "1 à 3 fruits",
+          "label": "objectif réaliste à laisser mûrir par plant pour les gros calibres"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre les graines de pastèque avant de les semer",
+      "id": "comprendre-les-graines-de-pasteque-avant-de-les-semer"
+    },
+    {
+      "type": "paragraph",
+      "html": "La pastèque, aussi appelée melon d’eau, appartient à la famille des cucurbitacées, comme le concombre, la courgette et le melon. Ses graines sont généralement plates, ovales et noires, brunes, beige clair ou tachetées selon les variétés. Leur couleur ne permet pas, à elle seule, de juger leur capacité à germer : ce qui compte surtout est leur maturité, leur bon séchage et leurs conditions de conservation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un premier essai, les graines achetées en sachet restent le choix le plus simple. Elles sont identifiées par variété, souvent sélectionnées pour un type de fruit, une précocité ou une taille donnée, et leur faculté germinative est contrôlée. Choisissez une variété adaptée à votre région : les variétés à maturation relativement courte et aux fruits petits à moyens sont plus sûres là où l’été est bref ou peu chaud. Les très grosses pastèques demandent une saison longue, beaucoup de soleil et un sol constamment nourricier."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux graines issues d’une pastèque du commerce",
+      "html": "Vous pouvez les semer si elles sont bien formées et mûres, mais le résultat est incertain. Le fruit peut provenir d’une variété hybride : les descendants ne seront pas forcément identiques. Une pastèque sans pépins ne fournit généralement pas de graines viables, car sa production repose sur un croisement particulier."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Graines du commerce ou graines récupérées : quel choix ?",
+      "id": "graines-du-commerce-ou-graines-recuperees-quel-choix"
+    },
+    {
+      "type": "comparison",
+      "title": "Deux façons de démarrer votre culture",
+      "left": {
+        "title": "Sachet de graines identifié",
+        "points": [
+          "Variété, précocité et calibre annoncés",
+          "Meilleur choix pour planifier l’espace et la saison",
+          "Graines prêtes à semer, avec une traçabilité claire",
+          "Solution recommandée pour débuter ou viser une récolte fiable"
+        ]
+      },
+      "right": {
+        "title": "Graines récupérées dans un fruit",
+        "points": [
+          "Économiques et intéressantes pour expérimenter",
+          "Nécessitent un fruit bien mûr et des graines parfaitement séchées",
+          "Résultat parfois différent du fruit mangé, surtout avec un hybride",
+          "À réserver si vous acceptez une part d’incertitude"
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir la variété selon votre jardin et votre climat",
+      "id": "choisir-la-variete-selon-votre-jardin-et-votre-climat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon choix ne consiste pas à prendre la plus grosse pastèque possible. Regardez d’abord la durée de culture indiquée, puis adaptez-la à votre région. Dans une zone aux étés chauds et longs, les variétés classiques coureuses donnent de très beaux résultats en pleine terre. Dans un climat plus incertain, privilégiez des variétés précoces, à chair rouge ou jaune, et dont les fruits restent d’un format raisonnable. Elles ont davantage de chances d’atteindre leur pleine maturité avant le retour des nuits fraîches."
+    },
+    {
+      "type": "paragraph",
+      "html": "La place disponible est le second critère. Une variété coureuse s’étale volontiers sur deux à plusieurs mètres. Si votre potager est petit, recherchez les mentions <em>compacte</em>, <em>buissonnante</em> ou <em>mini-pastèque</em>. Certaines peuvent être palissées, à condition de soutenir les fruits avec des filets ou des hamacs solides. En bac, ne cultivez qu’un plant par grand contenant et choisissez impérativement une variété à petits fruits."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir ses graines de pastèque selon sa situation",
+      "headers": [
+        "Votre situation",
+        "Type de variété conseillé",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Été long et très chaud",
+          "Variété coureuse à fruits moyens ou gros",
+          "Prévoir une très grande surface et des arrosages suivis"
+        ],
+        [
+          "Région aux nuits fraîches ou saison courte",
+          "Variété précoce, fruits petits à moyens",
+          "Démarrer en godets et installer en emplacement très abrité"
+        ],
+        [
+          "Petit potager",
+          "Variété compacte ou petit calibre",
+          "Limiter le nombre de plants pour ne pas étouffer les cultures voisines"
+        ],
+        [
+          "Culture en bac ou sur terrasse",
+          "Variété mini, conduite verticale possible",
+          "Utiliser un contenant profond, riche et très drainant"
+        ],
+        [
+          "Récolte de graines pour l’année suivante",
+          "Variété non hybride et isolée si possible",
+          "Éviter les croisements avec d’autres pastèques proches"
+        ]
+      ],
+      "note": "Les descriptions figurant sur les sachets sont de précieux repères : privilégiez la précocité et le calibre plutôt que la seule promesse d’un fruit spectaculaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand semer et planter les graines de pastèque ?",
+      "id": "quand-semer-et-planter-les-graines-de-pasteque"
+    },
+    {
+      "type": "paragraph",
+      "html": "La température est le facteur décisif. La pastèque ne supporte ni le gel ni un sol froid. Ne vous fiez donc pas uniquement au calendrier : attendez que le risque de gel soit passé, que la terre se soit réchauffée et que les températures nocturnes restent confortables. Dans la plupart des régions françaises, un semis en godet au printemps permet de gagner quelques semaines, tandis que le semis direct convient surtout aux jardins bénéficiant d’un printemps déjà chaud."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour le semis sous abri, comptez environ trois à quatre semaines avant la plantation définitive. Ne semez pas trop tôt : un plant qui végète longtemps dans un petit godet s’enracine mal après la transplantation. La plantation intervient lorsque les plants ont développé quelques vraies feuilles, que leur motte tient sans être entièrement saturée de racines et que les conditions extérieures sont stables."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le repère à ne pas négocier",
+      "html": "Installez les plants dehors seulement dans une terre <strong>réellement tiède</strong>. Un voile de forçage, un tunnel bas ou un paillage sombre peuvent accélérer le réchauffement du sol et sécuriser la reprise dans les régions moins chaudes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Semis en godet ou directement au potager ?",
+      "id": "semis-en-godet-ou-directement-au-potager"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le semis en godet donne un avantage dans les régions où la belle saison est courte. Il protège les graines du froid, des limaces et des pluies répétées. Le semis direct évite en revanche le stress du repiquage : la pastèque apprécie peu que l’on dérange ses racines. Dans les deux cas, manipulez toujours la motte avec délicatesse et évitez de casser les racines fines."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réussir le semis, étape par étape",
+      "id": "reussir-le-semis-etape-par-etape"
+    },
+    {
+      "type": "steps",
+      "title": "La méthode en godets, la plus sûre pour débuter",
+      "items": [
+        {
+          "title": "Préparez un substrat léger",
+          "text": "Remplissez des godets assez profonds avec un terreau pour semis ou un mélange fin, souple et drainant. Évitez une terre lourde de jardin, qui se compacte facilement."
+        },
+        {
+          "title": "Semez peu profond",
+          "text": "Déposez une à deux graines par godet, à environ deux à trois fois leur épaisseur. Recouvrez délicatement puis tassez à peine."
+        },
+        {
+          "title": "Arrosez sans détremper",
+          "text": "Humidifiez le substrat de façon homogène. Il doit rester frais, jamais gorgé d’eau : l’excès d’humidité favorise la fonte des semis et le pourrissement."
+        },
+        {
+          "title": "Apportez une chaleur stable",
+          "text": "Placez les godets dans un endroit lumineux et chaud. Une chaleur régulière accélère nettement la levée ; une pièce froide donne des levées lentes et irrégulières."
+        },
+        {
+          "title": "Éclaircissez puis acclimatez",
+          "text": "Après la levée, conservez le plant le plus vigoureux si les deux graines ont germé. Avant la plantation, sortez progressivement les godets à l’abri du vent pendant quelques jours."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Contrôles avant de mettre les plants en terre",
+      "items": [
+        "Le sol est meuble et se réchauffe bien au soleil.",
+        "Les nuits ne sont plus froides et aucun épisode de gel n’est annoncé.",
+        "Le plant possède plusieurs vraies feuilles, sans tige étirée ni feuillage pâle.",
+        "La motte est humide, mais pas détrempée, au moment de la plantation.",
+        "Vous disposez d’un espace suffisant entre les plants et les autres cucurbitacées."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer le sol et espacer correctement les plants",
+      "id": "preparer-le-sol-et-espacer-correctement-les-plants"
+    },
+    {
+      "type": "paragraph",
+      "html": "La pastèque est gourmande. Elle préfère un sol profond, fertile, souple et drainant, enrichi avec du compost bien mûr. Préparez la zone plusieurs jours ou semaines avant la plantation : désherbez, ameublissez sans retourner inutilement les couches profondes et incorporez une matière organique bien décomposée. Un sol très argileux gagne à être allégé en surface avec du compost ; un sol sableux aura besoin de davantage de matière organique pour retenir l’eau."
+    },
+    {
+      "type": "paragraph",
+      "html": "Choisissez le coin le plus ensoleillé du jardin, idéalement abrité des vents froids. Installez les plants sur de petites buttes ou dans des cuvettes légèrement surélevées si votre terrain retient l’eau. À l’inverse, dans une terre très sèche et filtrante, une légère cuvette d’arrosage autour du plant aide à diriger l’eau vers les racines."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de plantation pour la pastèque",
+      "headers": [
+        "Élément",
+        "Repère pratique",
+        "Pourquoi c’est important"
+      ],
+      "rows": [
+        [
+          "Exposition",
+          "Plein soleil, au moins une grande partie de la journée",
+          "La chaleur conditionne la croissance et la teneur en sucre"
+        ],
+        [
+          "Distance entre plants",
+          "Environ 1 à 1,5 m selon la vigueur annoncée",
+          "Les tiges ont besoin d’espace, d’air et de lumière"
+        ],
+        [
+          "Distance entre rangs",
+          "Souvent 1,5 à 2 m pour les variétés coureuses",
+          "Facilite la circulation et limite l’humidité du feuillage"
+        ],
+        [
+          "Profondeur de plantation",
+          "Motte au niveau du sol, sans enterrer la tige",
+          "Réduit les risques de pourriture au collet"
+        ],
+        [
+          "Paillage",
+          "Épais une fois la terre chaude",
+          "Limite les herbes, les éclaboussures et les variations d’humidité"
+        ]
+      ],
+      "note": "Respectez toujours en priorité les espacements indiqués pour la variété choisie : ils varient fortement entre une mini-pastèque compacte et une variété très coureuse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Arrosage, nutrition et entretien au fil de la saison",
+      "id": "arrosage-nutrition-et-entretien-au-fil-de-la-saison"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après la plantation, arrosez au pied pour favoriser l’enracinement. Ensuite, l’objectif est la régularité : une alternance de sécheresse et d’arrosage excessif fragilise les plants et peut dégrader la qualité des fruits. Arrosez de préférence le matin, directement sur le sol, sans mouiller inutilement le feuillage. Le goutte-à-goutte ou un tuyau suintant est particulièrement pratique, car il apporte l’eau lentement là où elle est utile."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un paillage organique posé sur une terre déjà chaude stabilise l’humidité, protège les fruits du contact direct avec le sol et limite les adventices. Vous pouvez aussi glisser une tuile, une planchette ou un paillis sec sous chaque fruit en formation afin de le garder propre. Tournez-le avec prudence seulement si nécessaire : une manipulation brutale peut casser son pédoncule."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez les engrais très riches en azote en cours de culture. Ils produisent volontiers de longues tiges et beaucoup de feuilles, mais pas forcément des fruits plus savoureux. Le compost mûr préparé en amont, puis éventuellement un apport organique équilibré et modéré si votre sol est pauvre, suffisent dans la plupart des potagers. Quand les fruits approchent de la maturité, réduisez progressivement l’arrosage sans laisser le plant souffrir d’un dessèchement brutal : cela aide à concentrer les sucres et limite les fruits fades ou fendus."
+    },
+    {
+      "type": "proscons",
+      "title": "Pailler les plants de pastèque : le bon réflexe ?",
+      "pros": [
+        "Maintient une humidité plus stable autour des racines.",
+        "Freine la concurrence des herbes indésirables.",
+        "Évite les projections de terre sur le feuillage et les fruits.",
+        "Isole partiellement les fruits du sol humide ou froid."
+      ],
+      "cons": [
+        "Un paillage posé trop tôt peut conserver la fraîcheur d’un sol encore froid.",
+        "Une couche trop compacte ou constamment mouillée peut abriter limaces et ravageurs.",
+        "Il ne dispense pas d’observer l’humidité sous la couche avant d’arroser."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pollinisation et formation des fruits : ce qu’il faut surveiller",
+      "id": "pollinisation-et-formation-des-fruits-ce-qu-il-faut-surveill"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une même plante porte habituellement des fleurs mâles et des fleurs femelles. Les fleurs femelles se reconnaissent à leur petit renflement, futur fruit, situé juste derrière la fleur. Les insectes pollinisateurs transportent le pollen, surtout le matin lorsque les fleurs sont ouvertes. Si les jeunes fruits jaunissent puis tombent, une pollinisation incomplète, un coup de froid, un manque d’eau ou un plant encore trop jeune peuvent être en cause."
+    },
+    {
+      "type": "paragraph",
+      "html": "Favorisez les pollinisateurs en évitant les traitements insecticides non ciblés et en cultivant quelques fleurs à proximité. Sous serre très fermée, l’absence d’insectes peut devenir un vrai frein. Vous pouvez alors polliniser à la main, le matin : prélevez délicatement une fleur mâle, retirez ses pétales et touchez le centre d’une fleur femelle avec les étamines porteuses de pollen. Cette opération demande de la douceur, mais peut sauver une culture sous abri."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Faut-il tailler les pastèques ?",
+      "html": "La taille n’est pas indispensable. Dans un petit espace, vous pouvez limiter les tiges trop envahissantes et ne conserver que quelques fruits bien placés. Pour les gros calibres, laisser mûrir <strong>un à trois fruits par plant</strong> est souvent plus réaliste que vouloir tout garder."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Maladies, ravageurs et erreurs qui compromettent la récolte",
+      "id": "maladies-ravageurs-et-erreurs-qui-compromettent-la-recolte"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les limaces peuvent sectionner les jeunes plants, surtout juste après la plantation. Protégez-les mécaniquement au début et inspectez le jardin après les nuits humides. Les pucerons, parfois vecteurs de virus, se surveillent dès les premières pousses : une plante vigoureuse, bien espacée et observée régulièrement résiste mieux. Le jaunissement généralisé, les feuilles déformées ou les mosaïques très marquées doivent alerter ; retirez les parties très atteintes et évitez de propager le problème en manipulant ensuite des plants sains."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’oïdium, reconnaissable à un feutrage blanc sur les feuilles, apparaît plus volontiers lorsque le feuillage reste humide, que l’air circule mal ou que la plante est stressée. Arrosez au pied, espacez suffisamment les plants et retirez les feuilles très malades sans dépouiller brutalement le plant. La prévention est plus efficace que les interventions tardives."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les erreurs les plus fréquentes à éviter",
+      "items": [
+        "Semer ou planter dans une terre froide en pensant que le soleil de la journée suffira.",
+        "Choisir une variété tardive à très gros fruits dans une région où l’été est court.",
+        "Installer plusieurs plants trop serrés : ils se concurrencent et restent humides.",
+        "Arroser le feuillage plutôt que le pied, particulièrement le soir.",
+        "Donner trop d’engrais azoté au détriment de la floraison et des fruits.",
+        "Récolter uniquement parce que le fruit est gros, sans vérifier les autres signes de maturité.",
+        "Garder des graines humides dans un récipient fermé : elles moisissent rapidement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reconnaître une pastèque mûre et récupérer ses graines",
+      "id": "reconnaitre-une-pasteque-mure-et-recuperer-ses-graines"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas un signe infaillible valable pour toutes les variétés, mais plusieurs indices convergents donnent une bonne indication. La vrille située près du pédoncule sèche souvent lorsque le fruit mûrit. La zone posée au sol, appelée tache de contact, passe généralement du blanc verdâtre à un jaune crème plus marqué. La peau devient plus mate, et le fruit donne une sensation de densité. Le fameux son creux peut aider avec l’habitude, mais il reste moins fiable utilisé seul."
+    },
+    {
+      "type": "paragraph",
+      "html": "Récoltez avec un sécateur propre en conservant un petit morceau de pédoncule. Ne tirez pas sur le fruit : vous risqueriez d’abîmer le plant ou de créer une plaie. Une pastèque mûre se conserve peu de temps à température ambiante lorsqu’elle est entamée ; placez alors les morceaux protégés au réfrigérateur et consommez-les rapidement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Conserver des graines pour ressemer",
+      "id": "conserver-des-graines-pour-ressemer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne prélevez des graines que dans une pastèque parfaitement mûre, idéalement issue d’une variété non hybride que vous souhaitez retrouver. Rincez-les pour enlever la pulpe, étalez-les en une seule couche sur un support non absorbant ou sur une assiette, puis laissez-les sécher plusieurs jours dans une pièce aérée, à l’abri du soleil direct. Lorsqu’elles sont dures et totalement sèches, stockez-les dans une enveloppe en papier étiquetée, au sec, au frais et à l’abri de la lumière. Un test de germination sur quelques graines avant la saison suivante évite les mauvaises surprises."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelles alternatives si votre jardin manque de chaleur ou d’espace ?",
+      "id": "quelles-alternatives-si-votre-jardin-manque-de-chaleur-ou-d-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre terrain est ombragé, que votre été est frais ou que vous disposez seulement d’un balcon, la pastèque reste possible mais demande des compromis. Un grand bac placé contre un mur très ensoleillé, une variété mini et un paillage sombre peuvent donner un résultat correct. Une serre ou un tunnel protège des nuits fraîches, à condition d’aérer régulièrement et de surveiller la pollinisation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une culture plus facile dans un climat tempéré, le melon précoce peut être une alternative intéressante, sans être pour autant sans exigence. Les concombres, courgettes ou courges d’été sont généralement plus tolérants et plus productifs dans un petit potager. Si votre objectif est surtout de récolter vos propres graines comestibles, les graines de courge sont aussi plus simples à produire et à sécher en quantité."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Budget : où investir utilement ?",
+      "html": "La dépense principale n’est pas le sachet de graines, mais la qualité du sol, l’accès à l’eau et l’espace disponible. Un peu de compost mûr, un paillage, des godets réutilisables et une protection légère contre le froid ou les limaces apportent souvent plus de résultats qu’un équipement sophistiqué."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les graines de pastèque",
+      "items": [
+        {
+          "q": "Peut-on semer directement les graines d’une pastèque achetée au supermarché ?",
+          "a": "Oui, si les graines sont bien développées, rincées et parfaitement séchées. Toutefois, le plant obtenu peut donner des fruits différents de la pastèque d’origine, notamment si celle-ci est issue d’une variété hybride. Pour une récolte prévisible, choisissez des graines de variété identifiée."
+        },
+        {
+          "q": "Faut-il faire tremper les graines de pastèque avant le semis ?",
+          "a": "Ce n’est pas obligatoire. Un trempage très court peut parfois accélérer légèrement l’imbibition, mais il augmente aussi le risque de pourriture si les graines restent trop longtemps dans l’eau. Des graines semées dans un substrat chaud et juste humide germent très bien sans cette étape."
+        },
+        {
+          "q": "Pourquoi mes graines de pastèque ne germent-elles pas ?",
+          "a": "Les causes les plus courantes sont une température insuffisante, un excès d’eau, un substrat trop compact ou des graines trop anciennes ou mal conservées. Placez les semis dans une ambiance chaude, maintenez le terreau frais sans le détremper et utilisez des graines correctement stockées."
+        },
+        {
+          "q": "Combien de graines faut-il semer par plant de pastèque ?",
+          "a": "Semez une à deux graines par godet. Si les deux lèvent, gardez le plant le plus robuste en coupant l’autre au ras du substrat plutôt qu’en l’arrachant. En semis direct, vous pouvez semer deux ou trois graines par emplacement puis éclaircir."
+        },
+        {
+          "q": "À quelle fréquence arroser une pastèque ?",
+          "a": "Il n’existe pas de fréquence universelle : elle dépend du sol, de la pluie, du vent et du stade de croissance. Vérifiez l’humidité sous le paillage et arrosez abondamment au pied lorsque les premiers centimètres de terre commencent à sécher. La régularité compte davantage que de petits arrosages quotidiens."
+        },
+        {
+          "q": "Comment savoir si une pastèque est prête à être récoltée ?",
+          "a": "Observez plusieurs signes à la fois : vrille proche du fruit qui sèche, tache au sol devenue jaune crème, peau plus mate et fruit lourd. Récolter trop tôt est l’erreur la plus fréquente, car une pastèque ne gagne presque plus en sucre une fois séparée du plant."
+        }
+      ]
+    }
+  ]
+}

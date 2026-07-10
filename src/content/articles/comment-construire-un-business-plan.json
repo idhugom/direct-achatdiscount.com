@@ -1,0 +1,176 @@
+{
+  "title": "Comment construire un business plan ?",
+  "slug": "comment-construire-un-business-plan",
+  "path": "/divers/comment-construire-un-business-plan.html",
+  "category": "argent",
+  "tags": [
+    "business plan",
+    "création d'entreprise",
+    "prévisions financières",
+    "financement",
+    "étude de marché",
+    "entrepreneuriat"
+  ],
+  "excerpt": "Un guide pratique pour bâtir un business plan cohérent, chiffré et convaincant, que vous lanciez, repreniez ou développiez une activité.",
+  "metaDescription": "Apprenez à construire un business plan clair et crédible : étude de marché, prévisions, financement, structure, erreurs et modèle pratique.",
+  "seoTitle": "Comment construire un business plan solide ?",
+  "heroKicker": "Projet sous contrôle",
+  "readingTime": 15,
+  "date": "2022-09-14T11:46:21",
+  "image": {
+    "id": "417",
+    "alt": "Comment construire un business plan ?",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un business plan n’est pas un exercice administratif réservé aux banques : c’est la feuille de route qui transforme une idée en projet économique vérifiable. Bien construit, il vous aide à décider si votre activité peut trouver ses clients, générer une marge suffisante et tenir financièrement jusqu’à son équilibre."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un bon business plan raconte un projet de façon logique : un besoin client, une solution, un marché, un modèle économique, des moyens et des chiffres cohérents.",
+        "Les prévisions financières doivent découler d’hypothèses explicites et prudentes, jamais d’un chiffre d’affaires choisi au hasard.",
+        "Adaptez le niveau de détail au lecteur : vous n’écrivez pas le même document pour piloter votre lancement, convaincre un associé ou demander un prêt.",
+        "Travaillez au moins trois scénarios — prudent, central et ambitieux — pour identifier votre besoin de trésorerie réel.",
+        "Un business plan est un document vivant : confrontez-le au terrain, mettez-le à jour et utilisez-le pour prendre vos décisions."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "À quoi sert réellement un business plan ?",
+      "id": "a-quoi-sert-reellement-un-business-plan"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le business plan, ou plan d’affaires, présente votre projet dans son ensemble et démontre sa viabilité. Il ne se limite donc pas à un prévisionnel financier : il relie votre offre, vos clients, votre positionnement, votre organisation et vos besoins de financement. Sa force tient à la cohérence entre ces éléments. Si vous prévoyez beaucoup de ventes, vous devez pouvoir expliquer <strong>à qui</strong>, <strong>par quel canal</strong>, <strong>à quel prix</strong> et <strong>avec quelle capacité de production ou de service</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il répond à deux usages complémentaires. D’abord, il sert à vous-même : formaliser vos hypothèses fait apparaître les failles du projet avant qu’elles ne coûtent de l’argent. Ensuite, il sert aux tiers : banque, investisseur, associé, organisme d’accompagnement, bailleur ou fournisseur. Ces interlocuteurs n’attendent pas une promesse séduisante, mais une analyse lucide des opportunités, des risques et des moyens prévus pour les maîtriser."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe",
+      "html": "Ne commencez pas par rédiger vingt pages. Commencez par recueillir des preuves : retours d’entretiens clients, devis fournisseurs, tarifs concurrents, tests de vente, coût d’acquisition estimé, taux de conversion observé. Le document sera beaucoup plus convaincant si les chiffres viennent du terrain."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Business plan, prévisionnel et business model : ne confondez pas les outils",
+      "id": "business-plan-previsionnel-et-business-model-ne-confondez-pa"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces termes sont proches, mais ils ne désignent pas la même chose. Le <strong>business model</strong> explique comment l’entreprise crée et capte de la valeur : qui paie, pour quoi, à quelle fréquence, avec quelle marge et quels coûts. Le <strong>prévisionnel financier</strong> traduit cette mécanique en chiffres : chiffre d’affaires, charges, investissements, trésorerie et financement. Le <strong>business plan</strong> rassemble ces deux dimensions, avec l’analyse du marché, la stratégie commerciale, l’équipe et le calendrier de déploiement."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux formats utiles selon la maturité du projet",
+      "left": {
+        "title": "Business plan complet",
+        "points": [
+          "Adapté à une demande de financement, une reprise, un projet avec local, stock ou recrutement.",
+          "Document argumenté : marché, concurrence, stratégie, organisation et annexes.",
+          "Prévisions détaillées sur plusieurs exercices et trésorerie suivie mois par mois au démarrage.",
+          "Demande du temps, des sources et une vraie cohérence entre le récit et les tableaux."
+        ]
+      },
+      "right": {
+        "title": "Lean Canvas ou plan synthétique",
+        "points": [
+          "Pratique pour clarifier rapidement une idée ou tester une offre avant d’investir.",
+          "Tient sur une page : problème, cible, proposition de valeur, canaux, revenus et coûts.",
+          "Facile à modifier après chaque retour client ou test commercial.",
+          "Insuffisant seul pour rassurer un financeur sur le besoin de fonds et la capacité de remboursement."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez parfaitement commencer par un format synthétique, puis développer le business plan lorsque votre proposition de valeur et vos hypothèses commerciales sont mieux étayées. L’erreur serait de produire un dossier très long pour masquer l’absence de validation du marché. À l’inverse, un simple canevas ne remplace pas les comptes financiers si vous sollicitez un prêt ou engagez des dépenses importantes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparez le terrain avant de rédiger",
+      "id": "preparez-le-terrain-avant-de-rediger"
+    },
+    {
+      "type": "paragraph",
+      "html": "La qualité du business plan dépend surtout du travail préparatoire. Avant d’ouvrir un modèle de document, posez à plat votre offre, vos clients et vos contraintes. Vous cherchez moins à confirmer que votre idée est bonne qu’à découvrir les raisons pour lesquelles elle pourrait échouer — afin de les corriger à temps."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les informations à réunir en priorité",
+      "items": [
+        "Décrivez précisément le problème résolu, le bénéfice concret offert et ce qui différencie votre solution d’une alternative existante.",
+        "Définissez un ou plusieurs segments clients suffisamment précis : usage, budget, lieu, fréquence d’achat, décideur et prescripteur éventuel.",
+        "Interrogez des clients potentiels, observez leurs pratiques et, si possible, faites payer un premier test plutôt que de vous contenter d’avis encourageants.",
+        "Cartographiez les concurrents directs et indirects : prix, promesse, visibilité, avis clients, circuits de distribution, forces et faiblesses.",
+        "Collectez des éléments vérifiables : devis, grilles tarifaires, conditions de paiement, coûts logistiques, loyers, assurances, logiciels et obligations réglementaires.",
+        "Listez les ressources critiques : compétences, autorisations, fournisseurs, matériel, stock, local, partenaires et temps disponible."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Une étude de marché utile n’est pas une accumulation de chiffres généraux sur un secteur. Elle doit répondre à des questions opérationnelles : votre zone de chalandise est-elle assez large ? vos clients ont-ils un budget compatible avec votre prix ? comment vous trouveront-ils ? quelle alternative utilisent-ils aujourd’hui ? quel obstacle les empêcherait de changer ? Vous pouvez combiner sources publiques, observation locale, analyse en ligne et entretiens qualitatifs, en distinguant clairement les faits des estimations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La structure d’un business plan qui convainc",
+      "id": "la-structure-d-un-business-plan-qui-convainc"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un lecteur doit pouvoir comprendre le projet rapidement, puis vérifier vos raisonnements en profondeur. Une structure claire évite les répétitions et facilite la lecture. Visez un document principal concis, complété par des annexes pour les éléments justificatifs : CV, études, devis, visuels, lettres d’intention, contrats ou détails des calculs."
+    },
+    {
+      "type": "steps",
+      "title": "Le plan recommandé, section par section",
+      "items": [
+        {
+          "title": "1. Résumé opérationnel",
+          "text": "Rédigez-le à la fin, mais placez-le en tête. En une à deux pages, résumez le besoin, l’offre, la cible, l’avantage concurrentiel, l’équipe, les chiffres majeurs, le besoin de financement et l’usage des fonds."
+        },
+        {
+          "title": "2. Porteur de projet et équipe",
+          "text": "Présentez les expériences, compétences et rôles utiles au projet. N’énumérez pas tout votre parcours : montrez pourquoi vous êtes capable d’exécuter ce modèle et comment vous comblerez les compétences manquantes."
+        },
+        {
+          "title": "3. Offre et proposition de valeur",
+          "text": "Expliquez exactement ce que vous vendez, sous quelle forme, à quel niveau de service et à quel prix. Détaillez les bénéfices clients, les limites de l’offre et les éléments qui seront difficiles à copier."
+        },
+        {
+          "title": "4. Marché et concurrence",
+          "text": "Délimitez votre marché réellement accessible, vos segments prioritaires et les tendances qui comptent. Comparez-vous aux solutions existantes avec honnêteté, y compris celles qui ne ressemblent pas à votre produit."
+        },
+        {
+          "title": "5. Stratégie commerciale et marketing",
+          "text": "Précisez vos canaux d’acquisition, votre parcours de vente, votre politique de prix, vos objectifs commerciaux et les indicateurs suivis. Une stratégie sans budget, sans calendrier ni responsable reste une intention."
+        },
+        {
+          "title": "6. Organisation et moyens",
+          "text": "Présentez le lieu d’activité, les outils, achats, fournisseurs, processus, besoins de stock, recrutements, sous-traitance et contraintes juridiques ou réglementaires."
+        },
+        {
+          "title": "7. Prévisionnel financier et financement",
+          "text": "Exposez vos hypothèses, le compte de résultat, le plan de trésorerie, le plan de financement initial et le seuil de rentabilité. Distinguez clairement apport, dette, subventions éventuelles et besoin en fonds de roulement."
+        },
+        {
+          "title": "8. Risques et plan d’action",
+          "text": "Identifiez les principaux risques commerciaux, financiers, opérationnels et réglementaires. Associez à chacun une mesure concrète : réserve de trésorerie, second fournisseur, phase de test, assurance ou jalon de décision."
+        }
+      ]
+    }
+  ]
+}

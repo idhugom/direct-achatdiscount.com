@@ -1,0 +1,438 @@
+{
+  "title": "Ecran photo : comment savoir comment le choisir ?",
+  "slug": "ecran-photo-comment-savoir-comment-le-choisir",
+  "path": "/divers/ecran-photo-comment-savoir-comment-le-choisir.html",
+  "category": "tech",
+  "tags": [
+    "écran photo",
+    "retouche photo",
+    "calibration écran",
+    "moniteur ips",
+    "gestion des couleurs",
+    "photographie"
+  ],
+  "excerpt": "Taille, définition, couleurs, uniformité et calibration : les repères concrets pour choisir un écran photo adapté à votre pratique.",
+  "metaDescription": "Écran photo : taille, dalle, gamut, calibration et budget. Les critères décisifs pour retoucher, imprimer et publier des images fidèles.",
+  "seoTitle": "Écran photo : comment bien le choisir ?",
+  "heroKicker": "Couleurs fidèles",
+  "readingTime": 12,
+  "date": "2018-03-14T08:05:54",
+  "image": {
+    "id": "264",
+    "alt": "Ecran photo : comment savoir comment le choisir ?",
+    "width": 420,
+    "height": 258
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un bon écran photo ne se résume pas à une grande diagonale ou à une image spectaculaire en magasin. Pour retoucher avec confiance, il doit afficher des couleurs cohérentes, des dégradés propres et une luminosité stable, afin que vos fichiers restent crédibles sur le Web comme à l’impression. Voici comment choisir le modèle réellement adapté à votre pratique et à votre budget."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Pour la retouche photo, privilégiez une dalle <strong>IPS mate</strong>, ou un OLED soigneusement maîtrisé si vous connaissez ses contraintes.",
+        "La <strong>calibration</strong> compte davantage que la promesse de couleurs « éclatantes » : un écran trop lumineux ou trop saturé fausse vos décisions.",
+        "Un 27 pouces en <strong>2560 × 1440 pixels</strong> constitue souvent un équilibre confortable ; le 4K prend tout son sens pour les détails, l’affichage et les grands espaces de travail.",
+        "Vérifiez la couverture de l’espace couleur utile à vos images : <strong>sRGB</strong> pour le Web, Adobe RGB ou un gamut large pour un flux orienté impression.",
+        "L’uniformité, le réglage en hauteur, la connectique et la possibilité de calibrer sont des critères aussi importants que la définition."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’appelle-t-on un écran photo ?",
+      "id": "qu-appelle-t-on-un-ecran-photo"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un écran photo est un moniteur pensé pour afficher une image avec une <strong>fidélité colorimétrique</strong> et une régularité supérieures à celles d’un écran bureautique courant. Il ne rend pas automatiquement vos photos plus belles : son rôle est de vous montrer un rendu fiable. Vous pouvez alors corriger l’exposition, la balance des blancs, les tons chair, les couleurs et la netteté sans travailler « à l’aveugle »."
+    },
+    {
+      "type": "paragraph",
+      "html": "La différence est décisive dès que vous retouchez des fichiers RAW, réalisez des tirages, livrez des images à des clients ou publiez sur plusieurs supports. Sur un écran médiocre, une photo peut sembler chaude, froide, trop contrastée ou anormalement vive ; vous la corrigez alors dans la mauvaise direction. Le fichier sera ensuite décevant sur un autre appareil ou sur papier."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon objectif",
+      "html": "Ne cherchez pas l’écran qui produit l’image la plus flatteuse au premier regard. Cherchez celui qui affiche une image <strong>neutre, réglable et reproductible</strong>. Une image de référence peut sembler moins « punchy » qu’en mode magasin, mais elle est bien plus utile pour retoucher."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencez par votre usage : Web, tirage ou vidéo",
+      "id": "commencez-par-votre-usage-web-tirage-ou-video"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur choix dépend d’abord de votre destination d’image. Une personne qui publie essentiellement sur des sites et réseaux sociaux n’a pas les mêmes besoins qu’un photographe qui prépare des tirages d’art ou travaille avec un laboratoire. Inutile de payer pour un espace couleur très étendu si votre chaîne de travail, vos logiciels et vos usages restent entièrement en sRGB."
+    },
+    {
+      "type": "table",
+      "caption": "Les besoins changent selon la destination de vos photos",
+      "headers": [
+        "Usage principal",
+        "Priorités d’écran",
+        "Niveau de couleur pertinent",
+        "Points de vigilance"
+      ],
+      "rows": [
+        [
+          "Web, blog, réseaux sociaux",
+          "Dalle IPS, bon réglage sRGB, homogénéité correcte, confort visuel",
+          "sRGB bien couvert et calibrable",
+          "Éviter les modes « vif » et une luminosité excessive"
+        ],
+        [
+          "Retouche photo généraliste",
+          "IPS de qualité, 27 pouces, résolution élevée, pied ergonomique",
+          "sRGB et bonne couverture DCI-P3 ou gamut étendu",
+          "Vérifier le mode sRGB et la régularité de la dalle"
+        ],
+        [
+          "Impression photo régulière",
+          "Uniformité, calibration matérielle ou très précise, capot, gamme étendue",
+          "Adobe RGB ou large gamut selon le laboratoire",
+          "Gérer les profils ICC et travailler avec une luminosité modérée"
+        ],
+        [
+          "Vidéo et photo hybride",
+          "Résolution, contraste, couverture DCI-P3, connectique",
+          "DCI-P3 utile ; HDR seulement si le flux le justifie",
+          "Ne pas confondre HDR marketing et véritable travail d’étalonnage"
+        ],
+        [
+          "Retouche nomade",
+          "Écran externe compact ou portable fiable, sonde si nécessaire",
+          "sRGB stable au minimum",
+          "Les écrans de portables sont rarement homogènes sur toute la surface"
+        ]
+      ],
+      "note": "La couverture d’un espace couleur ne garantit pas, à elle seule, l’exactitude des couleurs : la calibration et l’uniformité restent indispensables."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "24 à 32 pouces",
+          "label": "la plage de diagonales la plus courante pour retoucher confortablement à un bureau"
+        },
+        {
+          "value": "QHD à 4K",
+          "label": "les définitions généralement pertinentes selon la taille et la distance de travail"
+        },
+        {
+          "value": "sRGB",
+          "label": "l’espace de référence à maîtriser impérativement pour la publication Web"
+        },
+        {
+          "value": "1 sonde",
+          "label": "l’outil le plus efficace pour vérifier régulièrement le rendu de votre écran"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Taille et définition : trouver le bon espace de travail",
+      "id": "taille-et-definition-trouver-le-bon-espace-de-travail"
+    },
+    {
+      "type": "paragraph",
+      "html": "La diagonale détermine votre confort, tandis que la définition détermine la finesse d’affichage et la place disponible pour les palettes de votre logiciel. Un écran de 24 pouces reste un choix compact et économique, particulièrement si votre bureau est étroit. En revanche, le 27 pouces est souvent le format le plus polyvalent : il permet d’afficher une image à une taille utile tout en gardant l’histogramme, les outils et les vignettes visibles."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur 27 pouces, une définition de 2560 × 1440 pixels offre un bon compromis entre netteté, lisibilité et charge graphique. Le 4K apporte un affichage plus fin et plus d’espace, surtout en 27 ou 32 pouces, mais demande une mise à l’échelle adaptée dans le système et un ordinateur suffisamment à l’aise avec vos logiciels. Il ne rend pas vos photos intrinsèquement plus détaillées : il améliore surtout le confort d’inspection et l’organisation de votre espace de travail."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Repères simples pour la taille et la résolution",
+      "items": [
+        "Choisissez <strong>24 pouces Full HD ou QHD</strong> si vous manquez de place ou si votre pratique reste occasionnelle.",
+        "Préférez <strong>27 pouces QHD</strong> pour un poste photo polyvalent à coût raisonnable.",
+        "Visez <strong>27 ou 32 pouces 4K</strong> si vous retouchez souvent, imprimez, utilisez beaucoup de palettes ou vérifiez finement la netteté.",
+        "Ne choisissez pas un très grand écran sans vérifier votre recul : un 32 pouces trop proche fatigue les yeux et oblige à tourner constamment la tête.",
+        "Contrôlez la compatibilité de votre ordinateur avec la définition et la fréquence souhaitées, notamment via USB-C, HDMI ou DisplayPort."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dalle, contraste et uniformité : les fondations d’une image fiable",
+      "id": "dalle-contraste-et-uniformite-les-fondations-d-une-image-fia"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la photographie, la dalle <strong>IPS</strong> reste le choix le plus sûr. Elle offre en général de larges angles de vision, des couleurs stables lorsque vous vous déplacez légèrement devant l’écran et des dégradés convaincants. Les dalles VA peuvent proposer un contraste intéressant mais leur rendu varie davantage selon l’angle de regard ; elles sont moins rassurantes pour une retouche colorimétrique exigeante. Les dalles TN, rapides mais limitées en angles et en couleurs, n’ont guère d’intérêt ici."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’OLED séduit par ses noirs profonds, son contraste et sa richesse visuelle. Il peut convenir à la photo, notamment dans un usage hybride photo-vidéo, mais il mérite plus de prudence : rendu parfois très flatteur, gestion des contenus statiques, variations possibles de luminosité et comportement de surface selon les modèles. Pour un poste principalement dédié à la retouche fixe, un excellent IPS reste souvent le choix le plus serein et le plus durable."
+    },
+    {
+      "type": "comparison",
+      "title": "Écran IPS ou OLED pour la retouche photo ?",
+      "left": {
+        "title": "IPS : le choix de référence",
+        "points": [
+          "Très bonne stabilité des couleurs selon l’angle de vision.",
+          "Large choix de modèles orientés photo et compatibles calibration.",
+          "Surface mate fréquente, pratique dans une pièce lumineuse.",
+          "Contraste moins spectaculaire et noirs moins profonds que l’OLED."
+        ]
+      },
+      "right": {
+        "title": "OLED : l’image très contrastée",
+        "points": [
+          "Noirs profonds et contraste élevé, agréables en photo et vidéo.",
+          "Très bons dégradés sur certains modèles haut de gamme.",
+          "Peut demander davantage de vigilance pour les interfaces affichées longtemps.",
+          "La précision perçue dépend fortement des réglages, de la gestion de luminosité et de votre environnement."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’uniformité est souvent oubliée",
+      "html": "Un écran peut annoncer une large couverture colorimétrique tout en affichant une zone plus chaude ou plus sombre dans un coin. Pour la retouche et surtout l’impression, recherchez les mentions d’<strong>uniformité</strong>, de compensation d’uniformité ou de contrôle qualité. À défaut, achetez auprès d’un vendeur qui facilite le retour : deux exemplaires d’une même référence peuvent légèrement différer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Couleurs, gamut et calibration : ce qui fait vraiment la différence",
+      "id": "couleurs-gamut-et-calibration-ce-qui-fait-vraiment-la-differ"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le gamut désigne l’étendue des couleurs qu’un écran peut afficher. Le <strong>sRGB</strong> est la base incontournable : c’est l’espace le plus répandu pour le Web et de nombreux appareils. Un écran qui couvre correctement le sRGB et propose un mode sRGB bien réglé sera déjà cohérent pour une grande partie des photographes. Les écrans à gamut large ajoutent généralement une couverture élevée d’Adobe RGB et/ou de DCI-P3, utile pour certains travaux d’impression, de création graphique ou de vidéo."
+    },
+    {
+      "type": "paragraph",
+      "html": "Attention : un gamut large non maîtrisé peut faire apparaître les couleurs sRGB trop saturées dans les applications qui ne gèrent pas correctement les profils. C’est pourquoi un bon écran photo doit disposer d’un <strong>mode sRGB</strong> crédible, idéalement réglable, en plus de son gamut natif. Utilisez aussi des logiciels compatibles avec la gestion des couleurs et conservez les profils ICC dans vos fichiers lors de l’exportation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pourquoi calibrer même un écran réputé précis ?",
+      "id": "pourquoi-calibrer-meme-un-ecran-repute-precis"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les réglages d’usine sont un point de départ, pas une vérité définitive. La température de couleur, le point blanc, la luminance et le rendu de la dalle évoluent avec le temps et dépendent de votre environnement. Une sonde colorimétrique mesure votre écran et crée un profil ICC que le système et les logiciels compatibles utilisent pour corriger son affichage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la photo, un objectif proche de <strong>D65</strong> est courant pour un travail destiné au numérique. La luminosité doit rester raisonnable, surtout si vous imprimez : un écran réglé trop fort vous poussera à éclaircir artificiellement vos fichiers, produisant ensuite des tirages trop sombres. Ne copiez pas un chiffre sans réfléchir : adaptez la cible à la lumière de votre pièce, au papier et au laboratoire, puis gardez un environnement stable."
+    },
+    {
+      "type": "proscons",
+      "title": "Acheter une sonde de calibration : faut-il le faire ?",
+      "pros": [
+        "Elle permet d’obtenir un rendu plus cohérent que les réglages visuels.",
+        "Elle aide à limiter l’écart entre écran et tirage lorsque la chaîne couleur est correctement gérée.",
+        "Elle peut être utilisée sur plusieurs écrans, y compris un ordinateur portable.",
+        "Elle facilite une vérification régulière lorsque l’écran vieillit ou que l’environnement change."
+      ],
+      "cons": [
+        "C’est un coût supplémentaire à prévoir, parfois disproportionné pour un usage très occasionnel.",
+        "Elle ne corrige pas une dalle mal uniforme, de faible qualité ou fortement vieillissante.",
+        "Elle exige de suivre une procédure calme et de travailler dans une lumière relativement constante.",
+        "Un profil ne sera utile que dans les logiciels et le système qui gèrent les couleurs correctement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fonctions pratiques à vérifier avant l’achat",
+      "id": "fonctions-pratiques-a-verifier-avant-l-achat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les spécifications photo ne suffisent pas : un écran inconfortable finit par être mal utilisé. Un pied réglable en hauteur, inclinaison et rotation facilite un placement précis face à vos yeux. Une surface mate limite les reflets, particulièrement si vous travaillez près d’une fenêtre ; une surface brillante peut offrir une image plus percutante, mais elle exige un environnement très contrôlé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté branchements, vérifiez les sorties de votre ordinateur avant de commander. L’USB-C peut transmettre l’image et, selon le modèle, recharger un portable ; c’est pratique, mais la puissance de charge et le débit réellement disponibles doivent correspondre à votre matériel. Un concentrateur USB intégré peut simplifier le branchement de disques externes, de lecteur de cartes ou de sonde. DisplayPort et HDMI restent des options fiables, à condition d’utiliser un câble adapté."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "La fiche technique à contrôler ligne par ligne",
+      "items": [
+        "Type de dalle : IPS en priorité pour un choix sans surprise.",
+        "Couverture et <strong>mode</strong> sRGB, puis Adobe RGB ou DCI-P3 si votre usage le nécessite.",
+        "Compatibilité avec une sonde et, pour les exigences élevées, possibilité de calibration matérielle.",
+        "Uniformité annoncée, garantie contre les pixels défectueux et modalités de retour.",
+        "Réglage en hauteur, surface mate, casquette pare-lumière éventuelle et accès simple aux commandes.",
+        "Connectique utile à votre poste : USB-C, alimentation du portable, HDMI, DisplayPort et hub USB."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour un écran photo ?",
+      "id": "quel-budget-prevoir-pour-un-ecran-photo"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il est préférable de raisonner en niveaux d’exigence plutôt qu’en cherchant la référence la moins chère. Les modèles d’entrée de gamme peuvent très bien convenir à la retouche destinée au Web s’ils possèdent une dalle IPS correcte et un mode sRGB exploitable. En montant en gamme, vous payez surtout une meilleure uniformité, un gamut plus étendu, une validation colorimétrique plus sérieuse, des réglages plus fins, une ergonomie supérieure et parfois la calibration matérielle."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour construire votre budget",
+      "headers": [
+        "Niveau d’équipement",
+        "Profil concerné",
+        "Ce que vous pouvez attendre",
+        "Budget à envisager"
+      ],
+      "rows": [
+        [
+          "Essentiel",
+          "Retouche occasionnelle, Web, amateur débutant",
+          "IPS, format compact ou 27 pouces, sRGB correct, ergonomie parfois limitée",
+          "Quelques centaines d’euros"
+        ],
+        [
+          "Confortable",
+          "Photographe régulier, RAW, travail sur plusieurs heures",
+          "27 pouces QHD ou 4K, meilleure homogénéité, pied complet, connectique plus riche",
+          "Plusieurs centaines d’euros, souvent dans le milieu de gamme"
+        ],
+        [
+          "Exigeant",
+          "Impression fréquente, activité professionnelle, couleurs critiques",
+          "Gamut étendu maîtrisé, uniformité renforcée, calibration avancée, contrôle qualité",
+          "Budget élevé, pouvant atteindre ou dépasser largement le millier d’euros"
+        ],
+        [
+          "Équipement complémentaire",
+          "Calibration du poste",
+          "Sonde et éventuellement casquette ou bras ergonomique",
+          "Prévoir une enveloppe additionnelle dédiée"
+        ]
+      ],
+      "note": "Un écran haut de gamme ne dispense ni de calibrer, ni d’utiliser des profils ICC, ni de contrôler un premier tirage chez votre laboratoire."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Le meilleur arbitrage",
+      "html": "À budget limité, privilégiez dans cet ordre : <strong>une dalle IPS fiable</strong>, un format confortable, un pied réglable, puis une sonde de calibration. Mieux vaut un écran sRGB homogène et bien réglé qu’un grand écran 4K à gamut large, très saturé et impossible à maîtriser."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installer et régler votre écran photo correctement",
+      "id": "installer-et-regler-votre-ecran-photo-correctement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Même le meilleur moniteur donne de mauvais résultats dans de mauvaises conditions. Placez-le de façon à éviter qu’une fenêtre, une lampe directe ou un mur très coloré ne se reflète dans la dalle. Laissez l’écran chauffer un moment avant une calibration ou une session de retouche critique, et évitez de modifier sans cesse les réglages de luminosité selon vos envies du jour."
+    },
+    {
+      "type": "steps",
+      "title": "Mise en route en cinq étapes",
+      "items": [
+        {
+          "title": "Installez l’écran face à vous",
+          "text": "Le haut de la dalle doit se situer approximativement à hauteur des yeux ou légèrement en dessous. Réglez la distance pour voir l’ensemble sans effort."
+        },
+        {
+          "title": "Neutralisez les réglages marketing",
+          "text": "Désactivez les modes jeu, cinéma, dynamique, contraste adaptatif ou filtre bleu pendant la retouche. Partez d’un mode sRGB ou standard adapté."
+        },
+        {
+          "title": "Maîtrisez la lumière ambiante",
+          "text": "Évitez le soleil direct et les sources changeantes. Une lumière douce, stable et plutôt neutre est préférable."
+        },
+        {
+          "title": "Calibrez et créez le profil",
+          "text": "Utilisez une sonde si votre pratique le justifie, en suivant sa procédure sans lumière directe sur l’écran."
+        },
+        {
+          "title": "Contrôlez avec un vrai fichier",
+          "text": "Ouvrez une photo connue comportant peau, gris neutres, hautes lumières et ombres. Vérifiez ensuite un export sur un autre écran et, si besoin, un tirage test."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes et alternatives à connaître",
+      "id": "erreurs-frequentes-et-alternatives-a-connaitre"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à choisir uniquement sur la luminosité, le contraste annoncé ou la diagonale. Ces valeurs sont faciles à vendre, mais ne disent pas tout de l’uniformité ni de la précision. La seconde est de retoucher avec un écran réglé très lumineux, dans une pièce sombre : vos images sembleront correctes chez vous et trop sombres ailleurs. Enfin, ne retouchez pas une image sRGB sur un écran à gamut large sans vous assurer que vos logiciels et votre mode d’affichage gèrent la couleur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un ordinateur portable récent peut être suffisant pour trier, sélectionner ou retoucher en déplacement, surtout si son écran est de bonne qualité et calibré. Il reste toutefois moins confortable qu’un moniteur externe pour les longues sessions, car sa diagonale est réduite et son positionnement est contraint. Une tablette peut également aider pour montrer un portfolio ou dessiner des retouches localisées, mais elle ne remplace pas forcément un écran de référence pour préparer une série cohérente ou des impressions."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les pièges à éviter avant et après l’achat",
+      "items": [
+        "Acheter un écran uniquement parce qu’il annonce une couverture colorimétrique élevée.",
+        "Confondre un rendu saturé et une couleur exacte.",
+        "Choisir un 4K sans vérifier que votre ordinateur, vos câbles et votre système le gèrent confortablement.",
+        "Négliger les reflets, la hauteur du pied et la place réellement disponible sur le bureau.",
+        "Comparer votre écran à celui d’un smartphone non calibré pour valider une retouche.",
+        "Croire qu’un écran calibré garantit à lui seul un tirage parfait sans profil papier ni épreuve de contrôle."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le choix le plus cohérent selon votre profil",
+      "id": "le-choix-le-plus-coherent-selon-votre-profil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une pratique amateur centrée sur le Web, recherchez un IPS mat de 24 ou 27 pouces, correctement réglable en sRGB, avec un pied confortable. Pour une retouche régulière, un 27 pouces QHD ou 4K doté d’une bonne homogénéité et d’une connectique adaptée constitue une base durable. Si vous imprimez souvent, ajoutez la maîtrise d’un gamut large, une sonde et un flux de travail avec profils ICC ; c’est l’ensemble de la chaîne, et non l’écran seul, qui assure la cohérence."
+    },
+    {
+      "type": "paragraph",
+      "html": "En cas d’hésitation entre deux modèles proches, choisissez celui qui offre les informations les plus transparentes sur la colorimétrie, l’uniformité, les modes disponibles et les conditions de garantie. Un écran photo est un outil de décision : sa valeur se mesure à la confiance qu’il vous donne lorsque vous livrez, publiez ou imprimez vos images."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les écrans photo",
+      "items": [
+        {
+          "q": "Faut-il obligatoirement un écran 4K pour retoucher des photos ?",
+          "a": "Non. Un écran QHD de bonne qualité, notamment en 27 pouces, est déjà très confortable pour la majorité des retouches. Le 4K apporte davantage de finesse et d’espace de travail, mais la fidélité des couleurs, l’uniformité et la calibration ont souvent plus d’impact sur le résultat final."
+        },
+        {
+          "q": "Un écran sRGB suffit-il pour la photographie ?",
+          "a": "Oui, si vous publiez principalement sur le Web et les réseaux sociaux. Il doit toutefois afficher correctement cet espace et idéalement proposer un mode sRGB fiable. Un gamut large devient pertinent si vous travaillez pour l’impression, avec certains flux Adobe RGB, ou en vidéo dans un espace plus étendu."
+        },
+        {
+          "q": "Pourquoi mes tirages sont-ils plus sombres que l’image affichée ?",
+          "a": "La cause la plus fréquente est un écran trop lumineux. Réduisez la luminance, calibrez votre moniteur et vérifiez que le laboratoire, le papier et le logiciel utilisent des profils ICC cohérents. Un premier tirage test reste le moyen le plus sûr d’ajuster votre chaîne de travail."
+        },
+        {
+          "q": "Quelle dalle choisir entre IPS, VA et OLED ?",
+          "a": "L’IPS est généralement le choix le plus sûr pour la photo grâce à sa stabilité d’affichage et à ses larges angles de vision. Le VA peut convenir à un usage mixte mais est moins rassurant pour les couleurs critiques. L’OLED est séduisant pour son contraste, mais demande davantage de vigilance sur les réglages et l’usage prolongé d’interfaces fixes."
+        },
+        {
+          "q": "Dois-je acheter une sonde de calibration ?",
+          "a": "Elle est vivement recommandée si vous retouchez régulièrement, imprimez ou livrez des images à des clients. Pour une pratique très occasionnelle destinée uniquement au Web, un bon mode sRGB et des réglages sobres peuvent suffire au départ, mais une sonde reste le meilleur moyen d’obtenir une référence stable."
+        },
+        {
+          "q": "À quelle fréquence faut-il recalibrer son écran ?",
+          "a": "Recalibrez à intervalles réguliers, surtout au début pour vérifier la stabilité, puis après un changement notable de lumière, de réglage ou de matériel. Un écran utilisé souvent ou destiné à l’impression mérite des contrôles plus fréquents qu’un écran de consultation occasionnelle."
+        }
+      ]
+    }
+  ]
+}

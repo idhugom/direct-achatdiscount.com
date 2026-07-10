@@ -1,0 +1,401 @@
+{
+  "title": "Comment effacer un compte gmail",
+  "slug": "comment-effacer-un-compte-gmail",
+  "path": "/divers/comment-effacer-un-compte-gmail.html",
+  "category": "tech",
+  "tags": [
+    "gmail",
+    "compte google",
+    "supprimer un compte",
+    "sauvegarde emails",
+    "google takeout",
+    "cybersécurité"
+  ],
+  "excerpt": "Effacer Gmail ne signifie pas toujours supprimer votre compte Google. Voici la méthode sûre, les données à sauvegarder et les pièges à éviter.",
+  "metaDescription": "Supprimez une adresse Gmail ou un compte Google sans erreur : sauvegarde, étapes, conséquences, récupération et alternatives à connaître.",
+  "seoTitle": "Comment effacer un compte Gmail sans perdre vos données",
+  "heroKicker": "Suppression sans regret",
+  "readingTime": 12,
+  "date": "2022-09-04T09:45:39",
+  "image": {
+    "id": "386",
+    "alt": "Comment effacer un compte gmail",
+    "width": 1000,
+    "height": 730
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Vous souhaitez vous débarrasser d’une ancienne adresse Gmail, limiter votre exposition en ligne ou repartir avec une boîte mail plus propre ? Avant de cliquer sur « Supprimer », il faut distinguer l’effacement de l’adresse Gmail de la fermeture complète du compte Google : les conséquences ne sont pas du tout les mêmes."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Supprimer <strong>Gmail</strong> efface l’adresse et ses e-mails, mais peut laisser votre compte Google, Drive, Photos ou YouTube actif.",
+        "Supprimer le <strong>compte Google</strong> efface l’ensemble des données et services associés au compte : c’est une décision bien plus radicale.",
+        "Sauvegardez vos messages, pièces jointes, contacts et fichiers importants avant toute suppression, idéalement dans deux emplacements distincts.",
+        "Prévenez vos contacts et remplacez votre adresse Gmail sur vos comptes importants avant de la fermer.",
+        "Ne confondez pas suppression d’un compte sur votre téléphone et suppression réelle du compte chez Google : retirer un compte d’un appareil n’efface rien en ligne."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "0 €",
+          "label": "pour supprimer une adresse Gmail ou un compte Google"
+        },
+        {
+          "value": "2 niveaux",
+          "label": "de suppression à distinguer : Gmail seul ou compte Google entier"
+        },
+        {
+          "value": "1 adresse externe",
+          "label": "peut être nécessaire pour continuer à accéder au compte Google après la suppression de Gmail"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Effacer Gmail : de quoi parle-t-on exactement ?",
+      "id": "effacer-gmail-de-quoi-parle-t-on-exactement"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression « effacer un compte Gmail » recouvre plusieurs actions très différentes. Vous pouvez supprimer seulement le <strong>service Gmail</strong>, c’est-à-dire votre adresse en @gmail.com et le contenu de sa boîte de réception. Vous pouvez aussi supprimer votre <strong>compte Google</strong> dans son ensemble. Dans ce second cas, vous perdez également l’accès aux données liées à Drive, Google Photos, YouTube, Agenda, Contacts, achats éventuels et autres services utilisés avec ce compte."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une troisième opération est souvent confondue avec les deux premières : <strong>retirer un compte d’un smartphone, d’une tablette ou d’un navigateur</strong>. Cette manipulation déconnecte simplement l’appareil. Elle est utile avant de vendre un téléphone ou de prêter un ordinateur, mais votre adresse et vos données restent actives sur les serveurs de Google."
+    },
+    {
+      "type": "comparison",
+      "title": "Supprimer Gmail ou le compte Google : le bon choix selon votre objectif",
+      "left": {
+        "title": "Supprimer uniquement Gmail",
+        "points": [
+          "L’adresse en @gmail.com et les e-mails sont supprimés.",
+          "Le compte Google peut rester utilisable pour Drive, Photos, YouTube ou les achats numériques.",
+          "Une adresse e-mail de remplacement, non Gmail, peut être demandée pour vous connecter ensuite.",
+          "Solution adaptée si vous voulez abandonner votre messagerie sans perdre vos autres données Google."
+        ]
+      },
+      "right": {
+        "title": "Supprimer le compte Google entier",
+        "points": [
+          "Gmail, Drive, Photos, YouTube, Agenda, Contacts et autres données liées au compte sont concernés.",
+          "Vous ne pourrez plus utiliser les connexions « Se connecter avec Google » associées à ce compte.",
+          "C’est le choix pertinent pour fermer totalement votre présence liée à ce compte.",
+          "Une sauvegarde complète et une vérification des services liés sont indispensables."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une adresse Gmail supprimée n’est pas une adresse recyclable",
+      "html": "Ne supprimez pas une adresse Gmail en pensant pouvoir la recréer plus tard ou laisser quelqu’un d’autre l’utiliser. Une fois supprimée, elle peut devenir indisponible de façon durable. Surtout, les messages envoyés à cette ancienne adresse ne vous parviendront plus : vérifiez vos comptes bancaires, administratifs, marchands et vos doubles authentifications avant d’agir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparez la suppression : la checklist qui évite les mauvaises surprises",
+      "id": "preparez-la-suppression-la-checklist-qui-evite-les-mauvaises"
+    },
+    {
+      "type": "paragraph",
+      "html": "La suppression technique ne prend que quelques minutes ; la préparation demande davantage d’attention. Une boîte Gmail est fréquemment utilisée comme identifiant principal pour des dizaines de sites. Elle peut aussi recevoir des liens de réinitialisation de mot de passe, des factures, des documents de voyage ou des codes de sécurité. Commencez donc par cartographier les usages de cette adresse."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À vérifier avant de fermer votre adresse",
+      "items": [
+        "Modifiez l’adresse e-mail de connexion sur vos services prioritaires : banque, assurance, opérateur, impôts, santé, énergie, boutiques en ligne et plateformes de paiement.",
+        "Remplacez Gmail comme adresse de récupération sur vos autres comptes e-mail, réseaux sociaux et services professionnels.",
+        "Contrôlez les méthodes de double authentification : codes envoyés par e-mail, codes de secours, applications d’authentification et clés de sécurité.",
+        "Exportez ou transférez les documents importants reçus par e-mail : contrats, justificatifs, garanties, billets, factures et échanges professionnels.",
+        "Informez vos contacts utiles et mettez en place, si nécessaire, une période de transition avec une nouvelle adresse active.",
+        "Vérifiez les abonnements, newsletters et prélèvements associés : ils peuvent révéler des services que vous aviez oubliés."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous utilisez « Se connecter avec Google » sur des sites tiers, ne vous contentez pas de changer votre adresse de contact. Connectez-vous à chaque service concerné et créez, si l’option existe, un mot de passe indépendant ou une autre méthode de connexion. Sinon, la fermeture du compte Google peut vous empêcher de récupérer facilement l’accès."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sauvegarder vos e-mails et vos données avant l’effacement",
+      "id": "sauvegarder-vos-e-mails-et-vos-donnees-avant-l-effacement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une sauvegarde n’est pas seulement utile pour conserver quelques messages sentimentaux. Elle vous permet aussi de retrouver une facture, un identifiant de commande ou une pièce jointe plusieurs mois après la fermeture. La solution officielle la plus complète consiste à utiliser l’outil d’exportation des données de Google, souvent appelé <strong>Google Takeout</strong>. Vous choisissez les catégories à exporter, le format d’archive et le mode de réception."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour Gmail, l’archive contient généralement les messages dans un format exploitable par des logiciels de messagerie. Les pièces jointes présentes dans les e-mails y sont incluses. Selon le volume de votre boîte, la préparation peut être rapide ou prendre davantage de temps. Ne lancez pas la suppression avant d’avoir téléchargé l’archive et vérifié qu’elle s’ouvre correctement."
+    },
+    {
+      "type": "table",
+      "caption": "Quelle sauvegarde choisir avant de supprimer Gmail ?",
+      "headers": [
+        "Méthode",
+        "Ce que vous conservez",
+        "Atout principal",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Exportation des données Google",
+          "E-mails, contacts et, au choix, données d’autres services",
+          "La méthode la plus complète pour archiver un compte",
+          "L’archive peut être volumineuse ; conservez-la dans un emplacement sécurisé"
+        ],
+        [
+          "Transfert manuel des e-mails importants",
+          "Une sélection de messages et de pièces jointes",
+          "Simple pour les documents indispensables",
+          "Risque d’oublier des échanges ou dossiers moins visibles"
+        ],
+        [
+          "Client de messagerie configuré en IMAP",
+          "Une copie locale des e-mails synchronisés",
+          "Consultation possible hors ligne et classement personnel",
+          "Vérifiez que tous les dossiers sont bien synchronisés avant de supprimer"
+        ],
+        [
+          "Transfert des contacts vers une autre adresse",
+          "Carnet d’adresses et groupes de contacts",
+          "Facilite le passage à une nouvelle messagerie",
+          "Les contacts ne remplacent pas les anciens e-mails ni leurs pièces jointes"
+        ]
+      ],
+      "note": "Conservez au moins une copie hors de votre boîte Gmail : disque chiffré, ordinateur protégé ou espace de stockage fiable."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Testez votre archive, ne la téléchargez pas seulement",
+      "html": "Ouvrez l’archive après téléchargement et recherchez quelques messages anciens, une facture avec pièce jointe et un contact important. Une sauvegarde non vérifiée peut être inutilisable au moment où vous en aurez réellement besoin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment supprimer uniquement votre adresse Gmail",
+      "id": "comment-supprimer-uniquement-votre-adresse-gmail"
+    },
+    {
+      "type": "paragraph",
+      "html": "La procédure s’effectue depuis les réglages de votre compte Google, de préférence sur un ordinateur ou dans le navigateur de votre smartphone. Les intitulés peuvent légèrement évoluer, mais le chemin reste proche : ouvrez la gestion de votre compte Google, rendez-vous dans la rubrique consacrée aux <strong>données et à la confidentialité</strong>, puis recherchez l’option permettant de supprimer un service Google."
+    },
+    {
+      "type": "steps",
+      "title": "Les étapes pour effacer Gmail tout en gardant le compte Google",
+      "items": [
+        {
+          "title": "Connectez-vous au bon compte",
+          "text": "Si vous possédez plusieurs adresses Google, vérifiez l’avatar et l’adresse affichée. Une erreur de compte est vite arrivée, notamment sur un navigateur partagé."
+        },
+        {
+          "title": "Ouvrez les réglages de données",
+          "text": "Dans votre compte Google, accédez à la section liée aux données personnelles et à la confidentialité, puis à la gestion ou suppression de vos données."
+        },
+        {
+          "title": "Choisissez la suppression d’un service",
+          "text": "Sélectionnez l’option qui permet de supprimer un service Google spécifique, et non la suppression du compte entier. Une nouvelle authentification par mot de passe peut être demandée."
+        },
+        {
+          "title": "Repérez Gmail dans la liste",
+          "text": "Choisissez Gmail, lisez les conséquences affichées et confirmez que vous voulez supprimer ce service précis."
+        },
+        {
+          "title": "Indiquez une adresse de remplacement",
+          "text": "Google peut vous demander une adresse e-mail existante qui n’est pas une adresse Gmail. Elle servira à vous connecter à votre compte Google restant et à recevoir les informations de confirmation."
+        },
+        {
+          "title": "Validez depuis l’e-mail de confirmation",
+          "text": "Ouvrez le message envoyé sur l’adresse de remplacement et suivez le lien de validation. Tant que cette confirmation n’est pas réalisée, la demande peut ne pas être finalisée."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Après validation, vous ne pourrez plus envoyer ni recevoir de messages avec l’adresse Gmail supprimée. Votre compte Google, s’il a été conservé, devra être accessible avec l’adresse de remplacement et votre mot de passe habituel. Vérifiez immédiatement que vous arrivez bien à vous reconnecter, notamment si vous utilisez Drive ou Photos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment supprimer définitivement un compte Google entier",
+      "id": "comment-supprimer-definitivement-un-compte-google-entier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre objectif est de fermer totalement le compte, cherchez dans les mêmes réglages de confidentialité l’option de <strong>suppression du compte Google</strong>. Google affiche alors les catégories de données et services concernés. Prenez le temps de les lire : cette opération vise bien davantage que votre messagerie."
+    },
+    {
+      "type": "paragraph",
+      "html": "La confirmation implique généralement de cocher des cases attestant que vous comprenez la perte d’accès aux données et aux services. Ne validez pas mécaniquement. Si vous avez des fichiers dans Drive, des albums dans Google Photos, une chaîne YouTube, des contacts synchronisés sur Android ou des achats numériques, assurez-vous d’avoir exporté ce qui doit l’être et d’avoir modifié les accès aux services externes."
+    },
+    {
+      "type": "proscons",
+      "title": "Fermer totalement son compte Google : avantages et limites",
+      "pros": [
+        "Vous réduisez le nombre de comptes en ligne à surveiller et la surface d’exposition de vos données.",
+        "Vous évitez que cette ancienne adresse reste associée à des services inutilisés.",
+        "Vous pouvez repartir sur une organisation numérique plus claire, avec des identifiants actualisés.",
+        "La fermeture peut être cohérente pour un compte créé autrefois, devenu inutile ou compromis après sécurisation des autres services."
+      ],
+      "cons": [
+        "Vous perdez l’accès à tous les services et contenus rattachés au compte, pas seulement aux e-mails.",
+        "Les connexions via Google sur des sites tiers peuvent cesser de fonctionner.",
+        "La récupération ultérieure n’est pas garantie, même si un délai de restauration peut parfois être proposé.",
+        "Les données synchronisées sur vos appareils peuvent disparaître ou ne plus se mettre à jour correctement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce qui se passe après la suppression",
+      "id": "ce-qui-se-passe-apres-la-suppression"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après la suppression de Gmail, les expéditeurs qui écrivent à votre ancienne adresse peuvent recevoir un message d’échec de distribution. Les messages ne sont pas automatiquement transférés vers votre nouvelle boîte, sauf si vous avez organisé la transition <em>avant</em> la fermeture. Les listes de diffusion, alertes de sites et messages automatiques continueront donc à cibler une adresse devenue inactive tant que vous ne les aurez pas modifiés à la source."
+    },
+    {
+      "type": "paragraph",
+      "html": "Après la suppression complète du compte Google, vos appareils peuvent demander une nouvelle connexion, cesser de synchroniser certains éléments ou perdre l’accès à des contenus liés au compte. Sur Android, vérifiez quels contacts, agendas, sauvegardes et applications dépendent de cette session Google avant de la fermer. Retirer d’abord le compte de l’appareil n’est pas obligatoire, mais cela peut vous aider à constater concrètement les éléments qui y sont rattachés."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Récupération : possible parfois, jamais à considérer comme acquise",
+      "html": "Après une suppression, Google peut dans certains cas proposer une récupération pendant une période limitée. Ne fondez toutefois pas votre décision sur cette éventualité : l’accès aux messages et aux données peut ne pas être restaurable. Considérez toute suppression confirmée comme définitive."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ne voulez-vous pas plutôt désactiver, nettoyer ou sécuriser Gmail ?",
+      "id": "ne-voulez-vous-pas-plutot-desactiver-nettoyer-ou-securiser-g"
+    },
+    {
+      "type": "paragraph",
+      "html": "Supprimer une boîte est irréversible dans ses effets pratiques. Si votre problème est le spam, l’encombrement ou la crainte d’un piratage, des alternatives moins radicales peuvent répondre au besoin. Vous pouvez nettoyer les gros e-mails et les anciennes pièces jointes, utiliser des filtres, désactiver les notifications, modifier votre mot de passe ou activer la validation en deux étapes. Si vous ne voulez simplement plus consulter l’adresse, retirez-la de votre téléphone tout en la gardant comme boîte de secours."
+    },
+    {
+      "type": "table",
+      "caption": "Les alternatives à la suppression selon votre situation",
+      "headers": [
+        "Votre besoin",
+        "Solution à privilégier",
+        "Pourquoi"
+      ],
+      "rows": [
+        [
+          "Vous recevez trop de spam",
+          "Filtres, blocage des expéditeurs, désabonnement et signalement",
+          "Vous conservez l’accès aux comptes liés sans subir la majorité des messages indésirables"
+        ],
+        [
+          "Votre boîte est pleine",
+          "Tri des e-mails lourds, archivage local et nettoyage du stockage Google",
+          "Vous récupérez de l’espace sans perdre votre adresse"
+        ],
+        [
+          "Vous changez d’adresse",
+          "Création d’une nouvelle boîte puis transition progressive",
+          "Vous mettez à jour vos services sans risquer de manquer des messages essentiels"
+        ],
+        [
+          "Vous craignez un piratage",
+          "Nouveau mot de passe, appareils connectés vérifiés et double authentification",
+          "Vous sécurisez le compte sans sacrifier vos données"
+        ],
+        [
+          "Vous vendez un téléphone",
+          "Suppression du compte de l’appareil et réinitialisation de l’appareil",
+          "Vos données en ligne restent intactes, mais ne restent pas sur le téléphone"
+        ],
+        [
+          "Le compte est inutile et sans données à garder",
+          "Suppression de Gmail ou du compte Google selon les services utilisés",
+          "Vous réduisez durablement les comptes inactifs"
+        ]
+      ],
+      "note": "Une transition de quelques semaines est souvent plus sûre qu’une fermeture immédiate d’une adresse utilisée depuis longtemps."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus fréquentes à éviter",
+      "id": "les-erreurs-les-plus-frequentes-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à supprimer le compte Google alors que vous vouliez seulement changer d’adresse e-mail. La deuxième est de lancer l’export, puis de fermer le compte avant d’avoir téléchargé et contrôlé l’archive. La troisième est d’oublier les services où Gmail sert d’identifiant ou de canal de récupération. Enfin, beaucoup d’utilisateurs pensent qu’ils pourront créer à nouveau la même adresse après coup : ce n’est pas un plan de secours fiable."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Le contrôle final avant de confirmer",
+      "items": [
+        "Votre archive d’e-mails est téléchargée, ouverte et stockée en sécurité.",
+        "Vos contacts importants ont reçu votre nouvelle adresse.",
+        "Les comptes sensibles utilisent désormais une autre adresse de connexion ou de récupération.",
+        "Vos codes de secours et votre double authentification ne dépendent plus de Gmail.",
+        "Vous avez choisi consciemment entre supprimer Gmail seul et supprimer le compte Google entier.",
+        "Vous êtes connecté au bon compte et vous avez relu les conséquences présentées à l’écran."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particuliers : compte professionnel, compte d’enfant et adresse compromise",
+      "id": "cas-particuliers-compte-professionnel-compte-d-enfant-et-adr"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une adresse fournie par votre entreprise, votre école ou une organisation n’est pas toujours gérée comme un compte Gmail personnel. L’administrateur peut contrôler les données, les règles de conservation et la possibilité de supprimer le compte. Avant toute action, contactez le service informatique ou le responsable du compte : supprimez vous-même uniquement les données que vous êtes autorisé à effacer."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un compte supervisé, notamment celui d’un enfant, les options de suppression et de contrôle peuvent dépendre de la configuration familiale. Si vous suspectez au contraire un piratage, ne fermez pas précipitamment le compte avant d’avoir sécurisé les services qui y sont liés. Changez le mot de passe depuis un appareil fiable, vérifiez les appareils connectés et les options de récupération, puis mettez à jour les comptes externes. La suppression reste une solution possible, mais elle ne remplace pas le traitement d’une compromission."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la suppression d’un compte Gmail",
+      "items": [
+        {
+          "q": "Puis-je supprimer Gmail sans supprimer Google Drive et Google Photos ?",
+          "a": "Oui. En supprimant uniquement le service Gmail depuis les paramètres de votre compte Google, vous pouvez conserver le compte Google et les autres services associés, comme Drive, Photos ou YouTube. Vous devrez généralement utiliser une adresse e-mail non Gmail pour continuer à vous connecter au compte restant."
+        },
+        {
+          "q": "Quelle est la différence entre retirer un compte Gmail de mon téléphone et le supprimer ?",
+          "a": "Retirer le compte de votre téléphone le déconnecte uniquement de cet appareil : vos e-mails et vos données restent en ligne. Supprimer Gmail efface le service de messagerie. Supprimer le compte Google entier ferme l’accès à l’ensemble des services et données liés à ce compte."
+        },
+        {
+          "q": "Puis-je récupérer une adresse Gmail après l’avoir supprimée ?",
+          "a": "Une récupération peut parfois être proposée pendant un délai limité, mais elle n’est jamais garantie. Ne comptez pas sur cette possibilité, surtout pour les e-mails et fichiers importants. Téléchargez vos données et modifiez vos accès avant de confirmer la suppression."
+        },
+        {
+          "q": "Que deviennent les e-mails envoyés à mon ancienne adresse Gmail ?",
+          "a": "Ils ne vous sont plus remis. Les expéditeurs peuvent recevoir un message indiquant que la distribution a échoué. Il n’existe pas de transfert automatique après suppression : mettez à jour vos comptes et prévenez vos correspondants avant la fermeture."
+        },
+        {
+          "q": "Faut-il payer pour supprimer un compte Gmail ?",
+          "a": "Non. La suppression d’un service Gmail ou d’un compte Google ne coûte rien. En revanche, prévoyez suffisamment d’espace de stockage pour conserver votre archive si votre boîte contient beaucoup de messages et de pièces jointes."
+        },
+        {
+          "q": "Comment supprimer un compte Gmail piraté ?",
+          "a": "Commencez par tenter de reprendre le contrôle du compte et par sécuriser les services externes qui utilisent cette adresse. Changez les mots de passe, vérifiez les méthodes de récupération et les appareils connectés. Une fois vos données sauvegardées et vos autres comptes protégés, vous pourrez décider de supprimer Gmail ou le compte Google entier si cela reste nécessaire."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "title": "Comment faire des étiquettes sur word",
+  "slug": "comment-faire-des-etiquettes-sur-word",
+  "path": "/divers/comment-faire-des-etiquettes-sur-word.html",
+  "category": "tech",
+  "tags": [
+    "word",
+    "étiquettes",
+    "publipostage",
+    "impression",
+    "bureautique",
+    "modèles word"
+  ],
+  "excerpt": "Toutes les méthodes pour créer des étiquettes dans Word, les personnaliser, les imprimer proprement et éviter les décalages sur vos planches.",
+  "metaDescription": "Créez et imprimez des étiquettes sur Word sans décalage : modèle, mise en page, publipostage, test d’impression et solutions aux erreurs.",
+  "seoTitle": "Faire des étiquettes sur Word : le guide pratique",
+  "heroKicker": "Imprimer sans décalage",
+  "readingTime": 12,
+  "date": "2022-09-29T15:08:53",
+  "image": {
+    "id": "398",
+    "alt": "Comment faire des étiquettes sur word",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Faire des étiquettes sur Word est simple à condition de partir du bon format de planche. Le vrai enjeu n’est pas seulement de saisir un texte : il faut faire correspondre le modèle Word, les dimensions physiques des étiquettes et les réglages de l’imprimante pour obtenir un résultat net, centré et lisible."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Repérez la <strong>référence exacte</strong> inscrite sur l’emballage de vos planches avant de créer le document.",
+        "Pour une série identique, utilisez la commande <strong>Publipostage &gt; Étiquettes</strong> ; pour des destinataires différents, passez par le <strong>publipostage</strong>.",
+        "Imprimez toujours une <strong>feuille test sur papier ordinaire</strong> avant d’engager vos étiquettes autocollantes.",
+        "Ne modifiez pas à vue les marges d’un modèle : un écart minime se répète sur toute la page.",
+        "Pour les petites planches déjà entamées, utilisez l’option permettant d’imprimer <strong>une seule étiquette</strong>, à la position voulue."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 méthodes",
+          "label": "saisie identique ou publipostage personnalisé"
+        },
+        {
+          "value": "1 référence",
+          "label": "à faire correspondre entre Word et la planche"
+        },
+        {
+          "value": "1 test papier",
+          "label": "à effectuer avant toute impression sur étiquettes"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avant de commencer : choisir la bonne planche d’étiquettes",
+      "id": "avant-de-commencer-choisir-la-bonne-planche-d-etiquettes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Word ne « reconnaît » pas automatiquement les feuilles que vous placez dans l’imprimante. Il s’appuie sur un gabarit : nombre d’étiquettes, largeur, hauteur, marges extérieures et espacements. Si ce gabarit ne correspond pas exactement à votre planche, le texte risque de dériver progressivement d’une ligne ou d’une colonne à l’autre, même si la première étiquette paraît correcte."
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez donc par lire l’emballage. Vous y trouverez généralement une <strong>référence produit</strong>, le format de la feuille, le nombre d’étiquettes par page et leurs dimensions. Conservez aussi l’emballage : il indique souvent si les feuilles sont prévues pour une imprimante jet d’encre, laser ou les deux. Ce point compte, car une étiquette inadaptée peut gondoler, se décoller ou laisser de la colle dans le mécanisme."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les informations à vérifier sur la boîte",
+      "id": "les-informations-a-verifier-sur-la-boite"
+    },
+    {
+      "type": "table",
+      "caption": "Les critères qui déterminent le bon modèle Word",
+      "headers": [
+        "À contrôler",
+        "Pourquoi c’est important",
+        "Que faire dans Word"
+      ],
+      "rows": [
+        [
+          "Référence de la planche",
+          "Elle définit la géométrie exacte des étiquettes.",
+          "Cherchez-la dans la liste des fournisseurs proposés par Word."
+        ],
+        [
+          "Nombre d’étiquettes par feuille",
+          "Deux planches A4 peuvent avoir le même nombre de cases, mais des marges différentes.",
+          "Vérifiez le nombre de lignes et de colonnes affiché dans les détails."
+        ],
+        [
+          "Dimensions d’une étiquette",
+          "Elles déterminent l’espace réel disponible pour le texte ou le logo.",
+          "Comparez largeur et hauteur avec celles indiquées sur l’emballage."
+        ],
+        [
+          "Type d’imprimante",
+          "Le revêtement et la colle ne réagissent pas de la même manière à la chaleur ou à l’encre.",
+          "Choisissez des feuilles compatibles avec votre technologie d’impression."
+        ],
+        [
+          "Feuille entière ou planche entamée",
+          "Une planche incomplète ne doit pas être imprimée comme une feuille neuve.",
+          "Imprimez une seule étiquette à une position précise si nécessaire."
+        ]
+      ],
+      "note": "Si votre référence n’apparaît pas dans Word, créez un format personnalisé à partir des mesures figurant sur l’emballage."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne vous fiez pas uniquement au format A4",
+      "html": "Une feuille A4 décrit la taille du support, pas celle des étiquettes. Deux planches A4 de 24 étiquettes peuvent avoir des marges, un pas vertical ou des coins arrondis différents. Choisir un modèle « presque identique » est la cause la plus courante de décalage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Créer des étiquettes identiques avec la commande de Word",
+      "id": "creer-des-etiquettes-identiques-avec-la-commande-de-word"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour imprimer le même contenu sur une planche entière — par exemple un nom de produit, une mention de classement ou une étiquette de rangement — utilisez la fonction intégrée de Word. Dans les versions récentes, ouvrez l’onglet <strong>Publipostage</strong>, puis choisissez <strong>Étiquettes</strong>. Selon votre version et votre système, l’intitulé ou l’emplacement peut légèrement varier, mais la logique reste la même."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans la fenêtre qui s’ouvre, saisissez le contenu dans la zone prévue. Cliquez ensuite sur <strong>Options</strong> pour sélectionner le fournisseur et la référence de votre planche. Vérifiez le type d’imprimante proposé si Word vous le demande. Vous pourrez alors soit lancer l’impression, soit cliquer sur <strong>Nouveau document</strong> : cette seconde option est généralement préférable, car elle permet de relire, mettre en forme et tester votre page avant de l’imprimer."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode rapide pour une planche complète",
+      "items": [
+        {
+          "title": "Ouvrez la fonction Étiquettes",
+          "text": "Dans l’onglet Publipostage, ouvrez Étiquettes et saisissez le texte à reproduire."
+        },
+        {
+          "title": "Choisissez le bon gabarit",
+          "text": "Dans Options, sélectionnez le fabricant puis la référence exacte. Contrôlez le nombre de lignes, de colonnes et les dimensions affichées."
+        },
+        {
+          "title": "Créez un nouveau document",
+          "text": "Préférez cette option à l’impression immédiate. Word génère une page organisée sous forme de tableau, avec une cellule par étiquette."
+        },
+        {
+          "title": "Mettez en forme une étiquette",
+          "text": "Réglez police, taille, alignement, interligne et éventuellement un logo. Vérifiez que le contenu tient dans la première cellule."
+        },
+        {
+          "title": "Dupliquez et contrôlez",
+          "text": "Si nécessaire, recopiez la mise en forme sur les autres cellules. Relisez chaque ligne avant d’imprimer."
+        },
+        {
+          "title": "Testez puis imprimez",
+          "text": "Imprimez d’abord sur une feuille blanche, superposez-la à la planche et vérifiez l’alignement à contre-jour."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mettre en page des étiquettes lisibles et professionnelles",
+      "id": "mettre-en-page-des-etiquettes-lisibles-et-professionnelles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une étiquette efficace se lit vite et reste compréhensible une fois collée. Son contenu doit donc être adapté à sa taille et à la distance de lecture. Sur une petite étiquette, une référence, un nom court et une date sont souvent plus utiles qu’une phrase complète. Sur une grande étiquette d’expédition, vous pouvez ajouter un logo, une adresse sur plusieurs lignes et des indications de tri."
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque Word crée un document d’étiquettes, il utilise généralement un tableau. Évitez d’en modifier les largeurs de cellules, les marges internes ou les dimensions « pour faire rentrer » le texte : cela risque de casser le gabarit. Ajustez d’abord le contenu : police légèrement plus petite, texte plus concis, alignement cohérent et suppression des espaces inutiles. Si vous devez modifier la position du texte dans toutes les cases, faites-le de manière identique dans chaque cellule."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Règles simples de lisibilité",
+      "items": [
+        "Réservez une <strong>marge visuelle</strong> : ne placez ni texte ni logo au bord de la zone autocollante.",
+        "Utilisez une police sobre et suffisamment grasse pour les petits corps ; les polices décoratives deviennent vite illisibles.",
+        "Limitez-vous à deux niveaux typographiques : un intitulé principal et, si besoin, une information secondaire plus petite.",
+        "Évitez les fonds très sombres en jet d’encre : ils consomment beaucoup d’encre et peuvent accentuer les bavures.",
+        "Pour un logo, préférez une image nette, peu détaillée et proportionnée à la taille finale de l’étiquette.",
+        "Activez l’affichage des marques de mise en forme si des retours à la ligne ou espaces invisibles créent des décalages de contenu."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Images, logos et codes : les précautions utiles",
+      "id": "images-logos-et-codes-les-precautions-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez insérer une image dans une cellule, mais choisissez de préférence une image compacte et nette. Après insertion, vérifiez qu’elle est ancrée de façon prévisible par rapport au texte : dans un tableau, une image alignée <em>sur le texte</em> est souvent plus stable qu’un élément flottant. Redimensionnez-la depuis un angle afin de conserver ses proportions. Si vous imprimez un code-barres ou un QR code, testez sa lecture avec le scanner ou le téléphone qui sera réellement utilisé : la lisibilité dépend de la qualité d’impression, du contraste et de la taille, pas seulement de l’apparence à l’écran."
+    },
+    {
+      "type": "proscons",
+      "title": "Créer le document dans Word : atouts et limites",
+      "pros": [
+        "Fonction intégrée, accessible sans installer de logiciel supplémentaire.",
+        "Modèles prêts à l’emploi pour de nombreuses références de planches.",
+        "Mise en forme familière : texte, logo, alignement et tableaux.",
+        "Très efficace pour les adresses grâce au publipostage."
+      ],
+      "cons": [
+        "Le résultat dépend fortement du choix exact du gabarit.",
+        "Les tableaux peuvent être fragiles si vous modifiez manuellement leurs dimensions.",
+        "Moins adapté à une mise en page graphique complexe ou à une production industrielle.",
+        "Les différences entre imprimantes nécessitent parfois quelques essais d’alignement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire des étiquettes avec des noms ou adresses différents : le publipostage",
+      "id": "faire-des-etiquettes-avec-des-noms-ou-adresses-differents-le"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dès que chaque étiquette contient une information différente — adresses de destinataires, noms de clients, références de produits, numéros de dossier — ne les saisissez pas une par une. Le publipostage permet à Word de prendre les données dans une liste et de générer automatiquement une étiquette par ligne. C’est plus rapide, plus propre et surtout beaucoup moins exposé aux erreurs de recopie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Votre source de données peut être un tableau Excel, une liste créée dans Word ou un fichier de contacts compatible. La règle essentielle est simple : une <strong>ligne correspond à une étiquette</strong> et une <strong>colonne correspond à une information</strong>. Par exemple : Civilité, Prénom, Nom, Adresse, Code postal, Ville. Évitez les cellules fusionnées, les colonnes sans titre et les lignes vides au milieu de la liste."
+    },
+    {
+      "type": "comparison",
+      "title": "Quelle méthode choisir selon votre besoin ?",
+      "left": {
+        "title": "Étiquettes identiques",
+        "points": [
+          "Même texte ou même visuel répété sur toute la planche.",
+          "Idéal pour le rangement, le marquage de bocaux, les produits ou les dossiers.",
+          "Utilisez la commande Étiquettes puis créez un nouveau document.",
+          "Préparation très rapide, sans fichier de données."
+        ]
+      },
+      "right": {
+        "title": "Étiquettes personnalisées",
+        "points": [
+          "Chaque case contient une adresse, un nom ou une référence différente.",
+          "Idéal pour les envois, invitations, inventaires et suivi de stock.",
+          "Utilisez le publipostage avec une liste Excel ou Word.",
+          "Demande une vérification attentive des champs et des données."
+        ]
+      }
+    },
+    {
+      "type": "steps",
+      "title": "Créer une planche d’adresses par publipostage",
+      "items": [
+        {
+          "title": "Préparez votre liste",
+          "text": "Dans Excel ou Word, créez des colonnes clairement nommées. Une adresse complète doit tenir sur une seule ligne de données, répartie dans plusieurs colonnes si nécessaire."
+        },
+        {
+          "title": "Démarrez le publipostage",
+          "text": "Dans Publipostage, choisissez Démarrer la fusion et le publipostage, puis Étiquettes. Sélectionnez ensuite votre référence de planche."
+        },
+        {
+          "title": "Associez les destinataires",
+          "text": "Cliquez sur Sélectionner les destinataires et ouvrez votre fichier. Contrôlez l’aperçu de la liste, retirez les lignes inutiles et vérifiez les accents."
+        },
+        {
+          "title": "Composez la première étiquette",
+          "text": "Insérez les champs nécessaires : nom, adresse, code postal et ville. Placez les retours à la ligne là où ils doivent apparaître."
+        },
+        {
+          "title": "Mettez à jour toutes les étiquettes",
+          "text": "Utilisez la commande dédiée pour recopier la structure sur toute la planche. Le champ d’enregistrement suivant doit être présent entre les étiquettes afin que Word passe au destinataire suivant."
+        },
+        {
+          "title": "Prévisualisez et finalisez",
+          "text": "Parcourez plusieurs enregistrements, puis terminez la fusion dans un nouveau document. Vous pourrez ainsi relire les adresses avant impression."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le contrôle qui évite une planche répétée par erreur",
+      "html": "Dans un publipostage, vérifiez que la deuxième étiquette affiche bien les données du deuxième destinataire. Si toutes les cases affichent la même adresse, la commande de mise à jour des étiquettes ou le champ de passage à l’enregistrement suivant n’a probablement pas été appliqué correctement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Imprimer sans décalage, bavure ni gaspillage",
+      "id": "imprimer-sans-decalage-bavure-ni-gaspillage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une page correcte à l’écran peut être mal placée une fois imprimée. Les causes les plus fréquentes sont le mauvais gabarit, une alimentation papier imprécise, une mise à l’échelle automatique ou le mauvais côté d’insertion de la planche. Le test préalable est donc indispensable, surtout avec des feuilles coûteuses, transparentes, métallisées ou destinées à l’expédition."
+    },
+    {
+      "type": "paragraph",
+      "html": "Imprimez votre document sur papier ordinaire avec les mêmes paramètres que ceux prévus pour les étiquettes. Posez la feuille test sur une planche vierge, alignez-les et regardez-les devant une source lumineuse. Vous verrez immédiatement si le texte entre dans chaque zone. Si le décalage est identique partout, contrôlez d’abord l’option de mise à l’échelle dans la fenêtre d’impression : elle doit rester à 100 % ou à la taille réelle lorsque votre modèle l’exige."
+    },
+    {
+      "type": "table",
+      "caption": "Réglages d’impression à contrôler avant de lancer la production",
+      "headers": [
+        "Réglage",
+        "Réglage conseillé",
+        "Risque si vous l’ignorez"
+      ],
+      "rows": [
+        [
+          "Échelle",
+          "Taille réelle ou 100 %, sans adaptation automatique.",
+          "Texte réduit, agrandi ou décalé par rapport aux découpes."
+        ],
+        [
+          "Type de support",
+          "Choisissez « étiquettes », « papier épais » ou l’option équivalente si votre imprimante la propose.",
+          "Mauvaise accroche de l’encre, séchage insuffisant ou alimentation irrégulière."
+        ],
+        [
+          "Bac papier",
+          "Utilisez le bac ou l’alimentation manuelle conseillé par le fabricant de la planche.",
+          "Feuille entraînée de travers ou passage par un trajet trop courbe."
+        ],
+        [
+          "Face à imprimer",
+          "Respectez le sens d’insertion indiqué par votre imprimante.",
+          "Impression au dos du support ou sur la partie non couchée."
+        ],
+        [
+          "Recto verso",
+          "Désactivez-le pour les planches autocollantes.",
+          "Risque de coincement, marquage ou mauvaise manipulation du support."
+        ]
+      ],
+      "note": "Les intitulés exacts varient selon le pilote de l’imprimante. Consultez le manuel de l’appareil en cas de doute sur le sens d’insertion."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "N’imprimez jamais sur une étiquette déjà décollée",
+      "html": "Une planche incomplète peut être utilisée seulement si les étiquettes restantes sont parfaitement collées et si le fabricant autorise l’impression sur planche partielle. Une étiquette qui se détache dans l’imprimante peut provoquer un bourrage et laisser de la colle sur les rouleaux ou le tambour."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jet d’encre ou laser : lequel privilégier ?",
+      "id": "jet-d-encre-ou-laser-lequel-privilegier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une imprimante jet d’encre convient bien aux petites séries, aux couleurs et aux photos, à condition de choisir des étiquettes conçues pour elle et de laisser l’encre sécher avant manipulation. Une imprimante laser est pratique pour du texte dense, des adresses ou des séries plus importantes ; la chaleur de fusion impose cependant des planches explicitement compatibles laser. Ne supposez jamais qu’un support pour jet d’encre supportera le laser : la colle et le revêtement peuvent ne pas résister à la température."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Corriger les problèmes les plus fréquents dans Word",
+      "id": "corriger-les-problemes-les-plus-frequents-dans-word"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand le résultat ne correspond pas à votre attente, résistez à la tentation de déplacer chaque texte manuellement. Cherchez d’abord l’origine du défaut. Un problème de gabarit se répète de façon régulière ; un problème d’alimentation est souvent irrégulier ; un problème de contenu ne touche qu’une ou quelques cellules. Cette distinction fait gagner beaucoup de temps."
+    },
+    {
+      "type": "table",
+      "caption": "Diagnostic rapide des erreurs d’étiquettes",
+      "headers": [
+        "Symptôme",
+        "Cause probable",
+        "Solution concrète"
+      ],
+      "rows": [
+        [
+          "La première ligne est bonne, les suivantes descendent ou montent progressivement.",
+          "Hauteur ou pas vertical du mauvais modèle.",
+          "Sélectionnez la référence exacte ou créez un nouveau gabarit personnalisé."
+        ],
+        [
+          "Toute la page est décalée dans le même sens.",
+          "Marge du modèle, échelle d’impression ou alimentation du papier.",
+          "Vérifiez l’échelle à 100 %, le sens d’insertion et les marges du gabarit."
+        ],
+        [
+          "Le texte déborde d’une seule étiquette.",
+          "Contenu trop long ou mise en forme différente dans la cellule.",
+          "Raccourcissez le texte, réduisez légèrement la police ou harmonisez les paragraphes."
+        ],
+        [
+          "Toutes les étiquettes de publipostage sont identiques.",
+          "Champ d’enregistrement suivant absent.",
+          "Mettez à jour les étiquettes puis prévisualisez plusieurs destinataires."
+        ],
+        [
+          "L’encre bave ou s’efface.",
+          "Support non compatible ou temps de séchage insuffisant.",
+          "Employez des feuilles adaptées et laissez sécher avant de toucher ou coller."
+        ],
+        [
+          "La feuille se bloque ou sort de travers.",
+          "Planche gondolée, étiquette décollée ou mauvais bac.",
+          "Utilisez une planche plane et intacte, chargée selon les consignes de l’imprimante."
+        ]
+      ],
+      "note": "Conservez une copie du document Word validé, avec le nom de la référence de planche dans le fichier. Vous éviterez de refaire les réglages à chaque impression."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Créer un format personnalisé si votre référence n’existe pas",
+      "id": "creer-un-format-personnalise-si-votre-reference-n-existe-pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il arrive que Word ne propose pas votre marque ou votre référence, notamment avec des planches génériques, spécialisées ou anciennes. Dans ce cas, ouvrez les options d’étiquettes et cherchez la commande permettant de définir une <strong>nouvelle étiquette</strong>. Vous devrez renseigner les dimensions de la page, les marges haute et latérale, la largeur et la hauteur d’une étiquette, le pas horizontal et vertical, ainsi que le nombre de colonnes et de lignes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>pas</strong> correspond à la distance entre le début d’une étiquette et le début de la suivante ; il inclut donc l’étiquette et l’espace qui la sépare de sa voisine. Ne le confondez pas avec la largeur ou la hauteur seules. Mesurez de préférence avec les indications du fabricant plutôt qu’avec une règle : quelques dixièmes de millimètre d’erreur peuvent devenir visibles en bas de page."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Nommez vos gabarits de façon utile",
+      "html": "Enregistrez un format personnalisé avec un nom explicite, par exemple le format, le nombre d’étiquettes et l’usage. Ajoutez la référence de la planche dans le nom du document Word. Vous retrouverez facilement le bon réglage lors de la prochaine impression."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, consommables et alternatives à Word",
+      "id": "budget-consommables-et-alternatives-a-word"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le coût ne se limite pas à la feuille d’étiquettes. Il faut aussi considérer l’encre ou le toner, le temps de préparation et le taux de rebut lié aux essais. Pour quelques feuilles de classement, les planches A4 standard restent économiques. Pour un grand nombre d’étiquettes d’adresses, le publipostage limite les erreurs et compense rapidement le temps de configuration. Pour des petits formats très nombreux, des étiquettes résistantes ou des codes récurrents, une étiqueteuse thermique peut devenir plus pratique."
+    },
+    {
+      "type": "table",
+      "caption": "Quel budget et quelle solution selon l’usage ?",
+      "headers": [
+        "Besoin",
+        "Solution adaptée",
+        "Repère de budget"
+      ],
+      "rows": [
+        [
+          "Quelques étiquettes de rangement ou bocaux",
+          "Word et planches A4 standard.",
+          "Budget faible : quelques euros pour un petit paquet, hors encre."
+        ],
+        [
+          "Courrier, invitations, envoi de documents",
+          "Word avec publipostage et feuilles d’adresses.",
+          "Budget modéré : les consommables varient selon le volume et la qualité du papier."
+        ],
+        [
+          "Produits, boîtes ou étiquettes manipulées souvent",
+          "Planches résistantes compatibles avec votre imprimante.",
+          "Budget plus élevé : le revêtement, l’adhésif et la résistance augmentent le coût."
+        ],
+        [
+          "Petits formats en séries régulières",
+          "Étiqueteuse thermique ou imprimante dédiée.",
+          "Investissement initial plus important, mais usage rapide et sans encre dans le cas du thermique direct."
+        ]
+      ],
+      "note": "Les prix varient fortement selon le format, le nombre de feuilles, la finition et la compatibilité jet d’encre ou laser. Comparez surtout le coût par étiquette réellement utilisable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les modèles en ligne fournis par les fabricants de planches peuvent constituer une bonne alternative lorsque vous souhaitez une mise en page déjà calibrée. Un tableur est utile pour préparer les données, mais Word reste généralement plus confortable pour la composition et l’impression d’adresses. Pour des étiquettes très graphiques, un logiciel de PAO ou de création visuelle donnera davantage de liberté, mais demandera aussi de maîtriser précisément les fonds perdus, les marges et l’export d’impression."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Checklist finale avant de lancer l’impression",
+      "id": "checklist-finale-avant-de-lancer-l-impression"
+    },
+    {
+      "type": "paragraph",
+      "html": "Prenez deux minutes pour contrôler ces points. Cette vérification est bien plus rapide que de recommencer une planche entière, surtout si vos étiquettes comportent un logo, des données variables ou un support particulier."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les contrôles indispensables",
+      "items": [
+        "La référence Word correspond à la <strong>référence de la planche</strong>, pas seulement au nombre d’étiquettes.",
+        "Les noms, adresses, accents, codes postaux et numéros ont été relus dans l’aperçu.",
+        "Aucune cellule ne contient un retour à la ligne, un espace ou une mise en forme accidentels.",
+        "L’impression est réglée à la taille réelle, sans ajustement automatique de la page.",
+        "La planche est plate, intacte, compatible avec votre imprimante et insérée du bon côté.",
+        "Une feuille test a été superposée à la planche avant l’impression définitive.",
+        "Le document validé a été enregistré sous un nom incluant le format ou la référence des étiquettes."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les étiquettes dans Word",
+      "items": [
+        {
+          "q": "Où se trouve l’outil pour créer des étiquettes dans Word ?",
+          "a": "Dans la plupart des versions, ouvrez l’onglet <strong>Publipostage</strong>, puis cliquez sur <strong>Étiquettes</strong>. Vous pourrez saisir un texte identique, choisir une référence de planche et créer un nouveau document avant impression."
+        },
+        {
+          "q": "Comment imprimer une seule étiquette sur une planche déjà commencée ?",
+          "a": "Dans la fenêtre Étiquettes, sélectionnez l’option d’impression d’une seule étiquette, puis indiquez sa ligne et sa colonne. Vérifiez que les étiquettes restantes sont bien collées et que votre imprimante accepte les planches partielles. Évitez toute feuille dont une étiquette manque ou se soulève."
+        },
+        {
+          "q": "Pourquoi mes étiquettes se décalent-elles en bas de la page ?",
+          "a": "Un décalage progressif indique presque toujours que la hauteur d’étiquette ou le pas vertical du gabarit est incorrect. Recherchez la référence exacte sur l’emballage. Ne corrigez pas manuellement chaque ligne : choisissez ou créez le bon modèle, puis faites un nouveau test papier."
+        },
+        {
+          "q": "Peut-on faire des étiquettes d’adresses à partir d’un fichier Excel ?",
+          "a": "Oui. Préparez un tableau avec une ligne par destinataire et une colonne par information, puis utilisez le publipostage de Word. Insérez les champs dans la première étiquette, mettez à jour toutes les étiquettes et prévisualisez plusieurs lignes avant de finaliser la fusion."
+        },
+        {
+          "q": "Faut-il choisir des étiquettes différentes pour une imprimante laser et jet d’encre ?",
+          "a": "Oui, il est préférable de respecter strictement la compatibilité indiquée par le fabricant. Les feuilles destinées au laser doivent supporter la chaleur ; celles pour jet d’encre doivent retenir l’encre sans bavure. Certaines références sont polyvalentes, mais cela doit être explicitement précisé."
+        },
+        {
+          "q": "Comment empêcher Word de modifier la taille de mes étiquettes à l’impression ?",
+          "a": "Dans la boîte d’impression, désactivez les options de type « ajuster à la page », « adapter au papier » ou mise à l’échelle automatique. Imprimez à <strong>100 %</strong> ou à la taille réelle, puis vérifiez l’alignement sur une feuille de test avant d’utiliser la planche autocollante."
+        }
+      ]
+    }
+  ]
+}

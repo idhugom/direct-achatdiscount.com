@@ -1,0 +1,372 @@
+{
+  "title": "Comment retrouver son mot de passe wifi ?",
+  "slug": "comment-retrouver-son-mot-de-passe-wifi",
+  "path": "/divers/comment-retrouver-son-mot-de-passe-wifi.html",
+  "category": "tech",
+  "tags": [
+    "mot de passe wifi",
+    "clé wifi",
+    "box internet",
+    "réseau domestique",
+    "sécurité wifi",
+    "dépannage internet"
+  ],
+  "excerpt": "Étiquette de box, appareil déjà connecté, interface d’administration : toutes les méthodes sûres pour retrouver votre clé Wi‑Fi et la protéger.",
+  "metaDescription": "Retrouvez le mot de passe de votre Wi‑Fi sur box, Windows, Mac, Android ou iPhone, sans risque, et sécurisez votre réseau ensuite.",
+  "seoTitle": "Comment retrouver son mot de passe Wi‑Fi facilement",
+  "heroKicker": "Accès retrouvé",
+  "readingTime": 11,
+  "date": "2022-09-14T11:45:20",
+  "image": {
+    "id": "421",
+    "alt": "Comment retrouver son mot de passe wifi ?",
+    "width": 1000,
+    "height": 667
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Vous avez besoin de connecter un nouvel appareil, mais la clé Wi‑Fi a disparu avec le carton de votre box ? Dans la plupart des cas, il est possible de la retrouver en quelques minutes depuis l’étiquette du routeur, un appareil déjà connecté ou l’interface d’administration. Voici les méthodes fiables, dans le bon ordre, sans mettre votre réseau en danger."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Commencez par l’étiquette située sous ou derrière la box : elle porte souvent le nom du réseau et sa clé Wi‑Fi d’origine.",
+        "Un ordinateur ou un téléphone déjà connecté peut afficher ou partager le mot de passe enregistré, selon son système.",
+        "L’interface de votre box permet de consulter ou de modifier la clé, à condition de connaître son mot de passe administrateur.",
+        "Ne confondez pas le mot de passe Wi‑Fi avec les identifiants d’administration de la box ou ceux de votre espace client.",
+        "Si aucune méthode ne fonctionne, la réinitialisation de la box recrée les accès, mais efface aussi vos réglages personnalisés."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avant de chercher : de quel mot de passe parle-t-on ?",
+      "id": "avant-de-chercher-de-quel-mot-de-passe-parle-t-on"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression « mot de passe Wi‑Fi » désigne généralement la <strong>clé de sécurité du réseau sans fil</strong>. C’est celle que vous saisissez sur un téléphone, une télévision, une imprimante ou un ordinateur pour rejoindre le réseau de la maison. Sur une box, elle peut aussi être nommée <em>clé Wi‑Fi</em>, <em>clé de sécurité</em>, <em>Wi‑Fi Key</em>, <em>password</em> ou <em>WPA key</em>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne la confondez pas avec le mot de passe de l’interface d’administration de votre box : ce second code sert à modifier les paramètres du réseau depuis un navigateur ou une application opérateur. Il peut être différent de la clé Wi‑Fi. De même, les identifiants de votre compte client chez votre fournisseur d’accès ne donnent pas forcément accès aux réglages de la box."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Uniquement sur un réseau que vous êtes autorisé à utiliser",
+      "html": "Les démarches ci-dessous servent à récupérer l’accès à <strong>votre propre réseau</strong>, à celui de votre foyer ou à un réseau dont le propriétaire vous a donné l’autorisation. N’essayez pas de contourner la sécurité d’un réseau voisin, professionnel ou public : demandez plutôt la clé à son administrateur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode la plus simple : vérifier l’étiquette de la box ou du routeur",
+      "id": "la-methode-la-plus-simple-verifier-l-etiquette-de-la-box-ou-"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est le premier réflexe, surtout si la clé n’a jamais été changée. Retournez délicatement la box ou regardez sa face arrière : l’étiquette constructeur ou opérateur indique habituellement le <strong>SSID</strong> (le nom du réseau) et la clé Wi‑Fi par défaut. Certaines installations possèdent aussi un autocollant séparé, une carte cartonnée ou un QR code fourni à l’installation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Recopiez la clé avec attention. Les caractères proches visuellement sont la principale cause d’échec : <strong>O</strong> et <strong>0</strong>, <strong>I</strong> et <strong>l</strong>, <strong>B</strong> et <strong>8</strong>, ou encore majuscules et minuscules. S’il y a un QR code, l’appareil photo de nombreux téléphones peut proposer de rejoindre le réseau automatiquement. C’est souvent plus sûr qu’une saisie manuelle d’une longue série de caractères."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Vérifications utiles avant de conclure que la clé est fausse",
+      "items": [
+        "Assurez-vous de sélectionner le bon nom de réseau : une box peut émettre un réseau principal, un réseau invité et parfois deux bandes distinctes.",
+        "Saisissez la clé sans espace au début ou à la fin ; les tirets ou espaces imprimés pour faciliter la lecture ne font pas toujours partie du code.",
+        "Essayez la variante de réseau indiquée par la box si votre appareil ne voit pas le nom habituel.",
+        "Demandez au titulaire de l’abonnement si la clé a été personnalisée : l’étiquette ne sera alors plus à jour.",
+        "Évitez de photographier ou d’envoyer la clé dans une conversation non protégée ; elle donne accès au réseau domestique."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "8 à 63 caractères",
+          "label": "longueur habituelle d’une clé WPA/WPA2/WPA3 saisie en texte"
+        },
+        {
+          "value": "2 identifiants distincts",
+          "label": "à distinguer en pratique : clé Wi‑Fi et accès administrateur"
+        },
+        {
+          "value": "1 réinitialisation",
+          "label": "solution de dernier recours, car elle efface les réglages personnalisés"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Retrouver la clé depuis un appareil déjà connecté",
+      "id": "retrouver-la-cle-depuis-un-appareil-deja-connecte"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si un ordinateur, une tablette ou un téléphone est toujours connecté au Wi‑Fi, il connaît déjà la clé ou peut partager l’accès. Cette solution est particulièrement utile lorsque l’étiquette a été retirée, que la clé a changé ou que la box est difficile à atteindre. Les menus diffèrent selon les versions de système, mais le principe reste le même : ouvrez les réglages du réseau actuellement utilisé, puis cherchez l’option d’affichage, de partage ou de gestion du mot de passe."
+    },
+    {
+      "type": "table",
+      "caption": "Où retrouver ou partager une clé Wi‑Fi selon l’appareil",
+      "headers": [
+        "Appareil",
+        "Méthode générale",
+        "Ce qu’il faut prévoir",
+        "Limite fréquente"
+      ],
+      "rows": [
+        [
+          "PC sous Windows",
+          "Paramètres réseau ou panneau de configuration, puis propriétés de la connexion Wi‑Fi et affichage de la clé.",
+          "Une session administrateur ou la validation des identifiants Windows.",
+          "La clé n’apparaît que pour un réseau enregistré sur l’ordinateur."
+        ],
+        [
+          "Mac",
+          "Réglages Wi‑Fi ou Trousseaux d’accès, puis recherche du nom du réseau et affichage du mot de passe.",
+          "L’authentification du compte Mac, souvent avec Touch ID ou mot de passe.",
+          "Le réseau doit avoir été mémorisé sur ce Mac."
+        ],
+        [
+          "Téléphone Android",
+          "Détails du réseau connecté, puis option Partager ou QR code.",
+          "Le verrouillage du téléphone doit être validé.",
+          "Les noms de menus changent selon la marque et la version d’Android."
+        ],
+        [
+          "iPhone ou iPad",
+          "Réglages Wi‑Fi, puis affichage de la clé pour le réseau connu sur les versions récentes, ou partage vers un appareil Apple proche.",
+          "Le code de l’appareil ou Face ID/Touch ID.",
+          "Le partage Apple impose des conditions de proximité et de contacts ; il n’affiche pas toujours un texte à recopier."
+        ],
+        [
+          "Navigateur ou tablette déjà connectée",
+          "Interface locale de la box ou application de l’opérateur.",
+          "L’accès au réseau et le mot de passe d’administration.",
+          "La rubrique Wi‑Fi peut être protégée par un compte administrateur distinct."
+        ]
+      ],
+      "note": "Les intitulés exacts varient d’un appareil à l’autre. Recherchez les mots « Wi‑Fi », « réseau connu », « propriétés », « partager » ou « mot de passe » dans les réglages."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sur un PC Windows : afficher la clé enregistrée",
+      "id": "sur-un-pc-windows-afficher-la-cle-enregistree"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un PC connecté au bon réseau, ouvrez les paramètres Wi‑Fi et accédez aux propriétés de la connexion ou aux options réseau avancées. Selon la version de Windows, le chemin le plus parlant passe par le panneau de configuration : <em>Réseau et Internet</em>, puis les connexions actives, les propriétés sans fil et l’onglet de sécurité. Cochez l’option qui affiche les caractères : Windows demandera parfois des droits administrateur. Vérifiez le nom du réseau avant de noter la clé, car l’ordinateur peut avoir mémorisé plusieurs réseaux semblables."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sur Mac : utiliser les réglages ou le Trousseau d’accès",
+      "id": "sur-mac-utiliser-les-reglages-ou-le-trousseau-d-acces"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur macOS, les réglages Wi‑Fi peuvent permettre de consulter les réseaux connus. Si la clé n’est pas affichée à cet endroit, l’utilitaire <strong>Trousseaux d’accès</strong> est souvent la bonne piste : recherchez le nom exact du Wi‑Fi, ouvrez son entrée et demandez l’affichage du mot de passe. L’opération exige l’authentification d’un utilisateur autorisé sur le Mac. Ne modifiez pas les autres éléments du trousseau : ils peuvent contenir des accès système et des mots de passe importants."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Sur Android, iPhone et iPad : privilégier le QR code ou le partage sécurisé",
+      "id": "sur-android-iphone-et-ipad-privilegier-le-qr-code-ou-le-part"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur Android, ouvrez les réglages Wi‑Fi, touchez le réseau connecté et cherchez <em>Partager</em> ou un QR code. Après déverrouillage du téléphone, le QR code contient généralement les informations de connexion ; le second appareil peut le scanner sans que vous ayez à dicter la clé. Sur un iPhone ou un iPad, ouvrez les informations du réseau pour voir si l’option d’affichage est proposée. Le partage de mot de passe entre appareils Apple est aussi très pratique lorsque les deux appareils sont proches, que le Bluetooth et le Wi‑Fi sont actifs et que les comptes sont reconnus comme contacts."
+    },
+    {
+      "type": "comparison",
+      "title": "Afficher la clé ou partager l’accès : quel choix ?",
+      "left": {
+        "title": "Afficher et recopier la clé",
+        "points": [
+          "Compatible avec un large éventail d’appareils, y compris une télévision ou une console.",
+          "Permet de conserver la clé dans un gestionnaire de mots de passe familial sécurisé.",
+          "Expose davantage au risque d’erreur de frappe ou de divulgation si le code circule par message."
+        ]
+      },
+      "right": {
+        "title": "Partager par QR code ou entre appareils",
+        "points": [
+          "Rapide et évite la saisie d’une longue clé complexe.",
+          "Idéal pour un invité présent sur place ou un nouvel appareil personnel.",
+          "Peut ne pas fonctionner avec certains systèmes, et le QR code doit rester visible uniquement le temps nécessaire."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Passer par l’application ou l’interface de votre box",
+      "id": "passer-par-l-application-ou-l-interface-de-votre-box"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque vous ne disposez d’aucun appareil ayant mémorisé la clé, ouvrez l’application mobile de votre fournisseur d’accès si vous l’utilisez. Beaucoup d’entre elles proposent une rubrique dédiée au Wi‑Fi : consultation du nom de réseau, partage par QR code, création d’un accès invité et changement de clé. C’est souvent l’option la plus confortable, car elle évite de manipuler une adresse locale dans un navigateur."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’autre solution consiste à vous connecter à l’interface web de la box depuis un appareil relié à celle-ci, en Wi‑Fi ou, encore mieux, par câble Ethernet. L’adresse locale et les identifiants initiaux figurent souvent sur une étiquette ou dans la documentation. Une fois connecté, cherchez une rubrique comme <em>Wi‑Fi</em>, <em>réseau sans fil</em>, <em>sécurité</em> ou <em>paramètres avancés</em>. Vous pourrez généralement révéler la clé actuelle ou en définir une nouvelle."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La connexion Ethernet peut vous sauver",
+      "html": "Si vous avez oublié la clé Wi‑Fi mais possédez un ordinateur avec un port Ethernet ou un adaptateur compatible, reliez-le directement à la box. Vous pourrez alors accéder à son interface locale sans connaître le mot de passe sans fil, à condition de disposer de l’accès administrateur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Si vous devez changer le mot de passe Wi‑Fi",
+      "id": "si-vous-devez-changer-le-mot-de-passe-wi-fi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous ne pouvez pas toujours récupérer une clé personnalisée : l’ancien occupant du logement, un membre du foyer ou l’installateur a pu la modifier sans la noter. Dans ce cas, changer la clé depuis l’application ou l’interface de la box est plus simple et plus sain que de chercher indéfiniment. Attention : tous les appareils connectés devront ensuite être reconnectés avec le nouveau mot de passe."
+    },
+    {
+      "type": "steps",
+      "title": "Créer une nouvelle clé Wi‑Fi robuste sans vous compliquer la vie",
+      "items": [
+        {
+          "title": "Choisissez une phrase de passe longue",
+          "text": "Visez une formule mémorisable pour vous, composée de plusieurs mots sans lien évident, avec des chiffres ou signes si l’interface les accepte. La longueur compte davantage qu’une succession de substitutions difficiles à retenir."
+        },
+        {
+          "title": "Évitez les informations personnelles",
+          "text": "N’utilisez ni nom de famille, ni adresse, ni date de naissance, ni le prénom des enfants ou de l’animal. Ces éléments sont faciles à deviner pour un proche ou à retrouver en ligne."
+        },
+        {
+          "title": "Conservez-la au bon endroit",
+          "text": "Enregistrez la clé dans un gestionnaire de mots de passe ou dans un document sécurisé auquel les adultes du foyer ont accès. N’écrivez pas « mot de passe Wi‑Fi » avec le code en clair sur la porte d’entrée."
+        },
+        {
+          "title": "Reconnectez méthodiquement vos appareils",
+          "text": "Commencez par le téléphone ou l’ordinateur qui administre la box, puis les équipements essentiels. Oubliez l’ancien réseau sur les appareils qui tentent de se reconnecter en boucle."
+        },
+        {
+          "title": "Testez un appareil invité",
+          "text": "Vérifiez qu’un nouvel appareil se connecte correctement avant de refermer les réglages. Vous détecterez immédiatement une faute de saisie ou une option de sécurité incompatible."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réinitialiser la box : le dernier recours, pas le premier",
+      "id": "reinitialiser-la-box-le-dernier-recours-pas-le-premier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous ne trouvez ni la clé actuelle ni le mot de passe administrateur, la réinitialisation matérielle peut restaurer les paramètres d’origine, y compris la clé figurant sur l’étiquette. Elle se déclenche habituellement par un appui prolongé sur un petit bouton encastré, mais la procédure dépend du modèle. Consultez la notice de votre box ou l’assistance de votre opérateur avant d’agir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette opération n’est pas anodine. Elle peut supprimer le nom de réseau personnalisé, la clé modifiée, les règles de contrôle parental, les redirections de ports, la configuration d’un répéteur, certains réglages de téléphonie ou les accès à des appareils connectés. Après la remise à zéro, reconnectez-vous avec les informations par défaut puis sécurisez de nouveau le réseau."
+    },
+    {
+      "type": "proscons",
+      "title": "Réinitialisation de la box : faut-il la faire ?",
+      "pros": [
+        "Elle restaure un moyen d’accès lorsque tous les identifiants ont été perdus.",
+        "Elle permet de repartir d’une configuration propre après un doute sur la sécurité du réseau.",
+        "Elle résout parfois des réglages Wi‑Fi incohérents hérités d’une ancienne installation."
+      ],
+      "cons": [
+        "Elle déconnecte tous les appareils du foyer et impose de les reconfigurer.",
+        "Elle efface potentiellement des paramètres utiles ou techniques.",
+        "Elle ne doit pas servir à accéder à une box dont vous n’êtes pas l’administrateur autorisé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sécuriser votre Wi‑Fi après avoir retrouvé l’accès",
+      "id": "securiser-votre-wi-fi-apres-avoir-retrouve-l-acces"
+    },
+    {
+      "type": "paragraph",
+      "html": "Retrouver la clé est aussi le bon moment pour vérifier la sécurité du réseau. Dans les paramètres de la box, activez le protocole le plus récent proposé par vos appareils, idéalement <strong>WPA3</strong> ou, si nécessaire pour la compatibilité, WPA2. Évitez les anciens modes de sécurité lorsqu’une alternative moderne est disponible. Désactivez aussi le WPS si vous ne l’utilisez jamais : ce mécanisme de connexion simplifiée n’est pas indispensable dans la plupart des foyers."
+    },
+    {
+      "type": "paragraph",
+      "html": "Créez un réseau invité pour les visiteurs, les locations ponctuelles ou les équipements peu fiables. Il évite de communiquer la clé principale et peut isoler les invités de vos ordinateurs, imprimantes et objets connectés. Pensez enfin à mettre à jour la box lorsque l’option est disponible, et vérifiez la liste des appareils connectés si vous soupçonnez un accès non autorisé."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un QR code n’est pas une clé à afficher en permanence",
+      "html": "Le QR code Wi‑Fi est pratique pour connecter un invité, mais il donne le même accès que le mot de passe. Montrez-le ponctuellement, puis rangez-le ; pour des visiteurs réguliers, préférez un <strong>réseau invité</strong> avec une clé distincte."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui font perdre du temps",
+      "id": "les-erreurs-qui-font-perdre-du-temps"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à redémarrer ou réinitialiser la box avant d’avoir vérifié les informations imprimées et les appareils déjà connectés. La deuxième est de modifier simultanément le nom du réseau, la clé et le mode de sécurité : si un appareil refuse de se reconnecter, vous ne saurez pas quel paramètre est en cause. Procédez une modification à la fois et notez ce que vous faites."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également les applications ou sites qui promettent de « retrouver n’importe quel mot de passe Wi‑Fi ». Ils ne peuvent pas révéler magiquement une clé inconnue et peuvent chercher à vous faire installer un logiciel douteux, à récupérer des données ou à vous pousser vers un abonnement inutile. Les seules voies légitimes sont l’étiquette, les appareils autorisés déjà connectés, l’administration de la box et l’assistance de votre opérateur."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre plan d’action en moins de dix minutes",
+      "items": [
+        "Regardez l’étiquette de la box et recherchez une clé Wi‑Fi, un SSID ou un QR code.",
+        "Demandez si la clé par défaut a déjà été remplacée par le titulaire du réseau.",
+        "Sur un appareil connecté, ouvrez les détails du Wi‑Fi et cherchez l’affichage ou le partage de la clé.",
+        "Essayez l’application de l’opérateur ou l’interface locale de la box depuis un appareil relié.",
+        "Changez la clé si elle est introuvable mais que vous disposez de l’accès administrateur.",
+        "Ne réinitialisez la box qu’après avoir évalué les réglages que vous devrez restaurer."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le mot de passe Wi‑Fi",
+      "items": [
+        {
+          "q": "Où se trouve le mot de passe Wi‑Fi sur ma box ?",
+          "a": "Il est généralement imprimé sur une étiquette sous ou derrière la box, sous les mentions « clé Wi‑Fi », « Wi‑Fi Key », « WPA Key » ou « password ». Si la clé a été modifiée depuis l’installation, seule la clé actuelle affichée dans l’interface de la box ou enregistrée sur un appareil connecté fonctionnera."
+        },
+        {
+          "q": "Puis-je voir le mot de passe d’un Wi‑Fi auquel mon téléphone est connecté ?",
+          "a": "Souvent, oui. Android propose fréquemment un partage par QR code dans les détails du réseau. Sur les appareils Apple récents, la clé d’un réseau connu peut être affichée après authentification, ou partagée avec un autre appareil Apple sous certaines conditions. Les options exactes dépendent de la version du système."
+        },
+        {
+          "q": "Pourquoi la clé inscrite sur la box ne fonctionne-t-elle pas ?",
+          "a": "Elle a probablement été personnalisée, vous avez peut-être sélectionné un autre réseau portant un nom proche, ou un caractère a été mal recopié. Vérifiez notamment les majuscules, les chiffres et les lettres similaires. Si la clé a été changée, consultez un appareil déjà connecté ou les réglages de la box."
+        },
+        {
+          "q": "Comment retrouver le mot de passe Wi‑Fi sans être connecté ?",
+          "a": "Vérifiez d’abord l’étiquette de la box et les documents d’installation. À défaut, reliez un ordinateur à la box avec un câble Ethernet et ouvrez l’application ou l’interface d’administration, si vous connaissez les identifiants administrateur. Sans accès à la box ni appareil autorisé ayant mémorisé la clé, il faut demander au titulaire du réseau ou envisager une réinitialisation de votre propre matériel."
+        },
+        {
+          "q": "La réinitialisation de la box change-t-elle le mot de passe Wi‑Fi ?",
+          "a": "Oui, elle restaure généralement le nom du réseau et la clé d’origine indiqués sur l’étiquette. En revanche, elle peut aussi supprimer vos réglages personnalisés, déconnecter tous vos appareils et nécessiter une nouvelle configuration. C’est donc une solution de dernier recours."
+        },
+        {
+          "q": "Faut-il changer régulièrement son mot de passe Wi‑Fi ?",
+          "a": "Le changer systématiquement sans raison n’est pas indispensable si la clé est longue, unique et si votre box utilise une sécurité moderne. En revanche, changez-la immédiatement après l’avoir donnée à des personnes que vous ne souhaitez plus autoriser, en cas de doute sur un accès inconnu, ou après un déménagement ou une location."
+        }
+      ]
+    }
+  ]
+}

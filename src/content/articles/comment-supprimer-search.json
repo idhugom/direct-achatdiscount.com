@@ -1,0 +1,402 @@
+{
+  "title": "Comment supprimer search ?",
+  "slug": "comment-supprimer-search",
+  "path": "/divers/comment-supprimer-search.html",
+  "category": "tech",
+  "tags": [
+    "supprimer search",
+    "navigateur",
+    "moteur de recherche",
+    "extension indésirable",
+    "sécurité informatique"
+  ],
+  "excerpt": "Search s’est imposé dans votre navigateur ? Repérez l’origine du problème, supprimez l’élément indésirable et sécurisez vos réglages durablement.",
+  "metaDescription": "Search s’impose dans votre navigateur ou vos recherches ? Identifiez sa source, supprimez l’extension et rétablissez vos réglages en sécurité.",
+  "seoTitle": "Comment supprimer Search de votre navigateur ?",
+  "heroKicker": "Navigateur assaini",
+  "readingTime": 12,
+  "date": "2022-09-14T11:45:05",
+  "image": {
+    "id": "422",
+    "alt": "Comment supprimer search ?",
+    "width": 1000,
+    "height": 500
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Voir « Search » s’afficher à la place de votre moteur de recherche habituel, dans un nouvel onglet ou dans la barre d’adresse n’est pas toujours anodin. Le terme peut désigner un simple réglage, mais aussi une extension ou un logiciel indésirable qui redirige vos requêtes. Voici comment identifier précisément ce que vous devez supprimer, puis reprendre la main sans effacer inutilement vos données."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Ne supprimez pas votre navigateur par réflexe : commencez par vérifier le <strong>moteur de recherche par défaut</strong>, les extensions et la page de démarrage.",
+        "Une redirection vers un moteur inconnu après chaque modification indique souvent qu’une <strong>extension</strong>, une application ou une règle d’entreprise impose le réglage.",
+        "La désinstallation d’une extension suspecte doit être suivie d’un contrôle des <strong>notifications autorisées</strong>, des applications récentes et des paramètres de démarrage.",
+        "La réinitialisation du navigateur est utile en dernier recours : elle conserve en général vos favoris et mots de passe synchronisés, mais désactive les extensions et rétablit plusieurs réglages.",
+        "Si le problème revient après nettoyage, effectuez une analyse de sécurité et vérifiez que votre appareil n’est pas administré par un profil inconnu."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que « Search » peut réellement désigner",
+      "id": "ce-que-search-peut-reellement-designer"
+    },
+    {
+      "type": "paragraph",
+      "html": "La demande « supprimer Search » est volontairement large : le mot <em>Search</em> peut apparaître dans le nom d’un moteur de recherche, d’une extension, d’une barre d’outils, d’une application ou d’une page de nouvel onglet. Il peut aussi ne s’agir que de la zone de recherche normale de votre navigateur. Avant d’effacer quoi que ce soit, observez <strong>où</strong> ce mot apparaît et <strong>à quel moment</strong> : dès l’ouverture du navigateur, après une recherche, dans la liste des extensions ou parmi les applications installées."
+    },
+    {
+      "type": "table",
+      "caption": "Identifier le type de « Search » à supprimer",
+      "headers": [
+        "Ce que vous constatez",
+        "Cause la plus probable",
+        "Action prioritaire"
+      ],
+      "rows": [
+        [
+          "Un site ou un nom inconnu remplace votre moteur habituel",
+          "Moteur de recherche par défaut modifié",
+          "Changer le moteur par défaut et supprimer l’entrée inconnue"
+        ],
+        [
+          "Une page Search s’ouvre à chaque lancement",
+          "Page d’accueil ou pages de démarrage modifiées",
+          "Retirer l’adresse des réglages de démarrage"
+        ],
+        [
+          "Une icône Search est visible près de la barre d’adresse",
+          "Extension ou barre d’outils",
+          "Désinstaller l’extension et vérifier les autorisations"
+        ],
+        [
+          "Vos recherches sont redirigées malgré vos réglages",
+          "Extension, logiciel indésirable ou profil de gestion",
+          "Nettoyer les extensions, applications et règles imposées"
+        ],
+        [
+          "Vous voulez seulement retirer la barre de recherche de l’écran",
+          "Élément d’interface du navigateur ou du téléphone",
+          "Masquer le widget ou ajuster l’affichage, sans toucher aux données"
+        ]
+      ],
+      "note": "Le nom affiché peut varier. Fiez-vous surtout à l’adresse du site de redirection, à la date d’installation et aux autorisations demandées."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas recherche et piratage",
+      "html": "Une barre de recherche intégrée à votre navigateur, à Windows, à macOS ou à votre téléphone est un élément normal. En revanche, un moteur que vous n’avez pas choisi, des publicités supplémentaires, des redirections répétées ou des réglages qui se réactivent sont des signaux d’alerte. Ne saisissez pas de mots de passe ni de coordonnées bancaires sur une page de recherche inconnue."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire un diagnostic avant de supprimer quoi que ce soit",
+      "id": "faire-un-diagnostic-avant-de-supprimer-quoi-que-ce-soit"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon nettoyage consiste à remonter à la source. Un moteur indésirable peut être installé après l’ajout d’une extension prétendument pratique, le téléchargement d’un logiciel gratuit, l’ouverture d’une fausse alerte de mise à jour ou l’acceptation rapide d’options proposées lors d’une installation. Relevez l’URL qui s’ouvre, le nom exact de l’extension et la date approximative à laquelle le comportement a commencé. Ces détails évitent de supprimer le mauvais élément."
+    },
+    {
+      "type": "steps",
+      "title": "Diagnostic rapide en quatre étapes",
+      "items": [
+        {
+          "title": "Testez une fenêtre privée",
+          "text": "Ouvrez une fenêtre de navigation privée et lancez une recherche. Si la redirection disparaît, une extension ou des données de site de votre session classique sont probablement impliquées."
+        },
+        {
+          "title": "Contrôlez le moteur défini par défaut",
+          "text": "Dans les paramètres du navigateur, recherchez la rubrique consacrée au moteur de recherche. Vérifiez le nom sélectionné et l’adresse utilisée pour les requêtes."
+        },
+        {
+          "title": "Examinez les extensions",
+          "text": "Ouvrez la page des extensions et cherchez les modules récemment ajoutés, inconnus, mal orthographiés ou dont la fonction ne correspond pas à vos usages."
+        },
+        {
+          "title": "Vérifiez les applications installées",
+          "text": "Sur ordinateur comme sur mobile, triez les applications par date d’installation. Une application installée au même moment que l’apparition de Search mérite un contrôle attentif."
+        }
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 zones",
+          "label": "à contrôler en priorité : moteur par défaut, extensions et page de démarrage"
+        },
+        {
+          "value": "1 redémarrage",
+          "label": "du navigateur permet de vérifier qu’un réglage supprimé ne se réactive pas"
+        },
+        {
+          "value": "2 niveaux",
+          "label": "de nettoyage : ciblé d’abord, réinitialisation seulement si nécessaire"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Supprimer un moteur Search imposé dans le navigateur",
+      "id": "supprimer-un-moteur-search-impose-dans-le-navigateur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez par remplacer le moteur de recherche indésirable par celui que vous souhaitez utiliser. Dans la plupart des navigateurs, ouvrez les <strong>Paramètres</strong>, puis recherchez « moteur de recherche », « recherche » ou « barre d’adresse ». Sélectionnez votre moteur préféré. Consultez ensuite la liste des moteurs enregistrés : si une entrée Search, une adresse inconnue ou un doublon suspect est présent, utilisez le menu associé pour le supprimer lorsqu’il est disponible."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vérifier aussi la page d’accueil et le démarrage",
+      "id": "verifier-aussi-la-page-d-accueil-et-le-demarrage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Modifier le moteur par défaut ne suffit pas si la page qui s’ouvre au lancement a également été changée. Dans les paramètres, consultez les rubriques <strong>Au démarrage</strong>, <strong>Page d’accueil</strong> et <strong>Nouvel onglet</strong>. Retirez toute adresse que vous ne reconnaissez pas. Choisissez l’ouverture d’un nouvel onglet vide, la reprise de vos onglets précédents ou une page de confiance que vous avez vous-même définie."
+    },
+    {
+      "type": "comparison",
+      "title": "Correction ciblée ou réinitialisation : quel choix faire ?",
+      "left": {
+        "title": "Correction ciblée",
+        "points": [
+          "À privilégier si vous avez identifié le moteur, l’extension ou l’adresse fautive.",
+          "Conserve vos réglages personnels, vos raccourcis et vos extensions légitimes.",
+          "Demande de vérifier plusieurs emplacements : recherche, démarrage, nouvel onglet et notifications.",
+          "Peut échouer si une application extérieure impose à nouveau Search."
+        ]
+      },
+      "right": {
+        "title": "Réinitialisation du navigateur",
+        "points": [
+          "Utile lorsque les redirections persistent ou que plusieurs réglages ont été modifiés.",
+          "Rétablit les principaux paramètres et désactive généralement les extensions.",
+          "Préserve souvent favoris et mots de passe, mais vérifiez toujours le résumé affiché avant validation.",
+          "Ne remplace pas la désinstallation d’un logiciel indésirable présent sur l’appareil."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Une vérification qui évite bien des erreurs",
+      "html": "Si le bouton permettant de supprimer Search est grisé, si un message indique que le navigateur est « géré par votre organisation » ou si le réglage revient instantanément, ne forcez pas. Cherchez d’abord une extension, un profil de gestion ou une application qui verrouille ce paramètre. Sur un appareil professionnel ou scolaire, contactez l’administrateur informatique avant toute modification."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Désinstaller l’extension, la barre d’outils ou l’application responsable",
+      "id": "desinstaller-l-extension-la-barre-d-outils-ou-l-application-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une extension indésirable est l’une des causes les plus fréquentes des redirections. Accédez au gestionnaire d’extensions de votre navigateur. Supprimez les modules que vous ne reconnaissez pas, ceux installés juste avant le problème et ceux qui promettent des fonds d’écran, des coupons, des téléchargements ou une recherche « améliorée » sans nécessité réelle. Désactivez-les d’abord si vous hésitez, testez le navigateur, puis désinstallez-les si la redirection disparaît."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Indices d’une extension à retirer",
+      "items": [
+        "Son nom est vague, générique ou imite celui d’un service connu.",
+        "Vous ne vous souvenez pas l’avoir installée ou elle est apparue après l’installation d’un autre logiciel.",
+        "Elle demande l’autorisation de <strong>lire et modifier toutes vos données sur les sites visités</strong> sans que cette autorisation soit justifiée.",
+        "Elle contrôle la page Nouvel onglet, le moteur de recherche ou les notifications alors que ce n’est pas sa fonction annoncée.",
+        "Elle affiche de la publicité, redirige des liens d’achat ou empêche la modification de vos réglages."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Poursuivez avec les applications de l’appareil. Sous Windows, consultez la liste des applications installées et classez-la par date ; sous macOS, examinez le dossier Applications et les éléments de connexion ; sur mobile, regardez les applications récemment téléchargées. Désinstallez tout programme non identifié qui coïncide avec l’apparition de Search. Ne supprimez toutefois pas un logiciel système ou un outil professionnel simplement parce que son nom vous paraît technique : recherchez son éditeur et sa fonction avant d’agir."
+    },
+    {
+      "type": "proscons",
+      "title": "Supprimer une extension : les bons et les mauvais côtés",
+      "pros": [
+        "C’est souvent l’action la plus rapide pour stopper une page Search ou une redirection.",
+        "Vous limitez les permissions accordées à un module potentiellement intrusif.",
+        "La désinstallation n’efface pas vos favoris ni votre historique de navigation.",
+        "Elle permet de tester immédiatement si l’extension était bien la cause du problème."
+      ],
+      "cons": [
+        "Vous pouvez perdre une fonction utile si vous supprimez trop vite une extension légitime.",
+        "Une autre application peut réinstaller ou réactiver le réglage si elle reste présente sur l’appareil.",
+        "Les données déjà enregistrées dans le navigateur, comme les cookies, peuvent nécessiter un nettoyage complémentaire.",
+        "Sur un poste géré, certaines extensions peuvent être imposées de manière légitime par l’organisation."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nettoyer les données de navigation et les autorisations",
+      "id": "nettoyer-les-donnees-de-navigation-et-les-autorisations"
+    },
+    {
+      "type": "paragraph",
+      "html": "Après avoir supprimé le moteur ou l’extension en cause, nettoyez les traces qui peuvent prolonger le problème. Effacez en priorité les <strong>cookies et données de site</strong> liés à l’adresse inconnue, puis rouvrez le navigateur. Vous pouvez choisir d’effacer les données de navigation sur une période récente si le souci est apparu récemment. Sachez qu’un effacement large vous déconnectera de nombreux sites : assurez-vous de connaître vos mots de passe ou de disposer d’un gestionnaire de mots de passe avant de le faire."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Révoquer les notifications abusives",
+      "id": "revoquer-les-notifications-abusives"
+    },
+    {
+      "type": "paragraph",
+      "html": "Des notifications de navigateur peuvent donner l’impression qu’un virus est encore présent alors que Search a déjà été supprimé. Dans les paramètres de confidentialité ou d’autorisations, ouvrez la liste des sites autorisés à envoyer des notifications. Retirez les sites inconnus, les adresses aux noms étranges et tout site auquel vous n’avez pas consciemment accordé cette permission. Ne cliquez jamais sur une notification annonçant que votre appareil est infecté : fermez-la et ouvrez vous-même les réglages de sécurité."
+    },
+    {
+      "type": "table",
+      "caption": "Nettoyage complémentaire : quoi faire et quand ?",
+      "headers": [
+        "Action",
+        "À utiliser si…",
+        "Conséquence à anticiper"
+      ],
+      "rows": [
+        [
+          "Supprimer les cookies d’un site précis",
+          "La redirection vient d’une adresse identifiée",
+          "Déconnexion du site concerné"
+        ],
+        [
+          "Effacer cookies et cache récents",
+          "Le problème a commencé récemment et persiste",
+          "Déconnexion possible de plusieurs services"
+        ],
+        [
+          "Retirer les autorisations de notification",
+          "Des alertes publicitaires ou alarmistes s’affichent",
+          "Les alertes légitimes de certains sites cessent aussi"
+        ],
+        [
+          "Réinitialiser les réglages du navigateur",
+          "Plusieurs paramètres reviennent ou sont incohérents",
+          "Extensions désactivées et préférences à reconfigurer"
+        ],
+        [
+          "Créer un nouveau profil de navigateur",
+          "Le profil actuel reste corrompu ou surchargé",
+          "Importation sélective des favoris et réglages à prévoir"
+        ]
+      ],
+      "note": "Procédez du geste le moins destructif au plus radical. Testez après chaque action afin de savoir ce qui a résolu le problème."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réinitialiser le navigateur si Search revient toujours",
+      "id": "reinitialiser-le-navigateur-si-search-revient-toujours"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand le moteur change à nouveau après chaque redémarrage, ou que les extensions se comportent anormalement, utilisez la fonction de réinitialisation proposée par le navigateur. Cherchez « réinitialiser », « restaurer les paramètres » ou « restaurer les réglages par défaut ». Lisez le détail de l’opération avant de confirmer : selon le navigateur, les extensions sont désactivées, la page d’accueil et le moteur de recherche sont restaurés, tandis que les favoris et mots de passe restent généralement disponibles dans votre profil ou votre synchronisation."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La réinitialisation n’est pas un antivirus",
+      "html": "Réinitialiser le navigateur corrige ses réglages, mais ne supprime pas forcément l’application qui les a modifiés. Si Search revient après une réinitialisation, cherchez un programme indésirable sur l’ordinateur, un profil de configuration sur mobile ou une extension synchronisée depuis un autre appareil connecté au même compte."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Supprimer Search sur Android, iPhone et iPad",
+      "id": "supprimer-search-sur-android-iphone-et-ipad"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur smartphone, le problème prend souvent la forme d’une page qui s’ouvre dans le navigateur, d’un moteur modifié ou d’une application qui affiche des publicités. Dans le navigateur, vérifiez le moteur de recherche, les onglets de démarrage et les données de sites. Dans les réglages du téléphone, désinstallez les applications récemment ajoutées et inutiles, surtout celles téléchargées hors de la boutique officielle ou proposant des fonctions très générales comme « nettoyage », « accélération » ou « recherche rapide »."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur Android, vérifiez aussi les applications autorisées à s’afficher par-dessus les autres, les navigateurs définis par défaut et les droits d’accessibilité accordés à des apps inconnues. Sur iPhone et iPad, examinez les réglages de votre navigateur et les éventuels profils de gestion ou VPN installés. Un profil dont vous ignorez l’origine ne doit pas être supprimé à l’aveugle si l’appareil appartient à une entreprise, une école ou un proche : demandez d’abord confirmation à la personne ou au service responsable."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "title": "Ordre de nettoyage conseillé sur mobile",
+      "items": [
+        "Fermez tous les onglets qui affichent Search ou une alerte suspecte.",
+        "Remettez le moteur de recherche voulu dans les réglages du navigateur.",
+        "Supprimez les applications récentes ou inconnues liées à l’apparition du problème.",
+        "Effacez les données de navigation et retirez les autorisations de notifications indésirables.",
+        "Redémarrez l’appareil, puis vérifiez que la redirection ne revient pas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Éviter le retour de Search et les redirections futures",
+      "id": "eviter-le-retour-de-search-et-les-redirections-futures"
+    },
+    {
+      "type": "paragraph",
+      "html": "La prévention repose surtout sur les habitudes d’installation. Lors du téléchargement d’un logiciel, privilégiez toujours le site officiel de l’éditeur ou une boutique reconnue. Choisissez une installation personnalisée lorsqu’elle est proposée et décochez les offres annexes : moteur de recherche, extension, antivirus d’essai, VPN ou outil d’optimisation. N’acceptez pas non plus une extension uniquement parce qu’une page vous affirme qu’elle est nécessaire pour lire une vidéo, gagner un bon d’achat ou effectuer une recherche."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Vos réglages de prévention",
+      "items": [
+        "Maintenez le navigateur, le système et les protections de sécurité à jour.",
+        "N’installez que les extensions dont vous comprenez précisément l’utilité.",
+        "Contrôlez régulièrement la liste des extensions et désinstallez celles que vous n’utilisez plus.",
+        "Refusez les notifications des sites qui ne vous apportent aucune alerte utile.",
+        "Utilisez un compte distinct ou un profil de navigateur séparé pour les essais d’extensions et les téléchargements occasionnels.",
+        "Conservez une sauvegarde de vos favoris et utilisez la synchronisation seulement sur des appareils de confiance."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand faut-il suspecter un logiciel indésirable ou demander de l’aide ?",
+      "id": "quand-faut-il-suspecter-un-logiciel-indesirable-ou-demander-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un changement de moteur isolé se résout généralement avec les réglages du navigateur. En revanche, prenez le problème plus au sérieux si Search revient continuellement, si de nouvelles fenêtres publicitaires apparaissent hors du navigateur, si des applications se lancent seules, si votre page d’accueil est verrouillée ou si vous observez des connexions inhabituelles à vos comptes. Lancez alors une analyse complète avec la protection de sécurité reconnue et maintenue de votre système, mettez à jour l’appareil et changez vos mots de passe depuis un appareil sain si vous avez saisi des identifiants sur une page douteuse."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un ordinateur familial, un technicien peut vous aider à vérifier les programmes au démarrage, les profils de navigateur et les paramètres réseau. Sur un appareil professionnel, évitez de contourner les politiques de sécurité : le service informatique doit déterminer si la configuration est légitime ou non. Enfin, si vous constatez des opérations bancaires inconnues, contactez immédiatement votre établissement bancaire par son canal officiel, indépendamment du nettoyage de Search."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la suppression de Search",
+      "items": [
+        {
+          "q": "Supprimer Search va-t-il effacer mes favoris et mes mots de passe ?",
+          "a": "Pas si vous retirez uniquement un moteur de recherche, une extension ou une page de démarrage. Une réinitialisation du navigateur conserve souvent les favoris et mots de passe, mais vérifiez le récapitulatif affiché par votre navigateur et assurez-vous que vos données importantes sont synchronisées ou sauvegardées avant de valider."
+        },
+        {
+          "q": "Pourquoi Search revient-il après que je l’ai supprimé ?",
+          "a": "Le plus souvent, une extension, une application installée sur l’appareil ou un profil de gestion réapplique le réglage. Supprimez la source, pas seulement le moteur de recherche visible. Vérifiez aussi les extensions synchronisées depuis vos autres appareils et redémarrez le navigateur après chaque modification."
+        },
+        {
+          "q": "Comment savoir si Search est une extension dangereuse ?",
+          "a": "Une extension inconnue n’est pas automatiquement malveillante, mais elle est préoccupante si elle modifie vos recherches, affiche de la publicité, demande des droits très larges ou a été installée sans votre accord. Désactivez-la pour tester son effet, puis désinstallez-la si les redirections cessent. Consultez son éditeur et ses autorisations avant de conserver un module dont vous doutez."
+        },
+        {
+          "q": "Puis-je supprimer seulement la barre de recherche affichée sur mon écran ?",
+          "a": "Oui, si vous parlez d’un widget sur l’écran d’accueil de votre téléphone ou d’un élément d’interface normal. Effectuez un appui long sur le widget pour le retirer, ou consultez les options d’affichage du navigateur. Cette action ne modifie pas forcément le moteur de recherche ni les données de navigation."
+        },
+        {
+          "q": "Faut-il installer un logiciel de nettoyage pour enlever Search ?",
+          "a": "Non, ce n’est pas le premier réflexe à avoir. Commencez par les réglages du navigateur, les extensions, les applications installées et les autorisations de notifications. Si vous suspectez un logiciel indésirable, utilisez la protection de sécurité reconnue et à jour de votre système plutôt qu’un outil trouvé via une publicité ou une fenêtre d’alerte."
+        },
+        {
+          "q": "Que signifie le message “géré par votre organisation” dans le navigateur ?",
+          "a": "Ce message indique qu’une règle ou un profil contrôle certains paramètres. Sur un appareil professionnel ou scolaire, cela peut être normal. Sur votre appareil personnel, si vous ne reconnaissez pas cette gestion, vérifiez les extensions, applications et profils installés ; demandez de l’aide avant de supprimer un élément dont vous ne connaissez pas l’origine."
+        }
+      ]
+    }
+  ]
+}
