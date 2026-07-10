@@ -1,0 +1,453 @@
+{
+  "title": "Comprendre le convertisseur 380 en 220 : fonctionnement et applications",
+  "slug": "comprendre-le-convertisseur-380-en-220-fonctionnement-et-applications",
+  "path": "/divers/comprendre-le-convertisseur-380-en-220-fonctionnement-et-applications.html",
+  "category": "maison",
+  "tags": [
+    "convertisseur 380 220",
+    "triphasé",
+    "transformateur électrique",
+    "230 volts",
+    "400 volts",
+    "installation électrique"
+  ],
+  "excerpt": "Le « convertisseur 380 en 220 » désigne souvent un transformateur, mais un neutre peut parfois suffire. Voici comment choisir une solution sûre.",
+  "metaDescription": "Comprenez le passage du 380/400 V au 220/230 V : transformateur, réseau triphasé, dimensionnement, sécurité, coûts et alternatives.",
+  "seoTitle": "Convertisseur 380 en 220 : guide et applications",
+  "heroKicker": "Électricité triphasée",
+  "readingTime": 12,
+  "date": "2025-02-13T11:06:21",
+  "image": {
+    "id": null,
+    "alt": "Comprendre le convertisseur 380 en 220 : fonctionnement et applications",
+    "width": null,
+    "height": null
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le « convertisseur 380 en 220 » est une expression courante, mais elle recouvre plusieurs réalités techniques. Avant d’acheter un appareil, il faut surtout déterminer si votre arrivée triphasée dispose d’un neutre, connaître la tension exacte de votre machine et distinguer un simple transformateur d’un variateur de fréquence. Ce diagnostic évite un achat inutile, un matériel sous-dimensionné et, surtout, un risque électrique majeur."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le 380 V et le 220 V sont les anciennes appellations : les réseaux actuels sont généralement en <strong>400 V triphasé</strong> et <strong>230 V monophasé</strong>.",
+        "Sur un réseau 400/230 V avec neutre, vous obtenez déjà 230 V entre <strong>une phase et le neutre</strong> : aucun convertisseur de tension n’est nécessaire pour cet usage.",
+        "Sans neutre, ou si la plaque signalétique exige une autre tension, un <strong>transformateur triphasé 400/230 V</strong> peut être requis.",
+        "Un variateur de fréquence ne remplace pas automatiquement un transformateur : il sert principalement à piloter la vitesse d’un moteur triphasé.",
+        "Le raccordement, le choix des protections et le dimensionnement doivent être confiés à un électricien qualifié dès qu’il s’agit d’une installation fixe ou d’une puissance significative."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "380 V, 220 V, 400 V et 230 V : remettre les termes au clair",
+      "id": "380-v-220-v-400-v-et-230-v-remettre-les-termes-au-clair"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les termes <strong>380 V</strong> et <strong>220 V</strong> restent très présents sur les plaques d’anciennes machines, dans les annonces de matériel d’occasion et dans le vocabulaire courant. Ils correspondent aux anciennes tensions nominales du réseau français. Aujourd’hui, les repères à utiliser sont en principe <strong>400 V entre deux phases</strong> et <strong>230 V entre une phase et le neutre</strong>, sur une alimentation triphasée basse tension standard."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette distinction est décisive. Dans une installation triphasée comportant trois phases, un neutre et une terre, chaque phase fournit environ 230 V par rapport au neutre. Entre deux phases, la tension est d’environ 400 V. Ainsi, pour alimenter un appareil monophasé prévu pour 220 à 240 V, il suffit souvent de le raccorder entre une phase et le neutre, avec sa terre : il ne faut donc pas chercher un convertisseur par réflexe."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "230 V",
+          "label": "tension nominale entre phase et neutre sur un réseau triphasé courant"
+        },
+        {
+          "value": "400 V",
+          "label": "tension nominale entre deux phases sur ce même réseau"
+        },
+        {
+          "value": "50 Hz",
+          "label": "fréquence nominale du réseau électrique français et européen"
+        },
+        {
+          "value": "3 phases",
+          "label": "conducteurs actifs d’une alimentation triphasée, auxquels peuvent s’ajouter neutre et terre"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le point qui change tout : le neutre",
+      "html": "Si votre tableau ou votre prise triphasée comprend un <strong>neutre réellement disponible</strong>, le 230 V est déjà présent. Si vous ne disposez que de trois phases et d’une terre, vous ne pouvez pas créer un neutre fiable en reliant arbitrairement un conducteur à la terre. Il faut alors étudier un transformateur adapté ou une autre solution avec un professionnel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que désigne réellement un convertisseur 380 en 220 ?",
+      "id": "que-designe-reellement-un-convertisseur-380-en-220"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’expression est imprécise, car plusieurs équipements peuvent être appelés « convertisseur ». Le plus souvent, il s’agit d’un <strong>transformateur abaisseur</strong> qui reçoit du triphasé à environ 400 V et délivre une sortie triphasée ou monophasée à environ 230 V, selon son câblage. Son rôle est de modifier la tension tout en conservant la fréquence du réseau : 50 Hz à l’entrée, 50 Hz à la sortie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans d’autres cas, l’utilisateur cherche plutôt à faire fonctionner un moteur, à créer du triphasé depuis du monophasé, ou à faire varier la vitesse d’une machine. La réponse peut alors être un <strong>variateur de fréquence</strong>, un convertisseur de phase ou un remplacement de moteur. Ces appareils ne répondent pas au même besoin et ne se choisissent pas avec les mêmes critères."
+    },
+    {
+      "type": "table",
+      "caption": "Les solutions souvent confondues sous le nom de « convertisseur 380 en 220 »",
+      "headers": [
+        "Solution",
+        "Ce qu’elle fait",
+        "Quand elle convient",
+        "Limite principale"
+      ],
+      "rows": [
+        [
+          "Branchement phase + neutre",
+          "Fournit directement environ 230 V depuis une arrivée 400/230 V",
+          "Appareil monophasé 230 V et neutre disponible",
+          "Impossible sans neutre ; équilibrage des phases à prévoir"
+        ],
+        [
+          "Transformateur 400/230 V",
+          "Abaisse ou isole la tension à fréquence identique",
+          "Absence de neutre, tension imposée par la machine, besoin d’isolement",
+          "Encombrant, coûteux à forte puissance, ne règle pas la vitesse d’un moteur"
+        ],
+        [
+          "Autotransformateur",
+          "Adapte la tension avec un équipement plus compact et souvent plus économique",
+          "Adaptation de tension lorsque l’isolement galvanique n’est pas requis",
+          "Pas d’isolement électrique entre entrée et sortie"
+        ],
+        [
+          "Variateur de fréquence",
+          "Fournit une tension et surtout une fréquence variables pour un moteur",
+          "Pilotage d’un moteur asynchrone compatible",
+          "Ne convient pas comme alimentation universelle d’appareils 230 V"
+        ],
+        [
+          "Convertisseur de phase",
+          "Crée ou reconstitue du triphasé à partir d’une autre alimentation selon le modèle",
+          "Cas spécifiques d’atelier et de motorisation",
+          "Dimensionnement et compatibilité moteur très sensibles"
+        ]
+      ],
+      "note": "Lisez toujours la plaque signalétique de l’équipement à alimenter avant de retenir une solution."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifier votre besoin avant tout achat",
+      "id": "identifier-votre-besoin-avant-tout-achat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon équipement dépend de l’appareil à alimenter, pas seulement de la tension annoncée. Une perceuse, un chauffage, une alimentation électronique, une machine-outil ou un moteur asynchrone ne réagissent pas de la même façon à une alimentation électrique. Commencez par relever toutes les informations de la plaque signalétique : tension, courant, puissance, nombre de phases, fréquence, type de couplage éventuel et régime de service."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cas n° 1 : alimenter un appareil monophasé 230 V",
+      "id": "cas-n-1-alimenter-un-appareil-monophase-230-v"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre local est alimenté en triphasé 400/230 V avec neutre, un circuit protégé pris entre une phase et le neutre alimente normalement un appareil monophasé 230 V. L’enjeu n’est pas la conversion, mais la création d’un départ conforme, protégé et correctement réparti avec les autres charges. Un appareil puissant ne doit pas être branché au hasard sur une seule phase : une surcharge ou un fort déséquilibre peut faire déclencher la protection générale ou limiter l’usage de l’installation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cas n° 2 : alimenter une machine prévue pour 220 V triphasé",
+      "id": "cas-n-2-alimenter-une-machine-prevue-pour-220-v-triphase"
+    },
+    {
+      "type": "paragraph",
+      "html": "Certaines machines anciennes portent une indication telle que <strong>220/380 V</strong> ou, en désignation moderne, <strong>230/400 V</strong>. Cela ne signifie pas forcément qu’un transformateur est nécessaire. Le moteur peut être recâblable en étoile ou en triangle, selon sa plaque et son bornier. Sur un moteur 230/400 V, l’alimentation 400 V triphasée correspond généralement à un couplage étoile ; sur une alimentation 230 V triphasée, le couplage triangle est habituellement requis. Cette règle n’est pas universelle : la plaque et la notice priment toujours."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cas n° 3 : faire varier la vitesse d’un moteur",
+      "id": "cas-n-3-faire-varier-la-vitesse-d-un-moteur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une pompe, un ventilateur, une machine-outil ou un convoyeur, la demande « passer de 380 à 220 » masque parfois un besoin de commande de moteur. Un variateur peut convertir une alimentation compatible en sortie triphasée adaptée au moteur et modifier la fréquence, donc la vitesse. Mais il faut vérifier le type de moteur, son couplage, le courant nominal, les besoins de couple et l’environnement électrique. Un variateur mal paramétré peut provoquer échauffement, manque de couple ou déclenchements."
+    },
+    {
+      "type": "comparison",
+      "title": "Transformateur ou variateur de fréquence : ne pas les confondre",
+      "left": {
+        "title": "Transformateur 400/230 V",
+        "points": [
+          "Change la <strong>tension</strong>, mais maintient la fréquence du réseau à 50 Hz.",
+          "Peut alimenter des charges variées si sa puissance et sa sortie sont adaptées.",
+          "Est pertinent en l’absence de neutre ou pour répondre à une tension imposée.",
+          "N’offre pas de réglage de vitesse ni de fonctions de commande moteur."
+        ]
+      },
+      "right": {
+        "title": "Variateur de fréquence",
+        "points": [
+          "Agit principalement sur la <strong>fréquence</strong> et la commande d’un moteur.",
+          "Permet un démarrage progressif, un réglage de vitesse et parfois des protections moteur.",
+          "Doit être choisi et paramétré pour un moteur précis et son application.",
+          "N’est pas destiné à alimenter indistinctement éclairage, électronique, chauffage ou prises ordinaires."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dimensionner correctement la puissance du transformateur",
+      "id": "dimensionner-correctement-la-puissance-du-transformateur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un transformateur se dimensionne d’abord en <strong>VA</strong> ou en <strong>kVA</strong>, et non seulement en watts. Pour une charge résistive simple, comme certains chauffages, la puissance en watts est proche de la puissance apparente en VA. Pour un moteur, un compresseur, un poste comportant des bobines ou une alimentation électronique, le courant de démarrage et le facteur de puissance changent fortement le calcul. Choisir juste « la même puissance que la machine » est donc souvent insuffisant."
+    },
+    {
+      "type": "paragraph",
+      "html": "À titre de repère, le courant triphasé se déduit approximativement de la formule <strong>I = S ÷ (√3 × U)</strong>, où I est le courant en ampères, S la puissance apparente en VA et U la tension entre phases. En monophasé, l’approximation est <strong>I = S ÷ U</strong>. Ces calculs servent à comprendre les ordres de grandeur ; ils ne remplacent pas le choix des protections, des sections de câble ni l’étude du courant d’appel."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode de dimensionnement en cinq étapes",
+      "items": [
+        {
+          "title": "Relever les données de la plaque",
+          "text": "Notez la tension d’entrée exigée, le nombre de phases, le courant nominal, la puissance, la fréquence et, pour un moteur, les indications de couplage."
+        },
+        {
+          "title": "Définir la charge réelle",
+          "text": "Précisez si l’appareil est résistif, électronique, inductif ou motorisé. Une machine avec moteur ou compresseur demande une marge plus importante qu’une charge chauffante."
+        },
+        {
+          "title": "Tenir compte du démarrage",
+          "text": "Vérifiez le courant d’appel et le mode de démarrage. Un moteur démarré directement peut appeler plusieurs fois son courant nominal pendant un bref instant."
+        },
+        {
+          "title": "Prévoir une marge raisonnable",
+          "text": "Évitez de faire travailler le transformateur continuellement à sa limite. Une marge tient compte de l’échauffement, de l’évolution de l’usage et des pointes de charge."
+        },
+        {
+          "title": "Valider câbles et protections",
+          "text": "Le disjoncteur, la protection différentielle, la coupure d’urgence, les fusibles éventuels et la section des conducteurs doivent être cohérents avec l’ensemble de l’installation."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Une puissance nominale ne suffit pas pour un moteur",
+      "html": "Un transformateur qui supporte la puissance affichée d’un moteur peut tout de même être inadapté au démarrage. Si le moteur peine à partir, le transformateur et les câbles peuvent chauffer, la tension peut chuter et les protections peuvent déclencher. Pour une charge motorisée, demandez une validation sur la base du courant de démarrage et du cycle de fonctionnement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Applications concrètes en atelier, bâtiment et industrie légère",
+      "id": "applications-concretes-en-atelier-batiment-et-industrie-lege"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le passage d’un réseau triphasé vers une tension plus basse se rencontre surtout dans les ateliers, locaux techniques, bâtiments tertiaires, exploitations agricoles et petites unités de production. Les usages sont très différents, ce qui explique qu’il n’existe pas de convertisseur universel."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Situations où une solution 400/230 V peut être pertinente",
+      "items": [
+        "Alimenter un sous-ensemble de commande ou des auxiliaires prévus pour 230 V lorsqu’aucun neutre n’est disponible localement.",
+        "Adapter la tension d’une machine importée ou ancienne, après vérification de ses tolérances et de sa fréquence nominale.",
+        "Créer une alimentation isolée pour un équipement spécifique, lorsque l’isolement galvanique est une exigence de sécurité ou de fonctionnement.",
+        "Installer un tableau secondaire avec une tension de sortie définie pour un ensemble de machines homogènes.",
+        "Moderniser une machine-outil en séparant l’alimentation de puissance et le circuit de commande."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "À l’inverse, le transformateur n’est pas la solution logique pour alimenter une habitation entière depuis une arrivée triphasée standard : le neutre fournit déjà le 230 V. Il n’est pas non plus le bon outil pour faire tourner un moteur triphasé à vitesse variable, ni pour compenser une puissance d’abonnement insuffisante. Dans ces situations, l’architecture du tableau, le réglage de l’abonnement, le moteur ou la commande doivent être examinés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sécurité : les règles à ne jamais contourner",
+      "id": "securite-les-regles-a-ne-jamais-contourner"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les tensions concernées sont dangereuses et les erreurs de câblage peuvent détruire un équipement ou provoquer électrisation, incendie et départ de feu. La présence de 230 V ne rend pas une intervention anodine ; le 400 V entre phases impose une vigilance encore plus stricte. Un transformateur doit être installé dans un coffret, une armoire ou un emplacement assurant une protection mécanique, une ventilation adaptée et un accès maîtrisé."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Contrôles indispensables avant mise sous tension",
+      "items": [
+        "Vérifier la <strong>plaque signalétique</strong> de l’appareil et celle du transformateur : tensions, phases, fréquence, puissance et schéma de raccordement.",
+        "Contrôler la présence et la continuité du <strong>conducteur de protection</strong> ; la terre n’est jamais un conducteur de service à utiliser comme neutre.",
+        "Installer une protection contre les surintensités adaptée au primaire et, selon le montage, au secondaire.",
+        "Prévoir une protection différentielle compatible avec les équipements raccordés, particulièrement en présence d’électronique de puissance ou de variateur.",
+        "Respecter les sections de câble, les borniers, le serrage au couple prescrit et le repérage clair des conducteurs.",
+        "Réaliser les mesures et essais hors puis sous tension par une personne compétente, avec les instruments appropriés."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne créez jamais un « faux neutre »",
+      "html": "Relier une phase à la terre pour obtenir du 230 V, ou utiliser la terre comme retour de courant, est dangereux et interdit. La terre protège les personnes et les biens ; elle ne remplace pas le neutre. En l’absence de neutre, un électricien déterminera si un transformateur avec secondaire approprié est nécessaire."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Critères de choix et budget à prévoir",
+      "id": "criteres-de-choix-et-budget-a-prevoir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au-delà du rapport de tension, choisissez un équipement adapté au type d’usage. Vérifiez le nombre de phases à l’entrée et à la sortie, la puissance continue admissible, la classe d’isolation, les conditions de refroidissement, l’indice de protection requis par le local, le niveau sonore, les dimensions et le poids. Un transformateur de puissance n’est pas un accessoire portable : les modèles les plus robustes deviennent rapidement lourds et encombrants."
+    },
+    {
+      "type": "paragraph",
+      "html": "Préférez un fabricant ou un distributeur capable de fournir une documentation complète : schéma de branchement, caractéristiques thermiques, protections recommandées et conformité applicable. Pour une installation professionnelle, l’étiquetage des départs, l’accessibilité de la coupure et les documents de maintenance comptent autant que le transformateur lui-même."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur de budget et de complexité",
+      "headers": [
+        "Solution ou poste",
+        "Budget indicatif hors pose",
+        "Ce qui fait varier le coût",
+        "Niveau d’intervention"
+      ],
+      "rows": [
+        [
+          "Petit transformateur pour usage ponctuel et puissance modérée",
+          "De quelques dizaines à quelques centaines d’euros",
+          "Puissance, boîtier, isolement, qualité de fabrication",
+          "Branchement encadré, selon le matériel"
+        ],
+        [
+          "Transformateur triphasé en coffret pour machine ou tableau secondaire",
+          "Souvent plusieurs centaines d’euros, voire davantage",
+          "Puissance, type de sortie, protections, coffret et ventilation",
+          "Installation par professionnel recommandée"
+        ],
+        [
+          "Variateur pour moteur",
+          "De l’ordre de quelques centaines d’euros à davantage selon la puissance",
+          "Courant nominal, fonctions de commande, filtrage, indice de protection",
+          "Paramétrage technique indispensable"
+        ],
+        [
+          "Création ou modification de circuit électrique",
+          "Très variable",
+          "Distance, câblage, tableau, protections, contraintes du site",
+          "Électricien qualifié indispensable"
+        ]
+      ],
+      "note": "Ces repères sont volontairement larges : la pose, les protections et les adaptations du tableau représentent parfois une part importante du projet."
+    },
+    {
+      "type": "proscons",
+      "title": "Transformateur 400/230 V : avantages et limites",
+      "pros": [
+        "Solution fiable et simple pour adapter une tension à fréquence constante.",
+        "Peut fournir une isolation galvanique lorsqu’il s’agit d’un transformateur d’isolement, contrairement à un autotransformateur.",
+        "Compatible avec de nombreux types de charges si le dimensionnement est correct.",
+        "Ne nécessite pas de programmation électronique complexe pour son rôle de base."
+      ],
+      "cons": [
+        "Peut être lourd, volumineux et générer un léger bruit de fonctionnement.",
+        "Demande une étude attentive pour les moteurs à fort courant de démarrage.",
+        "N’apporte aucun contrôle de vitesse à un moteur.",
+        "Peut être inutile si un neutre 230 V est déjà disponible sur l’arrivée triphasée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes et alternatives plus pertinentes",
+      "id": "erreurs-frequentes-et-alternatives-plus-pertinentes"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’erreur la plus fréquente consiste à commander un transformateur avant d’avoir ouvert le tableau ou vérifié la prise. Une arrivée triphasée avec neutre permet souvent de créer un départ 230 V bien plus simplement. À l’inverse, croire qu’une prise dite « triphasée » fournit systématiquement un neutre est tout aussi risqué : certains connecteurs n’embarquent que trois phases et la terre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Autre confusion : prendre les indications 220/380 V d’une vieille machine au pied de la lettre sans examiner les tolérances. Un appareil récent marqué 220–240 V peut accepter le 230 V courant, tandis qu’un équipement très ancien, importé ou sensible doit être validé par sa notice. La fréquence compte aussi : un transformateur ne convertit pas 50 Hz en 60 Hz."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les alternatives à examiner selon votre situation",
+      "items": [
+        "<strong>Créer un départ phase-neutre</strong> depuis le tableau si le neutre est disponible et que l’équilibrage des charges le permet.",
+        "<strong>Recâbler le moteur</strong> uniquement si sa plaque et son bornier autorisent le couplage adapté.",
+        "<strong>Utiliser un variateur de fréquence</strong> pour une application moteur compatible nécessitant vitesse variable ou démarrage progressif.",
+        "<strong>Remplacer le moteur</strong> ou certains auxiliaires quand l’adaptation électrique serait plus coûteuse et moins fiable qu’une modernisation.",
+        "<strong>Demander une évolution de l’installation</strong> si l’absence de neutre, la puissance disponible ou l’état du tableau rendent les solutions temporaires inadaptées."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installation, exploitation et entretien du matériel",
+      "id": "installation-exploitation-et-entretien-du-materiel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois correctement choisi, un transformateur demande peu d’entretien, mais il ne doit pas être oublié dans un coin d’atelier. Installez-le sur un support stable, hors des projections d’eau et des poussières excessives, en laissant l’espace nécessaire à la dissipation thermique. Ne l’enfermez pas dans un coffret étanche non prévu pour évacuer sa chaleur. Le transformateur doit rester accessible pour l’inspection et la coupure."
+    },
+    {
+      "type": "paragraph",
+      "html": "En exploitation, surveillez les signes anormaux : odeur de chaud, ronflement qui augmente brutalement, boîtier excessivement chaud, déclenchements répétés, traces de brunissement autour des borniers ou chute de tension au démarrage. Ces symptômes imposent l’arrêt de l’équipement et un contrôle. Resserrer un bornier sous tension ou remplacer une protection par un calibre supérieur pour « éviter que ça saute » est une mauvaise pratique dangereuse."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Entretien préventif utile",
+      "id": "entretien-preventif-utile"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une vérification périodique par une personne compétente porte notamment sur l’état des câbles, le serrage des connexions hors tension, la propreté des grilles de ventilation, l’absence de corrosion, le bon fonctionnement des protections et le repérage des circuits. Dans un environnement très poussiéreux, humide ou soumis aux vibrations, ces contrôles doivent être plus fréquents. Conservez le schéma de câblage et la référence du matériel près du tableau ou dans le dossier technique : cela simplifie toute intervention ultérieure."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le convertisseur 380 en 220",
+      "items": [
+        {
+          "q": "Ai-je besoin d’un convertisseur pour obtenir du 220 V avec une arrivée 380 V ?",
+          "a": "Pas nécessairement. Sur une arrivée moderne 400/230 V qui comporte un neutre, vous obtenez déjà environ 230 V entre une phase et le neutre. Il faut surtout créer un circuit correctement protégé et vérifier l’équilibrage des charges. Un transformateur devient utile en l’absence de neutre ou si votre équipement exige une tension de sortie particulière."
+        },
+        {
+          "q": "Le 380 V est-il différent du 400 V ?",
+          "a": "Il s’agit principalement d’une évolution de la tension nominale de référence. Dans le langage courant, 380 V désigne souvent le triphasé entre phases, alors que la valeur nominale actuelle est généralement 400 V. De même, 220 V correspond aujourd’hui au repère 230 V entre phase et neutre. Vérifiez néanmoins les tolérances indiquées sur la plaque de votre appareil ancien."
+        },
+        {
+          "q": "Puis-je alimenter un moteur 220/380 V directement en 400 V triphasé ?",
+          "a": "Cela dépend de sa plaque signalétique et de son couplage. Beaucoup de moteurs 230/400 V sont prévus pour fonctionner en 400 V triphasé avec un couplage étoile. Mais il ne faut jamais modifier les barrettes du bornier par supposition : consultez le schéma présent dans le couvercle ou la documentation du moteur, et faites intervenir un professionnel en cas de doute."
+        },
+        {
+          "q": "Un variateur de fréquence peut-il remplacer un transformateur 400 vers 230 V ?",
+          "a": "Non, pas de manière générale. Un variateur est conçu pour alimenter et piloter un moteur compatible ; il modifie notamment la fréquence de sortie. Un transformateur adapte la tension à fréquence identique et peut alimenter d’autres charges selon ses caractéristiques. Pour des prises, un chauffage ou de l’électronique, un variateur n’est généralement pas la bonne réponse."
+        },
+        {
+          "q": "Comment choisir la puissance d’un transformateur 400/230 V ?",
+          "a": "Partez de la puissance apparente en VA ou kVA, du courant nominal et du type de charge. Ajoutez une marge adaptée, surtout pour un moteur, un compresseur ou tout appareil ayant un courant d’appel élevé. La puissance seule ne suffit pas : les protections, les câbles, la durée d’utilisation et les conditions de refroidissement doivent aussi être pris en compte."
+        },
+        {
+          "q": "Peut-on brancher un transformateur 400/230 V sur une prise triphasée ?",
+          "a": "Techniquement, certains équipements sont conçus pour ce type d’alimentation, mais cela ne dispense pas de vérifier la configuration de la prise, la présence ou non du neutre, la puissance disponible, la terre, les protections et la compatibilité du transformateur. Pour une utilisation durable, une machine fixe ou une puissance importante, une installation dédiée réalisée par un électricien est la solution la plus sûre."
+        }
+      ]
+    }
+  ]
+}

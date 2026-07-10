@@ -1,0 +1,407 @@
+{
+  "title": "Quelle est la surface de toit nécessaire pour installer des panneaux photovoltaïques ?",
+  "slug": "quelle-est-la-surface-de-toit-necessaire-pour-installer-des-panneaux-photovoltaiques",
+  "path": "/divers/quelle-est-la-surface-de-toit-necessaire-pour-installer-des-panneaux-photovoltaiques.html",
+  "category": "maison",
+  "tags": [
+    "panneaux photovoltaïques",
+    "surface toiture",
+    "autoconsommation",
+    "énergie solaire",
+    "installation solaire"
+  ],
+  "excerpt": "De 5 à 7 m² par kWc en toiture inclinée : apprenez à calculer la surface réellement exploitable selon vos panneaux, votre toit et vos besoins.",
+  "metaDescription": "Calculez la surface de toit utile pour vos panneaux photovoltaïques : m² par kWc, nombre de modules, marges, contraintes et budget à prévoir.",
+  "seoTitle": "Surface de toit nécessaire pour des panneaux photovoltaïques",
+  "heroKicker": "Toit sous tension",
+  "readingTime": 11,
+  "date": "2025-03-14T17:57:18",
+  "image": {
+    "id": "3023",
+    "alt": "Quelle est la surface de toit nécessaire pour installer des panneaux photovoltaïques ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "La surface nécessaire pour installer des panneaux photovoltaïques ne se résume pas à la superficie totale de votre toiture. Il faut distinguer les mètres carrés occupés par les modules, la zone réellement exploitable et la puissance adaptée à votre consommation. En toiture inclinée, retenez comme premier repère <strong>environ 5 à 7 m² de toit utile par kWc installé</strong>, puis affinez selon les panneaux, l’orientation et les obstacles."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Pour une toiture inclinée, comptez en pratique <strong>5 à 7 m² par kWc</strong>, marges et configuration comprises.",
+        "Une installation résidentielle de 3 kWc demande souvent <strong>15 à 20 m²</strong> et environ 7 à 8 panneaux selon leur puissance.",
+        "La surface exploitable se mesure sur le <strong>plan incliné du toit</strong>, pas sur son emprise au sol ni sur sa surface cadastrale.",
+        "Une petite zone parfaitement orientée et sans ombre peut être plus rentable qu’une grande toiture partiellement ombragée.",
+        "Sur un toit plat, les rangées doivent être espacées : l’emprise totale peut devenir nettement supérieure à la seule surface des panneaux."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La règle de calcul : combien de m² par kWc ?",
+      "id": "la-regle-de-calcul-combien-de-m-par-kwc"
+    },
+    {
+      "type": "paragraph",
+      "html": "La puissance d’une centrale photovoltaïque s’exprime en <strong>kilowatt-crête (kWc)</strong>. Elle correspond à la puissance nominale cumulée des panneaux dans des conditions d’essai standardisées. Ce n’est donc ni votre consommation électrique instantanée, ni la production garantie chaque jour. Pour déterminer la surface, on part de cette puissance et de la puissance unitaire des modules retenus."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les panneaux résidentiels actuels délivrent couramment entre <strong>environ 375 et 500 Wc</strong> pour une surface voisine de 1,7 à 2,2 m². Sur le papier, il faut donc souvent 4 à 5,5 m² de modules par kWc. Dans un projet réel, prévoyez plutôt 5 à 7 m² par kWc sur un toit pentu : les dimensions exactes des panneaux, les espacements, les découpes de toiture, les accès techniques et les zones à contourner empêchent rarement d’utiliser chaque centimètre carré."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "5 à 7 m²",
+          "label": "de toiture utile à prévoir par kWc sur un toit incliné"
+        },
+        {
+          "value": "15 à 20 m²",
+          "label": "pour une installation résidentielle courante de 3 kWc"
+        },
+        {
+          "value": "7 à 8 modules",
+          "label": "environ pour atteindre 3 kWc avec des panneaux résidentiels"
+        },
+        {
+          "value": "900 à 1 400 kWh",
+          "label": "production annuelle indicative par kWc selon la région et le toit"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Surface de panneaux ou surface de toiture ?",
+      "html": "La surface des modules est celle que vous voyez sur une fiche technique. La surface de toiture nécessaire est celle que leur implantation mobilise réellement. Sur une toiture très découpée, avec cheminée, fenêtre de toit ou noue, l’écart peut être important. Demandez toujours un <strong>plan d’implantation coté</strong>, et non un simple nombre de panneaux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Repères de surface selon la puissance visée",
+      "id": "reperes-de-surface-selon-la-puissance-visee"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tableau suivant donne des ordres de grandeur pour des panneaux d’environ 375 à 450 Wc, installés en pose parallèle sur une toiture inclinée dégagée. Il ne remplace pas le calepinage réalisé par l’installateur : deux panneaux de même puissance peuvent avoir des dimensions différentes, et une toiture ne se remplit pas comme un rectangle parfait."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur pour une installation photovoltaïque résidentielle sur toit incliné",
+      "headers": [
+        "Puissance envisagée",
+        "Nombre indicatif de panneaux",
+        "Surface des modules",
+        "Surface de toit utile à prévoir",
+        "Profil d’usage fréquent"
+      ],
+      "rows": [
+        [
+          "1,5 kWc",
+          "4 panneaux environ",
+          "7 à 9 m²",
+          "8 à 11 m²",
+          "Petit foyer, consommation diurne limitée, budget contraint"
+        ],
+        [
+          "3 kWc",
+          "7 à 8 panneaux",
+          "13 à 17 m²",
+          "15 à 20 m²",
+          "Maison avec consommation électrique modérée à régulière"
+        ],
+        [
+          "6 kWc",
+          "14 à 16 panneaux",
+          "27 à 34 m²",
+          "30 à 40 m²",
+          "Foyer équipé, pompe de piscine, véhicule électrique ou chauffage partiellement électrique"
+        ],
+        [
+          "9 kWc",
+          "21 à 24 panneaux",
+          "40 à 51 m²",
+          "45 à 60 m²",
+          "Grande toiture et usages électriques significatifs en journée"
+        ]
+      ],
+      "note": "Ces fourchettes concernent un toit incliné sans ombrage majeur. Sur un toit-terrasse, l’espacement entre rangées peut accroître fortement l’emprise."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne choisissez pas automatiquement la plus grande puissance qui tient sur le toit. Une installation doit d’abord correspondre à votre profil de consommation et à votre stratégie : autoconsommer un maximum, vendre le surplus, anticiper l’arrivée d’un véhicule électrique ou compenser une consommation déjà très élevée. Un toit de 45 m² ne vous impose pas un projet de 9 kWc."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Partir de vos besoins électriques avant de compter les panneaux",
+      "id": "partir-de-vos-besoins-electriques-avant-de-compter-les-panne"
+    },
+    {
+      "type": "paragraph",
+      "html": "La bonne question n’est pas seulement « combien de panneaux puis-je poser ? », mais « quelle production puis-je valoriser ? ». Un système photovoltaïque produit surtout lorsque le soleil est présent, souvent au moment où le logement est peu occupé. Pour l’autoconsommation, vos usages de journée comptent donc autant que votre consommation annuelle : télétravail, ballon d’eau chaude pilotable, filtration de piscine, climatisation, recharge programmée d’un véhicule électrique ou appareils lancés en journée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une installation de 3 kWc constitue souvent un premier format cohérent pour une maison, mais ce n’est pas une règle universelle. Dans une zone très ensoleillée et sur un versant bien exposé, elle produira davantage que la même puissance sur un toit moins favorable dans une région moins solaire. À l’inverse, un foyer qui consomme beaucoup en journée peut justifier une puissance supérieure, à condition d’avoir le budget, le réseau et la toiture adaptés."
+    },
+    {
+      "type": "comparison",
+      "title": "Optimiser la surface ou privilégier le coût ?",
+      "left": {
+        "title": "Panneaux standard et toiture suffisamment grande",
+        "points": [
+          "Puissance typique autour de 375 à 430 Wc par module.",
+          "Surface par kWc généralement un peu plus élevée.",
+          "Choix de formats plus large et implantation souvent plus souple.",
+          "Option logique si la zone de toit est dégagée et que chaque mètre carré n’est pas décisif."
+        ]
+      },
+      "right": {
+        "title": "Panneaux plus puissants ou à haut rendement",
+        "points": [
+          "Puissance souvent autour de 430 à 500 Wc par module.",
+          "Moins de panneaux pour une puissance donnée et emprise réduite.",
+          "Intéressant sur un petit pan de toit, entre deux obstacles ou en présence d’une contrainte esthétique.",
+          "À comparer sur le prix global, les dimensions, le poids et la compatibilité avec la structure, pas sur les watts seuls."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un bon réflexe de calcul",
+      "html": "Divisez la puissance cible par la puissance d’un panneau, puis multipliez le nombre obtenu par la surface exacte du module. Ajoutez ensuite une marge réaliste liée à la forme du toit. Exemple : pour viser près de 3 kWc avec des modules de 425 Wc, il faut environ 7 panneaux ; si chacun mesure environ 2 m², les modules couvrent près de 14 m², mais une zone de toit de 15 à 20 m² reste plus prudente."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mesurer la surface réellement exploitable de votre toiture",
+      "id": "mesurer-la-surface-reellement-exploitable-de-votre-toiture"
+    },
+    {
+      "type": "paragraph",
+      "html": "La surface brute de votre maison est trompeuse. Un pavillon de 100 m² au sol peut avoir plusieurs pans de toit, des pentes différentes et des zones inutilisables. Pour des panneaux posés parallèlement à la couverture, la mesure pertinente est la <strong>surface développée sur la pente</strong>. Elle est supérieure à la projection horizontale visible sur un plan, mais elle doit ensuite être réduite des éléments qui rendent l’implantation impossible ou peu judicieuse."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À relever avant de demander un devis",
+      "items": [
+        "La largeur et la hauteur de chaque pan de toit, mesurées ou estimées sur la pente.",
+        "L’orientation de chaque versant : sud, est, ouest, sud-est et sud-ouest sont généralement intéressants selon votre profil de consommation.",
+        "La pente, l’état de la couverture et l’âge de la charpente.",
+        "Les obstacles fixes : cheminée, sortie de ventilation, fenêtre de toit, lucarne, noue, antenne, conduit ou garde-corps.",
+        "Les ombres projetées par les arbres, bâtiments voisins, poteaux ou cheminées, y compris en hiver lorsque le soleil est bas.",
+        "Les zones à conserver pour l’accès, l’entretien de la toiture et les exigences de sécurité applicables au projet."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les ombres : la contrainte qui peut faire perdre le plus de surface utile",
+      "id": "les-ombres-la-contrainte-qui-peut-faire-perdre-le-plus-de-su"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une ombre ponctuelle n’interdit pas systématiquement une installation, mais elle impose une étude sérieuse. L’ombre d’un arbre ou d’une cheminée se déplace au fil de la journée et des saisons. Elle peut dégrader la production d’une partie de l’installation et compliquer le choix du câblage. Selon la configuration, l’installateur peut proposer d’écarter une zone, de répartir les panneaux sur plusieurs orientations ou d’utiliser une électronique adaptée par panneau. Ces solutions ne remplacent pas la suppression d’une ombre évitable, par exemple une branche qui peut être taillée."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne dimensionnez pas avec une photo aérienne seule",
+      "html": "Les images satellites sont utiles pour un premier repérage, mais elles ne permettent pas de vérifier correctement la pente, les hauteurs d’obstacles, l’état de la couverture ni la structure. Une visite technique doit confirmer la surface disponible, les ombres et la capacité de fixation avant toute commande."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Toit incliné, toit plat : la surface ne se raisonne pas de la même façon",
+      "id": "toit-incline-toit-plat-la-surface-ne-se-raisonne-pas-de-la-m"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un toit incliné, les panneaux sont le plus souvent installés parallèlement à la pente. L’emprise se rapproche alors de la somme des surfaces de panneaux, avec les contraintes de bords et d’obstacles. L’inclinaison existante de la toiture est généralement conservée : il n’est pas nécessaire d’avoir une pente « idéale » pour produire de l’électricité de manière intéressante."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un toit-terrasse, les modules sont placés sur des structures inclinées. Pour éviter qu’une rangée fasse de l’ombre à celle située derrière, il faut les espacer. L’emprise au sol peut ainsi représenter <strong>environ une fois et demie à plus de deux fois</strong> la surface des seuls panneaux, selon leur inclinaison, l’orientation, la hauteur des châssis et les contraintes de maintenance. Le lestage éventuel ajoute aussi une charge importante : l’avis sur la structure du bâtiment est indispensable."
+    },
+    {
+      "type": "proscons",
+      "title": "Installer sur un toit plat : les principaux arbitrages",
+      "pros": [
+        "Orientation et inclinaison choisies librement, même si le bâtiment n’est pas orienté favorablement.",
+        "Accès généralement plus simple pour la pose, le contrôle et le nettoyage exceptionnel.",
+        "Possibilité d’utiliser de grandes surfaces lorsque la structure et les règles du site le permettent."
+      ],
+      "cons": [
+        "Emprise supérieure à la surface des modules à cause de l’espacement anti-ombrage.",
+        "Charges de lestage, prise au vent et étanchéité à étudier avec beaucoup de rigueur.",
+        "Accès, acrotères, évacuations d’eau et règles de sécurité réduisent souvent la zone disponible."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Orientation, inclinaison et production : faut-il plus de m² si le toit n’est pas au sud ?",
+      "id": "orientation-inclinaison-et-production-faut-il-plus-de-m-si-l"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un pan orienté au sud est souvent favorable à la production annuelle, mais l’est et l’ouest sont loin d’être à écarter. Une répartition est-ouest produit plus tôt le matin et plus tard l’après-midi, ce qui peut mieux coïncider avec la présence au domicile. Une orientation sud-est ou sud-ouest fonctionne également très bien dans de nombreux projets. L’objectif est d’obtenir une production utile, pas de poursuivre une perfection théorique au prix d’un projet trop complexe."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un toit moins favorable ne demande pas mécaniquement une surface plus grande : cela dépend de votre objectif. Si vous cherchez à atteindre un volume annuel de production donné, il faudra éventuellement davantage de puissance, donc davantage de modules. Si vous cherchez surtout à autoconsommer au fil de la journée, une puissance plus modérée sur deux orientations peut être préférable. L’étude doit estimer la production de chaque versant plutôt que de se contenter d’une règle uniforme."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Méthode simple pour estimer votre projet en quatre étapes",
+      "id": "methode-simple-pour-estimer-votre-projet-en-quatre-etapes"
+    },
+    {
+      "type": "steps",
+      "title": "Du toit au nombre de panneaux",
+      "items": [
+        {
+          "title": "Relevez les zones disponibles",
+          "text": "Identifiez chaque pan de toit et retirez les zones occupées ou ombragées. Travaillez avec les dimensions de la pente, en préservant un accès raisonnable aux équipements et à la couverture."
+        },
+        {
+          "title": "Fixez une puissance cible réaliste",
+          "text": "Basez-la sur vos factures, vos usages de journée et vos projets à venir. Une pompe à chaleur, une piscine ou une voiture électrique peuvent modifier fortement le dimensionnement pertinent."
+        },
+        {
+          "title": "Choisissez un format de module provisoire",
+          "text": "Utilisez la puissance et les dimensions figurant sur une fiche technique. Divisez la puissance cible par la puissance du module, puis arrondissez au nombre entier de panneaux compatible avec l’onduleur et la configuration."
+        },
+        {
+          "title": "Validez le calepinage et la faisabilité",
+          "text": "Faites contrôler l’implantation, les ombres, le poids, la fixation, l’électricité et les démarches locales par un professionnel qualifié. Le projet final peut différer de quelques panneaux de votre première estimation."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir selon la surface et la puissance ?",
+      "id": "quel-budget-prevoir-selon-la-surface-et-la-puissance"
+    },
+    {
+      "type": "paragraph",
+      "html": "La surface est un facteur de coût, mais elle n’est pas le seul. Le prix dépend aussi du type de couverture, de la hauteur du bâtiment, de l’accès au chantier, du tableau électrique, des protections, de l’onduleur ou des micro-onduleurs, ainsi que des éventuels travaux de toiture. À puissance égale, une petite toiture très fragmentée peut coûter plus cher à équiper qu’un grand pan simple et dégagé."
+    },
+    {
+      "type": "table",
+      "caption": "Enveloppes budgétaires indicatives pour une pose résidentielle par un professionnel",
+      "headers": [
+        "Puissance approximative",
+        "Surface de toit utile",
+        "Budget global hors aides, ordre de grandeur",
+        "Ce qui fait varier fortement le montant"
+      ],
+      "rows": [
+        [
+          "Autour de 3 kWc",
+          "15 à 20 m²",
+          "Environ 7 000 à 11 000 €",
+          "Complexité de toiture, accès, choix des équipements et adaptations électriques"
+        ],
+        [
+          "Autour de 6 kWc",
+          "30 à 40 m²",
+          "Environ 10 000 à 16 000 €",
+          "Nombre de pans équipés, type d’onduleur, longueurs de câbles et travaux annexes"
+        ],
+        [
+          "Autour de 9 kWc",
+          "45 à 60 m²",
+          "Environ 14 000 à 22 000 €",
+          "Surface à traiter, structure, raccordement et contraintes particulières du chantier"
+        ]
+      ],
+      "note": "Fourchettes volontairement larges, destinées à construire un budget initial. Comparez des devis détaillés sur une puissance, une production estimée et une implantation identiques ; ne déduisez pas les aides éventuelles avant d’avoir vérifié votre éligibilité."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Comparez le prix par projet, pas seulement par panneau",
+      "html": "Un devis pertinent indique la puissance en kWc, la marque et le nombre de modules, leur implantation, le type d’onduleur, les protections, le raccordement, les garanties et l’estimation de production. Un prix bas qui ignore une difficulté de toiture ou une adaptation électrique peut devenir un mauvais calcul."
+    },
+    {
+      "type": "paragraph",
+      "html": "En France, une pose de panneaux modifie l’aspect extérieur du bâtiment et nécessite généralement une démarche d’urbanisme préalable. Les règles peuvent être plus strictes dans certains secteurs protégés ou soumis à des prescriptions locales. Vérifiez le plan local d’urbanisme, contactez la mairie avant les travaux et ne signez pas un projet qui présenterait les autorisations comme un détail sans importance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui font échouer le calcul de surface",
+      "id": "les-erreurs-qui-font-echouer-le-calcul-de-surface"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les pièges à éviter",
+      "items": [
+        "Confondre puissance électrique et surface : 3 kWc ne signifient pas 3 m², mais souvent près de 15 à 20 m² de toit utile.",
+        "Mesurer l’emprise au sol de la maison plutôt que les pans de toiture réellement exploitables.",
+        "Faire abstraction des fenêtres de toit, cheminées, ombres et accès nécessaires.",
+        "Choisir le panneau le plus puissant sans vérifier ses dimensions réelles : il peut être plus long, plus large ou moins facile à loger.",
+        "Remplir tout le toit sans étudier le surplus de production et votre capacité à le valoriser.",
+        "Négliger la charpente, l’état de la couverture et les contraintes d’un toit-terrasse.",
+        "Se fier à un rendement annoncé sans demander une simulation tenant compte de l’orientation, de la pente et des ombres."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Après la pose : entretien et suivi de la surface solaire",
+      "id": "apres-la-pose-entretien-et-suivi-de-la-surface-solaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une installation photovoltaïque de toiture demande peu d’entretien courant, mais elle ne doit pas être oubliée. Surveillez régulièrement la production via l’onduleur ou l’application associée : une baisse anormale peut révéler un défaut, une panne de communication ou l’apparition d’un nouvel ombrage. Après une tempête, vérifiez visuellement depuis le sol l’absence de panneau déplacé, de branche ou de débris."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le nettoyage n’est pas systématique. La pluie enlève une partie des poussières, mais le pollen, les fientes, les feuilles ou les dépôts agricoles peuvent justifier un contrôle dans certains environnements. N’intervenez pas sur une toiture sans dispositif adapté : le risque de chute est bien plus important que le gain espéré. Un professionnel peut aussi contrôler ponctuellement les fixations, les câbles accessibles et l’état général de la couverture."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la surface de toit photovoltaïque",
+      "items": [
+        {
+          "q": "Quelle surface faut-il pour 10 panneaux photovoltaïques ?",
+          "a": "Cela dépend de leur format. Avec des panneaux résidentiels d’environ 1,7 à 2,2 m², 10 modules couvrent généralement entre 17 et 22 m² de surface de panneaux. Prévoyez une zone de toiture un peu plus grande si la forme du pan, les obstacles ou les accès imposent des marges."
+        },
+        {
+          "q": "Quelle surface de toit faut-il pour une installation de 3 kWc ?",
+          "a": "Comptez couramment 15 à 20 m² de toiture utile sur un toit incliné dégagé. Cela correspond souvent à 7 ou 8 panneaux, mais le nombre exact dépend de la puissance unitaire et des dimensions des modules retenus."
+        },
+        {
+          "q": "Peut-on installer des panneaux sur une petite toiture ?",
+          "a": "Oui. Une petite zone sans ombre peut accueillir quelques panneaux et produire utilement en autoconsommation. Des modules plus puissants peuvent réduire le nombre de panneaux nécessaires. Il faut toutefois vérifier que leurs dimensions s’intègrent réellement entre les obstacles et respecter les contraintes de pose."
+        },
+        {
+          "q": "Un toit orienté est ou ouest nécessite-t-il deux fois plus de panneaux ?",
+          "a": "Non. Sa production annuelle peut être inférieure à celle d’un versant idéalement orienté, mais elle reste souvent intéressante. Une implantation est-ouest répartit la production sur la journée, ce qui peut améliorer l’autoconsommation. Le bon dimensionnement dépend de votre objectif et de vos horaires de consommation."
+        },
+        {
+          "q": "Faut-il laisser une distance autour des panneaux ?",
+          "a": "Oui, dans la plupart des projets, mais il n’existe pas une marge universelle applicable à tous les toits. L’installateur doit tenir compte des bords de couverture, des obstacles, des accès de maintenance, des prescriptions du fabricant, de la ventilation et des exigences de sécurité ou d’urbanisme locales."
+        },
+        {
+          "q": "La surface de panneaux suffit-elle à savoir si ma toiture est compatible ?",
+          "a": "Non. La compatibilité dépend aussi de l’état de la couverture, de la charpente, de l’exposition au vent, des ombres, du cheminement des câbles, de l’emplacement de l’onduleur et de la faisabilité du raccordement. Une visite technique reste indispensable avant de valider le projet."
+        }
+      ]
+    }
+  ]
+}

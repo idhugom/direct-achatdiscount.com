@@ -1,0 +1,467 @@
+{
+  "title": "Les outils nécessaires pour démonter un mandrin de perceuse",
+  "slug": "outils-demontage-mandrin",
+  "path": "/divers/outils-demontage-mandrin.html",
+  "category": "maison",
+  "tags": [
+    "perceuse",
+    "mandrin",
+    "outillage",
+    "bricolage",
+    "réparation",
+    "entretien"
+  ],
+  "excerpt": "Clé Allen, tournevis, maillet, extracteur : apprenez à réunir les bons outils selon le montage de votre mandrin de perceuse.",
+  "metaDescription": "Découvrez les outils pour démonter un mandrin de perceuse, identifier sa fixation et éviter les erreurs qui bloquent ou endommagent l’appareil.",
+  "seoTitle": "Démonter un mandrin de perceuse : les bons outils",
+  "heroKicker": "Atelier bien équipé",
+  "readingTime": 12,
+  "date": "2025-06-08T16:34:02",
+  "image": {
+    "id": "3172",
+    "alt": "Les outils nécessaires pour démonter un mandrin de perceuse",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un mandrin bloqué, usé ou voilé ne se retire pas avec un seul outil universel : tout dépend de son système de fixation. Avant de forcer, il faut identifier si votre mandrin est vissé sur l’axe ou monté sur un cô, puis employer le bon levier au bon endroit. Voici l’équipement réellement utile pour intervenir sans abîmer la perceuse ni fausser son arbre."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Ouvrez toujours le mandrin à fond : une <strong>vis de retenue interne</strong>, souvent à pas inversé, peut être cachée au fond.",
+        "Pour un mandrin vissé, la combinaison la plus efficace est généralement <strong>clé Allen longue + choc sec contrôlé</strong>.",
+        "Pour un mandrin monté sur cône, il faut privilégier des <strong>coins d’extraction adaptés</strong>, jamais un arrache improvisé qui prend appui sur le carter.",
+        "Débranchez une perceuse filaire ou retirez la batterie avant toute intervention ; le blocage de l’axe n’est pas une sécurité suffisante.",
+        "Si le mandrin tourne autour de son axe, si le filetage est abîmé ou si la machine est sous garantie, l’intervention d’un réparateur peut être plus raisonnable qu’un démontage forcé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencez par identifier le montage du mandrin",
+      "id": "commencez-par-identifier-le-montage-du-mandrin"
+    },
+    {
+      "type": "paragraph",
+      "html": "La liste d’outils dépend d’abord de la façon dont le mandrin est fixé à la perceuse. Sur de nombreuses perceuses-visseuses et perceuses portatives, le mandrin est <strong>vissé sur l’arbre</strong>. Il peut être sécurisé par une petite vis située entre les mors. Sur certaines perceuses à colonne, machines anciennes ou équipements d’atelier, le mandrin est plutôt <strong>emmanché sur un cône</strong> : il tient par ajustement mécanique, sans filetage apparent."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas non plus le mandrin de perçage classique avec un porte-embout à emmanchement rapide, ni avec un porte-outil de perforateur. Un perforateur SDS, par exemple, demande un démontage spécifique de son nez porte-outil ; les conseils ci-dessous concernent principalement le <strong>mandrin trois mors</strong> des perceuses et perceuses-visseuses."
+    },
+    {
+      "type": "comparison",
+      "title": "Montage vissé ou montage conique : le bon raisonnement",
+      "left": {
+        "title": "Mandrin vissé sur l’arbre",
+        "points": [
+          "Le plus courant sur les perceuses électroportatives.",
+          "Une vis de retenue peut se cacher au fond du mandrin.",
+          "La dépose se fait souvent avec une clé Allen serrée dans les mors et un coup bref.",
+          "Le sens de desserrage de la vis interne est fréquemment inversé, à confirmer sur votre machine."
+        ]
+      },
+      "right": {
+        "title": "Mandrin emmanché sur cône",
+        "points": [
+          "Fréquent sur certaines perceuses à colonne et machines d’atelier.",
+          "Aucune vis interne de maintien dans la configuration classique.",
+          "La dépose exige des coins ou un extracteur prenant appui près du cône.",
+          "Le démontage doit rester parfaitement dans l’axe pour préserver les portées coniques."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "caption": "Indices pour reconnaître la fixation avant de sortir les outils",
+      "headers": [
+        "Ce que vous observez",
+        "Fixation probable",
+        "Outil de dépose à privilégier",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Une vis visible tout au fond, mandrin ouvert",
+          "Mandrin vissé avec vis de retenue",
+          "Tournevis adapté, puis clé Allen",
+          "La vis peut avoir un pas à gauche : vérifiez avant de forcer"
+        ],
+        [
+          "Pas de vis visible, perceuse-visseuse moderne",
+          "Mandrin vissé, parfois sans vis de retenue",
+          "Clé Allen longue et maillet",
+          "Immobilisez correctement l’arbre ou la boîte de vitesses"
+        ],
+        [
+          "Fente entre mandrin et broche sur une machine d’atelier",
+          "Cône Morse, Jacobs ou équivalent",
+          "Coins d’extraction ou extracteur de cône",
+          "Ne faites pas levier sur le carter ou les roulements"
+        ],
+        [
+          "Mandrin très proche d’un carter plastique",
+          "Montage vissé probable",
+          "Clé Allen, maintien prudent de la machine",
+          "Évitez tout appui qui écrase le carter"
+        ]
+      ],
+      "note": "En cas de doute, consultez la vue éclatée ou la notice technique de votre référence : le type de fixation prime toujours sur les habitudes de démontage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La boîte à outils de base pour un mandrin vissé",
+      "id": "la-boite-a-outils-de-base-pour-un-mandrin-visse"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour déposer la majorité des mandrins de perceuses portatives, vous n’avez pas besoin d’un établi professionnel. En revanche, des outils bien ajustés font toute la différence. Un tournevis mal choisi arrondit vite l’empreinte de la vis interne ; une clé Allen trop courte ou de qualité médiocre peut glisser et blesser votre main. Mieux vaut réunir quelques outils fiables que multiplier les solutions de fortune."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les outils indispensables",
+      "items": [
+        "<strong>Jeu de tournevis de qualité</strong>, comprenant notamment les empreintes cruciformes et Torx courantes : choisissez l’embout qui remplit totalement l’empreinte de la vis.",
+        "<strong>Jeu de clés Allen longues</strong> : une clé dont le grand bras offre un bon levier est particulièrement utile pour desserrer le mandrin.",
+        "<strong>Maillet en caoutchouc ou marteau léger</strong> : le choc doit être bref et maîtrisé, pas violent.",
+        "<strong>Chiffon épais, tapis antidérapant ou mâchoires tendres</strong> : ils protègent le corps de la machine lors du maintien.",
+        "<strong>Dégrippant pénétrant</strong> : utile sur une vis oxydée ou un assemblage ancien, à employer avec parcimonie.",
+        "<strong>Brosse, soufflette manuelle et lampe</strong> : nettoyez et éclairez le fond du mandrin avant de chercher une vis."
+      ]
+    },
+    {
+      "type": "proscons",
+      "title": "Un kit de démontage simple : ses atouts et ses limites",
+      "pros": [
+        "Peu encombrant et utile pour de nombreuses réparations courantes.",
+        "La clé Allen transmet un couple important sans serrer directement le corps du mandrin.",
+        "Le maillet limite les marques par rapport à un marteau métallique.",
+        "Les tournevis et embouts servent aussi au démontage des capots et à l’entretien général."
+      ],
+      "cons": [
+        "Ne convient pas à lui seul aux mandrins emmanchés sur cône.",
+        "Une clé Allen insuffisamment serrée peut ripper et détériorer les mors.",
+        "Le choc demandé peut être difficile à réaliser si l’axe ne se bloque pas correctement.",
+        "Un kit bas de gamme augmente le risque d’empreintes arrondies et de clés tordues."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les outils spécifiques selon le type de fixation",
+      "id": "les-outils-specifiques-selon-le-type-de-fixation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Certains cas nécessitent plus qu’une clé Allen. C’est notamment le cas des mandrins coniques, des vis grippées ou des machines dont la broche doit être immobilisée sans transmettre l’effort à la boîte de vitesses. L’objectif n’est pas d’accumuler les accessoires, mais d’acheter ou d’emprunter l’outil qui exerce l’effort <strong>dans le bon axe</strong>."
+    },
+    {
+      "type": "table",
+      "caption": "Quel outil choisir pour chaque difficulté ?",
+      "headers": [
+        "Situation",
+        "Outil recommandé",
+        "Utilisation correcte",
+        "À éviter"
+      ],
+      "rows": [
+        [
+          "Vis interne difficile à desserrer",
+          "Embout parfaitement ajusté sur porte-embout robuste",
+          "Maintenir la perceuse et appliquer un effort progressif ; utiliser un léger choc si nécessaire",
+          "Tournevis trop petit, pince sur la tête de vis"
+        ],
+        [
+          "Mandrin vissé très serré",
+          "Clé Allen longue et maillet",
+          "Serrer la clé dans les mors, puis frapper son bras dans le sens de desserrage du mandrin",
+          "Faire tourner le mandrin moteur alimenté ou frapper le carter"
+        ],
+        [
+          "Mandrin sur cône",
+          "Paire de coins d’extraction dimensionnés pour le cône",
+          "Insérer symétriquement et serrer progressivement jusqu’au décollement",
+          "Tournevis ou burins coincés de travers"
+        ],
+        [
+          "Broche à maintenir",
+          "Clé plate correspondant aux méplats, clé à ergot ou dispositif prévu par le fabricant",
+          "Prendre appui sur les méplats prévus, près de la broche",
+          "Bloquer le ventilateur, les engrenages ou le carter plastique"
+        ],
+        [
+          "Mandrin endommagé à remplacer",
+          "Étau avec mordaches tendres, si la procédure de la machine le permet",
+          "Tenir uniquement les parties métalliques robustes, sans écraser le mandrin",
+          "Serrer la perceuse par sa coque dans un étau"
+        ],
+        [
+          "Pièce totalement grippée",
+          "Dégrippant, chaleur très modérée et localisée si compatible, réparateur",
+          "Laisser agir le produit, recommencer sans précipitation",
+          "Chalumeau, chauffe excessive près des plastiques, batteries ou graisses"
+        ]
+      ],
+      "note": "Les coins d’extraction existent en plusieurs épaisseurs et ouvertures. Ils doivent correspondre à l’espace disponible entre le mandrin et l’épaulement de broche."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer la perceuse : sécurité et accès à la vis interne",
+      "id": "preparer-la-perceuse-securite-et-acces-a-la-vis-interne"
+    },
+    {
+      "type": "paragraph",
+      "html": "La phase de préparation évite la plupart des dégâts. Retirez systématiquement la batterie d’une perceuse sans fil ; pour un modèle filaire, débranchez la prise. Placez le sélecteur de sens de rotation dans une position qui ne peut pas être actionnée par accident et installez-vous sur un plan stable. Si la machine est lourde, un tapis caoutchouc ou un étau équipé de protections peut aider, mais ne serrez jamais la coque plastique avec excès."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention au sens de desserrage",
+      "html": "Sur de nombreux mandrins vissés, la petite vis située au fond du mandrin possède un <strong>filetage à gauche</strong>. Elle se desserre donc souvent dans le sens horaire, contrairement à une vis standard. Ce n’est pas une règle universelle : observez les marquages, consultez la documentation quand elle est disponible et n’insistez pas si la vis résiste anormalement."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode sûre pour déposer un mandrin vissé",
+      "items": [
+        {
+          "title": "Ouvrez complètement les mors",
+          "text": "Tournez le mandrin jusqu’à ce que les trois mors soient totalement rétractés. Éclairez le fond : retirez poussière, copeaux et graisse qui masqueraient la tête de vis."
+        },
+        {
+          "title": "Retirez l’éventuelle vis de retenue",
+          "text": "Engagez l’embout sans jeu et maintenez-le bien dans l’axe. Déterminez le sens de desserrage prévu. Un mouvement ferme et contrôlé vaut mieux qu’une longue torsion hésitante qui endommage l’empreinte."
+        },
+        {
+          "title": "Serrez une clé Allen dans le mandrin",
+          "text": "Choisissez la plus grosse clé qui puisse être prise profondément par les mors. Serrez le mandrin fermement à la main ; sur un mandrin autoserrant, verrouillez-le selon son mécanisme."
+        },
+        {
+          "title": "Positionnez la clé pour le desserrage",
+          "text": "Orientez le long bras de la clé afin qu’un choc l’entraîne dans le sens qui dévisse le mandrin de l’arbre. Sur un filetage standard, le mandrin se desserre habituellement dans le sens antihoraire vu de face."
+        },
+        {
+          "title": "Donnez un choc bref",
+          "text": "Avec un maillet, frappez l’extrémité de la clé d’un coup net. L’objectif est de rompre l’adhérence du filetage, non de frapper fort à répétition. Une fois débloqué, finissez généralement à la main."
+        },
+        {
+          "title": "Contrôlez l’arbre avant remontage",
+          "text": "Nettoyez les filets, vérifiez l’absence de bavure et repérez toute usure anormale. Ne remontez pas un mandrin neuf sur un arbre sale ou dont le filetage est endommagé."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Démonter un mandrin monté sur cône sans abîmer la broche",
+      "id": "demonter-un-mandrin-monte-sur-cone-sans-abimer-la-broche"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un mandrin conique ne se dévisse pas. Il est maintenu par la friction entre deux surfaces coniques très propres et très ajustées. Le bon outil est une paire de <strong>coins d’extraction</strong>, parfois appelée chasse-cône ou extracteur de mandrin. Ces deux pièces se glissent de part et d’autre de la queue du mandrin, dans l’espace prévu entre le mandrin et l’épaulement de la broche."
+    },
+    {
+      "type": "paragraph",
+      "html": "La poussée doit être répartie et progressive. En avançant les coins de manière symétrique, vous exercez une force axiale qui sépare le cône sans tordre la broche. Prévoyez un chiffon ou une main protégée sous le mandrin : lorsqu’il se libère, il peut tomber brusquement. Sur une perceuse à colonne, abaissez la broche pour travailler avec davantage de contrôle et protégez la table."
+    },
+    {
+      "type": "steps",
+      "title": "Procédure avec des coins d’extraction",
+      "items": [
+        {
+          "title": "Repérez la zone de séparation",
+          "text": "Cherchez le mince intervalle entre le dos du mandrin et l’épaulement de broche. Nettoyez-le soigneusement afin que les coins s’y engagent à plat."
+        },
+        {
+          "title": "Choisissez la bonne taille de coins",
+          "text": "Les deux coins doivent couvrir suffisamment la portée tout en pouvant entrer dans l’ouverture. Un outil trop fin peut se déformer ; trop épais, il ne rentrera pas."
+        },
+        {
+          "title": "Installez-les face à face",
+          "text": "Placez les coins de façon symétrique. Leur surface doit pousser sur les parties métalliques prévues à cet effet, jamais sur une couronne plastique ou une tôle de protection."
+        },
+        {
+          "title": "Serrez progressivement",
+          "text": "Rapprochez les coins avec leur vis ou frappez-les très légèrement et alternativement selon leur conception. Dès que le cône cède, retenez le mandrin."
+        },
+        {
+          "title": "Nettoyez sans graisser les cônes",
+          "text": "Essuyez les deux portées avec un chiffon non pelucheux. Un cône de mandrin doit être propre, sec et exempt de rayures ; la graisse compromet son maintien et son centrage."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui bloquent le démontage ou endommagent la perceuse",
+      "id": "les-erreurs-qui-bloquent-le-demontage-ou-endommagent-la-perc"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le principal ennemi est le <strong>surcroît de force appliqué au mauvais endroit</strong>. Une perceuse peut supporter un usage intensif, mais pas forcément un couple brutal transmis par sa boîte de vitesses, ses pignons ou son carter. Dès qu’un geste demande de bloquer une pièce non prévue pour cela, arrêtez-vous et vérifiez la méthode correspondant au montage."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes à éviter",
+      "items": [
+        "Ne tentez jamais de desserrer le mandrin en actionnant la gâchette : le démarrage brusque peut blesser et endommager la transmission.",
+        "N’utilisez pas les mors comme point d’appui pour un pied-de-biche, une pince multiprise ou un burin.",
+        "Ne frappez pas directement le nez de la perceuse, le carter ou l’axe avec un marteau en acier.",
+        "N’insistez pas avec un tournevis qui flotte dans l’empreinte : changez d’embout avant d’arrondir la vis.",
+        "N’inondez pas le mandrin de dégrippant : un excès peut contaminer les mâchoires, les plastiques et la zone du frein moteur.",
+        "Ne graissez pas un emmanchement conique au remontage ; il doit adhérer par contact propre et sec.",
+        "Ne confondez pas la vis interne de retenue avec le sens de dévissage du mandrin : les deux sens peuvent être opposés."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Si rien ne bouge après deux essais maîtrisés",
+      "html": "Appliquez une petite quantité de dégrippant uniquement sur la zone concernée, laissez-la pénétrer, puis réessayez avec un outil mieux ajusté. Si la vis commence à se déformer, si la broche semble forcer ou si le carter se tord, <strong>n’augmentez pas la violence</strong> : un atelier de réparation dispose d’extracteurs, d’étaux adaptés et de pièces de rechange."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour s’équiper intelligemment ?",
+      "id": "quel-budget-prevoir-pour-s-equiper-intelligemment"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous bricolez déjà, vous possédez probablement l’essentiel : tournevis, clés Allen et maillet. Pour un usage occasionnel, un complément d’outillage représente généralement <strong>une petite à quelques dizaines d’euros</strong>, selon la qualité des outils et le besoin d’un extracteur. Les coins d’extraction constituent l’achat spécifique le plus pertinent si vous avez une perceuse à colonne ou plusieurs mandrins coniques à entretenir."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3",
+          "label": "mors sur le mandrin standard à identifier et à ouvrir complètement"
+        },
+        {
+          "value": "2",
+          "label": "grandes familles de fixation : filetage ou cône emmanché"
+        },
+        {
+          "value": "1",
+          "label": "choc bref et orienté est préférable à une série de coups violents"
+        },
+        {
+          "value": "Quelques dizaines d’euros",
+          "label": "ordre de grandeur d’un équipement d’appoint durable pour un bricoleur"
+        }
+      ]
+    },
+    {
+      "type": "table",
+      "caption": "Composer votre équipement selon votre besoin",
+      "headers": [
+        "Profil d’utilisation",
+        "Équipement à prévoir",
+        "Niveau de budget",
+        "Choix le plus rentable"
+      ],
+      "rows": [
+        [
+          "Dépannage ponctuel sur perceuse-visseuse",
+          "Clés Allen, tournevis adaptés, maillet, chiffon",
+          "Très accessible si vous avez déjà une caisse à outils",
+          "Compléter avec une clé Allen longue de bonne qualité"
+        ],
+        [
+          "Entretien régulier de plusieurs perceuses",
+          "Jeux complets de clés et embouts, maillet, mordaches, dégrippant",
+          "Accessible à intermédiaire",
+          "Privilégier la qualité des embouts et des clés plutôt que les coffrets surchargés"
+        ],
+        [
+          "Perceuse à colonne ou mandrins coniques",
+          "Outillage de base plus coins d’extraction appropriés",
+          "Intermédiaire",
+          "Acheter les coins correspondant au dégagement et au type de cône de la machine"
+        ],
+        [
+          "Mandrin bloqué, machine de valeur ou usage professionnel",
+          "Outillage spécifique ou intervention spécialisée",
+          "Variable",
+          "Ne pas acheter un extracteur générique sans vérifier sa compatibilité"
+        ]
+      ],
+      "note": "Les outils de serrage et de frappe doivent être choisis pour leur précision et leur robustesse, pas seulement pour leur prix d’achat : une empreinte de vis détruite coûte souvent plus cher à résoudre qu’un bon embout."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Remonter un mandrin et prolonger sa durée de vie",
+      "id": "remonter-un-mandrin-et-prolonger-sa-duree-de-vie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le démontage est aussi l’occasion de remettre l’ensemble en état. Sur un montage fileté, retirez les poussières métalliques avec une brosse douce, inspectez les filets et revissez le mandrin droit, sans le croiser. Réinstallez ensuite la vis interne si votre modèle en possède une, dans le sens correspondant à son filetage. Sur un montage conique, nettoyez les deux surfaces avec soin et emmanchez le mandrin bien dans l’axe, par une pression ferme et contrôlée sur une pièce de bois interposée si la procédure du fabricant le permet."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Contrôles utiles après remontage",
+      "items": [
+        "Faites tourner le mandrin à la main et vérifiez qu’il ne frotte pas contre le carter.",
+        "Serrez un foret droit en le centrant entre les trois mors, puis observez sa rotation à faible vitesse.",
+        "Testez le serrage avec un foret de diamètre courant : les mors doivent avancer simultanément et sans point dur.",
+        "Essuyez régulièrement les copeaux et poussières accumulés dans les mors.",
+        "Évitez de laisser un foret serré pendant un stockage prolongé : relâcher légèrement les mors limite l’encrassement et les contraintes inutiles.",
+        "Utilisez une goutte de lubrifiant léger sur les éléments externes mobiles seulement si le fabricant l’autorise ; n’aspergez pas l’intérieur du mandrin."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand remplacer le mandrin plutôt que le réparer ?",
+      "id": "quand-remplacer-le-mandrin-plutot-que-le-reparer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Démonter le mandrin ne signifie pas nécessairement le conserver. Le remplacement devient pertinent si les mors ne serrent plus régulièrement, si une bague est fendue, si le mandrin se desserre sans cesse ou si le foret présente un faux-rond manifeste alors que l’arbre de la perceuse est sain. Avant commande, relevez le type de fixation, le diamètre d’ouverture utile, le sens et la taille du filetage s’ils sont indiqués, ainsi que la capacité de serrage souhaitée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un mandrin à clé offre en général un serrage très énergique pour les travaux exigeants, tandis qu’un modèle autoserrant apporte de la rapidité et du confort. Le meilleur choix dépend surtout de votre usage : perçage courant et vissage fréquent d’un côté, gros forets ou efforts élevés de l’autre. Vérifiez toujours la compatibilité mécanique avec votre machine plutôt que de choisir uniquement selon l’apparence du mandrin."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le démontage d’un mandrin de perceuse",
+      "items": [
+        {
+          "q": "Quelle clé Allen faut-il utiliser pour démonter un mandrin ?",
+          "a": "Choisissez la <strong>plus grosse clé Allen</strong> qui peut être serrée profondément et solidement par les mors. Une clé longue donne davantage de levier. Évitez une clé trop petite : elle peut glisser, marquer les mors et ne transmettra pas correctement le choc de desserrage."
+        },
+        {
+          "q": "Dans quel sens faut-il dévisser la vis au fond du mandrin ?",
+          "a": "Sur beaucoup de perceuses, cette vis de sécurité est à <strong>pas à gauche</strong> et se desserre donc dans le sens horaire. Mais il existe des exceptions. Consultez la documentation, recherchez un marquage ou procédez avec prudence : une résistance inhabituelle ne doit pas être vaincue par la force."
+        },
+        {
+          "q": "Puis-je bloquer la perceuse dans un étau pour retirer le mandrin ?",
+          "a": "Oui, mais seulement avec de larges <strong>mordaches tendres</strong>, un serrage modéré et un appui sur une zone suffisamment robuste. Ne comprimez pas fortement une coque plastique, le sélecteur de vitesse ou les batteries. Si la machine possède des méplats sur la broche, il est préférable de les utiliser avec la clé adaptée."
+        },
+        {
+          "q": "Pourquoi mon mandrin ne se dévisse-t-il pas malgré la clé Allen ?",
+          "a": "Vous avez peut-être oublié la vis interne, choisi le mauvais sens de rotation ou affaire à un mandrin <strong>monté sur cône</strong> et non vissé. L’oxydation, un frein-filet ou un blocage ancien peuvent aussi expliquer la résistance. Identifiez le système de fixation avant de forcer davantage."
+        },
+        {
+          "q": "Faut-il mettre de la graisse sur le filetage ou sur le cône au remontage ?",
+          "a": "Un filetage peut être nettoyé et recevoir, selon la machine, un film extrêmement léger de produit compatible si cela est préconisé. En revanche, un <strong>montage conique doit rester propre et sec</strong> : la graisse nuit à l’adhérence, au centrage et peut provoquer le décrochage du mandrin."
+        },
+        {
+          "q": "Quand faut-il confier le démontage à un professionnel ?",
+          "a": "Faites appel à un réparateur si la vis est arrondie, si l’arbre est voilé, si le mandrin est soudé par la corrosion, si le carter commence à se déformer ou si la perceuse est encore couverte par une garantie. C’est également recommandé pour les machines professionnelles ou anciennes dont les pièces sont difficiles à remplacer."
+        }
+      ]
+    }
+  ]
+}

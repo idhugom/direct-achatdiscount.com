@@ -1,0 +1,450 @@
+{
+  "title": "Où se trouve la sonde lambda sur une voiture selon les modèles",
+  "slug": "sonde-lambda-voiture-modeles",
+  "path": "/divers/sonde-lambda-voiture-modeles.html",
+  "category": "auto-moto",
+  "tags": [
+    "sonde lambda",
+    "capteur oxygène",
+    "échappement",
+    "catalyseur",
+    "diagnostic auto",
+    "entretien voiture"
+  ],
+  "excerpt": "Avant ou après le catalyseur ? Repérez facilement les sondes lambda selon l’architecture de votre moteur, sans confondre les capteurs d’échappement.",
+  "metaDescription": "Localisez la sonde lambda selon votre moteur : avant ou après catalyseur, essence, diesel, turbo ou V6. Méthode, pièges et budget.",
+  "seoTitle": "Où trouver la sonde lambda sur votre voiture",
+  "heroKicker": "Repérer sans erreur",
+  "readingTime": 11,
+  "date": "2025-06-30T10:24:53",
+  "image": {
+    "id": "3228",
+    "alt": "Où se trouve la sonde lambda sur une voiture selon les modèles",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "La sonde lambda se trouve toujours sur la ligne d’échappement, mais son emplacement exact varie fortement selon le moteur, la présence d’un turbo, le nombre de cylindres et le système de dépollution. Avant de chercher une pièce ou de lancer une réparation, il faut surtout savoir distinguer la sonde <strong>amont</strong>, placée avant le catalyseur, de la sonde <strong>aval</strong>, située après lui."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La sonde lambda est vissée dans un tube ou un collecteur d’échappement et possède un faisceau électrique : elle ne se trouve pas dans l’admission d’air.",
+        "La sonde amont est en général entre le moteur et le catalyseur ; elle sert au calcul du mélange air-carburant.",
+        "La sonde aval est après le catalyseur ; elle surveille principalement l’efficacité de ce dernier.",
+        "Sur un moteur en V ou doté de deux lignes d’échappement, il peut y avoir plusieurs sondes : une paire par rangée de cylindres ou par ligne.",
+        "Le code défaut de diagnostic indique souvent une position de type « banc 1 capteur 1 » ou « banc 2 capteur 2 » : c’est plus fiable qu’une recherche visuelle au hasard."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 à 4",
+          "label": "sondes lambda sur la plupart des voitures particulières"
+        },
+        {
+          "value": "2 positions",
+          "label": "classiques : avant et après catalyseur"
+        },
+        {
+          "value": "4 à 5 fils",
+          "label": "sur de nombreuses sondes chauffées modernes"
+        },
+        {
+          "value": "Plusieurs centaines de °C",
+          "label": "température possible de la ligne d’échappement en fonctionnement"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sonde lambda : rôle et emplacement de principe",
+      "id": "sonde-lambda-role-et-emplacement-de-principe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Également appelée <strong>capteur d’oxygène</strong> ou sonde O2, la sonde lambda mesure la quantité d’oxygène résiduel dans les gaz d’échappement. Le calculateur moteur exploite cette information pour ajuster l’injection, et donc viser un mélange air-carburant adapté au fonctionnement du moteur et au traitement des polluants."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sa position n’est pas choisie au hasard : elle doit être traversée par les gaz d’échappement. Vous la reconnaîtrez généralement à son corps métallique hexagonal, vissé dans un bossage fileté de la ligne, et à son câble relié à une prise électrique. La sonde elle-même peut être peu visible, mais son faisceau est souvent plus facile à repérer depuis le compartiment moteur ou sous la voiture."
+    },
+    {
+      "type": "paragraph",
+      "html": "La configuration la plus courante comporte une <strong>sonde amont</strong>, avant le catalyseur, puis une <strong>sonde aval</strong>, après le catalyseur. Sur un véhicule plus ancien, on peut ne trouver qu’une seule sonde. Sur un moteur à deux bancs de cylindres ou un échappement dédoublé, leur nombre augmente logiquement."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon repère visuel",
+      "html": "Ne cherchez pas la sonde lambda au niveau du silencieux arrière. Elle se situe dans la partie <strong>chaude et avant</strong> de l’échappement : collecteur, descente d’échappement, tube avant ou zone proche du catalyseur. Une pièce placée beaucoup plus loin sous le plancher est plus souvent un autre capteur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Avant ou après le catalyseur : comprendre les deux positions",
+      "id": "avant-ou-apres-le-catalyseur-comprendre-les-deux-positions"
+    },
+    {
+      "type": "paragraph",
+      "html": "La distinction entre l’amont et l’aval est capitale pour localiser la bonne pièce et interpréter un défaut. Dans le sens de circulation des gaz, partez du moteur, puis suivez le collecteur et le tube d’échappement vers l’arrière du véhicule. Tout capteur situé <strong>avant l’entrée du catalyseur</strong> est une sonde amont ; tout capteur monté <strong>à la sortie du catalyseur</strong> est une sonde aval."
+    },
+    {
+      "type": "comparison",
+      "title": "Sonde lambda amont ou aval : laquelle cherchez-vous ?",
+      "left": {
+        "title": "Sonde amont — capteur 1",
+        "points": [
+          "Placée entre le moteur et le catalyseur, parfois directement sur le collecteur.",
+          "Informe le calculateur sur la richesse du mélange en temps réel.",
+          "Souvent accessible par le haut sur un moteur transversal, ou par le dessous selon les véhicules.",
+          "Une défaillance peut favoriser surconsommation, ralenti irrégulier, pollution et perte d’agrément."
+        ]
+      },
+      "right": {
+        "title": "Sonde aval — capteur 2",
+        "points": [
+          "Montée juste après le catalyseur, généralement sous le véhicule ou derrière le moteur.",
+          "Compare les gaz traités afin de contrôler l’efficacité du catalyseur.",
+          "Souvent associée à un voyant moteur et à un défaut de rendement catalytique.",
+          "Son remplacement ne règle pas forcément un problème de catalyseur, de fuite ou de combustion."
+        ]
+      }
+    },
+    {
+      "type": "table",
+      "caption": "Emplacement habituel des sondes lambda selon l’architecture du véhicule",
+      "headers": [
+        "Type de véhicule ou moteur",
+        "Sonde amont",
+        "Sonde aval",
+        "Particularité à vérifier"
+      ],
+      "rows": [
+        [
+          "Essence atmosphérique, 4 cylindres",
+          "Sur le collecteur ou juste dans la descente, avant le catalyseur",
+          "Immédiatement après le catalyseur, souvent sous le plancher avant",
+          "Catalyseur parfois intégré très près du moteur"
+        ],
+        [
+          "Essence turbo",
+          "Avant le catalyseur, après le turbo sur la ligne de gaz",
+          "Après le catalyseur",
+          "Ne pas confondre avec une sonde de température d’échappement"
+        ],
+        [
+          "Diesel moderne",
+          "Sur le tube avant ou près du catalyseur d’oxydation selon montage",
+          "Après un élément de dépollution selon le système",
+          "Présence possible de capteurs de température, pression différentielle ou NOx"
+        ],
+        [
+          "Moteur V6, V8 ou deux rangées de cylindres",
+          "Une sonde par banc, avant chaque catalyseur ou pré-catalyseur",
+          "Une sonde par banc après catalyseur, selon équipement",
+          "Identifier le bon banc avec l’outil de diagnostic"
+        ],
+        [
+          "Double échappement réel",
+          "Une ou plusieurs sondes sur chaque ligne traitée séparément",
+          "Après chaque catalyseur concerné",
+          "Deux sorties esthétiques ne signifient pas toujours deux lignes indépendantes"
+        ],
+        [
+          "Véhicule ancien",
+          "Souvent une sonde avant le seul catalyseur",
+          "Pas toujours présente",
+          "Le nombre de fils et l’accès peuvent différer nettement"
+        ]
+      ],
+      "note": "L’implantation exacte dépend du code moteur et de la norme de dépollution. La documentation technique correspondant au véhicule reste la référence avant toute commande."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Où chercher selon le type de moteur et de carrosserie",
+      "id": "ou-chercher-selon-le-type-de-moteur-et-de-carrosserie"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Moteur transversal : citadine, compacte, SUV compact",
+      "id": "moteur-transversal-citadine-compacte-suv-compact"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est le cas le plus fréquent. Le moteur est installé de gauche à droite sous le capot, et le collecteur d’échappement peut être placé côté radiateur ou côté pare-brise. Si le collecteur est côté pare-brise, la sonde amont est parfois masquée derrière le bloc moteur : elle se voit davantage en retirant le cache moteur ou depuis le dessous. La sonde aval se trouve souvent quelques dizaines de centimètres plus loin, au niveau du catalyseur ou de sa sortie, dans le tunnel avant."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Moteur longitudinal : propulsion, grand SUV, utilitaire",
+      "id": "moteur-longitudinal-propulsion-grand-suv-utilitaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un moteur monté dans le sens de la longueur, les collecteurs descendent généralement de chaque côté du bloc. L’accès par le haut peut être restreint par les écrans thermiques, les passages de roue ou les éléments de direction. La sonde amont est fréquemment placée dans la descente proche du collecteur ; la sonde aval est sous le véhicule, juste après le catalyseur. Le recours à un pont ou à des rampes homologuées est souvent nécessaire pour une inspection correcte."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Moteur turbo : la position du turbo change le parcours",
+      "id": "moteur-turbo-la-position-du-turbo-change-le-parcours"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un moteur suralimenté, la sonde n’est pas forcément visible sur le collecteur. Les gaz passent d’abord dans la turbine, puis dans la descente d’échappement. La sonde amont est donc souvent installée <strong>après le turbo mais avant le catalyseur</strong>. Selon la conception, elle peut rester très proche du moteur et du tablier, dans une zone particulièrement chaude et difficile d’accès."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Moteur diesel : davantage de capteurs sur la ligne",
+      "id": "moteur-diesel-davantage-de-capteurs-sur-la-ligne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le diesel moderne peut recevoir une sonde lambda, mais la ligne d’échappement accueille aussi de nombreux autres organes : sondes de température des gaz, capteurs de pression avant et après filtre à particules, injecteur d’additif selon système, et capteur NOx sur certains montages. Ils ont tous un câble et peuvent se ressembler. Ne commandez jamais une sonde uniquement d’après une photo ou la forme de sa prise : le numéro de pièce et le code défaut sont déterminants."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux confusions sur diesel",
+      "html": "Un capteur placé autour du filtre à particules ou du système de réduction des oxydes d’azote n’est pas automatiquement une sonde lambda. Débrancher le mauvais capteur peut créer plusieurs défauts et rendre le diagnostic plus confus. Relevez la référence gravée sur la pièce et comparez-la au catalogue prévu pour votre motorisation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifier le bon capteur avec les termes de diagnostic",
+      "id": "identifier-le-bon-capteur-avec-les-termes-de-diagnostic"
+    },
+    {
+      "type": "paragraph",
+      "html": "Quand le voyant moteur s’allume, une lecture à la valise ou avec un lecteur OBD peut désigner le capteur concerné. Les appellations les plus utiles sont <strong>banc</strong> et <strong>capteur</strong>. Le « capteur 1 » est en principe celui qui se trouve avant le catalyseur, donc la sonde amont. Le « capteur 2 » est celui situé après le catalyseur, donc la sonde aval."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le « banc 1 » correspond au côté du moteur qui comporte le cylindre n° 1. Sur un moteur en ligne, cette notion n’est pas problématique : il n’y a qu’un banc. Sur un V6, V8 ou un moteur à plat, en revanche, le banc 1 n’est pas forcément le côté qui vous paraît le plus accessible. Consultez la documentation d’atelier de votre code moteur ou un schéma fiable : se fier à la droite et à la gauche de la voiture est une source classique d’erreur."
+    },
+    {
+      "type": "proscons",
+      "title": "Inspection visuelle ou lecture OBD : deux approches complémentaires",
+      "pros": [
+        "L’inspection visuelle permet de vérifier la présence d’un câble coupé, d’une prise débranchée, d’un faisceau fondu ou d’une fuite d’échappement proche.",
+        "La lecture OBD précise le banc et la position du capteur signalés par le calculateur.",
+        "Les données en direct peuvent aider à repérer un signal incohérent plutôt qu’un simple défaut mémorisé.",
+        "Croiser les deux méthodes limite le risque de remplacer une pièce saine."
+      ],
+      "cons": [
+        "La visibilité est parfois très mauvaise sans lever le véhicule ni déposer un cache ou un écran thermique.",
+        "Un code évoquant une sonde lambda ne prouve pas toujours que la sonde est en panne.",
+        "Les termes banc 1 et banc 2 demandent une vérification sur les moteurs à plusieurs rangées de cylindres.",
+        "Un lecteur OBD basique lit les défauts, mais n’affiche pas toujours des données suffisamment détaillées pour conclure."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Méthode sûre pour localiser votre sonde lambda",
+      "id": "methode-sure-pour-localiser-votre-sonde-lambda"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’inspection doit impérativement se faire sur un échappement froid. Après un trajet, les collecteurs, le catalyseur et les sondes peuvent provoquer de graves brûlures. Stationnez la voiture à plat, serrez le frein de stationnement et laissez l’ensemble refroidir complètement. Si vous devez passer sous le véhicule, n’utilisez jamais un cric seul : employez des chandelles adaptées ou confiez l’opération à un professionnel."
+    },
+    {
+      "type": "steps",
+      "title": "Repérage en cinq étapes",
+      "items": [
+        {
+          "title": "Relevez précisément le véhicule",
+          "text": "Notez la motorisation, l’année de mise en circulation, le carburant et idéalement le code moteur. Deux versions proches d’un même modèle peuvent avoir une ligne d’échappement différente."
+        },
+        {
+          "title": "Lisez le défaut, s’il existe",
+          "text": "Repérez les mentions de banc et de capteur. « Capteur 1 » oriente vers l’amont ; « capteur 2 » vers l’aval."
+        },
+        {
+          "title": "Suivez le sens des gaz",
+          "text": "Partez de la culasse, repérez le collecteur, puis le turbo s’il y en a un, le catalyseur et le tube qui part vers l’arrière."
+        },
+        {
+          "title": "Cherchez le corps vissé et sa prise",
+          "text": "Une sonde lambda est vissée dans la ligne et reliée à un faisceau. Suivez le câble jusqu’au connecteur, sans tirer dessus."
+        },
+        {
+          "title": "Validez la référence",
+          "text": "Avant tout achat, comparez la référence de l’ancienne sonde, le nombre de fils, la forme du connecteur et la compatibilité annoncée pour votre code moteur."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant de déposer une sonde, vérifiez ces points",
+      "items": [
+        "Le moteur et l’échappement sont entièrement froids.",
+        "Le véhicule est stabilisé sur un équipement de levage sécurisé si vous intervenez dessous.",
+        "Vous avez identifié la prise électrique de la sonde, et non seulement le capteur sur le tube.",
+        "Le connecteur pourra être débranché sans torsion excessive du faisceau.",
+        "Vous disposez d’une douille fendue spéciale sonde lambda ou d’un outil permettant le passage du câble.",
+        "Vous avez exclu une fuite d’échappement, un problème d’allumage ou une admission d’air parasite qui pourrait imiter une panne de sonde."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Une sonde mal signalée n’est pas toujours une sonde à remplacer",
+      "id": "une-sonde-mal-signalee-n-est-pas-toujours-une-sonde-a-rempla"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un défaut lié à l’oxygène dans les gaz, à la richesse ou au rendement catalytique peut avoir plusieurs origines. Une prise oxydée, un câble cuit par la chaleur, une fuite avant la sonde, une prise d’air à l’admission, un injecteur défaillant ou un raté d’allumage peuvent fausser les mesures. Dans ce cas, remplacer la sonde sans corriger la cause première peut conduire au retour rapide du voyant moteur."
+    },
+    {
+      "type": "paragraph",
+      "html": "La sonde aval mérite une prudence particulière. Si elle indique un rendement insuffisant du catalyseur, elle fait peut-être correctement son travail. Le véritable problème peut être le catalyseur, mais aussi une fuite sur la ligne ou un moteur qui a longtemps tourné trop riche et a endommagé l’élément catalytique. Une analyse des défauts associés et des valeurs en direct évite de changer des pièces coûteuses au hasard."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Fuite avant sonde = mesure faussée",
+      "html": "Une petite fuite sur le collecteur, un joint de bride ou une soudure située avant une sonde peut aspirer de l’air extérieur dans l’échappement. La sonde peut alors interpréter les gaz comme trop pauvres. Cherchez des traces noires de suie, un souffle à froid ou un bruit métallique avant d’accuser le capteur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget, remplacement et choix de la pièce",
+      "id": "budget-remplacement-et-choix-de-la-piece"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le budget dépend surtout du nombre de capteurs, de leur technologie et de l’accessibilité. Une sonde lambda adaptable de qualité courante se situe généralement dans un ordre de grandeur de <strong>quelques dizaines d’euros à un peu plus d’une centaine d’euros</strong>. Certaines références spécifiques, notamment sur des systèmes récents ou des véhicules complexes, peuvent coûter davantage. À cela s’ajoute la main-d’œuvre : elle reste limitée sur une sonde accessible par le dessus, mais peut grimper lorsqu’il faut déposer des protections, intervenir dans une zone confinée ou traiter un filetage grippé."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget et d’intervention",
+      "headers": [
+        "Situation",
+        "Niveau de budget habituel",
+        "Ce qui fait varier la facture",
+        "Arbitrage conseillé"
+      ],
+      "rows": [
+        [
+          "Sonde amont accessible",
+          "Modéré : pièce et main-d’œuvre souvent contenues",
+          "Technologie de la sonde, accès depuis le haut, état du filetage",
+          "Choisir une référence avec connecteur conforme, sans couper le faisceau inutilement"
+        ],
+        [
+          "Sonde aval sous caisse",
+          "Modéré à intermédiaire",
+          "Levage du véhicule, corrosion, protections thermiques",
+          "Faire contrôler l’état du catalyseur et des fuites si un défaut revient"
+        ],
+        [
+          "Moteur turbo ou en V",
+          "Intermédiaire à élevé",
+          "Accès restreint, température, nombre de capteurs, démontages annexes",
+          "Faire confirmer le banc et le capteur avant commande"
+        ],
+        [
+          "Diagnostic sans remplacement",
+          "Faible à modéré selon l’atelier ou l’équipement",
+          "Lecture des données, recherche de fuite, tests électriques",
+          "Souvent rentable avant de changer une sonde sur simple code défaut"
+        ],
+        [
+          "Catalyseur également suspect",
+          "Élevé",
+          "Type de catalyseur, homologation, cause initiale de la panne",
+          "Ne remplacez pas le catalyseur avant d’avoir résolu ratés, consommation d’huile ou mélange incorrect"
+        ]
+      ],
+      "note": "Ces indications sont des ordres de grandeur : comparez un devis portant sur la référence exacte et le temps d’accès de votre véhicule."
+    },
+    {
+      "type": "paragraph",
+      "html": "Préférez une sonde livrée avec son connecteur spécifique lorsque c’est possible. Les modèles universels à raccorder peuvent dépanner dans certains cas, mais ils exigent une connexion irréprochable, résistante à la chaleur et à l’humidité. Une erreur de câblage, une mauvaise sertissure ou une rallonge inadaptée peut perturber le chauffage de la sonde et créer des défauts intermittents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Remplacement et entretien : les erreurs qui coûtent cher",
+      "id": "remplacement-et-entretien-les-erreurs-qui-coutent-cher"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le remplacement d’une sonde lambda est mécaniquement simple en apparence : débrancher le connecteur, desserrer la sonde avec l’outil adapté, puis remonter la nouvelle pièce. En pratique, la chaleur et la corrosion peuvent souder le filetage à la ligne. Forcer avec une clé inadaptée risque d’arrondir l’hexagone, de vriller le câble, voire d’endommager le bossage de la ligne d’échappement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Utilisez une douille pour sonde lambda, qui laisse passer le faisceau, et respectez le couple de serrage prévu par le constructeur. Ne graissez pas l’extrémité de mesure et ne pulvérisez pas de nettoyant sur l’élément sensible. Certaines sondes neuves ont déjà un traitement anti-grippage sur leur filetage ; ajouter un produit non compatible peut contaminer le capteur ou altérer le serrage."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les erreurs les plus fréquentes à éviter",
+      "items": [
+        "Commander une sonde « pour le modèle » sans tenir compte de la motorisation, du code moteur et de la position amont/aval.",
+        "Remplacer la sonde aval alors qu’elle révèle simplement un catalyseur inefficace ou une fuite d’échappement.",
+        "Débrancher la prise en tirant sur les fils plutôt que sur le connecteur.",
+        "Travailler sur une ligne encore chaude ou sous une voiture soutenue uniquement par un cric.",
+        "Intervertir les connecteurs de deux sondes proches après une intervention sur un moteur à plusieurs bancs.",
+        "Effacer le défaut sans faire un essai routier ni contrôler si la cause initiale a disparu."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand confier la recherche à un professionnel ?",
+      "id": "quand-confier-la-recherche-a-un-professionnel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une vérification visuelle est à la portée d’un automobiliste soigneux, mais certaines situations justifient un diagnostic d’atelier : défauts multiples, moteur qui broute, consommation nettement en hausse, odeur d’essence, fuite audible, catalyseur suspect ou accès exigeant une dépose importante. Un professionnel peut confronter les valeurs des sondes, l’état du mélange, les corrections de carburant et l’étanchéité de la ligne au lieu de se contenter d’un code défaut."
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est aussi la solution la plus raisonnable si la sonde est grippée. Une économie sur la main-d’œuvre peut disparaître si le filetage du tube est arraché ou si une section de la ligne doit ensuite être réparée. Demandez un devis distinguant clairement le diagnostic, la sonde éventuellement remplacée et les réparations connexes : vous saurez si le capteur est bien la cause et non la conséquence du problème."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’emplacement de la sonde lambda",
+      "items": [
+        {
+          "q": "Comment savoir si ma voiture possède une ou deux sondes lambda ?",
+          "a": "Suivez la ligne d’échappement autour du catalyseur : une sonde est généralement avant, l’autre après. Toutefois, le moyen le plus fiable consiste à consulter le catalogue de pièces correspondant à votre code moteur ou à lire les données de diagnostic. Un véhicule ancien peut n’avoir qu’une sonde, tandis qu’un moteur en V peut en avoir plusieurs."
+        },
+        {
+          "q": "La sonde lambda est-elle toujours avant le catalyseur ?",
+          "a": "Non. La <strong>sonde amont</strong> est avant le catalyseur et mesure le mélange. La <strong>sonde aval</strong> est après le catalyseur et contrôle principalement son efficacité. Quand on parle de « la » sonde lambda, il faut donc identifier précisément la position concernée."
+        },
+        {
+          "q": "Où se trouve la sonde lambda sur un diesel avec filtre à particules ?",
+          "a": "Elle se trouve sur la partie avant de l’échappement lorsque le moteur en est équipé, mais elle peut être entourée d’autres capteurs. Près du filtre à particules, vous pouvez aussi voir des sondes de température, un capteur de pression différentielle ou un capteur NOx. La référence de pièce et le schéma du moteur sont indispensables pour ne pas les confondre."
+        },
+        {
+          "q": "Peut-on rouler avec une sonde lambda défectueuse ?",
+          "a": "La voiture peut parfois rouler, mais ce n’est pas conseillé au-delà du strict nécessaire. Une sonde amont défaillante peut augmenter la consommation, dégrader le fonctionnement et, à terme, fatiguer le catalyseur. Un voyant moteur peut aussi empêcher de détecter rapidement une autre anomalie. Faites établir le diagnostic sans tarder."
+        },
+        {
+          "q": "Un code défaut de sonde lambda signifie-t-il qu’il faut la changer ?",
+          "a": "Pas systématiquement. Le code désigne une mesure ou un circuit anormal, mais la cause peut être une fuite d’échappement, un faisceau endommagé, une prise d’air, un défaut d’allumage, un injecteur ou un catalyseur. Contrôler le câblage, l’étanchéité et les valeurs en direct évite un remplacement inutile."
+        },
+        {
+          "q": "Peut-on nettoyer une sonde lambda au lieu de la remplacer ?",
+          "a": "Ce n’est généralement pas une réparation durable. Les dépôts, le vieillissement de l’élément et les défauts internes ne se corrigent pas de façon fiable avec un produit nettoyant. Si le diagnostic confirme la panne, remplacez-la par une référence compatible et recherchez la cause de son encrassement éventuel."
+        }
+      ]
+    }
+  ]
+}

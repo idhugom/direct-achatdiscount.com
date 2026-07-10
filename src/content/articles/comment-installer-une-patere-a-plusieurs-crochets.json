@@ -1,0 +1,406 @@
+{
+  "title": "Comment installer une patère à plusieurs crochets?",
+  "slug": "comment-installer-une-patere-a-plusieurs-crochets",
+  "path": "/divers/comment-installer-une-patere-a-plusieurs-crochets.html",
+  "category": "maison",
+  "tags": [
+    "patère murale",
+    "fixation murale",
+    "chevilles",
+    "rangement entrée",
+    "bricolage maison"
+  ],
+  "excerpt": "Choix des chevilles, repérage des fixations, hauteur idéale et méthode pas à pas : posez une patère murale solide, droite et adaptée à votre usage.",
+  "metaDescription": "Découvrez comment installer une patère à plusieurs crochets : emplacement, type de mur, chevilles, outils et méthode pour une fixation droite et durable.",
+  "seoTitle": "Installer une patère à plusieurs crochets : guide",
+  "heroKicker": "Fixation sans erreur",
+  "readingTime": 10,
+  "date": "2025-02-12T21:32:19",
+  "image": {
+    "id": null,
+    "alt": "Comment installer une patère à plusieurs crochets?",
+    "width": null,
+    "height": null
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une patère à plusieurs crochets semble simple à poser, mais elle concentre souvent beaucoup de poids sur une petite longueur de mur. Manteaux humides, sacs, cartables ou serviettes créent un effet de levier important : le choix de la fixation et le repérage précis comptent davantage que le perçage lui-même."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel avant de percer",
+      "items": [
+        "Identifiez d’abord <strong>la nature du mur</strong> : une cheville adaptée au placo ne convient pas à une cloison creuse, au béton ou à la brique.",
+        "Utilisez tous les <strong>points de fixation prévus</strong> par la patère et privilégiez des vis dont la tête et le diamètre correspondent aux trous du support.",
+        "Tracez une ligne de pose au niveau, puis reportez les trous en présentant réellement la patère contre le mur : ne mesurez pas les entraxes au hasard.",
+        "Pour les charges lourdes ou un usage familial intensif, visez un support porteur, un renfort derrière la cloison ou une fixation traversant un rail/montant adapté.",
+        "Ne serrez jamais excessivement : une vis trop serrée peut déformer la patère, arracher une cheville ou fissurer un matériau fragile."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre les contraintes d’une patère à plusieurs crochets",
+      "id": "comprendre-les-contraintes-d-une-patere-a-plusieurs-crochets"
+    },
+    {
+      "type": "paragraph",
+      "html": "Contrairement à un crochet isolé, une patère multiplie les usages sur une même barre ou une même plaque. Elle peut donc recevoir plusieurs manteaux simultanément, mais aussi des objets tirés vers l’avant : un sac à dos lourd ou un cintre exerce une traction qui tend à faire basculer le support. Plus les crochets sont avancés et plus la patère est longue, plus les fixations doivent résister à cet <strong>effet de levier</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "La qualité de la patère ne dispense pas d’une fixation adaptée. Une barre en bois ou en métal rigide peut rester intacte alors que les chevilles cèdent dans un mur creux. À l’inverse, un support léger vissé dans un matériau porteur peut tenir correctement s’il est utilisé pour des vêtements courants. Avant l’achat comme avant la pose, regardez le nombre de trous de fixation, leur position, la présence éventuelle de caches-vis et la charge indicative donnée par le fabricant lorsqu’elle existe."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne vous fiez pas au poids d’un seul manteau",
+      "html": "Une patère d’entrée peut recevoir plusieurs vêtements humides, des sacs et des objets que l’on retire d’un geste brusque. Dimensionnez la fixation pour <strong>l’usage cumulé et répété</strong>, pas pour un seul objet suspendu ponctuellement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir l’emplacement et la bonne hauteur",
+      "id": "choisir-l-emplacement-et-la-bonne-hauteur"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’emplacement doit être pratique sans gêner les circulations. Dans une entrée étroite, vérifiez qu’un manteau suspendu ne frottera pas contre une porte, un placard ou le passage. Ouvrez les portes proches avant de tracer vos repères. Dans une salle de bains, éloignez autant que possible la patère des projections directes d’eau et choisissez un matériau qui supporte l’humidité."
+    },
+    {
+      "type": "paragraph",
+      "html": "La bonne hauteur dépend des utilisateurs et de ce qui sera accroché. Pour des manteaux d’adultes, une pose autour de la hauteur des épaules ou légèrement au-dessus est généralement confortable, à ajuster selon la longueur des vêtements et la présence d’un banc ou d’un meuble sous la patère. Dans une chambre d’enfant, abaissez la patère pour encourager l’autonomie, mais évitez une position où les crochets deviennent dangereux à hauteur du visage. Si plusieurs publics utilisent la pièce, deux rangées à des hauteurs différentes constituent souvent une meilleure solution qu’une patère posée trop haut."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 à 4",
+          "label": "points de fixation sont courants sur une patère murale longue"
+        },
+        {
+          "value": "10 à 20 cm",
+          "label": "d’espace latéral à prévoir près d’une porte ou d’un angle selon l’encombrement des vêtements"
+        },
+        {
+          "value": "2 niveaux",
+          "label": "peuvent être plus pratiques qu’une seule rangée dans un foyer avec enfants"
+        },
+        {
+          "value": "1 marge de sécurité",
+          "label": "à conserver sous une étagère ou un meuble afin de manipuler facilement les crochets"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Vérifications d’emplacement avant la pose",
+      "items": [
+        "Ouvrez toutes les portes, tiroirs et façades de placard situés à proximité.",
+        "Présentez un cintre ou un manteau contre le mur pour visualiser le débattement réel.",
+        "Repérez les prises, interrupteurs et, si possible, le passage probable des gaines ou canalisations.",
+        "Contrôlez qu’aucun meuble bas ne rendra les crochets difficiles à atteindre.",
+        "Prévoyez une zone libre au-dessus de la patère si vous devez plus tard la démonter ou retirer ses caches-vis."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifier votre mur avant de choisir vis et chevilles",
+      "id": "identifier-votre-mur-avant-de-choisir-vis-et-chevilles"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est l’étape déterminante. Tapez légèrement le mur à différents endroits : un son creux peut signaler une cloison sur ossature, tandis qu’un son plein évoque un support massif. Ce test reste indicatif. Observez aussi l’épaisseur au niveau d’une prise, les plans du logement ou les résidus de perçages antérieurs si vous en avez. En cas de doute, réalisez un petit perçage exploratoire dans une zone qui sera masquée par la patère, avec prudence et après avoir vérifié l’absence de réseaux."
+    },
+    {
+      "type": "table",
+      "caption": "Quelle fixation choisir selon le support ?",
+      "headers": [
+        "Type de mur",
+        "Fixation généralement adaptée",
+        "Pour une patère à plusieurs crochets",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Placo ou cloison creuse sur ossature",
+          "Cheville métallique à expansion ou cheville adaptée aux plaques creuses",
+          "Préférez plusieurs ancrages ; idéalement, fixez au moins une partie dans un montant ou un renfort",
+          "Une cheville universelle légère est rarement suffisante pour sacs et manteaux accumulés"
+        ],
+        [
+          "Brique creuse",
+          "Cheville nylon longue, universelle ou scellement adapté selon la charge",
+          "Percez sans percussion au départ si la brique est fragile, puis adaptez la méthode",
+          "Ne percez pas dans un joint friable si vous pouvez l’éviter"
+        ],
+        [
+          "Béton ou pierre pleine",
+          "Cheville nylon de qualité ou ancrage mécanique adapté",
+          "Très bon support si le diamètre, la profondeur et les vis sont cohérents",
+          "Le perçage demande un foret adapté et souvent le mode percussion"
+        ],
+        [
+          "Brique pleine ou parpaing plein",
+          "Cheville nylon adaptée au diamètre de perçage",
+          "Convient bien à un usage soutenu avec tous les points de fixation utilisés",
+          "Dépoussiérez le trou avant d’insérer la cheville"
+        ],
+        [
+          "Bois massif, panneau épais ou montant bois",
+          "Vis à bois de longueur suffisante, souvent sans cheville",
+          "Solution très robuste si la vis pénètre réellement dans le support porteur",
+          "Vérifiez l’épaisseur : un panneau décoratif mince ne remplace pas un montant"
+        ],
+        [
+          "Carrelage sur mur",
+          "Perçage du carreau avec foret approprié, puis cheville choisie selon le mur derrière",
+          "La résistance dépend du support sous le carrelage, pas du carreau seul",
+          "Évitez le mode percussion sur le carreau et ne serrez pas jusqu’à le fissurer"
+        ]
+      ],
+      "note": "Les instructions fournies avec vos chevilles et votre patère priment : elles indiquent les diamètres de perçage et les limites d’usage propres au produit."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le meilleur renfort en cloison creuse",
+      "html": "Si vous connaissez la position d’un <strong>montant</strong> métallique ou bois, ou d’un renfort intégré à la cloison, placez-y au moins une fixation lorsque la géométrie de la patère le permet. Sinon, répartissez la charge sur le plus grand nombre possible de chevilles adaptées aux plaques creuses."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer le matériel et vérifier la patère",
+      "id": "preparer-le-materiel-et-verifier-la-patere"
+    },
+    {
+      "type": "paragraph",
+      "html": "Déballez la patère avant d’acheter les fixations. Les vis fournies conviennent parfois, mais elles peuvent être prévues pour un support générique et non pour votre mur. Vérifiez que leur tête passe dans les trous ou les lumières de fixation, qu’elles peuvent être recouvertes par les caches éventuels et qu’elles ne sont ni trop fines ni trop courtes. Une vis doit traverser l’épaisseur de la patère, puis s’ancrer correctement dans la cheville ou le support."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il vous faut en principe un mètre, un crayon, un niveau à bulle ou laser, une perceuse-visseuse, des forets adaptés au mur, un tournevis ou l’embout correspondant aux vis, les chevilles choisies et un aspirateur ou une poire soufflante pour évacuer la poussière. Un détecteur de matériaux et de réseaux est vivement recommandé si vous percez près d’une zone technique ; il ne remplace toutefois pas la prudence ni la connaissance du plan des installations."
+    },
+    {
+      "type": "proscons",
+      "title": "Vis fournies avec la patère : faut-il les utiliser ?",
+      "pros": [
+        "Elles sont souvent esthétiquement compatibles avec les caches-vis et les perçages du support.",
+        "Elles peuvent convenir à une petite patère légère sur un mur plein, si leur format correspond à la cheville choisie.",
+        "Elles évitent d’avoir à chercher une tête de vis qui s’insère dans une fixation encastrée."
+      ],
+      "cons": [
+        "Le type de cheville livré est parfois trop générique pour votre mur réel.",
+        "La longueur des vis peut être insuffisante pour traverser une plaque, une entretoise ou un revêtement avant l’ancrage.",
+        "Une patère utilisée avec des sacs ou plusieurs manteaux mérite souvent une fixation plus robuste que le kit standard."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Installer la patère pas à pas",
+      "id": "installer-la-patere-pas-a-pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Travaillez à deux si la patère est longue, lourde ou si vous devez conserver une position précise tout en marquant les trous. Ne percez pas sur le simple tracé du bord supérieur : les trous situés au dos peuvent être légèrement décalés. Le bon repère est toujours celui des points de fixation réels."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode de pose fiable",
+      "items": [
+        {
+          "title": "1. Repérez la ligne de pose",
+          "text": "Mesurez la hauteur choisie à partir du sol ou d’un repère fiable. Tracez un trait horizontal léger au crayon sur la longueur utile, en utilisant un niveau. Évitez de vous fier au plafond ou aux plinthes, qui ne sont pas toujours parfaitement droits."
+        },
+        {
+          "title": "2. Présentez la patère et marquez les trous",
+          "text": "Alignez le support sur le trait. Maintenez-le fermement ou faites-vous aider, puis marquez le centre de chaque trou de fixation avec un crayon fin. Si les trous sont cachés, repérez-les avant la mise en place."
+        },
+        {
+          "title": "3. Contrôlez une dernière fois",
+          "text": "Retirez la patère, vérifiez l’horizontalité des repères et contrôlez les dégagements autour des portes et meubles. Utilisez un détecteur si la zone peut contenir câbles ou canalisations. En cas d’incertitude sérieuse, déplacez légèrement la patère."
+        },
+        {
+          "title": "4. Percez au bon diamètre",
+          "text": "Choisissez le foret correspondant exactement au diamètre préconisé pour la cheville. Percez droit, sans forcer. Sur du carrelage, commencez avec un foret adapté, sans percussion ; sur béton ou maçonnerie dure, activez la percussion seulement si le support et le foret s’y prêtent."
+        },
+        {
+          "title": "5. Nettoyez et insérez les chevilles",
+          "text": "Aspirez la poussière dans chaque trou. Enfoncez les chevilles à fleur du mur sans les écraser. Pour une cheville à expansion de cloison creuse, utilisez l’outil de pose requis si le modèle le demande."
+        },
+        {
+          "title": "6. Vissez la patère progressivement",
+          "text": "Placez la patère, engagez toutes les vis de quelques tours, puis serrez alternativement d’un côté à l’autre. Contrôlez une dernière fois le niveau avant le serrage final. La patère doit être au contact du mur sans se voiler."
+        },
+        {
+          "title": "7. Testez avant de charger",
+          "text": "Tirez doucement vers vous sur plusieurs points, puis suspendez progressivement des charges légères. Si un jeu apparaît, retirez la charge et corrigez la fixation au lieu d’attendre qu’elle s’arrache."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le détail qui évite une patère de travers",
+      "html": "Engagez toutes les vis <strong>sans les bloquer</strong>, vérifiez le niveau, puis serrez progressivement. Serrer complètement la première vis peut faire pivoter le support et décaler les autres trous."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Patère à plusieurs crochets ou crochets séparés : quel choix selon l’usage ?",
+      "id": "patere-a-plusieurs-crochets-ou-crochets-separes-quel-choix-s"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une patère à plusieurs crochets est idéale pour regrouper le rangement et obtenir une finition alignée. Elle est particulièrement pratique dans une entrée, une salle de bains ou une chambre lorsque vous avez un mur dégagé. Des crochets séparés offrent davantage de liberté de placement, notamment dans un couloir irrégulier, autour d’un miroir ou à différentes hauteurs pour les enfants. Ils répartissent aussi les ancrages sur une surface plus grande."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux solutions de rangement mural",
+      "left": {
+        "title": "Patère à plusieurs crochets",
+        "points": [
+          "Aspect structuré, installation unique et crochets déjà bien espacés.",
+          "Convient pour créer une zone manteaux, serviettes ou sacs sur un mur libre.",
+          "Concentre les charges et les fixations : exige un support bien dimensionné.",
+          "Se remplace moins facilement si l’entraxe des trous diffère d’un nouveau modèle."
+        ]
+      },
+      "right": {
+        "title": "Crochets muraux indépendants",
+        "points": [
+          "Hauteur, espacement et nombre entièrement personnalisables.",
+          "Permettent de répartir les charges et de s’adapter à une petite surface.",
+          "Demandent davantage de repérages et de perçages pour un résultat parfaitement aligné.",
+          "Plus faciles à compléter progressivement selon l’évolution des besoins."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Adapter la fixation à l’usage réel et au budget",
+      "id": "adapter-la-fixation-a-l-usage-reel-et-au-budget"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le budget ne se limite pas au prix de la patère. Prévoyez quelques euros à quelques dizaines d’euros selon la nature du mur et le niveau de charge pour les chevilles, vis, forets ou l’outillage manquant. Pour une installation ponctuelle sur mur simple, un kit de fixation adapté suffit souvent. Pour une cloison creuse destinée à recevoir quotidiennement sacs et manteaux, investir dans de bonnes chevilles à expansion et, si nécessaire, dans leur pince de pose est généralement plus raisonnable que de réparer un arrachement."
+    },
+    {
+      "type": "table",
+      "caption": "Niveau d’équipement à prévoir selon le projet",
+      "headers": [
+        "Situation",
+        "Niveau de fixation",
+        "Budget à anticiper",
+        "Recommandation"
+      ],
+      "rows": [
+        [
+          "Serviettes légères sur mur plein",
+          "Standard",
+          "Petit budget pour vis, chevilles et foret si nécessaire",
+          "Utilisez les fixations adaptées au matériau et tous les trous de la patère"
+        ],
+        [
+          "Manteaux quotidiens sur maçonnerie",
+          "Renforcé",
+          "Budget modéré, surtout si vous devez acheter un bon foret ou des chevilles de qualité",
+          "Choisissez plusieurs points d’ancrage et évitez les modèles très saillants sous-dimensionnés"
+        ],
+        [
+          "Sacs, cartables et vêtements sur placo",
+          "Renforcé à très renforcé",
+          "Budget modéré à plus élevé selon chevilles et outillage de pose",
+          "Cherchez un montant ou utilisez des chevilles spécialisées correctement posées"
+        ],
+        [
+          "Mur carrelé ou matériau fragile",
+          "Technique",
+          "Budget variable selon le foret spécial et le support derrière",
+          "Percez avec méthode ; un professionnel peut être pertinent si le risque de casse est important"
+        ]
+      ],
+      "note": "Les ordres de grandeur dépendent surtout de l’outillage déjà disponible et de la difficulté du support, davantage que de la patère elle-même."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Éviter les erreurs courantes et sécuriser la pose",
+      "id": "eviter-les-erreurs-courantes-et-securiser-la-pose"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’erreur la plus fréquente consiste à utiliser une cheville choisie uniquement parce qu’elle était fournie, sans tenir compte du mur. Viennent ensuite le perçage trop large, la pose sans niveau et l’utilisation de seulement deux vis alors que la patère en prévoit quatre. Chaque trou prévu contribue à répartir la traction et à limiter la déformation du support."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes qui font durer la fixation",
+      "items": [
+        "Ne percez pas à proximité immédiate d’une prise, d’un interrupteur ou d’un point d’eau sans vérification préalable des réseaux.",
+        "Respectez le diamètre de foret indiqué pour chaque cheville : un trou trop grand annule une grande partie de sa tenue.",
+        "N’utilisez pas une vis plus longue sans contrôler ce qui se trouve derrière le mur.",
+        "Ne comblez pas un trou raté avec une vis plus grosse : rebouchez-le correctement et décalez la fixation si nécessaire.",
+        "Répartissez les objets lourds sur les crochets proches des fixations plutôt que de les concentrer à une extrémité.",
+        "Évitez de vous suspendre à la patère, même si elle semble solidement fixée : ce n’est pas une barre d’appui."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Quand faire appel à un professionnel ?",
+      "html": "Sur un mur ancien friable, une cloison inconnue, un carrelage coûteux, près de réseaux sensibles ou pour un vestiaire soumis à de lourdes charges, une intervention courte peut éviter des réparations bien plus onéreuses. C’est aussi pertinent si la patère doit servir d’appui à une personne : choisissez alors un équipement conçu pour cet usage, pas une simple patère."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretenir la patère et réagir au moindre jeu",
+      "id": "entretenir-la-patere-et-reagir-au-moindre-jeu"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois posée, inspectez la patère après les premières semaines d’utilisation, puis de temps en temps, surtout dans une entrée très sollicitée. Vérifiez que les vis ne se desserrent pas, que les caches-vis restent en place et qu’aucune fissure n’apparaît autour des fixations. Un mouvement léger n’est jamais anodin : retirez les charges, resserrez si la cheville est saine, ou remplacez la fixation si le trou s’est détérioré."
+    },
+    {
+      "type": "paragraph",
+      "html": "Nettoyez le support avec un chiffon doux adapté à sa matière. Sur le bois, évitez l’eau stagnante ; sur le métal peint ou verni, privilégiez un produit doux non abrasif. Dans une salle de bains, séchez régulièrement les zones où les serviettes mouillées touchent le mur pour limiter les traces et la dégradation d’un support en bois ou en MDF. Si vous déménagez la patère, rebouchez les trous avec un enduit approprié au mur avant de repeindre."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la pose d’une patère à crochets",
+      "items": [
+        {
+          "q": "Quelle cheville utiliser pour une patère sur du placo ?",
+          "a": "Pour une patère susceptible de porter des manteaux ou des sacs, choisissez une cheville spécifiquement conçue pour les plaques de plâtre, souvent métallique à expansion ou à basculement selon la configuration. Utilisez tous les points de fixation et, si possible, repérez un montant ou un renfort. Une petite cheville universelle peut convenir à des objets légers, mais elle est rarement le meilleur choix pour une entrée très sollicitée."
+        },
+        {
+          "q": "Peut-on fixer une patère avec seulement deux vis ?",
+          "a": "Oui, uniquement si la patère a été conçue pour deux points de fixation et si le mur ainsi que la charge le permettent. Si le support comporte quatre trous, utilisez-les tous : ils répartissent les efforts et réduisent le risque de basculement ou d’arrachement. Ne supprimez pas des fixations pour aller plus vite."
+        },
+        {
+          "q": "À quelle hauteur poser une patère dans une entrée ?",
+          "a": "Il n’existe pas une hauteur universelle. Placez-la de façon à attraper les crochets sans lever excessivement le bras, tout en tenant compte de la longueur des manteaux, de la présence d’un meuble et des utilisateurs. Pour des enfants, une seconde rangée plus basse est souvent plus efficace et plus sûre qu’un compromis unique."
+        },
+        {
+          "q": "Faut-il utiliser un niveau pour poser une patère ?",
+          "a": "Oui. Même une patère courte paraît immédiatement de travers si elle n’est pas horizontale, surtout si elle est proche d’un encadrement de porte ou d’un meuble. Tracez un repère au niveau, présentez la patère et marquez les trous directement à travers ses fixations avant de percer."
+        },
+        {
+          "q": "Comment percer du carrelage sans le casser ?",
+          "a": "Marquez précisément le point, utilisez un foret adapté au carrelage et commencez sans percussion à vitesse modérée. Une fois le carreau traversé, adaptez le foret et le mode de perçage au mur situé derrière. Ne serrez pas la vis au point de mettre le carreau sous contrainte ; la tenue dépend essentiellement de la cheville dans le support arrière."
+        },
+        {
+          "q": "Ma patère bouge après la pose : que faire ?",
+          "a": "Décrochez immédiatement les objets. Vérifiez d’abord le serrage des vis. Si elles tournent dans le vide, si la cheville ressort ou si le mur s’effrite, ne vous contentez pas de resserrer : retirez la fixation, évaluez l’état du trou et installez une solution adaptée, éventuellement à un autre emplacement ou avec un renfort. Une patère qui bouge finira généralement par endommager davantage le mur."
+        }
+      ]
+    }
+  ]
+}

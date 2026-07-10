@@ -1,0 +1,476 @@
+{
+  "title": "Quels types de rapports peut-on générer avec Zeendoc ?",
+  "slug": "quels-types-de-rapports-peut-on-generer-avec-zeendoc",
+  "path": "/divers/quels-types-de-rapports-peut-on-generer-avec-zeendoc.html",
+  "category": "tech",
+  "tags": [
+    "zeendoc",
+    "gestion documentaire",
+    "reporting",
+    "workflows",
+    "dématérialisation",
+    "tableaux de bord"
+  ],
+  "excerpt": "Zeendoc permet d’exploiter les données documentaires, les circuits de validation et les journaux d’activité. Voici les rapports utiles et leurs limites.",
+  "metaDescription": "Découvrez les rapports réalisables avec Zeendoc : documents, workflows, activité, audit et exports. Les bons critères pour les paramétrer utilement.",
+  "seoTitle": "Rapports Zeendoc : lesquels générer et comment",
+  "heroKicker": "Piloter vos documents",
+  "readingTime": 12,
+  "date": "2025-02-28T19:47:18",
+  "image": {
+    "id": "2962",
+    "alt": "Quels types de rapports peut-on générer avec Zeendoc ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Zeendoc est avant tout une solution de gestion électronique de documents : sa force consiste à classer, retrouver, sécuriser et faire circuler l’information. Les rapports que vous pouvez en tirer ne se résument donc pas à un catalogue figé : ils dépendent des champs d’indexation, des circuits de validation, des droits et du paramétrage mis en place dans votre organisation."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Les rapports Zeendoc les plus utiles portent généralement sur les <strong>documents indexés</strong>, les <strong>workflows</strong>, l’<strong>activité des utilisateurs</strong> et, selon les connecteurs, des données métier ou comptables.",
+        "Un rapport fiable ne peut exploiter que les informations réellement structurées : type de document, date, fournisseur, statut, montant, service, échéance ou tout autre champ correctement renseigné.",
+        "Les listes filtrées et exportables sont souvent plus pertinentes qu’un tableau de bord complexe : partez d’une question de gestion précise.",
+        "Les possibilités exactes varient selon votre offre, les modules activés, les interfaces avec vos logiciels et les droits accordés à chaque profil.",
+        "Prévoyez dès le départ les indicateurs nécessaires : corriger des années d’archives mal indexées coûte toujours plus cher qu’ajouter les bons champs à un nouveau flux."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3 axes",
+          "label": "à couvrir : documents, processus et activité"
+        },
+        {
+          "value": "1 question",
+          "label": "de gestion claire par rapport pour éviter les tableaux illisibles"
+        },
+        {
+          "value": "0 donnée fiable",
+          "label": "si le champ source est vide, incohérent ou non contrôlé"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que signifie « générer un rapport » dans Zeendoc ?",
+      "id": "que-signifie-generer-un-rapport-dans-zeendoc"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans une GED, un rapport peut prendre plusieurs formes. Il peut s’agir d’une <strong>liste de documents issue d’une recherche multicritère</strong>, d’un export de métadonnées vers un tableur, d’un suivi de dossiers dans un circuit de validation, d’un journal de traçabilité ou d’un indicateur affiché dans un espace de pilotage. Le mot « rapport » ne désigne donc pas nécessairement un document PDF mis en page automatiquement."
+    },
+    {
+      "type": "paragraph",
+      "html": "La distinction est importante : Zeendoc stocke des documents et leurs informations associées, mais il n’invente pas les indicateurs dont vous avez besoin. Si vous souhaitez suivre les factures à valider, il faut qu’un statut de validation existe. Si vous voulez analyser les achats par fournisseur ou par centre de coût, ces données doivent être extraites, indexées ou synchronisées depuis votre outil comptable. La qualité du reporting découle directement de la qualité du modèle documentaire."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe avant de demander un rapport",
+      "html": "Formulez le besoin sous la forme : <strong>« Qui doit agir sur quoi, avant quelle échéance ? »</strong> ou <strong>« Quelle décision ce tableau doit-il permettre de prendre ? »</strong>. Cette étape révèle les champs, statuts, filtres et droits réellement nécessaires."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les grandes familles de rapports exploitables",
+      "id": "les-grandes-familles-de-rapports-exploitables"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans la plupart des déploiements, les rapports se répartissent en quatre familles. Elles peuvent être utilisées seules ou croisées : le suivi du contenu documentaire, le pilotage des processus, la traçabilité des actions et l’analyse de données métier connectées. Leur profondeur dépend du paramétrage de votre environnement Zeendoc."
+    },
+    {
+      "type": "table",
+      "caption": "Les rapports couramment recherchés dans une GED comme Zeendoc",
+      "headers": [
+        "Famille de rapport",
+        "Exemples de contenu",
+        "Données indispensables",
+        "Usage principal"
+      ],
+      "rows": [
+        [
+          "Inventaire documentaire",
+          "Documents par type, période, service, client ou fournisseur",
+          "Type, date, entité, index métier",
+          "Retrouver, contrôler et exporter un périmètre documentaire"
+        ],
+        [
+          "Suivi des workflows",
+          "Dossiers en attente, validés, rejetés ou en retard",
+          "Statut, étape, valideur, dates de traitement",
+          "Réduire les blocages et répartir les relances"
+        ],
+        [
+          "Audit et activité",
+          "Créations, consultations, modifications, actions de validation",
+          "Journal d’événements, utilisateur, horodatage",
+          "Sécurité, conformité et investigation"
+        ],
+        [
+          "Conformité et échéances",
+          "Documents arrivant à expiration, pièces manquantes, durées de conservation",
+          "Date d’échéance, catégorie, statut de complétude",
+          "Éviter les oublis et préparer les contrôles"
+        ],
+        [
+          "Analyse métier ou financière",
+          "Factures par fournisseur, dossiers RH actifs, contrats à renouveler",
+          "Montant, fournisseur, centre de coût, dates, champs métier",
+          "Piloter une activité, souvent avec export ou connecteur"
+        ]
+      ],
+      "note": "Les intitulés, filtres et formats disponibles varient selon les modules, les droits et le paramétrage de votre instance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rapports sur les documents : listes, volumes et recherche multicritère",
+      "id": "rapports-sur-les-documents-listes-volumes-et-recherche-multi"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier niveau de reporting consiste à interroger le fonds documentaire. Vous pouvez typiquement filtrer les documents selon leur nature, une période, une société, un service, un fournisseur, un client, une référence, un dossier ou un statut. Le résultat est une liste exploitable pour vérifier un périmètre, préparer une relance, transmettre des pièces ou alimenter une analyse externe."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour les factures fournisseurs, par exemple, un responsable peut vouloir isoler les factures reçues sur une période donnée, associées à une entité précise et dont le montant dépasse un seuil interne. Pour les RH, il peut s’agir d’identifier les contrats, attestations ou avenants correspondant à une population de salariés et à une échéance. Pour un service commercial, les critères peuvent porter sur le client, le type de dossier, la date et le statut de traitement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce type de rapport est particulièrement efficace lorsque les critères sont <strong>stables et normalisés</strong>. Une valeur libre comme « Fournisseur X », « fournisseur x » ou « X SA » rendra les regroupements fragiles. Lorsque cela est possible, privilégiez des listes contrôlées, des références issues du logiciel de gestion et des formats de date homogènes."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Champs à prévoir pour des listes réellement exploitables",
+      "items": [
+        "Un type documentaire sans ambiguïté : facture, bon de commande, contrat, dossier salarié, courrier, pièce qualité, etc.",
+        "Une date métier bien définie : date de réception, date de facture, date d’échéance ou date de signature ne répondent pas au même besoin.",
+        "Une entité de rattachement : société, agence, service, site, client, fournisseur ou projet.",
+        "Un identifiant unique, utile pour dédoublonner les résultats et les rapprocher d’un logiciel tiers.",
+        "Un statut opérationnel lorsque le document doit être traité : à contrôler, en attente, validé, refusé, archivé ou expiré.",
+        "Des champs numériques structurés pour les montants, quantités ou délais, plutôt que des valeurs enfouies dans le libellé du document."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Rapports de workflow : ce qui attend une action et ce qui bloque",
+      "id": "rapports-de-workflow-ce-qui-attend-une-action-et-ce-qui-bloq"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque Zeendoc est configuré avec des circuits de traitement, les rapports de workflow sont souvent les plus directement actionnables. Ils permettent de suivre des documents ou dossiers selon leur étape : reçus, à contrôler, à compléter, à valider, rejetés, clôturés ou bloqués. L’objectif n’est pas seulement de compter ; il est de savoir <strong>où se situe le travail à faire</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un responsable administratif peut ainsi suivre les factures qui n’ont pas encore reçu de bon à payer. Un manager peut visualiser les demandes qui attendent son arbitrage. Un référent qualité peut repérer les dossiers incomplets. Si les dates de début et de fin d’étape sont disponibles, vous pouvez aussi analyser les retards, les goulots d’étranglement et les étapes qui génèrent le plus de retours."
+    },
+    {
+      "type": "comparison",
+      "title": "Suivi opérationnel ou analyse de performance : deux rapports différents",
+      "left": {
+        "title": "Liste d’actions à traiter",
+        "points": [
+          "Répond à la question : <strong>« Que dois-je faire maintenant ? »</strong>",
+          "Filtre sur le statut, le responsable, la priorité et l’échéance.",
+          "Doit être simple, actualisée et accessible aux bonnes personnes.",
+          "Exemple : factures en attente de validation depuis trop longtemps."
+        ]
+      },
+      "right": {
+        "title": "Analyse du processus",
+        "points": [
+          "Répond à la question : <strong>« Pourquoi le délai se dégrade-t-il ? »</strong>",
+          "Croise les étapes, volumes, durées et motifs de rejet.",
+          "Nécessite des statuts cohérents et des horodatages exploitables.",
+          "Exemple : étapes ou services concentrant les dossiers en retard."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux délais mal interprétés",
+      "html": "Un dossier « ancien » n’est pas toujours un dossier « en retard ». Définissez le point de départ retenu — réception, dépôt, affectation ou lancement du workflow — ainsi que les pauses éventuelles. Sans cette règle, les comparaisons entre équipes et périodes sont trompeuses."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Traçabilité, audit et sécurité : les rapports à ne pas confondre avec le pilotage",
+      "id": "tracabilite-audit-et-securite-les-rapports-a-ne-pas-confondr"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une GED peut conserver des éléments de traçabilité sur les opérations effectuées : dépôt, indexation, modification de certaines informations, consultation, validation ou suppression selon les règles et habilitations appliquées. Ces informations servent d’abord à répondre à une question d’audit ou de sécurité : qui a réalisé une action, sur quel élément et à quel moment ?"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un rapport d’activité peut également aider à administrer la solution : identifier des imports en échec, contrôler la bonne alimentation d’un flux, vérifier qu’un groupe d’utilisateurs accède à son espace ou investiguer une anomalie. En revanche, il serait imprudent de transformer automatiquement un journal technique en indicateur de productivité. Une consultation peut être légitime, accidentelle ou liée à un contrôle ; son nombre ne mesure pas à lui seul la valeur du travail réalisé."
+    },
+    {
+      "type": "proscons",
+      "title": "Exploiter les journaux d’activité : intérêts et limites",
+      "pros": [
+        "Renforce la capacité à répondre aux demandes d’audit et aux incidents.",
+        "Facilite la recherche d’une action précise dans un dossier sensible.",
+        "Aide à vérifier l’adoption d’un nouveau flux ou l’alimentation d’un connecteur.",
+        "Peut mettre en évidence des droits trop larges ou des traitements anormaux."
+      ],
+      "cons": [
+        "Ne remplace pas un outil complet de contrôle de gestion ou d’analyse métier.",
+        "Les données disponibles et leur durée de conservation dépendent du paramétrage.",
+        "Un volume d’actions élevé ne prouve ni l’efficacité ni la qualité du traitement.",
+        "L’accès à ces données doit être strictement limité, notamment lorsqu’elles concernent des collaborateurs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Échéances, conformité et complétude des dossiers",
+      "id": "echeances-conformite-et-completude-des-dossiers"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les rapports d’échéance sont très utiles dès qu’un document possède une date à surveiller : fin de contrat, renouvellement d’assurance, validité d’une certification, échéance d’un contrôle, date de révision ou durée de conservation. Plutôt que de rechercher régulièrement dans l’ensemble des archives, vous créez une vue ciblée des éléments arrivant à échéance dans une fenêtre donnée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Autre besoin fréquent : contrôler la complétude. Dans un dossier fournisseur, salarié, client ou qualité, un rapport peut lister les dossiers pour lesquels une pièce obligatoire manque, n’est plus valable ou n’a pas encore franchi l’étape attendue. Pour que cette logique fonctionne, ne comptez pas uniquement sur la présence visuelle d’un fichier : définissez des catégories de pièces attendues et un statut explicite de conformité."
+    },
+    {
+      "type": "steps",
+      "title": "Construire un suivi d’échéance robuste",
+      "items": [
+        {
+          "title": "Définissez l’événement à surveiller",
+          "text": "Choisissez une date métier précise et unique : expiration, renouvellement, révision ou fin de validité."
+        },
+        {
+          "title": "Classez les documents concernés",
+          "text": "Utilisez un type documentaire ou une catégorie dédiée afin d’éviter de mélanger contrats, factures et documents internes."
+        },
+        {
+          "title": "Ajoutez un responsable et une règle de relance",
+          "text": "Le rapport doit déboucher sur une action attribuée, pas seulement sur une liste consultée par tous."
+        },
+        {
+          "title": "Testez avec des cas limites",
+          "text": "Vérifiez le comportement pour un document sans date, une date déjà dépassée, un renouvellement et un document annulé."
+        },
+        {
+          "title": "Révisez la vue périodiquement",
+          "text": "Supprimez les colonnes inutiles et ajustez les délais d’alerte selon le rythme réel de votre activité."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Données comptables et métier : ce que Zeendoc peut consolider, et ce qu’il ne remplace pas",
+      "id": "donnees-comptables-et-metier-ce-que-zeendoc-peut-consolider-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les projets de dématérialisation de factures ou de gestion de dossiers, il est naturel de vouloir obtenir des analyses par fournisseur, client, montant, entité ou centre de coût. Ces informations peuvent être présentes dans Zeendoc lorsqu’elles sont indexées lors de l’import, lues automatiquement puis contrôlées, saisies par un utilisateur ou récupérées via une interface avec un logiciel tiers."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut néanmoins distinguer deux rôles. Zeendoc peut fournir une vue documentaire et opérationnelle très utile : factures reçues, pièces associées, statut de validation, liste de documents par fournisseur, échéances ou dossiers sans justificatif. Votre ERP, logiciel comptable ou outil de BI reste souvent le meilleur endroit pour les analyses financières consolidées, les écritures définitives, les rapprochements complexes, les prévisions et les tableaux de gestion multi-sources."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le principe de la source de vérité",
+      "html": "Pour chaque indicateur, désignez un système de référence. Une facture peut être consultée et validée dans la GED, mais son montant comptabilisé, son règlement ou son imputation définitive peuvent relever du logiciel financier. Évitez de comparer deux exports sans vérifier leur date de mise à jour et leur périmètre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Formats, exports et diffusion : choisir le bon niveau de restitution",
+      "id": "formats-exports-et-diffusion-choisir-le-bon-niveau-de-restit"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le résultat d’une recherche ou d’un suivi peut être consulté dans l’interface, partagé à un groupe habilité ou exporté pour analyse complémentaire. Selon votre configuration, les exports peuvent notamment servir à alimenter un tableur, à transmettre une liste à un responsable ou à rapprocher des données avec un autre outil. L’intérêt d’un export n’est pas de contourner la GED : c’est de compléter son rôle lorsque les calculs, graphiques ou croisements requis dépassent la vue opérationnelle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de diffuser un rapport, posez-vous trois questions : quelles colonnes sont réellement nécessaires, qui est autorisé à les voir et quelle version des données doit être retenue ? Les listes de factures, contrats ou dossiers RH contiennent facilement des informations confidentielles. Un fichier exporté peut être recopié, conservé trop longtemps ou envoyé à la mauvaise personne ; il mérite les mêmes précautions qu’un document source."
+    },
+    {
+      "type": "table",
+      "caption": "Quel mode de restitution privilégier selon le besoin ?",
+      "headers": [
+        "Besoin",
+        "Restitution adaptée",
+        "Atout",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Traiter une file d’attente",
+          "Vue filtrée dans Zeendoc",
+          "Données à jour et accès maîtrisé",
+          "Prévoir des filtres simples et un responsable clair"
+        ],
+        [
+          "Faire une relance ponctuelle",
+          "Liste exportée ou partage contrôlé",
+          "Tri et commentaires rapides",
+          "Limiter les données personnelles ou sensibles"
+        ],
+        [
+          "Analyser une tendance",
+          "Export structuré vers tableur ou outil décisionnel",
+          "Calculs, graphiques et croisements possibles",
+          "Contrôler la fraîcheur et la source des données"
+        ],
+        [
+          "Prouver une action",
+          "Historique ou journal de traçabilité",
+          "Contexte temporel et utilisateur associé",
+          "Restreindre l’accès aux personnes habilitées"
+        ],
+        [
+          "Présenter un état à la direction",
+          "Synthèse avec indicateurs définis",
+          "Lecture rapide et comparable",
+          "Documenter les règles de calcul"
+        ]
+      ],
+      "note": "Le format exact proposé dépend de votre version, de vos modules et des droits configurés."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget et paramétrage : ce qui fait vraiment varier le coût",
+      "id": "budget-et-parametrage-ce-qui-fait-vraiment-varier-le-cout"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de budget unique pour « un rapport Zeendoc ». Une simple vue sauvegardée à partir de champs déjà disponibles mobilise peu de travail. À l’inverse, un pilotage multi-entités avec nouveaux champs, règles de qualité, circuits complexes, automatisations, connecteurs comptables et restitution décisionnelle peut devenir un véritable mini-projet."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur de complexité d’un besoin de reporting",
+      "headers": [
+        "Niveau",
+        "Exemple",
+        "Travail principal",
+        "Impact budgétaire relatif"
+      ],
+      "rows": [
+        [
+          "Simple",
+          "Liste des factures en attente par valideur",
+          "Créer les filtres et définir les colonnes",
+          "Faible si les données et droits existent déjà"
+        ],
+        [
+          "Intermédiaire",
+          "Suivi des délais par étape et service",
+          "Normaliser les statuts, dates et responsables",
+          "Modéré : paramétrage et recettes nécessaires"
+        ],
+        [
+          "Avancé",
+          "Analyse consolidée avec données ERP et plusieurs sociétés",
+          "Connecter, rapprocher, sécuriser et documenter les données",
+          "Plus élevé : prestation, tests et maintenance à prévoir"
+        ],
+        [
+          "Spécifique",
+          "Indicateur métier sur mesure ou export automatisé",
+          "Développer ou configurer une logique particulière",
+          "Variable, à chiffrer après expression de besoin"
+        ]
+      ],
+      "note": "Demandez un chiffrage fondé sur des cas d’usage et des jeux de données réels, plutôt que sur une formule vague de « tableau de bord »."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui rendent un rapport inutilisable",
+      "id": "les-erreurs-qui-rendent-un-rapport-inutilisable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le problème le plus fréquent n’est pas l’outil : c’est la conception. Un rapport trop vaste, alimenté par des champs facultatifs ou affichant une vingtaine de colonnes, finit rarement utilisé. À l’inverse, une vue courte, attribuée à une personne et liée à une décision concrète devient rapidement un réflexe de travail."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les pièges à éviter avant le déploiement",
+      "items": [
+        "Demander un indicateur sans définir précisément son périmètre, son propriétaire et sa fréquence de consultation.",
+        "Mélanger dans une même colonne des valeurs libres, des abréviations et des données provenant de sources différentes.",
+        "Calculer des délais sans préciser les jours ouvrés, les périodes d’attente ou l’événement de départ.",
+        "Donner accès à un export contenant des données confidentielles à un public plus large que nécessaire.",
+        "Dupliquer manuellement une donnée déjà gérée dans un ERP ou un logiciel RH sans établir de règle de synchronisation.",
+        "Concevoir un tableau pour la direction sans prévoir la liste opérationnelle permettant d’agir sur les anomalies.",
+        "Oublier de tester les droits : un rapport peut être juste techniquement mais incomplet pour un utilisateur, ou trop exposé pour un autre."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Méthode pratique pour définir vos rapports Zeendoc",
+      "id": "methode-pratique-pour-definir-vos-rapports-zeendoc"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour obtenir un résultat durable, commencez par un petit nombre de rapports prioritaires : par exemple, les éléments en attente de validation, les documents arrivant à échéance et les dossiers incomplets. Faites-les utiliser pendant quelques cycles de travail, puis ajustez les filtres et les règles d’indexation. Cette approche évite de lancer un vaste tableau de bord qui ne correspond finalement à aucune routine réelle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Documentez aussi chaque rapport : objectif, audience, champs utilisés, définition des statuts, source des données, règle de calcul éventuelle et personne responsable. Cette fiche très courte devient indispensable lorsque les équipes changent, qu’un flux est modifié ou qu’un export est utilisé dans un contrôle interne."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un test simple de qualité",
+      "html": "Choisissez dix documents réels au hasard et vérifiez qu’ils apparaissent — ou non — dans le rapport conformément à la règle annoncée. Si vous devez souvent expliquer des exceptions, c’est généralement le signe qu’un champ, un statut ou une règle métier doit être revu."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les rapports Zeendoc",
+      "items": [
+        {
+          "q": "Zeendoc permet-il de créer des rapports personnalisés ?",
+          "a": "Oui, dans la mesure où les documents et les processus disposent de critères exploitables. Les vues de recherche, listes filtrées, exports et suivis peuvent être adaptés au paramétrage. Le niveau de personnalisation exact dépend toutefois de votre offre, des modules activés, des habilitations et, pour les besoins avancés, des interfaces mises en place."
+        },
+        {
+          "q": "Peut-on suivre les factures en attente de validation ?",
+          "a": "C’est l’un des cas d’usage les plus pertinents lorsqu’un workflow de traitement des factures est configuré. Le rapport peut isoler les documents selon leur statut, leur étape, le valideur attendu, leur date de réception ou leur échéance. Assurez-vous que les statuts et les responsables sont renseignés de manière cohérente."
+        },
+        {
+          "q": "Peut-on exporter les résultats vers Excel ou un autre tableur ?",
+          "a": "Les exports de listes et de données font partie des usages courants des solutions documentaires, mais les possibilités précises doivent être vérifiées dans votre configuration. Avant tout export, limitez les colonnes au nécessaire et contrôlez les droits d’accès, surtout pour les données financières, personnelles ou contractuelles."
+        },
+        {
+          "q": "Peut-on calculer des délais de traitement dans Zeendoc ?",
+          "a": "Cela dépend des dates et événements enregistrés dans votre workflow. Si les étapes sont horodatées et les statuts bien définis, vous pouvez suivre les dossiers en attente et analyser des durées. Pour des calculs complexes, des calendriers ouvrés ou des analyses historiques poussées, un export vers un outil de BI peut être plus adapté."
+        },
+        {
+          "q": "Quel rapport faut-il mettre en place en premier ?",
+          "a": "Commencez par un rapport qui déclenche une action immédiate : documents bloqués, validations en attente, pièces manquantes ou échéances proches. Il apporte une valeur visible, permet de vérifier la qualité des données et pose les bases des analyses plus sophistiquées."
+        },
+        {
+          "q": "Pourquoi mon rapport affiche-t-il des résultats incomplets ?",
+          "a": "Les causes les plus fréquentes sont des champs non renseignés, des valeurs d’indexation hétérogènes, un filtre de date mal interprété, des droits insuffisants ou une synchronisation non actualisée avec un logiciel tiers. Testez le rapport sur des documents connus, puis vérifiez la définition de chaque critère avant de modifier la restitution."
+        }
+      ]
+    }
+  ]
+}

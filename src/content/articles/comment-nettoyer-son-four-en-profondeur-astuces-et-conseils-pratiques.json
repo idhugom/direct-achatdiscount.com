@@ -1,0 +1,375 @@
+{
+  "title": "Comment nettoyer son four en profondeur : astuces et conseils pratiques",
+  "slug": "comment-nettoyer-son-four-en-profondeur-astuces-et-conseils-pratiques",
+  "path": "/divers/comment-nettoyer-son-four-en-profondeur-astuces-et-conseils-pratiques.html",
+  "category": "cuisine",
+  "tags": [
+    "nettoyage four",
+    "dégraissage",
+    "bicarbonate de soude",
+    "entretien cuisine",
+    "pyrolyse",
+    "vitre de four"
+  ],
+  "excerpt": "Bicarbonate, vapeur, produit décapant ou pyrolyse : apprenez à dégraisser votre four, ses vitres et ses accessoires sans risque.",
+  "metaDescription": "Nettoyez votre four en profondeur sans l’abîmer : méthodes efficaces, produits à choisir, précautions, entretien et erreurs à éviter.",
+  "seoTitle": "Comment nettoyer son four en profondeur sans l’abîmer",
+  "heroKicker": "Four impeccable",
+  "readingTime": 12,
+  "date": "2025-02-16T03:15:20",
+  "image": {
+    "id": null,
+    "alt": "Comment nettoyer son four en profondeur : astuces et conseils pratiques",
+    "width": null,
+    "height": null
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un four encrassé fume, dégage des odeurs persistantes et peut altérer la cuisson de vos plats. Un nettoyage en profondeur ne consiste pas seulement à frotter la sole : il faut adapter la méthode au revêtement de la cavité, traiter les projections de graisse et nettoyer chaque élément sans endommager l’appareil."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>Identifiez le type de four</strong> avant toute chose : émail lisse, parois catalytiques, hydrolyse ou pyrolyse ne se nettoient pas de la même manière.",
+        "Pour un nettoyage manuel efficace, la combinaison <strong>chaleur douce, temps de pose et action mécanique modérée</strong> est plus sûre qu’un produit très corrosif utilisé trop vite.",
+        "Ne mélangez jamais les produits ménagers : en particulier, <strong>eau de Javel, ammoniaque, vinaigre et décapants</strong> peuvent former des vapeurs dangereuses ou abîmer les surfaces.",
+        "Les grilles, la lèchefrite, la porte et le joint demandent un traitement séparé : c’est souvent là que se cache l’essentiel de la graisse cuite.",
+        "Un entretien léger après les cuissons salissantes évite de devoir lancer trop souvent un nettoyage agressif ou un cycle de pyrolyse."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "20 à 40 min",
+          "label": "de temps de pose utile pour une pâte dégraissante douce"
+        },
+        {
+          "value": "60 à 90 °C",
+          "label": "température généralement suffisante pour activer un nettoyage vapeur doux"
+        },
+        {
+          "value": "2 à 4 h",
+          "label": "durée courante d’un cycle de pyrolyse selon les appareils"
+        },
+        {
+          "value": "1 fois par mois",
+          "label": "repère d’entretien courant pour un four très utilisé"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi nettoyer son four en profondeur ?",
+      "id": "pourquoi-nettoyer-son-four-en-profondeur"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les projections de sauce, de fromage, de sucre ou de graisse se carbonisent à chaque nouvelle cuisson. Elles peuvent alors produire de la fumée, une odeur âcre, voire des taches difficiles à retirer. Sur le plan pratique, un four propre permet aussi de mieux surveiller les aliments à travers la vitre et d’éviter que des résidus ne tombent sur vos préparations."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il ne faut pas viser une perfection irréaliste après chaque repas. En revanche, des dépôts noirs, une sole collante, de la fumée à vide, une porte opaque ou des coulures dans le bas de la cavité indiquent qu’un nettoyage complet devient nécessaire. Attendre trop longtemps transforme un simple dégraissage en décapage pénible et augmente le recours à des produits puissants."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Sécurité : les deux règles non négociables",
+      "html": "Travaillez toujours <strong>four froid, débranché si possible ou hors tension</strong>, dans une pièce ventilée. Ne mélangez aucun nettoyant : un produit four du commerce, du vinaigre, de l’eau de Javel ou de l’ammoniaque ne doivent jamais être associés, même dans le but de « renforcer » l’efficacité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifier le type de four avant de choisir une méthode",
+      "id": "identifier-le-type-de-four-avant-de-choisir-une-methode"
+    },
+    {
+      "type": "paragraph",
+      "html": "La bonne méthode dépend d’abord de l’intérieur de votre appareil. Un four à émail lisse classique supporte généralement un nettoyage manuel plus poussé. À l’inverse, les parois catalytiques sont recouvertes d’un émail poreux qui absorbe une partie des graisses pendant la cuisson : les produits décapants et les abrasifs peuvent les détériorer définitivement. Les fours à hydrolyse utilisent de la vapeur pour ramollir les salissures, tandis que les modèles à pyrolyse les brûlent à très haute température."
+    },
+    {
+      "type": "table",
+      "caption": "Quel nettoyage pour quel type de four ?",
+      "headers": [
+        "Type de cavité",
+        "Méthode recommandée",
+        "À éviter",
+        "Niveau d’effort"
+      ],
+      "rows": [
+        [
+          "Émail lisse traditionnel",
+          "Pâte au bicarbonate, vapeur, produit four compatible en dernier recours",
+          "Tampons métalliques, grattoirs sur l’émail, mélange de produits",
+          "Modéré à important"
+        ],
+        [
+          "Parois catalytiques",
+          "Chauffe selon le manuel, éponge humide sur zones non catalytiques",
+          "Décapants, savon gras, bicarbonate en pâte, frottage abrasif",
+          "Faible à modéré"
+        ],
+        [
+          "Hydrolyse ou nettoyage vapeur",
+          "Programme dédié ou plat d’eau chaude, puis essuyage immédiat",
+          "Laisser l’eau stagner, attendre que les résidus refroidissent",
+          "Faible"
+        ],
+        [
+          "Pyrolyse",
+          "Cycle constructeur, nettoyage manuel de la porte et des accessoires",
+          "Mettre grilles ou éléments non prévus dans le four, toucher avant refroidissement",
+          "Faible pendant le cycle"
+        ],
+        [
+          "Four combiné ou mini-four",
+          "Éponge peu humide et produit compatible après consultation de la notice",
+          "Inonder la cavité, vaporiser près des aérations et résistances",
+          "Modéré"
+        ]
+      ],
+      "note": "En cas de doute, consultez la notice de l’appareil ou la référence fabricant : le traitement des parois est plus important que l’ancienneté du four."
+    },
+    {
+      "type": "comparison",
+      "title": "Nettoyage manuel ou pyrolyse : quel arbitrage ?",
+      "left": {
+        "title": "Nettoyage manuel ciblé",
+        "points": [
+          "Idéal pour les salissures légères à modérées et les entretiens réguliers.",
+          "Permet de traiter précisément la porte, les joints, les rails et la sole.",
+          "Consomme peu d’énergie mais demande du temps de pose et de l’huile de coude.",
+          "Convient aux fours sans fonction autonettoyante, en respectant leur revêtement."
+        ]
+      },
+      "right": {
+        "title": "Cycle pyrolyse",
+        "points": [
+          "Très efficace contre les graisses anciennes dans la cavité d’un four compatible.",
+          "Demande peu d’intervention, mais ne remplace pas le nettoyage de tous les accessoires.",
+          "Consomme nettement plus d’énergie et peut générer des odeurs ou de la fumée.",
+          "À réserver aux encrassements importants et à utiliser selon les consignes du fabricant."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer le nettoyage : matériel, protection et ordre des opérations",
+      "id": "preparer-le-nettoyage-materiel-protection-et-ordre-des-opera"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de commencer, retirez les grilles, plaques, lèchefrite, rails latéraux amovibles et éventuellement le tournebroche. Cette étape libère l’accès aux angles et empêche le produit de s’accumuler sous les supports. Prévoyez une bassine ou un évier profond, deux chiffons microfibres, une éponge non abrasive, une spatule en plastique ou une ancienne carte rigide, des gants ménagers et un bol."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une solution douce adaptée à un four à émail lisse, préparez une pâte épaisse avec du bicarbonate de soude et très peu d’eau. Elle doit tenir sur les parois sans couler. Le vinaigre blanc peut être utilisé <em>séparément</em> en finition sur certaines surfaces, notamment la vitre ou les traces de calcaire, mais il n’est pas indispensable au dégraissage. L’effervescence obtenue en le versant sur le bicarbonate est visuelle ; elle réduit en réalité l’action alcaline recherchée pour dissoudre les graisses."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Vérifications avant de nettoyer",
+      "items": [
+        "Lisez les consignes de votre modèle, surtout si les parois semblent rugueuses ou granuleuses.",
+        "Attendez le refroidissement complet de la cavité et des accessoires.",
+        "Ouvrez une fenêtre ou activez une ventilation si vous employez un produit du commerce.",
+        "Protégez le sol devant le four avec une vieille serviette ou un carton absorbant.",
+        "Testez tout produit nouveau sur une petite zone discrète, particulièrement sur l’aluminium, les décors de porte et les rails.",
+        "Évitez de pulvériser directement près du ventilateur, des résistances, des sondes et des ouvertures d’aération."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode douce pas à pas pour un four à émail lisse",
+      "id": "la-methode-douce-pas-a-pas-pour-un-four-a-email-lisse"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la majorité des fours conventionnels moyennement sales, le nettoyage manuel doux est le meilleur point de départ. Il limite les émanations, coûte peu cher et permet de contrôler chaque zone. La clé est de ne pas frotter immédiatement : donnez au produit le temps de ramollir les graisses cuites."
+    },
+    {
+      "type": "steps",
+      "title": "Nettoyer l’intérieur du four sans décapant agressif",
+      "items": [
+        {
+          "title": "Retirer les miettes et dépôts épais",
+          "text": "Aspirez ou ramassez les résidus secs. Décollez doucement les grosses coulures avec une spatule en plastique, sans gratter l’émail ni forcer sur la sole."
+        },
+        {
+          "title": "Appliquer la pâte dégraissante",
+          "text": "Étalez la pâte de bicarbonate sur la sole, les parois lisses et le fond de la cavité. Évitez les résistances, le ventilateur, les capteurs et les parois catalytiques. Laissez agir environ 20 à 40 minutes ; sur une graisse ancienne, vous pouvez prolonger sans laisser sécher complètement."
+        },
+        {
+          "title": "Ramollir avec de la chaleur douce si nécessaire",
+          "text": "Placez un plat d’eau très chaude dans le four fermé pendant une vingtaine de minutes, ou utilisez la fonction vapeur prévue par l’appareil. Ne chauffez pas un four couvert de produit ménager sauf indication explicite de la notice du produit."
+        },
+        {
+          "title": "Décoller sans rayer",
+          "text": "Passez une éponge humide non abrasive, puis une spatule plastique sur les zones épaisses. Rincez souvent l’éponge afin de ne pas étaler les graisses dissoutes."
+        },
+        {
+          "title": "Rincer et sécher soigneusement",
+          "text": "Essuyez plusieurs fois avec un chiffon humide propre jusqu’à l’absence de résidu. Séchez ensuite avec une microfibre. Un four mal rincé peut dégager des odeurs au prochain préchauffage."
+        },
+        {
+          "title": "Faire un contrôle à chaud modéré",
+          "text": "Quand l’appareil est propre et sec, faites-le chauffer quelques minutes à température modérée, fenêtre ouverte. Si une odeur chimique ou irritante apparaît, laissez refroidir et rincez de nouveau avant toute cuisson alimentaire."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Pour les taches de sucre ou de caramel",
+      "html": "Les coulures sucrées durcies adhèrent fortement à l’émail. Posez dessus un chiffon très chaud et humide quelques minutes, puis soulevez-les progressivement avec une spatule en plastique. Évitez les lames métalliques : un éclat d’émail crée ensuite une zone où la graisse accroche davantage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nettoyer les grilles, la lèchefrite, la vitre et les joints",
+      "id": "nettoyer-les-grilles-la-lechefrite-la-vitre-et-les-joints"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les accessoires se traitent de préférence hors du four. Faites tremper les grilles et la lèchefrite dans de l’eau chaude additionnée de liquide vaisselle dégraissant, dans une baignoire protégée par une vieille serviette si votre évier est trop petit. Après un temps de trempage, utilisez une brosse souple ou une éponge non abrasive. Pour une lèchefrite très tachée, une pâte de bicarbonate peut être utile si le revêtement le tolère ; vérifiez l’état d’un revêtement antiadhésif avant de frotter."
+    },
+    {
+      "type": "paragraph",
+      "html": "La vitre intérieure de la porte mérite une attention particulière. Appliquez une pâte douce ou un nettoyant adapté sur la vitre froide, laissez agir, puis essuyez avec une microfibre humide. Ne vaporisez pas excessivement autour des bords : du liquide peut s’infiltrer entre les vitres. Si la porte est conçue pour être démontée, suivez exclusivement la procédure de la notice ; un mauvais remontage peut nuire à la fermeture, à l’isolation ou à la sécurité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les joints de porte ne se décapent pas. Passez un chiffon humide avec un peu de liquide vaisselle doux, puis séchez-les sans tirer dessus. Inspectez-les : s’ils sont durcis, fendus, décollés ou écrasés, le remplacement est souvent plus pertinent qu’un nettoyage intensif. Un joint en bon état limite les déperditions de chaleur et les coulures vers l’extérieur."
+    },
+    {
+      "type": "proscons",
+      "title": "Pâte au bicarbonate ou nettoyant spécial four ?",
+      "pros": [
+        "La pâte au bicarbonate est peu odorante, économique et adaptée à l’entretien régulier des surfaces lisses.",
+        "Un nettoyant spécial four peut venir à bout de graisses très carbonisées que la méthode douce ne suffit plus à enlever.",
+        "Les deux options permettent un travail ciblé sur une zone précise, contrairement à un cycle automatique global."
+      ],
+      "cons": [
+        "Le bicarbonate demande généralement plus de temps de pose et plusieurs passages sur les dépôts anciens.",
+        "Les décapants puissants peuvent être irritants, laisser des résidus et sont incompatibles avec certains revêtements.",
+        "Aucune méthode ne dispense de lire les instructions de l’appareil et du produit utilisé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particuliers : catalyse, hydrolyse, pyrolyse et four très encrassé",
+      "id": "cas-particuliers-catalyse-hydrolyse-pyrolyse-et-four-tres-en"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les panneaux catalytiques ne doivent pas être traités comme de l’émail ordinaire. Leur surface poreuse se nettoie habituellement par une montée en température destinée à dégrader les projections grasses. Les éclaboussures sucrées ou salées, qui ne sont pas toujours éliminées par ce mécanisme, se retirent délicatement avec une éponge douce et de l’eau claire une fois le four froid. N’utilisez ni poudre à récurer, ni produit décapant, ni grosse quantité de détergent : vous risqueriez de saturer ou d’user la couche catalytique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour l’hydrolyse, versez la quantité d’eau indiquée dans le creux de la sole ou dans un plat, puis lancez le programme prévu. La vapeur ramollit les salissures, mais elle ne les fait pas disparaître : il faut essuyer sans tarder dès que l’appareil peut être manipulé sans danger. Cette fonction est excellente en prévention et après des cuissons un peu grasses, moins contre une couche noire installée depuis longtemps."
+    },
+    {
+      "type": "paragraph",
+      "html": "La pyrolyse porte la cavité à une température très élevée afin de réduire les résidus en cendres. Retirez impérativement les accessoires si la notice ne certifie pas qu’ils sont compatibles : grilles, rails télescopiques et plaques peuvent se décolorer, se voiler ou souffrir de cette chaleur. Aérez la pièce, éloignez les animaux sensibles aux fumées et ne lancez pas le cycle juste après avoir appliqué un produit chimique. Une fois le four totalement refroidi, ramassez les cendres avec un chiffon humide et nettoyez la vitre, les joints et les contours de porte manuellement."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Faut-il acheter un décapant très puissant ?",
+      "html": "Pas systématiquement. Pour un entretien régulier, quelques consommables simples suffisent : gants, microfibres, éponge non abrasive, liquide vaisselle dégraissant et bicarbonate. Un produit spécial four peut être un achat utile pour une salissure extrême, mais il n’est rentable que s’il est <strong>compatible avec votre revêtement</strong> et employé ponctuellement, avec les protections indiquées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui abîment un four ou compromettent la sécurité",
+      "id": "les-erreurs-qui-abiment-un-four-ou-compromettent-la-securite"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à utiliser la même recette pour tous les appareils. Les astuces virales ne précisent pas toujours la nature des parois ni les incompatibilités. Le nettoyage à l’ammoniaque, par exemple, expose à des vapeurs irritantes et n’est pas nécessaire dans un usage domestique courant. De même, les éponges métalliques, poudres abrasives et grattoirs à lame peuvent rayer l’émail et le verre, même s’ils semblent efficaces à court terme."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez également de recouvrir le fond du four de papier aluminium pour « protéger » la sole, sauf recommandation expresse du fabricant. Cela peut gêner la circulation de chaleur, retenir les débordements et, selon les modèles, endommager le revêtement. N’imbibez jamais les éléments électriques et n’utilisez pas de nettoyeur vapeur haute pression dans la cavité : l’humidité peut atteindre des composants qui ne sont pas conçus pour être mouillés."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À ne pas faire",
+      "items": [
+        "Lancer une pyrolyse avec des coulures importantes de produit ménager encore présentes.",
+        "Mettre systématiquement les grilles ou rails dans un cycle pyrolyse sans vérifier leur compatibilité.",
+        "Frotter les parois catalytiques avec du bicarbonate, du savon noir gras ou une éponge abrasive.",
+        "Verser de grandes quantités d’eau dans le fond du four ou dans les aérations.",
+        "Nettoyer un four encore chaud avec un produit chimique ou se pencher au-dessus d’une cavité fumante.",
+        "Négliger le rinçage après un produit commercial : les résidus peuvent contaminer les odeurs de cuisson."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "À quelle fréquence nettoyer son four et comment garder le résultat ?",
+      "id": "a-quelle-frequence-nettoyer-son-four-et-comment-garder-le-re"
+    },
+    {
+      "type": "paragraph",
+      "html": "La fréquence dépend davantage de votre usage que d’un calendrier fixe. Si vous rôtissez souvent, cuisinez des gratins ou faites des pizzas garnies, essuyez les projections dès que le four a refroidi après chaque cuisson salissante. Pour un usage familial régulier, un nettoyage des accessoires et de la porte toutes les quelques semaines, complété par un nettoyage de cavité environ une fois par mois, est un bon repère. Un four utilisé occasionnellement peut attendre davantage, à condition de ne pas laisser les coulures durcir."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur entretien préventif est très simple : utilisez un plat suffisamment profond, posez les aliments susceptibles de couler sur une plaque adaptée, et nettoyez immédiatement une éclaboussure fraîche une fois l’appareil froid. Pour les préparations très grasses, placez une plaque sous la grille afin de récupérer les jus. Cette habitude réduit la fumée, prolonge la durée de vie des surfaces et évite les opérations de décapage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand faut-il envisager une réparation ou une solution alternative ?",
+      "id": "quand-faut-il-envisager-une-reparation-ou-une-solution-alter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le nettoyage ne règle pas tout. Si le four fume alors que la cavité est réellement propre, si une odeur de plastique ou d’électricité persiste, si la porte ferme mal ou si le joint est abîmé, cessez l’utilisation et faites vérifier l’appareil. Une résistance encrassée ou défaillante, un joint fatigué, une vitre mal fixée ou une panne de ventilation exigent une intervention adaptée, pas davantage de produit nettoyant."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous ne pouvez pas frotter facilement, privilégiez un four doté d’une fonction hydrolyse ou pyrolyse lors d’un futur achat, mais gardez à l’esprit qu’aucune technologie ne dispense d’essuyer les débordements. Une protection de cuisson réutilisable compatible avec votre appareil, une plaque profonde et des plats à couvercle constituent aussi des alternatives simples pour limiter les projections dès l’origine."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le nettoyage du four",
+      "items": [
+        {
+          "q": "Peut-on nettoyer son four avec du bicarbonate et du vinaigre blanc ?",
+          "a": "Oui, mais de préférence <strong>l’un après l’autre</strong> plutôt que mélangés dans un même bol. La pâte de bicarbonate agit sur les graisses lorsqu’elle repose sur l’émail lisse. Le vinaigre, utilisé ensuite en petite quantité sur un chiffon, peut aider à retirer des traces résiduelles sur la vitre ou certaines surfaces. Vérifiez toujours que votre four n’a pas de parois catalytiques."
+        },
+        {
+          "q": "Comment enlever une graisse très brûlée au fond du four ?",
+          "a": "Commencez par ramollir la zone avec un chiffon chaud et humide ou un nettoyage vapeur. Appliquez ensuite une pâte de bicarbonate sur un four à émail lisse, laissez poser puis décollez par étapes avec une spatule en plastique. Si plusieurs tentatives douces échouent, utilisez un nettoyant spécial four compatible avec le revêtement, en respectant strictement son temps de pose et son rinçage."
+        },
+        {
+          "q": "Est-il possible de mettre les grilles au lave-vaisselle ?",
+          "a": "Cela dépend du matériau et de la finition. Certaines grilles supportent le lave-vaisselle, mais elles peuvent se ternir ou développer des traces. Les rails coulissants et télescopiques ne doivent généralement pas y être placés, car leur lubrification et leur mécanisme peuvent être endommagés. La notice de votre modèle reste la référence."
+        },
+        {
+          "q": "Pourquoi mon four sent-il mauvais après le nettoyage ?",
+          "a": "Une odeur après nettoyage provient souvent de résidus de produit, de graisse déplacée vers une zone cachée ou d’un four insuffisamment séché. Rincez de nouveau les surfaces accessibles avec un chiffon propre et humide, séchez-les, puis faites chauffer brièvement à température modérée en aérant. Si l’odeur est électrique, plastique ou persistante malgré un four propre, n’utilisez plus l’appareil avant contrôle."
+        },
+        {
+          "q": "Peut-on faire une pyrolyse avec les grilles à l’intérieur ?",
+          "a": "Uniquement si le fabricant l’autorise explicitement. Sur beaucoup de fours, les grilles, plaques et rails doivent être retirés avant le cycle, car la chaleur extrême peut les déformer, altérer leur finition ou endommager leurs mécanismes. Ne vous fiez pas à une règle générale : consultez la notice de votre appareil."
+        },
+        {
+          "q": "Comment nettoyer entre les deux vitres de la porte du four ?",
+          "a": "N’essayez pas de faire couler du produit entre les vitres. Certains modèles prévoient un démontage simple de la porte ou de la vitre intérieure ; d’autres non. Suivez pas à pas la notice, travaillez sur une surface protégée et photographiez les pièces avant démontage. Si la procédure n’est pas claire, mieux vaut confier l’opération à un professionnel plutôt que de compromettre la fermeture de la porte."
+        }
+      ]
+    }
+  ]
+}

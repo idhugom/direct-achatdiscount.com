@@ -1,0 +1,437 @@
+{
+  "title": "Freinage régénératif : usure disques‑plaquettes sur Tesla Model 3 après 100 000 km",
+  "slug": "freinage-regeneratif-tesla-model-3",
+  "path": "/divers/freinage-regeneratif-tesla-model-3.html",
+  "category": "auto-moto",
+  "tags": [
+    "tesla model 3",
+    "freinage régénératif",
+    "plaquettes de frein",
+    "disques de frein",
+    "entretien véhicule électrique",
+    "100 000 km"
+  ],
+  "excerpt": "Le freinage régénératif préserve souvent les plaquettes d’une Model 3, mais la corrosion et le grippage imposent un contrôle régulier.",
+  "metaDescription": "Après 100 000 km en Tesla Model 3, disques et plaquettes peuvent peu s’user. Voici quoi contrôler, entretenir et budgéter réellement.",
+  "seoTitle": "Tesla Model 3 : freins après 100 000 km",
+  "heroKicker": "Freiner autrement",
+  "readingTime": 12,
+  "date": "2025-05-16T15:57:45",
+  "image": {
+    "id": "3154",
+    "alt": "Freinage régénératif : usure disques‑plaquettes sur Tesla Model 3 après 100 000 km",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "À 100 000 km, une Tesla Model 3 peut encore avoir ses plaquettes d’origine et des disques très peu creusés. Ce constat n’est pourtant pas une dispense d’entretien : sur un véhicule électrique qui freine beaucoup à la régénération, le principal ennemi des freins mécaniques devient souvent la corrosion, le glaçage ou le grippage plutôt que l’usure par friction."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le freinage régénératif réduit fortement le recours aux plaquettes, surtout en circulation fluide et avec une conduite anticipative.",
+        "À 100 000 km, l’état des disques et plaquettes dépend davantage du climat, des trajets et de l’entretien des étriers que du kilométrage seul.",
+        "Des disques peu usés en épaisseur peuvent être dégradés par la rouille, des zones piquées ou une portée irrégulière des plaquettes.",
+        "Un contrôle visuel ne suffit pas toujours : il faut vérifier l’épaisseur, l’usure intérieure et extérieure, le coulissement des étriers et l’état du liquide de frein.",
+        "En région humide, montagneuse ou salée l’hiver, faire entretenir les freins mécaniques préventivement est particulièrement rentable."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Après 100 000 km : faut-il s’attendre à changer les freins d’une Model 3 ?",
+      "id": "apres-100-000-km-faut-il-s-attendre-a-changer-les-freins-d-u"
+    },
+    {
+      "type": "paragraph",
+      "html": "<strong>Pas nécessairement.</strong> Dans des conditions favorables, il est courant que les plaquettes et les disques d’une Model 3 restent exploitables après 100 000 km. La récupération d’énergie au lever de pied ralentit l’auto sans contact entre plaquettes et disques ; c’est autant de freinage mécanique évité au quotidien. En ville, sur route périurbaine fluide et sur les trajets où vous anticipez, ce gain peut être considérable."
+    },
+    {
+      "type": "paragraph",
+      "html": "Mais il serait imprudent de conclure qu’une Model 3 n’use pas ses freins. Les freins à friction interviennent lors des freinages appuyés, des arrêts finaux, des manœuvres à très basse vitesse et lorsque la régénération est réduite. Celle-ci est notamment moins disponible avec une batterie froide ou très chargée, selon la version du véhicule, la température et les réglages disponibles. Une descente longue avec batterie proche de sa limite de charge peut également solliciter davantage les freins classiques."
+    },
+    {
+      "type": "paragraph",
+      "html": "Surtout, une faible utilisation change la nature du risque. Sur une voiture thermique, les passages fréquents sur les disques éliminent une part de l’oxydation et maintiennent les pièces mobiles actives. Sur une électrique utilisée majoritairement en conduite à une pédale, les disques peuvent rouiller en surface, les plaquettes peuvent se déplacer moins librement dans leur support et les colonnettes d’étrier peuvent finir par se raidir. Des freins <em>peu usés</em> ne sont donc pas automatiquement des freins <em>en bon état</em>."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "100 000 km",
+          "label": "un cap où l’inspection complète des freins est plus utile que le remplacement systématique"
+        },
+        {
+          "value": "12 mois",
+          "label": "un rythme pertinent pour nettoyer et contrôler les freins en conditions humides ou salées"
+        },
+        {
+          "value": "4 ans",
+          "label": "un repère d’entretien fréquemment retenu pour faire contrôler le liquide de frein selon les préconisations du véhicule"
+        },
+        {
+          "value": "4 roues",
+          "label": "à inspecter : l’usure peut être très différente d’un essieu ou d’un côté à l’autre"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi le freinage régénératif préserve les plaquettes",
+      "id": "pourquoi-le-freinage-regeneratif-preserve-les-plaquettes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Au relâchement de l’accélérateur, le moteur électrique fonctionne comme générateur : il ralentit les roues et renvoie une partie de l’énergie cinétique vers la batterie. C’est le principe de la régénération. Sur une Model 3, son effet est suffisamment marqué pour couvrir une grande part des ralentissements habituels, particulièrement lorsque vous dosez votre allure à l’avance."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce mécanisme n’est toutefois pas une création d’énergie : il en récupère seulement une fraction, et son efficacité dépend de la capacité de la batterie à accepter la recharge à cet instant. Une batterie froide, un niveau de charge élevé ou une adhérence limitée peuvent conduire le véhicule à réduire la récupération. Vous le ressentez alors par un frein moteur moins prononcé. Il faut adapter votre anticipation, et non compter sur un niveau de décélération constant quelles que soient les conditions."
+    },
+    {
+      "type": "comparison",
+      "title": "Régénération et freinage mécanique : des rôles complémentaires",
+      "left": {
+        "title": "Freinage régénératif",
+        "points": [
+          "Ralentit surtout au lever de pied et récupère une partie de l’énergie.",
+          "Réduit l’usure des plaquettes et des disques.",
+          "Son intensité peut être limitée par le froid, l’état de charge ou les conditions d’adhérence.",
+          "Ne remplace pas la capacité de freinage d’urgence."
+        ]
+      },
+      "right": {
+        "title": "Freinage à friction",
+        "points": [
+          "Utilise plaquettes, disques, étriers et circuit hydraulique.",
+          "Assure les freinages puissants, précis et répétés lorsque nécessaire.",
+          "Produit de l’usure, de la chaleur et des poussières.",
+          "Doit rester mobile et sain malgré une utilisation parfois rare."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les facteurs qui font varier l’usure réelle à 100 000 km",
+      "id": "les-facteurs-qui-font-varier-l-usure-reelle-a-100-000-km"
+    },
+    {
+      "type": "paragraph",
+      "html": "Deux Model 3 affichant le même kilométrage peuvent présenter des freins dans des états opposés. Le profil d’utilisation compte plus que le chiffre au compteur. Une voiture qui circule surtout dans une grande agglomération fluide, sans sel sur la chaussée et avec un conducteur souple, peut conserver un ensemble d’origine en très bon état. À l’inverse, une auto garée dehors près du littoral, utilisée pour de courts trajets et exposée aux routes salées peut nécessiter une remise en état bien avant, même si les garnitures sont épaisses."
+    },
+    {
+      "type": "table",
+      "caption": "Ce qui influence le plus l’état des freins mécaniques d’une Tesla Model 3",
+      "headers": [
+        "Facteur",
+        "Effet probable sur les plaquettes",
+        "Risque pour les disques et étriers",
+        "Réflexe utile"
+      ],
+      "rows": [
+        [
+          "Conduite anticipative, circulation fluide",
+          "Usure très faible",
+          "Peu de chauffe ; vigilance sur l’oxydation",
+          "Utiliser les freins progressivement de temps en temps"
+        ],
+        [
+          "Ville dense, freinages tardifs et appuyés",
+          "Usure accrue",
+          "Échauffement et dépôts possibles",
+          "Augmenter les distances de sécurité"
+        ],
+        [
+          "Autoroute et longs trajets stables",
+          "Plaquettes souvent préservées",
+          "Rouille possible si les freins servent rarement",
+          "Contrôler visuellement à chaque permutation de roues"
+        ],
+        [
+          "Routes de montagne",
+          "Usure variable selon charge et descente",
+          "Sollicitation thermique plus forte dans les longues descentes",
+          "Partir avec une marge de batterie et freiner par séquences modérées"
+        ],
+        [
+          "Humidité, littoral, routes salées",
+          "Usure parfois faible",
+          "Corrosion, plaquettes collées, colonnettes grippées",
+          "Nettoyage et lubrification préventifs"
+        ],
+        [
+          "Stationnement extérieur prolongé",
+          "Peu d’effet direct",
+          "Voile de rouille, marquage de plaquette possible",
+          "Faire rouler l’auto et contrôler tout bruit persistant"
+        ]
+      ],
+      "note": "Le diagnostic se fait sur l’état réel des pièces, jamais sur le kilométrage seul."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce qu’il faut inspecter concrètement, au-delà de l’épaisseur des plaquettes",
+      "id": "ce-qu-il-faut-inspecter-concretement-au-dela-de-l-epaisseur-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une inspection sérieuse demande idéalement de déposer les roues. À travers une jante, vous pouvez parfois voir la plaquette extérieure, mais pas correctement la plaquette intérieure ni le coulissement de l’étrier. Or une plaquette intérieure peut s’user beaucoup plus vite si l’étrier ou ses éléments de guidage ne reviennent pas librement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Plaquettes : une usure régulière est aussi importante que l’épaisseur",
+      "id": "plaquettes-une-usure-reguliere-est-aussi-importante-que-l-ep"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le professionnel doit mesurer ou estimer la garniture restante sur les deux plaquettes de chaque roue. Une épaisseur résiduelle confortable est rassurante, mais il faut aussi rechercher une usure en biseau, une différence nette entre intérieur et extérieur, une garniture vitrifiée ou décollée et des traces de chauffe. Un remplacement se raisonne par essieu : on ne change jamais une seule plaquette isolée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Disques : attention à la fausse bonne nouvelle du disque “comme neuf”",
+      "id": "disques-attention-a-la-fausse-bonne-nouvelle-du-disque-comme"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un disque peu creusé peut sembler excellent. Pourtant, des piqûres de corrosion, une bande de roulement incomplète, une lèvre marquée, des zones bleutées ou un aspect très irrégulier méritent un examen. Une corrosion superficielle disparaît souvent après quelques freinages modérés. Si elle reste visible, si la pédale vibre, si le volant tremble au freinage ou si le freinage est bruyant, il faut faire contrôler l’état de surface, l’épaisseur et le faux-rond."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Étriers, supports et liquide hydraulique : les oubliés de l’électrique",
+      "id": "etriers-supports-et-liquide-hydraulique-les-oublies-de-l-ele"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les plaquettes doivent coulisser librement dans leur support ; les axes de guidage de l’étrier doivent conserver leur mobilité ; les soufflets doivent être étanches. C’est un point clé sur une voiture où les freins travaillent peu. Le circuit hydraulique mérite aussi son contrôle prévu par le programme d’entretien : le liquide de frein est hygroscopique, c’est-à-dire qu’il peut absorber de l’humidité avec le temps. Son état concerne la fiabilité du freinage, pas l’usure des plaquettes."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne vous fiez pas à l’absence de bruit",
+      "html": "Un frein grippé peut rester discret au début. Une odeur après roulage, une jante anormalement chaude, un véhicule qui tire d’un côté, une consommation en hausse ou une usure dissymétrique sont des signaux à faire vérifier sans attendre. Ne pulvérisez jamais de lubrifiant sur un disque ou une garniture."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les symptômes à surveiller avant et après le cap des 100 000 km",
+      "id": "les-symptomes-a-surveiller-avant-et-apres-le-cap-des-100-000"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le conducteur peut détecter plusieurs anomalies sans démonter quoi que ce soit. Un léger crissement après pluie ou lavage, qui disparaît dès les premiers freinages, correspond souvent à la pellicule de rouille normale sur les disques. En revanche, un bruit métallique, un grondement constant, des vibrations reproductibles, une pédale au comportement anormal ou un freinage moins équilibré ne sont pas à banaliser."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Votre contrôle simple sur route, en toute sécurité",
+      "items": [
+        "Après une période humide ou un lavage, réalisez quelques freinages progressifs dans un endroit dégagé et autorisé pour nettoyer la surface des disques.",
+        "Observez si le véhicule freine droit, sans vibration dans le volant ni pulsation inhabituelle dans la pédale.",
+        "Après un trajet normal, sans conduite sportive, comparez prudemment la chaleur des jantes sans toucher les éléments de freinage : une roue beaucoup plus chaude peut signaler un frottement anormal.",
+        "Surveillez les alertes au tableau de bord et faites contrôler immédiatement tout message relatif au système de freinage.",
+        "Au changement de pneus ou lors de la révision, demandez explicitement un relevé de l’épaisseur des plaquettes, de l’état des disques et de la mobilité des étriers."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez le test consistant à effectuer un freinage d’urgence “pour décrasser”. Il est inutilement risqué et peut échauffer brutalement des pièces froides ou déjà oxydées. Un nettoyage par plusieurs freinages modérés, espacés et réalisés dans de bonnes conditions est plus pertinent. Si le défaut persiste, le bon geste est l’atelier, pas la répétition du test."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretien préventif : la meilleure assurance contre le grippage",
+      "id": "entretien-preventif-la-meilleure-assurance-contre-le-grippag"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une Model 3 utilisée dans un environnement sec et tempéré, une inspection lors de chaque intervention sur les roues constitue une bonne base. Dans les zones où les routes sont salées, très humides ou proches du littoral, il est judicieux de demander un entretien préventif annuel des freins : démontage, nettoyage des portées, vérification des soufflets et du libre coulissement, puis lubrification avec les produits compatibles aux endroits prévus. Les recommandations du constructeur de votre version restent la référence, car elles peuvent évoluer selon le millésime et le marché."
+    },
+    {
+      "type": "steps",
+      "title": "Une routine d’entretien cohérente jusqu’à et après 100 000 km",
+      "items": [
+        {
+          "title": "1. Consultez le programme d’entretien de votre véhicule",
+          "text": "Vérifiez les préconisations affichées dans la documentation de votre Model 3, notamment pour le contrôle du liquide de frein et l’entretien des étriers en climat salé."
+        },
+        {
+          "title": "2. Profitez des changements de roues",
+          "text": "À chaque permutation saisonnière ou remplacement de pneus, faites inspecter les plaquettes intérieures et extérieures ainsi que les deux faces des disques."
+        },
+        {
+          "title": "3. Demandez un diagnostic écrit",
+          "text": "Faites noter l’épaisseur estimée des garnitures, l’état des disques et toute observation sur les étriers. Cela permet de suivre une évolution plutôt que de remplacer à l’aveugle."
+        },
+        {
+          "title": "4. Faites traiter les débuts de corrosion ou de grippage",
+          "text": "Une remise en mobilité précoce coûte généralement moins cher qu’un remplacement complet de disques, plaquettes et éléments d’étrier dégradés."
+        },
+        {
+          "title": "5. Contrôlez après une immobilisation longue",
+          "text": "Après plusieurs semaines sans rouler, écoutez les premiers freinages et n’ignorez pas un bruit ou une vibration qui ne disparaît pas rapidement."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir si une intervention devient nécessaire ?",
+      "id": "quel-budget-prevoir-si-une-intervention-devient-necessaire"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le budget dépend du choix des pièces, du type d’atelier, de la région et de l’ampleur de l’intervention. Il faut distinguer un contrôle, un entretien préventif des étriers et le remplacement des consommables. Une opération de nettoyage et de lubrification peut éviter que le poste le plus cher — le remplacement des disques et plaquettes — devienne nécessaire prématurément."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur à envisager pour les freins d’une Model 3",
+      "headers": [
+        "Intervention",
+        "Budget généralement constaté à prévoir",
+        "Ce qui fait varier la facture"
+      ],
+      "rows": [
+        [
+          "Inspection freinage avec roues déposées",
+          "Quelques dizaines d’euros à un peu plus d’une centaine d’euros",
+          "Temps de main-d’œuvre, intégration ou non à une prestation pneus"
+        ],
+        [
+          "Nettoyage, contrôle et lubrification préventive d’un essieu",
+          "Environ une centaine d’euros à quelques centaines d’euros",
+          "Niveau de corrosion, démontage nécessaire, pièces annexes"
+        ],
+        [
+          "Remplacement des plaquettes sur un essieu",
+          "Quelques centaines d’euros en ordre de grandeur",
+          "Qualité des pièces, capteurs ou accessoires à remplacer, tarif atelier"
+        ],
+        [
+          "Remplacement disques et plaquettes sur un essieu",
+          "Plusieurs centaines d’euros ; davantage si d’autres éléments sont touchés",
+          "Type de pièces, corrosion des fixations, état des étriers, réseau choisi"
+        ],
+        [
+          "Réparation ou remplacement d’un étrier grippé",
+          "Budget très variable, potentiellement élevé",
+          "Étrier récupérable ou non, disponibilité des pièces, dégâts sur disque et plaquettes"
+        ]
+      ],
+      "note": "Demandez un devis détaillant pièces, main-d’œuvre et cause de l’intervention. Un disque rouillé ne doit pas être remplacé sans vérifier si la corrosion est superficielle ou structurelle."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "L’économie utile : prévenir plutôt que remplacer trop tard",
+      "html": "Si vos plaquettes sont encore épaisses, ne les remplacez pas “par âge”. En revanche, refusez aussi l’idée qu’elles ne demandent aucun suivi. Un entretien périodique des éléments mobiles est souvent l’arbitrage le plus rationnel dans les régions agressives pour les freins."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faut-il freiner volontairement avec la pédale pour entretenir les disques ?",
+      "id": "faut-il-freiner-volontairement-avec-la-pedale-pour-entreteni"
+    },
+    {
+      "type": "paragraph",
+      "html": "Oui, avec mesure. La conduite à une pédale reste l’un des intérêts majeurs d’une électrique, et il n’est pas souhaitable de renoncer à la régénération pour user artificiellement les plaquettes. En revanche, intégrer ponctuellement quelques freinages mécaniques progressifs peut aider à garder une surface de disque propre, surtout après la pluie, un lavage, une longue période d’autoroute ou une immobilisation."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon moment est un trajet courant, à allure raisonnable, sur une route dégagée où vous conservez une grande marge de sécurité. L’objectif n’est pas de transformer la voiture en véhicule de circuit : il s’agit simplement de solliciter les freins de façon contrôlée. Si une alerte, une vibration ou un bruit persistant apparaît, cessez les essais et faites diagnostiquer le véhicule."
+    },
+    {
+      "type": "proscons",
+      "title": "Conduite majoritairement à une pédale : bilan pour les freins",
+      "pros": [
+        "Réduit habituellement l’usure des garnitures et la production de poussière de frein.",
+        "Améliore l’anticipation et peut récupérer une partie de l’énergie au ralentissement.",
+        "Limite les échauffements lors des trajets ordinaires.",
+        "Peut reporter de façon notable le remplacement des consommables mécaniques."
+      ],
+      "cons": [
+        "Les disques et plaquettes peuvent rouiller ou se gripper faute d’être assez sollicités.",
+        "Le comportement régénératif varie selon la charge de batterie et la température ; il faut rester attentif.",
+        "Une faible usure apparente peut masquer une mauvaise mobilité d’étrier.",
+        "Les pièces de freinage restent des organes de sécurité à contrôler régulièrement."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs à éviter sur une Tesla Model 3 à fort kilométrage",
+      "id": "les-erreurs-a-eviter-sur-une-tesla-model-3-a-fort-kilometrag"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à commander un kit de disques et plaquettes au seul motif que 100 000 km sont atteints. Cette approche peut gaspiller des pièces encore saines. L’erreur inverse est de ne jamais faire déposer les roues au prétexte que la régénération préserve les freins. L’inspection conditionnelle, documentée et adaptée au climat est la meilleure stratégie."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À ne pas faire",
+      "items": [
+        "Attendre le témoin d’usure ou le bruit métallique pour penser à l’entretien des freins.",
+        "Comparer uniquement la plaquette visible côté extérieur sans contrôler la plaquette intérieure.",
+        "Nettoyer les disques avec des produits gras, des huiles pénétrantes ou une graisse non adaptée.",
+        "Faire des freinages violents répétés pour tenter de supprimer une corrosion importante ou une vibration.",
+        "Monter des pièces incompatibles ou de qualité incertaine sur un organe de sécurité.",
+        "Négliger le liquide de frein parce que la voiture est électrique."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le bon diagnostic à 100 000 km : conserver, entretenir ou remplacer ?",
+      "id": "le-bon-diagnostic-a-100-000-km-conserver-entretenir-ou-rempl"
+    },
+    {
+      "type": "paragraph",
+      "html": "À ce kilométrage, trois décisions peuvent être justes. Si les plaquettes sont épaisses et régulières, les disques propres, au-dessus de leur cote minimale et les étriers libres, <strong>conservez les pièces</strong> et planifiez le prochain contrôle. Si les garnitures sont bonnes mais que les portées sont corrodées ou les coulisseaux paresseux, <strong>faites entretenir les freins</strong> sans attendre l’usure. Enfin, si la garniture est proche de sa limite, si le disque est piqué, trop mince, fortement irrégulier ou si des vibrations persistent après diagnostic, <strong>remplacez les éléments nécessaires par essieu</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le meilleur indicateur n’est donc pas la promesse théorique du freinage régénératif, ni un témoignage isolé de très fort kilométrage. C’est le rapport d’inspection de votre véhicule, complété par vos conditions d’usage. Avec cette logique, la Model 3 peut effectivement offrir une très bonne longévité de plaquettes et de disques, sans sacrifier la sécurité."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les freins de Tesla Model 3 après 100 000 km",
+      "items": [
+        {
+          "q": "Les plaquettes d’origine d’une Tesla Model 3 peuvent-elles durer plus de 100 000 km ?",
+          "a": "Oui, c’est possible lorsque la régénération couvre la majorité des ralentissements et que la conduite est souple. Ce n’est toutefois pas une durée garantie : ville dense, relief, charge du véhicule, style de conduite, météo et état des étriers font varier fortement le résultat."
+        },
+        {
+          "q": "Pourquoi des disques peuvent-ils rouiller alors que les plaquettes sont presque neuves ?",
+          "a": "Parce que les plaquettes frottent peu sur les disques quand le véhicule ralentit surtout par régénération. L’humidité, le sel et les immobilisations favorisent alors l’oxydation. Une légère rouille de surface est normale ; des piqûres, une portée irrégulière ou des vibrations justifient un contrôle."
+        },
+        {
+          "q": "Dois-je remplacer les disques en même temps que les plaquettes ?",
+          "a": "Pas automatiquement. Les disques doivent être évalués selon leur épaisseur minimale autorisée, leur surface, leur planéité et leur état de corrosion. Si les disques sont sains, il peut être possible de remplacer uniquement les plaquettes ; si les disques sont dégradés, on remplace généralement l’ensemble sur le même essieu."
+        },
+        {
+          "q": "À quelle fréquence faire contrôler les freins de ma Model 3 ?",
+          "a": "Une vérification à chaque changement de pneus est une excellente base, avec une attention renforcée au moins annuelle en zone humide, littorale ou soumise au salage hivernal. Suivez aussi le programme d’entretien propre à votre version, notamment pour le liquide de frein."
+        },
+        {
+          "q": "Est-il mauvais d’utiliser presque exclusivement la conduite à une pédale ?",
+          "a": "Non : c’est précisément l’intérêt du freinage régénératif. Il faut simplement compenser la faible sollicitation des freins mécaniques par des contrôles réguliers et, après humidité ou immobilisation, quelques freinages doux et progressifs lorsque les conditions le permettent."
+        },
+        {
+          "q": "Une vibration au freinage après une longue immobilisation va-t-elle disparaître seule ?",
+          "a": "Une sensation légère liée à une fine couche de rouille peut s’atténuer après quelques freinages modérés. Si la vibration persiste, s’accentue ou s’accompagne de bruit, de tirage ou d’une pédale anormale, faites inspecter rapidement disques, plaquettes et étriers."
+        }
+      ]
+    }
+  ]
+}
