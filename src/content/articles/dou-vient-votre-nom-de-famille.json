@@ -1,0 +1,453 @@
+{
+  "title": "D’où vient votre nom de famille ?",
+  "slug": "dou-vient-votre-nom-de-famille",
+  "path": "/divers/dou-vient-votre-nom-de-famille.html",
+  "category": "famille",
+  "tags": [
+    "nom de famille",
+    "généalogie",
+    "origines familiales",
+    "archives",
+    "étymologie",
+    "état civil"
+  ],
+  "excerpt": "Sens, région d’origine, orthographes et archives : apprenez à enquêter sérieusement sur l’histoire de votre nom de famille.",
+  "metaDescription": "Découvrez l’origine de votre nom de famille : sens, régions, archives et méthode fiable pour remonter sa piste sans conclusions hâtives.",
+  "seoTitle": "Origine du nom de famille : méthode et pièges à éviter",
+  "heroKicker": "Sur la piste",
+  "readingTime": 12,
+  "date": "2024-08-01T08:46:19",
+  "image": {
+    "id": "2196",
+    "alt": "D’où vient votre nom de famille ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Votre nom de famille semble raconter une histoire : un métier, un village, un ancêtre surnommé ou une lignée venue d’ailleurs. Mais son sens apparent ne suffit pas à établir vos origines. Pour comprendre d’où vient réellement votre patronyme, il faut distinguer l’étymologie du mot, son berceau géographique et le parcours documenté de votre propre famille."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un même nom peut avoir plusieurs origines indépendantes : porter le même patronyme ne prouve pas une parenté.",
+        "La forme actuelle d’un nom est souvent récente : accents, lettres, particules et finales ont pu varier au fil des actes.",
+        "Les archives d’état civil et paroissiales sont plus fiables qu’une interprétation trouvée sur un site de noms.",
+        "Le bon point de départ est toujours le dernier acte connu de votre famille, puis une remontée génération par génération.",
+        "Un test ADN peut compléter une enquête généalogique, mais ne révèle pas à lui seul l’origine exacte d’un nom de famille."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que révèle — et ne révèle pas — un nom de famille",
+      "id": "ce-que-revele-et-ne-revele-pas-un-nom-de-famille"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un nom de famille, aussi appelé <strong>patronyme</strong>, est devenu un signe d’identification transmis au sein d’une famille. En France comme dans une grande partie de l’Europe, ces noms se sont progressivement stabilisés lorsque les communautés ont eu besoin de distinguer plusieurs personnes portant le même prénom. Leur fixation a été lente, inégale selon les régions et souvent soumise à la manière dont le curé, le notaire ou l’officier d’état civil écrivait ce qu’il entendait."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut donc éviter un raccourci fréquent : <em>« Mon nom signifie X, donc mes ancêtres étaient X »</em>. Un nom peut désigner un ancien métier sans que votre branche directe l’ait exercé depuis des siècles ; il peut aussi avoir été attribué à un seul individu avant d’être transmis. À l’inverse, un nom qui paraît très local peut aujourd’hui être porté partout à la suite des migrations, des mariages, des déplacements professionnels ou des changements de frontières."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La règle d’or de l’enquête",
+      "html": "L’étymologie vous donne une <strong>hypothèse</strong>. Les actes datés — naissance, mariage, décès, recensement, contrat notarié — apportent une <strong>preuve</strong>. Ne confondez jamais les deux."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les grandes origines possibles des patronymes",
+      "id": "les-grandes-origines-possibles-des-patronymes"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des noms de famille européens entrent dans quelques grandes catégories. Cette grille de lecture est utile pour formuler une première piste, mais elle ne remplace pas la consultation des documents familiaux. Certains noms ont même changé de catégorie apparente au fil des traductions, francisations ou déformations graphiques."
+    },
+    {
+      "type": "table",
+      "caption": "Les principaux types de noms de famille et les indices à rechercher",
+      "headers": [
+        "Type d’origine",
+        "Ce que le nom peut désigner",
+        "Indices utiles dans votre recherche",
+        "Prudence à garder"
+      ],
+      "rows": [
+        [
+          "Patronymique ou matronymique",
+          "Le prénom d’un père, d’un aïeul ou, plus rarement, d’une mère.",
+          "Préfixes, suffixes régionaux, présence répétée d’un même prénom dans les générations anciennes.",
+          "Deux familles portant un nom issu du même prénom peuvent être sans aucun lien."
+        ],
+        [
+          "Métier ou fonction",
+          "Une activité artisanale, agricole, militaire, religieuse ou administrative.",
+          "Registres professionnels, actes notariés, mentions de profession dans les mariages.",
+          "Le métier peut être celui d’un ancêtre surnommé ainsi, pas une vocation familiale durable."
+        ],
+        [
+          "Toponymique",
+          "Un lieu-dit, une commune, un relief, un cours d’eau, une maison ou un domaine.",
+          "Concentration ancienne du nom dans une zone et lieux portant une forme voisine.",
+          "Le nom peut décrire un lieu banal, présent dans de nombreuses régions."
+        ],
+        [
+          "Surnom descriptif",
+          "Un trait physique, moral, une tenue, un âge, une situation ou une particularité.",
+          "Comparaison avec le vocabulaire ancien, les dialectes et la langue régionale.",
+          "Le sens moderne d’un mot est parfois très éloigné de son sens d’origine."
+        ],
+        [
+          "Origine géographique ou ethnique",
+          "La provenance réelle ou supposée d’un individu arrivé dans un village.",
+          "Premières apparitions du nom dans les registres, mouvements migratoires locaux.",
+          "Un surnom de provenance n’établit pas une nationalité ni une ascendance contemporaine."
+        ],
+        [
+          "Nom composé, particule ou ajout",
+          "Une alliance, un lieu, une adoption, une reconnaissance ou une évolution administrative.",
+          "Actes de mariage, jugements, mentions marginales et dossiers de changement de nom.",
+          "Une particule ou un double nom ne constitue pas une preuve de noblesse."
+        ]
+      ],
+      "note": "Un patronyme peut relever de plusieurs pistes à la fois. Un nom de lieu peut, par exemple, avoir commencé comme surnom attribué à un nouvel arrivant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Étymologie, berceau du nom et ascendance : trois questions différentes",
+      "id": "etymologie-berceau-du-nom-et-ascendance-trois-questions-diff"
+    },
+    {
+      "type": "paragraph",
+      "html": "Lorsque vous tapez votre nom dans un moteur de recherche, les résultats mélangent souvent trois informations : son <strong>sens linguistique</strong>, sa <strong>répartition géographique</strong> et des arbres généalogiques publiés par des particuliers. Or ces trois éléments ne répondent pas à la même question. Pour éviter les conclusions fragiles, traitez-les séparément."
+    },
+    {
+      "type": "comparison",
+      "title": "Ce que chaque approche peut réellement vous apprendre",
+      "left": {
+        "title": "L’étymologie du nom",
+        "points": [
+          "Cherche le sens probable des mots, racines, suffixes ou formes dialectales.",
+          "Aide à comprendre si le nom évoque un métier, un lieu, un prénom ou un surnom.",
+          "Travaille sur le nom en général, pas sur votre lignée précise.",
+          "Reste parfois incertaine, surtout pour les graphies anciennes ou très courantes."
+        ]
+      },
+      "right": {
+        "title": "La généalogie de votre famille",
+        "points": [
+          "Identifie vos ascendants grâce à une chaîne d’actes vérifiés.",
+          "Permet de localiser une branche à une époque donnée et de suivre ses déplacements.",
+          "Peut montrer quand une orthographe apparaît, disparaît ou se transforme.",
+          "Ne garantit pas toujours de remonter jusqu’au moment où le nom a été créé."
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "html": "Le <strong>berceau géographique</strong> est une troisième notion : il correspond à la zone où le patronyme est anciennement ou fortement implanté. C’est un indice précieux pour orienter les archives, surtout lorsqu’un nom est rare. Mais un berceau du nom n’est pas forcément le berceau de votre branche : vos ancêtres peuvent avoir quitté cette zone très tôt, ou appartenir à une autre souche portant le même nom."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "4 grandes pistes",
+          "label": "prénom d’ancêtre, métier, lieu ou surnom expliquent une grande part des patronymes."
+        },
+        {
+          "value": "1 acte après l’autre",
+          "label": "la remontée fiable repose sur une filiation documentée à chaque génération."
+        },
+        {
+          "value": "Plusieurs graphies",
+          "label": "une même famille peut apparaître sous des orthographes différentes dans les archives anciennes."
+        },
+        {
+          "value": "2 sources à croiser",
+          "label": "un acte d’état civil gagne à être recoupé avec une autre archive quand un point est incertain."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode fiable pour retrouver l’histoire de votre propre nom",
+      "id": "la-methode-fiable-pour-retrouver-l-histoire-de-votre-propre-"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’enquête ne commence pas au Moyen Âge ni dans une base de données mondiale. Elle commence chez vous, avec les documents les plus récents et les plus sûrs. Votre objectif initial est simple : établir une filiation continue entre vous et vos ascendants, puis repérer le premier lieu où votre branche portant le nom est solidement attestée."
+    },
+    {
+      "type": "steps",
+      "title": "Remontez votre lignée sans brûler les étapes",
+      "items": [
+        {
+          "title": "1. Rassemblez ce qui est déjà certain",
+          "text": "Notez les noms complets, noms de naissance, dates approximatives, communes et liens de parenté connus. Conservez les livrets de famille, actes, photos annotées, faire-part et correspondances, en indiquant leur provenance."
+        },
+        {
+          "title": "2. Obtenez les actes récents autorisés",
+          "text": "Demandez ou consultez les actes de naissance, mariage et décès selon les règles d’accès applicables. L’acte de mariage est particulièrement riche : il mentionne généralement les parents, les lieux d’origine et parfois les professions."
+        },
+        {
+          "title": "3. Passez de génération en génération",
+          "text": "Pour chaque ancêtre, vérifiez au minimum un acte qui prouve le lien avec la génération précédente. Ne raccordez jamais un individu à un arbre en ligne simplement parce que le nom et la commune coïncident."
+        },
+        {
+          "title": "4. Cherchez les variantes du patronyme",
+          "text": "Testez les écritures phonétiques, les lettres doublées ou absentes, les accents, les formes francisées et les inversions éventuelles. Lisez l’image de l’acte : les index automatiques comportent des erreurs."
+        },
+        {
+          "title": "5. Basculez vers les archives anciennes",
+          "text": "Lorsque l’état civil ne suffit plus, consultez les registres paroissiaux, recensements, tables décennales, registres militaires, cadastres, minutes notariales et archives locales."
+        },
+        {
+          "title": "6. Cartographiez vos découvertes",
+          "text": "Créez une frise ou un tableau avec la date, le lieu, la graphie du nom, la source et le degré de certitude. Vous verrez plus facilement les migrations, les homonymes et les ruptures de piste."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Commencez par le mariage",
+      "html": "Si vous ne savez pas où chercher, l’acte de mariage d’un grand-parent ou d’un arrière-grand-parent est souvent le document le plus rentable : il relie deux familles, indique les parents et fournit des communes de départ concrètes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Où chercher : archives, outils en ligne et sources familiales",
+      "id": "ou-chercher-archives-outils-en-ligne-et-sources-familiales"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les archives départementales constituent généralement le socle d’une recherche en France. Une grande partie des registres anciens et de l’état civil numérisé est consultable en ligne, mais la couverture, l’indexation et les délais d’accès diffèrent selon les territoires. Pour les personnes ayant vécu à l’étranger, dans des anciennes colonies, dans des zones frontalières ou dans des territoires ayant changé d’administration, il faut aussi explorer les fonds nationaux, diplomatiques, militaires ou locaux adaptés."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les sources à privilégier, dans cet ordre pratique",
+      "items": [
+        "Les documents familiaux originaux : livrets, actes, lettres, carnets, inscriptions au dos des photographies.",
+        "Les actes de naissance, mariage et décès, ainsi que leurs tables de recherche.",
+        "Les registres paroissiaux pour les périodes antérieures ou complémentaires à l’état civil.",
+        "Les recensements, listes électorales et registres matricules militaires pour situer une personne entre deux actes.",
+        "Les contrats de mariage, successions et actes notariés, très utiles pour confirmer les liens familiaux et les biens.",
+        "Les cimetières, presse locale, annuaires et monographies communales, à utiliser comme pistes à recouper."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Les sites d’arbres généalogiques collaboratifs peuvent accélérer vos recherches, notamment pour repérer une commune ou une cote d’archive. Considérez-les toutefois comme des <strong>index de travail</strong>, non comme une autorité. Une erreur copiée dans un arbre peut se propager très vite : naissance attribuée à un homonyme, parenté impossible au regard des dates, fusion abusive de deux villages portant le même nom."
+    },
+    {
+      "type": "proscons",
+      "title": "Les arbres généalogiques publiés en ligne : utiles, mais à contrôler",
+      "pros": [
+        "Ils peuvent révéler des actes, des variantes orthographiques et des cousins chercheurs.",
+        "Ils aident à repérer une zone d’implantation ou des pistes migratoires.",
+        "Ils font parfois gagner du temps sur des branches déjà bien sourcées."
+      ],
+      "cons": [
+        "Les filiations peuvent être recopiées sans vérification des documents originaux.",
+        "Un même nom dans une même commune ne suffit pas à identifier la bonne personne.",
+        "Les sources sont parfois absentes, imprécises ou confondues avec des index.",
+        "Les informations sur les personnes récentes peuvent soulever des enjeux de confidentialité."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre les variantes d’orthographe et les changements de nom",
+      "id": "comprendre-les-variantes-d-orthographe-et-les-changements-de"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant la généralisation d’une écriture administrative stable, l’orthographe d’un patronyme n’était pas toujours fixée. Un officier pouvait écrire selon la prononciation locale ; une personne pouvait elle-même signer différemment selon l’époque ; une famille migrante pouvait adapter son nom à la langue du lieu d’arrivée. Une différence d’accent, de terminaison ou de consonne n’indique donc pas automatiquement une branche distincte."
+    },
+    {
+      "type": "paragraph",
+      "html": "En revanche, il faut documenter toute variation. Notez précisément la forme utilisée dans chaque acte, sans « corriger » trop tôt vers la graphie actuelle. Si un changement devient soudain et durable, cherchez une explication : mariage, reconnaissance, adoption, naturalisation, décision judiciaire, choix administratif, erreur reproduite ou francisation. Les mentions marginales sur les actes et les dossiers administratifs peuvent éclairer ces transformations."
+    },
+    {
+      "type": "table",
+      "caption": "Variantes fréquentes : comment les traiter dans vos recherches",
+      "headers": [
+        "Situation rencontrée",
+        "Réflexe utile",
+        "Erreur à éviter"
+      ],
+      "rows": [
+        [
+          "Accent ou apostrophe absents",
+          "Recherchez systématiquement avec et sans signe diacritique.",
+          "Écarter un acte pertinent pour une simple différence d’accent."
+        ],
+        [
+          "Consonne doublée ou simplifiée",
+          "Essayez les deux formes et lisez le registre manuscrit.",
+          "Supposer que deux graphies proches désignent automatiquement la même personne."
+        ],
+        [
+          "Finale modifiée selon la région",
+          "Testez les terminaisons locales et les transcriptions phonétiques.",
+          "Interpréter une finale moderne avec le seul français actuel."
+        ],
+        [
+          "Nom composé ou particule fluctuante",
+          "Cherchez chaque élément seul, ensemble et dans l’ordre inverse si nécessaire.",
+          "Déduire une origine sociale ou nobiliaire de la seule présence d’une particule."
+        ],
+        [
+          "Nom traduit ou francisé",
+          "Explorez les langues et administrations des lieux traversés.",
+          "Ignorer un changement de frontière, de langue ou de transcription."
+        ]
+      ],
+      "note": "Gardez une liste des variantes testées : elle évite de refaire les mêmes recherches et rend votre raisonnement vérifiable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Répartition géographique : comment utiliser une carte de nom intelligemment",
+      "id": "repartition-geographique-comment-utiliser-une-carte-de-nom-i"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une carte montrant où un nom est porté ou anciennement enregistré est utile pour dégager une tendance. Si un patronyme rare apparaît de façon répétée dans quelques communes voisines sur plusieurs générations, vous tenez une bonne zone de prospection. Pour un nom courant, la carte sera beaucoup moins discriminante : elle peut refléter la démographie récente plutôt qu’une origine unique."
+    },
+    {
+      "type": "paragraph",
+      "html": "Utilisez la géographie comme une boussole, jamais comme un verdict. Comparez les lieux de naissance, de mariage et de décès de vos ancêtres ; regardez les communes limitrophes ; tenez compte des bassins d’emploi, des ports, des axes ferroviaires, des campagnes militaires et des mariages. Une famille peut rester dans un rayon restreint pendant longtemps, puis se disperser rapidement en une ou deux générations."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux homonymes",
+      "html": "Dans un village, deux hommes portant le même prénom et le même nom peuvent coexister. Vérifiez toujours l’âge, le métier, le conjoint, les témoins, l’adresse et les parents avant de les fusionner dans votre arbre."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faut-il faire un test ADN pour connaître l’origine de son nom ?",
+      "id": "faut-il-faire-un-test-adn-pour-connaitre-l-origine-de-son-no"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les tests génétiques peuvent donner des indications sur des correspondances biologiques et, selon le service choisi, sur de larges proximités génétiques avec des populations de référence. Ils peuvent aider à débloquer une énigme de filiation, retrouver des cousins ou confirmer qu’une piste documentaire mérite d’être explorée. Ils ne peuvent pas traduire un patronyme, prouver l’origine historique d’un nom ni attribuer avec certitude une identité culturelle précise à un ancêtre."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le recours à ces tests doit aussi être mûrement réfléchi. Les résultats peuvent révéler une parenté inattendue, une adoption ancienne, une filiation non connue ou des demi-frères et demi-sœurs. Avant de vous lancer, renseignez-vous sur le cadre légal applicable dans votre pays, les conditions de conservation des données, les options de suppression et les conséquences possibles pour vous comme pour vos proches."
+    },
+    {
+      "type": "comparison",
+      "title": "Archives ou ADN : le bon usage de chaque outil",
+      "left": {
+        "title": "Les archives documentaires",
+        "points": [
+          "Établissent des noms, dates, lieux et liens de filiation consignés dans des actes.",
+          "Sont indispensables pour raconter une histoire familiale vérifiable.",
+          "Peuvent être limitées par les lacunes, destructions d’archives ou filiations inconnues.",
+          "Demandent méthode, patience et contrôle des homonymes."
+        ]
+      },
+      "right": {
+        "title": "Les tests génétiques",
+        "points": [
+          "Peuvent mettre en relation avec des correspondances biologiques.",
+          "Apportent des indices lorsque les documents ne suffisent plus.",
+          "Ne donnent pas le sens d’un patronyme et ne remplacent pas les preuves écrites.",
+          "Impliquent des enjeux de vie privée, d’émotions et de cadre juridique."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs les plus fréquentes et le bon niveau de certitude",
+      "id": "les-erreurs-les-plus-frequentes-et-le-bon-niveau-de-certitud"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’histoire d’un nom de famille est passionnante précisément parce qu’elle mêle linguistique, histoire locale et trajectoires personnelles. Elle devient décevante lorsqu’on cherche à tout prix un ancêtre prestigieux, une origine exotique ou un blason. Une recherche solide accepte les zones d’ombre et distingue clairement le documenté, le probable et l’hypothétique."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant de valider une découverte, vérifiez ces points",
+      "items": [
+        "La date est-elle compatible avec l’âge, le mariage et le décès de la personne concernée ?",
+        "Le lieu correspond-il au parcours connu de la famille ou faut-il expliquer un déplacement ?",
+        "L’acte nomme-t-il les parents, le conjoint, les témoins ou une profession permettant de lever un doute ?",
+        "Avez-vous consulté l’image de l’acte plutôt qu’un simple relevé ou une transcription ?",
+        "La même information apparaît-elle dans au moins une autre source indépendante ?",
+        "Avez-vous séparé ce qui est prouvé de ce qui n’est qu’une piste étymologique ou géographique ?"
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Budget : il est possible de commencer gratuitement",
+      "html": "Les archives publiques numérisées et les documents familiaux permettent souvent de bâtir une base solide sans dépense. Prévoyez éventuellement un petit budget pour des copies d’actes, un abonnement ponctuel à une base spécialisée, un déplacement aux archives ou l’aide d’un professionnel si le dossier devient complexe."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand demander l’aide d’un professionnel ou d’une association ?",
+      "id": "quand-demander-l-aide-d-un-professionnel-ou-d-une-associatio"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez avancer seul pour une grande partie des recherches, surtout si vos ancêtres sont restés dans une zone bien couverte par les archives en ligne. L’aide d’un généalogiste professionnel, d’une association locale ou d’un cercle généalogique devient pertinente en cas de blocage durable, d’archives dans une autre langue, de migration internationale, de succession, de recherche d’héritiers ou de difficulté à déchiffrer des documents anciens."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de confier une mission, formulez une question précise : identifier les parents d’une personne, retrouver la commune d’origine d’un couple, vérifier une éventuelle branche étrangère ou analyser une rupture de patronyme. Demandez ce qui sera livré — copies, références d’archives, arbre sourcé, note méthodologique — et évitez les promesses vagues sur une « origine certaine » ou une noblesse supposée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Au bout du compte, la réponse à <em>« d’où vient votre nom ? »</em> n’est presque jamais un mot unique ni une étiquette géographique. C’est un dossier composé de formes anciennes, de lieux, de métiers, de familles et de preuves. Plus vous respecterez la chronologie et les sources, plus l’histoire que vous reconstituerez aura de valeur — y compris lorsqu’elle reste incomplète."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’origine des noms de famille",
+      "items": [
+        {
+          "q": "Peut-on connaître l’origine de son nom de famille avec une simple recherche sur internet ?",
+          "a": "Vous pouvez obtenir une première piste linguistique ou géographique, mais pas une conclusion fiable sur votre lignée. Pour savoir d’où vient votre famille portant ce nom, remontez les actes de naissance, mariage et décès génération après génération."
+        },
+        {
+          "q": "Deux personnes qui portent le même nom sont-elles forcément de la même famille ?",
+          "a": "Non. C’est particulièrement faux pour les noms courants, mais cela peut aussi arriver avec des noms rares. Le même patronyme a pu naître indépendamment dans plusieurs villages, à partir d’un métier, d’un prénom ou d’un surnom identique. Seule une filiation documentée peut établir une parenté."
+        },
+        {
+          "q": "Une particule devant un nom prouve-t-elle une origine noble ?",
+          "a": "Non. Une particule peut renvoyer à un lieu, à un usage familial, à une forme administrative ou à une histoire plus complexe. La noblesse éventuelle se démontre par une généalogie sourcée et des documents historiques appropriés, jamais par la seule apparence du nom."
+        },
+        {
+          "q": "Pourquoi mon nom n’est-il pas toujours écrit de la même manière dans les archives ?",
+          "a": "L’orthographe a longtemps été fluctuante et dépendait souvent de l’oreille ou de l’habitude du rédacteur. Les accents, consonnes, terminaisons et séparations de mots ont pu évoluer. Recherchez les variantes, mais vérifiez les autres éléments d’identité avant de relier les actes."
+        },
+        {
+          "q": "Quel document est le plus utile pour commencer une généalogie ?",
+          "a": "L’acte de mariage est souvent le plus informatif, car il relie deux générations et donne fréquemment les parents, âges, professions et lieux de résidence. Commencez néanmoins par les documents familiaux les plus récents dont vous êtes certain."
+        },
+        {
+          "q": "Un test ADN peut-il me dire de quel pays vient mon nom de famille ?",
+          "a": "Non. Un test peut proposer des estimations de proximités génétiques et révéler des correspondances biologiques, mais il ne détermine ni le sens ni l’origine historique précise d’un patronyme. Les archives restent indispensables pour relier un nom à une famille et à un lieu."
+        }
+      ]
+    }
+  ]
+}

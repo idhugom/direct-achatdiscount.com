@@ -1,0 +1,412 @@
+{
+  "title": "Comment bloquer une cellule dans Excel ?",
+  "slug": "comment-bloquer-une-cellule-dans-excel",
+  "path": "/divers/comment-bloquer-une-cellule-dans-excel.html",
+  "category": "tech",
+  "tags": [
+    "excel",
+    "cellule verrouillée",
+    "protection feuille",
+    "formules excel",
+    "tableur"
+  ],
+  "excerpt": "Verrouillage d’édition, référence absolue, volets figés : maîtrisez les différentes façons de « bloquer » une cellule dans Excel.",
+  "metaDescription": "Apprenez à bloquer une cellule Excel, protéger une feuille, figer l’affichage et verrouiller les formules sans bloquer les zones de saisie.",
+  "seoTitle": "Comment bloquer une cellule dans Excel : le guide",
+  "heroKicker": "Protéger vos calculs",
+  "readingTime": 11,
+  "date": "2024-06-24T17:57:40",
+  "image": {
+    "id": "2039",
+    "alt": "Comment bloquer une cellule dans Excel ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Dans Excel, « bloquer une cellule » peut vouloir dire trois choses très différentes : empêcher sa modification, conserver une référence fixe dans une formule ou garder une ligne visible à l’écran. La confusion est fréquente et peut conduire à protéger une feuille entière alors que vous vouliez seulement sécuriser un calcul. Voici la méthode adaptée à chaque besoin, avec les réglages qui évitent de bloquer inutilement vos utilisateurs."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Une cellule marquée comme <strong>verrouillée</strong> n’est réellement protégée que lorsque vous activez la <strong>protection de la feuille</strong>.",
+        "Pour bloquer une seule cellule, déverrouillez d’abord les cellules qui doivent rester saisissables, puis protégez la feuille.",
+        "Le signe <strong>$</strong> dans une formule (par exemple <strong>$B$2</strong>) bloque une référence lors de la recopie : il ne protège pas la cellule contre les modifications.",
+        "Pour maintenir un en-tête ou une colonne à l’écran, utilisez <strong>Figer les volets</strong>, une fonction d’affichage sans effet sur les droits de modification.",
+        "Un mot de passe de feuille évite les modifications accidentelles, mais ne remplace pas une vraie mesure de sécurité pour des données confidentielles."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que signifie « bloquer une cellule » dans Excel ?",
+      "id": "que-signifie-bloquer-une-cellule-dans-excel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de cliquer dans les menus, identifiez précisément votre objectif. Dans le langage courant, le mot « bloquer » recouvre des fonctions distinctes d’Excel. Le <strong>verrouillage de cellule</strong> empêche un utilisateur de modifier son contenu, à condition que la feuille soit protégée. La <strong>référence absolue</strong> fixe l’adresse d’une cellule dans une formule quand vous recopiez celle-ci. Enfin, le <strong>gel des volets</strong> maintient une zone visible pendant le défilement. Ces fonctions peuvent être utilisées ensemble, mais elles ne se remplacent pas."
+    },
+    {
+      "type": "comparison",
+      "title": "Les trois sens de « bloquer » dans un tableur",
+      "left": {
+        "title": "Bloquer pour protéger ou afficher",
+        "points": [
+          "<strong>Verrouiller + protéger la feuille</strong> : interdit la modification d’une cellule ou d’une zone.",
+          "<strong>Figer les volets</strong> : conserve une ligne ou une colonne à l’écran pendant le défilement.",
+          "Objectif : sécuriser la saisie ou améliorer le confort de lecture."
+        ]
+      },
+      "right": {
+        "title": "Bloquer dans une formule",
+        "points": [
+          "<strong>Référence absolue $A$1</strong> : maintient une cellule de référence lors d’une recopie.",
+          "<strong>Référence mixte $A1 ou A$1</strong> : fixe seulement la colonne ou la ligne.",
+          "Objectif : garantir la justesse d’un calcul recopié."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bloquer une cellule contre les modifications : la méthode fiable",
+      "id": "bloquer-une-cellule-contre-les-modifications-la-methode-fiab"
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est le cas le plus courant : vous avez une feuille de devis, de budget, de suivi ou de calcul et vous souhaitez que certaines cellules restent intactes. Point crucial : dans Excel, les cellules sont généralement définies comme <strong>verrouillées par défaut</strong>. Pourtant, vous pouvez les modifier tant que la feuille n’est pas protégée. Pour autoriser la saisie seulement dans certains champs, il faut donc inverser la logique : déverrouiller les zones de saisie, laisser verrouillées les cellules sensibles, puis activer la protection de la feuille."
+    },
+    {
+      "type": "steps",
+      "title": "Verrouiller une cellule ou une plage tout en gardant des zones modifiables",
+      "items": [
+        {
+          "title": "Repérez les cellules que les utilisateurs doivent remplir",
+          "text": "Sélectionnez les champs de saisie : quantités, dates, commentaires, tarifs négociés ou toute autre donnée qui doit rester modifiable. Pour sélectionner plusieurs zones non adjacentes, maintenez la touche Ctrl sous Windows ou Commande sur Mac."
+        },
+        {
+          "title": "Déverrouillez ces zones de saisie",
+          "text": "Ouvrez le format de cellule, par exemple avec Ctrl+1 sous Windows, puis l’onglet Protection. Décochez Verrouillée et validez. Les cellules contenant les formules, les libellés et les paramètres peuvent conserver l’option Verrouillée cochée."
+        },
+        {
+          "title": "Masquez éventuellement les formules sensibles",
+          "text": "Dans le même onglet, cochez Masquée sur les cellules de calcul si vous ne voulez pas que leur formule apparaisse dans la barre de formule lorsque la feuille sera protégée. Ne le faites que si les utilisateurs n’ont pas à contrôler ou adapter ces calculs."
+        },
+        {
+          "title": "Activez la protection de la feuille",
+          "text": "Dans l’onglet Révision, choisissez Protéger la feuille. Définissez les actions qui restent autorisées, puis confirmez. Vous pouvez ajouter un mot de passe, avec prudence : sans lui, la modification de la protection devient bien plus simple."
+        },
+        {
+          "title": "Testez comme un utilisateur",
+          "text": "Essayez de saisir une valeur dans un champ prévu à cet effet, puis dans une cellule de formule. Si la saisie est refusée au mauvais endroit, retirez la protection, corrigez l’état Verrouillée de la cellule concernée et protégez de nouveau la feuille."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur qui bloque toute la feuille",
+      "html": "Ne protégez pas une feuille immédiatement après avoir créé votre tableau. Comme la plupart des cellules sont verrouillées par défaut, <strong>plus aucune cellule ne sera éditable</strong>. Déverrouillez toujours les zones de saisie avant d’activer la protection."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir les bons droits lors de la protection de la feuille",
+      "id": "choisir-les-bons-droits-lors-de-la-protection-de-la-feuille"
+    },
+    {
+      "type": "paragraph",
+      "html": "La fenêtre <strong>Protéger la feuille</strong> ne sert pas uniquement à imposer un mot de passe. Elle permet de décider ce que les utilisateurs peuvent encore faire : sélectionner des cellules, trier un tableau, utiliser un filtre, insérer des lignes, modifier des objets ou mettre en forme les cellules. Une protection trop stricte rend un fichier pénible à utiliser ; une protection trop permissive laisse des possibilités de dérégler la présentation ou la structure. Accordez uniquement les droits nécessaires au scénario réel."
+    },
+    {
+      "type": "table",
+      "caption": "Réglages de protection à adapter selon l’usage du fichier",
+      "headers": [
+        "Besoin",
+        "Réglage conseillé",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Formulaire à remplir",
+          "Autoriser la sélection des cellules déverrouillées ; laisser les cellules de calcul verrouillées",
+          "Évitez d’autoriser l’insertion ou la suppression de lignes si les formules dépendent d’une structure fixe."
+        ],
+        [
+          "Tableau à filtrer",
+          "Autoriser l’utilisation du filtre automatique et, si nécessaire, le tri",
+          "Les filtres doivent en général être configurés avant la protection de la feuille."
+        ],
+        [
+          "Modèle avec formules",
+          "Verrouiller les cellules de formule ; cocher Masquée si les calculs ne doivent pas être visibles",
+          "Masquer une formule n’empêche pas un utilisateur de déduire un résultat à partir des données visibles."
+        ],
+        [
+          "Fichier collaboratif",
+          "Déverrouiller uniquement les zones attribuées aux contributeurs ; protéger les paramètres",
+          "La protection de feuille ne gère pas finement les identités et les autorisations de chaque personne."
+        ],
+        [
+          "Mise en page à préserver",
+          "Ne pas autoriser la mise en forme des cellules, colonnes ou lignes",
+          "Prévoyez des cellules de saisie clairement identifiées pour réduire les demandes d’assistance."
+        ]
+      ],
+      "note": "Les intitulés exacts peuvent légèrement varier selon la version d’Excel et le système utilisé."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Avant de partager une feuille protégée",
+      "items": [
+        "Donnez un code visuel clair aux cellules que l’on peut remplir : couleur discrète, bordure ou libellé « À renseigner ».",
+        "Vérifiez les listes déroulantes, règles de validation et formules après avoir activé la protection.",
+        "Conservez une copie maître non protégée ou stockée dans un emplacement avec accès restreint.",
+        "Notez le mot de passe dans un gestionnaire de mots de passe si votre organisation en utilise un.",
+        "Testez le fichier sur l’environnement réel de vos collaborateurs, notamment s’ils travaillent dans Excel pour le web."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Autoriser la modification de certaines plages seulement",
+      "id": "autoriser-la-modification-de-certaines-plages-seulement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre feuille comporte plusieurs zones à gérer, le simple principe « cellules déverrouillées = saisie libre » reste le plus universel et le plus facile à maintenir. Dans certaines versions de bureau d’Excel, vous pouvez aussi définir des <strong>plages dont la modification est autorisée</strong>, parfois protégées par des mots de passe distincts ou associées à des autorisations de votre environnement professionnel. Cette option est utile pour un fichier structuré avec plusieurs responsables, mais elle augmente la complexité de gestion."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un modèle envoyé à des clients, fournisseurs ou collègues, préférez en général une conception simple : cellules d’entrée déverrouillées et visuellement repérables, résultats et formules verrouillés, feuille protégée. Les plages autorisées avec plusieurs mots de passe ont un intérêt surtout lorsqu’une équipe doit intervenir régulièrement sur des zones séparées du même classeur."
+    },
+    {
+      "type": "proscons",
+      "title": "Protection de feuille : atouts et limites",
+      "pros": [
+        "Évite efficacement les suppressions et remplacements accidentels de formules.",
+        "Permet de transformer un classeur complexe en formulaire de saisie simple.",
+        "Préserve la mise en page, les libellés et les paramètres de calcul.",
+        "S’active rapidement et ne demande aucun outil supplémentaire dans Excel de bureau."
+      ],
+      "cons": [
+        "Ne constitue pas un chiffrement robuste ni une protection suffisante pour des informations sensibles.",
+        "Peut gêner le tri, les filtres ou l’ajout de lignes si les autorisations sont mal paramétrées.",
+        "Un mot de passe oublié peut compliquer la maintenance du fichier.",
+        "Les comportements et options disponibles peuvent différer entre Excel de bureau, Excel pour le web et les autres tableurs."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bloquer une référence dans une formule avec le signe $",
+      "id": "bloquer-une-reference-dans-une-formule-avec-le-signe"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous ne cherchez peut-être pas à empêcher une modification, mais à empêcher une formule de décaler une référence. Lorsqu’une formule est recopiée vers le bas ou vers la droite, Excel adapte normalement les références : c’est une <strong>référence relative</strong>. C’est pratique pour multiplier une ligne de prix par une ligne de quantité. En revanche, si toutes vos lignes doivent utiliser le même taux de TVA, coefficient ou taux de remise, la cellule qui contient ce paramètre doit rester fixe. Ajoutez alors le signe <strong>$</strong> devant la colonne et/ou la ligne."
+    },
+    {
+      "type": "table",
+      "caption": "Références relatives, absolues et mixtes dans Excel",
+      "headers": [
+        "Écriture",
+        "Ce qui reste fixe lors de la recopie",
+        "Exemple d’usage"
+      ],
+      "rows": [
+        [
+          "A1",
+          "Rien : colonne et ligne se déplacent",
+          "Calcul ligne par ligne, comme quantité × prix unitaire."
+        ],
+        [
+          "$A$1",
+          "La colonne A et la ligne 1",
+          "Taux unique, coefficient global ou paramètre placé dans une cellule précise."
+        ],
+        [
+          "$A1",
+          "La colonne A uniquement",
+          "Comparer plusieurs lignes à une valeur placée dans la colonne A."
+        ],
+        [
+          "A$1",
+          "La ligne 1 uniquement",
+          "Appliquer des coefficients répartis sur une ligne d’en-tête."
+        ]
+      ],
+      "note": "Dans l’édition d’une formule, la touche F4 sur Windows fait généralement défiler les différentes formes de référence. Sur Mac, le raccourci peut dépendre de la configuration des touches de fonction."
+    },
+    {
+      "type": "paragraph",
+      "html": "Exemple : votre taux de TVA est en cellule B1 et le montant hors taxes de la première ligne est en C2. La formule <strong>=C2*(1+$B$1)</strong> peut être recopiée vers le bas : C2 deviendra C3, C4, puis C5, tandis que B1 restera toujours B1. Sans les signes dollar, la formule irait chercher B2, B3, B4 et produirait probablement des résultats faux."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Repère rapide pour choisir $",
+      "html": "Si vous recopiez <strong>vers le bas</strong>, demandez-vous quelle ligne ne doit pas bouger. Si vous recopiez <strong>vers la droite</strong>, demandez-vous quelle colonne ne doit pas bouger. Ajoutez <strong>$</strong> uniquement à la partie qui doit rester fixe : la formule restera plus souple et plus lisible."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Figer une ligne ou une colonne : bloquer l’affichage, pas la cellule",
+      "id": "figer-une-ligne-ou-une-colonne-bloquer-l-affichage-pas-la-ce"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un tableau long, il est utile de conserver les titres de colonnes visibles quand vous faites défiler les lignes. Cette fonction se trouve dans l’onglet <strong>Affichage</strong>, sous <strong>Figer les volets</strong>. Vous pouvez figer la ligne supérieure, la première colonne ou une zone personnalisée. Elle n’empêche aucune modification : elle améliore uniquement la lecture du fichier."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour figer plusieurs lignes et colonnes, cliquez dans la cellule située <strong>juste sous les lignes</strong> et <strong>juste à droite des colonnes</strong> à garder visibles, puis choisissez Figer les volets. Par exemple, pour conserver les deux premières lignes et la colonne A, sélectionnez B3. Si le résultat ne correspond pas à votre attente, utilisez Libérer les volets, puis recommencez : la position de la cellule active détermine toute la zone figée."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3",
+          "label": "fonctions souvent confondues : verrouillage, référence absolue et volets figés"
+        },
+        {
+          "value": "2",
+          "label": "réglages nécessaires pour empêcher une modification : état verrouillé et protection de feuille"
+        },
+        {
+          "value": "4",
+          "label": "formes de référence à connaître : A1, $A$1, $A1 et A$1"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Excel pour le web, Mac et alternatives : ce qui change",
+      "id": "excel-pour-le-web-mac-et-alternatives-ce-qui-change"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le principe reste identique dans les principales éditions d’Excel, mais l’emplacement exact des commandes et l’étendue des options peuvent varier. Excel pour le web est pratique pour la coédition et les usages simples, mais certaines fonctions avancées de protection ou de gestion des droits sont plus complètes dans l’application de bureau. Sur Mac, les menus sont proches, tandis que certains raccourcis clavier diffèrent. Si vous échangez le fichier entre plusieurs environnements, testez systématiquement la protection et les zones de saisie avant diffusion."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans Google Sheets, LibreOffice Calc et d’autres tableurs, vous trouverez des mécanismes comparables : protection de feuilles ou de plages, références absolues avec le signe dollar et gel des lignes ou colonnes. Toutefois, les mots de passe, les autorisations de partage et certaines règles de protection ne se convertissent pas toujours parfaitement à l’ouverture d’un fichier Excel. Si la protection fait partie intégrante de votre processus, conservez un format de travail commun et évitez les allers-retours répétés entre plusieurs logiciels."
+    },
+    {
+      "type": "table",
+      "caption": "Quel outil choisir selon votre besoin de blocage ?",
+      "headers": [
+        "Situation",
+        "Solution la plus adaptée",
+        "Budget et compromis"
+      ],
+      "rows": [
+        [
+          "Vous envoyez un modèle Excel à compléter",
+          "Protection de feuille avec cellules de saisie déverrouillées",
+          "Fonction intégrée à Excel ; aucun outil spécialisé à prévoir si vous disposez déjà du logiciel."
+        ],
+        [
+          "Vous calculez un taux ou un coefficient recopié",
+          "Référence absolue ou mixte avec $",
+          "Gratuit dans tout tableur compatible ; ne protège pas les données contre l’édition."
+        ],
+        [
+          "Vous consultez un tableau très long",
+          "Figer les volets",
+          "Fonction d’affichage intégrée, sans coût ni impact sur la collaboration."
+        ],
+        [
+          "Vous travaillez à plusieurs en ligne",
+          "Droits de partage du stockage + protection de feuille ou de plage",
+          "Les fonctions de base existent souvent dans les offres grand public ; les contrôles avancés dépendent de l’écosystème retenu."
+        ],
+        [
+          "Vous traitez des données confidentielles",
+          "Gestion des accès, chiffrement et stockage sécurisé en complément",
+          "Prévoyez une solution adaptée à votre organisation ; la protection de feuille seule est insuffisante."
+        ]
+      ],
+      "note": "Les offres et fonctions incluses varient selon les licences, le stockage utilisé et la version de l’application."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs à éviter et la bonne méthode de contrôle",
+      "id": "les-erreurs-a-eviter-et-la-bonne-methode-de-controle"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des problèmes viennent moins d’Excel que de l’ordre des opérations. Protéger avant d’avoir défini les zones de saisie, oublier les filtres nécessaires, ou confondre le mot de passe d’ouverture avec celui de la feuille sont des erreurs classiques. Un fichier bien verrouillé doit rester simple à utiliser pour la personne qui le remplit et simple à maintenir pour celle qui l’administre."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Erreurs fréquentes",
+      "items": [
+        "Croire que cocher « Verrouillée » suffit à protéger une cellule sans activer Protéger la feuille.",
+        "Utiliser $ dans une formule en pensant empêcher l’édition de la cellule.",
+        "Protéger la feuille sans autoriser le tri ou les filtres alors que le tableau est conçu pour être filtré.",
+        "Masquer des formules et supposer qu’elles sont sécurisées contre toute consultation ou extraction.",
+        "Communiquer le mot de passe dans le même e-mail que le fichier protégé.",
+        "Oublier de libérer les volets avant de modifier leur position, ce qui donne un affichage apparemment incohérent."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sécurité : ce que le verrouillage Excel protège réellement",
+      "id": "securite-ce-que-le-verrouillage-excel-protege-reellement"
+    },
+    {
+      "type": "paragraph",
+      "html": "La protection de feuille est excellente pour prévenir les <strong>erreurs de manipulation</strong> : écrasement d’une formule, suppression d’un titre, modification d’une grille tarifaire interne ou déplacement d’une colonne. Elle ne doit pas être considérée comme une barrière de sécurité de haut niveau. Une personne déterminée, disposant d’une copie du fichier, peut parfois contourner ou neutraliser une protection simple selon le format et les outils employés."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un document contenant des informations personnelles, financières ou stratégiques, combinez les mesures : accès limité au fichier dans votre espace de stockage, droits de partage nominaux, mot de passe d’ouverture ou chiffrement lorsque votre version le propose, et copie de sauvegarde conservée séparément. Limitez aussi la diffusion du classeur : le meilleur verrouillage de cellule ne compense pas un fichier envoyé à trop de destinataires."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La méthode la plus sûre au quotidien",
+      "html": "Traitez la protection de feuille comme une <strong>ceinture de sécurité pour vos formules</strong>, non comme un coffre-fort. Déverrouillez uniquement les champs utiles, protégez la feuille, contrôlez le comportement en conditions réelles et gérez les accès au fichier séparément."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le blocage d’une cellule Excel",
+      "items": [
+        {
+          "q": "Pourquoi puis-je modifier une cellule alors que l’option « Verrouillée » est cochée ?",
+          "a": "Parce que l’option Verrouillée ne produit aucun effet tant que la feuille n’est pas protégée. Ouvrez l’onglet Révision et activez Protéger la feuille. Vérifiez aussi que vous avez bien enregistré ou confirmé les réglages de protection."
+        },
+        {
+          "q": "Comment verrouiller une seule cellule dans Excel ?",
+          "a": "Déverrouillez d’abord toutes les cellules qui doivent rester modifiables, en décochant Verrouillée dans le format de cellule. Laissez la cellule à protéger avec l’option Verrouillée cochée, puis protégez la feuille. Cette cellule sera alors bloquée, tandis que les autres zones déverrouillées resteront éditables."
+        },
+        {
+          "q": "Le signe $ protège-t-il une cellule Excel ?",
+          "a": "Non. Le signe $ sert uniquement à figer une référence dans une formule lors de sa recopie. Par exemple, $B$1 reste B1 quand la formule est copiée. Il n’empêche personne de modifier le contenu de B1 : pour cela, il faut protéger la feuille."
+        },
+        {
+          "q": "Peut-on laisser les filtres actifs sur une feuille protégée ?",
+          "a": "Oui, si vous accordez l’autorisation correspondante lors de la protection de la feuille. Configurez idéalement le tableau et ses filtres avant de protéger le document, puis testez le filtrage dans la version d’Excel réellement utilisée par vos collaborateurs."
+        },
+        {
+          "q": "Que faire si j’ai oublié le mot de passe de protection de ma feuille ?",
+          "a": "Commencez par rechercher une copie maître, une sauvegarde, un historique de versions dans votre espace de stockage ou la personne qui a créé le fichier. Évitez de vous reposer sur des outils tiers non vérifiés, surtout pour un document sensible. À l’avenir, stockez les mots de passe de travail dans un gestionnaire dédié et conservez une version administrateur non protégée dans un emplacement sécurisé."
+        },
+        {
+          "q": "Comment garder l’en-tête visible sans empêcher les modifications ?",
+          "a": "Utilisez Affichage puis Figer les volets, ou l’option permettant de figer la ligne supérieure. Cette fonction garde les titres à l’écran pendant le défilement, mais elle ne verrouille pas les cellules contre l’édition. Vous pouvez l’associer à la protection de feuille si vous avez besoin des deux."
+        }
+      ]
+    }
+  ]
+}

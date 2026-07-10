@@ -1,0 +1,467 @@
+{
+  "title": "Comment recharger l’encre d’un tampon encreur ?",
+  "slug": "comment-recharger-lencre-dun-tampon-encreur",
+  "path": "/divers/comment-recharger-lencre-dun-tampon-encreur.html",
+  "category": "maison",
+  "tags": [
+    "tampon encreur",
+    "recharge d’encre",
+    "bureau",
+    "fournitures",
+    "entretien",
+    "auto-encreur"
+  ],
+  "excerpt": "Tampon classique, auto-encreur ou pré-encré : identifiez votre modèle et rechargez-le avec la bonne encre, sans taches ni empreintes ratées.",
+  "metaDescription": "Apprenez à recharger un tampon encreur sans bavures : identifier le mécanisme, choisir l’encre compatible, doser et éviter les erreurs courantes.",
+  "seoTitle": "Recharger l’encre d’un tampon : méthode sans bavure",
+  "heroKicker": "Bureautique pratique",
+  "readingTime": 10,
+  "date": "2024-09-17T18:32:15",
+  "image": {
+    "id": "2368",
+    "alt": "Comment recharger l’encre d’un tampon encreur ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un tampon qui laisse une empreinte pâle n’est pas forcément bon à remplacer : dans la plupart des cas, une recharge bien dosée suffit. La méthode dépend toutefois du mécanisme : verser de l’encre sur le caoutchouc est presque toujours une mauvaise idée, alors qu’un tampon auto-encreur se recharge par sa cassette interne."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "<strong>Identifiez le type de tampon</strong> avant toute manipulation : tampon classique sur encreur séparé, auto-encreur à cassette ou modèle pré-encré.",
+        "<strong>Utilisez une encre de même famille</strong> que celle d’origine : les encres ne sont pas toutes miscibles ni adaptées au même support.",
+        "<strong>Ajoutez peu d’encre, puis attendez</strong> : un excès provoque des bavures, des contours flous et des taches sur les documents.",
+        "<strong>Testez toujours sur une feuille brouillon</strong> avant de tamponner un original, une facture ou une enveloppe importante.",
+        "Si l’empreinte reste incomplète après recharge, le problème peut venir de la cassette, de la semelle gravée ou du mécanisme, et non du manque d’encre."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 à 5 gouttes",
+          "label": "repère prudent pour amorcer une petite cassette ou un petit encreur"
+        },
+        {
+          "value": "5 à 15 min",
+          "label": "temps d’absorption souvent nécessaire avant le premier essai"
+        },
+        {
+          "value": "1 à 3 essais",
+          "label": "sur brouillon pour répartir l’encre et vérifier la netteté"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Commencez par identifier votre type de tampon",
+      "id": "commencez-par-identifier-votre-type-de-tampon"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme <strong>tampon encreur</strong> recouvre trois systèmes très différents. C’est le premier point à clarifier, car leur recharge ne se fait ni au même endroit ni avec la même quantité d’encre. Observez votre matériel plutôt que de vous fier seulement à son aspect extérieur."
+    },
+    {
+      "type": "table",
+      "caption": "Reconnaître le système et choisir la bonne méthode de recharge",
+      "headers": [
+        "Type de matériel",
+        "Où se trouve l’encre ?",
+        "Méthode adaptée",
+        "À éviter absolument"
+      ],
+      "rows": [
+        [
+          "Tampon classique en bois ou en plastique",
+          "Dans un encreur séparé, généralement un boîtier plat à couvercle",
+          "Humidifier directement le feutre de l’encreur avec l’encre adaptée",
+          "Verser l’encre sur la semelle en caoutchouc ou en polymère"
+        ],
+        [
+          "Tampon auto-encreur",
+          "Dans une cassette interne qui pivote à chaque pression",
+          "Retirer ou faire coulisser la cassette, puis l’imbiber progressivement",
+          "Mettre de l’encre dans le mécanisme, les ressorts ou les ouvertures au hasard"
+        ],
+        [
+          "Tampon pré-encré",
+          "Dans une mousse-réservoir intégrée au corps du tampon",
+          "Passer par les orifices prévus, avec une encre strictement compatible",
+          "Démonter de force le boîtier ou surcharger le réservoir"
+        ],
+        [
+          "Tampon dateur ou numéroteur",
+          "Souvent dans une cassette ou un rouleau encreur dédié",
+          "Recharger ou changer le rouleau selon sa conception",
+          "Huiler les chiffres ou imbiber les roues d’encre"
+        ]
+      ],
+      "note": "En cas de doute, recherchez une trappe, une cassette latérale ou un petit réservoir sous le capot. La notice du fabricant reste la référence pour les modèles pré-encrés et les dateurs."
+    },
+    {
+      "type": "comparison",
+      "title": "Tampon classique et tampon auto-encreur : deux gestes à ne pas confondre",
+      "left": {
+        "title": "Tampon classique + encreur séparé",
+        "points": [
+          "Le tampon ne contient pas d’encre.",
+          "Vous rechargez le <strong>coussin encreur</strong>, pas le tampon.",
+          "Simple à entretenir et économique si vous utilisez plusieurs couleurs.",
+          "L’empreinte dépend de la pression et du contact avec le coussin."
+        ]
+      },
+      "right": {
+        "title": "Tampon auto-encreur",
+        "points": [
+          "La cassette d’encre est logée dans le boîtier.",
+          "Vous rechargez ou remplacez une <strong>cassette interne</strong>.",
+          "Pratique pour les usages répétitifs et les empreintes régulières.",
+          "Une mauvaise manipulation peut encrasser le mécanisme ou saturer la cassette."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir la bonne encre : la compatibilité avant tout",
+      "id": "choisir-la-bonne-encre-la-compatibilite-avant-tout"
+    },
+    {
+      "type": "paragraph",
+      "html": "La couleur ne suffit pas à choisir un flacon. Une encre adaptée au papier absorbant ne donnera pas forcément un bon résultat sur carton couché, plastique, métal ou papier glacé. Surtout, les formulations peuvent être à base d’eau, d’huile, de solvants ou de pigments spécifiques. Mélanger une encre inconnue à celle déjà présente peut modifier le séchage, créer des dépôts ou abîmer le réservoir."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pour les documents courants : privilégiez l’encre de bureau adaptée au papier",
+      "id": "pour-les-documents-courants-privilegiez-l-encre-de-bureau-ad"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour des courriers, formulaires, enveloppes ou dossiers, une encre de tampon destinée au papier ordinaire est généralement le bon choix. Prenez de préférence une couleur identique à celle déjà utilisée. Changer du bleu au noir, par exemple, est possible uniquement si le coussin a été remplacé ou soigneusement nettoyé ; sur un réservoir déjà imbibé, vous obtiendrez le plus souvent une teinte terne et imprévisible."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pour les supports non poreux : ne vous fiez pas à une encre standard",
+      "id": "pour-les-supports-non-poreux-ne-vous-fiez-pas-a-une-encre-st"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le plastique, le métal, le verre, le bois verni ou le carton couché exigent souvent une encre à séchage particulier. Elle peut être plus odorante, demander une ventilation et tacher durablement. Vérifiez que la semelle de votre tampon supporte cette formulation et faites un essai sur une chute du même matériau. Pour un marquage durable ou réglementaire, le tampon de bureau classique est rarement la solution la plus fiable."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Les encres à ne pas substituer",
+      "html": "N’utilisez ni encre d’imprimante, ni encre de stylo-plume, ni colorant alimentaire, ni peinture diluée pour recharger un tampon. Leur fluidité, leur temps de séchage et leur composition ne conviennent pas au feutre ou à la mousse du réservoir. Vous risquez une empreinte baveuse, un colmatage ou une fuite."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Recharger un tampon auto-encreur, étape par étape",
+      "id": "recharger-un-tampon-auto-encreur-etape-par-etape"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le tampon auto-encreur est le plus courant dans un contexte administratif, car il remet automatiquement la semelle en contact avec sa cassette après chaque impression. Travaillez sur une surface protégée, avec du papier absorbant à portée de main. Portez des gants jetables si vous manipulez une encre très colorante ou spéciale."
+    },
+    {
+      "type": "steps",
+      "title": "La méthode sûre pour une cassette interne",
+      "items": [
+        {
+          "title": "Préparez le poste de travail",
+          "text": "Posez le tampon sur du papier brouillon ou un chiffon non pelucheux. Essuyez l’extérieur du boîtier s’il est déjà taché : vous verrez immédiatement une éventuelle fuite."
+        },
+        {
+          "title": "Bloquez légèrement le mécanisme",
+          "text": "Sur de nombreux modèles, il faut enfoncer le tampon de quelques millimètres puis actionner de petits verrous latéraux. Cette position libère la cassette sans forcer. Si vous ne voyez aucun verrou, ne tirez pas brutalement."
+        },
+        {
+          "title": "Retirez la cassette par le côté",
+          "text": "Faites-la coulisser dans le sens prévu. Notez son orientation afin de la remettre correctement. La face encrée est généralement visible ; évitez de la toucher avec les doigts."
+        },
+        {
+          "title": "Déposez l’encre en faible quantité",
+          "text": "Répartissez quelques gouttes sur toute la surface du feutre ou de la mousse, en insistant très légèrement sur les zones qui paraissent plus claires. Pour une grande cassette, procédez par petites zones plutôt que par un gros versement central."
+        },
+        {
+          "title": "Laissez absorber avant remontage",
+          "text": "Patientez quelques minutes, puis replacez la cassette dans le bon sens. Si elle brille fortement ou si de l’encre liquide stagne en surface, vous en avez probablement trop mis : épongez délicatement sans frotter."
+        },
+        {
+          "title": "Faites des empreintes de rodage",
+          "text": "Réalisez plusieurs pressions sur brouillon. Les premières peuvent être trop foncées ; arrêtez lorsque le texte est net, régulier et sans halo autour des lettres."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon dosage",
+      "html": "Mieux vaut faire <strong>deux petites recharges espacées</strong> qu’une recharge trop généreuse. Une cassette insuffisamment humide se corrige facilement ; une cassette noyée peut tacher le mécanisme et demander un remplacement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cas particulier : recharger un encreur séparé ou un tampon pré-encré",
+      "id": "cas-particulier-recharger-un-encreur-separe-ou-un-tampon-pre"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tampon traditionnel : rechargez le coussin, jamais la semelle",
+      "id": "tampon-traditionnel-rechargez-le-coussin-jamais-la-semelle"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avec un tampon classique, le bloc gravé ne sert qu’à transférer l’encre. Ouvrez l’encreur séparé et examinez son coussin : s’il est sec, grisâtre ou inégalement coloré, versez l’encre par petites touches sur la surface. Répartissez-la avec le flacon, sans racler avec un objet. Refermez ensuite l’encreur et laissez l’encre descendre dans le feutre avant de tester."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si l’encreur est très ancien, durci ou contaminé par des fibres de papier, une recharge peut donner un résultat irrégulier. Le remplacement du coussin est alors plus propre et souvent plus rentable que de multiplier les flacons d’encre. Conservez en revanche le tampon lui-même : sa semelle peut rester utilisable longtemps si elle est nettoyée avec douceur."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tampon pré-encré : respectez les orifices de remplissage",
+      "id": "tampon-pre-encre-respectez-les-orifices-de-remplissage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un tampon pré-encré, l’encre est stockée dans une mousse interne sous pression. Les modèles conçus pour être rechargés disposent généralement de petits trous ou d’une zone de remplissage au dos. Placez le tampon à l’envers, injectez de très petites quantités dans les orifices prévus, puis laissez reposer à plat, face gravée vers le bas sur une feuille de protection. Le temps d’absorption est souvent plus long que pour une cassette."
+    },
+    {
+      "type": "paragraph",
+      "html": "N’essayez pas de séparer les coques collées, de percer un boîtier ou de remplir par la face imprimante : vous pourriez déformer la semelle, provoquer une fuite permanente et rendre les empreintes illisibles. Si vous ne trouvez aucun point de remplissage et aucune indication de recharge, considérez le modèle comme non rechargeable ou demandez confirmation au fournisseur."
+    },
+    {
+      "type": "proscons",
+      "title": "Recharger l’encre ou remplacer la cassette ?",
+      "pros": [
+        "<strong>Recharge :</strong> réduit les déchets et coûte en général moins cher à long terme.",
+        "<strong>Recharge :</strong> permet de prolonger l’usage d’un tampon peu sollicité.",
+        "<strong>Nouvelle cassette :</strong> assure une répartition d’encre homogène dès le départ.",
+        "<strong>Nouvelle cassette :</strong> évite les mélanges de couleurs et les résidus d’une ancienne formulation."
+      ],
+      "cons": [
+        "<strong>Recharge :</strong> demande un flacon strictement compatible et un dosage soigneux.",
+        "<strong>Recharge :</strong> peut échouer si le feutre est usé, compacté ou contaminé.",
+        "<strong>Nouvelle cassette :</strong> produit un déchet supplémentaire et n’est pas disponible pour tous les modèles.",
+        "<strong>Nouvelle cassette :</strong> peut coûter davantage qu’un simple flacon pour un usage occasionnel."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Éviter les bavures, empreintes pâles et fuites",
+      "id": "eviter-les-bavures-empreintes-pales-et-fuites"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une empreinte de mauvaise qualité ne signifie pas automatiquement que le réservoir est vide. Avant de recharger à nouveau, regardez la forme du défaut. Des lettres uniformément claires suggèrent un manque d’encre. Des bords épais avec des centres bouchés indiquent plutôt un excès. Une seule zone pâle peut révéler une cassette mal imbibée, une semelle encrassée ou une pression exercée de biais."
+    },
+    {
+      "type": "table",
+      "caption": "Diagnostiquer une empreinte ratée avant d’ajouter de l’encre",
+      "headers": [
+        "Symptôme observé",
+        "Cause probable",
+        "Action recommandée"
+      ],
+      "rows": [
+        [
+          "Empreinte globalement très pâle",
+          "Réservoir sec ou encre mal répartie",
+          "Ajoutez peu d’encre compatible, attendez puis testez"
+        ],
+        [
+          "Contours flous ou taches autour du texte",
+          "Excès d’encre sur le coussin ou la cassette",
+          "Épongez la surface, faites des essais et laissez reposer"
+        ],
+        [
+          "Une partie du texte manque toujours",
+          "Cassette inégalement imprégnée, semelle sale ou usée",
+          "Nettoyez doucement la semelle ; rechargez localement ou remplacez la cassette"
+        ],
+        [
+          "Texte bouché, lettres pleines",
+          "Encre accumulée dans les creux de la gravure",
+          "Nettoyez la semelle sans la gratter, puis laissez sécher"
+        ],
+        [
+          "Encre sur le boîtier ou les doigts",
+          "Cassette trop pleine ou mal remontée",
+          "Retirez-la, nettoyez l’extérieur et vérifiez le sens d’insertion"
+        ],
+        [
+          "Empreinte nette mais qui sèche mal",
+          "Encre inadaptée au support",
+          "Changez d’encre ou de technique selon le matériau"
+        ]
+      ],
+      "note": "N’ajoutez pas d’encre tant que vous n’avez pas réalisé plusieurs essais sur brouillon : la première empreinte après immobilisation est parfois plus pâle sans que la cassette soit vide."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes qui limitent les accidents",
+      "items": [
+        "Protégez le plan de travail avec une feuille épaisse ou un carton jetable.",
+        "Gardez le flacon vertical et refermez-le immédiatement après usage.",
+        "Déposez les gouttes vers les zones les plus claires au lieu de vider le flacon au centre.",
+        "Attendez l’absorption complète avant de conclure que la recharge est insuffisante.",
+        "Pressez le tampon bien à plat : une pression inclinée donne une empreinte incomplète même avec une cassette neuve.",
+        "Conservez la référence de l’encre ou prenez une photo de l’étiquette avant de jeter l’ancien flacon."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : quel achat prévoir pour entretenir son tampon ?",
+      "id": "budget-quel-achat-prevoir-pour-entretenir-son-tampon"
+    },
+    {
+      "type": "paragraph",
+      "html": "La recharge est habituellement une solution de <strong>petit budget</strong>. Un flacon d’encre de bureau coûte souvent de l’ordre de quelques euros à une petite dizaine d’euros selon le volume, la couleur et la formulation. Une cassette de remplacement se situe généralement dans un ordre de grandeur voisin ou supérieur, notamment pour les formats particuliers. Les encres destinées aux supports non poreux ou à des usages techniques sont souvent plus chères et moins polyvalentes."
+    },
+    {
+      "type": "table",
+      "caption": "Quel choix est le plus cohérent selon l’état du matériel ?",
+      "headers": [
+        "Situation",
+        "Solution la plus rationnelle",
+        "Budget relatif",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Encreur séparé encore souple et propre",
+          "Acheter un flacon compatible",
+          "Très faible",
+          "Conserver la même famille d’encre"
+        ],
+        [
+          "Cassette auto-encreuse un peu pâle mais intacte",
+          "Recharger progressivement",
+          "Faible",
+          "Ne pas la saturer"
+        ],
+        [
+          "Cassette très sèche, fibreuse ou tachée de plusieurs couleurs",
+          "Remplacer la cassette",
+          "Faible à modéré",
+          "Vérifier le format exact du modèle"
+        ],
+        [
+          "Tampon pré-encré encore prévu pour le remplissage",
+          "Acheter l’encre recommandée",
+          "Faible à modéré",
+          "Respecter les trous et le temps de repos"
+        ],
+        [
+          "Boîtier fissuré, mécanisme bloqué ou semelle déformée",
+          "Remplacer le tampon complet",
+          "Modéré",
+          "Contrôler que le texte à reproduire est toujours à jour"
+        ]
+      ],
+      "note": "Si vous ne tamponnez que quelques documents par mois, choisissez un petit flacon bien fermé plutôt qu’un conditionnement volumineux qui risque de vieillir avant d’être utilisé."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Ne remplacez pas tout trop vite",
+      "html": "Une empreinte qui pâlit après une longue période sans usage se règle souvent avec une recharge légère ou quelques empreintes de remise en route. En revanche, une cassette devenue dure, un boîtier qui fuit ou une semelle déformée justifient davantage un remplacement ciblé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nettoyer et entretenir le tampon pour prolonger son efficacité",
+      "id": "nettoyer-et-entretenir-le-tampon-pour-prolonger-son-efficaci"
+    },
+    {
+      "type": "paragraph",
+      "html": "La propreté de la semelle est aussi importante que l’encre. Les poussières, fibres de papier et paquets d’encre s’accumulent dans les détails des lettres, surtout sur les petits caractères. Après une utilisation intensive ou avant un changement de couleur, tamponnez plusieurs fois sur une feuille propre pour retirer l’excédent. Pour un nettoyage plus poussé, utilisez un produit conçu pour les tampons ou un chiffon très légèrement humidifié, compatible avec la matière de la semelle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Évitez les solvants puissants sans certitude sur la composition du caoutchouc ou du polymère : ils peuvent rendre la surface collante, effacer des détails ou fragiliser les collages. Ne frottez pas avec une brosse dure et ne grattez jamais les creux des lettres avec une pointe métallique."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bien stocker le matériel",
+      "id": "bien-stocker-le-materiel"
+    },
+    {
+      "type": "paragraph",
+      "html": "Refermez systématiquement l’encreur séparé. Pour un auto-encreur, laissez le capot et la cassette en place : ils protègent la semelle de la poussière et limitent le dessèchement. Rangez le matériel à température modérée, loin d’un radiateur, d’une fenêtre en plein soleil ou d’un véhicule très chaud. Une encre soumise à une forte chaleur peut devenir plus fluide, fuir ou perdre en régularité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand une recharge ne suffit plus : alternatives et remplacement",
+      "id": "quand-une-recharge-ne-suffit-plus-alternatives-et-remplaceme"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous utilisez souvent le même marquage, un auto-encreur avec cassette remplaçable reste la solution la plus pratique. Pour des usages occasionnels ou plusieurs couleurs, le tampon classique associé à des encreurs séparés offre plus de souplesse. Si vous devez marquer des emballages, tissus, plastiques ou surfaces irrégulières, choisissez plutôt une encre dédiée et, si besoin, un tampon dont la semelle est conçue pour le support."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, vérifiez le contenu du tampon avant de commander une recharge : une adresse, une raison sociale, un numéro ou une mention administrative peuvent être devenus obsolètes. Investir dans une cassette neuve pour un texte qui doit changer n’a pas de sens. Dans ce cas, commander une nouvelle semelle ou un nouveau tampon est plus cohérent."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les signaux qui indiquent qu’il faut remplacer plutôt que recharger",
+      "items": [
+        "La semelle gravée est craquelée, gondolée, collante ou partiellement décollée.",
+        "Le mécanisme ne remonte plus correctement ou reste bloqué en position basse.",
+        "La cassette fuit malgré un nettoyage et un dosage raisonnable.",
+        "L’empreinte reste illisible après nettoyage, repos et recharge compatible.",
+        "Le texte, le logo ou les informations du tampon ne sont plus à jour."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la recharge d’un tampon encreur",
+      "items": [
+        {
+          "q": "Puis-je mettre l’encre directement sur la partie gravée du tampon ?",
+          "a": "Non, sauf indication très particulière du fabricant. Sur un tampon classique, l’encre va dans le coussin séparé ; sur un auto-encreur, elle va dans la cassette ; sur un modèle pré-encré, elle passe par les orifices prévus. Encrer directement la semelle surcharge les détails et crée des bavures."
+        },
+        {
+          "q": "Combien de gouttes d’encre faut-il mettre dans un tampon auto-encreur ?",
+          "a": "Commencez par très peu : quelques gouttes réparties sur la cassette constituent un bon repère pour un petit format. Laissez absorber, faites plusieurs essais, puis ajoutez-en seulement si l’empreinte reste pâle. La taille de la cassette, son état et la viscosité de l’encre font varier la quantité nécessaire."
+        },
+        {
+          "q": "Pourquoi mon tampon bave-t-il après recharge ?",
+          "a": "La cause la plus courante est un excès d’encre qui reste en surface du coussin ou de la cassette. Épongez délicatement le surplus, réalisez des empreintes sur brouillon et laissez le tampon reposer. Une encre incompatible ou une semelle encrassée peut aussi expliquer le problème."
+        },
+        {
+          "q": "Peut-on changer la couleur d’un tampon encreur ?",
+          "a": "Oui, mais il est préférable de remplacer la cassette ou le coussin. Recharger un réservoir déjà bleu avec de l’encre rouge, par exemple, produit souvent une couleur sale et inégale. Nettoyer uniquement la semelle ne suffit pas, car l’ancienne encre reste dans le réservoir."
+        },
+        {
+          "q": "Mon tampon est sec après plusieurs mois sans servir : faut-il le jeter ?",
+          "a": "Pas nécessairement. Testez d’abord plusieurs empreintes, puis rechargez prudemment avec l’encre compatible. Si le coussin ou la cassette absorbe encore l’encre et que l’empreinte redevient nette, il peut continuer à servir. Remplacez-le si la mousse est dure, si le mécanisme fuit ou si la semelle est abîmée."
+        },
+        {
+          "q": "Quelle encre choisir pour tamponner du plastique ou du carton brillant ?",
+          "a": "Une encre de bureau classique est souvent inadaptée, car elle peut rester humide ou s’effacer. Choisissez une encre explicitement prévue pour les surfaces non poreuses, vérifiez la compatibilité avec votre tampon et testez le séchage sur une chute du même support avant de marquer vos pièces définitives."
+        }
+      ]
+    }
+  ]
+}

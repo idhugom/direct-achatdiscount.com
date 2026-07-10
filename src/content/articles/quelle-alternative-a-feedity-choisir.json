@@ -1,0 +1,492 @@
+{
+  "title": "Quelle alternative à Feedity choisir?",
+  "slug": "quelle-alternative-a-feedity-choisir",
+  "path": "/divers/quelle-alternative-a-feedity-choisir.html",
+  "category": "tech",
+  "tags": [
+    "feedity",
+    "flux rss",
+    "veille web",
+    "automatisation",
+    "scraping web",
+    "agrégateur rss"
+  ],
+  "excerpt": "Outils hébergés, extraction sans code, automatisation ou solution autonome : trouvez une alternative à Feedity adaptée à vos pages web et à votre usage.",
+  "metaDescription": "Comparez les meilleures alternatives à Feedity pour créer des flux RSS depuis des pages web : critères, budget, réglages et pièges à éviter.",
+  "seoTitle": "Alternative à Feedity : laquelle choisir ?",
+  "heroKicker": "Flux RSS sur mesure",
+  "readingTime": 12,
+  "date": "2024-08-27T15:38:19",
+  "image": {
+    "id": "2291",
+    "alt": "Quelle alternative à Feedity choisir?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Feedity est utilisé pour transformer une page web qui ne propose pas de syndication native en flux RSS exploitable dans un lecteur, un outil de veille ou une automatisation. Mais selon le type de site à surveiller, le volume de pages, votre budget et votre niveau technique, une autre solution peut être plus fiable, plus simple ou plus économique. Le bon choix ne consiste pas à trouver « le meilleur générateur RSS », mais celui qui extrait durablement les bonnes informations sans vous imposer une maintenance disproportionnée."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Avant de remplacer Feedity, vérifiez qu’il n’existe pas déjà un flux RSS, une newsletter ou une API officielle : ces sources sont plus stables qu’une extraction de page.",
+        "Pour surveiller quelques pages simples, privilégiez un service hébergé avec sélecteur visuel ; pour des scénarios complexes, une plateforme d’automatisation ou une solution auto-hébergée peut mieux convenir.",
+        "La qualité d’un flux dépend surtout de la structure du site source : une page dynamique, connectée ou protégée sera rarement suivie de façon parfaitement fiable.",
+        "Comparez les offres sur le nombre de pages, la fréquence de vérification, les limites d’articles, les règles de filtrage et les possibilités d’export, pas seulement sur le tarif d’entrée.",
+        "Testez systématiquement le flux dans votre vrai lecteur RSS ou votre outil cible avant de payer : un aperçu visuel ne suffit pas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que remplace exactement une alternative à Feedity ?",
+      "id": "que-remplace-exactement-une-alternative-a-feedity"
+    },
+    {
+      "type": "paragraph",
+      "html": "Feedity appartient à la famille des outils de <strong>création de flux RSS à partir de pages web</strong>. Le principe est simple : le service visite une URL, repère les éléments répétitifs — titre, lien, date, résumé, image — puis les publie sous la forme d’un flux RSS ou Atom. Vous pouvez alors suivre des annonces, des publications, des offres, des mises à jour de catalogue ou une rubrique éditoriale dans un seul endroit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce besoin recouvre toutefois plusieurs usages très différents. Un particulier peut vouloir recevoir les nouvelles annonces d’une page précise. Une équipe de communication peut centraliser des mentions de presse. Un professionnel de la veille peut suivre des appels d’offres, des changements réglementaires ou des publications concurrentes. Enfin, une équipe technique peut utiliser le flux comme déclencheur d’un scénario dans un outil d’automatisation. Une alternative pertinente à Feedity doit donc être évaluée à l’aune de <strong>votre source, votre fréquence de surveillance et votre destination</strong>."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Commencez par la source officielle",
+      "html": "Un générateur RSS ne devrait être qu’un <strong>plan B</strong>. Cherchez d’abord un flux RSS existant, une API, une newsletter avec archive, une alerte e-mail ou une page de recherche enregistrable. Ces solutions résistent généralement mieux aux refontes du site et posent moins de questions de conformité."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les critères décisifs pour bien choisir",
+      "id": "les-criteres-decisifs-pour-bien-choisir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les générateurs de flux se ressemblent de loin, mais leurs résultats peuvent diverger fortement sur une même page. Le point central est leur capacité à isoler la bonne zone de contenu. Sur une page de liste simple, presque tous les outils savent extraire les titres et les liens. Sur un site chargé en JavaScript, avec des cartes qui se ressemblent, des contenus sponsorisés ou une pagination infinie, l’extraction devient nettement plus délicate."
+    },
+    {
+      "type": "table",
+      "caption": "Les critères à comparer avant de choisir une alternative à Feedity",
+      "headers": [
+        "Critère",
+        "Pourquoi c’est important",
+        "Ce qu’il faut vérifier"
+      ],
+      "rows": [
+        [
+          "Méthode de sélection",
+          "Elle détermine la précision des articles extraits.",
+          "Sélecteur visuel, règles CSS/XPath, aperçu des éléments retenus et exclusion des blocs indésirables."
+        ],
+        [
+          "Rendu JavaScript",
+          "Certaines pages n’affichent leur contenu qu’après chargement dans un navigateur.",
+          "Mention explicite d’un rendu de page, temps d’attente réglable et résultat réel lors du test."
+        ],
+        [
+          "Fréquence de mise à jour",
+          "Un flux peu souvent actualisé peut faire manquer une information utile.",
+          "Intervalle proposé, fréquence accessible selon la formule et délai de détection acceptable pour vous."
+        ],
+        [
+          "Filtrage et dédoublonnage",
+          "Ils évitent de remplir le lecteur avec des contenus inutiles ou répétés.",
+          "Mots-clés d’inclusion/exclusion, règles sur le titre, conservation de l’identifiant et gestion des doublons."
+        ],
+        [
+          "Format de sortie",
+          "Le flux doit fonctionner avec votre destination.",
+          "RSS ou Atom, lien direct stable, contenu complet ou extrait, image et date correctement transmis."
+        ],
+        [
+          "Alertes et intégrations",
+          "Elles peuvent éviter un second outil.",
+          "E-mail, webhook, Zapier, Make, export ou compatibilité avec un lecteur RSS."
+        ],
+        [
+          "Confidentialité",
+          "Une URL privée ou une page interne ne doit pas être exposée sans contrôle.",
+          "Gestion des accès, URL de flux non devinable, authentification éventuelle et politique de conservation."
+        ],
+        [
+          "Maintenance",
+          "Toute modification de la page source peut casser le flux.",
+          "Historique d’erreurs, notification de rupture, édition facile des règles et support documentaire."
+        ]
+      ],
+      "note": "Les fonctionnalités et limites varient selon les formules et évoluent fréquemment : contrôlez toujours les conditions de l’offre au moment du choix."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La page source compte davantage que le nom de l’outil",
+      "id": "la-page-source-compte-davantage-que-le-nom-de-l-outil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’essayer un nouveau service, ouvrez la page à surveiller et posez-vous quatre questions. Les nouveaux contenus apparaissent-ils directement dans le code ou seulement après un défilement ? Chaque résultat a-t-il un lien unique ? Les anciennes publications restent-elles accessibles ? Les titres, dates et descriptions suivent-ils une structure régulière ? Une page qui coche ces cases est généralement un bon candidat pour un générateur RSS sans code."
+    },
+    {
+      "type": "paragraph",
+      "html": "À l’inverse, les réseaux sociaux, les interfaces connectées, les comparateurs très dynamiques, les pages avec CAPTCHA ou les résultats personnalisés sont des sources fragiles. Même si l’outil parvient à créer un flux aujourd’hui, il peut échouer dès que le site modifie ses scripts, impose une vérification ou change l’ordre des cartes. Dans ce cas, une alerte officielle, une API ou un connecteur spécialisé est souvent un meilleur investissement."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "Quelques minutes",
+          "label": "pour tester un flux sur une page de liste simple"
+        },
+        {
+          "value": "1 à 10 sources",
+          "label": "volume raisonnable à valider manuellement au démarrage"
+        },
+        {
+          "value": "2 niveaux",
+          "label": "à contrôler : extraction des données et réception dans votre outil final"
+        },
+        {
+          "value": "1 contrôle régulier",
+          "label": "nécessaire après toute refonte de la page surveillée"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les principales alternatives à Feedity selon votre besoin",
+      "id": "les-principales-alternatives-a-feedity-selon-votre-besoin"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas une seule alternative universelle. Les services hébergés spécialisés restent les plus rapides à prendre en main. Les plateformes d’automatisation donnent davantage de contrôle, mais nécessitent une configuration plus poussée. Les logiciels libres ou auto-hébergés séduisent lorsqu’on veut maîtriser l’infrastructure, au prix d’un effort technique réel. Voici les familles de solutions à regarder, avec des exemples représentatifs plutôt qu’un classement absolu."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "RSS.app : pour une création visuelle et immédiate",
+      "id": "rss-app-pour-une-creation-visuelle-et-immediate"
+    },
+    {
+      "type": "paragraph",
+      "html": "RSS.app est une solution hébergée fréquemment choisie pour générer des flux depuis des pages web, des recherches ou certaines plateformes de contenus. Son intérêt se situe dans l’approche guidée : vous partez d’une URL, sélectionnez les éléments utiles et obtenez rapidement un flux exploitable. C’est une piste logique si vous recherchez l’expérience la plus proche d’un service clé en main et si vous ne souhaitez pas manipuler de sélecteurs techniques."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette famille d’outils convient particulièrement aux pages publiques et visuellement structurées. Vérifiez toutefois les limites de la formule envisagée : nombre de flux actifs, cadence de vérification, accès aux fonctionnalités avancées et présence éventuelle d’un habillage du service dans le flux ou les widgets. Pour une veille professionnelle, testez aussi la régularité des dates, des images et des liens de destination."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "FetchRSS : pour extraire précisément une liste de résultats",
+      "id": "fetchrss-pour-extraire-precisement-une-liste-de-resultats"
+    },
+    {
+      "type": "paragraph",
+      "html": "FetchRSS s’adresse aux utilisateurs qui veulent construire un flux à partir d’une page contenant des éléments répétitifs, par exemple une rubrique, un moteur de petites annonces ou une liste de publications. Son approche de sélection des blocs peut être intéressante lorsque la page est assez classique mais que vous devez distinguer proprement le titre, le lien, le résumé ou l’image."
+    },
+    {
+      "type": "paragraph",
+      "html": "C’est une option à examiner lorsque vous acceptez de passer quelques minutes sur le paramétrage pour améliorer la qualité du flux. Elle est moins adaptée si la page ne se charge qu’après de nombreuses interactions ou si les données sont totalement personnalisées selon l’utilisateur. Dans tous les cas, contrôlez le rendu des caractères accentués, les liens absolus et l’unicité des entrées générées."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "PolitePol : pour une surveillance de changements orientée veille",
+      "id": "politepol-pour-une-surveillance-de-changements-orientee-veil"
+    },
+    {
+      "type": "paragraph",
+      "html": "PolitePol se situe davantage à la frontière entre la création de flux et le suivi de modifications de pages. Cette approche peut être utile si votre objectif n’est pas de reconstituer une rubrique complète, mais d’être averti lorsqu’une zone précise est mise à jour : une page de résultats, un calendrier, une disponibilité, un document ou une information institutionnelle."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’intérêt d’un outil centré sur les changements est de pouvoir surveiller une portion limitée de page au lieu d’essayer d’interpréter toute sa structure éditoriale. En revanche, un flux issu de modifications peut produire des entrées moins élégantes qu’un flux RSS natif : texte partiel, absence d’image ou contenu peu contextualisé. Il convient davantage à la <strong>détection</strong> qu’à la lecture confortable."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Feed43 : pour les pages dont l’extraction demande des règles",
+      "id": "feed43-pour-les-pages-dont-l-extraction-demande-des-regles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Feed43 est connu pour son approche plus technique de la génération de flux depuis du HTML. Il peut intéresser les utilisateurs capables de repérer des motifs dans une page et de définir des règles d’extraction. Ce type de service peut sauver une page que les sélecteurs visuels interprètent mal, notamment lorsque la structure est régulière mais peu conviviale à sélectionner."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son compromis est clair : vous gagnez en liberté de paramétrage, mais vous perdez en simplicité. Si vous ne savez pas lire un minimum de structure HTML, prévoyez une phase d’apprentissage ou choisissez plutôt une interface visuelle. Il faut également anticiper qu’une petite modification du balisage source peut nécessiter de reprendre vos règles."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "RSSHub, Huginn ou un script : pour garder la main",
+      "id": "rsshub-huginn-ou-un-script-pour-garder-la-main"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les solutions open source, comme RSSHub pour des connecteurs et routes dédiés ou Huginn pour concevoir des agents de surveillance, s’adressent à des utilisateurs plus techniques. Un script personnalisé, éventuellement exécuté sur un serveur ou une automatisation planifiée, entre dans la même catégorie. Elles offrent un contrôle élevé sur les données, les traitements, le filtrage et la diffusion du flux."
+    },
+    {
+      "type": "paragraph",
+      "html": "Cette voie est judicieuse si vous avez beaucoup de sources, des besoins de confidentialité renforcés, des règles métier spécifiques ou une équipe capable d’assurer l’exploitation. Elle n’est pas automatiquement moins chère : l’abonnement disparaît parfois, mais il faut compter le temps de déploiement, d’hébergement, de surveillance et de correction. Pour une seule page non critique, elle constitue souvent un excès de complexité."
+    },
+    {
+      "type": "comparison",
+      "title": "Service hébergé ou solution auto-hébergée ?",
+      "left": {
+        "title": "Service hébergé sans code",
+        "points": [
+          "Mise en route rapide, sans serveur à administrer.",
+          "Sélection visuelle adaptée aux pages simples et publiques.",
+          "Coût récurrent généralement lié au nombre de flux ou à la fréquence.",
+          "Dépendance au fournisseur et contrôle limité sur le traitement des données.",
+          "Idéal pour une veille individuelle, une petite équipe ou un besoin ponctuel."
+        ]
+      },
+      "right": {
+        "title": "Solution technique ou auto-hébergée",
+        "points": [
+          "Règles d’extraction, stockage et intégrations entièrement personnalisables.",
+          "Meilleur contrôle sur la confidentialité et la continuité d’exploitation.",
+          "Installation, mises à jour et dépannage à votre charge.",
+          "Nécessite des compétences web, système ou automatisation.",
+          "À privilégier pour des flux nombreux, sensibles ou intégrés à un processus métier."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir et comment éviter les mauvaises surprises ?",
+      "id": "quel-budget-prevoir-et-comment-eviter-les-mauvaises-surprise"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les services de génération de flux fonctionnent généralement avec un modèle freemium ou par abonnement. Une formule gratuite ou d’essai permet souvent de valider un petit nombre de pages, avec une actualisation moins fréquente ou des restrictions sur les fonctionnalités. Les formules payantes se situent couramment entre un <strong>petit abonnement mensuel</strong> pour quelques flux et un budget professionnel plus conséquent pour de nombreuses sources, des mises à jour rapprochées ou des intégrations avancées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne calculez pas seulement le coût par mois. Évaluez le coût d’un flux manqué, le temps passé à réparer une extraction cassée et le risque de dépendre d’une URL de sortie que vous ne maîtrisez pas. Pour une veille qui guide une décision commerciale, réglementaire ou opérationnelle, un service un peu plus coûteux mais stable peut être rentable. Pour suivre une annonce occasionnelle, une formule gratuite ou un outil de détection de changements peut suffire."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget par type de besoin",
+      "headers": [
+        "Besoin",
+        "Solution généralement adaptée",
+        "Budget à envisager",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Une ou quelques pages non critiques",
+          "Outil hébergé gratuit, essai ou offre d’entrée de gamme.",
+          "Gratuit à petit budget récurrent.",
+          "Fréquence de mise à jour limitée et fonctionnalités restreintes."
+        ],
+        [
+          "Veille régulière sur plusieurs rubriques",
+          "Service RSS spécialisé avec filtres et alertes.",
+          "Petit à moyen budget mensuel.",
+          "Compter les flux réels, y compris les pages de secours et les tests."
+        ],
+        [
+          "Automatisation d’équipe",
+          "Plateforme d’automatisation ou service avec webhooks.",
+          "Budget variable selon le volume d’exécutions.",
+          "Les opérations, tâches ou appels peuvent être limités séparément des flux."
+        ],
+        [
+          "Sources sensibles ou grand volume",
+          "Solution sur mesure ou auto-hébergée.",
+          "Coût technique et d’hébergement en plus du temps humain.",
+          "Maintenance, sécurité et respect des règles du site deviennent essentiels."
+        ]
+      ],
+      "note": "Ces fourchettes sont volontairement qualitatives : les conditions tarifaires, limitations et fonctions incluses changent selon les éditeurs."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Évitez le piège du « flux illimité »",
+      "html": "Une offre peut annoncer de nombreux flux tout en limitant la <strong>cadence de vérification</strong>, le nombre d’éléments extraits, les requêtes mensuelles ou les intégrations. Pour une alerte urgente, une vérification quotidienne ne remplace pas une surveillance rapprochée. Lisez les limites opérationnelles avant de comparer les prix."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment tester une alternative avant de l’adopter",
+      "id": "comment-tester-une-alternative-avant-de-l-adopter"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un bon test ne se résume pas à vérifier qu’un flux est généré. Il faut s’assurer qu’il produit exactement les informations qui déclencheront votre action. Choisissez une page contenant plusieurs entrées récentes, idéalement avec des titres, des dates, des liens et au moins un élément à exclure, comme un contenu mis en avant ou une publicité. Vous pourrez ainsi voir si l’outil comprend réellement la structure de la page."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode de validation en six étapes",
+      "items": [
+        {
+          "title": "Choisissez une page représentative",
+          "text": "Testez la page que vous utiliserez vraiment, pas une page de démonstration plus simple. Préférez une liste de contenus avec plusieurs entrées visibles."
+        },
+        {
+          "title": "Repérez le bloc répétitif",
+          "text": "Sélectionnez une carte complète ou une ligne de résultat, puis vérifiez que l’outil détecte toutes les entrées similaires sans récupérer le menu, le pied de page ou les recommandations."
+        },
+        {
+          "title": "Contrôlez les champs essentiels",
+          "text": "Le titre doit être lisible, le lien doit ouvrir la bonne page, et la date ou le résumé doivent correspondre au contenu source si vous en avez besoin."
+        },
+        {
+          "title": "Excluez le bruit",
+          "text": "Retirez les publications sponsorisées, les éléments épinglés, les doublons ou les blocs de navigation. Appliquez des mots-clés d’exclusion si le service le permet."
+        },
+        {
+          "title": "Ouvrez le flux dans sa destination finale",
+          "text": "Ajoutez l’URL dans votre lecteur RSS, votre outil de veille ou votre automatisation. Vérifiez le rendu réel, pas seulement l’aperçu du générateur."
+        },
+        {
+          "title": "Surveillez le comportement quelques cycles",
+          "text": "Revenez après la publication d’un nouveau contenu ou simulez une modification si possible. Assurez-vous qu’une entrée est créée une seule fois et au bon moment."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réglages qui font réellement la différence",
+      "id": "reglages-qui-font-reellement-la-difference"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le réglage le plus important est le <strong>niveau de granularité</strong>. Un flux trop large récupère tout le site et devient inutilisable. Un flux trop étroit risque de manquer des nouveautés. Pour une veille opérationnelle, créez souvent plusieurs flux ciblés plutôt qu’un flux massif : une rubrique, une recherche ou une catégorie par besoin. Vous pourrez ensuite appliquer des priorités différentes dans votre lecteur."
+    },
+    {
+      "type": "paragraph",
+      "html": "Portez aussi attention au contenu inclus dans chaque item. Un titre et un lien suffisent pour une alerte simple. Un résumé est utile pour trier rapidement. Le texte intégral est parfois souhaitable, mais il peut alourdir le flux, reproduire un contenu protégé ou générer des doublons dans votre outil de destination. N’extrayez que ce qui sert votre décision."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist de réglage d’un flux fiable",
+      "items": [
+        "Conservez le <strong>lien canonique</strong> de chaque contenu quand il est identifiable, afin de limiter les doublons.",
+        "Utilisez une règle d’inclusion par mot-clé seulement si les titres sont suffisamment normalisés ; sinon, vous risquez de filtrer des résultats pertinents.",
+        "Écartez les entrées sans lien unique, les blocs « à la une » et les contenus sponsorisés lorsqu’ils ne vous intéressent pas.",
+        "Choisissez une fréquence cohérente avec l’utilité de l’information et avec les limites imposées par le site source.",
+        "Donnez à chaque flux un nom explicite indiquant la source, la rubrique et le filtre appliqué.",
+        "Documentez l’URL source et la logique de sélection : vous gagnerez du temps le jour où la page changera."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs à éviter : fiabilité, légalité et confidentialité",
+      "id": "les-erreurs-a-eviter-fiabilite-legalite-et-confidentialite"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à confondre accès public et réutilisation libre. Une page publiquement accessible peut être soumise à des conditions d’utilisation, à des droits sur les contenus ou à des restrictions techniques. Générer un flux pour votre lecture personnelle n’a pas les mêmes enjeux que republier massivement des textes, images ou données dans un produit commercial. Respectez les conditions du site, les droits de propriété intellectuelle, les éventuelles limitations indiquées dans son fichier robots.txt et, surtout, évitez toute tentative de contournement d’une authentification, d’un CAPTCHA ou d’une protection anti-automatisation."
+    },
+    {
+      "type": "paragraph",
+      "html": "La deuxième erreur est d’envoyer une page contenant des informations privées à un service tiers sans vérifier son fonctionnement. Une URL avec jeton d’accès, une page d’administration, un espace client ou des données personnelles ne doit pas être confiée à un générateur externe par défaut. Préférez une API prévue pour cet usage, une intégration officielle ou un traitement que vous maîtrisez. Si vous gérez des données professionnelles, vérifiez aussi qui peut consulter l’URL du flux généré."
+    },
+    {
+      "type": "proscons",
+      "title": "Créer un flux RSS depuis une page web : le vrai bilan",
+      "pros": [
+        "Centralise des sources qui ne proposent pas de RSS natif.",
+        "Permet de lire, filtrer ou automatiser les nouveautés dans un format standard.",
+        "Évite des vérifications manuelles répétitives sur des pages publiques.",
+        "Peut servir de passerelle entre une source web et un outil de veille, d’alerte ou de productivité."
+      ],
+      "cons": [
+        "Dépend de la structure de la page, qui peut changer sans préavis.",
+        "Les sites dynamiques, connectés ou protégés sont souvent mal pris en charge.",
+        "La fréquence de détection et le nombre de flux peuvent être limités par l’offre choisie.",
+        "Une extraction ou une republication mal maîtrisée peut poser des problèmes de droits, de confidentialité ou de conformité."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne contournez pas les protections du site",
+      "html": "Si une source exige une connexion, bloque les robots ou affiche un CAPTCHA, ne cherchez pas à forcer l’extraction avec un générateur de flux. Recherchez une <strong>API, une alerte officielle, une exportation autorisée</strong> ou demandez l’accès au propriétaire de la donnée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Et si le RSS n’est pas la meilleure réponse ?",
+      "id": "et-si-le-rss-n-est-pas-la-meilleure-reponse"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un flux RSS est excellent pour centraliser une veille et déclencher des actions à partir de nouveaux éléments. Il n’est pas toujours l’outil le plus pertinent. Si vous voulez seulement savoir qu’un paragraphe a changé, un service de détection de modifications est souvent plus direct. Si vous devez transférer une donnée vers un tableur, un CRM ou une messagerie, une automatisation construite autour d’une API ou d’un webhook sera plus robuste. Si votre objectif est de suivre des offres ou des disponibilités, les alertes natives du site restent généralement le premier choix."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Choisissez une autre approche lorsque…",
+      "items": [
+        "Vous surveillez une <strong>modification ponctuelle</strong> sur une page : utilisez plutôt une alerte de changement ciblée.",
+        "Vous avez besoin de données structurées et fiables à grande échelle : recherchez une API, un export ou un fournisseur de données autorisé.",
+        "Vous devez alerter une équipe dans un canal de discussion : associez le flux à une automatisation ou utilisez un webhook natif.",
+        "La source dispose d’une newsletter bien tenue : archivez ou filtrez les e-mails plutôt que de recréer un flux fragile.",
+        "Le site propose déjà un flux RSS natif : utilisez-le directement, même s’il est moins esthétique qu’un flux reconstruit."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Notre méthode de décision rapide",
+      "id": "notre-methode-de-decision-rapide"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour remplacer Feedity sans vous disperser, commencez par tester deux services hébergés sur la même URL, dont l’un offre un sélecteur visuel et l’autre des réglages plus précis. Comparez le résultat dans votre lecteur final : qualité des titres, liens, dates, doublons et rapidité de mise à jour. Si aucun ne produit un flux propre en peu de temps, ne multipliez pas les essais à l’infini : votre source est probablement mal adaptée à cette méthode."
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans ce cas, revenez à la question de départ : avez-vous besoin de lire les nouveautés, de détecter un changement ou de récupérer une donnée ? Cette clarification vous orientera vers un lecteur RSS, un outil de monitoring, une API ou une automatisation. L’alternative la plus efficace à Feedity est parfois un autre générateur RSS ; elle peut aussi être une solution qui ne produit aucun flux, mais répond mieux à votre objectif réel."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les alternatives à Feedity",
+      "items": [
+        {
+          "q": "Quelle est la meilleure alternative gratuite à Feedity ?",
+          "a": "Il n’existe pas de meilleur choix universel. Pour quelques pages publiques et simples, testez un service proposant une formule gratuite ou une période d’essai, comme RSS.app, FetchRSS ou PolitePol selon votre besoin. Comparez surtout la qualité de l’extraction et la fréquence de mise à jour autorisée, car une option gratuite peut être suffisante pour une veille non urgente mais trop limitée pour un usage professionnel."
+        },
+        {
+          "q": "Puis-je créer un flux RSS à partir de n’importe quel site ?",
+          "a": "Non. Les pages publiques, structurées et accessibles sans interaction complexe sont les plus faciles à convertir. Les sites chargés en JavaScript, les espaces connectés, les pages personnalisées, les réseaux sociaux ou les services protégés par CAPTCHA peuvent ne pas fonctionner ou devenir instables. Ne contournez jamais les protections mises en place par un site."
+        },
+        {
+          "q": "Pourquoi mon flux RSS ne se met-il pas à jour ?",
+          "a": "La cause peut venir de la fréquence choisie, des limites de votre formule, d’un contenu chargé dynamiquement ou d’une modification de la structure de la page source. Vérifiez d’abord si le nouveau contenu est réellement visible publiquement sur l’URL surveillée. Consultez ensuite l’historique d’exécution de l’outil et refaites la sélection des éléments si nécessaire."
+        },
+        {
+          "q": "RSS.app ou FetchRSS : lequel choisir ?",
+          "a": "Choisissez plutôt RSS.app si vous recherchez une prise en main très guidée et une création rapide de flux. FetchRSS peut être intéressant si vous voulez travailler plus finement la sélection d’une liste répétitive sur une page. La bonne méthode consiste à créer un flux d’essai avec les deux services sur votre URL exacte, puis à comparer les entrées obtenues dans votre lecteur RSS."
+        },
+        {
+          "q": "Est-il légal de transformer une page web en flux RSS ?",
+          "a": "Cela dépend de la source et de l’usage. La consultation d’une page publique ne vous donne pas automatiquement le droit de copier, stocker ou republier son contenu à grande échelle. Respectez les conditions d’utilisation, les droits sur les textes et images, les restrictions techniques et les règles de confidentialité. Pour une utilisation commerciale, sensible ou à volume élevé, privilégiez une API, un accord ou une source explicitement autorisée."
+        },
+        {
+          "q": "Comment éviter les doublons dans un flux généré ?",
+          "a": "Utilisez le lien unique de chaque article comme identifiant lorsque l’outil le permet, évitez d’extraire des blocs mis en avant qui répètent les mêmes contenus et vérifiez que le titre ne varie pas à chaque analyse. Si la page affiche les mêmes résultats dans plusieurs zones, limitez votre sélection au conteneur principal de la liste. Un test sur plusieurs cycles de mise à jour reste indispensable."
+        }
+      ]
+    }
+  ]
+}

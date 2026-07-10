@@ -1,0 +1,383 @@
+{
+  "title": "Comment équilibrer une roue efficacement ?",
+  "slug": "comment-equilibrer-une-roue-efficacement",
+  "path": "/divers/comment-equilibrer-une-roue-efficacement.html",
+  "category": "auto-moto",
+  "tags": [
+    "équilibrage roue",
+    "pneus",
+    "vibrations voiture",
+    "jantes",
+    "entretien auto",
+    "roue moto"
+  ],
+  "excerpt": "Une roue bien équilibrée limite les vibrations, préserve pneus et suspension. Méthode, contrôles, budget et erreurs à éviter pour agir efficacement.",
+  "metaDescription": "Découvrez comment équilibrer une roue, repérer les vibrations, choisir les bons masses et savoir quand confier l’opération à un professionnel.",
+  "seoTitle": "Équilibrer une roue efficacement : méthode et conseils",
+  "heroKicker": "Zéro vibration",
+  "readingTime": 11,
+  "date": "2024-07-14T00:34:19",
+  "image": {
+    "id": "2100",
+    "alt": "Comment équilibrer une roue efficacement ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une vibration dans le volant, le siège ou le plancher à vitesse stabilisée n’est jamais à banaliser : un mauvais équilibrage de roue en est souvent la cause. Bien réalisé, l’équilibrage répartit les masses autour de l’ensemble jante-pneu pour que la roue tourne sans balourd, améliore le confort et évite une usure prématurée de plusieurs éléments du train roulant."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "L’équilibrage concerne l’ensemble <strong>jante + pneu</strong>, et non le pneu seul : il doit être contrôlé après chaque montage ou réparation importante.",
+        "Une vibration au volant évoque souvent l’essieu avant ; ressentie dans le siège, elle peut venir de l’arrière. Ce n’est toutefois pas un diagnostic suffisant à lui seul.",
+        "L’équilibrage dynamique sur machine est la solution la plus fiable pour une voiture ; l’équilibrage statique reste surtout pertinent pour certaines roues de moto ou des usages simples.",
+        "Avant d’ajouter des masses, vérifiez la pression, l’état du pneu, la propreté de la portée de jante et le bon centrage de la roue.",
+        "Si la vibration persiste après équilibrage, recherchez un voile de jante, un pneu déformé, un défaut de centrage, un jeu mécanique ou un problème de géométrie."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre l’équilibrage : supprimer le balourd de la roue",
+      "id": "comprendre-l-equilibrage-supprimer-le-balourd-de-la-roue"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une roue ne possède jamais une répartition de masse parfaitement homogène. La jante, le pneu, la valve, une réparation ou même de petites variations de fabrication créent un point légèrement plus lourd. En rotation, ce déséquilibre génère une force centrifuge qui augmente avec la vitesse : c’est le <strong>balourd</strong>. Il se traduit par des oscillations, parfois discrètes à faible allure puis très nettes sur route rapide."
+    },
+    {
+      "type": "paragraph",
+      "html": "Équilibrer une roue consiste à mesurer ce balourd, puis à poser une ou plusieurs masses d’appoint à des endroits calculés. Les masses peuvent être à pince sur le rebord de la jante, ou adhésives à l’intérieur de celle-ci. L’objectif n’est pas de rendre la roue « plus lourde » : il est de répartir correctement sa masse sur toute sa circonférence et, selon la méthode, sur ses deux côtés."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 plans",
+          "label": "sont généralement corrigés lors d’un équilibrage dynamique automobile"
+        },
+        {
+          "value": "5 g",
+          "label": "correspond souvent au plus petit pas de masse utilisé par les équilibreuses"
+        },
+        {
+          "value": "80–130 km/h",
+          "label": "est une plage où un balourd modéré devient fréquemment perceptible"
+        },
+        {
+          "value": "Quelques minutes",
+          "label": "suffisent à la mesure sur machine, hors dépose et repose de la roue"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Équilibrage et parallélisme : deux opérations différentes",
+      "html": "Le <strong>parallélisme</strong>, ou géométrie, règle l’orientation des roues par rapport au véhicule. L’équilibrage compense une répartition de masse imparfaite dans la roue. Une voiture peut avoir une géométrie correcte et des roues mal équilibrées, ou l’inverse. Ne confondez pas les symptômes : une usure irrégulière et une voiture qui tire d’un côté orientent davantage vers la géométrie, tandis qu’une vibration rythmée avec la vitesse évoque l’équilibrage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Reconnaître les signes d’un mauvais équilibrage",
+      "id": "reconnaitre-les-signes-d-un-mauvais-equilibrage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le symptôme classique est une vibration qui apparaît dans une plage de vitesse précise, s’atténue parfois, puis revient à une vitesse supérieure. Sur une voiture, une vibration ressentie surtout dans le volant suggère souvent une roue avant ; si elle remonte davantage dans l’assise, le plancher ou la caisse, une roue arrière est une piste crédible. Sur une moto, le guidon peut osciller, la machine paraître moins stable ou transmettre des battements inhabituels."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces indices ne permettent pas de conclure seuls. Un pneu usé en facettes, une hernie, une ceinture interne endommagée, une jante voilée, un disque de frein déformé, des éléments de suspension fatigués ou un mauvais serrage de roue peuvent produire des sensations proches. L’équilibrage est donc une étape de diagnostic logique, mais il ne doit jamais servir à masquer un défaut visible ou mécanique."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Contrôles simples avant de prendre rendez-vous",
+      "items": [
+        "Vérifiez la <strong>pression à froid</strong> des quatre pneus selon les préconisations du véhicule.",
+        "Examinez les flancs et la bande de roulement : hernie, entaille profonde, déformation, usure localisée ou objet planté imposent un avis professionnel.",
+        "Regardez si une ancienne masse est tombée : il peut rester une trace de colle ou une zone plus propre sur la jante.",
+        "Retirez boue, neige compactée, gravillons ou amas de graisse à l’intérieur de la jante : une petite masse mal placée suffit à déséquilibrer l’ensemble.",
+        "Assurez-vous que les écrous ou boulons de roue sont serrés au couple prescrit, sans jamais les resserrer « au feeling » de manière excessive."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Équilibrage statique ou dynamique : quelle méthode choisir ?",
+      "id": "equilibrage-statique-ou-dynamique-quelle-methode-choisir"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’équilibrage <strong>statique</strong> cherche à neutraliser un point lourd dans un seul plan : sur un support libre, la roue a tendance à s’immobiliser avec ce point vers le bas. On ajoute alors une masse à l’opposé. Cette technique est simple et peut donner de bons résultats sur une roue étroite, notamment en moto avec un support adapté. Elle ne détecte cependant pas tous les déséquilibres latéraux."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’équilibrage <strong>dynamique</strong>, réalisé avec une équilibreuse électronique, fait tourner la roue et mesure le balourd sur les plans intérieur et extérieur de la jante. C’est la méthode de référence pour les roues automobiles modernes, souvent larges et équipées de pneus taille basse. La machine indique la quantité de masse et l’emplacement à corriger ; le technicien doit ensuite poser les masses avec précision et contrôler le résultat par une nouvelle rotation."
+    },
+    {
+      "type": "comparison",
+      "title": "Les deux méthodes en pratique",
+      "left": {
+        "title": "Équilibrage statique",
+        "points": [
+          "Corrige principalement le point lourd vertical.",
+          "Possible avec un axe et un support d’équilibrage adaptés.",
+          "Intéressant pour certaines roues de moto, remorques ou roues étroites.",
+          "Moins complet sur les jantes larges et les voitures actuelles.",
+          "Demande du temps, de la méthode et une roue parfaitement propre."
+        ]
+      },
+      "right": {
+        "title": "Équilibrage dynamique",
+        "points": [
+          "Corrige le balourd sur les faces intérieure et extérieure.",
+          "Méthode recommandée pour la majorité des roues de voiture.",
+          "Résultat rapide et reproductible sur une machine correctement étalonnée.",
+          "Permet des programmes spécifiques aux jantes aluminium et aux masses cachées.",
+          "Nécessite un professionnel ou un équipement coûteux et bien maîtrisé."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode efficace en atelier, étape par étape",
+      "id": "la-methode-efficace-en-atelier-etape-par-etape"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un résultat fiable, l’équilibrage ne se résume pas à coller des masses jusqu’à ce que l’écran affiche zéro. Il commence par une inspection de la roue déposée. Le professionnel vérifie l’état de la jante, l’absence de corps étranger, la pression du pneu et la présence d’anciennes masses. Il nettoie ensuite les zones de pose, surtout pour les masses adhésives, dont la tenue dépend directement d’une surface sèche et dégraissée."
+    },
+    {
+      "type": "steps",
+      "title": "Déroulé d’un équilibrage dynamique bien réalisé",
+      "items": [
+        {
+          "title": "1. Identifier la roue et retirer les anciennes masses",
+          "text": "Toute ancienne masse doit être déposée avant une nouvelle mesure. Les résidus de colle sont retirés sans rayer la jante, particulièrement sur une finition peinte, polie ou diamantée."
+        },
+        {
+          "title": "2. Contrôler pneu et jante",
+          "text": "Le technicien inspecte les flancs, la portée de talon, la bande de roulement et le voile éventuel de la jante. Une roue endommagée ne doit pas être simplement « compensée » par davantage de masses."
+        },
+        {
+          "title": "3. Monter la roue correctement sur l’équilibreuse",
+          "text": "Le centrage sur l’axe est déterminant. Un cône, une bride ou une fixation adaptée au type de jante évitent de mesurer un faux défaut créé par un mauvais montage sur la machine."
+        },
+        {
+          "title": "4. Saisir les dimensions et lancer la rotation",
+          "text": "Largeur de jante, diamètre et distance sont renseignés ou relevés automatiquement. La machine calcule le déséquilibre pour chaque plan après rotation."
+        },
+        {
+          "title": "5. Poser les masses au bon emplacement",
+          "text": "Les masses à pince conviennent à certains rebords de jante ; les masses adhésives sont privilégiées pour de nombreuses jantes aluminium. Elles doivent être parfaitement pressées sur une zone propre et sèche."
+        },
+        {
+          "title": "6. Vérifier par une seconde mesure",
+          "text": "Une nouvelle rotation valide la correction. Si la quantité de masses paraît anormalement élevée, il faut recontrôler le centrage, la jante et le pneu plutôt que d’empiler les masses."
+        },
+        {
+          "title": "7. Reposer la roue dans les règles",
+          "text": "La surface d’appui du moyeu est nettoyée, la roue est posée sans contrainte et les fixations sont serrées en croix au couple recommandé par le constructeur."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le détail qui évite bien des retours",
+      "html": "Lors du montage d’un pneu neuf, demandez que le professionnel tienne compte du <strong>repérage du pneu et de la jante</strong> lorsque cela est nécessaire. Un bon positionnement relatif peut réduire la quantité de masses à poser. Si une roue exige soudainement beaucoup de masses, un contrôle de l’ensemble est préférable à une correction aveugle."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Peut-on équilibrer une roue soi-même ?",
+      "id": "peut-on-equilibrer-une-roue-soi-meme"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez effectuer les vérifications préparatoires vous-même et, dans certains cas, réaliser un équilibrage statique d’une roue de moto avec un support de qualité, un axe adapté et des masses prévues pour la jante. Cela exige de la patience : la roue doit tourner librement, sans frottement parasite, et il faut répéter plusieurs fois le contrôle pour confirmer que son arrêt n’est plus systématiquement orienté au même endroit."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une voiture, l’équilibrage à domicile est rarement la solution la plus rationnelle. Une équilibreuse dynamique fiable, les accessoires de centrage, les masses appropriées et l’expérience de pose représentent un investissement disproportionné pour un usage occasionnel. Les produits d’équilibrage interne, comme certaines billes ou poudres, peuvent convenir à des applications spécifiques lorsqu’ils sont validés par le fabricant du pneu ou du véhicule, mais ne constituent pas une réponse universelle aux vibrations d’une voiture particulière."
+    },
+    {
+      "type": "proscons",
+      "title": "Équilibrage maison : ce qu’il faut peser",
+      "pros": [
+        "Économie possible sur des roues de moto entretenues régulièrement.",
+        "Meilleure compréhension de l’état de vos pneus et jantes.",
+        "Pratique pour intervenir entre deux usages sur une machine équipée d’un support dédié.",
+        "Possibilité de choisir vous-même des masses discrètes et compatibles avec vos jantes."
+      ],
+      "cons": [
+        "Pas de correction dynamique fiable sans équipement adapté.",
+        "Risque de poser des masses au mauvais endroit ou sur une surface mal préparée.",
+        "Diagnostic incomplet si la vibration provient d’un pneu déformé ou de la suspension.",
+        "Sécurité compromise en cas de mauvaise repose de roue ou de serrage incorrect."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir les bonnes masses et respecter la jante",
+      "id": "choisir-les-bonnes-masses-et-respecter-la-jante"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le type de masse dépend d’abord du dessin de la jante. Les masses à pince se fixent sur le rebord et offrent une très bonne tenue, mais elles ne conviennent pas à toutes les jantes aluminium : un mauvais profil peut abîmer le vernis ou marquer le métal. Les masses adhésives se collent dans le creux intérieur, sont plus discrètes et évitent les pinces visibles. Elles nécessitent en revanche une préparation irréprochable de la surface."
+    },
+    {
+      "type": "paragraph",
+      "html": "Privilégiez des masses compatibles avec le matériau et la géométrie de votre jante. Les masses modernes sans plomb sont devenues la norme dans de nombreux contextes. Ne mélangez pas des systèmes de fixation improvisés, et n’utilisez jamais une colle domestique en remplacement d’un adhésif conçu pour subir eau, chaleur, poussière de frein et force centrifuge."
+    },
+    {
+      "type": "table",
+      "caption": "Quel type de masse selon votre roue ?",
+      "headers": [
+        "Solution",
+        "Usage adapté",
+        "Atouts",
+        "Vigilances"
+      ],
+      "rows": [
+        [
+          "Masse à pince",
+          "Jantes acier et certains profils de jantes aluminium",
+          "Tenue mécanique robuste ; pose rapide",
+          "Exige le bon profil ; peut marquer une jante inadaptée"
+        ],
+        [
+          "Masse adhésive",
+          "Nombreuses jantes aluminium, recherche d’un rendu discret",
+          "Invisible depuis l’extérieur ; respecte le rebord",
+          "Surface à dégraisser ; risque de décollage si la pose est négligée"
+        ],
+        [
+          "Masse « cachée » en programme alu",
+          "Jantes aluminium à branches ouvertes",
+          "Préserve l’esthétique en plaçant les masses derrière les rayons",
+          "Dépend de la précision de la machine et de la forme de la jante"
+        ],
+        [
+          "Billes ou produit interne spécifique",
+          "Certains usages poids lourds, utilitaires ou applications validées",
+          "Répartition automatique possible en roulage",
+          "À réserver aux montages compatibles et aux recommandations du fabricant"
+        ]
+      ],
+      "note": "Le poids total de masses n’est pas un critère de qualité à lui seul. Une quantité inhabituelle doit toutefois amener à contrôler le pneu, la jante et le centrage."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand faut-il faire équilibrer ses roues, et quel budget prévoir ?",
+      "id": "quand-faut-il-faire-equilibrer-ses-roues-et-quel-budget-prev"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un équilibrage est à prévoir à chaque montage de pneu, après la pose d’une réparation qui modifie sensiblement l’ensemble, lorsqu’une masse se détache ou dès l’apparition d’une vibration liée à la vitesse. Il est aussi judicieux lors du passage entre roues été et hiver si les roues complètes ont été stockées longtemps, ont subi un choc ou présentent un comportement inhabituel à la reprise."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté budget, un équilibrage seul représente généralement <strong>un coût modéré par roue</strong> chez un professionnel, souvent inférieur au prix d’un pneu et parfois inclus ou proposé à tarif réduit avec le montage. Pour quatre roues, prévoyez plutôt une enveloppe allant de quelques dizaines d’euros à davantage selon le type de jante, le véhicule, le démontage éventuel et les prestations associées. Une roue de moto ou une jante spécifique peut demander une main-d’œuvre distincte. Demandez si le devis comprend la dépose-repose, les masses, le nettoyage et un contrôle final."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Évitez la fausse économie",
+      "html": "Reporter un équilibrage parce que la vibration semble légère peut coûter plus cher qu’une intervention rapide : le pneu peut s’user de façon irrégulière et les vibrations fatiguent inutilement les éléments du train roulant. À l’inverse, ne payez pas plusieurs équilibrages successifs sans exiger un diagnostic si le défaut revient immédiatement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui compromettent le résultat",
+      "id": "les-erreurs-qui-compromettent-le-resultat"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de faire équilibrer une roue sans nettoyer l’intérieur de la jante. Un amas de boue ou de neige peut créer un balourd temporaire ; une fois retiré, les masses posées pour le compenser deviennent elles-mêmes un problème. Il faut également éviter de monter une roue sur le moyeu alors que les portées sont oxydées, sales ou couvertes de graisse : la roue peut ne pas être parfaitement plaquée et induire une vibration."
+    },
+    {
+      "type": "paragraph",
+      "html": "Autre piège : attribuer systématiquement une vibration à l’équilibrage. Si le volant tremble uniquement au freinage, pensez d’abord aux disques, aux étriers ou à un jeu de train avant. Si le véhicule tire, si le pneu s’use sur un bord ou si le volant n’est plus droit, une géométrie est à vérifier. Enfin, une jante voilée ou un pneu présentant une déformation radiale peut passer sur une équilibreuse sans que la cause réelle soit totalement résolue."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À ne pas faire",
+      "items": [
+        "Réutiliser une masse tombée ou la recoller sur une surface poussiéreuse.",
+        "Ajouter des masses « à l’œil » pour tenter de supprimer une vibration.",
+        "Empiler des masses sans rechercher la cause d’une demande anormalement importante.",
+        "Poser des masses à pince sur une jante aluminium sans vérifier leur compatibilité.",
+        "Négliger le couple de serrage lors de la repose de la roue.",
+        "Continuer à rouler vite avec une vibration forte, apparue brutalement après un choc ou accompagnée d’une déformation visible."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Si la vibration demeure après l’équilibrage : la bonne démarche",
+      "id": "si-la-vibration-demeure-apres-l-equilibrage-la-bonne-demarch"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un équilibrage déclaré correct ne garantit pas que tout le train roulant est sain. Commencez par vérifier que la vibration est reproductible dans la même plage de vitesse et sur une chaussée comparable. Demandez ensuite un contrôle du faux-rond de la jante et du pneu, ainsi que du centrage de la roue sur le moyeu. Les jantes à alésage central large doivent notamment utiliser des bagues de centrage adaptées lorsqu’elles ne sont pas parfaitement centrées par le moyeu."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il peut aussi être utile de permuter les roues avant et arrière, à condition que les dimensions, le sens de rotation et les consignes du véhicule l’autorisent. Si le symptôme se déplace, la piste roue-pneu se renforce. S’il ne change pas, il faut élargir le diagnostic aux roulements, biellettes, rotules, amortisseurs, transmission ou freinage. Sur une moto, toute instabilité du guidon mérite une vérification sérieuse du pneu, des roulements de direction et de roue, de l’alignement et de la suspension."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "La méthode la plus sûre",
+      "items": [
+        "Faites inspecter la roue avant toute correction : un défaut structurel ne se règle pas avec des masses.",
+        "Pour une voiture, privilégiez un équilibrage dynamique avec contrôle final sur une machine bien centrée.",
+        "Choisissez des masses compatibles avec votre jante et exigez une pose sur surface propre.",
+        "Traitez une vibration persistante comme un diagnostic de sécurité, pas comme un simple inconfort.",
+        "Conservez la preuve de l’intervention et revenez rapidement si une masse se détache ou si le symptôme réapparaît."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’équilibrage des roues",
+      "items": [
+        {
+          "q": "Est-ce dangereux de rouler avec une roue mal équilibrée ?",
+          "a": "Une légère vibration n’entraîne pas forcément un danger immédiat, mais elle ne doit pas être ignorée. Elle peut accélérer l’usure des pneus et solliciter inutilement suspension, direction et roulements. Si la vibration est forte, apparaît soudainement après un choc ou s’accompagne d’une hernie, d’un bruit anormal ou d’une tenue de route dégradée, limitez l’usage du véhicule et faites-le contrôler sans attendre."
+        },
+        {
+          "q": "Pourquoi mon volant tremble-t-il seulement à certaines vitesses ?",
+          "a": "C’est typique d’un balourd : à une vitesse donnée, la fréquence de rotation de la roue entre en résonance avec le véhicule et la vibration devient plus perceptible. Elle peut diminuer ensuite, ce qui ne signifie pas que le problème a disparu. Une vérification de l’équilibrage est pertinente, mais le professionnel doit aussi examiner pneus, jantes et train avant."
+        },
+        {
+          "q": "Faut-il équilibrer les quatre roues ou seulement celles qui vibrent ?",
+          "a": "Idéalement, faites contrôler les quatre roues, surtout si elles ont été montées en même temps ou si le véhicule a roulé avec une masse perdue. Une vibration au volant peut venir de l’avant, mais l’arrière influence aussi le confort et la stabilité. Dans le cadre d’un montage de pneus neufs, chaque roue doit être équilibrée."
+        },
+        {
+          "q": "À quelle fréquence faut-il faire l’équilibrage des pneus ?",
+          "a": "Il n’existe pas d’intervalle kilométrique universel. Faites-le à chaque montage de pneu, après une réparation significative, après la perte d’une masse ou dès qu’une vibration liée à la vitesse apparaît. Un contrôle peut aussi être opportun après un choc important contre un trottoir ou un nid-de-poule."
+        },
+        {
+          "q": "Une masse d’équilibrage peut-elle tomber ?",
+          "a": "Oui. Une masse à pince peut être arrachée par un choc ou un mauvais montage ; une masse adhésive peut se décoller si la jante était humide, grasse ou mal préparée. Si vous constatez une masse manquante ou une trace de colle suspecte, faites rééquilibrer la roue plutôt que de tenter de la repositionner vous-même."
+        },
+        {
+          "q": "L’équilibrage peut-il corriger une jante voilée ou un pneu déformé ?",
+          "a": "Non. Il compense une répartition de masse, mais ne remet pas une jante ronde et ne répare pas la structure d’un pneu. Une légère imperfection peut parfois être moins perceptible après équilibrage, sans que le défaut soit supprimé. En présence d’un voile marqué, d’une déformation ou d’une hernie, la réparation spécialisée ou le remplacement doit être évalué par un professionnel."
+        }
+      ]
+    }
+  ]
+}

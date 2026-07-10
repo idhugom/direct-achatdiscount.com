@@ -1,0 +1,400 @@
+{
+  "title": "Marcher fait-il maigrir ?",
+  "slug": "marcher-fait-il-maigrir",
+  "path": "/divers/marcher-fait-il-maigrir.html",
+  "category": "bien-etre",
+  "tags": [
+    "marche",
+    "perte de poids",
+    "activité physique",
+    "calories",
+    "remise en forme",
+    "alimentation"
+  ],
+  "excerpt": "La marche favorise la dépense énergétique et peut soutenir une perte de poids durable, à condition d’ajuster rythme, régularité et habitudes alimentaires.",
+  "metaDescription": "La marche peut aider à perdre du poids si elle s’inscrit dans une routine adaptée. Intensité, durée, alimentation et erreurs à éviter : guide complet.",
+  "seoTitle": "Marcher fait-il maigrir ? Le guide pour perdre du poids",
+  "heroKicker": "Bouger pour durer",
+  "readingTime": 11,
+  "date": "2024-06-26T20:49:39",
+  "image": {
+    "id": "2045",
+    "alt": "Marcher fait-il maigrir ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Oui, marcher peut contribuer à maigrir, mais ce n’est ni un bouton magique ni une simple affaire de nombre de pas. La marche devient efficace lorsqu’elle augmente durablement votre dépense d’énergie, sans vous épuiser ni vous pousser à compenser ensuite par l’alimentation. Son grand atout : elle est accessible, progressive et suffisamment douce pour être pratiquée longtemps."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La marche aide à perdre du poids en augmentant la dépense calorique, mais elle fonctionne surtout avec une alimentation globalement adaptée.",
+        "La régularité compte davantage qu’une séance très intense et isolée : mieux vaut marcher souvent, à un rythme soutenu mais tenable.",
+        "Pour progresser, jouez sur trois leviers : la durée, l’allure et le dénivelé, sans augmenter les trois brutalement à la fois.",
+        "Les résultats visibles dépendent aussi du sommeil, du stress, du niveau d’activité quotidien et des compensations alimentaires.",
+        "La marche est particulièrement pertinente pour démarrer, reprendre après une pause ou stabiliser une perte de poids sur le long terme."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi la marche peut-elle faire perdre du poids ?",
+      "id": "pourquoi-la-marche-peut-elle-faire-perdre-du-poids"
+    },
+    {
+      "type": "paragraph",
+      "html": "La perte de poids apparaît lorsque, sur la durée, votre organisme dépense plus d’énergie qu’il n’en reçoit. La marche augmente cette dépense : vos muscles travaillent, votre fréquence cardiaque s’élève et vous cumulez des minutes d’activité qui n’auraient pas existé en restant assis. Elle n’agit donc pas en « brûlant la graisse » de manière ciblée au niveau du ventre ou des cuisses : aucune activité ne permet de choisir précisément la zone où le corps va puiser ses réserves."
+    },
+    {
+      "type": "paragraph",
+      "html": "Son intérêt est ailleurs. Une activité modérée, répétée plusieurs fois par semaine, est plus facile à maintenir qu’un sport très exigeant. Or, pour perdre du poids ou éviter d’en reprendre, la constance est déterminante. Marcher peut aussi réduire le temps passé immobile, améliorer la condition physique et vous permettre, progressivement, de supporter des efforts plus longs ou plus rapides."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le principe qui change tout",
+      "html": "Une balade occasionnelle est bénéfique pour la santé, mais elle a peu de chances de transformer votre poids à elle seule. Visez plutôt une <strong>habitude durable</strong> : davantage de pas chaque jour, des sorties planifiées et une alimentation qui ne compense pas systématiquement l’effort."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "150 min",
+          "label": "repère hebdomadaire souvent proposé pour une activité modérée bénéfique à la santé"
+        },
+        {
+          "value": "150 à 350 kcal/h",
+          "label": "ordre de grandeur de la dépense à la marche active, très variable selon le gabarit, l’allure et le terrain"
+        },
+        {
+          "value": "3 leviers",
+          "label": "durée, intensité et dénivelé permettent d’augmenter progressivement la difficulté"
+        },
+        {
+          "value": "0 matériel",
+          "label": "nécessaire pour débuter, hors chaussures adaptées et tenue confortable"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Combien de calories brûle-t-on en marchant ?",
+      "id": "combien-de-calories-brule-t-on-en-marchant"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas de chiffre universel. Une personne de grand gabarit dépense généralement plus d’énergie qu’une personne plus légère à vitesse égale, car elle déplace davantage de masse. L’allure, la pente, le vent, la nature du sol, le port d’un sac et votre niveau d’entraînement modifient également le résultat. Les montres et applications donnent une estimation utile pour suivre une tendance, mais pas une mesure exacte de ce que vous avez dépensé."
+    },
+    {
+      "type": "paragraph",
+      "html": "À titre de repère, une marche tranquille sur terrain plat entraîne une dépense modérée. Une marche active, où vous êtes légèrement essoufflé mais encore capable de parler par phrases, augmente nettement le travail. Monter une côte, emprunter des escaliers ou marcher sur un chemin irrégulier fait aussi monter l’effort, parfois sans qu’il soit nécessaire d’accélérer fortement."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur : ce qui fait varier l’efficacité énergétique de la marche",
+      "headers": [
+        "Situation",
+        "Effort ressenti",
+        "Effet sur la dépense",
+        "Pour qui ?"
+      ],
+      "rows": [
+        [
+          "Marche douce sur terrain plat",
+          "Très confortable, conversation facile",
+          "Modérée ; idéale pour accumuler du mouvement",
+          "Débutants, récupération, trajets quotidiens"
+        ],
+        [
+          "Marche active",
+          "Respiration accélérée, conversation encore possible",
+          "Plus élevée grâce à l’allure et à la continuité",
+          "La plupart des adultes sans contre-indication"
+        ],
+        [
+          "Marche en côte ou escaliers",
+          "Jambes et souffle davantage sollicités",
+          "Élevée à durée égale ; renforcement utile des jambes",
+          "Personnes déjà à l’aise avec la marche"
+        ],
+        [
+          "Randonnée avec dénivelé",
+          "Effort fluctuant selon le terrain et le sac",
+          "Variable, souvent important sur une sortie longue",
+          "Marcheurs équipés, progression préalable recommandée"
+        ]
+      ],
+      "note": "Ces catégories sont des repères pratiques, non des données individuelles. Votre confort, vos articulations et vos éventuels problèmes de santé priment sur le chiffre affiché par une application."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La marche seule suffit-elle pour maigrir ?",
+      "id": "la-marche-seule-suffit-elle-pour-maigrir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Elle peut suffire chez certaines personnes, notamment si elle remplace une sédentarité importante et si les apports alimentaires restent stables. Dans la pratique, elle est plus efficace lorsqu’elle s’intègre à un ensemble cohérent : repas rassasiants, portions adaptées à vos besoins, sommeil correct et diminution des calories peu visibles, comme les boissons sucrées, l’alcool fréquent, le grignotage automatique ou les ajouts très énergétiques."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le piège classique consiste à surestimer les calories dépensées et à s’offrir une récompense alimentaire plus importante que l’effort réalisé. Il ne s’agit pas de manger trop peu ni de supprimer tous les plaisirs. L’objectif est de ne pas transformer chaque sortie en prétexte à compenser. Si vous avez particulièrement faim après une longue marche, préparez une collation structurée ou un repas contenant des protéines, des fibres et une source de féculents adaptée, plutôt que de picorer sans repère."
+    },
+    {
+      "type": "comparison",
+      "title": "Marcher ou faire un sport intense pour perdre du poids ?",
+      "left": {
+        "title": "La marche régulière",
+        "points": [
+          "Facile à intégrer aux trajets, pauses et week-ends.",
+          "Peu de contraintes matérielles et risque de blessure généralement plus faible.",
+          "Dépense par minute souvent inférieure, mais volume hebdomadaire plus facile à cumuler.",
+          "Très bonne base pour débuter, reprendre ou maintenir les résultats."
+        ]
+      },
+      "right": {
+        "title": "L’entraînement plus intense",
+        "points": [
+          "Dépense élevée sur une durée courte et gain de condition physique plus rapide.",
+          "Demande une meilleure récupération, une technique correcte et parfois du matériel.",
+          "Peut être moins durable si le niveau est trop ambitieux ou si le plaisir manque.",
+          "Complément intéressant à la marche, pas obligation pour perdre du poids."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Attention aux promesses rapides",
+      "html": "Une perte de poids très rapide est rarement le bon indicateur de progrès durable : elle peut refléter des variations d’eau, une restriction excessive ou une perte de masse musculaire. Si vous êtes enceinte, avez une maladie cardiaque, des douleurs articulaires importantes, un diabète traité ou une obésité avec difficultés de mobilité, demandez conseil à un professionnel de santé avant de durcir le programme."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelle marche choisir selon votre objectif ?",
+      "id": "quelle-marche-choisir-selon-votre-objectif"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure formule est celle que vous pouvez répéter. Un objectif de perte de poids ne nécessite pas de marcher vite dès le premier jour. Commencez au niveau où vous êtes aujourd’hui, puis rendez la marche un peu plus longue, plus soutenue ou plus vallonnée au fil des semaines. L’augmentation graduelle protège les pieds, les tendons, les genoux et le moral."
+    },
+    {
+      "type": "proscons",
+      "title": "La marche comme stratégie de perte de poids",
+      "pros": [
+        "Accessible à presque tous les budgets et adaptable à votre emploi du temps.",
+        "Faible impact articulaire par rapport à la course, surtout à allure modérée.",
+        "Facile à fractionner en plusieurs courtes sorties dans la journée.",
+        "Améliore l’endurance et peut soutenir le moral, le sommeil et la gestion du stress.",
+        "Compatible avec une progression très individualisée."
+      ],
+      "cons": [
+        "Dépense énergétique par minute souvent modérée : la durée et la constance sont nécessaires.",
+        "Les résultats peuvent être ralentis par une alimentation compensatoire ou une activité globale trop sédentaire.",
+        "Les douleurs aux pieds, au dos ou aux genoux peuvent limiter la progression sans chaussures et terrain adaptés.",
+        "Le suivi des pas seul ne renseigne pas sur l’intensité, la récupération ni les habitudes alimentaires."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pour débuter ou reprendre après une longue pause",
+      "id": "pour-debuter-ou-reprendre-apres-une-longue-pause"
+    },
+    {
+      "type": "paragraph",
+      "html": "Priorité au rendez-vous régulier. Choisissez une durée qui vous semble presque trop facile, par exemple une courte sortie quotidienne ou plusieurs trajets à pied. Gardez une allure confortable les premiers jours. Lorsque cette habitude ne vous demande plus d’effort d’organisation, allongez une ou deux sorties de la semaine. Le bon programme n’est pas celui qui vous laisse épuisé, mais celui que vous refaites la semaine suivante."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pour accélérer les progrès sans courir",
+      "id": "pour-accelerer-les-progres-sans-courir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Adoptez la marche active. Votre posture reste droite, le regard porte loin devant, les bras accompagnent le mouvement et vos pas sont dynamiques sans être démesurément longs. Vous devez sentir l’effort tout en gardant la capacité de parler. Ajoutez ensuite de courtes portions plus rapides, une pente modérée ou quelques étages. Cette variation est souvent plus utile que de chercher à battre un record de pas tous les jours."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Pour sortir d’un palier",
+      "id": "pour-sortir-d-un-palier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si votre poids ne bouge plus, n’augmentez pas tout d’un coup. Analysez d’abord votre routine : avez-vous réduit inconsciemment vos autres mouvements parce que vous marchez davantage ? Les portions ont-elles augmenté ? Dormez-vous moins ? Puis modifiez un seul paramètre pendant deux ou trois semaines : une sortie longue supplémentaire, davantage de dénivelé, ou deux séances de renforcement musculaire. Le corps s’adapte ; la progression doit rester mesurée."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un programme de marche progressif et réaliste",
+      "id": "un-programme-de-marche-progressif-et-realiste"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce modèle convient à un adulte sans douleur particulière ni contre-indication. Adaptez les durées à votre point de départ : quelqu’un qui ne marche presque pas commencera plus bas, tandis qu’un marcheur déjà régulier pourra démarrer directement avec davantage d’allure ou de relief. Gardez au moins une journée plus légère quand la fatigue s’accumule."
+    },
+    {
+      "type": "steps",
+      "title": "Construire votre routine en quatre étapes",
+      "items": [
+        {
+          "title": "Installez le réflexe",
+          "text": "Pendant les deux premières semaines, marchez à une allure facile plusieurs jours par semaine. Attachez la sortie à une habitude existante : après le déjeuner, en descendant un arrêt plus tôt ou avant le dîner."
+        },
+        {
+          "title": "Augmentez le temps utile",
+          "text": "Allongez progressivement une ou deux sorties. Une marche un peu plus longue le week-end peut compléter de courtes marches les jours travaillés. Fractionner reste valable : plusieurs trajets comptent aussi."
+        },
+        {
+          "title": "Introduisez l’allure",
+          "text": "Une fois à l’aise, alternez quelques séquences actives et des portions de récupération. Par exemple, marchez rapidement jusqu’au prochain carrefour, puis revenez à votre rythme habituel."
+        },
+        {
+          "title": "Variez sans vous surcharger",
+          "text": "Ajoutez ponctuellement une côte, des escaliers ou un parcours différent. Si une douleur modifie votre démarche ou persiste, réduisez la charge et cherchez la cause avant de reprendre la progression."
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Des astuces qui augmentent vraiment votre volume de marche",
+      "items": [
+        "Préparez vos chaussures et votre tenue la veille : moins il y a de friction, plus la sortie est probable.",
+        "Transformez un appel non confidentiel en marche, si l’environnement est sûr.",
+        "Programmez une marche de dix à quinze minutes après un repas lorsque votre emploi du temps le permet.",
+        "Privilégiez des itinéraires agréables, éclairés et proches : la sécurité et le plaisir favorisent la régularité.",
+        "Utilisez un podomètre comme journal de tendance, pas comme juge de votre valeur ou obligation quotidienne.",
+        "Ayez un plan intérieur pour les jours de pluie : couloir, centre commercial, escaliers ou tapis de marche selon vos possibilités."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pas, minutes ou kilomètres : quel indicateur suivre ?",
+      "id": "pas-minutes-ou-kilometres-quel-indicateur-suivre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les pas sont pratiques, car ils reflètent une partie de votre activité totale : trajets, tâches quotidiennes et promenades. Ils ont toutefois une limite : un même total ne représente pas le même effort selon l’allure et le dénivelé. Les minutes de marche active donnent une meilleure idée de l’intensité. Quant aux kilomètres, ils peuvent motiver, mais dépendent beaucoup de la longueur de votre foulée et du tracé."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le suivi le plus utile combine des indicateurs simples : nombre de sorties effectuées, durée totale sur la semaine, ressenti de l’effort et évolution de votre aisance. Pour le poids, regardez une tendance sur plusieurs semaines plutôt que la variation d’un matin à l’autre. L’eau corporelle, le transit, le cycle menstruel et le sel consommé peuvent faire fluctuer la balance sans traduire une prise ou une perte de graisse."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Un objectif mieux calibré que « 10 000 pas »",
+      "html": "Partez de votre moyenne actuelle pendant une semaine, puis ajoutez un petit palier réaliste. L’objectif pertinent est celui qui vous fait bouger <strong>un peu plus qu’avant</strong> sans déclencher douleur, fatigue excessive ou abandon. Un chiffre rond peut motiver, mais il n’est pas universel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faut-il marcher à jeun, après les repas ou le soir ?",
+      "id": "faut-il-marcher-a-jeun-apres-les-repas-ou-le-soir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le moment idéal est celui que vous tiendrez. Marcher à jeun n’est pas nécessaire pour perdre du poids : ce qui compte est le bilan global et la répétition de la pratique. Certaines personnes se sentent légères le matin, d’autres manquent d’énergie ou se sentent mal à l’aise sans avoir mangé. Ne forcez pas si vous avez des vertiges, des tremblements ou une fatigue inhabituelle."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une courte marche après un repas est souvent facile à intégrer et peut éviter de rester assis immédiatement. Le soir, une sortie calme peut aider à décompresser, à condition qu’elle ne retarde pas votre coucher. Pour une marche longue ou très active, prenez une collation légère en amont si vous en ressentez le besoin, et hydratez-vous selon la chaleur, la durée et votre transpiration."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Alimentation, renforcement et récupération : les alliés de la marche",
+      "id": "alimentation-renforcement-et-recuperation-les-allies-de-la-m"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour que le poids perdu provienne autant que possible de la masse grasse et que votre corps reste solide, ne négligez pas les muscles. Deux séances hebdomadaires de renforcement adaptées peuvent compléter la marche : exercices au poids du corps, élastiques, machines ou accompagnement professionnel. Le but n’est pas de vous transformer en athlète, mais de préserver la force utile au quotidien et de rendre les montées, escaliers et longues sorties plus confortables."
+    },
+    {
+      "type": "paragraph",
+      "html": "Côté assiette, cherchez d’abord la satiété : légumes ou fruits, protéines, légumineuses ou céréales complètes selon vos habitudes, et matières grasses en quantité adaptée. Évitez les interdits rigides qui conduisent souvent au découragement. Si votre relation à l’alimentation est difficile, si les épisodes d’hyperphagie se répètent ou si les régimes ont échoué, l’aide d’un médecin ou d’un diététicien peut être plus utile qu’un nouveau défi de pas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Équipement, sécurité et entretien : les détails qui évitent l’abandon",
+      "id": "equipement-securite-et-entretien-les-details-qui-evitent-l-a"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin de chaussures très techniques pour une promenade occasionnelle. En revanche, si vous marchez souvent, choisissez une paire confortable, avec une largeur adaptée à votre pied, un maintien correct du talon et une semelle en bon état. Essayez-la avec les chaussettes que vous utiliserez. Une chaussure chère mais trop étroite peut provoquer ampoules, ongles douloureux et abandon plus sûrement qu’un modèle simple mais bien ajusté."
+    },
+    {
+      "type": "paragraph",
+      "html": "Surveillez vos signaux : douleur aiguë, gonflement, boiterie, essoufflement anormal, douleur thoracique ou malaise imposent de vous arrêter et, selon la situation, de consulter rapidement. Pour les sorties en extérieur, prévoyez visibilité, téléphone chargé, eau lorsque la météo l’exige et itinéraire compatible avec votre niveau. Alternez les parcours afin de limiter la monotonie et les sollicitations toujours identiques."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les erreurs les plus fréquentes",
+      "items": [
+        "Commencer par des distances trop longues, puis devoir interrompre plusieurs jours à cause de douleurs.",
+        "Marcher très lentement tout en croyant compenser une journée entière assise par une seule sortie courte.",
+        "Augmenter simultanément la durée, la vitesse et le dénivelé.",
+        "Se fier aveuglément aux calories affichées par une montre et les « remanger » automatiquement.",
+        "Ne regarder que la balance et ignorer l’endurance, le tour de taille, l’énergie ou la régularité.",
+        "Continuer malgré une douleur qui change votre façon de poser le pied."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les alternatives si marcher ne vous convient pas",
+      "id": "les-alternatives-si-marcher-ne-vous-convient-pas"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une douleur, un emploi du temps contraint ou une aversion pour la marche ne doivent pas vous faire renoncer à bouger. Le vélo d’appartement, la natation, l’aquagym, l’elliptique, la danse ou des exercices assis peuvent être de bonnes alternatives selon votre condition. L’activité la plus efficace pour gérer le poids est généralement celle que vous pratiquez avec assez de plaisir et de régularité pour qu’elle devienne normale dans votre semaine."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez aussi mixer les approches : marcher pour les déplacements et la récupération, renforcer les muscles deux fois par semaine, puis choisir une activité plus cardio le week-end. Cette diversité réduit la monotonie et répartit les contraintes physiques. Si votre objectif est important ou si votre poids s’accompagne de problèmes de santé, un programme personnalisé encadré reste la solution la plus sûre."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la marche et la perte de poids",
+      "items": [
+        {
+          "q": "Combien faut-il marcher par jour pour maigrir ?",
+          "a": "Il n’existe pas de durée identique pour tout le monde. Commencez par augmenter votre niveau habituel de façon tenable, puis cherchez à cumuler régulièrement des minutes de marche active. Votre alimentation, votre poids de départ, votre sommeil et votre activité hors marche influencent autant les résultats que le nombre de minutes."
+        },
+        {
+          "q": "Marcher 30 minutes par jour fait-il perdre du ventre ?",
+          "a": "Trente minutes quotidiennes peuvent contribuer à augmenter votre dépense énergétique et à réduire la sédentarité. En revanche, elles ne font pas fondre spécifiquement le ventre : la perte de graisse se produit selon la physiologie propre à chacun. La régularité et un déficit énergétique modéré sur la durée sont les éléments décisifs."
+        },
+        {
+          "q": "Est-il préférable de marcher vite ou longtemps ?",
+          "a": "Les deux sont utiles. Une marche plus rapide augmente l’effort à durée égale, tandis qu’une durée plus longue permet de cumuler davantage d’activité sans forcément forcer. Pour la plupart des personnes, le meilleur compromis consiste à marcher souvent et à intégrer progressivement des portions plus actives."
+        },
+        {
+          "q": "Peut-on perdre du poids uniquement en marchant sans changer son alimentation ?",
+          "a": "C’est possible si la marche crée à elle seule un écart durable entre vos dépenses et vos apports, surtout si vous partez d’une vie très sédentaire. Mais c’est souvent plus difficile qu’on ne l’imagine, car l’organisme peut stimuler l’appétit ou réduire spontanément les autres mouvements. Ajuster quelques habitudes alimentaires facilite généralement le résultat."
+        },
+        {
+          "q": "Pourquoi je marche beaucoup mais mon poids ne baisse pas ?",
+          "a": "Votre dépense peut être compensée par une faim accrue, des portions plus généreuses, moins de mouvements le reste de la journée ou des variations normales d’eau corporelle. Regardez aussi l’évolution sur plusieurs semaines et vos autres marqueurs : tour de taille, forme, souffle et régularité. En cas de stagnation prolongée ou de doute médical, demandez conseil à un professionnel."
+        },
+        {
+          "q": "La marche est-elle suffisante pour garder la forme après avoir maigri ?",
+          "a": "Elle constitue une excellente base de maintien, car elle est facile à poursuivre. Pour une forme plus complète, ajoutez idéalement du renforcement musculaire et, selon vos envies, des efforts un peu plus soutenus. Cette combinaison aide à conserver force, mobilité, endurance et plaisir de bouger."
+        }
+      ]
+    }
+  ]
+}

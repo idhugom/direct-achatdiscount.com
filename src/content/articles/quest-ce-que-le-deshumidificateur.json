@@ -1,0 +1,408 @@
+{
+  "title": "Qu’est-ce que le déshumidificateur ?",
+  "slug": "quest-ce-que-le-deshumidificateur",
+  "path": "/divers/quest-ce-que-le-deshumidificateur.html",
+  "category": "maison",
+  "tags": [
+    "déshumidificateur",
+    "humidité",
+    "qualité de l'air",
+    "moisissures",
+    "chauffage",
+    "maison"
+  ],
+  "excerpt": "Le déshumidificateur retire l’excès d’eau de l’air. Fonctionnement, capacités, technologies, budget et conseils pour choisir un appareil vraiment adapté.",
+  "metaDescription": "Découvrez ce qu’est un déshumidificateur, son fonctionnement, les modèles à choisir, la bonne capacité et les gestes pour assainir votre logement.",
+  "seoTitle": "Déshumidificateur : définition, fonctionnement et choix",
+  "heroKicker": "Air plus sain",
+  "readingTime": 11,
+  "date": "2024-09-23T01:03:18",
+  "image": {
+    "id": "2393",
+    "alt": "Qu’est-ce que le déshumidificateur ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le déshumidificateur est un appareil conçu pour retirer une partie de la vapeur d’eau présente dans l’air intérieur. Bien choisi et correctement utilisé, il améliore le confort dans une pièce froide ou humide, aide à limiter condensation, odeurs et moisissures, et accélère le séchage du linge. Il ne remplace toutefois ni une ventilation efficace ni la réparation d’une infiltration."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Un déshumidificateur fait baisser le taux d’humidité de l’air en récupérant l’eau dans un bac ou en l’évacuant par un tuyau.",
+        "Pour un logement, visez généralement une humidité relative située autour de <strong>40 à 60 %</strong> ; un hygromètre permet de décider sur des mesures, pas sur une simple impression.",
+        "Les modèles à compresseur sont souvent les plus pertinents dans les pièces tempérées ; les modèles à adsorption restent plus efficaces dans les locaux frais.",
+        "La capacité annoncée en litres par jour ne suffit pas : la température, la surface, le volume de la pièce et la cause de l’humidité déterminent le bon choix.",
+        "Si l’humidité vient d’une fuite, d’une remontée capillaire ou d’une ventilation défaillante, l’appareil soulage le symptôme sans résoudre la cause."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un déshumidificateur, c’est quoi exactement ?",
+      "id": "un-deshumidificateur-c-est-quoi-exactement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un déshumidificateur d’air est un appareil électrique qui aspire l’air d’une pièce, en extrait une quantité d’eau, puis rejette un air plus sec. L’eau retirée est recueillie dans un réservoir intégré ou évacuée en continu via un tuyau. Son rôle est de ramener une atmosphère trop humide vers un niveau plus confortable et plus sain pour le bâti comme pour les occupants."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il ne faut pas le confondre avec un <strong>absorbeur d’humidité à recharges</strong>. Ce dernier fonctionne sans électricité grâce à des cristaux hygroscopiques, mais son action est limitée à de très petits volumes : placard, voiture, salle d’eau peu utilisée ou meuble de rangement. Dans une chambre, un sous-sol, une buanderie ou un appartement touché par la condensation, un déshumidificateur électrique est nettement plus efficace."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’appareil est particulièrement utile lorsque les vitres ruissellent le matin, que le linge sèche mal, que les murs semblent froids et humides, que des taches noires apparaissent dans les angles ou qu’une odeur de renfermé persiste. Ces indices doivent être vérifiés avec un hygromètre : ils peuvent aussi révéler un défaut d’isolation, une aération insuffisante ou un dégât des eaux."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "40 à 60 %",
+          "label": "plage d’humidité relative généralement confortable dans un logement chauffé"
+        },
+        {
+          "value": "8 à 12 L/jour",
+          "label": "capacité courante pour un appareil compact destiné à une pièce modérément humide"
+        },
+        {
+          "value": "16 à 25 L/jour",
+          "label": "ordre de grandeur fréquent pour un modèle plus puissant de logement, buanderie ou sous-sol"
+        },
+        {
+          "value": "2 à 4 L",
+          "label": "capacité habituelle du bac d’un appareil domestique, selon son format"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi réduire un excès d’humidité ?",
+      "id": "pourquoi-reduire-un-exces-d-humidite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un air trop humide n’est pas seulement désagréable. Lorsque l’air chaud chargé d’eau rencontre une surface froide, comme une vitre ou un mur mal isolé, il condense. Cette eau favorise les moisissures, le décollement des revêtements, l’altération du bois et la corrosion de certains objets. Dans les textiles et les pièces peu aérées, elle entretient aussi les odeurs de moisi."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un taux d’humidité élevé peut accentuer l’inconfort respiratoire chez les personnes sensibles, notamment parce qu’il favorise les acariens et les moisissures. À l’inverse, assécher excessivement l’air n’est pas souhaitable : gorge irritée, peau sèche, inconfort oculaire et bois qui travaille peuvent en résulter. L’objectif est donc la <strong>stabilisation</strong>, et non un air le plus sec possible."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Un appareil n’efface pas un problème structurel",
+      "html": "Un déshumidificateur est une aide précieuse après une douche, dans une buanderie ou dans un sous-sol sain mais frais. En présence d’une fuite, d’une toiture défectueuse, d’une infiltration en façade, d’une remontée capillaire ou d’une VMC en panne, faites rechercher la cause. Faire tourner l’appareil en permanence sans corriger le désordre peut masquer une dégradation du logement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment fonctionne un déshumidificateur ?",
+      "id": "comment-fonctionne-un-deshumidificateur"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des appareils domestiques utilisent l’une de ces deux technologies : la condensation par compresseur ou l’adsorption par dessiccant. Dans les deux cas, un ventilateur fait circuler l’air à travers l’appareil. La différence tient à la façon dont l’eau est séparée de l’air."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le modèle à compresseur : la solution courante en pièce chauffée",
+      "id": "le-modele-a-compresseur-la-solution-courante-en-piece-chauff"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un appareil à compresseur, l’air est refroidi au contact d’un échangeur. L’humidité se condense alors en gouttelettes, qui tombent dans le bac. L’air repasse ensuite par un élément plus chaud avant d’être soufflé dans la pièce. Cette technologie est généralement efficace lorsque la température est douce ou tempérée et que l’humidité est importante. C’est souvent le choix rationnel pour un salon, une chambre, une salle de bains ou une buanderie chauffée."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Le modèle à adsorption : l’allié des pièces fraîches",
+      "id": "le-modele-a-adsorption-l-allie-des-pieces-fraiches"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un déshumidificateur à adsorption utilise un matériau qui capte l’humidité. Il fonctionne bien à basse température, là où un modèle à compresseur perd une partie de son efficacité ou doit dégivrer régulièrement. Il convient donc aux garages, caves tempérées, résidences secondaires peu chauffées et pièces froides. Il rejette aussi généralement un air un peu plus chaud, ce qui peut être appréciable l’hiver, mais sa consommation électrique est souvent plus élevée à usage comparable."
+    },
+    {
+      "type": "comparison",
+      "title": "Compresseur ou adsorption : quel système privilégier ?",
+      "left": {
+        "title": "À compresseur",
+        "points": [
+          "Très adapté aux pièces occupées et chauffées.",
+          "Souvent plus sobre pour déshumidifier un volume à température modérée.",
+          "Choix courant pour la buanderie et le logement.",
+          "Son efficacité diminue lorsque la pièce devient froide.",
+          "Le bruit du compresseur peut gêner dans une chambre selon le modèle."
+        ]
+      },
+      "right": {
+        "title": "À adsorption",
+        "points": [
+          "Reste performant dans les pièces fraîches ou peu chauffées.",
+          "Pas de compresseur : fonctionnement souvent plus régulier, mais pas nécessairement silencieux.",
+          "Pratique pour une cave saine, un garage ou un logement secondaire.",
+          "Tend à réchauffer davantage l’air soufflé.",
+          "Consommation électrique souvent plus importante en fonctionnement prolongé."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelle capacité choisir selon votre pièce ?",
+      "id": "quelle-capacite-choisir-selon-votre-piece"
+    },
+    {
+      "type": "paragraph",
+      "html": "La capacité d’extraction est exprimée en litres par 24 heures. Elle indique la quantité d’eau qu’un appareil peut retirer dans des conditions de test données. Attention : ces conditions sont souvent plus favorables qu’une pièce réelle. Un appareil annoncé à une capacité élevée extraira moins d’eau dans une chambre fraîche et légèrement humide que dans une buanderie chaude où du linge sèche."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne vous limitez donc pas aux mètres carrés. Tenez compte du <strong>volume</strong> sous plafond, de la température, de l’humidité mesurée, de l’usage de la pièce et de la source d’eau. Une petite salle d’eau utilisée quotidiennement peut demander plus de puissance qu’un grand salon correctement ventilé. Pour un espace ouvert ou plusieurs pièces, l’air doit circuler librement : un appareil placé derrière une porte fermée n’assainira pas le reste du logement."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour dimensionner un déshumidificateur domestique",
+      "headers": [
+        "Situation",
+        "Capacité à envisager",
+        "Technologie souvent adaptée",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Petite chambre ou bureau, humidité légère",
+          "Environ 8 à 12 L/jour",
+          "Compresseur si pièce chauffée",
+          "Priorité au bruit et à l’hygrostat plutôt qu’à la puissance maximale"
+        ],
+        [
+          "Salle de bains ou buanderie, séchage du linge",
+          "Environ 10 à 16 L/jour",
+          "Compresseur dans une pièce tempérée",
+          "Prévoir un mode linge et une évacuation pratique"
+        ],
+        [
+          "Séjour ou plusieurs pièces communicantes",
+          "Environ 16 à 20 L/jour ou davantage",
+          "Compresseur puissant",
+          "Vérifier le débit d’air, le déplacement et les portes ouvertes"
+        ],
+        [
+          "Cave, garage ou pièce fraîche",
+          "Environ 10 à 20 L/jour selon le volume",
+          "Adsorption de préférence",
+          "Surveiller la température réelle et la consommation"
+        ],
+        [
+          "Humidité très forte après incident ou infiltration traitée",
+          "Capacité élevée, voire appareil professionnel",
+          "Selon la température et l’ampleur du sinistre",
+          "Ne pas utiliser comme substitut à un assèchement ou diagnostic professionnel"
+        ]
+      ],
+      "note": "Ces repères sont indicatifs : comparez toujours les performances annoncées pour une température proche de celle de votre pièce et mesurez le taux d’humidité avec un hygromètre."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe avant achat",
+      "html": "Placez un hygromètre dans la pièce pendant plusieurs jours, à distance d’une fenêtre, d’un radiateur et de la salle d’eau. Si le niveau dépasse fréquemment 60 % malgré une aération normale, un déshumidificateur peut être justifié. Notez aussi la température : elle orientera le choix entre compresseur et adsorption."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les critères qui font réellement la différence à l’achat",
+      "id": "les-criteres-qui-font-reellement-la-difference-a-l-achat"
+    },
+    {
+      "type": "paragraph",
+      "html": "La capacité est importante, mais elle ne garantit ni un appareil agréable à vivre ni des dépenses maîtrisées. Les fonctions suivantes ont un impact concret au quotidien et méritent d’être comparées fiche technique en main."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les fonctions à vérifier avant de choisir",
+      "items": [
+        "<strong>Hygrostat réglable :</strong> il arrête ou ralentit l’appareil lorsque le niveau d’humidité choisi est atteint. C’est essentiel pour éviter de faire fonctionner inutilement l’appareil.",
+        "<strong>Mode automatique :</strong> pratique si vous voulez maintenir une consigne, par exemple autour de 50 à 55 %, sans réglage quotidien.",
+        "<strong>Mode séchage du linge :</strong> il augmente souvent la ventilation et le fonctionnement continu pendant une durée définie. Utile en buanderie, à utiliser ponctuellement.",
+        "<strong>Évacuation continue :</strong> une sortie pour tuyau évite de vider le bac dans une cave ou un local utilisé longtemps. Vérifiez que l’évacuation peut se faire par gravité, sauf présence d’une pompe de relevage.",
+        "<strong>Capacité du réservoir et arrêt bac plein :</strong> un grand bac réduit les manipulations ; l’arrêt automatique évite tout débordement.",
+        "<strong>Niveau sonore :</strong> à examiner pour une chambre ou un bureau. Le bruit perçu dépend aussi du souffle d’air et des vibrations sur le sol.",
+        "<strong>Filtre lavable et accès facile :</strong> un filtre simple à retirer favorise un entretien régulier et maintient le débit d’air.",
+        "<strong>Roues, poignées et encombrement :</strong> un appareil lourd ou sans prise en main sera rarement déplacé d’une pièce à l’autre, même s’il est théoriquement mobile."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "La fonction purification, parfois proposée avec un filtre spécifique, peut être un complément, mais elle ne transforme pas un déshumidificateur en purificateur d’air complet. Son efficacité dépend du type de filtre et de son entretien. Si votre priorité est les allergènes, les particules ou les odeurs, choisissez un appareil de purification dédié ou vérifiez précisément la filtration annoncée."
+    },
+    {
+      "type": "proscons",
+      "title": "Déshumidificateur électrique : avantages et limites",
+      "pros": [
+        "Réduit rapidement la condensation et l’impression d’air lourd.",
+        "Accélère le séchage du linge à l’intérieur.",
+        "Peut limiter le développement de moisissures lorsque la cause est un excès d’humidité ponctuel ou lié à l’usage.",
+        "Se déplace facilement d’une pièce à l’autre pour un besoin temporaire.",
+        "L’hygrostat permet un fonctionnement automatisé sur de nombreux modèles."
+      ],
+      "cons": [
+        "Consomme de l’électricité, surtout en mode continu ou avec une technologie à adsorption.",
+        "Produit un bruit de ventilation, parfois incompatible avec le sommeil léger.",
+        "Oblige à vider et nettoyer le bac en l’absence d’évacuation continue.",
+        "N’agit pas sur la cause d’une infiltration, d’une fuite ou d’une ventilation défaillante.",
+        "Peut rendre l’air trop sec s’il est utilisé sans consigne d’humidité ou sans contrôle par hygromètre."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget : combien prévoir et quel coût d’usage anticiper ?",
+      "id": "budget-combien-prevoir-et-quel-cout-d-usage-anticiper"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un petit modèle électrique d’appoint, comptez généralement <strong>quelques dizaines d’euros</strong>. Les appareils domestiques à compresseur, dotés d’un hygrostat, d’un bac correct et d’une capacité adaptée à une pièce de vie, se situent plus souvent dans une fourchette allant de <strong>la centaine d’euros à quelques centaines d’euros</strong>. Les appareils à adsorption performants, les modèles avec pompe intégrée ou les équipements destinés à de grands volumes peuvent coûter davantage."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix d’achat ne doit pas éclipser la consommation. Regardez la puissance électrique, mais surtout l’usage envisagé : un appareil puissant qui atteint vite sa consigne et s’arrête peut être plus pertinent qu’un petit appareil qui tourne sans interruption. L’hygrostat, l’isolation de la pièce, le séchage du linge et la température influencent fortement le coût réel. Pour comparer, estimez le coût avec la puissance indiquée sur l’étiquette, votre prix du kilowattheure et le nombre d’heures de fonctionnement, puis gardez une marge car l’appareil ne tourne pas toujours à puissance constante."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Évitez le faux bon marché",
+      "html": "Un mini-déshumidificateur thermoélectrique peut convenir à un placard, une caravane ou un très petit espace peu humide. Pour une chambre embuée ou une buanderie, sa capacité est souvent trop faible : il risque de fonctionner longtemps pour un résultat modeste. Mieux vaut acheter une capacité cohérente avec le problème réel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bien utiliser l’appareil pour obtenir un résultat durable",
+      "id": "bien-utiliser-l-appareil-pour-obtenir-un-resultat-durable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Installez le déshumidificateur sur une surface plane, stable et dégagée. Laissez de l’espace autour des grilles afin que l’air circule, et éloignez-le des éclaboussures ainsi que des sources directes de chaleur. Fermez les portes et fenêtres de la pièce pendant une phase de déshumidification active ; sinon l’appareil tentera de traiter continuellement l’air humide venant de l’extérieur ou des autres pièces."
+    },
+    {
+      "type": "steps",
+      "title": "Mise en route efficace en cinq étapes",
+      "items": [
+        {
+          "title": "Mesurez avant d’agir",
+          "text": "Relevez l’humidité et la température de la pièce avec un hygromètre. Cela évite de déshumidifier par réflexe un air déjà correct."
+        },
+        {
+          "title": "Choisissez une consigne raisonnable",
+          "text": "Réglez l’hygrostat autour de 50 à 55 % pour commencer. Ajustez légèrement selon le confort, sans chercher à descendre très bas."
+        },
+        {
+          "title": "Traitez la pièce fermée",
+          "text": "Fermez portes et fenêtres pendant quelques heures, surtout après une douche ou lors du séchage du linge. Aérez ensuite brièvement si les conditions extérieures sont favorables."
+        },
+        {
+          "title": "Placez le linge intelligemment",
+          "text": "En mode linge, installez l’étendoir dans une pièce fermée mais non exiguë, avec de l’espace entre les vêtements. Orientez le flux d’air à proximité, sans coller le linge sur l’appareil."
+        },
+        {
+          "title": "Contrôlez le résultat",
+          "text": "Vérifiez le taux d’humidité après plusieurs heures puis sur plusieurs jours. Si la valeur remonte très vite, recherchez une source d’humidité ou un manque de ventilation."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne bouchez jamais les entrées et sorties d’air, ne posez pas de vêtement sur l’appareil et n’utilisez pas de rallonge sous-dimensionnée. Dans une salle de bains, respectez strictement les distances de sécurité liées à l’eau indiquées par le fabricant. Si vous utilisez un tuyau de drainage, assurez-vous qu’il n’est ni pincé ni remontant, sauf si votre appareil possède une pompe prévue pour cela."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretien : les gestes qui préservent l’efficacité et l’hygiène",
+      "id": "entretien-les-gestes-qui-preservent-l-efficacite-et-l-hygien"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’eau collectée n’est pas potable : ne la buvez pas et ne l’utilisez pas pour cuisiner. Le bac est un milieu humide où dépôts et micro-organismes peuvent se développer. Videz-le régulièrement, rincez-le, puis séchez-le si l’appareil doit être rangé. Un nettoyage doux périodique, selon les instructions du fabricant, limite les odeurs."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le filtre à air doit être contrôlé fréquemment, surtout si vous avez des animaux, si l’appareil est utilisé pendant le séchage du linge ou dans un sous-sol poussiéreux. Un filtre chargé réduit le débit, augmente le bruit et peut diminuer les performances. Aspirez-le délicatement ou lavez-le uniquement s’il est prévu pour cela, puis laissez-le sécher entièrement avant de le remettre en place."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Routine d’entretien simple",
+      "items": [
+        "Videz le bac dès qu’il est plein et après une période d’usage intensif.",
+        "Nettoyez le filtre toutes les quelques semaines, ou plus souvent en environnement poussiéreux.",
+        "Essuyez les grilles et le bac avec un chiffon doux ; évitez de vaporiser de l’eau dans l’appareil.",
+        "Contrôlez le tuyau d’évacuation : pente, absence de bouchon et raccordement stable.",
+        "Avant stockage, faites sécher l’appareil, videz le réservoir et conservez-le à l’abri du gel et de la poussière."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Déshumidificateur, VMC, absorbeur : quelles alternatives ou solutions complémentaires ?",
+      "id": "deshumidificateur-vmc-absorbeur-quelles-alternatives-ou-solu"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le déshumidificateur est une solution active et ciblée, mais il s’inscrit dans une stratégie plus large. La <strong>ventilation</strong> reste la première ligne de défense contre l’humidité produite au quotidien : cuisine, douches, respiration, plantes et séchage du linge. Vérifiez que les entrées d’air ne sont pas obstruées, que les bouches d’extraction sont propres et qu’une VMC, si vous en avez une, fonctionne réellement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Aérer quelques minutes après une douche ou la cuisson peut aider, à condition que l’air extérieur soit moins humide que l’air intérieur. En période froide, c’est souvent efficace car l’air froid extérieur contient peu d’eau en quantité absolue et s’assèche encore une fois réchauffé. En revanche, par temps très humide, une aération prolongée peut être moins utile dans certaines configurations."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les absorbeurs à cristaux complètent bien la protection d’un placard, d’un bateau ou d’une voiture immobilisée, sans bruit ni prise électrique. Pour une humidité chronique dans un logement, envisagez plutôt un diagnostic : amélioration de l’extraction d’air, isolation d’une paroi froide, réparation d’une fuite, traitement d’une infiltration ou, dans certains cas, intervention sur les remontées d’humidité. L’appareil devient alors un soutien temporaire ou saisonnier, pas une béquille permanente."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le diagnostic en une phrase",
+      "html": "Si vous devez vider plusieurs fois par jour un appareil correctement dimensionné pendant des semaines, ou si les moisissures reviennent malgré une humidité mesurée correcte, il est temps de chercher une cause technique dans le logement."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le déshumidificateur",
+      "items": [
+        {
+          "q": "Quel taux d’humidité faut-il viser dans une maison ?",
+          "a": "Dans la plupart des logements chauffés, une humidité relative autour de <strong>40 à 60 %</strong> constitue un bon repère. Une consigne de 50 à 55 % est souvent un point de départ équilibré. Adaptez-la à votre confort, à la saison et à l’état du logement, sans chercher à assécher excessivement l’air."
+        },
+        {
+          "q": "Puis-je laisser un déshumidificateur tourner toute la nuit ?",
+          "a": "Oui, si l’appareil est en bon état, posé conformément à sa notice et idéalement réglé avec un hygrostat ou une minuterie. Pour une chambre, vérifiez toutefois le bruit. Ne le laissez pas fonctionner en continu pour compenser une fuite ou une infiltration non traitée."
+        },
+        {
+          "q": "Un déshumidificateur chauffe-t-il une pièce ?",
+          "a": "Oui, légèrement à modérément selon la technologie et la puissance. Tous les appareils restituent une partie de l’énergie électrique sous forme de chaleur. Les modèles à adsorption donnent souvent une sensation de chaleur plus nette, tandis que les appareils à compresseur réchauffent aussi un peu l’air après le cycle de condensation."
+        },
+        {
+          "q": "Où placer un déshumidificateur dans une chambre ou une buanderie ?",
+          "a": "Placez-le au sol, sur une surface plane, à distance des murs, meubles et rideaux pour dégager les grilles. En buanderie, installez-le près de l’étendoir sans le couvrir ni souffler directement sur des textiles collés à l’appareil. Gardez portes et fenêtres fermées pendant le cycle."
+        },
+        {
+          "q": "Pourquoi mon déshumidificateur récupère-t-il peu d’eau ?",
+          "a": "La pièce est peut-être déjà assez sèche, trop froide pour un modèle à compresseur, trop grande, ou alimentée en air extérieur par une porte ou une fenêtre ouverte. Vérifiez aussi le filtre, les réglages et l’hygromètre. Si la température est basse, un modèle à adsorption peut être plus adapté."
+        },
+        {
+          "q": "L’eau du bac peut-elle servir à arroser les plantes ?",
+          "a": "Elle n’est pas potable et peut contenir poussières, dépôts ou résidus issus de l’appareil. Par prudence, évitez les usages alimentaires et les plantes sensibles. Le plus simple est de l’évacuer dans un lavabo, une douche ou des toilettes, conformément aux recommandations du fabricant."
+        }
+      ]
+    }
+  ]
+}

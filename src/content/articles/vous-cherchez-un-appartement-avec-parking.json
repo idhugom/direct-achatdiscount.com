@@ -1,0 +1,428 @@
+{
+  "title": "Vous cherchez un appartement avec parking ?",
+  "slug": "vous-cherchez-un-appartement-avec-parking",
+  "path": "/divers/vous-cherchez-un-appartement-avec-parking.html",
+  "category": "maison",
+  "tags": [
+    "appartement avec parking",
+    "place de stationnement",
+    "achat immobilier",
+    "location appartement",
+    "copropriété",
+    "garage"
+  ],
+  "excerpt": "Un parking peut sécuriser votre quotidien et la valeur du logement, à condition d’en vérifier l’usage réel, le statut juridique et les contraintes.",
+  "metaDescription": "Acheter ou louer un appartement avec parking : types de places, vérifications, budget, copropriété et pièges à éviter avant de signer.",
+  "seoTitle": "Appartement avec parking : le guide pour bien choisir",
+  "heroKicker": "Stationner sans stress",
+  "readingTime": 12,
+  "date": "2024-07-24T04:06:15",
+  "image": {
+    "id": "2138",
+    "alt": "Vous cherchez un appartement avec parking ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Chercher un appartement avec parking ne consiste pas seulement à cocher une case dans une annonce. Entre une place étroite, un box mal situé, un lot juridiquement distinct ou un stationnement simplement toléré, les écarts de confort, de coût et de valeur peuvent être considérables. Voici comment vérifier que le parking répond vraiment à vos usages avant de louer ou d’acheter."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Une mention « parking » ne garantit ni une place privative, ni une place adaptée à votre véhicule : vérifiez le numéro de lot, les dimensions et l’accès.",
+        "Le bon choix dépend d’abord de votre usage réel : voiture quotidienne, véhicule familial, deux-roues, recharge électrique, location future ou revente.",
+        "En copropriété, examinez les charges, le règlement, les travaux votés et les règles d’usage du sous-sol avant de vous engager.",
+        "Pour un achat, séparer le prix de l’appartement et celui du stationnement permet de juger sa valeur et de mieux négocier.",
+        "Visitez la place avec votre propre véhicule, si possible à l’heure où l’accès et les manœuvres sont les plus contraignants."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi un parking peut transformer votre projet immobilier",
+      "id": "pourquoi-un-parking-peut-transformer-votre-projet-immobilier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans les zones denses, une place de stationnement privée apporte une commodité qui dépasse largement le simple fait de garer une voiture. Elle évite la recherche quotidienne d’une place, limite l’exposition aux intempéries et aux dégradations, et peut rendre un logement plus facile à louer ou à revendre. Son intérêt est particulièrement fort si vous utilisez votre véhicule pour travailler, accompagner des enfants, effectuer des trajets fréquents ou transporter du matériel."
+    },
+    {
+      "type": "paragraph",
+      "html": "Mais tous les emplacements ne se valent pas. Un garage fermé en rez-de-chaussée, une place en sous-sol profond ou un emplacement extérieur dans une cour n’offrent pas le même niveau de sécurité, de facilité d’accès ni les mêmes frais. Dans certains quartiers très bien desservis par les transports, vous paierez parfois un stationnement dont vous n’avez pas réellement besoin. À l’inverse, dans un secteur où le stationnement public est rare ou réglementé, renoncer à une place peut devenir une fausse économie."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "10 à 13 m²",
+          "label": "ordre de grandeur courant pour l’emprise d’une place de voiture, hors aisance de circulation"
+        },
+        {
+          "value": "12 à 18 m²",
+          "label": "ordre de grandeur possible pour un box fermé, selon sa configuration"
+        },
+        {
+          "value": "1 à 2 niveaux",
+          "label": "un accès simple à privilégier si vous utilisez le véhicule tous les jours"
+        },
+        {
+          "value": "2 lots possibles",
+          "label": "appartement et stationnement peuvent avoir des références cadastrales et de copropriété distinctes"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le critère décisif : l’usage réel",
+      "html": "Ne valorisez pas un parking comme un simple « plus ». Demandez-vous combien de jours par semaine vous conduisez, quel véhicule vous possédez aujourd’hui et quel véhicule vous pourriez avoir demain. Une place inutilisable avec un SUV, un break, un utilitaire léger ou un siège enfant ne compense pas un logement mieux placé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Identifier précisément le type de stationnement proposé",
+      "id": "identifier-precisement-le-type-de-stationnement-propose"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le mot « parking » recouvre des réalités très différentes. L’annonce doit être traduite en éléments concrets : place privative matérialisée, box fermé, garage individuel, carport, emplacement extérieur, ou droit de stationnement dans une zone commune. Le niveau de protection, la liberté d’usage et la valeur patrimoniale en dépendent directement."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales formules de stationnement avec un appartement",
+      "headers": [
+        "Solution",
+        "Atouts",
+        "Limites à contrôler",
+        "Pour quel usage ?"
+      ],
+      "rows": [
+        [
+          "Place extérieure privative",
+          "Accès rapide, manœuvres souvent plus simples, frais parfois limités",
+          "Exposition aux intempéries, sécurité variable, marquage et largeur",
+          "Usage quotidien dans une résidence calme ou une zone peu exposée"
+        ],
+        [
+          "Place en sous-sol",
+          "Véhicule protégé, accès contrôlé, intérêt marqué en ville",
+          "Rampe, hauteur sous plafond, ventilation, ascenseur en panne, charges",
+          "Automobilistes réguliers vivant dans un environnement urbain dense"
+        ],
+        [
+          "Box fermé",
+          "Protection renforcée, possibilité de rangement sous conditions",
+          "Dimensions intérieures, humidité, porte, interdiction éventuelle de stockage",
+          "Voiture à protéger, deux-roues, besoins de rangement très encadrés"
+        ],
+        [
+          "Garage individuel",
+          "Indépendance et potentiel d’usage polyvalent",
+          "Coût, état de la toiture et de la porte, raccordements, fiscalité éventuelle",
+          "Propriétaire recherchant une solution durable et autonome"
+        ],
+        [
+          "Stationnement commun non attribué",
+          "Parfois moins cher ou inclus dans les charges",
+          "Aucune garantie de place disponible, règles internes changeantes",
+          "Ménage ayant rarement besoin d’une voiture"
+        ]
+      ],
+      "note": "La désignation commerciale ne suffit pas : seul le titre, le bail ou le règlement de copropriété permet de connaître précisément vos droits."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Place privative, jouissance exclusive ou simple tolérance : une différence majeure",
+      "id": "place-privative-jouissance-exclusive-ou-simple-tolerance-une"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une <strong>place privative</strong> est généralement identifiée comme un lot, ou comme une partie privative attachée à un lot. Vous en avez l’usage exclusif dans les limites du règlement. Une <strong>jouissance privative</strong> peut, elle, porter sur une partie commune : vous bénéficiez d’un droit d’usage exclusif, sans nécessairement en être propriétaire de la même façon. Enfin, un parking collectif sans place attribuée signifie que vous ne pouvez pas exiger de trouver un emplacement libre."
+    },
+    {
+      "type": "paragraph",
+      "html": "En location, exigez que l’emplacement soit décrit dans le bail ou dans une annexe : adresse, niveau, numéro, nature du droit et loyer ou provision éventuelle distincte. Lors d’un achat, le compromis doit faire apparaître clairement les références du ou des lots concernés. Une phrase vague telle que « stationnement disponible dans la résidence » ne protège pas votre besoin de stationner."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mesurer le parking avant de le considérer comme acquis",
+      "id": "mesurer-le-parking-avant-de-le-considerer-comme-acquis"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une place peut paraître correcte à pied et se révéler pénible, voire inutilisable, une fois au volant. Les piliers, les murs latéraux, l’angle de la voie de circulation, la pente de la rampe et le comportement des autres véhicules stationnés changent complètement la manœuvre. Ne vous fiez ni au tracé au sol seul ni à la taille de l’ancienne voiture du vendeur."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La visite pratique à effectuer avec méthode",
+      "items": [
+        "Mesurez la largeur et la longueur utiles, en tenant compte des piliers, portes, gaines et débattements.",
+        "Vérifiez la hauteur libre dès l’entrée, dans la rampe et au niveau de la place ; une galerie, un coffre de toit ou un véhicule haut peut poser problème.",
+        "Faites réellement le trajet voiture comprise : portail, badge, rampe, virages, croisement éventuel, puis sortie du véhicule.",
+        "Ouvrez les portières du côté conducteur et du côté passager : pensez à un enfant, à une poussette ou à une personne à mobilité réduite.",
+        "Observez l’éclairage, la propreté, l’évacuation de l’eau, la ventilation et les traces d’humidité ou de ruissellement.",
+        "Repérez la distance jusqu’au hall, à l’ascenseur et au logement, surtout si vous rentrez souvent chargé."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Le piège des dimensions théoriques",
+      "html": "Une place suffisamment longue sur le plan peut être impraticable si un poteau bloque l’ouverture de la portière ou si la voie de circulation impose une manœuvre trop serrée. Pour un achat important, venez avec votre véhicule ou un véhicule aux dimensions comparables, et ne vous contentez pas d’une visite à pied."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Évaluer le budget et la valeur ajoutée du stationnement",
+      "id": "evaluer-le-budget-et-la-valeur-ajoutee-du-stationnement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le surcoût d’un appartement avec parking dépend presque entièrement de la localisation. Dans une zone rurale ou dans une résidence où les places sont abondantes, son influence sur le prix ou le loyer peut rester modérée. Dans un centre-ville dense, près d’une gare, d’un quartier commerçant ou d’un secteur où le stationnement de rue est limité, une place sécurisée peut constituer un élément de valeur déterminant."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour raisonner correctement, demandez un prix ou une valeur <strong>distincte</strong> pour le logement et le stationnement. Vous pourrez alors comparer avec des appartements semblables sans place, des parkings vendus ou loués à proximité, ainsi qu’avec le coût et la disponibilité du stationnement public. Cette séparation est utile pour négocier, mais aussi si vous envisagez un jour de louer ou de céder le parking indépendamment lorsque le règlement et la structure des lots le permettent."
+    },
+    {
+      "type": "table",
+      "caption": "Les postes de coût à intégrer au-delà du prix ou du loyer",
+      "headers": [
+        "Poste",
+        "Ce qu’il faut demander",
+        "Impact possible"
+      ],
+      "rows": [
+        [
+          "Prix d’achat ou supplément de loyer",
+          "Montant individualisé pour la place ou le box",
+          "Permet de comparer objectivement plusieurs logements"
+        ],
+        [
+          "Charges de copropriété",
+          "Nettoyage, portail, éclairage, ventilation, syndic, sécurité",
+          "Plus sensibles dans les parkings souterrains équipés"
+        ],
+        [
+          "Travaux",
+          "Rampe, étanchéité, porte de garage, ventilation, désenfumage",
+          "Peuvent être coûteux et parfois urgents dans les sous-sols"
+        ],
+        [
+          "Fiscalité et assurance",
+          "Répartition avec le logement ou traitement séparé selon le montage",
+          "À confirmer avec le notaire, l’assureur et les documents du bien"
+        ],
+        [
+          "Recharge électrique",
+          "Puissance disponible, travaux, abonnement et règles collectives",
+          "Budget variable selon la distance au tableau et l’installation existante"
+        ]
+      ],
+      "note": "Les montants varient fortement selon la ville, la résidence et l’état des équipements. Privilégiez les documents réels de la copropriété aux estimations générales."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Quand vaut-il mieux payer davantage ?",
+      "id": "quand-vaut-il-mieux-payer-davantage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un supplément est plus justifié lorsque le stationnement élimine une contrainte quotidienne concrète : absence de stationnement de rue, véhicule indispensable, retour tardif, quartier où les places sont rares, famille avec enfants ou activité nécessitant des déplacements. Il est aussi défendable si le logement vise une clientèle locative motorisée. En revanche, si vous conduisez rarement, vivez près de transports efficaces et disposez d’alternatives fiables, l’argent consacré à la place peut parfois être mieux investi dans l’emplacement du logement, son état ou sa performance énergétique."
+    },
+    {
+      "type": "comparison",
+      "title": "Place extérieure ou place en sous-sol : quel arbitrage ?",
+      "left": {
+        "title": "Place extérieure privative",
+        "points": [
+          "Accès généralement rapide et intuitif.",
+          "Moins de contraintes de rampe, de hauteur et de ventilation.",
+          "Souvent plus simple pour les grands véhicules.",
+          "Véhicule davantage exposé aux intempéries, au soleil et aux regards.",
+          "Sécurité dépendante du portail, de l’éclairage et de l’environnement."
+        ]
+      },
+      "right": {
+        "title": "Place en sous-sol",
+        "points": [
+          "Meilleure protection contre la météo et discrétion accrue.",
+          "Peut être très recherchée en centre-ville.",
+          "Accès parfois plus sécurisé par badge ou télécommande.",
+          "Manœuvres, pente, hauteur et couverture réseau peuvent être contraignantes.",
+          "Charges et risques liés aux équipements collectifs à examiner."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lire les documents de copropriété avant de signer",
+      "id": "lire-les-documents-de-copropriete-avant-de-signer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un achat, le parking doit faire partie de votre audit de copropriété au même titre que la toiture, les façades ou le chauffage collectif. Demandez le règlement de copropriété et ses éventuels modificatifs, les procès-verbaux récents d’assemblée générale, le budget prévisionnel, le relevé des charges et les informations disponibles sur les travaux décidés ou envisagés. Si le stationnement est en sous-sol, soyez particulièrement attentif à l’étanchéité, aux infiltrations, à la ventilation, aux dispositifs de sécurité et au portail."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le règlement peut limiter l’usage des boxes et garages : stockage de produits inflammables, installation d’équipements, branchement électrique, réparations mécaniques, stationnement de certains véhicules ou utilisation professionnelle. Un box n’est pas automatiquement une pièce de rangement libre de toute règle. Si vous souhaitez y entreposer un vélo, une poussette, des pneus ou un petit équipement, vérifiez que cela est autorisé et compatible avec les impératifs de sécurité."
+    },
+    {
+      "type": "proscons",
+      "title": "Un box fermé en copropriété : le vrai bilan",
+      "pros": [
+        "Protection supérieure contre les chocs, le soleil, la pluie et les regards.",
+        "Intérêt pratique pour certains deux-roues ou équipements autorisés.",
+        "Atout possible à la location et à la revente dans les zones où le stationnement est rare.",
+        "Possibilité d’ajouter une serrure ou un équipement autorisé, sous réserve des règles collectives."
+      ],
+      "cons": [
+        "Porte, humidité et ventilation exigent une surveillance régulière.",
+        "Espace souvent moins généreux qu’il n’y paraît une fois la voiture stationnée.",
+        "Stockage et travaux encadrés par le règlement de copropriété et les règles de sécurité.",
+        "Charges ou travaux spécifiques possibles, notamment dans un sous-sol ancien."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Anticiper la recharge électrique et les usages de demain",
+      "id": "anticiper-la-recharge-electrique-et-les-usages-de-demain"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous envisagez un véhicule électrique ou hybride rechargeable, ne supposez pas qu’une prise est disponible ou qu’il suffira de brancher une rallonge depuis les parties communes. La recharge dans un immeuble relève de règles techniques, de sécurité et de copropriété. Vérifiez l’existence d’une infrastructure collective, la capacité électrique, les modalités de raccordement, les autorisations nécessaires et la façon dont l’électricité est facturée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Même sans projet immédiat, une place proche d’un cheminement technique raisonnable, avec une installation électrique bien documentée, sera souvent plus adaptable qu’un emplacement isolé. N’en faites toutefois pas un critère absolu si vous n’êtes pas motorisé : une promesse de recharge « facile à installer » doit être étayée par un diagnostic ou un devis, pas par une simple affirmation orale."
+    },
+    {
+      "type": "steps",
+      "title": "Les 5 vérifications à faire avant l’offre ou la signature",
+      "items": [
+        {
+          "title": "1. Isoler le lot",
+          "text": "Obtenez le numéro de place, le niveau, la désignation exacte et le statut du stationnement dans le bail, l’annonce détaillée ou les documents de vente."
+        },
+        {
+          "title": "2. Tester l’accès",
+          "text": "Parcourez l’itinéraire complet avec votre véhicule si possible : portail, rampe, virages, manœuvre, portières et sortie piétonne."
+        },
+        {
+          "title": "3. Contrôler les coûts",
+          "text": "Demandez la ventilation du prix ou du loyer, les charges passées et les travaux votés concernant le parking."
+        },
+        {
+          "title": "4. Lire les règles",
+          "text": "Cherchez les restrictions liées au box, au stockage, aux deux-roues, à la recharge et à l’accès des visiteurs."
+        },
+        {
+          "title": "5. Décider selon votre horizon",
+          "text": "Projetez-vous sur plusieurs années : changement de véhicule, arrivée d’un enfant, mise en location, besoin de revente ou abandon progressif de la voiture."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs fréquentes lors d’un achat ou d’une location",
+      "id": "les-erreurs-frequentes-lors-d-un-achat-ou-d-une-location"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur est de considérer le parking comme automatiquement inclus. Il peut être proposé en supplément, loué par un tiers, ou correspondre à un droit de jouissance moins protecteur qu’un lot privatif. La deuxième consiste à négliger la manœuvre : quelques centimètres, un angle mal conçu ou une rampe étroite suffisent à transformer une place en contrainte quotidienne."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une autre erreur est de regarder uniquement le montant des charges sans comprendre ce qu’il finance. Des charges élevées peuvent correspondre à des équipements utiles et correctement entretenus ; des charges faibles dans un sous-sol dégradé peuvent au contraire annoncer des travaux futurs. Enfin, ne confondez pas sécurité apparente et sécurité effective : une porte de garage ouverte en permanence, une caméra non fonctionnelle ou un éclairage insuffisant nuisent autant à l’usage qu’à la tranquillité."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Signaux qui doivent vous faire ralentir",
+      "items": [
+        "Le vendeur, le bailleur ou l’agent ne peut pas identifier précisément la place ni fournir les documents correspondants.",
+        "Des traces d’eau, une odeur persistante d’humidité ou des dégradations sont visibles au sous-sol.",
+        "La hauteur libre n’est pas affichée alors que la rampe paraît basse.",
+        "La place est occupée lors de chaque visite et ne peut pas être montrée librement.",
+        "Les assemblées générales évoquent des problèmes récurrents de portail, d’infiltration ou de sécurité.",
+        "Le supplément demandé pour le parking paraît disproportionné par rapport à votre fréquence d’utilisation et aux alternatives locales."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Et si vous renonciez au parking ? Les alternatives à comparer",
+      "id": "et-si-vous-renonciez-au-parking-les-alternatives-a-comparer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un appartement sans parking peut être un excellent choix, notamment si vous habitez dans un secteur très marchable, proche des transports et des services, ou si vous utilisez peu votre voiture. Dans ce cas, comparez calmement le supplément demandé avec le coût, la disponibilité et la sécurité d’une location de parking à proximité. Cette solution offre parfois plus de souplesse : vous n’immobilisez pas de capital dans une place et vous pouvez changer de stationnement selon vos besoins."
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez aussi envisager l’autopartage, la location ponctuelle pour les départs en week-end, le vélo cargo ou un véhicule plus compact si cela correspond à vos trajets. L’objectif n’est pas de renoncer à la voiture par principe, mais de ne pas surpayer un équipement peu utilisé. À l’inverse, si la voiture est structurellement indispensable, un stationnement immédiatement opérationnel vaut souvent mieux qu’une hypothétique location future dans un quartier déjà saturé."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "La bonne méthode de comparaison",
+      "html": "Mettez face à face le coût total du logement avec parking, celui d’un logement similaire sans parking et le coût réaliste d’une solution externe. Ajoutez le temps perdu à chercher une place, le risque de contraventions ou de dégradation, ainsi que votre besoin de flexibilité. Le meilleur choix est celui dont le coût et la contrainte restent cohérents avec votre mode de vie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire du parking un atout durable, pas une source de contraintes",
+      "id": "faire-du-parking-un-atout-durable-pas-une-source-de-contrain"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois installé, gardez le règlement de copropriété, vos badges et télécommandes, ainsi que les informations de contact utiles. Signalez rapidement toute infiltration, panne de porte, défaut d’éclairage ou problème d’accès : les dégradations de sous-sol s’aggravent plus facilement lorsqu’elles sont laissées sans suivi. Si vous achetez un box, évitez d’y accumuler des objets au point de gêner l’accès ou de contrevenir aux règles de sécurité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour la revente ou la mise en location, valorisez le parking avec précision : type d’emplacement, numéro, niveau, accès sécurisé, facilité de manœuvre, possibilité de recharge si elle est confirmée et distance jusqu’à l’ascenseur. Des informations factuelles, accompagnées de documents clairs, rassurent bien davantage qu’une mention générale de « parking sécurisé ». Un bon stationnement est celui que vous pouvez décrire, utiliser et transmettre sans ambiguïté."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur les appartements avec parking",
+      "items": [
+        {
+          "q": "Un appartement avec parking coûte-t-il toujours plus cher ?",
+          "a": "Pas nécessairement dans les mêmes proportions. La valeur du stationnement dépend de la rareté locale, des transports disponibles, de la sécurité et de son caractère réellement utilisable. Dans certains secteurs, il est décisif ; dans d’autres, il reste un confort secondaire. Demandez toujours une valorisation distincte du logement et de la place."
+        },
+        {
+          "q": "Comment savoir si la place est vraiment privative ?",
+          "a": "Lors d’un achat, vérifiez sa désignation dans le compromis, l’état descriptif de division et le règlement de copropriété. En location, elle doit être identifiée dans le bail ou une annexe. Une place numérotée au sol ne prouve pas, à elle seule, la nature de votre droit."
+        },
+        {
+          "q": "Puis-je stocker des affaires dans un box fermé ?",
+          "a": "Pas automatiquement. Le règlement de copropriété, les règles de sécurité et l’assurance peuvent encadrer fortement le stockage, surtout pour les produits inflammables, les batteries, les pneus ou les objets encombrants. Consultez les documents avant de compter sur le box comme espace de rangement."
+        },
+        {
+          "q": "Que vérifier pour installer une borne de recharge ?",
+          "a": "Examinez l’infrastructure électrique existante, la distance entre votre place et les équipements, les règles de copropriété, les autorisations à obtenir et le mode de facturation. Une visite technique ou un devis est préférable à toute promesse orale sur la facilité d’installation."
+        },
+        {
+          "q": "Une place en sous-sol est-elle forcément plus sûre qu’une place extérieure ?",
+          "a": "Non. Un sous-sol bien éclairé, fermé et entretenu est souvent protecteur, mais une rampe ouverte, un portail défaillant ou une surveillance inexistante peuvent réduire cet avantage. Évaluez les accès, l’éclairage, l’état général et les incidents évoqués en assemblée générale."
+        },
+        {
+          "q": "Peut-on louer ou revendre un parking séparément de l’appartement ?",
+          "a": "Cela dépend de la façon dont le stationnement est juridiquement constitué et des règles de copropriété. Un lot distinct offre généralement davantage de souplesse, mais des restrictions peuvent exister. Le notaire peut confirmer les possibilités applicables au bien que vous envisagez. "
+        }
+      ]
+    }
+  ]
+}

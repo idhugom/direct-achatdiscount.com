@@ -1,0 +1,425 @@
+{
+  "title": "L’activation de l’authentification à deux facteurs en quelques étapes : un moyen simple de renforcer la sécurité de vos comptes en ligne",
+  "slug": "lactivation-de-lauthentification-a-deux-facteurs-en-quelques-etapes-un-moyen-simple-de-renforcer-la-securite-de-vos-comptes-en-ligne",
+  "path": "/divers/lactivation-de-lauthentification-a-deux-facteurs-en-quelques-etapes-un-moyen-simple-de-renforcer-la-securite-de-vos-comptes-en-ligne.html",
+  "category": "tech",
+  "tags": [
+    "authentification à deux facteurs",
+    "2fa",
+    "sécurité des comptes",
+    "application d’authentification",
+    "cybersécurité",
+    "mots de passe"
+  ],
+  "excerpt": "SMS, application d’authentification, clé physique : choisissez et activez la double authentification sans perdre l’accès à vos comptes.",
+  "metaDescription": "Activez l’authentification à deux facteurs, choisissez la méthode adaptée et évitez les pièges pour mieux protéger vos comptes en ligne.",
+  "seoTitle": "Authentification à deux facteurs : l’activer simplement",
+  "heroKicker": "Sécurité essentielle",
+  "readingTime": 12,
+  "date": "2024-08-09T14:46:16",
+  "image": {
+    "id": "2222",
+    "alt": "L’activation de l’authentification à deux facteurs en quelques étapes : un moyen simple de renforcer la sécurité de vos comptes en ligne",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un mot de passe, même long et unique, ne suffit plus toujours à protéger vos comptes. L’authentification à deux facteurs, souvent appelée 2FA ou double authentification, ajoute une vérification qui bloque la plupart des connexions frauduleuses : son activation ne prend généralement que quelques minutes, à condition de choisir la bonne méthode et de préparer votre solution de secours."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Activez la 2FA en priorité sur votre adresse e-mail principale, votre gestionnaire de mots de passe, vos comptes bancaires, vos achats en ligne et vos réseaux sociaux.",
+        "Une application d’authentification est généralement plus robuste que le code reçu par SMS ; une clé de sécurité physique offre une protection supplémentaire contre l’hameçonnage.",
+        "Enregistrez les codes de récupération hors de votre téléphone : ils sont indispensables en cas de perte, de panne ou de changement d’appareil.",
+        "La 2FA complète un mot de passe unique et solide ; elle ne vous protège pas si vous validez une demande de connexion frauduleuse ou communiquez un code à un escroc."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre l’authentification à deux facteurs",
+      "id": "comprendre-l-authentification-a-deux-facteurs"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’authentification à deux facteurs impose de prouver votre identité avec <strong>deux éléments distincts</strong>. Le premier est généralement ce que vous connaissez : votre mot de passe ou un code secret. Le second repose sur ce que vous possédez, comme votre téléphone, une application générant un code ou une clé de sécurité, voire sur ce que vous êtes, par exemple une empreinte digitale ou une reconnaissance faciale utilisée pour déverrouiller un appareil."
+    },
+    {
+      "type": "paragraph",
+      "html": "Concrètement, après avoir saisi votre mot de passe, le service vous demande une confirmation supplémentaire : un code temporaire, une validation dans une application, une empreinte sur votre appareil ou l’insertion d’une clé. Une personne qui a récupéré votre mot de passe ne peut donc pas se connecter facilement sans ce second élément."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le terme <strong>MFA</strong> (authentification multifacteur) désigne le même principe, avec deux facteurs ou davantage. Dans les interfaces françaises, vous rencontrerez aussi les libellés « validation en deux étapes », « vérification en deux étapes », « sécurité renforcée » ou « méthode de connexion supplémentaire »."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "2 facteurs",
+          "label": "minimum : un mot de passe et une preuve supplémentaire"
+        },
+        {
+          "value": "20 à 60 s",
+          "label": "durée habituelle de validité d’un code temporaire"
+        },
+        {
+          "value": "Quelques minutes",
+          "label": "temps courant pour configurer une méthode sur un compte"
+        },
+        {
+          "value": "1 priorité",
+          "label": "votre messagerie principale, car elle sert à réinitialiser beaucoup d’autres comptes"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quels comptes sécuriser en premier ?",
+      "id": "quels-comptes-securiser-en-premier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous n’avez pas besoin d’attendre d’avoir organisé tous vos comptes pour commencer. Protégez d’abord ceux qui donnent accès à votre identité numérique, à votre argent ou à vos moyens de récupération. Si votre boîte e-mail principale est compromise, un pirate peut demander la réinitialisation de nombreux mots de passe et intercepter les liens de confirmation. C’est donc votre priorité absolue."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Ordre de priorité recommandé",
+      "items": [
+        "Votre messagerie principale et toute adresse e-mail utilisée pour récupérer des comptes.",
+        "Votre gestionnaire de mots de passe et votre compte de stockage de documents ou de photos.",
+        "Vos services bancaires, de paiement, de courtage et les sites contenant une carte enregistrée.",
+        "Vos comptes de boutiques en ligne, surtout s’ils conservent adresses, commandes et moyens de paiement.",
+        "Vos réseaux sociaux, messageries, espaces professionnels, plateformes de jeux et comptes administrateur.",
+        "Les comptes familiaux ou partagés : vérifiez qui détient les moyens de récupération avant toute modification."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La messagerie est le maillon central",
+      "html": "Activez la 2FA sur votre e-mail avant les autres services. Vérifiez aussi l’adresse et le numéro de récupération associés au compte : des coordonnées anciennes ou accessibles à quelqu’un d’autre affaiblissent toute la protection."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "SMS, application, notification ou clé : quelle méthode choisir ?",
+      "id": "sms-application-notification-ou-cle-quelle-methode-choisir"
+    },
+    {
+      "type": "paragraph",
+      "html": "Tous les seconds facteurs ne se valent pas, mais le meilleur choix est d’abord celui que vous utiliserez correctement. Si un site ne propose que le SMS, mieux vaut activer le SMS que rester sans protection supplémentaire. Dès qu’il est disponible, privilégiez toutefois une application d’authentification ou une clé de sécurité, particulièrement pour vos comptes les plus sensibles."
+    },
+    {
+      "type": "table",
+      "caption": "Les principales méthodes de double authentification",
+      "headers": [
+        "Méthode",
+        "Niveau de protection",
+        "Atouts",
+        "Limites et vigilance",
+        "Budget habituel"
+      ],
+      "rows": [
+        [
+          "Code par SMS",
+          "Correct pour débuter",
+          "Simple, ne demande pas d’application dédiée, disponible sur beaucoup de services",
+          "Vulnérable à certaines fraudes liées au numéro ; dépend du réseau mobile et du bon numéro enregistré",
+          "Généralement inclus"
+        ],
+        [
+          "Application d’authentification",
+          "Élevé dans la plupart des usages",
+          "Codes hors ligne, fonctionnement même sans réseau, utilisable sur plusieurs services",
+          "Il faut sauvegarder ou transférer correctement l’application lors d’un changement de téléphone",
+          "Gratuite ou incluse selon l’outil"
+        ],
+        [
+          "Notification à valider",
+          "Élevé si elle affiche le contexte de connexion",
+          "Très pratique, pas de code à recopier",
+          "Ne validez jamais une demande inattendue ; attention à la fatigue de validation",
+          "Généralement incluse"
+        ],
+        [
+          "Clé de sécurité physique",
+          "Très élevé, notamment contre l’hameçonnage",
+          "Validation rapide, difficile à détourner à distance, pas de numéro de téléphone impliqué",
+          "Il faut prévoir une clé de secours ou une méthode alternative et vérifier la compatibilité des appareils",
+          "De l’ordre de quelques dizaines d’euros par clé"
+        ],
+        [
+          "Passkey ou clé d’accès",
+          "Très élevé selon le service et l’appareil",
+          "Connexion sans mot de passe, souvent liée au déverrouillage de l’appareil",
+          "Sauvegarde et synchronisation à comprendre ; disponibilité encore variable selon les services",
+          "Généralement incluse"
+        ]
+      ],
+      "note": "Le niveau réel de protection dépend aussi de vos pratiques : un code donné à un fraudeur ou une validation approuvée sans vérification annule le bénéfice de la méthode."
+    },
+    {
+      "type": "comparison",
+      "title": "Application d’authentification ou SMS : le bon arbitrage",
+      "left": {
+        "title": "Application d’authentification",
+        "points": [
+          "Génère des codes temporaires sans couverture réseau ni réception de SMS.",
+          "Évite une partie des risques liés au détournement de numéro de téléphone.",
+          "Convient aux comptes importants, à condition de prévoir une sauvegarde et un transfert sécurisé.",
+          "Demande une petite phase d’installation et une attention particulière lors du changement de mobile."
+        ]
+      },
+      "right": {
+        "title": "Code par SMS",
+        "points": [
+          "Très simple à mettre en place lorsque vous débutez ou quand le site ne propose rien d’autre.",
+          "Utile comme méthode de secours sur certains services.",
+          "Dépend de votre numéro, de la réception des messages et de la sécurité de votre ligne mobile.",
+          "À remplacer par une application ou une clé lorsque ces options sont proposées pour un compte sensible."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer l’activation sans risquer de vous bloquer",
+      "id": "preparer-l-activation-sans-risquer-de-vous-bloquer"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le principal risque de la 2FA n’est pas qu’elle soit trop compliquée : c’est de l’activer à la hâte, puis de perdre son téléphone sans avoir prévu de solution de récupération. Avant de modifier un compte important, vérifiez que vous connaissez son mot de passe, que votre adresse e-mail de récupération est accessible et que votre téléphone ou appareil actuel fonctionne correctement."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À faire avant de commencer",
+      "items": [
+        "Mettez à jour le mot de passe si vous le réutilisez ailleurs, s’il est ancien ou s’il a pu être exposé.",
+        "Installez une application d’authentification réputée si vous optez pour cette méthode, puis protégez l’accès à votre téléphone par un code robuste ou la biométrie.",
+        "Préparez un endroit sûr pour les codes de récupération : gestionnaire de mots de passe, document chiffré ou copie papier rangée à l’abri.",
+        "Vérifiez les appareils déjà connectés au compte et déconnectez ceux que vous ne reconnaissez pas.",
+        "Évitez de configurer la 2FA depuis un ordinateur public, un Wi-Fi non fiable ou un appareil qui ne vous appartient pas."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne stockez pas vos seuls codes de secours dans le téléphone protégé",
+      "html": "Une capture d’écran laissée dans votre galerie, une note non protégée ou un e-mail accessible depuis le même compte ne constituent pas une sauvegarde suffisante. Si vous perdez simultanément l’appareil et l’accès au compte, ces codes ne vous aideront plus."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Activer la 2FA en quelques étapes",
+      "id": "activer-la-2fa-en-quelques-etapes"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les noms des menus varient d’un site à l’autre, mais le déroulé reste presque identique. Cherchez la rubrique <strong>Sécurité</strong>, <strong>Connexion</strong>, <strong>Mot de passe et sécurité</strong> ou <strong>Confidentialité</strong> dans les paramètres de votre compte. Prenez le temps de lire les options proposées plutôt que d’activer automatiquement la première méthode affichée."
+    },
+    {
+      "type": "steps",
+      "title": "La procédure générale",
+      "items": [
+        {
+          "title": "Ouvrez les paramètres de sécurité",
+          "text": "Connectez-vous au service depuis un appareil de confiance. Repérez l’option « authentification à deux facteurs », « vérification en deux étapes » ou un intitulé proche."
+        },
+        {
+          "title": "Choisissez la méthode principale",
+          "text": "Préférez une application d’authentification si le service l’accepte. Le SMS reste une solution utile lorsque vous n’avez pas d’autre choix. Pour un compte très sensible, envisagez une clé de sécurité compatible."
+        },
+        {
+          "title": "Associez votre appareil",
+          "text": "Pour une application, scannez le QR code affiché avec l’application, puis saisissez le code temporaire qu’elle génère. Pour le SMS, contrôlez soigneusement le numéro affiché. Pour une clé, suivez l’invitation du navigateur ou de l’application."
+        },
+        {
+          "title": "Enregistrez les solutions de récupération",
+          "text": "Téléchargez, imprimez ou copiez les codes de secours dans un emplacement sûr. Ajoutez, si le service le permet, une seconde méthode fiable ou une seconde clé enregistrée."
+        },
+        {
+          "title": "Testez avant de fermer la session",
+          "text": "Déconnectez-vous volontairement, reconnectez-vous et validez la seconde étape. Vérifiez aussi que vous savez retrouver vos codes de secours sans dépendre du compte que vous venez de protéger."
+        },
+        {
+          "title": "Contrôlez les alertes et appareils liés",
+          "text": "Activez les notifications de nouvelle connexion si elles existent. Examinez ensuite la liste des sessions actives et des appareils autorisés."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bien utiliser une application d’authentification",
+      "id": "bien-utiliser-une-application-d-authentification"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une application d’authentification génère localement des codes temporaires à partir d’un secret partagé avec le site lors de l’inscription. Elle n’a donc pas besoin de réseau pour produire un code. Cette indépendance est particulièrement utile en voyage, dans une zone mal couverte ou lorsque votre carte SIM est désactivée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne confondez pas une application d’authentification avec une application qui vous envoie seulement des notifications. Certaines solutions proposent les deux. Dans tous les cas, l’enjeu est de pouvoir restaurer vos accès si votre téléphone est remplacé : vérifiez si l’outil permet une sauvegarde chiffrée, un export protégé ou l’ajout sur plusieurs appareils. Ne supposez jamais que vos codes seront transférés automatiquement vers un nouveau téléphone."
+    },
+    {
+      "type": "proscons",
+      "title": "Application d’authentification : forces et contraintes",
+      "pros": [
+        "Plus robuste qu’un SMS face à de nombreux scénarios de détournement de numéro.",
+        "Fonctionne sans réseau mobile et sans connexion Internet pour générer les codes.",
+        "Centralise les codes de plusieurs sites dans un même outil.",
+        "Souvent simple à utiliser au quotidien après la première configuration."
+      ],
+      "cons": [
+        "Perdre ou réinitialiser le téléphone sans sauvegarde peut compliquer l’accès aux comptes.",
+        "Le QR code d’installation doit rester privé : ne le photographiez pas et ne le partagez pas.",
+        "Un téléphone insuffisamment verrouillé devient un point de vulnérabilité.",
+        "Certains services ne proposent pas encore cette méthode ou limitent les options de récupération."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Préparez le changement de téléphone",
+      "html": "Avant d’effacer, de vendre ou de donner votre ancien mobile, transférez vos comptes 2FA selon la procédure de l’application et testez-les sur le nouvel appareil. Gardez l’ancien téléphone allumé et connecté jusqu’à ce que chaque compte important ait été vérifié."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Clés de sécurité et passkeys : pour qui sont-elles utiles ?",
+      "id": "cles-de-securite-et-passkeys-pour-qui-sont-elles-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une clé de sécurité physique est un petit dispositif que vous branchez, approchez ou connectez sans fil selon ses connecteurs. Elle confirme votre connexion et, sur les services compatibles, aide à vous protéger contre les faux sites : elle vérifie en principe que vous êtes bien sur le bon domaine avant de répondre. C’est une excellente solution pour votre messagerie, votre gestionnaire de mots de passe, un compte professionnel ou toute personne particulièrement exposée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant l’achat, vérifiez la compatibilité avec vos ordinateurs, votre téléphone et vos navigateurs : les connecteurs et les modes de connexion diffèrent. Prévoyez idéalement <strong>deux moyens d’accès</strong> : une clé principale et une seconde clé conservée en lieu sûr, ou une méthode de récupération réellement sécurisée. Une clé unique attachée à votre trousseau est pratique, mais sa perte ne doit pas pouvoir vous exclure de tous vos comptes."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les passkeys, ou clés d’accès, constituent une autre évolution intéressante. Elles peuvent s’appuyer sur le déverrouillage de votre téléphone ou ordinateur et évitent souvent de saisir un mot de passe. Elles ne sont pas toujours présentées comme de la 2FA au sens strict, mais elles peuvent apporter une protection élevée contre le phishing. Adoptez-les progressivement, après avoir compris où elles sont sauvegardées et comment les récupérer sur un nouvel appareil."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui réduisent à néant la protection",
+      "id": "les-erreurs-qui-reduisent-a-neant-la-protection"
+    },
+    {
+      "type": "paragraph",
+      "html": "La double authentification ne remplace pas votre vigilance. Les fraudeurs cherchent souvent à contourner la technique en vous manipulant : faux e-mails de sécurité, appels prétendant venir du support, pages de connexion imitées ou rafales de demandes de validation. Le but est de vous pousser à leur transmettre un code ou à approuver une connexion qu’ils ont initiée."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Réflexes à adopter",
+      "items": [
+        "Ne communiquez jamais un code temporaire, un code de récupération ou le contenu d’une notification de connexion, même à une personne qui se présente comme le support.",
+        "Refusez toute demande de validation que vous n’avez pas initiée. Si les demandes se répètent, changez votre mot de passe et examinez les sessions actives.",
+        "Accédez à un compte depuis vos favoris, l’application officielle ou l’adresse que vous saisissez vous-même ; évitez de cliquer sur un lien reçu dans un message alarmiste.",
+        "N’utilisez pas le même mot de passe pour plusieurs services : la 2FA limite les dégâts, mais ne doit pas servir d’excuse à la réutilisation.",
+        "Ne retirez pas votre ancienne méthode de récupération avant d’avoir testé la nouvelle sur un autre appareil ou dans une nouvelle session.",
+        "Méfiez-vous des personnes qui demandent une copie de votre QR code de configuration : ce code peut permettre de générer vos codes temporaires."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Un enjeu aussi financier",
+      "html": "Les comptes d’achat, de paiement et de messagerie peuvent contenir des données permettant de passer commande, de détourner une réinitialisation ou de cibler vos proches. Activez la 2FA avant d’enregistrer un moyen de paiement sur un nouveau service, puis vérifiez régulièrement vos appareils et vos coordonnées de récupération."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Que faire si vous perdez votre téléphone ou votre second facteur ?",
+      "id": "que-faire-si-vous-perdez-votre-telephone-ou-votre-second-fac"
+    },
+    {
+      "type": "paragraph",
+      "html": "Agissez sans attendre, surtout si l’appareil perdu n’est pas correctement verrouillé. Depuis un autre appareil de confiance, changez le mot de passe des comptes prioritaires, révoquez les sessions ouvertes si le service le permet et utilisez vos codes de récupération. Signalez la perte à votre opérateur si votre numéro est concerné afin de protéger votre ligne et votre carte SIM."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous n’avez ni code de secours ni appareil déjà connecté, utilisez la procédure officielle de récupération du service. Elle peut demander un délai ou une preuve d’identité : c’est contraignant, mais normal pour empêcher une prise de contrôle frauduleuse. N’achetez jamais de prétendu service de récupération trouvé sur les réseaux sociaux ou dans des messages privés ; il s’agit fréquemment d’une escroquerie."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Après un incident ou un changement d’appareil",
+      "items": [
+        "Remplacez le mot de passe du compte concerné par un mot de passe long, unique et enregistré dans un gestionnaire fiable.",
+        "Supprimez l’ancien téléphone, numéro, application ou clé de la liste des méthodes autorisées dès que vous n’en avez plus l’usage.",
+        "Générez de nouveaux codes de récupération si les anciens ont pu être vus ou copiés.",
+        "Contrôlez l’historique de connexion, les règles de transfert e-mail, les coordonnées de récupération et les moyens de paiement enregistrés.",
+        "Prévenez vos contacts si un compte de messagerie ou de réseau social a pu envoyer des messages frauduleux en votre nom."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Construire une sécurité durable, sans complexité inutile",
+      "id": "construire-une-securite-durable-sans-complexite-inutile"
+    },
+    {
+      "type": "paragraph",
+      "html": "La meilleure stratégie est progressive : commencez par vos comptes critiques, utilisez un gestionnaire de mots de passe pour créer des identifiants uniques, puis ajoutez la 2FA adaptée à chaque service. Vous n’avez pas besoin d’une clé physique pour tous vos sites secondaires, mais une application d’authentification et des codes de secours bien rangés couvrent déjà la majorité des besoins."
+    },
+    {
+      "type": "paragraph",
+      "html": "Faites un contrôle régulier, notamment après un changement de téléphone, de numéro, d’adresse e-mail ou de situation familiale ou professionnelle. Vérifiez les appareils connectés, les méthodes de récupération et les autorisations accordées à des applications tierces. Cette routine brève est souvent plus utile que d’accumuler des outils de sécurité mal configurés."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "Le plan d’action le plus simple",
+      "items": [
+        "Sécurisez aujourd’hui votre e-mail principal avec un mot de passe unique et la 2FA.",
+        "Choisissez une application d’authentification pour les comptes sensibles lorsque cette option existe.",
+        "Conservez les codes de secours dans un emplacement distinct, privé et accessible en cas de panne.",
+        "Testez chaque méthode après activation et avant de supprimer une ancienne solution.",
+        "Refusez toute validation ou tout code demandé à l’improviste : la technologie ne remplace pas la vigilance."
+      ]
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l’authentification à deux facteurs",
+      "items": [
+        {
+          "q": "L’authentification à deux facteurs est-elle obligatoire ?",
+          "a": "Elle n’est pas obligatoire sur tous les services, mais elle est fortement recommandée dès qu’un compte contient des informations personnelles, des moyens de paiement, des documents, des échanges privés ou un accès professionnel. Certains services sensibles peuvent l’imposer."
+        },
+        {
+          "q": "Le SMS est-il suffisamment sécurisé pour la double authentification ?",
+          "a": "Le SMS améliore nettement la sécurité par rapport au seul mot de passe et constitue un bon point de départ. Il est toutefois moins résistant qu’une application d’authentification ou une clé de sécurité face à certaines attaques visant votre numéro. Pour un compte critique, privilégiez une autre méthode si elle est disponible."
+        },
+        {
+          "q": "Puis-je utiliser la même application d’authentification pour plusieurs comptes ?",
+          "a": "Oui. Une application peut généralement générer des codes pour de nombreux services. Cela simplifie l’usage, mais rend indispensable le verrouillage de votre téléphone, une stratégie de sauvegarde et la conservation séparée des codes de récupération de chaque compte."
+        },
+        {
+          "q": "Dois-je garder les codes de récupération si j’utilise une clé de sécurité ?",
+          "a": "Oui. Une clé peut être perdue, endommagée ou incompatible avec un appareil de secours. Conservez des codes de récupération et, si le service le permet, enregistrez une seconde clé ou une autre méthode fiable. N’utilisez pas les codes de secours comme une méthode quotidienne."
+        },
+        {
+          "q": "Que faire si je reçois un code ou une notification que je n’ai pas demandé ?",
+          "a": "Ne validez rien et ne transmettez aucun code. Rendez-vous directement dans les paramètres du compte depuis l’application ou votre navigateur, changez le mot de passe si vous avez le moindre doute, puis examinez les appareils connectés et les informations de récupération."
+        },
+        {
+          "q": "Une passkey remplace-t-elle la 2FA ?",
+          "a": "Selon le service, une passkey peut remplacer le mot de passe et offrir une connexion très résistante au phishing grâce au déverrouillage de votre appareil. Elle ne se présente pas toujours comme une 2FA classique. Gardez néanmoins des méthodes de récupération sûres et vérifiez comment la passkey est sauvegardée avant de dépendre exclusivement d’elle."
+        }
+      ]
+    }
+  ]
+}

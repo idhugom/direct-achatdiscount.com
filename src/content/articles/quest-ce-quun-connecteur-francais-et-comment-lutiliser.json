@@ -1,0 +1,467 @@
+{
+  "title": "Qu’est-ce qu’un connecteur français et comment l’utiliser ?",
+  "slug": "quest-ce-quun-connecteur-francais-et-comment-lutiliser",
+  "path": "/divers/quest-ce-quun-connecteur-francais-et-comment-lutiliser.html",
+  "category": "maison",
+  "tags": [
+    "prise type e",
+    "connecteur français",
+    "adaptateur voyage",
+    "sécurité électrique",
+    "prise de terre",
+    "compatibilité électrique"
+  ],
+  "excerpt": "Le connecteur français désigne généralement la prise électrique type E. Identifiez-la, vérifiez sa compatibilité et utilisez un adaptateur sans risque.",
+  "metaDescription": "Prise type E, terre, compatibilité, adaptateurs et tension : notre guide pour comprendre le connecteur français et l’utiliser sans danger.",
+  "seoTitle": "Connecteur français : prise type E, compatibilité et usage",
+  "heroKicker": "Prise type E",
+  "readingTime": 11,
+  "date": "2024-07-17T00:40:18",
+  "image": {
+    "id": "2113",
+    "alt": "Qu’est-ce qu’un connecteur français et comment l’utiliser ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Le « connecteur français » désigne le plus souvent la <strong>prise électrique de type E</strong>, utilisée dans les logements français et dans plusieurs pays européens. Sa particularité : une broche de terre qui dépasse de la prise murale. Bien l’identifier évite d’acheter le mauvais adaptateur, de perdre la protection par la terre ou, plus grave, de brancher un appareil incompatible avec le réseau électrique."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le connecteur français correspond en pratique au <strong>type E</strong> : deux alvéoles pour le courant et une broche de terre saillante dans la prise murale.",
+        "Une fiche européenne à deux broches fines (type C) entre généralement dans une prise française, mais elle ne fournit pas de terre.",
+        "Un adaptateur modifie la <strong>forme de la fiche</strong> ; il ne convertit presque jamais la tension. Vérifiez toujours l’étiquette de l’appareil.",
+        "Pour un appareil avec une fiche de terre, choisissez un adaptateur qui conserve réellement la continuité de terre, sans forcer ni bricoler.",
+        "Les appareils puissants, les multiprises et les rallonges exigent une vigilance particulière : un format compatible ne garantit pas une installation adaptée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qu’appelle-t-on exactement un connecteur français ?",
+      "id": "qu-appelle-t-on-exactement-un-connecteur-francais"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans le vocabulaire des vendeurs d’équipements électriques, des sites étrangers et des guides de voyage, « connecteur français » signifie généralement <strong>fiche ou prise de type E</strong>. Il peut désigner soit la prise murale française, soit la fiche mâle destinée à s’y brancher : il faut donc regarder les photos et la description du produit pour savoir de quel côté du raccordement il est question."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le type E appartient à la famille des prises européennes 230 V. La prise murale comporte deux trous ronds pour les broches actives et, au-dessus ou au centre selon son orientation, une <strong>broche mâle de mise à la terre</strong>. La fiche correspondante possède deux broches rondes et un logement qui reçoit cette broche de terre. Ce détail distingue le système français du type F, souvent appelé Schuko, qui s’appuie surtout sur des contacts de terre latéraux."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "230 V",
+          "label": "tension nominale du réseau domestique français"
+        },
+        {
+          "value": "50 Hz",
+          "label": "fréquence du courant alternatif domestique"
+        },
+        {
+          "value": "16 A",
+          "label": "intensité nominale courante d’une prise domestique type E"
+        },
+        {
+          "value": "≈ 3,7 kW",
+          "label": "puissance théorique maximale à 230 V et 16 A, à nuancer selon le circuit"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Prise, fiche et adaptateur : ne confondez pas les termes",
+      "id": "prise-fiche-et-adaptateur-ne-confondez-pas-les-termes"
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>prise</strong> est le socle fixé au mur ; la <strong>fiche</strong> est l’embout au bout du câble de l’appareil ; l’<strong>adaptateur</strong> permet à une fiche étrangère d’entrer dans une prise locale, ou l’inverse. Enfin, un transformateur ou un convertisseur de tension agit sur l’alimentation électrique elle-même. Cette dernière distinction est essentielle lorsque vous voyagez hors d’Europe ou utilisez un appareil importé."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment reconnaître une prise française de type E ?",
+      "id": "comment-reconnaitre-une-prise-francaise-de-type-e"
+    },
+    {
+      "type": "paragraph",
+      "html": "Observez la prise murale face à vous : vous verrez deux ouvertures rondes espacées horizontalement, ainsi qu’une petite broche métallique qui dépasse. Cette broche est le repère le plus simple. Elle sert à relier les appareils de classe I — souvent ceux dotés d’un châssis métallique ou d’une puissance élevée — à la terre de l’installation. Les prises récentes peuvent aussi présenter des éclipses de protection devant les alvéoles, utiles contre l’introduction d’objets par les enfants."
+    },
+    {
+      "type": "table",
+      "caption": "Repères pour identifier les fiches les plus courantes face à une prise française",
+      "headers": [
+        "Fiche de l’appareil",
+        "Connexion dans une prise type E",
+        "Mise à la terre",
+        "Ce qu’il faut faire"
+      ],
+      "rows": [
+        [
+          "Type C « Europlug » : deux petites broches fines",
+          "Généralement directe",
+          "Non",
+          "Adaptée aux appareils double isolation ou de faible puissance prévus sans terre."
+        ],
+        [
+          "Type E : deux broches et trou de terre",
+          "Directe",
+          "Oui",
+          "C’est le format français correspondant."
+        ],
+        [
+          "CEE 7/7 : fiche hybride E/F",
+          "Directe dans la plupart des prises E et F",
+          "Oui",
+          "C’est le format fréquent sur de nombreux gros appareils européens."
+        ],
+        [
+          "Type F pur, dit Schuko",
+          "Compatibilité à vérifier selon la fiche et la prise",
+          "Pas toujours assurée dans une prise E",
+          "Ne forcez jamais ; utilisez un adaptateur E/F certifié si nécessaire."
+        ],
+        [
+          "Type G britannique, type A américain ou type I australien",
+          "Pas de branchement direct",
+          "Selon l’adaptateur",
+          "Il faut au minimum un adaptateur de forme ; contrôlez aussi la tension."
+        ]
+      ],
+      "note": "La forme ne suffit pas : l’étiquette de l’appareil et la présence d’une terre fonctionnelle restent déterminantes."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le détail qui compte : la terre",
+      "html": "Une fiche à deux broches peut entrer dans une prise française sans toucher la broche de terre. C’est normal pour un appareil <strong>double isolation</strong>, souvent identifié par le symbole de deux carrés imbriqués. En revanche, un appareil conçu avec une terre ne doit jamais être utilisé avec un adaptateur qui supprime cette protection."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quelles fiches sont compatibles avec le système français ?",
+      "id": "quelles-fiches-sont-compatibles-avec-le-systeme-francais"
+    },
+    {
+      "type": "paragraph",
+      "html": "La compatibilité est excellente au sein d’une grande partie de l’Europe continentale, mais elle n’est pas absolue. Les petites fiches type C équipant les chargeurs, lampes légères et appareils double isolation se branchent couramment dans les prises françaises. Les fiches hybrides CEE 7/7 sont pensées pour fonctionner à la fois sur les installations de type E et de type F. C’est pourquoi elles sont très répandues sur les appareils électroménagers vendus dans plusieurs pays européens."
+    },
+    {
+      "type": "comparison",
+      "title": "Type E français et type F Schuko : une proximité, pas une identité",
+      "left": {
+        "title": "Type E — système français",
+        "points": [
+          "La terre est assurée par une <strong>broche saillante</strong> dans la prise murale.",
+          "La fiche compatible comporte un trou ou un logement de terre.",
+          "C’est le format de référence dans les logements français.",
+          "Les fiches hybrides E/F y sont généralement parfaitement adaptées."
+        ]
+      },
+      "right": {
+        "title": "Type F — système Schuko",
+        "points": [
+          "La terre passe par des <strong>contacts métalliques latéraux</strong> dans la prise.",
+          "Il est courant dans plusieurs pays voisins de la France.",
+          "Une fiche prévue exclusivement pour ce système n’est pas systématiquement une bonne solution dans une prise E.",
+          "Les prises et fiches E/F hybrides facilitent l’usage transfrontalier."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La compatibilité mécanique n’est pas une autorisation électrique",
+      "id": "la-compatibilite-mecanique-n-est-pas-une-autorisation-electr"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le fait qu’une fiche entre dans une prise ne signifie pas que l’usage est sûr. Un chargeur récent marqué <strong>100–240 V, 50/60 Hz</strong> supporte en général les réseaux européens et de nombreux réseaux étrangers ; il n’a besoin que d’un adaptateur de forme au besoin. À l’inverse, un appareil limité à 110–120 V ne doit pas être branché directement sur le réseau français, même si vous avez trouvé un adaptateur qui permet physiquement de le faire. Il risque une panne immédiate, une surchauffe ou un départ de feu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment utiliser un connecteur français sans risque ?",
+      "id": "comment-utiliser-un-connecteur-francais-sans-risque"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’utilisation quotidienne est simple, à condition de ne pas traiter une prise comme un simple trou universel. Vérifiez l’état du câble, tenez la fiche par son corps plutôt que par le fil et insérez-la sans torsion. Une résistance anormale, une fiche qui ne tient pas, des traces brunes ou un échauffement sont des signaux d’arrêt : débranchez l’appareil et cherchez la cause au lieu d’insister."
+    },
+    {
+      "type": "steps",
+      "title": "La méthode de branchement à adopter",
+      "items": [
+        {
+          "title": "Lire l’étiquette de l’appareil",
+          "text": "Repérez la tension admise, la fréquence, la puissance ou l’intensité, ainsi que l’éventuelle exigence de mise à la terre. Pour un chargeur, l’information figure souvent en très petits caractères sur le bloc d’alimentation."
+        },
+        {
+          "title": "Identifier le type de fiche",
+          "text": "Une fiche type C se branche habituellement directement. Une fiche E ou hybride E/F doit pouvoir engager correctement la terre. Pour tout autre format, prenez un adaptateur approprié."
+        },
+        {
+          "title": "Choisir un adaptateur dimensionné",
+          "text": "Son intensité et sa puissance admissibles doivent convenir à l’appareil. Un modèle compact destiné à un téléphone n’est pas le bon choix pour un radiateur, une bouilloire ou un sèche-cheveux."
+        },
+        {
+          "title": "Brancher fermement, sans contrainte",
+          "text": "La fiche doit être stable et le câble ne doit pas tirer latéralement sur l’adaptateur ou sur la prise murale. Évitez les montages en cascade."
+        },
+        {
+          "title": "Contrôler pendant les premières minutes",
+          "text": "Un adaptateur, une multiprise ou une fiche ne doit pas devenir anormalement chaud. En cas d’odeur, de jeu ou de chauffe, coupez l’alimentation et remplacez l’accessoire défectueux."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne neutralisez jamais une terre",
+      "html": "Ne coupez pas une broche, ne limez pas un logement de terre et n’utilisez pas de prise « universelle » de mauvaise qualité pour contourner une incompatibilité. La terre n’est pas un accessoire : elle participe au déclenchement des protections en cas de défaut d’isolement sur un appareil qui la requiert."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel adaptateur choisir pour voyager ou utiliser un appareil étranger ?",
+      "id": "quel-adaptateur-choisir-pour-voyager-ou-utiliser-un-appareil"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le bon adaptateur dépend du <strong>pays de départ ou de destination</strong>, du type de fiche et de la puissance de l’appareil. Pour faire fonctionner en France un ordinateur acheté au Royaume-Uni, par exemple, il faut un adaptateur de type G vers type E, mais l’alimentation de l’ordinateur accepte très souvent une large plage de tension. Pour un appareil de chauffage acheté dans un pays en 110–120 V, le problème est différent : il peut nécessiter un vrai transformateur abaisseur, souvent encombrant et coûteux, ou plus simplement le remplacement de l’appareil."
+    },
+    {
+      "type": "table",
+      "caption": "Budget indicatif selon la solution recherchée",
+      "headers": [
+        "Solution",
+        "Usage adapté",
+        "Ordre de grandeur du budget",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Adaptateur de forme simple",
+          "Chargeur, petit appareil compatible 230 V",
+          "Quelques euros à une quinzaine d’euros",
+          "Ne transforme pas la tension et ne convient pas forcément aux fiches avec terre."
+        ],
+        [
+          "Adaptateur de voyage avec terre",
+          "Ordinateur, appareil européen ou britannique avec conducteur de terre",
+          "Environ une à quelques dizaines d’euros",
+          "Vérifiez le passage effectif de la terre et le calibre indiqué."
+        ],
+        [
+          "Multiprise ou rallonge de qualité",
+          "Ajouter plusieurs points de branchement à domicile",
+          "Plutôt une dizaine à quelques dizaines d’euros",
+          "Respectez la puissance totale ; ne chaînez pas les multiprises."
+        ],
+        [
+          "Transformateur de tension",
+          "Appareil mono-tension importé, si son usage le justifie",
+          "Souvent plusieurs dizaines d’euros ou davantage",
+          "Il doit être dimensionné pour la puissance réelle et le type d’appareil."
+        ]
+      ],
+      "note": "Ces montants sont des ordres de grandeur : la qualité de fabrication, la puissance admissible et les fonctions de protection font fortement varier le prix."
+    },
+    {
+      "type": "comparison",
+      "title": "Adaptateur ou convertisseur de tension ?",
+      "left": {
+        "title": "Adaptateur de prise",
+        "points": [
+          "Change uniquement la <strong>géométrie</strong> entre la fiche et la prise.",
+          "Compact et suffisant si l’appareil accepte déjà 230 V / 50 Hz.",
+          "N’augmente pas la puissance disponible et ne crée pas de terre s’il n’en transmet pas.",
+          "C’est la solution adaptée à la plupart des chargeurs universels."
+        ]
+      },
+      "right": {
+        "title": "Transformateur ou convertisseur",
+        "points": [
+          "Modifie la <strong>tension</strong> fournie à l’appareil.",
+          "Peut être nécessaire pour un équipement limité à 110–120 V.",
+          "Doit supporter une puissance supérieure à celle de l’appareil, avec une marge raisonnable.",
+          "Plus lourd, plus cher et rarement pertinent pour un appareil chauffant puissant."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Les critères concrets d’un adaptateur fiable",
+      "id": "les-criteres-concrets-d-un-adaptateur-fiable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Écartez les modèles trop légers, mal ajustés ou sans informations techniques lisibles. Préférez un fabricant identifiable, une fiche stable, des matériaux qui ne se déforment pas à la chaleur et des indications de tension, d’intensité et de puissance compréhensibles. Pour une fiche avec terre, recherchez explicitement la <strong>continuité de terre</strong>. Un port USB intégré est pratique, mais il ne remplace pas l’adaptateur secteur d’un ordinateur exigeant une puissance élevée ou un protocole de charge spécifique."
+    },
+    {
+      "type": "proscons",
+      "title": "Adaptateur universel de voyage : utile, mais pas pour tout",
+      "pros": [
+        "Un seul accessoire peut couvrir plusieurs destinations et formats de prises.",
+        "Les meilleurs modèles proposent une terre, des fusibles ou des ports USB pour les petits appareils.",
+        "Il évite d’emporter plusieurs adaptateurs dédiés lors d’un voyage multi-pays.",
+        "Il est pratique pour les chargeurs, appareils photo, ordinateurs et petits équipements compatibles multi-tension."
+      ],
+      "cons": [
+        "Il ne convertit généralement pas le 110–120 V en 230 V, ni l’inverse.",
+        "Il peut être volumineux et exercer un effet de levier sur une prise murale fatiguée.",
+        "Certains modèles ne transmettent pas la terre sur toutes les configurations.",
+        "Il n’est pas destiné aux appareils très puissants si son calibre ou sa qualité ne le permettent pas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prises murales, multiprises et rallonges : les bons réflexes à la maison",
+      "id": "prises-murales-multiprises-et-rallonges-les-bons-reflexes-a-"
+    },
+    {
+      "type": "paragraph",
+      "html": "Dans un logement français, le connecteur type E fait partie d’une installation complète : conducteurs, mise à la terre, tableau électrique, disjoncteurs et protection différentielle. Une prise moderne avec terre n’apporte une vraie sécurité que si elle est correctement reliée à une terre fonctionnelle. Dans un logement ancien, une prise à deux trous sans terre ne devient pas sûre parce qu’on y ajoute un adaptateur à trois pôles."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "En rénovation, ne masquez pas un défaut d’installation",
+      "id": "en-renovation-ne-masquez-pas-un-defaut-d-installation"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vos prises sont desserrées, fissurées, noircies ou dépourvues de terre là où elle est nécessaire, faites contrôler l’installation par un électricien qualifié. Remplacer uniquement la façade ou le mécanisme ne suffit pas toujours : il faut que le conducteur de protection soit présent et raccordé correctement jusqu’au tableau. Les travaux électriques doivent respecter les règles applicables à l’habitation, en particulier dans les pièces humides et près des points d’eau."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Checklist avant d’utiliser une rallonge ou une multiprise",
+      "items": [
+        "Additionnez la puissance des appareils branchés ; les appareils chauffants font vite grimper la charge.",
+        "Déroulez complètement un enrouleur lorsqu’il alimente un appareil puissant : un câble enroulé peut chauffer.",
+        "Branchez une multiprise directement sur une prise murale, pas sur une autre multiprise.",
+        "Choisissez un modèle avec terre si les fiches raccordées en ont besoin.",
+        "Gardez fiches et câbles loin de l’eau, des textiles, des passages fréquents et des zones écrasées par les meubles.",
+        "Remplacez immédiatement une rallonge dont l’isolant est coupé, aplati, rigide ou décoloré."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes et entretien du connecteur français",
+      "id": "erreurs-frequentes-et-entretien-du-connecteur-francais"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des incidents proviennent moins de la prise type E que des accessoires inadaptés ou usés. Une prise qui bouge dans le mur, une fiche qui sort toute seule, une multiprise surchargée ou un adaptateur bas de gamme sont des problèmes à corriger. Débrancher un appareil avant de nettoyer sa zone de branchement et inspecter occasionnellement les cordons suffit souvent à détecter un défaut avant qu’il ne s’aggrave."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Les erreurs à éviter absolument",
+      "items": [
+        "Utiliser un simple adaptateur de voyage pour un appareil américain non compatible 230 V.",
+        "Employer un adaptateur sans terre avec un appareil qui exige une terre.",
+        "Forcer une fiche étrangère dans une prise française ou modifier mécaniquement la fiche.",
+        "Laisser un appareil puissant sur une rallonge fine, un adaptateur compact ou un enrouleur fermé.",
+        "Tirer sur le câble pour débrancher, ce qui fragilise les connexions internes.",
+        "Continuer à utiliser une prise qui crépite, chauffe, sent le plastique ou présente des marques noires."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le test le plus utile avant un départ",
+      "html": "Prenez en photo l’étiquette de vos chargeurs et lisez la ligne « Input ». Si elle indique une plage du type <strong>100–240 V, 50/60 Hz</strong>, vous aurez habituellement seulement besoin d’un adaptateur de forme dans les pays utilisant une autre prise. Conservez néanmoins le chargeur d’origine : il est souvent plus fiable que les ports USB publics ou les adaptateurs trop bon marché."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dans quels cas choisir une autre solution ?",
+      "id": "dans-quels-cas-choisir-une-autre-solution"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le connecteur français est la bonne solution dès que vous utilisez le réseau français avec un appareil compatible. Mais il n’est pas toujours le choix le plus pratique. Pour charger plusieurs petits appareils au chevet ou sur un bureau, une multiprise avec ports USB de qualité peut limiter le nombre de blocs secteur. Pour un appareil importé mono-tension, l’achat d’une version adaptée au marché français est souvent plus rationnel qu’un transformateur permanent. Et pour une rénovation, l’ajout de prises fixes bien positionnées est préférable à une accumulation de rallonges."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir la solution selon votre situation",
+      "headers": [
+        "Situation",
+        "Solution prioritaire",
+        "À contrôler avant achat"
+      ],
+      "rows": [
+        [
+          "Chargeur de téléphone ou ordinateur récent acheté à l’étranger",
+          "Adaptateur de forme si nécessaire",
+          "Plage de tension inscrite sur le chargeur et puissance de charge attendue."
+        ],
+        [
+          "Appareil européen avec fiche E/F et terre",
+          "Branchement direct ou prise E/F compatible",
+          "Bon état de la prise murale et présence d’une terre fonctionnelle."
+        ],
+        [
+          "Appareil 110–120 V uniquement",
+          "Transformateur dimensionné ou remplacement de l’appareil",
+          "Puissance, fréquence admissible, échauffement et faisabilité économique."
+        ],
+        [
+          "Manque de prises dans une pièce",
+          "Multiprise de qualité ou ajout de prises fixes",
+          "Puissance cumulée, protection, absence de chaînage."
+        ],
+        [
+          "Prise ancienne sans terre ou endommagée",
+          "Diagnostic et remise en état de l’installation",
+          "Raccordement réel de la terre, état du câblage et conformité des travaux."
+        ]
+      ],
+      "note": "Quand il y a doute sur l’installation fixe, l’intervention d’un professionnel est plus sûre qu’une succession d’adaptateurs."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le connecteur français",
+      "items": [
+        {
+          "q": "Quel est le type de prise utilisé en France ?",
+          "a": "La prise domestique française est principalement la <strong>prise de type E</strong>. Elle utilise deux contacts ronds et une broche de terre qui dépasse de la prise murale. De nombreuses fiches européennes hybrides E/F sont également conçues pour y fonctionner."
+        },
+        {
+          "q": "Une fiche européenne à deux broches est-elle compatible avec une prise française ?",
+          "a": "Oui, une petite fiche type C à deux broches fines entre généralement directement dans une prise type E. Elle ne bénéficie toutefois pas de la terre : elle convient aux appareils conçus sans conducteur de protection, notamment ceux à double isolation."
+        },
+        {
+          "q": "Ai-je besoin d’un convertisseur pour un chargeur étranger en France ?",
+          "a": "Pas nécessairement. Vérifiez la ligne « Input » du chargeur. S’il accepte une plage incluant <strong>100–240 V et 50/60 Hz</strong>, un simple adaptateur de forme suffit généralement. S’il est limité à 110–120 V, un adaptateur seul est dangereux et un transformateur peut être requis."
+        },
+        {
+          "q": "Puis-je brancher une fiche Schuko dans une prise française ?",
+          "a": "Les fiches hybrides E/F courantes sont faites pour cela. En revanche, une fiche exclusivement prévue pour le type F n’offre pas toujours une compatibilité mécanique et une terre correcte dans une prise type E. Vérifiez sa conception ou utilisez un adaptateur E/F adapté ; ne forcez jamais."
+        },
+        {
+          "q": "Pourquoi mon adaptateur chauffe-t-il ?",
+          "a": "Une légère tiédeur peut apparaître selon la charge, mais une chauffe marquée, une odeur de plastique, un jeu ou une décoloration sont anormaux. Débranchez-le. La cause peut être une surcharge, un mauvais contact, un câble endommagé ou un adaptateur sous-dimensionné."
+        },
+        {
+          "q": "Puis-je utiliser un adaptateur de voyage pour un sèche-cheveux ou une bouilloire ?",
+          "a": "C’est déconseillé sauf si l’adaptateur est explicitement prévu pour la puissance et l’intensité de l’appareil, et si la tension est compatible. Les appareils chauffants sollicitent fortement les connexions. En voyage, un modèle bi-tension ou un appareil adapté au pays est souvent une solution plus sûre."
+        }
+      ]
+    }
+  ]
+}

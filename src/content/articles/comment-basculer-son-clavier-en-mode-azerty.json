@@ -1,0 +1,421 @@
+{
+  "title": "Comment basculer son clavier en mode AZERTY ?",
+  "slug": "comment-basculer-son-clavier-en-mode-azerty",
+  "path": "/divers/comment-basculer-son-clavier-en-mode-azerty.html",
+  "category": "tech",
+  "tags": [
+    "clavier azerty",
+    "qwerty",
+    "windows",
+    "mac",
+    "paramètres clavier",
+    "dépannage informatique"
+  ],
+  "excerpt": "Votre clavier écrit en QWERTY ou les touches ne correspondent plus ? Découvrez comment réactiver l’AZERTY sur ordinateur et smartphone, sans vous tromper.",
+  "metaDescription": "Windows, Mac, Chromebook, Linux et mobile : passez votre clavier en AZERTY, corrigez les touches inversées et évitez les erreurs de réglage.",
+  "seoTitle": "Passer son clavier en AZERTY : le guide complet",
+  "heroKicker": "Touches bien réglées",
+  "readingTime": 11,
+  "date": "2024-06-29T11:49:40",
+  "image": {
+    "id": "2062",
+    "alt": "Comment basculer son clavier en mode AZERTY ?",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Un clavier qui affiche <strong>QWERTY</strong> alors que les touches imprimées sont en AZERTY devient vite pénible : mots de passe erronés, accents introuvables et symboles déplacés. Dans la grande majorité des cas, il ne s’agit pas d’une panne : la disposition de saisie a simplement changé dans les réglages du système. Voici comment rétablir l’AZERTY, quel que soit votre appareil, et éviter que le problème se reproduise."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "La disposition affichée à l’écran est un <strong>réglage logiciel</strong> : elle peut différer des lettres gravées sur votre clavier physique.",
+        "Sur Windows, un raccourci clavier peut basculer accidentellement entre les dispositions installées ; vérifiez d’abord l’indicateur de langue près de l’horloge.",
+        "Choisissez une disposition <strong>Français – AZERTY</strong> adaptée à votre clavier, puis supprimez les langues ou variantes inutiles pour limiter les basculements involontaires.",
+        "Si les touches produisent encore les mauvais caractères après le réglage, vérifiez aussi le type réel du clavier, la langue de connexion et l’éventuel logiciel du fabricant."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "AZERTY, QWERTY : ce que vous changez réellement",
+      "id": "azerty-qwerty-ce-que-vous-changez-reellement"
+    },
+    {
+      "type": "paragraph",
+      "html": "Basculer en AZERTY ne modifie ni le clavier ni les lettres imprimées sur ses touches. Vous indiquez au système d’exploitation quelle <strong>disposition de clavier</strong> il doit associer à chaque touche. Une même touche physique peut donc écrire « A » avec une disposition AZERTY française et « Q » avec une disposition QWERTY américaine."
+    },
+    {
+      "type": "paragraph",
+      "html": "Il faut distinguer trois éléments souvent confondus : la <strong>langue d’affichage</strong> du système (menus en français ou en anglais), la langue de correction orthographique et la disposition de saisie. Vous pouvez très bien conserver Windows ou macOS en anglais tout en écrivant avec un clavier français AZERTY. Inversement, sélectionner « Français » comme langue ne garantit pas toujours que la bonne variante AZERTY est active."
+    },
+    {
+      "type": "table",
+      "caption": "Les situations les plus fréquentes et la bonne réponse",
+      "headers": [
+        "Situation observée",
+        "Cause probable",
+        "Action recommandée"
+      ],
+      "rows": [
+        [
+          "A, Z, Q et W sont inversés",
+          "Disposition QWERTY active sur un clavier AZERTY",
+          "Sélectionner « Français – AZERTY » dans les méthodes de saisie"
+        ],
+        [
+          "Les chiffres exigent la touche Maj ou produisent des symboles inattendus",
+          "Variante de disposition différente",
+          "Tester la variante française standard et vérifier les options régionales"
+        ],
+        [
+          "Le problème revient sans cesse",
+          "Plusieurs dispositions sont installées",
+          "Supprimer les langues, claviers et méthodes de saisie non utilisés"
+        ],
+        [
+          "Seul un logiciel écrit mal",
+          "Réglage propre à l’application, session distante ou navigateur",
+          "Vérifier les paramètres du logiciel et ceux de l’ordinateur hôte"
+        ],
+        [
+          "Les lettres physiques ne correspondent jamais à l’écran",
+          "Clavier acheté dans une autre région",
+          "Conserver la disposition adaptée ou envisager un clavier/jeu d’étiquettes AZERTY"
+        ]
+      ],
+      "note": "Les intitulés exacts varient légèrement selon la version du système et les mises à jour, mais le principe reste le même : rechercher « langue », « clavier » ou « méthodes de saisie » dans les paramètres."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas « français » et « Français (Canada) »",
+      "html": "Les dispositions francophones ne placent pas toutes les symboles au même endroit. Pour un clavier vendu en France avec les lettres A-Z-E-R-T-Y en haut à gauche, privilégiez une disposition explicitement nommée <strong>Français – AZERTY</strong>. Une variante belge, canadienne ou suisse peut être pratique selon votre matériel, mais elle ne reproduira pas forcément les caractères gravés sur vos touches."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vérifier en une minute si l’AZERTY est actif",
+      "id": "verifier-en-une-minute-si-l-azerty-est-actif"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant de modifier quoi que ce soit, ouvrez un champ de texte simple, par exemple le Bloc-notes, TextEdit ou une zone de recherche. Tapez la rangée supérieure de lettres, sans regarder l’écran : si les touches marquées A, Z, E, R, T, Y produisent bien « azerty », la disposition est cohérente. Testez ensuite les caractères qui révèlent le plus vite une mauvaise configuration : <strong>A/Q, Z/W, M, chiffres, arobase, point d’interrogation et accents</strong>."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un ordinateur, repérez aussi l’indicateur près de l’heure : il peut afficher « FRA », « FR », « ENG », « EN » ou une icône de clavier. Cet indicateur représente la méthode de saisie active, pas nécessairement la langue complète de votre système. Sur tablette ou téléphone, l’indice est souvent une touche représentant un globe, une langue ou un clavier."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Test express avant de changer les paramètres",
+      "items": [
+        "Tapez <strong>azerty</strong> : si vous obtenez « qwerty », la mauvaise disposition est probablement active.",
+        "Tapez votre adresse e-mail dans un champ non sensible : l’emplacement de <strong>@</strong> est un bon indicateur de variante.",
+        "Essayez la touche <strong>Verr. Maj</strong> et la touche <strong>Maj</strong> : un verrouillage ou une touche coincée peut imiter un problème de configuration.",
+        "Débranchez puis rebranchez un clavier USB, ou rechargez un clavier sans fil, si certaines touches seulement réagissent mal.",
+        "Testez dans une seconde application : si le défaut n’apparaît que dans un environnement distant, le réglage est peut-être géré par celui-ci."
+      ]
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "1 réglage",
+          "label": "suffit généralement : la disposition de saisie, pas le matériel"
+        },
+        {
+          "value": "2 niveaux",
+          "label": "à contrôler sur un PC : la langue installée et le clavier associé"
+        },
+        {
+          "value": "3 à 5 min",
+          "label": "pour vérifier, activer et tester une disposition sur la plupart des appareils"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Passer son clavier Windows en AZERTY",
+      "id": "passer-son-clavier-windows-en-azerty"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sous Windows, la solution passe par les paramètres de langue et de saisie. Commencez par cliquer sur l’indicateur de langue dans la barre des tâches, généralement à droite près de l’horloge. S’il propose « Français » ou « Français – AZERTY », sélectionnez-le. C’est la méthode la plus rapide lorsque la disposition française est déjà installée."
+    },
+    {
+      "type": "paragraph",
+      "html": "Si l’option n’apparaît pas, ouvrez les <strong>Paramètres</strong>, puis recherchez directement « langue » dans la barre de recherche. Accédez à la rubrique consacrée à la langue et à la région, choisissez le français dans les langues préférées, puis ouvrez ses options. Dans la partie relative aux claviers, ajoutez une disposition française AZERTY si nécessaire. Si le français n’est pas présent, ajoutez d’abord la langue française ; vous pourrez conserver l’interface de Windows dans votre langue actuelle."
+    },
+    {
+      "type": "steps",
+      "title": "Méthode fiable sur Windows",
+      "items": [
+        {
+          "title": "Ouvrez les réglages de langue",
+          "text": "Dans les Paramètres, recherchez « langue » ou accédez à la section Langue et région. Évitez de modifier le pays ou le format de date si votre seul objectif est le clavier."
+        },
+        {
+          "title": "Contrôlez les claviers associés au français",
+          "text": "Dans les options de la langue française, cherchez la zone « Claviers » ou « Méthodes de saisie ». Vérifiez qu’une variante « Français – AZERTY » est disponible et ajoutez-la au besoin."
+        },
+        {
+          "title": "Choisissez la bonne disposition dans la barre des tâches",
+          "text": "Cliquez sur l’abréviation de langue près de l’horloge et activez le clavier français AZERTY. Testez immédiatement A, Z, Q, W et l’arobase dans un champ de texte."
+        },
+        {
+          "title": "Retirez les dispositions inutiles",
+          "text": "Supprimez les claviers que vous n’utilisez jamais, notamment une variante QWERTY ajoutée par erreur. Moins il y a de choix, moins vous risquez un changement accidentel."
+        },
+        {
+          "title": "Redémarrez seulement si le changement ne s’applique pas",
+          "text": "La plupart du temps, l’effet est immédiat. Une fermeture de session ou un redémarrage peut toutefois aider après un ajout de langue ou sur un poste géré par une entreprise."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le raccourci qui a souvent causé le problème",
+      "html": "Windows permet de changer rapidement de méthode de saisie avec des raccourcis, souvent <strong>Windows + barre d’espace</strong> et, selon la configuration, <strong>Alt + Maj</strong>. Si votre clavier repasse brusquement en QWERTY, utilisez d’abord Windows + barre d’espace pour revenir à l’AZERTY, puis supprimez les dispositions superflues dans les paramètres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Activer l’AZERTY sur Mac",
+      "id": "activer-l-azerty-sur-mac"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur Mac, le réglage se trouve dans les paramètres liés au clavier ou aux sources d’entrée. Cliquez sur le menu Apple, ouvrez les <strong>Réglages Système</strong>, puis recherchez « sources d’entrée », « clavier » ou « saisie » grâce au champ de recherche. Ajoutez la source correspondant à un clavier français AZERTY, puis sélectionnez-la dans le menu de saisie de la barre des menus."
+    },
+    {
+      "type": "paragraph",
+      "html": "macOS peut proposer plusieurs configurations françaises. Leur différence se remarque surtout sur les chiffres, les symboles, les accents et l’arobase. Ne choisissez pas une variante uniquement parce que son nom contient « Français » : faites un test dans TextEdit après l’avoir activée. Si vous utilisez un Mac acheté à l’étranger avec un clavier QWERTY physique, une disposition AZERTY fonctionnera, mais les inscriptions des touches ne correspondront plus."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Réglages utiles sur macOS",
+      "items": [
+        "Activez l’affichage du <strong>menu de saisie</strong> dans la barre des menus afin de voir immédiatement la disposition active.",
+        "Gardez une seule source d’entrée si vous n’écrivez que dans une langue : c’est le meilleur moyen d’éviter les basculements involontaires.",
+        "Si vous conservez plusieurs langues, apprenez ou personnalisez le raccourci de changement de source d’entrée dans les réglages du clavier.",
+        "Ouvrez le visualiseur de clavier si vous avez un doute : il montre en temps réel les caractères associés à chaque touche, y compris avec Maj et Option.",
+        "Vérifiez le réglage dans votre session utilisateur, pas seulement à l’écran de connexion : ils peuvent être distincts."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Chromebook, Linux et sessions à distance : les cas particuliers",
+      "id": "chromebook-linux-et-sessions-a-distance-les-cas-particuliers"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur un Chromebook, cliquez sur l’heure en bas à droite, ouvrez les paramètres puis recherchez « langues et entrées » ou « méthodes de saisie ». Ajoutez le clavier français approprié, activez-le depuis le menu de langue et supprimez les dispositions inutiles si le compte n’en a pas besoin. Les raccourcis de changement de saisie dépendent de la configuration du Chromebook : le menu de langue reste la solution la moins ambiguë."
+    },
+    {
+      "type": "paragraph",
+      "html": "Sous Linux, l’emplacement du réglage varie selon l’environnement de bureau, mais les mots-clés à chercher sont généralement « Région et langue », « Clavier », « Sources de saisie » ou « Disposition ». Ajoutez « French » ou « Français », puis sélectionnez la variante AZERTY compatible avec votre clavier. Les distributions permettent parfois de régler séparément la disposition en session graphique, sur l’écran de connexion et dans la console texte : vérifiez le contexte où le problème apparaît."
+    },
+    {
+      "type": "paragraph",
+      "html": "Enfin, si vous utilisez un bureau à distance, une machine virtuelle, un logiciel de prise en main ou une connexion à un serveur, vous avez potentiellement <strong>deux dispositions</strong> en jeu : celle de votre ordinateur local et celle de l’ordinateur distant. Une configuration cohérente sur le PC local peut donc produire des caractères erronés dans la fenêtre distante. Recherchez dans le logiciel une option liée au mappage du clavier, à la transmission des touches ou à la disposition locale."
+    },
+    {
+      "type": "comparison",
+      "title": "Modifier le réglage ou changer le matériel ?",
+      "left": {
+        "title": "Passer en AZERTY par logiciel",
+        "points": [
+          "Gratuit et immédiat sur un appareil déjà fonctionnel.",
+          "Idéal si votre clavier physique est déjà imprimé en AZERTY.",
+          "Réversible si vous devez aussi écrire dans une autre disposition.",
+          "Peut devenir déroutant si les touches physiques sont en QWERTY."
+        ]
+      },
+      "right": {
+        "title": "Acheter un clavier physique AZERTY",
+        "points": [
+          "Les lettres imprimées correspondent directement à ce que vous tapez.",
+          "Plus confortable au quotidien sur un ordinateur fixe ou pour la dactylographie.",
+          "Coût supplémentaire et choix de modèles parfois différent selon le pays.",
+          "Nécessaire seulement si la discordance matérielle vous gêne vraiment."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sur smartphone et tablette : choisir le clavier français",
+      "id": "sur-smartphone-et-tablette-choisir-le-clavier-francais"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur Android comme sur iPhone ou iPad, le clavier virtuel dépend de la liste de langues activées dans les réglages généraux, ou dans les réglages de l’application de clavier installée. Cherchez « Clavier », « Langues », « Claviers » ou « Langues et saisie », puis ajoutez le français. Lors de la rédaction d’un message, utilisez la touche globe, la barre d’espace ou le bouton de changement de langue pour sélectionner le clavier français."
+    },
+    {
+      "type": "paragraph",
+      "html": "Selon l’appareil et l’application de clavier, le français peut s’afficher en AZERTY ou en une autre disposition choisie dans ses options. Sur un petit écran, vérifiez également le format du clavier : une disposition compacte, une disposition flottante ou un clavier fractionné peut donner l’impression que certaines lettres ont disparu alors qu’elles sont simplement accessibles par une seconde page de symboles."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Un clavier Bluetooth garde son propre enjeu",
+      "html": "Lorsque vous connectez un clavier physique à une tablette ou à un téléphone, la disposition du <strong>clavier matériel</strong> peut se régler séparément du clavier tactile. Après l’appairage, ouvrez les options du clavier externe et sélectionnez le français AZERTY ; ne vous fiez pas uniquement à la disposition visible sur l’écran tactile."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi les touches restent-elles inversées ?",
+      "id": "pourquoi-les-touches-restent-elles-inversees"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si la sélection de l’AZERTY semble correcte mais que l’écriture reste incohérente, procédez méthodiquement. Première hypothèse : vous avez activé une variante française qui ne correspond pas à votre clavier. Deuxième hypothèse : le changement a été fait dans votre session, mais pas dans l’application concernée, à l’écran de connexion ou sur un ordinateur distant. Troisième hypothèse : le clavier présente un souci matériel, plus rare mais possible."
+    },
+    {
+      "type": "proscons",
+      "title": "Changer la disposition dans les paramètres : avantages et limites",
+      "pros": [
+        "Solution gratuite, immédiate et sans installation de pilote dans la plupart des cas.",
+        "Permet d’utiliser temporairement un clavier étranger sans acheter de matériel.",
+        "Facilite le passage d’une langue à l’autre pour les personnes bilingues.",
+        "Peut être restaurée très facilement après une mauvaise manipulation."
+      ],
+      "cons": [
+        "Les inscriptions des touches restent celles du clavier physique : la mémorisation peut être difficile.",
+        "Les symboles et raccourcis peuvent varier d’une variante française à l’autre.",
+        "Des raccourcis système peuvent déclencher un basculement involontaire si plusieurs dispositions sont conservées.",
+        "Une session distante ou un logiciel spécialisé peut ignorer le réglage local."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Distinguer une erreur logicielle d’une panne",
+      "id": "distinguer-une-erreur-logicielle-d-une-panne"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une erreur de disposition touche généralement un ensemble logique de caractères : A et Q sont inversés, Z et W aussi, les chiffres ou les symboles sont décalés. Une panne matérielle est plus souvent limitée à une ou quelques touches qui ne répondent plus, répètent un caractère, ou produisent un résultat aléatoire. Dans ce cas, testez le clavier sur un autre appareil, nettoyez-le avec précaution après l’avoir éteint, vérifiez la batterie ou le câble, puis essayez un autre clavier si possible."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les erreurs à éviter",
+      "items": [
+        "Ne changez pas la langue d’affichage complète de l’ordinateur si seule la disposition de clavier pose problème.",
+        "N’installez pas plusieurs variantes françaises « pour essayer » sans retirer celles qui ne conviennent pas ensuite.",
+        "Ne testez pas seulement dans un champ de mot de passe : utilisez d’abord un éditeur de texte visible.",
+        "N’achetez pas immédiatement un nouveau clavier si le problème est apparu soudainement : c’est presque toujours un réglage.",
+        "N’utilisez pas des autocollants AZERTY comme premier réflexe sur un clavier déjà AZERTY : ils masquent le symptôme sans corriger la configuration."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bien choisir sa variante AZERTY et son clavier",
+      "id": "bien-choisir-sa-variante-azerty-et-son-clavier"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un usage courant en France, une disposition française AZERTY standard convient généralement. Toutefois, les utilisateurs qui saisissent souvent du code, des tableaux, des devises, des caractères typographiques ou plusieurs langues peuvent préférer une variante offrant un accès différent aux symboles. Le bon choix n’est pas celui dont le nom paraît le plus familier : c’est celui qui correspond à votre <strong>clavier physique</strong> et à vos tâches quotidiennes."
+    },
+    {
+      "type": "table",
+      "caption": "Quel choix selon votre situation ?",
+      "headers": [
+        "Votre usage",
+        "Réglage ou matériel conseillé",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "PC portable acheté en France",
+          "Français – AZERTY correspondant au clavier d’origine",
+          "Ne conservez pas une variante anglaise inutile"
+        ],
+        [
+          "Clavier externe QWERTY utilisé ponctuellement",
+          "Disposition adaptée aux lettres gravées ou AZERTY temporaire si vous maîtrisez la frappe",
+          "Les étiquettes et les raccourcis risquent de ne plus correspondre"
+        ],
+        [
+          "Mac ou PC importé utilisé chaque jour en français",
+          "Clavier physique AZERTY ou apprentissage d’une disposition cohérente",
+          "Le confort visuel compte beaucoup pour les raccourcis et les symboles"
+        ],
+        [
+          "Programmation ou saisie fréquente de caractères spéciaux",
+          "Tester les variantes et le visualiseur de clavier",
+          "Vérifiez accolades, crochets, antislash, arobase et tilde"
+        ],
+        [
+          "Poste partagé à la maison ou au travail",
+          "Plusieurs dispositions, mais raccourci connu et menu visible",
+          "Documentez le réglage pour les autres utilisateurs"
+        ]
+      ],
+      "note": "Pour un clavier neuf, les écarts de budget dépendent surtout du format, de la connectivité, de l’ergonomie et de la qualité de fabrication. La disposition AZERTY en elle-même ne doit pas vous faire payer un surcoût important."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Avant d’acheter un nouveau clavier",
+      "html": "Un remplacement est pertinent si votre clavier physique est durablement dans une disposition qui ne vous convient pas, si vous tapez beaucoup sans regarder les touches, ou si le matériel est défaillant. Dans les autres cas, le changement de disposition logicielle est <strong>gratuit</strong> et règle le problème en quelques minutes. Pour un clavier étranger conservé ponctuellement, des étiquettes peuvent dépanner, mais elles ne remplacent pas un réglage système correct."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Prévenir les retours involontaires au QWERTY",
+      "id": "prevenir-les-retours-involontaires-au-qwerty"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois l’AZERTY rétabli, le meilleur entretien consiste à simplifier la configuration. Supprimez les méthodes de saisie que vous n’employez jamais, laissez visible l’indicateur de langue, et notez le raccourci de basculement de votre appareil. Sur un ordinateur professionnel ou scolaire, certains réglages peuvent être imposés par un administrateur : si la disposition revient après chaque ouverture de session, demandez une modification de la configuration gérée plutôt que de refaire le réglage tous les jours."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pensez aussi aux périphériques. Un clavier sans fil utilisé alternativement avec plusieurs appareils peut être correctement réglé sur votre ordinateur personnel mais pas sur votre tablette. De même, un changement de compte utilisateur, une mise à jour majeure ou l’ajout d’une langue de correction peut réintroduire une méthode de saisie. Après chaque modification, faites le test « azerty », puis vérifiez l’arobase et un ou deux symboles utiles à votre activité."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur le passage en AZERTY",
+      "items": [
+        {
+          "q": "Quel raccourci permet de remettre rapidement un clavier en AZERTY sur Windows ?",
+          "a": "Essayez d’abord <strong>Windows + barre d’espace</strong> : ce raccourci fait défiler les méthodes de saisie installées. Arrêtez-vous sur « Français » ou « Français – AZERTY », puis testez les touches A et Q. Si le problème revient, retirez les dispositions inutiles dans les paramètres de langue."
+        },
+        {
+          "q": "Pourquoi mon clavier écrit-il QWERTY alors que les touches sont en AZERTY ?",
+          "a": "Le système utilise une disposition QWERTY alors que votre clavier physique est AZERTY. Ce décalage est logiciel et ne signifie pas que le clavier est cassé. Sélectionnez une méthode de saisie « Français – AZERTY » dans les réglages de clavier ou de langue."
+        },
+        {
+          "q": "Dois-je changer la langue de Windows ou de mon Mac pour écrire en AZERTY ?",
+          "a": "Non. La langue des menus et la disposition de clavier sont deux réglages différents. Vous pouvez garder les menus en français, anglais ou dans toute autre langue, tout en utilisant un clavier français AZERTY."
+        },
+        {
+          "q": "Comment savoir quelle variante française choisir ?",
+          "a": "Sélectionnez une variante explicitement AZERTY puis testez les lettres A, Z, Q et W, les chiffres, l’arobase et les signes de ponctuation. La bonne variante est celle qui reproduit le plus fidèlement les caractères imprimés sur votre clavier et vos habitudes de saisie."
+        },
+        {
+          "q": "Mon clavier repasse en QWERTY après un redémarrage : que faire ?",
+          "a": "Vérifiez que l’AZERTY est défini comme méthode de saisie active et supprimez les claviers non utilisés. Si le souci n’apparaît qu’à l’ouverture de session, dans un bureau à distance ou sur un poste professionnel, contrôlez aussi les réglages de cet environnement ou contactez l’administrateur du poste."
+        },
+        {
+          "q": "Puis-je utiliser un clavier QWERTY physique en mode AZERTY ?",
+          "a": "Oui, techniquement. Les caractères produits suivront l’AZERTY, mais les inscriptions visibles sur les touches resteront QWERTY. C’est acceptable pour un dépannage ou si vous tapez sans regarder le clavier ; pour un usage quotidien, un clavier physique correspondant à votre disposition sera plus confortable."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "title": "Apprenez à maîtriser les techniques de peinture sur céramique pour sublimer vos créations",
+  "slug": "apprenez-a-maitriser-les-techniques-de-peinture-sur-ceramique-pour-sublimer-vos-creations",
+  "path": "/divers/apprenez-a-maitriser-les-techniques-de-peinture-sur-ceramique-pour-sublimer-vos-creations.html",
+  "category": "loisirs",
+  "tags": [
+    "peinture sur céramique",
+    "décoration céramique",
+    "émaux céramique",
+    "cuisson céramique",
+    "loisirs créatifs",
+    "poterie"
+  ],
+  "excerpt": "Choisissez la bonne peinture, maîtrisez les gestes et la cuisson, évitez les défauts courants et créez des décors en céramique durables.",
+  "metaDescription": "Peinture sur céramique : choix des peintures, préparation, gestes, cuisson et sécurité alimentaire. Le guide pour réussir des pièces durables.",
+  "seoTitle": "Peinture sur céramique : techniques et conseils pratiques",
+  "heroKicker": "Couleurs qui durent",
+  "readingTime": 12,
+  "date": "2024-09-06T14:50:15",
+  "image": {
+    "id": "2321",
+    "alt": "Apprenez à maîtriser les techniques de peinture sur céramique pour sublimer vos créations",
+    "width": 1600,
+    "height": 1066
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Peindre une pièce en céramique ne consiste pas seulement à poser de la couleur : le résultat dépend du support, du type de produit choisi, de l’épaisseur des couches et, souvent, de la cuisson. En maîtrisant ces paramètres, vous obtiendrez des décors plus nets, plus lumineux et surtout adaptés à l’usage réel de vos créations."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Identifiez toujours votre support : terre crue, biscuit poreux ou pièce déjà émaillée ne se décorent pas avec les mêmes produits.",
+        "Pour une pièce destinée à être utilisée, privilégiez des produits compatibles avec une cuisson et vérifiez explicitement leur adéquation au contact alimentaire.",
+        "Travaillez en couches fines, laissez sécher entre les passages et testez vos couleurs sur une tuile ou une pièce d’essai.",
+        "La température, la durée et l’atmosphère de cuisson transforment les couleurs : suivez la plage indiquée par le fabricant du produit, pas une règle universelle.",
+        "Un décor simple, bien préparé et bien cuit résistera mieux qu’une pièce surchargée de peinture ou de glaçure."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprendre le support avant de choisir sa peinture",
+      "id": "comprendre-le-support-avant-de-choisir-sa-peinture"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à acheter une peinture parce que sa couleur vous plaît, sans savoir sur quelle céramique elle sera appliquée. Or une assiette en faïence déjà émaillée, un bol en grès biscuité et une sculpture en argile encore crue n’absorbent ni ne supportent les produits de la même manière. Le support détermine la technique, la finition et le protocole de cuisson."
+    },
+    {
+      "type": "paragraph",
+      "html": "La <strong>terre crue</strong>, aussi appelée terre à consistance cuir lorsqu’elle a partiellement séché, est idéale pour les engobes et certaines couleurs sous glaçure. Elle reste fragile et se déforme facilement : les grands aplats trop humides peuvent faire gondoler une plaque ou fissurer une forme fine. Le <strong>biscuit</strong> est une pièce ayant reçu une première cuisson. Poreux et mat, il absorbe vite les couleurs et les émaux : c’est le support le plus courant en atelier. Enfin, une pièce <strong>émaillée</strong> possède déjà une surface vitreuse, lisse et non poreuse. Elle demande des peintures ou des émaux spécifiquement prévus pour une décoration sur émail."
+    },
+    {
+      "type": "table",
+      "caption": "Quel produit utiliser selon l’état de votre céramique ?",
+      "headers": [
+        "Support",
+        "Produits adaptés",
+        "Résultat et précautions"
+      ],
+      "rows": [
+        [
+          "Terre crue ou à consistance cuir",
+          "Engobes, oxydes préparés, couleurs sous glaçure",
+          "Décor très intégré à la pièce ; appliquer sans détremper la terre et prévoir une glaçure si une surface imperméable est nécessaire."
+        ],
+        [
+          "Biscuit poreux",
+          "Émaux, couleurs sous glaçure, certains engobes et crayons céramiques",
+          "Support polyvalent ; dépoussiérage indispensable et absorption rapide à anticiper."
+        ],
+        [
+          "Pièce déjà émaillée",
+          "Peintures ou émaux de décoration sur émail, feutres ou peintures à cuire adaptés",
+          "Décor posé sur une surface lisse ; respecter scrupuleusement le cycle de cuisson recommandé."
+        ],
+        [
+          "Céramique décorative sans cuisson",
+          "Peintures acryliques ou spéciales loisirs créatifs",
+          "Solution simple pour objets décoratifs ; résistance limitée et prudence absolue pour les objets alimentaires."
+        ],
+        [
+          "Porcelaine blanche du commerce",
+          "Peinture porcelaine à cuire dans un four domestique ou au four céramique selon le produit",
+          "Accessible pour personnaliser un mug ou un plat décoratif ; vérifier la compatibilité avec l’usage et le lavage."
+        ]
+      ],
+      "note": "Les appellations commerciales varient. Fiez-vous d’abord à la fiche technique : support compatible, température de cuisson, mode d’application et éventuelle conformité alimentaire."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Ne confondez pas décoratif et alimentaire",
+      "html": "Une peinture qui adhère bien n’est pas automatiquement adaptée à une tasse, une assiette ou un plat. Pour une pièce en contact avec des aliments ou des boissons, utilisez un système explicitement prévu pour cet usage et évitez de décorer les zones de frottement direct, comme le bord buccal d’une tasse ou l’intérieur d’un bol, sauf indication claire du fabricant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Composer une palette et un poste de travail fiables",
+      "id": "composer-une-palette-et-un-poste-de-travail-fiables"
+    },
+    {
+      "type": "paragraph",
+      "html": "La qualité du geste compte, mais un matériel cohérent évite déjà beaucoup de défauts. Une peinture céramique doit être homogène, sans dépôt dur au fond du pot. Mélangez-la doucement avec une spatule propre plutôt qu’en secouant fortement le contenant, ce qui peut incorporer des bulles. Versez une petite quantité sur une palette non absorbante et refermez immédiatement le pot : les produits à base d’eau épaississent vite à l’air libre."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Le matériel vraiment utile pour débuter",
+      "items": [
+        "Un support propre : biscuit non poussiéreux, pièce crue raffermie ou objet émaillé soigneusement dégraissé.",
+        "Deux ou trois pinceaux souples de tailles différentes : un rond fin pour le trait, un plat pour les aplats, un pinceau doux pour les fondus éventuels.",
+        "Une palette lisse, une petite éponge naturelle ou synthétique, un récipient d’eau propre et des chiffons non pelucheux.",
+        "Un crayon gras, un crayon céramique ou un calque pour reporter un motif sans graver profondément la surface.",
+        "Une tuile de test ou des chutes de biscuit pour vérifier la teinte, l’opacité et le comportement à la cuisson.",
+        "Un masque anti-poussière adapté lors du ponçage à sec ou de la manipulation de poudres ; gardez les pigments hors de portée des enfants et des animaux."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "N’utilisez pas les pinceaux destinés aux émaux ou aux pigments pour la cuisine, et ne mangez pas sur votre plan de travail. Les matières colorantes peuvent contenir des oxydes métalliques ou des composés qui ne doivent ni être inhalés ni ingérés. Lavez les outils dans un récipient de décantation plutôt que de rejeter directement les boues d’émail dans l’évier : elles peuvent se déposer dans les canalisations."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Choisir la technique de peinture adaptée à votre projet",
+      "id": "choisir-la-technique-de-peinture-adaptee-a-votre-projet"
+    },
+    {
+      "type": "paragraph",
+      "html": "Il n’existe pas une « meilleure » technique de peinture sur céramique, mais une technique pertinente pour l’effet recherché. Les couleurs sous glaçure sont très appréciées pour les illustrations fines et les décors protégés par un émail transparent. Les émaux colorés donnent davantage de relief, de brillance et de profondeur, mais leur comportement à la cuisson est plus difficile à prévoir. La peinture sur émail s’adresse, elle, aux pièces déjà vitrifiées que vous souhaitez personnaliser sans repartir de la terre."
+    },
+    {
+      "type": "comparison",
+      "title": "Couleurs sous glaçure ou peinture sur émail ?",
+      "left": {
+        "title": "Sous glaçure : décor protégé",
+        "points": [
+          "S’applique généralement sur terre crue ou biscuit poreux, avant une glaçure transparente.",
+          "Convient aux dessins, lettrages, motifs figuratifs et superpositions de teintes.",
+          "Le rendu final est souvent plus intense après cuisson et glaçure : un essai est indispensable.",
+          "Bonne option pour la vaisselle si l’ensemble argile, décor et glaçure est compatible et correctement cuit."
+        ]
+      },
+      "right": {
+        "title": "Sur émail : personnalisation d’une pièce vitrifiée",
+        "points": [
+          "S’applique sur une surface déjà émaillée, parfaitement propre et dégraissée.",
+          "Permet d’ajouter un décor localisé sans émailler toute la pièce une seconde fois.",
+          "Demande une cuisson de décoration propre au produit, parfois à température plus basse.",
+          "Très pratique pour de petites séries, mais moins tolérante aux traces de doigts, rayures et défauts de préparation."
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Engobes : une couleur mate, minérale et expressive",
+      "id": "engobes-une-couleur-mate-minerale-et-expressive"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’engobe est une barbotine colorée, donc une préparation d’argile liquide enrichie de pigments ou d’oxydes. Il se pose de préférence sur une terre encore légèrement humide ou à consistance cuir, parfois sur biscuit selon sa formulation. Il convient aux fonds colorés, aux motifs gravés par sgraffito et aux effets de texture. Son intérêt majeur est son aspect très lié à la matière ; son risque principal est l’écaillage si l’engobe et l’argile ne se rétractent pas de manière compatible."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Émaux colorés : brillance, relief et profondeur",
+      "id": "emaux-colores-brillance-relief-et-profondeur"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’émail est une couche vitreuse qui fond à la cuisson. Un émail coloré peut recouvrir tout ou partie d’un biscuit, former des coulures contrôlées ou souligner une gravure. Sa richesse visuelle est incomparable, mais il demande de maîtriser l’épaisseur : trop mince, il peut être terne ou irrégulier ; trop épais, il peut couler, buller, voiler les détails ou coller la pièce à la plaque du four. Laissez toujours le pied de la pièce non émaillé, sauf si vous utilisez un support de cuisson spécifiquement adapté."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer la pièce : la moitié de la réussite",
+      "id": "preparer-la-piece-la-moitie-de-la-reussite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une surface mal préparée révèle ses défauts après cuisson : poussière, empreintes grasses, éclats ou zones insuffisamment sèches deviennent beaucoup plus visibles lorsque le décor se fixe. Prenez le temps de manipuler votre pièce avec des mains propres et sèches, idéalement en tenant les parties non décorées. Sur un biscuit, évitez de trop humidifier la surface au nettoyage : un chiffon très légèrement humide suffit, suivi d’un séchage complet."
+    },
+    {
+      "type": "steps",
+      "title": "Préparer et tracer un décor net",
+      "items": [
+        {
+          "title": "Inspectez la surface",
+          "text": "Éliminez délicatement les poussières. Rectifiez les petites aspérités avant décoration avec une éponge très fine ou un abrasif adapté, en limitant au maximum la poussière."
+        },
+        {
+          "title": "Dégraissez si la pièce est émaillée",
+          "text": "Nettoyez la surface avec un chiffon non pelucheux et un produit compatible, puis laissez-la sécher sans la toucher dans la zone à décorer."
+        },
+        {
+          "title": "Construisez votre motif",
+          "text": "Déterminez une ligne d’horizon, un centre ou des repères de symétrie. Pour un décor circulaire, marquez discrètement les quarts plutôt que de dessiner à main levée sans guide."
+        },
+        {
+          "title": "Reportez sans creuser",
+          "text": "Utilisez un calque, un pochoir ou des repères légers. Une rayure profonde peut rester visible sous une glaçure transparente."
+        },
+        {
+          "title": "Faites un test couleur",
+          "text": "Appliquez le produit sur une tuile avec le même nombre de couches que prévu, puis faites-la cuire dans des conditions proches de celles de la pièce finale."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Maîtriser les gestes : aplats, lignes, superpositions et réserves",
+      "id": "maitriser-les-gestes-aplats-lignes-superpositions-et-reserve"
+    },
+    {
+      "type": "paragraph",
+      "html": "Sur biscuit, la couleur est absorbée presque immédiatement. Chargez donc votre pinceau de façon régulière, posez-le franchement et évitez de repasser sans cesse au même endroit lorsqu’une première couche commence à sécher : vous risquez de l’arracher ou de créer des surépaisseurs. Pour un aplat, travaillez par petites zones jointives, avec des coups de pinceau parallèles. Deux à trois couches fines et sèches donnent habituellement un résultat plus uniforme qu’une seule couche lourde."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour des traits fins, gardez le pinceau suffisamment chargé afin que la couleur coule depuis le ventre du pinceau, mais sans former de goutte. Faites pivoter la pièce plutôt que de tordre votre poignet autour d’un mug ou d’un vase. Les motifs géométriques exigent de la patience : un ruban de masquage adapté peut aider sur une pièce émaillée, mais testez son retrait sur une zone discrète car il peut arracher une couche fragile."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Effets décoratifs simples à réussir",
+      "items": [
+        "<strong>Pochoir :</strong> appliquez la couleur à l’éponge presque sèche, en tapotant. Un pinceau trop humide la fera filer sous le motif.",
+        "<strong>Sgraffito :</strong> recouvrez la terre ou l’engobe d’une couche contrastée, laissez raffermir puis grattez le dessin pour faire apparaître la couleur de dessous.",
+        "<strong>Réserves :</strong> laissez volontairement des zones de terre ou de fond vierges ; elles structurent le décor et mettent les couleurs en valeur.",
+        "<strong>Superposition :</strong> laissez chaque teinte sécher avant d’en ajouter une autre. Certaines couleurs deviennent boueuses si elles sont mélangées directement sur la pièce.",
+        "<strong>Éponge :</strong> utilisez une éponge peu chargée pour des nuages de couleur, des feuillages ou des textures minérales, puis complétez avec un pinceau fin."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe : testez l’épaisseur, pas seulement la couleur",
+      "html": "Sur votre tuile d’essai, réalisez une zone avec une couche, une autre avec deux couches et une troisième avec trois couches. Vous verrez immédiatement le niveau d’opacité, le risque de coulure ou l’évolution de la teinte après cuisson. C’est plus instructif qu’un simple point de couleur."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuisson : ce qui transforme réellement votre décor",
+      "id": "cuisson-ce-qui-transforme-reellement-votre-decor"
+    },
+    {
+      "type": "paragraph",
+      "html": "La cuisson ne se résume pas à « passer la pièce au four ». Elle fixe la matière, fait fondre les émaux et modifie parfois fortement les pigments. Une même couleur peut devenir plus vive, plus sombre, plus mate ou plus translucide selon la température, le temps de maintien, le type d’argile, l’émail qui la recouvre et l’atmosphère du four. N’associez pas au hasard une terre haute température avec un émail basse température, ni un produit de décoration domestique avec un cycle de cuisson céramique très chaud."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "900 à 1 050 °C",
+          "label": "ordre de grandeur fréquent pour une cuisson de biscuit en faïence, selon la terre choisie"
+        },
+        {
+          "value": "980 à 1 100 °C",
+          "label": "plage souvent rencontrée pour des émaux de faïence"
+        },
+        {
+          "value": "1 200 à 1 300 °C",
+          "label": "ordre de grandeur courant pour la cuisson du grès et de ses émaux compatibles"
+        },
+        {
+          "value": "2 à 3 couches fines",
+          "label": "repère pratique courant pour obtenir une couleur régulière sans surcharge"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces plages ne remplacent jamais les indications de votre terre et de vos produits. Lisez les températures en cônes ou en degrés selon le fabricant, et faites concorder tous les éléments du système. Si vous travaillez dans un atelier partagé, étiquetez vos pièces avec le type d’argile, le décor employé et la température maximale prévue. Cela évite qu’une pièce décorée pour basse température soit enfournée dans une cuisson de grès."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "La sécurité alimentaire se vérifie en système complet",
+      "html": "Pour de la vaisselle, il ne suffit pas que l’émail soit étiqueté « non toxique ». La terre, l’émail, le décor, la température réellement atteinte et la qualité de la surface finale comptent ensemble. Une surface doit être bien vitrifiée, sans craquelures problématiques ni zones poudreuses. En cas de doute, réservez la pièce à un usage décoratif ou à des aliments secs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour peindre la céramique ?",
+      "id": "quel-budget-prevoir-pour-peindre-la-ceramique"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez commencer avec peu de matériel si vous décorez des pièces déjà biscuitées dans un atelier qui propose la cuisson. L’investissement grimpe surtout lorsque vous ajoutez des émaux nombreux, des outils spécialisés ou un four personnel. Il est généralement plus judicieux d’acheter une palette restreinte de couleurs compatibles que de multiplier les pots dont vous ne maîtrisez pas encore les mélanges et les températures."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de budget selon votre pratique",
+      "headers": [
+        "Niveau de pratique",
+        "Dépenses principales",
+        "Ordre de grandeur à anticiper"
+      ],
+      "rows": [
+        [
+          "Décoration occasionnelle en atelier",
+          "Quelques pinceaux, couleurs, pièces biscuitées et participation à la cuisson",
+          "Un budget de quelques dizaines d’euros permet généralement de tester la pratique."
+        ],
+        [
+          "Pratique régulière à domicile avec cuisson externalisée",
+          "Palette plus large, outils de précision, engobes ou émaux, stockage et transports",
+          "Comptez plutôt un budget progressif de plusieurs dizaines à quelques centaines d’euros selon les matériaux."
+        ],
+        [
+          "Atelier autonome avec four",
+          "Four, installation électrique adaptée, ventilation, étagères, consommables et équipements de sécurité",
+          "L’investissement devient conséquent et se chiffre habituellement en plusieurs centaines d’euros, voire davantage selon la capacité et l’installation."
+        ],
+        [
+          "Peinture décorative sans four céramique",
+          "Peintures adaptées, pinceaux et objets prêts à décorer",
+          "C’est l’option la plus accessible, mais elle ne remplace pas une finition vitrifiée pour les usages exigeants."
+        ]
+      ],
+      "note": "Ajoutez au budget le coût de cuisson si vous passez par un atelier, ainsi que les essais : ils limitent les pertes de pièces finales."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs fréquentes et comment les corriger",
+      "id": "les-erreurs-frequentes-et-comment-les-corriger"
+    },
+    {
+      "type": "proscons",
+      "title": "Peindre sans essai : les vrais avantages et les vrais risques",
+      "pros": [
+        "Vous allez plus vite pour un projet décoratif très simple ou une pièce d’entraînement.",
+        "Vous apprenez à observer le comportement de votre matériel si vous acceptez l’imprévu.",
+        "Vous pouvez exploiter certains accidents esthétiques sur des objets non utilitaires."
+      ],
+      "cons": [
+        "Une couleur crue ne prédit pas fidèlement sa couleur après cuisson.",
+        "Un émail trop épais peut couler ou masquer votre dessin.",
+        "Des produits incompatibles peuvent provoquer fissures, écaillage, surface terne ou défaut d’adhérence.",
+        "Vous risquez de perdre une pièce longue à façonner pour une erreur qui aurait été visible sur une tuile."
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "À éviter absolument",
+      "items": [
+        "Ne peignez pas un biscuit poussiéreux : la couche risque de mal adhérer ou de présenter des manques.",
+        "N’appliquez pas une glaçure très épaisse au bord inférieur ou sous le pied de la pièce.",
+        "N’empilez pas des produits de marques, températures ou familles différentes sans test de compatibilité.",
+        "Ne supposez pas qu’un décor à cuire au four domestique supportera un lave-vaisselle, un micro-ondes ou un usage alimentaire intensif.",
+        "Ne corrigez pas un trait raté en frottant agressivement une zone déjà fragilisée : laissez sécher, grattez délicatement si le produit le permet, puis retouchez.",
+        "N’oubliez pas que les anses, les bords et les zones très manipulées s’usent plus vite : simplifiez ou protégez le décor à ces endroits."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Créer sans four céramique : options et limites",
+      "id": "creer-sans-four-ceramique-options-et-limites"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’absence de four ne vous empêche pas de découvrir la décoration sur céramique. La peinture porcelaine à cuisson domestique, lorsqu’elle est prévue à cet effet, permet de personnaliser des objets achetés vierges : vide-poches, carreaux, vases, cache-pots ou tasses réservées à un usage prudent. Respectez exactement le temps de séchage, la température maximale et le refroidissement recommandés. Un four ménager ne remplace pas un four de potier : il ne vitrifiera ni un émail traditionnel ni une argile."
+    },
+    {
+      "type": "paragraph",
+      "html": "Les peintures acryliques et marqueurs multi-supports sont intéressants pour une décoration d’intérieur, notamment sur un vase qui reçoit un contenant, une figurine ou un objet mural. Protégez éventuellement la surface avec un vernis compatible avec le produit, tout en gardant à l’esprit que cela ne rend pas l’objet adapté à la vaisselle. Pour un apprentissage plus proche de la céramique, cherchez un café-céramique, un atelier associatif ou un potier proposant la cuisson de pièces biscuitées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entretenir et faire durer vos pièces décorées",
+      "id": "entretenir-et-faire-durer-vos-pieces-decorees"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pièce bien cuite et correctement émaillée est facile à entretenir, mais elle n’est pas indestructible. Évitez les chocs thermiques, par exemple verser un liquide bouillant dans une tasse froide sortie d’un endroit très frais. Préférez un lavage doux si vous ne connaissez pas précisément la résistance de votre décor. Les abrasifs, les éponges métalliques et les détergents agressifs ternissent prématurément les peintures de surface et peuvent accentuer les micro-rayures."
+    },
+    {
+      "type": "paragraph",
+      "html": "Examinez régulièrement les objets utilitaires. Si un émail présente des éclats, une surface fortement craquelée, une couche qui s’écaille ou une texture devenue rugueuse dans une zone alimentaire, mettez la pièce de côté pour un usage décoratif. Les objets sculpturaux, eux, gagneront à être dépoussiérés au pinceau doux plutôt qu’avec un chiffon humide qui s’accroche aux reliefs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un premier projet progressif pour apprendre vite",
+      "id": "un-premier-projet-progressif-pour-apprendre-vite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour développer vos gestes, commencez par une petite assiette décorative ou un carreau de biscuit plutôt que par un grand vase. Choisissez trois couleurs au maximum : une teinte de fond, une couleur foncée pour le contour et une couleur d’accent. Tracez un motif simple et répétitif, comme des feuilles, des rayures ou des formes géométriques. Vous apprendrez ainsi la régularité des couches, la gestion du pinceau et le comportement de la couleur sans devoir résoudre en même temps des difficultés de volume, de coulure et de symétrie."
+    },
+    {
+      "type": "paragraph",
+      "html": "Gardez une fiche pour chaque essai : type de terre, produits employés, nombre de couches, glaçure éventuelle et température de cuisson. Cette discipline transforme rapidement des essais dispersés en véritable savoir-faire. Votre carnet deviendra plus utile qu’une recette trouvée au hasard, car il documentera précisément le comportement des matériaux auxquels vous avez accès."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la peinture sur céramique",
+      "items": [
+        {
+          "q": "Peut-on peindre une céramique déjà émaillée ?",
+          "a": "Oui, à condition d’employer une <strong>peinture de décoration sur émail</strong> ou une peinture porcelaine conçue pour ce support. La surface doit être parfaitement propre, dégraissée et sèche. Vérifiez ensuite le protocole de cuisson propre au produit, car il est souvent différent de celui d’un émail traditionnel."
+        },
+        {
+          "q": "Quelle peinture choisir pour une tasse ou une assiette ?",
+          "a": "Choisissez un système explicitement prévu pour l’usage envisagé, avec des indications claires sur le <strong>contact alimentaire</strong> et la cuisson. Évitez par prudence les décors sur le rebord buccal, à l’intérieur des contenants ou dans les zones soumises aux couverts, sauf si la documentation du produit confirme cet usage."
+        },
+        {
+          "q": "Pourquoi ma couleur est-elle différente après cuisson ?",
+          "a": "Les pigments réagissent à la chaleur, à la glaçure, à l’argile et au cycle de cuisson. Certaines couleurs deviennent plus intenses, d’autres plus pâles ou changent légèrement de nuance. Réalisez toujours une tuile d’essai cuite avec les mêmes couches et la même glaçure que votre pièce finale."
+        },
+        {
+          "q": "Faut-il appliquer une glaçure sur une peinture sous glaçure ?",
+          "a": "C’est fortement recommandé pour une pièce utilitaire, car la glaçure protège le décor et rend la surface plus facile à nettoyer. Une glaçure transparente peut aussi amplifier les couleurs. Pour une sculpture décorative, vous pouvez préférer une finition mate ou laisser certaines zones non émaillées selon l’effet recherché."
+        },
+        {
+          "q": "Comment éviter les traces de pinceau dans un aplat ?",
+          "a": "Utilisez une couleur à la consistance correcte, un pinceau plat souple bien chargé et plusieurs <strong>couches fines</strong>. Travaillez rapidement par bandes régulières, sans repasser sur une zone en train de sécher. Si les traces persistent, une application à l’éponge ou une formulation plus couvrante peut être plus adaptée."
+        },
+        {
+          "q": "Peut-on mettre une pièce peinte au lave-vaisselle ?",
+          "a": "Seulement si le fabricant de la peinture ou du décor cuit l’indique clairement et si la cuisson a été réalisée conformément à ses consignes. Même dans ce cas, le lavage à la main reste la solution la plus douce pour préserver longtemps les décors de surface et les pièces artisanales."
+        }
+      ]
+    }
+  ]
+}

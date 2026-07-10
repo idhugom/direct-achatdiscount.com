@@ -1,0 +1,484 @@
+{
+  "title": "Comment utiliser Geneanet pour rechercher par nom de famille ?",
+  "slug": "comment-utiliser-geneanet-pour-rechercher-par-nom-de-famille",
+  "path": "/divers/comment-utiliser-geneanet-pour-rechercher-par-nom-de-famille.html",
+  "category": "famille",
+  "tags": [
+    "geneanet",
+    "généalogie",
+    "nom de famille",
+    "archives familiales",
+    "arbre généalogique",
+    "recherche d'ancêtres"
+  ],
+  "excerpt": "Méthode pas à pas, filtres utiles et réflexes de vérification : exploitez Geneanet pour remonter votre histoire familiale à partir d’un nom.",
+  "metaDescription": "Apprenez à chercher un nom de famille sur Geneanet, à filtrer les résultats, repérer les variantes et vérifier chaque piste généalogique.",
+  "seoTitle": "Geneanet : rechercher efficacement par nom de famille",
+  "heroKicker": "Retrouver ses racines",
+  "readingTime": 11,
+  "date": "2024-06-14T19:26:39",
+  "image": {
+    "id": "1995",
+    "alt": "Comment utiliser Geneanet pour rechercher par nom de famille ?",
+    "width": 1344,
+    "height": 896
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Rechercher un ancêtre par son nom de famille sur Geneanet peut faire émerger une branche entière… ou vous noyer dans des homonymes. La différence se joue moins sur le nom saisi que sur votre méthode : partir d’un fait sûr, élargir progressivement, puis contrôler chaque information avant de l’ajouter à votre arbre."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Commencez par une recherche <strong>très précise</strong> : nom, prénom, commune ou département, et période approximative si vous les connaissez.",
+        "Testez ensuite les <strong>variantes orthographiques</strong>, les prénoms secondaires, les accents et les erreurs de transcription plutôt que de conclure trop vite à l’absence de résultat.",
+        "Un arbre publié par un autre membre est une <strong>piste</strong>, pas une preuve : remontez toujours jusqu’à un acte ou à une source identifiable.",
+        "Utilisez les résultats pour identifier un lieu, une date ou un proche, puis vérifiez ces indices dans les archives et les documents disponibles.",
+        "Protégez les personnes vivantes : évitez de publier des données personnelles récentes sans leur accord."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ce que permet réellement une recherche par nom sur Geneanet",
+      "id": "ce-que-permet-reellement-une-recherche-par-nom-sur-geneanet"
+    },
+    {
+      "type": "paragraph",
+      "html": "Geneanet est une plateforme consacrée à la généalogie collaborative. Elle permet notamment de consulter des arbres généalogiques publiés par des particuliers, des relevés et index d’archives, ainsi que différentes collections documentaires selon les droits d’accès. Une recherche par nom de famille ne donne donc pas une réponse unique : elle interroge plusieurs types de contenus qui n’ont ni le même niveau de fiabilité, ni le même degré de détail."
+    },
+    {
+      "type": "paragraph",
+      "html": "Le nom constitue une excellente porte d’entrée, surtout lorsqu’il est rare ou lié à une zone géographique restreinte. Il devient en revanche insuffisant pour les patronymes répandus. Deux personnes portant le même nom, le même prénom et vivant à une époque proche peuvent être distinctes. Votre objectif n’est pas de trouver un nom qui ressemble au vôtre, mais de reconstituer une <strong>chaîne de preuves cohérente</strong> : identité, liens familiaux, lieu et chronologie doivent concorder."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "3",
+          "label": "sources à croiser : arbres, index et actes originaux"
+        },
+        {
+          "value": "1",
+          "label": "lieu précis peut être plus discriminant qu’un prénom courant"
+        },
+        {
+          "value": "2",
+          "label": "générations au moins à contrôler avant de raccorder une branche"
+        },
+        {
+          "value": "0",
+          "label": "hypothèse à copier sans source vérifiable"
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le bon réflexe généalogique",
+      "html": "Traitez chaque résultat comme une hypothèse de travail. Un acte de naissance, de mariage ou de décès qui confirme les parents, le conjoint, l’âge et la commune a davantage de valeur qu’une date recopiée dans plusieurs arbres."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Préparer votre recherche : les informations qui font la différence",
+      "id": "preparer-votre-recherche-les-informations-qui-font-la-differ"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant d’ouvrir le moteur de recherche, rassemblez ce que vous savez déjà. Un livret de famille, une copie d’acte, une photographie annotée, un carnet de famille ou le récit d’un proche peuvent fournir les éléments nécessaires pour distinguer votre ancêtre de ses homonymes. Même une information imprécise, telle qu’une commune probable ou une décennie de naissance, réduit considérablement le bruit dans les résultats."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "La fiche minimale à constituer pour chaque personne recherchée",
+      "items": [
+        "Le <strong>nom de naissance</strong>, avec l’orthographe figurant sur le document le plus fiable dont vous disposez.",
+        "Les prénoms connus, y compris un prénom d’usage, un second prénom ou un sobriquet familial.",
+        "Une année de naissance, de mariage ou de décès, même approximative.",
+        "Une commune, un canton, un département, une région ou, à défaut, un pays d’origine.",
+        "Le nom du conjoint, des parents, d’un enfant ou d’un frère ou d’une sœur : ces proches sont de puissants critères de contrôle.",
+        "La référence du document de départ et ce qui est certain ou seulement supposé."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Distinguez le nom de naissance du nom d’usage",
+      "id": "distinguez-le-nom-de-naissance-du-nom-d-usage"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une femme, la recherche doit en priorité porter sur le <strong>nom de naissance</strong>. Le nom porté après un mariage peut apparaître dans certains documents ou arbres, mais il ne remplace pas systématiquement le patronyme de naissance. Cherchez avec les deux formes lorsque c’est utile, sans les confondre dans votre propre arbre. Pensez aussi aux enfants naturels reconnus tardivement, aux adoptions et aux remariages : le nom peut évoluer au cours d’une vie ou être renseigné de manière incomplète."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La méthode pas à pas pour chercher un patronyme",
+      "id": "la-methode-pas-a-pas-pour-chercher-un-patronyme"
+    },
+    {
+      "type": "paragraph",
+      "html": "La recherche la plus productive procède par cercles successifs. Lancez d’abord une requête restrictive afin de repérer les candidats les plus plausibles. Si elle ne donne rien, ne saisissez pas immédiatement un nom seul : desserrez un seul critère à la fois. Vous saurez ainsi ce qui bloque, qu’il s’agisse d’une orthographe, d’une date erronée ou d’un lieu trop précis."
+    },
+    {
+      "type": "steps",
+      "title": "Une stratégie de recherche en six étapes",
+      "items": [
+        {
+          "title": "Partir d’une personne certaine",
+          "text": "Choisissez l’ancêtre le plus récent dont l’identité est établie par un document familial ou officiel. Notez son nom de naissance, ses prénoms, un événement daté et un lieu."
+        },
+        {
+          "title": "Saisir le noyau de l’identité",
+          "text": "Dans la recherche Geneanet, renseignez d’abord le nom et, si possible, le prénom. Ajoutez ensuite une localité et une période approximative. Les intitulés exacts des filtres peuvent varier selon la rubrique consultée."
+        },
+        {
+          "title": "Lire la nature de chaque résultat",
+          "text": "Repérez s’il s’agit d’un arbre d’utilisateur, d’un relevé, d’un index ou d’un document numérisé. N’accordez pas le même poids à ces sources."
+        },
+        {
+          "title": "Ouvrir les fiches prometteuses",
+          "text": "Contrôlez les parents, le conjoint, les enfants, les professions, les lieux et la succession des dates. Un seul élément concordant ne suffit pas."
+        },
+        {
+          "title": "Élargir méthodiquement",
+          "text": "Retirez ou assouplissez un filtre, essayez une variante du nom, puis relancez. Gardez une trace de chaque requête pour ne pas tourner en rond."
+        },
+        {
+          "title": "Valider hors de l’arbre",
+          "text": "Quand une piste paraît solide, recherchez l’acte ou la source citée. Enregistrez la référence, la cote ou le lien permettant de retrouver l’information."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Commencez étroit, élargissez lentement",
+      "html": "Avec un patronyme courant, ajoutez d’abord une commune et une période. Avec un patronyme rare, testez aussi la recherche nationale ou régionale : une migration familiale peut expliquer un résultat éloigné de la tradition familiale."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Exploiter les filtres sans écarter le bon ancêtre",
+      "id": "exploiter-les-filtres-sans-ecarter-le-bon-ancetre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les filtres sont utiles, mais ils ne corrigent pas les erreurs de saisie des arbres ni les imprécisions des index. Une date indiquée dans un arbre peut être calculée à partir d’un âge au décès ; elle reste donc approximative. De même, une personne née dans un hameau peut être indexée sous la commune de rattachement, sous une paroisse historique ou avec un libellé géographique différent."
+    },
+    {
+      "type": "table",
+      "caption": "Quels critères privilégier selon votre point de départ ?",
+      "headers": [
+        "Vous connaissez…",
+        "Filtres à utiliser en premier",
+        "Ce qu’il faut assouplir ensuite",
+        "Point de contrôle"
+      ],
+      "rows": [
+        [
+          "Nom + commune",
+          "Nom, localité, période large",
+          "Prénom puis plage de dates",
+          "Parents, conjoint et domiciles"
+        ],
+        [
+          "Nom + année approximative",
+          "Nom, décennie ou période, territoire large",
+          "Commune exacte et orthographe du prénom",
+          "Âge dans les actes et continuité chronologique"
+        ],
+        [
+          "Nom très courant",
+          "Nom, tous les prénoms, commune, conjoint ou parents si disponibles",
+          "Un seul filtre à la fois",
+          "Risque élevé d’homonymes"
+        ],
+        [
+          "Nom rare sans lieu",
+          "Nom seul, variantes et résultats géographiques récurrents",
+          "Prénom ou période si vous en trouvez",
+          "Concentration du patronyme et documents associés"
+        ],
+        [
+          "Nom d’une femme mariée",
+          "Nom de naissance d’abord, puis nom d’usage",
+          "Prénoms secondaires et dates",
+          "Acte de mariage et identité des parents"
+        ]
+      ],
+      "note": "Les filtres disponibles dépendent du type de contenu consulté. L’absence de résultat ne prouve ni l’absence de l’ancêtre ni l’absence des archives."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Utilisez une fourchette de dates, pas une date rigide",
+      "id": "utilisez-une-fourchette-de-dates-pas-une-date-rigide"
+    },
+    {
+      "type": "paragraph",
+      "html": "Si vous pensez qu’un aïeul est né « vers la fin du XIXe siècle » ou « avant une guerre », utilisez une marge confortable. Les âges déclarés dans les recensements, mariages et décès peuvent varier. Une personne peut également avoir été déclarée plusieurs jours après sa naissance. Une fourchette est particulièrement utile avant d’avoir consulté l’acte de naissance ou de mariage."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cherchez les proches quand la personne reste introuvable",
+      "id": "cherchez-les-proches-quand-la-personne-reste-introuvable"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un ancêtre discret dans les résultats peut devenir identifiable par son entourage. Recherchez son conjoint, un enfant, un frère, une sœur ou un témoin de mariage. Les actes citent fréquemment des proches et permettent de relier plusieurs foyers. Cette recherche « en éventail » est souvent plus efficace que la répétition d’une requête sur le seul individu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Orthographe, variantes et noms composés : élargir sans se tromper",
+      "id": "orthographe-variantes-et-noms-composes-elargir-sans-se-tromp"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’orthographe des noms de famille s’est progressivement stabilisée, mais elle a longtemps varié selon la personne qui écrivait l’acte, le niveau de maîtrise de l’écrit ou les usages locaux. Les accents, traits d’union, particules, doublons de consonnes, lettres muettes et finales peuvent changer. Les indexations modernes ajoutent aussi leurs propres erreurs de lecture, notamment lorsqu’un registre ancien est difficile à déchiffrer."
+    },
+    {
+      "type": "comparison",
+      "title": "Recherche stricte ou recherche élargie : quand choisir ?",
+      "left": {
+        "title": "Nom exact",
+        "points": [
+          "À privilégier si le patronyme est rare ou si vous disposez d’une orthographe attestée par un acte.",
+          "Réduit les résultats parasites et facilite le tri.",
+          "Peut manquer un ancêtre indexé avec une graphie différente, un accent absent ou une erreur de transcription."
+        ]
+      },
+      "right": {
+        "title": "Variantes et approche phonétique",
+        "points": [
+          "À utiliser après une première recherche infructueuse ou pour un nom courant dans des registres anciens.",
+          "Fait remonter des graphies proches et des formes locales possibles.",
+          "Augmente le risque de faux raccords : chaque résultat exige davantage de vérifications."
+        ]
+      }
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "Variantes à tester de façon raisonnée",
+      "items": [
+        "Avec et sans accent, apostrophe, espace ou trait d’union.",
+        "Avec une consonne doublée ou simple, une finale muette ou une terminaison voisine.",
+        "Avec les formes francisées ou locales d’un prénom et les seconds prénoms.",
+        "Avec la particule séparée, attachée ou supprimée, selon les pratiques observées dans les actes.",
+        "Avec une orthographe relevée dans un document ancien, même si elle diffère de celle portée aujourd’hui.",
+        "Avec le nom de naissance et, le cas échéant, le nom d’usage ou celui d’un précédent mariage."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "N’élargissez pas au hasard",
+      "html": "Une ressemblance phonétique ne crée pas une parenté. Si vous testez une variante, exigez au minimum plusieurs concordances indépendantes : commune ou réseau familial, période compatible et acte permettant de confirmer les parents."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lire les résultats Geneanet avec un niveau de confiance adapté",
+      "id": "lire-les-resultats-geneanet-avec-un-niveau-de-confiance-adap"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les arbres publiés par les membres sont précieux pour découvrir des pistes, des photographies, des lieux ou des collatéraux. Toutefois, leur qualité varie selon le travail de leur auteur. Certains contiennent des références d’archives détaillées ; d’autres proviennent de copies anciennes ou d’hypothèses non documentées. La présence de la même information dans plusieurs arbres n’est pas, en soi, une confirmation : ces arbres peuvent tous dériver d’une source unique et erronée."
+    },
+    {
+      "type": "proscons",
+      "title": "Les arbres collaboratifs : très utiles, mais à vérifier",
+      "pros": [
+        "Ils peuvent faire gagner du temps en révélant une commune d’origine, un mariage, une fratrie ou des descendants.",
+        "Ils aident à repérer des cousins généalogiques et des chercheurs travaillant sur la même lignée.",
+        "Les meilleures fiches indiquent des sources, des images d’actes et des notes qui orientent vos vérifications.",
+        "Ils sont particulièrement pratiques pour cartographier les branches collatérales d’une famille."
+      ],
+      "cons": [
+        "Une date ou une filiation peut être erronée, incomplète ou déduite sans preuve visible.",
+        "Les homonymes sont parfois fusionnés dans une seule fiche, surtout avec les noms fréquents.",
+        "Les sources peuvent être absentes, trop vagues ou difficiles à retrouver.",
+        "Les informations sur les générations récentes doivent être maniées avec prudence pour préserver la vie privée."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La grille de vérification avant d’ajouter une personne à votre arbre",
+      "id": "la-grille-de-verification-avant-d-ajouter-une-personne-a-vot"
+    },
+    {
+      "type": "paragraph",
+      "html": "Ne raccordez une fiche trouvée à votre arbre qu’après avoir confronté ses données à vos informations certaines. Pour une naissance, les parents sont le pivot. Pour un mariage, vérifiez l’âge, le domicile, les parents et les témoins. Pour un décès, contrôlez le conjoint, la profession, le domicile et l’âge. Les professions, signatures et adresses peuvent départager deux homonymes vivant dans la même commune."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Signaux rassurants sur une fiche ou une piste",
+      "items": [
+        "Une image d’acte, une référence archivistique précise ou une source clairement identifiable.",
+        "Des parents et un conjoint cohérents dans plusieurs événements de vie.",
+        "Des lieux compatibles avec les déplacements connus de la famille.",
+        "Une chronologie possible : pas de naissance après un décès, ni d’enfant à un âge manifestement incohérent.",
+        "Des notes qui distinguent explicitement les homonymes ou signalent une incertitude."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Gratuit, options payantes et budget de recherche",
+      "id": "gratuit-options-payantes-et-budget-de-recherche"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous pouvez démarrer une recherche généalogique avec un compte et les fonctions accessibles sans paiement, puis juger de l’intérêt d’options supplémentaires selon la nature de vos blocages. Certaines collections, certains outils de recherche ou certains niveaux d’accès peuvent être associés à une formule payante. Les contenus, conditions et tarifs évoluent : consultez toujours les modalités affichées par Geneanet avant toute souscription."
+    },
+    {
+      "type": "table",
+      "caption": "Choisir son niveau d’investissement",
+      "headers": [
+        "Situation",
+        "Approche conseillée",
+        "Budget à envisager",
+        "Arbitrage utile"
+      ],
+      "rows": [
+        [
+          "Vous débutez avec des documents familiaux",
+          "Recherche gratuite et construction progressive de votre arbre",
+          "Nul ou très faible",
+          "Apprendre la méthode avant de payer pour davantage de résultats"
+        ],
+        [
+          "Vous avez une branche précise à débloquer",
+          "Tester les ressources ciblées et les collections pertinentes",
+          "Ponctuel à modéré",
+          "Évaluer si les documents accessibles répondent vraiment à votre zone et à votre période"
+        ],
+        [
+          "Vous travaillez régulièrement sur plusieurs lignées",
+          "Accès élargi si les ressources utilisées sont récurrentes",
+          "Modéré à plus conséquent selon la formule",
+          "Comparer le coût au temps gagné et aux archives gratuites disponibles"
+        ],
+        [
+          "Vous recherchez des documents officiels",
+          "Consulter d’abord les archives publiques et services locaux",
+          "Souvent gratuit, hors frais éventuels",
+          "Privilégier la source primaire plutôt qu’une simple copie d’arbre"
+        ]
+      ],
+      "note": "Les montants et conditions varient selon les offres et les périodes. Ne souscrivez pas uniquement parce qu’un résultat semble prometteur : vérifiez la nature du document auquel vous aurez accès."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Évitez l’abonnement « réflexe »",
+      "html": "Avant de payer, définissez votre objectif : retrouver un mariage dans un département, identifier une commune d’origine ou vérifier une lignée. Si votre besoin porte sur quelques actes, les archives départementales ou communales disponibles en ligne peuvent parfois suffire gratuitement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Passer du résultat à la preuve : archives et sources complémentaires",
+      "id": "passer-du-resultat-a-la-preuve-archives-et-sources-complemen"
+    },
+    {
+      "type": "paragraph",
+      "html": "Geneanet accélère la découverte, mais la généalogie se consolide dans les sources. Dès qu’un résultat vous fournit une commune et une période, cherchez les registres d’état civil, les registres paroissiaux pour les périodes plus anciennes, les recensements, les tables décennales, les actes notariés ou les dossiers militaires selon le pays et l’époque. Les archives départementales françaises constituent souvent un point de vérification central pour les familles établies en France."
+    },
+    {
+      "type": "paragraph",
+      "html": "Commencez généralement par l’événement le plus récent accessible, puis remontez génération après génération. Un acte de mariage est particulièrement riche : il peut donner les noms, professions, domiciles et situations de vie des parents, même lorsqu’ils sont décédés. Gardez une copie ou une référence exacte de chaque document consulté afin de pouvoir expliquer votre raisonnement et corriger votre arbre plus tard."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tenir un journal de recherche évite les impasses",
+      "id": "tenir-un-journal-de-recherche-evite-les-impasses"
+    },
+    {
+      "type": "paragraph",
+      "html": "Consignez les requêtes réalisées, les variantes testées, les résultats écartés et la raison de leur rejet. Ce suivi vous évite de reprendre les mêmes fausses pistes après quelques semaines. Il est aussi indispensable lorsque plusieurs personnes portent le même nom dans une même localité. Une généalogie fiable assume les zones d’incertitude plutôt que de les masquer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes et bonnes pratiques de confidentialité",
+      "id": "erreurs-frequentes-et-bonnes-pratiques-de-confidentialite"
+    },
+    {
+      "type": "paragraph",
+      "html": "La principale erreur consiste à relier deux personnes parce que leurs noms et leurs dates semblent proches. Viennent ensuite la copie d’arbres sans source, l’oubli des femmes sous leur nom de naissance et la recherche limitée à une seule orthographe. Prenez aussi garde aux personnes vivantes : la généalogie ne justifie pas la diffusion d’adresses, de dates de naissance complètes, de documents sensibles ou de liens familiaux non souhaités."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes à adopter dans votre arbre",
+      "items": [
+        "Marquez clairement les hypothèses et les informations à confirmer.",
+        "Citez la source de chaque événement important, même lorsque l’information provient d’un proche.",
+        "Ne publiez que les données nécessaires concernant les personnes vivantes, avec leur accord lorsque cela s’impose.",
+        "Conservez vos propres copies, notes et références : une plateforme ne remplace pas votre dossier de recherche.",
+        "Corrigez une erreur dès qu’un acte la démontre, y compris si elle figure dans plusieurs arbres en ligne."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quand Geneanet ne suffit pas : les alternatives utiles",
+      "id": "quand-geneanet-ne-suffit-pas-les-alternatives-utiles"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une absence de résultat n’est pas un échec. Les registres peuvent ne pas être numérisés, mal indexés, soumis à des délais de communicabilité ou conservés dans une autre institution. Selon l’origine familiale, complétez vos recherches avec les sites d’archives publiques, les archives communales, les services nationaux, les sociétés de généalogie locales, les cimetières, les journaux anciens ou les plateformes spécialisées dans d’autres pays."
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour un blocage ancien ou complexe, la solution peut aussi être humaine : interroger un cercle généalogique local, contacter avec courtoisie l’auteur d’un arbre bien sourcé, ou faire appel à un professionnel pour une recherche ponctuelle. Préparez alors un dossier concis avec les preuves déjà réunies et les questions précises auxquelles vous cherchez une réponse."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Un bon résultat peut être négatif",
+      "html": "Écarter formellement un homonyme grâce à un acte est une avancée. Vous réduisez le champ des possibles et évitez d’intégrer une branche qui ne vous appartient pas."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la recherche par nom dans Geneanet",
+      "items": [
+        {
+          "q": "Peut-on utiliser Geneanet sans connaître la commune d’origine de sa famille ?",
+          "a": "Oui. Commencez par le nom et les prénoms, puis observez les zones géographiques qui reviennent dans les résultats. Si le nom est courant, ajoutez une période et recherchez aussi le conjoint, les parents ou les enfants. Dès qu’une commune plausible apparaît, ne la retenez qu’après vérification dans une source."
+        },
+        {
+          "q": "Pourquoi ne trouve-t-on rien avec un nom pourtant exact ?",
+          "a": "Le nom peut avoir été écrit autrement, mal indexé ou absent des collections consultées. L’ancêtre a aussi pu vivre dans une commune voisine, changer de lieu, porter un autre prénom d’usage ou ne pas figurer dans un arbre publié. Testez des variantes, élargissez la période et consultez les archives locales."
+        },
+        {
+          "q": "Comment savoir si un arbre Geneanet correspond réellement à ma famille ?",
+          "a": "Comparez plusieurs éléments indépendants : les parents, le conjoint, les enfants, les lieux, les professions et la chronologie. Cherchez ensuite l’acte de naissance, de mariage ou de décès cité ou correspondant. Sans source primaire ou référence vérifiable, conservez l’information comme une piste, pas comme un fait établi."
+        },
+        {
+          "q": "Faut-il chercher une femme avec son nom de jeune fille ou son nom de mariage ?",
+          "a": "Cherchez d’abord son nom de naissance, qui est le repère généalogique le plus stable. Testez ensuite son nom d’usage ou de mariage, notamment pour les décès, les recensements, les arbres d’utilisateurs et certaines mentions familiales. L’acte de mariage permet normalement de faire le lien entre les deux identités."
+        },
+        {
+          "q": "Un abonnement payant est-il indispensable pour retrouver ses ancêtres ?",
+          "a": "Non. Il peut être utile si une collection ou un outil répond précisément à votre recherche, mais il ne remplace ni une méthode rigoureuse ni les archives publiques. Commencez par exploiter les résultats accessibles, les documents familiaux et les archives en ligne ; évaluez ensuite l’intérêt d’un accès complémentaire pour un besoin défini."
+        },
+        {
+          "q": "Peut-on contacter les auteurs d’arbres trouvés sur Geneanet ?",
+          "a": "Oui, lorsqu’un moyen de contact est proposé. Écrivez un message bref et précis : indiquez la personne concernée, les dates et lieux que vous connaissez, ainsi que votre question. Évitez d’exiger des informations et ne communiquez pas de données sensibles sur des personnes vivantes."
+        }
+      ]
+    }
+  ]
+}
