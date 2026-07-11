@@ -40,36 +40,18 @@ async function main() {
     console.log(`✅ CNAME ${WWW} → ${PAGES_TARGET}`);
   } else console.log(`↷ CNAME ${WWW} déjà présent`);
 
-  // apex → adresse fictive proxifiée (support de la redirection)
+  // apex → Pages (CNAME aplati à la racine). La redirection apex → www est
+  // assurée par la Pages Function functions/_middleware.js (301), sans dépendre
+  // de la permission « Rulesets » du token.
   if (!has('A', APEX) && !has('CNAME', APEX)) {
     await api(`/zones/${zone.id}/dns_records`, { method: 'POST', body: JSON.stringify({
-      type: 'A', name: '@', content: '192.0.2.1', proxied: true, comment: 'Redirection apex → www',
+      type: 'CNAME', name: '@', content: PAGES_TARGET, proxied: true, comment: 'Apex → Pages (redirection vers www via Function)',
     }) });
-    console.log(`✅ A ${APEX} → 192.0.2.1 (proxifié)`);
+    console.log(`✅ CNAME ${APEX} → ${PAGES_TARGET}`);
   } else console.log(`↷ Enregistrement apex déjà présent`);
 
-  // Règle de redirection apex → www (single redirect dynamique)
-  const phase = `/zones/${zone.id}/rulesets/phases/http_request_dynamic_redirect/entrypoint`;
-  let ruleset;
-  try { ruleset = await api(phase); } catch { ruleset = null; }
-  const rules = (ruleset?.rules || []).filter((r) => r.description !== 'apex → www');
-  rules.push({
-    description: 'apex → www',
-    expression: `(http.host eq "${APEX}")`,
-    action: 'redirect',
-    action_parameters: {
-      from_value: {
-        status_code: 301,
-        target_url: { expression: `concat("https://${WWW}", http.request.uri.path)` },
-        preserve_query_string: true,
-      },
-    },
-  });
-  await api(phase, { method: 'PUT', body: JSON.stringify({
-    name: 'default', phase: 'http_request_dynamic_redirect', rules,
-  }) });
-  console.log('✅ Redirection 301 apex → www configurée');
-
-  console.log('\n🎉 DNS + redirection prêts. Le site répondra dès que les DNS seront actifs.');
+  console.log('\nℹ️  Pensez à ajouter les deux domaines au projet Pages (www + apex) :');
+  console.log('   ils sont servis par Pages ; la Function redirige l’apex vers www en 301.');
+  console.log('\n🎉 DNS prêts. Le site répond sur www ; l’apex redirige vers www.');
 }
 main().catch((e) => { console.error('❌', e.message); process.exit(1); });
