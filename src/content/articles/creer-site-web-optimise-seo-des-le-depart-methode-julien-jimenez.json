@@ -1,0 +1,357 @@
+{
+  "title": "Créer un site web optimisé SEO dès le départ : la méthode de Julien Jimenez",
+  "slug": "creer-site-web-optimise-seo-des-le-depart-methode-julien-jimenez",
+  "path": "/divers/creer-site-web-optimise-seo-des-le-depart-methode-julien-jimenez.html",
+  "category": "tech",
+  "tags": [
+    "référencement naturel",
+    "seo",
+    "création de site web",
+    "core web vitals",
+    "netlinking",
+    "refonte seo"
+  ],
+  "excerpt": "Concevoir un site pensé pour Google dès la première ligne de code plutôt que d’ajouter le SEO après coup : la méthode, les fondations techniques et le budget à prévoir.",
+  "metaDescription": "Créer un site web optimisé SEO dès le départ : fondations techniques, contenu, netlinking, budget et méthode pour être visible sur Google et durer.",
+  "seoTitle": "Site web optimisé SEO : la méthode de Julien Jimenez",
+  "heroKicker": "Pensé pour Google",
+  "readingTime": 12,
+  "date": "2026-07-12T10:00:00",
+  "image": {
+    "id": "gen-creer-site-web-optimise-seo-des-le-depart-methode-julien-jimenez",
+    "alt": "Créer un site web optimisé SEO dès le départ : la méthode de Julien Jimenez",
+    "width": 1536,
+    "height": 1024
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "La plupart des sites sont d’abord dessinés, puis développés, et l’on se demande seulement à la fin comment les faire remonter sur Google. C’est exactement l’inverse d’une stratégie gagnante. Un site réellement visible se pense pour les moteurs de recherche dès la première ligne de code : architecture, vitesse, contenu et autorité forment un tout, décidé avant même la maquette. Voici comment aborder la création d’un site optimisé pour le SEO dès le départ, sans vous ruiner ni tout refaire six mois plus tard."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L’essentiel à retenir",
+      "items": [
+        "Le SEO n’est pas une option qu’on ajoute à la fin : intégré dès la conception, il coûte moins cher et rapporte plus longtemps.",
+        "Quatre piliers portent la visibilité : la technique (vitesse, Core Web Vitals), l’architecture (URLs, maillage), le contenu (intention de recherche) et l’autorité (netlinking).",
+        "Une refonte mal préparée peut effacer des années de trafic : les redirections et la conservation des URLs sont non négociables.",
+        "Le référencement naturel se mesure en mois, pas en jours : visez la durée, pas le coup d’éclat.",
+        "Choisissez un prestataire qui parle stratégie de mots-clés avant de parler couleurs et animations."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pourquoi penser le SEO dès la première ligne de code",
+      "id": "pourquoi-penser-le-seo-des-la-premiere-ligne-de-code"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le schéma classique ressemble à ceci : on choisit un joli thème, on décide des pages, on rédige quelques textes, on met en ligne… puis on découvre que Google ignore poliment le site. Commence alors la course au rattrapage : réécrire les URLs, alléger un code trop lourd, refaire une arborescence bancale. Ce travail correctif coûte souvent plus cher que si le référencement avait guidé les choix dès le premier jour."
+    },
+    {
+      "type": "paragraph",
+      "html": "L’approche inverse consiste à définir la stratégie de mots-clés <strong>avant</strong> la maquette, à dessiner l’arborescence en fonction des intentions de recherche, et à écrire un code léger dont les Core Web Vitals sont au vert par construction. C’est toute la philosophie défendue par le consultant SEO <a href=\"https://julien-jimenez.eu\">Julien Jimenez</a>, qui conçoit depuis Lyon des sites pensés pour Google dès la première ligne de code plutôt que d’ajouter le référencement après coup. La différence n’est pas cosmétique : elle change la trajectoire de trafic du site pour des années."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Le principe fondateur",
+      "html": "Un site n’est pas un objet qu’on optimise <em>ensuite</em> : c’est une architecture qui répond à une question précise que des gens tapent dans un moteur de recherche. Partez de la question, pas du design."
+    },
+    {
+      "type": "comparison",
+      "title": "Deux façons de construire un site",
+      "left": {
+        "title": "SEO intégré dès la conception",
+        "points": [
+          "Stratégie de mots-clés décidée avant la maquette",
+          "Arborescence et URLs pensées pour le crawl",
+          "Code léger, Core Web Vitals au vert dès le lancement",
+          "Contenu calibré sur l’intention de recherche",
+          "Le trafic organique monte et se stabilise dans la durée"
+        ]
+      },
+      "right": {
+        "title": "SEO ajouté après coup",
+        "points": [
+          "Design d’abord, référencement traité en fin de projet",
+          "URLs et structure à réécrire, redirections en urgence",
+          "Vitesse à corriger sur un code déjà figé",
+          "Textes rédigés « au feeling », sans cible claire",
+          "Résultats lents, coûteux à rattraper, souvent décevants"
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les fondations techniques d’un site qui plaît à Google",
+      "id": "les-fondations-techniques-d-un-site-qui-plait-a-google"
+    },
+    {
+      "type": "paragraph",
+      "html": "Avant même le contenu, un moteur de recherche doit pouvoir explorer, comprendre et afficher rapidement vos pages. Ces fondations techniques sont invisibles pour le visiteur, mais elles décident de tout le reste. Un site lent, mal structuré ou difficile à explorer part avec un handicap que le meilleur contenu du monde ne compensera pas entièrement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Vitesse et Core Web Vitals",
+      "id": "vitesse-et-core-web-vitals"
+    },
+    {
+      "type": "paragraph",
+      "html": "Les <strong>Core Web Vitals</strong> sont les indicateurs par lesquels Google mesure l’expérience réelle de vos visiteurs : la vitesse d’affichage du contenu principal, la réactivité aux interactions et la stabilité visuelle de la page pendant son chargement. Un site rapide n’améliore pas seulement son classement, il retient aussi les visiteurs, qui abandonnent en masse une page qui met plusieurs secondes à s’afficher. La vitesse est donc à la fois un critère de référencement et un levier de conversion."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Les réflexes techniques qui font la différence",
+      "items": [
+        "Un code allégé, sans surcouche inutile de scripts et de bibliothèques.",
+        "Des images compressées au bon format (WebP ou AVIF) et dimensionnées pour l’écran.",
+        "Un hébergement solide et, idéalement, une diffusion via un réseau de distribution de contenu (CDN).",
+        "Un affichage stable : réservez la place des images et des blocs pour éviter les sauts de mise en page.",
+        "Un site pleinement responsive, pensé pour le mobile avant le bureau."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Architecture, URLs et maillage interne",
+      "id": "architecture-urls-et-maillage-interne"
+    },
+    {
+      "type": "paragraph",
+      "html": "L’arborescence de votre site est sa colonne vertébrale. Chaque page doit être accessible en peu de clics depuis l’accueil, regroupée dans des rubriques logiques et reliée aux pages voisines par un <strong>maillage interne</strong> cohérent. Des URLs courtes, lisibles et descriptives (plutôt que des suites de chiffres) aident autant les visiteurs que les robots. Cette structure claire indique à Google quelles pages comptent le plus et comment les sujets s’articulent entre eux."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Astuce durable",
+      "html": "Décidez de vos URLs <strong>une bonne fois pour toutes</strong> au lancement. Changer une adresse plus tard oblige à mettre en place des redirections et fait toujours courir un risque de perte de position. Une URL bien pensée dès le départ, c’est un souci de moins pour la vie du site."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le contenu : répondre vraiment à l’intention de recherche",
+      "id": "le-contenu-repondre-vraiment-a-l-intention-de-recherche"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une fois les fondations posées, tout se joue sur le contenu. Mais écrire « pour le SEO » ne signifie pas empiler des mots-clés : cela consiste à répondre à ce que la personne cherche vraiment. Derrière une requête se cache une <strong>intention</strong> : s’informer, comparer, acheter, ou trouver une adresse précise. Un bon contenu identifie cette intention et y répond mieux que les pages déjà classées."
+    },
+    {
+      "type": "paragraph",
+      "html": "Concrètement, cela veut dire couvrir un sujet en profondeur : définir les termes, comparer les options, donner des repères de prix, signaler les erreurs à éviter, anticiper les questions. Google valorise les pages qui démontrent une expertise réelle et une expérience concrète, pas les textes creux calibrés uniquement pour la machine. Écrivez d’abord pour un humain pressé qui veut une réponse claire, puis vérifiez que le vocabulaire de votre cible y figure naturellement."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le bon ordre",
+      "html": "Un mot-clé n’est pas un objectif, c’est une question posée par un internaute. Partez de la question, apportez la meilleure réponse possible, et le classement suit. C’est aussi simple et aussi exigeant que cela."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Autorité et netlinking : gagner la confiance de Google",
+      "id": "autorite-et-netlinking-gagner-la-confiance-de-google"
+    },
+    {
+      "type": "paragraph",
+      "html": "À contenu équivalent, Google départage les sites par leur <strong>autorité</strong>, c’est-à-dire la confiance qu’ils inspirent. Cette confiance se construit en grande partie grâce aux liens que d’autres sites font vers le vôtre : c’est le <strong>netlinking</strong>. Un lien depuis un site reconnu et thématiquement proche agit comme une recommandation. Mieux vaut quelques liens de qualité, obtenus dans des contextes pertinents, qu’une multitude de liens douteux qui peuvent au contraire vous pénaliser."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "Top 3",
+          "label": "capte l’essentiel des clics sur une requête"
+        },
+        {
+          "value": "3–6 mois",
+          "label": "avant des résultats SEO durables et visibles"
+        },
+        {
+          "value": "des centaines",
+          "label": "de critères combinés par l’algorithme"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "L’autorité se travaille dans la durée et de façon éditoriale : contenus de référence que l’on a envie de citer, relations avec d’autres acteurs de votre secteur, présence sur des supports crédibles. C’est un investissement patient, à mille lieues des promesses de « première page garantie en une semaine », qui ne tiennent jamais et exposent souvent à des sanctions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Refonte : moderniser votre site sans sacrifier votre trafic",
+      "id": "refonte-moderniser-votre-site-sans-sacrifier-votre-trafic"
+    },
+    {
+      "type": "paragraph",
+      "html": "Vous avez déjà un site et vous voulez le refaire ? La refonte est le moment le plus dangereux pour votre référencement. Beaucoup d’entreprises perdent, du jour au lendemain, une part importante de leur trafic organique simplement parce que les anciennes adresses n’ont pas été redirigées vers les nouvelles. Une refonte réussie conserve tout le capital SEO accumulé, tout en modernisant le design et la technique."
+    },
+    {
+      "type": "steps",
+      "title": "Les étapes d’une refonte SEO maîtrisée",
+      "items": [
+        {
+          "title": "Auditer l’existant",
+          "text": "Repérez vos pages qui génèrent le plus de trafic et de conversions : ce sont elles qu’il faut protéger à tout prix."
+        },
+        {
+          "title": "Cartographier les URLs",
+          "text": "Listez chaque adresse actuelle et décidez de son équivalent sur le nouveau site, une par une."
+        },
+        {
+          "title": "Préparer les redirections",
+          "text": "Mettez en place des redirections permanentes (301) de chaque ancienne URL vers la nouvelle, sans exception."
+        },
+        {
+          "title": "Recontrôler la technique",
+          "text": "Vérifiez vitesse, structure, balises et plan du site avant la bascule, pas après."
+        },
+        {
+          "title": "Surveiller après la mise en ligne",
+          "text": "Suivez de près l’indexation et les positions dans les jours qui suivent, et corrigez au moindre écart."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "L’erreur qui coûte le plus cher",
+      "html": "Changer d’URLs sans redirections, c’est demander à Google d’oublier tout ce qu’il savait de votre site. Les redirections 301, page à page, ne sont pas un détail technique : elles sont la condition pour <strong>ne pas repartir de zéro</strong>."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Budget et choix du prestataire : à quoi s’attendre",
+      "id": "budget-et-choix-du-prestataire-a-quoi-s-attendre"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix d’un site optimisé varie énormément selon l’ambition du projet, la concurrence de votre marché et le niveau d’accompagnement souhaité. Les fourchettes ci-dessous ne sont que des ordres de grandeur pour vous situer : un devis sérieux dépend toujours de votre situation précise. Retenez surtout qu’un site conçu pour le SEO n’est pas une dépense, mais un actif qui vous rapporte du trafic gratuit mois après mois."
+    },
+    {
+      "type": "table",
+      "caption": "Ordres de grandeur selon le type de projet",
+      "headers": [
+        "Type de projet",
+        "Ce que cela couvre",
+        "Niveau d’investissement"
+      ],
+      "rows": [
+        [
+          "Site vitrine SEO-ready",
+          "Quelques pages, fondations techniques et contenu ciblé",
+          "Modéré"
+        ],
+        [
+          "Boutique en ligne optimisée",
+          "Catalogue, fiches produits, architecture e-commerce",
+          "Élevé"
+        ],
+        [
+          "Refonte sans perte de trafic",
+          "Migration, redirections, conservation du capital SEO",
+          "Modéré à élevé"
+        ],
+        [
+          "Accompagnement continu",
+          "Contenu, netlinking et suivi dans la durée",
+          "Récurrent"
+        ]
+      ],
+      "note": "Fourchettes indicatives : demandez toujours un devis adapté à votre marché et à vos objectifs."
+    },
+    {
+      "type": "proscons",
+      "title": "Investir dans un site pensé SEO dès le départ",
+      "pros": [
+        "Un trafic organique durable, acquis sans payer chaque clic.",
+        "Moins de budget publicitaire nécessaire pour exister.",
+        "Une base technique saine qui évite les refontes coûteuses.",
+        "Un site qui gagne en valeur au fil du temps."
+      ],
+      "cons": [
+        "Des résultats qui se construisent en mois, pas en jours.",
+        "Un investissement initial plus élevé qu’un site « vite fait ».",
+        "Une expertise réelle nécessaire pour éviter les fausses bonnes idées.",
+        "Un travail de contenu et de netlinking à entretenir dans la durée."
+      ]
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Comment reconnaître un bon consultant SEO",
+      "items": [
+        "Il vous parle de stratégie de mots-clés et d’objectifs avant de parler de couleurs.",
+        "Il pense l’arborescence et les URLs en fonction du crawl, pas seulement du menu.",
+        "Il maîtrise la performance technique et les Core Web Vitals, pas uniquement la rédaction.",
+        "Il sécurise vos redirections en cas de refonte, sans que vous ayez à le demander.",
+        "Il promet une progression sérieuse et mesurable, jamais une « première place garantie »."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les erreurs qui sabotent votre référencement",
+      "id": "les-erreurs-qui-sabotent-votre-referencement"
+    },
+    {
+      "type": "paragraph",
+      "html": "La plupart des échecs SEO ne viennent pas d’un manque d’efforts, mais d’erreurs de méthode qui auraient pu être évitées dès la conception. Les reconnaître, c’est déjà s’en prémunir."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "title": "À éviter absolument",
+      "items": [
+        "Reléguer le SEO à la toute fin du projet, une fois le site déjà figé.",
+        "Négliger la vitesse et l’expérience mobile au profit d’animations spectaculaires.",
+        "Publier du contenu sans savoir à quelle intention de recherche il répond.",
+        "Dupliquer des textes ou multiplier des pages quasi identiques.",
+        "Acheter des liens de mauvaise qualité en espérant un raccourci.",
+        "Lancer une refonte sans plan de redirections des anciennes URLs."
+      ]
+    },
+    {
+      "type": "quote",
+      "text": "Un site qui plaît à Google est d’abord un site qui rend service à un humain, plus vite et plus clairement que les autres."
+    },
+    {
+      "type": "faq",
+      "title": "Vos questions fréquentes",
+      "items": [
+        {
+          "q": "Faut-il vraiment penser au SEO avant de créer le site ?",
+          "a": "Oui, c’est même le meilleur moment. Décider de l’arborescence, des URLs et de la stratégie de mots-clés dès la conception évite de tout réécrire ensuite. Un site pensé pour Google dès la première ligne de code démarre avec une longueur d’avance qu’un rattrapage tardif ne rattrape jamais totalement."
+        },
+        {
+          "q": "Combien de temps avant de voir des résultats ?",
+          "a": "Le référencement naturel se mesure en mois. Selon votre marché et sa concurrence, comptez généralement de trois à six mois pour des résultats durables et visibles. Méfiez-vous des promesses de première page en quelques jours : elles reposent sur des méthodes risquées et non pérennes."
+        },
+        {
+          "q": "Puis-je optimiser mon site moi-même ?",
+          "a": "Les bases (contenu utile, images légères, structure claire) sont à votre portée et valent la peine d’être travaillées. En revanche, l’architecture technique, les Core Web Vitals, les redirections lors d’une refonte et une stratégie de netlinking saine demandent une réelle expertise. Sur ces points, un accompagnement évite des erreurs coûteuses."
+        },
+        {
+          "q": "Une refonte va-t-elle me faire perdre mon trafic ?",
+          "a": "Pas si elle est préparée. Le risque vient des URLs modifiées sans redirection. En cartographiant chaque adresse et en mettant en place des redirections 301, vous conservez votre capital SEO tout en modernisant le site. C’est l’étape à ne jamais négliger."
+        },
+        {
+          "q": "Le netlinking est-il indispensable ?",
+          "a": "Pour un marché peu concurrentiel, un contenu de qualité et une technique saine peuvent suffire. Dès que la concurrence se durcit, l’autorité fait la différence, et les liens de qualité pesent lourd. Privilégiez toujours quelques liens pertinents à un volume de liens douteux."
+        },
+        {
+          "q": "Comment choisir entre plusieurs prestataires ?",
+          "a": "Regardez leur méthode plus que leur discours. Un bon professionnel part de vos objectifs et de vos mots-clés, pense la structure pour le crawl, maîtrise la performance et sécurise vos redirections. S’il vous parle stratégie avant de parler design, vous êtes au bon endroit."
+        }
+      ]
+    }
+  ]
+}
