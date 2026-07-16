@@ -1,0 +1,286 @@
+{
+  "title": "Comment savoir quand changer les pneus de sa moto ?",
+  "slug": "comment-savoir-quand-changer-les-pneus-de-sa-moto",
+  "path": "/divers/comment-savoir-quand-changer-les-pneus-de-sa-moto.html",
+  "category": "auto-moto",
+  "tags": [
+    "pneu moto",
+    "usure pneu",
+    "sécurité moto",
+    "entretien moto",
+    "témoin d'usure",
+    "achat pneu moto"
+  ],
+  "excerpt": "Témoins d'usure, profondeur de sculpture, âge du pneu, craquelures : les signes fiables pour savoir quand changer les pneus de sa moto, et les erreurs qui coûtent cher.",
+  "metaDescription": "Témoin d'usure, profondeur de sculpture, âge du caoutchouc, craquelures : tous les signes pour savoir quand changer les pneus de sa moto en toute sécurité.",
+  "seoTitle": "Pneus moto : quand faut-il vraiment les changer ?",
+  "heroKicker": "Sécurité et entretien moto",
+  "readingTime": 11,
+  "date": "2026-07-16T09:05:00",
+  "image": {
+    "id": "gen-comment-savoir-quand-changer-les-pneus-de-sa-moto",
+    "alt": "Comment savoir quand changer les pneus de sa moto ?",
+    "width": 1536,
+    "height": 1024
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Sur une moto, les pneus sont le seul point de contact avec la route : quelques centimètres carrés de gomme suffisent à transmettre freinage, accélération et inclinaison en virage. Attendre la panne visible avant de changer un pneu, c'est prendre un risque disproportionné pour l'argent économisé. Voici comment repérer les vrais signaux d'alerte, au-delà du simple coup d'œil sur la profondeur des sculptures."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L'essentiel avant d'inspecter vos pneus",
+      "items": [
+        "Le <strong>témoin d'usure</strong> (TWI) intégré à la bande de roulement indique la limite légale, mais la limite de sécurité réelle est souvent atteinte avant.",
+        "L'<strong>âge du pneu</strong> compte autant que le kilométrage : un pneu peu roulé mais âgé de plusieurs années durcit et perd de l'adhérence.",
+        "Craquelures, déformations, hernies ou usure irrégulière imposent un changement immédiat, quel que soit le niveau de sculpture restant.",
+        "La pression et l'équilibrage mal réglés accélèrent une usure anormale et faussent la lecture de l'état réel du pneu.",
+        "En cas de doute, faites contrôler vos pneus par un professionnel plutôt que de vous fier uniquement à l'œil au bord de la route."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le témoin d'usure : le repère légal, pas la seule limite de sécurité",
+      "id": "le-temoin-dusure-le-repere-legal-pas-la-seule-limite-de-securite"
+    },
+    {
+      "type": "paragraph",
+      "html": "Chaque pneu moto homologué comporte des <strong>témoins d'usure</strong> (indicateurs TWI), de petits reliefs situés au fond des rainures principales de la bande de roulement. Quand la sculpture s'use jusqu'à affleurer ces témoins, la profondeur restante correspond généralement à la limite légale minimale, souvent repérée par un petit triangle ou les lettres « TWI » gravées sur le flanc, en face de leur emplacement."
+    },
+    {
+      "type": "paragraph",
+      "html": "Ce seuil légal ne doit pas être confondu avec le seuil de <strong>sécurité optimale</strong>. L'évacuation de l'eau, essentielle pour éviter l'aquaplaning, se dégrade progressivement bien avant que le témoin ne soit atteint. Sur route mouillée ou en usage sportif, mieux vaut anticiper le remplacement plutôt que d'attendre le minimum légal."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Comment lire un témoin d'usure sans jauge",
+      "html": "Repérez la petite flèche ou le repère « TWI » gravé sur le flanc du pneu, généralement à plusieurs emplacements sur la circonférence. Suivez-le visuellement jusqu'à la rainure correspondante : si la sculpture affleure ce petit plot en relief au fond du sillon, le pneu a atteint sa limite d'usure indiquée par le fabricant."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mesurer la profondeur de sculpture soi-même",
+      "id": "mesurer-la-profondeur-de-sculpture-soi-meme"
+    },
+    {
+      "type": "paragraph",
+      "html": "Pour une mesure précise, une jauge de profondeur de pneu, peu coûteuse et vendue en accessoire auto-moto, reste l'outil le plus fiable. À défaut, une pièce de monnaie ou une règle graduée insérée dans une rainure principale donne déjà une bonne indication comparée à un pneu neuf de référence, dont la profondeur d'origine figure généralement dans la documentation du modèle."
+    },
+    {
+      "type": "table",
+      "caption": "Repères de profondeur de sculpture (ordres de grandeur)",
+      "headers": [
+        "État du pneu",
+        "Profondeur restante indicative",
+        "Ce que cela signifie",
+        "Action recommandée"
+      ],
+      "rows": [
+        [
+          "Pneu neuf",
+          "Valeur de référence du fabricant",
+          "Évacuation d'eau et adhérence optimales",
+          "Aucune action"
+        ],
+        [
+          "Usure modérée",
+          "Sculpture encore bien visible",
+          "Performances proches du neuf sur route sèche",
+          "Surveillance régulière"
+        ],
+        [
+          "Usure avancée",
+          "Sculpture nettement réduite",
+          "Adhérence sur mouillé déjà en baisse sensible",
+          "Anticiper le remplacement"
+        ],
+        [
+          "Proche du témoin d'usure",
+          "Sculpture affleurant le TWI",
+          "Limite légale et de sécurité atteinte",
+          "Changer sans attendre"
+        ]
+      ],
+      "note": "Les valeurs exactes varient selon le modèle et l'usage (route, sportif, tout-terrain) : reportez-vous toujours aux préconisations du fabricant de votre pneu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "L'âge du pneu : un facteur souvent négligé",
+      "id": "lage-du-pneu-un-facteur-souvent-neglige"
+    },
+    {
+      "type": "paragraph",
+      "html": "Un pneu roulé occasionnellement peut conserver une sculpture généreuse plusieurs années tout en devenant dangereux : la gomme <strong>durcit et se fragilise</strong> avec le temps, sous l'effet combiné des UV, de l'ozone et des variations de température, même à l'arrêt dans un garage. Cette perte progressive d'adhérence n'est pas toujours visible à l'œil nu tant que le durcissement n'a pas provoqué de craquelures."
+    },
+    {
+      "type": "paragraph",
+      "html": "La date de fabrication figure sur le flanc du pneu, sous la forme d'un code à quatre chiffres : les deux premiers indiquent la semaine, les deux derniers l'année. Au-delà d'un certain nombre d'années, de nombreux fabricants et professionnels recommandent un contrôle renforcé, voire un remplacement préventif, même si la profondeur de sculpture reste correcte."
+    },
+    {
+      "type": "callout",
+      "variant": "key",
+      "title": "Où trouver l'âge du pneu",
+      "html": "Cherchez sur le flanc un encadré ovale contenant un code à quatre chiffres, par exemple « 2321 » signifie la 23<sup>e</sup> semaine de l'année 2021. Ce repère permet de savoir si un pneu à sculpture encore correcte mérite néanmoins un contrôle approfondi en raison de son âge."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les signes qui imposent un changement immédiat",
+      "id": "les-signes-qui-imposent-un-changement-immediat"
+    },
+    {
+      "type": "paragraph",
+      "html": "Certains défauts n'attendent pas la limite d'usure pour devenir dangereux. Une <strong>hernie</strong> (déformation en bosse sur le flanc) signale une rupture de la structure interne du pneu et impose un remplacement immédiat, sans exception : le risque d'éclatement est réel, y compris à faible vitesse. Des <strong>craquelures</strong> sur le flanc ou dans les rainures, même fines, traduisent un début de dessiccation de la gomme."
+    },
+    {
+      "type": "paragraph",
+      "html": "Une <strong>usure irrégulière</strong>, plus marquée d'un côté, en dents de scie ou par plages, révèle généralement un problème annexe : pression mal réglée, roue déséquilibrée, parallélisme ou géométrie de train perturbés, voire une conduite très sportive concentrée sur un seul angle d'inclinaison. Changer le pneu sans corriger la cause fait réapparaître le même défaut sur le pneu suivant."
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Inspectez ces points à chaque contrôle",
+      "items": [
+        "Profondeur de sculpture par rapport aux témoins d'usure, sur plusieurs points de la circonférence.",
+        "Présence de hernies, bosses ou déformations visibles sur le flanc ou la bande de roulement.",
+        "Craquelures fines dans les rainures ou sur les flancs, signe de vieillissement de la gomme.",
+        "Répartition de l'usure : uniforme, ou concentrée sur un bord et le centre.",
+        "Corps étrangers incrustés (vis, cailloux) susceptibles de provoquer une crevaison lente.",
+        "Date de fabrication sur le flanc, pour croiser l'âge réel avec l'état visuel."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pression, équilibrage : ce qui accélère une usure anormale",
+      "id": "pression-equilibrage-ce-qui-accelere-une-usure-anormale"
+    },
+    {
+      "type": "paragraph",
+      "html": "Une pression trop basse use prématurément les bords du pneu et augmente la résistance au roulement, tandis qu'une pression trop élevée concentre l'usure au centre de la bande de roulement et réduit la surface de contact utile. Vérifiez la pression à froid, avant de rouler, au moins une fois par mois et avant tout trajet long."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un déséquilibre de roue provoque des vibrations qui usent le pneu de façon irrégulière et fatiguent la suspension. Si vous ressentez une vibration inhabituelle au guidon à certaines vitesses, cela vaut la peine de <a href=\"/divers/comment-equilibrer-une-roue-efficacement.html\">faire vérifier l'équilibrage de vos roues</a> avant même d'incriminer les pneus eux-mêmes."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Quel budget prévoir pour un jeu de pneus moto ?",
+      "id": "quel-budget-prevoir-pour-un-jeu-de-pneus-moto"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le budget varie fortement selon la cylindrée, le type de moto et la gamme du pneu choisi. Un pneu d'entrée ou de milieu de gamme pour une moto urbaine ou routière reste nettement plus abordable qu'un pneu haute performance pour moto sportive ou qu'un pneu spécifique pour gros trail. À cela s'ajoute le coût de la pose et de l'équilibrage, rarement inclus dans le prix affiché du pneu seul."
+    },
+    {
+      "type": "table",
+      "caption": "Budget indicatif selon l'usage (ordres de grandeur, hors pose)",
+      "headers": [
+        "Type de moto / usage",
+        "Positionnement du pneu",
+        "Ce qui influence le prix",
+        "Point de vigilance"
+      ],
+      "rows": [
+        [
+          "Scooter, moto urbaine légère",
+          "Entrée à milieu de gamme",
+          "Gomme durcie pour longévité, faible largeur",
+          "Ne pas sacrifier l'adhérence sur mouillé pour un prix bas"
+        ],
+        [
+          "Moto routière, trajet quotidien",
+          "Milieu de gamme polyvalent",
+          "Compromis longévité / adhérence",
+          "Vérifier la compatibilité exacte avec la fiche technique de la moto"
+        ],
+        [
+          "Moto sportive",
+          "Gamme performance",
+          "Gomme tendre, structure renforcée",
+          "Usure plus rapide, surveiller plus fréquemment"
+        ],
+        [
+          "Trail, grosses cylindrées",
+          "Milieu à haut de gamme",
+          "Taille du pneu, capacité de charge",
+          "Le montage peut nécessiter un équipement spécifique"
+        ]
+      ],
+      "note": "Ces repères sont indicatifs : demandez toujours conseil à un professionnel pour la référence exacte compatible avec votre moto."
+    },
+    {
+      "type": "callout",
+      "variant": "money",
+      "title": "Changer les deux pneus ou un seul ?",
+      "html": "Remplacer uniquement le pneu le plus usé peut sembler économique, mais un déséquilibre d'adhérence entre l'avant et l'arrière modifie le comportement de la moto, en particulier au freinage. Si les deux pneus approchent de la limite d'usure à quelques mois d'écart, il est souvent plus cohérent de les changer ensemble plutôt que d'attendre deux interventions rapprochées."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Erreurs fréquentes à éviter",
+      "id": "erreurs-frequentes-a-eviter"
+    },
+    {
+      "type": "paragraph",
+      "html": "La première erreur consiste à ne surveiller que la sculpture centrale du pneu, alors que l'usure en virage se concentre souvent sur les flancs, en particulier pour une conduite qui incline régulièrement la moto. La deuxième est de repousser le changement « jusqu'au prochain contrôle technique » ou jusqu'aux vacances : un pneu limite ne se dégrade pas de façon linéaire, et les conditions humides amplifient brutalement le risque."
+    },
+    {
+      "type": "paragraph",
+      "html": "Autre piège : monter un pneu neuf d'un seul côté sans vérifier sa compatibilité exacte avec le pneu resté en place (dimensions, indices de charge et de vitesse, parfois la marque). Un mélange mal choisi peut déséquilibrer le comportement routier, particulièrement sensible sur une moto en inclinaison."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Après un remplacement de pneu, roulez prudemment",
+      "html": "Un pneu neuf conserve une fine pellicule de démoulage en surface, moins adhérente que la gomme une fois « rodée ». Évitez les accélérations et les angles d'inclinaison marqués pendant les premiers kilomètres, le temps que la surface se marque normalement."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Faire contrôler ses pneus par un professionnel",
+      "id": "faire-controler-ses-pneus-par-un-professionnel"
+    },
+    {
+      "type": "paragraph",
+      "html": "L'auto-inspection régulière reste indispensable, mais un professionnel dispose d'outils et d'une expérience qui détectent des défauts moins visibles : usure interne des flancs, début de séparation de la carcasse, ou anomalie de géométrie. Profitez d'une révision, d'un changement de plaquettes ou d'un contrôle avant un long trajet pour faire vérifier vos pneus en même temps que les autres points d'entretien mécanique de votre moto. Ce contrôle est particulièrement important avant de partir sur une <a href=\"/divers/location-moto-voyage-distance.html\">longue distance en moto</a>, qu'il s'agisse de votre machine ou d'un modèle loué pour l'occasion."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur l'usure des pneus moto",
+      "items": [
+        {
+          "q": "Combien de temps dure un pneu de moto ?",
+          "a": "Cela dépend fortement du kilométrage, du style de conduite, du poids transporté et de l'exposition aux UV. Un pneu peut s'user en quelques milliers de kilomètres sur une moto sportive conduite sportivement, ou durer plusieurs années sur une moto peu utilisée, à condition de surveiller aussi son âge et non seulement sa sculpture."
+        },
+        {
+          "q": "Peut-on rouler avec un pneu qui a atteint le témoin d'usure ?",
+          "a": "Non, ce seuil correspond généralement à la limite légale minimale. Au-delà, l'évacuation de l'eau et l'adhérence sont fortement dégradées, en particulier sur route mouillée, et le pneu doit être remplacé sans délai."
+        },
+        {
+          "q": "Un pneu qui n'a jamais roulé peut-il quand même être usé ?",
+          "a": "Oui. La gomme durcit avec le temps, indépendamment du kilométrage, sous l'effet de l'âge, des UV et des variations de température. Vérifiez toujours la date de fabrication indiquée sur le flanc, en plus de la profondeur de sculpture."
+        },
+        {
+          "q": "Pourquoi mes pneus s'usent-ils de façon irrégulière ?",
+          "a": "Les causes les plus fréquentes sont une pression mal réglée, un déséquilibrage des roues, une géométrie déréglée ou un style de conduite très concentré sur un seul angle d'inclinaison. Identifier la cause évite de reproduire la même usure sur le pneu de remplacement."
+        },
+        {
+          "q": "Faut-il changer les deux pneus en même temps ?",
+          "a": "Pas systématiquement, mais si l'avant et l'arrière approchent tous deux de leur limite d'usure à quelques mois d'écart, les remplacer ensemble évite un déséquilibre d'adhérence entre les deux roues et simplifie l'entretien."
+        },
+        {
+          "q": "Comment savoir si une hernie sur le pneu est dangereuse ?",
+          "a": "Toute hernie, quelle que soit sa taille, signale une rupture de la structure interne du pneu et impose un remplacement immédiat. Ne roulez pas, même sur un court trajet, avec un pneu présentant une déformation en bosse sur le flanc ou la bande de roulement."
+        }
+      ]
+    }
+  ]
+}
