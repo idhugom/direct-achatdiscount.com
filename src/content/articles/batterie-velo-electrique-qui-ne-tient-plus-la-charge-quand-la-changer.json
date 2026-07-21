@@ -1,0 +1,253 @@
+{
+  "title": "Batterie de vélo électrique qui ne tient plus la charge : quand la changer et combien ça coûte",
+  "slug": "batterie-velo-electrique-qui-ne-tient-plus-la-charge-quand-la-changer",
+  "path": "/divers/batterie-velo-electrique-qui-ne-tient-plus-la-charge-quand-la-changer.html",
+  "category": "auto-moto",
+  "tags": [
+    "batterie vélo électrique",
+    "autonomie vélo électrique",
+    "changer batterie VAE",
+    "durée de vie batterie",
+    "entretien vélo électrique",
+    "vélo à assistance électrique"
+  ],
+  "excerpt": "L'autonomie baisse d'une sortie à l'autre, le vélo coupe plus tôt qu'avant, la charge complète prend moins de kilomètres : voici comment distinguer une batterie fatiguée mais normale d'une batterie à remplacer, et ce que coûte vraiment ce changement.",
+  "metaDescription": "Batterie de vélo électrique qui perd de l'autonomie : signes d'usure normale, durée de vie réelle, prix d'une batterie neuve et gestes pour la préserver plus longtemps.",
+  "seoTitle": "Batterie vélo électrique qui ne tient plus : la changer ?",
+  "heroKicker": "Entretien vélo électrique malin",
+  "readingTime": 9,
+  "date": "2026-07-21T09:05:00",
+  "image": {
+    "id": "gen-batterie-velo-electrique-qui-ne-tient-plus-la-charge-quand-la-changer",
+    "alt": "Batterie de vélo électrique qui ne tient plus la charge : quand la changer et combien ça coûte",
+    "width": 1536,
+    "height": 1024
+  },
+  "featured": false,
+  "sources": [],
+  "blocks": [
+    {
+      "type": "lead",
+      "text": "Une batterie de vélo électrique ne meurt presque jamais du jour au lendemain : elle perd d'abord quelques kilomètres d'autonomie, puis quelques-uns de plus à chaque saison, jusqu'à ce que la question devienne inévitable. Le tout est de savoir si cette baisse correspond à une usure normale, largement prévisible, ou à un signal qu'il est temps d'investir dans une batterie neuve avant qu'elle ne lâche complètement en pleine sortie."
+    },
+    {
+      "type": "key_takeaways",
+      "title": "L'essentiel avant de statuer",
+      "items": [
+        "Une batterie de <strong>vélo à assistance électrique</strong> dure en moyenne <strong>500 à 1000 cycles de charge complets</strong>, soit environ 3 à 6 ans d'usage régulier.",
+        "Une perte d'autonomie <strong>progressive et régulière</strong> d'une saison à l'autre est normale : c'est la nature même d'une batterie lithium-ion qui vieillit.",
+        "Une <strong>chute brutale</strong> de l'autonomie, ou un vélo qui coupe sans prévenir même batterie pleine, signale une cellule défaillante à diagnostiquer rapidement.",
+        "Le <strong>froid</strong> réduit temporairement l'autonomie affichée sans abîmer la batterie : ce n'est pas un signe d'usure à proprement parler.",
+        "Remplacer uniquement la batterie coûte nettement moins cher qu'un vélo neuf, et reste souvent la solution la plus rationnelle passé quelques années d'usage."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comment vieillit vraiment une batterie de vélo électrique",
+      "id": "comment-vieillit-vraiment-une-batterie-de-velo-electrique"
+    },
+    {
+      "type": "paragraph",
+      "html": "La quasi-totalité des batteries de vélos électriques actuels utilisent une technologie <strong>lithium-ion</strong>, qui vieillit selon un mécanisme bien connu : chaque cycle de charge complet use légèrement la capacité de stockage des cellules, de façon irréversible mais progressive. Ce vieillissement n'est pas linéaire de façon brutale : une batterie neuve perd d'abord peu de capacité, puis la baisse s'accentue doucement au fil des cycles, sans jamais tomber en panne franche du jour au lendemain dans un usage normal."
+    },
+    {
+      "type": "paragraph",
+      "html": "Concrètement, une batterie donnée pour <strong>60 km d'autonomie</strong> à l'état neuf peut ne plus offrir que 45 à 50 km après deux à trois ans d'usage intensif, sans que rien ne soit anormal dans ce constat. C'est le rythme de cette baisse, et non son existence, qui doit guider la décision de remplacer ou non la batterie."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "title": "Le cycle de charge, unité de mesure de l'usure",
+      "html": "Un « cycle complet » correspond à l'équivalent d'une charge de 0 à 100 %, qu'elle soit faite en une seule fois ou cumulée sur plusieurs recharges partielles. Recharger la batterie à 60 % puis de nouveau à 90 % compte, au total, moins qu'un cycle complet : c'est justement pour cette raison que les charges partielles régulières ménagent davantage la batterie qu'une décharge complète suivie d'une recharge totale systématique."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Usure normale ou batterie à changer : les bons indices",
+      "id": "usure-normale-ou-batterie-a-changer-les-bons-indices"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le premier réflexe consiste à distinguer une baisse d'autonomie <strong>progressive</strong>, saison après saison, d'un changement <strong>brutal</strong> survenu en quelques sorties seulement. La première est le cours normal des choses pour une batterie lithium-ion ; la seconde mérite un diagnostic, car elle peut signaler une cellule interne défaillante, un problème de connectique, ou un dérèglement du système de gestion de la batterie (le BMS) qui coupe l'alimentation de façon prématurée par sécurité."
+    },
+    {
+      "type": "paragraph",
+      "html": "Un autre signal fiable : le vélo qui coupe l'assistance alors que l'indicateur affiche encore plusieurs barres de charge, ou une batterie qui se décharge anormalement vite au repos, sans même être utilisée. Ces symptômes, contrairement à une simple perte de kilométrage, indiquent généralement un problème plus profond que le vieillissement normal des cellules, et justifient un contrôle chez un professionnel avant de trancher entre réparation et remplacement."
+    },
+    {
+      "type": "table",
+      "caption": "Symptôme par symptôme : usure normale ou panne à diagnostiquer ?",
+      "headers": [
+        "Symptôme",
+        "Cause probable",
+        "À faire"
+      ],
+      "rows": [
+        [
+          "Autonomie qui baisse doucement chaque saison",
+          "Vieillissement normal des cellules lithium-ion",
+          "Surveiller, pas d'action urgente avant plusieurs années"
+        ],
+        [
+          "Autonomie divisée par deux en quelques semaines",
+          "Cellule défaillante ou BMS déréglé",
+          "Diagnostic professionnel rapide"
+        ],
+        [
+          "Assistance qui coupe batterie affichée pleine",
+          "Défaut électronique ou connectique",
+          "Contrôle avant de continuer à rouler"
+        ],
+        [
+          "Autonomie plus faible par temps froid",
+          "Comportement normal du lithium-ion au froid",
+          "Aucune action, l'autonomie remonte avec la chaleur"
+        ],
+        [
+          "Batterie qui se décharge vite au repos",
+          "Auto-décharge anormale, cellule fatiguée",
+          "Faire vérifier avant que le vélo ne reste bloqué"
+        ]
+      ],
+      "note": "Ordres de grandeur généraux : un diagnostic sur banc, chez un vélociste ou le fabricant, reste le seul moyen fiable de mesurer la capacité réelle restante."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Le froid n'use pas la batterie, il la ralentit",
+      "id": "le-froid-nuse-pas-la-batterie-il-la-ralentit"
+    },
+    {
+      "type": "paragraph",
+      "html": "Beaucoup d'utilisateurs s'inquiètent à tort d'une perte d'autonomie hivernale, alors qu'il s'agit d'un comportement chimique tout à fait normal : le froid ralentit les réactions internes de la batterie et réduit temporairement sa capacité disponible, sans l'endommager pour autant, à condition de ne pas la charger lorsqu'elle est gelée. L'autonomie remonte naturellement dès le retour des températures plus clémentes, ce qui distingue nettement cette baisse saisonnière d'une usure réelle et définitive."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Le bon réflexe par temps froid",
+      "html": "Rentrer la batterie à température ambiante avant de la recharger, plutôt que de la brancher directement après une sortie glaciale, préserve sa longévité. Charger une cellule lithium-ion proche de 0 °C accélère son vieillissement bien plus qu'une simple sortie par temps froid sans recharge immédiate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Combien coûte une nouvelle batterie ?",
+      "id": "combien-coute-une-nouvelle-batterie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Le prix d'une batterie de remplacement varie fortement selon sa capacité (exprimée en wattheures) et la marque du système d'assistance électrique. Une batterie d'entrée de gamme, de capacité modeste, se trouve pour un budget contenu, tandis qu'une batterie haut de gamme, de forte capacité, compatible avec un système de marque premium, coûte nettement plus cher. Dans tous les cas, ce remplacement reste très inférieur au prix d'un vélo à assistance électrique neuf, ce qui en fait souvent l'option la plus rationnelle plutôt que de changer tout le vélo."
+    },
+    {
+      "type": "stat",
+      "items": [
+        {
+          "value": "500-1000",
+          "label": "cycles de charge complets avant baisse sensible de capacité"
+        },
+        {
+          "value": "3-6 ans",
+          "label": "durée de vie moyenne d'une batterie en usage régulier"
+        },
+        {
+          "value": "300-800 €",
+          "label": "ordre de grandeur du prix d'une batterie de remplacement compatible"
+        },
+        {
+          "value": "20-30 %",
+          "label": "perte de capacité généralement considérée comme le seuil de remplacement"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Réparer, reconditionner ou remplacer entièrement la batterie",
+      "id": "reparer-reconditionner-ou-remplacer-entierement-la-batterie"
+    },
+    {
+      "type": "paragraph",
+      "html": "Trois options existent selon l'âge de la batterie et le budget disponible. Le <strong>reconditionnement</strong>, proposé par certains ateliers spécialisés, consiste à remplacer uniquement les cellules internes usées à l'intérieur de la coque d'origine : une solution intermédiaire, souvent moins chère qu'une batterie neuve complète, mais qui dépend de la disponibilité de cellules compatibles pour le modèle concerné. La <strong>batterie neuve d'origine constructeur</strong> reste la solution la plus sûre en termes de garantie et de compatibilité, notamment pour préserver la garantie du système d'assistance électrique dans son ensemble."
+    },
+    {
+      "type": "comparison",
+      "title": "Reconditionnement ou batterie neuve : ce qui change",
+      "left": {
+        "title": "Reconditionnement des cellules",
+        "points": [
+          "Coût généralement inférieur à une batterie neuve complète.",
+          "Conserve la coque et le connecteur d'origine, sans adaptation nécessaire.",
+          "Dépend de la disponibilité de cellules compatibles pour le modèle précis.",
+          "Garantie souvent plus limitée qu'une batterie neuve constructeur."
+        ]
+      },
+      "right": {
+        "title": "Batterie neuve constructeur",
+        "points": [
+          "Garantie complète du fabricant sur la nouvelle batterie.",
+          "Compatibilité assurée avec le système d'assistance électrique existant.",
+          "Investissement plus élevé, mais durée de vie repartie à zéro.",
+          "Solution recommandée si le vélo est destiné à rouler encore plusieurs années."
+        ]
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Se méfier des batteries non compatibles à bas prix",
+      "html": "Une batterie de remplacement mal adaptée au système d'assistance électrique du vélo, en particulier sur le plan électronique, peut endommager le moteur, le contrôleur ou tout simplement ne pas être reconnue par le système. Vérifier la compatibilité exacte avec le fabricant du moteur, et pas uniquement avec la marque du vélo, évite une mauvaise surprise coûteuse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Les gestes qui prolongent vraiment la durée de vie",
+      "id": "les-gestes-qui-prolongent-vraiment-la-duree-de-vie"
+    },
+    {
+      "type": "list",
+      "style": "check",
+      "title": "Pour ménager la batterie au quotidien",
+      "items": [
+        "Éviter de la laisser complètement déchargée pendant de longues périodes, notamment en hiver.",
+        "Privilégier les charges partielles régulières plutôt que d'attendre systématiquement la décharge totale.",
+        "Stocker la batterie à température ambiante, ni au grand froid ni en plein soleil, lorsqu'elle n'est pas utilisée.",
+        "La charger à environ 60-80 % pour un stockage prolongé, plutôt qu'à 100 %, si le vélo reste inutilisé plusieurs semaines.",
+        "Utiliser exclusivement le chargeur fourni ou homologué par le fabricant, jamais un chargeur générique non compatible."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "html": "Ces réflexes rejoignent ceux qui s'appliquent à d'autres appareils équipés de batteries lithium-ion du quotidien, comme évoqué dans notre article sur l'<a href=\"/divers/quelle-est-lautonomie-de-votre-cigarette-electronique.html\">autonomie des batteries embarquées</a> : la chimie reste la même, seuls les usages et les capacités changent. Pour les autres équipements électriques de mobilité douce, notre <a href=\"/rubrique/auto-moto/\">rubrique Auto &amp; Moto</a> détaille également l'entretien courant des trottinettes et vélos électriques."
+    },
+    {
+      "type": "faq",
+      "title": "Questions fréquentes sur la batterie de vélo électrique",
+      "items": [
+        {
+          "q": "Peut-on continuer à rouler avec une batterie qui a perdu de l'autonomie ?",
+          "a": "Oui, tant que la baisse reste progressive et que le vélo fonctionne normalement. Une autonomie réduite n'est pas dangereuse en soi, elle limite simplement la distance parcourable par charge, sans affecter la sécurité de conduite."
+        },
+        {
+          "q": "Faut-il décharger complètement la batterie avant de la recharger ?",
+          "a": "Non, contrairement à d'anciennes générations de batteries au nickel, le lithium-ion n'a pas d'effet mémoire. Les recharges partielles régulières sont même préférables aux décharges complètes systématiques pour préserver sa durée de vie."
+        },
+        {
+          "q": "Une batterie de vélo électrique peut-elle être dangereuse en vieillissant ?",
+          "a": "Un vieillissement normal ne présente pas de danger particulier. En revanche, une batterie endommagée physiquement (choc, exposition à l'eau, surchauffe répétée) doit être contrôlée rapidement, car une cellule lithium-ion endommagée présente un risque réel qu'il ne faut pas négliger."
+        },
+        {
+          "q": "Combien de temps dure la charge d'une batterie de vélo électrique ?",
+          "a": "Une charge complète dure généralement plusieurs heures selon la capacité de la batterie et la puissance du chargeur, souvent entre 3 et 6 heures pour une charge de 0 à 100 %, avec un temps plus court pour une charge partielle."
+        },
+        {
+          "q": "Peut-on installer soi-même une batterie de remplacement ?",
+          "a": "Sur de nombreux modèles, la batterie se change facilement soi-même, à condition de choisir un modèle strictement compatible. Sur des systèmes plus intégrés au cadre, l'intervention d'un professionnel est souvent recommandée pour éviter d'endommager la connectique."
+        },
+        {
+          "q": "L'autonomie affichée à l'achat correspond-elle à la réalité ?",
+          "a": "Elle correspond à des conditions optimales (terrain plat, assistance modérée, poids léger, température clémente). En usage réel, avec du dénivelé, un poids plus élevé ou une assistance forte, l'autonomie constatée est presque toujours inférieure à celle annoncée par le fabricant."
+        }
+      ]
+    }
+  ]
+}
